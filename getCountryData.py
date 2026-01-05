@@ -1,3 +1,20 @@
+"""Generate country PDFs from `countries.csv`.
+
+This script reads `countries.csv`, queries the OpenAI API for factual
+information about each country marked with a flag of 'Y', and generates a
+PDF for each country containing sections such as continent, languages,
+population, landmarks, history, important people, current conflicts, and
+five YouTube links. Generated PDFs are saved under `output/<Continent>/`.
+
+Requirements:
+- Set the environment variable `OPENAI_API_KEY` with a valid API key.
+- Install dependencies: `pandas`, `pypdf`/`openai` client as used, and
+  `reportlab` (for PDF creation).
+
+Usage:
+    python getCountryData.py
+"""
+
 import os
 import json
 import pandas as pd
@@ -136,22 +153,10 @@ def create_country_pdf(data: dict, output_dir: str):
     print(f"Created PDF: {file_path}")
 
 # -----------------------------
-# COUNTRY COUNTS
-# -----------------------------
-def display_country_counts(df: pd.DataFrame):
-    counts = df.groupby("continent")["country"].nunique().sort_index()
-    print("Countries per continent:")
-    for continent, count in counts.items():
-        print(f"{continent}: {count}")
-
-# -----------------------------
 # MAIN
 # -----------------------------
 def main():
     df = pd.read_csv("countries.csv")
-
-    # display counts per continent
-    display_country_counts(df)
 
     for _, row in df.iterrows():
         # read flag (default to 'N' if missing) and only process when 'Y'
