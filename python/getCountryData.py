@@ -26,7 +26,8 @@ from reportlab.lib.styles import getSampleStyleSheet
 # -----------------------------
 # CONFIG
 # -----------------------------
-OUTPUT_DIR = "output"
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUTPUT_DIR = os.path.join(ROOT_DIR, "output")
 MODEL = "gpt-4.1-mini"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -156,7 +157,7 @@ def create_country_pdf(data: dict, output_dir: str):
 # MAIN
 # -----------------------------
 def main():
-    df = pd.read_csv("countries.csv")
+    df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "countries.csv"))
 
     for _, row in df.iterrows():
         # read flag (default to 'N' if missing) and only process when 'Y'

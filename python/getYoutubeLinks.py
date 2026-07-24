@@ -15,6 +15,8 @@ import re
 import csv
 import sys
 
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
 try:
     # pypdf is the modern package name; PyPDF2 may also be present
     from pypdf import PdfReader
@@ -79,8 +81,8 @@ def find_pdfs(root: Path):
 
 
 def main():
-    out_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("output")
-    csv_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("youtube_links.csv")
+    out_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT_DIR / "output"
+    csv_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(__file__).resolve().parent / "youtube_links.csv"
 
     if not out_dir.exists():
         print(f"Directory not found: {out_dir}")

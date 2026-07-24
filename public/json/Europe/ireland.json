@@ -1,0 +1,80 @@
+{
+  "country": "Ireland",
+  "continent": "Europe",
+  "languages": [
+    "Irish",
+    "English"
+  ],
+  "population": "5,100,000",
+  "currency": "Euro (EUR)",
+  "area": "70,273",
+  "landmarks": [
+    {
+      "name": "Cliffs of Moher",
+      "writeup": "Dramatic sea cliffs on the west coast offering stunning views over the Atlantic Ocean."
+    },
+    {
+      "name": "Trinity College and The Book of Kells",
+      "writeup": "Historic university in Dublin housing the illuminated manuscript, the Book of Kells."
+    },
+    {
+      "name": "Guinness Storehouse",
+      "writeup": "Famous brewery in Dublin showcasing the history and production of Guinness beer."
+    },
+    {
+      "name": "Ring of Kerry",
+      "writeup": "Scenic circular tourist route in County Kerry featuring mountains, lakes, and coastal views."
+    },
+    {
+      "name": "Newgrange",
+      "writeup": "Ancient passage tomb older than Stonehenge and the Egyptian pyramids, located in County Meath."
+    }
+  ],
+  "head_of_state": "President Michael D. Higgins",
+  "cultural_events": [
+    {
+      "name": "St. Patrick's Festival",
+      "writeup": "Annual celebration on March 17th honoring Ireland's patron saint with parades and cultural events."
+    },
+    {
+      "name": "Galway International Arts Festival",
+      "writeup": "Major arts festival featuring theatre, music, and visual arts held every July."
+    },
+    {
+      "name": "Puck Fair",
+      "writeup": "Traditional festival in Killorglin celebrating a wild goat as king, held in August."
+    }
+  ],
+  "food_writeup": "Irish cuisine features hearty dishes such as stews, soda bread, and seafood, with an emphasis on locally sourced ingredients and traditional recipes.",
+  "brief_history": "Ireland has a rich history from ancient Celtic culture through Viking and Norman invasions, to British rule and eventual independence in the 20th century, now existing as the Republic of Ireland.",
+  "important_people": [
+    {
+      "name": "James Joyce",
+      "description": "Renowned modernist writer"
+    },
+    {
+      "name": "W.B. Yeats",
+      "description": "Nobel Prize-winning poet"
+    },
+    {
+      "name": "Michael Collins",
+      "description": "Leader in the Irish independence movement"
+    },
+    {
+      "name": "Bono",
+      "description": "Lead singer of U2 and activist"
+    },
+    {
+      "name": "Mary Robinson",
+      "description": "Former President and human rights advocate"
+    }
+  ],
+  "current_conflicts": "Ireland is currently peaceful with no active internal or external conflicts.",
+  "five_youtube_video_titles": [
+    "Discover Ireland: Top Attractions and Travel Guide",
+    "History of Ireland: From Ancient Times to Modern Day",
+    "Irish Culture and Traditions Explained",
+    "Irish Food and Drink: A Culinary Journey",
+    "Exploring the Natural Beauty of Ireland"
+  ]
+}
