@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "Liberia is currently stable with no major internal conflicts, focusing on post-war recovery and development.",
   "five_youtube_video_titles": [
-    "Discover Liberia: History and Culture",
-    "Liberia Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Liberia: History and Culture",
+      "video_id": "bIaw-Clm8HA"
+    },
+    {
+      "title": "Liberia Travel Guide - Top Places to Visit",
+      "video_id": "2BdrXXIb9L4"
+    },
     "The Story of Liberia's Independence",
     "Wildlife and Nature in Liberia's Sapo National Park",
     "Liberian Cuisine: Traditional Foods and Recipes"

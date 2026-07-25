@@ -80,8 +80,14 @@
   ],
   "current_conflicts": "Nigeria faces ongoing security challenges including Boko Haram insurgency in the northeast, conflicts between herders and farmers in the Middle Belt, and separatist agitations in the southeast.",
   "five_youtube_video_titles": [
-    "Nigeria: A Country Overview",
-    "Top 10 Places to Visit in Nigeria",
+    {
+      "title": "Nigeria: A Country Overview",
+      "video_id": "h4sWFJFge54"
+    },
+    {
+      "title": "Top 10 Places to Visit in Nigeria",
+      "video_id": "opCsLlRlEa8"
+    },
     "Nigerian Culture and Traditions Explained",
     "The History of Nigeria in 10 Minutes",
     "Nigerian Food Tour: Must-Try Dishes"

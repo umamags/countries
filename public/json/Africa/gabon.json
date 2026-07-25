@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Gabon is generally stable with no significant internal or external conflicts reported as of 2024.",
   "five_youtube_video_titles": [
-    "Discover Gabon: Africa's Hidden Gem",
-    "Gabon Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Gabon: Africa's Hidden Gem",
+      "video_id": "VWKx81_AtAo"
+    },
+    {
+      "title": "Gabon Travel Guide - Top Places to Visit",
+      "video_id": "pcNBOI30vQg"
+    },
     "Wildlife of Gabon National Parks",
     "Gabonese Culture and Traditions Explained",
     "History and Politics of Gabon"

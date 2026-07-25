@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "The country faces occasional political tensions and localized conflicts but no large-scale active warfare.",
   "five_youtube_video_titles": [
-    "Discovering the Republic of the Congo: Culture and Nature",
-    "Odzala-Kokoua National Park Wildlife Tour",
+    {
+      "title": "Discovering the Republic of the Congo: Culture and Nature",
+      "video_id": "nue8deJm3Zo"
+    },
+    {
+      "title": "Odzala-Kokoua National Park Wildlife Tour",
+      "video_id": "2Jsy66qQUrM"
+    },
     "Brazzaville City Guide: Republic of the Congo",
     "Traditional Music and Dance in the Republic of the Congo",
     "History and Politics of the Republic of the Congo Explained"

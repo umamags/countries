@@ -54,8 +54,14 @@
   ],
   "current_conflicts": "Guinea-Bissau faces ongoing political instability and occasional military unrest, but no active large-scale armed conflict.",
   "five_youtube_video_titles": [
-    "Guinea-Bissau: The Hidden Jewel of West Africa",
-    "Exploring the Bijagós Archipelago in Guinea-Bissau",
+    {
+      "title": "Guinea-Bissau: The Hidden Jewel of West Africa",
+      "video_id": "gFEpaDilLkI"
+    },
+    {
+      "title": "Exploring the Bijagós Archipelago in Guinea-Bissau",
+      "video_id": "CX4n8wj72Is"
+    },
     "A Day in Bissau, Guinea-Bissau's Capital City",
     "Guinea-Bissau History and Culture Explained",
     "Traditional Music and Dance of Guinea-Bissau"

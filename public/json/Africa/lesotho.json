@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Lesotho faces internal political tensions and occasional protests but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Lesotho: The Kingdom in the Sky",
-    "Lesotho Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Lesotho: The Kingdom in the Sky",
+      "video_id": "tZmDR_9Xrcw"
+    },
+    {
+      "title": "Lesotho Travel Guide - Top Places to Visit",
+      "video_id": "gn0XUoQzcIU"
+    },
     "Culture and Traditions of Lesotho",
     "Lesotho's Stunning Landscapes and Wildlife",
     "History and Politics of Lesotho Explained"

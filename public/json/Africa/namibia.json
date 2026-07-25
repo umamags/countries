@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Namibia is generally stable with no significant internal conflicts; however, it faces challenges related to land reform and economic inequality.",
   "five_youtube_video_titles": [
-    "Discover Namibia: A Land of Contrasts",
-    "Namibia Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Namibia: A Land of Contrasts",
+      "video_id": "c2ihgBsEHf4"
+    },
+    {
+      "title": "Namibia Travel Guide - Top Places to Visit",
+      "video_id": "GbkL3VDMD2Q"
+    },
     "Wildlife Safari in Etosha National Park, Namibia",
     "The Namib Desert: World's Oldest Desert",
     "Namibia's Culture and Traditions Explained"

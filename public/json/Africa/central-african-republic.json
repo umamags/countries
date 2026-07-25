@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Ongoing internal conflicts involving government forces and multiple rebel groups, leading to humanitarian challenges and displacement.",
   "five_youtube_video_titles": [
-    "Central African Republic: A Country in Crisis",
-    "Exploring the Wildlife of Central African Republic",
+    {
+      "title": "Central African Republic: A Country in Crisis",
+      "video_id": "hYzjCv_iFvw"
+    },
+    {
+      "title": "Exploring the Wildlife of Central African Republic",
+      "video_id": "h9yTwyWdbqM"
+    },
     "History and Culture of the Central African Republic",
     "Life and Challenges in the Central African Republic",
     "Central African Republic Travel Guide"

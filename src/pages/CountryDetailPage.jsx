@@ -1,7 +1,10 @@
+import { useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useContinent } from '../data/IndexContext'
 import { useCountry } from '../data/useCountry'
 import { useFavorites } from '../data/FavoritesContext'
+import WorldMap from '../components/WorldMap'
+import VideoModal from '../components/VideoModal'
 
 function Fact({ label, value }) {
   if (!value) return null
@@ -30,11 +33,38 @@ function NamedList({ title, items, textKey }) {
   )
 }
 
+function VideoList({ items, onPlay }) {
+  if (!items || items.length === 0) return null
+  return (
+    <section className="detail-section">
+      <h3>Suggested Videos</h3>
+      <ul className="plain-list">
+        {items.map((item, i) => {
+          const title = typeof item === 'string' ? item : item.title
+          const videoId = typeof item === 'string' ? null : item.video_id
+          return (
+            <li key={i}>
+              {videoId ? (
+                <button type="button" className="video-link" onClick={() => onPlay({ title, videoId })}>
+                  ▶ {title}
+                </button>
+              ) : (
+                title
+              )}
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  )
+}
+
 export default function CountryDetailPage() {
   const { continentSlug, countrySlug } = useParams()
   const { continent, status: indexStatus } = useContinent(continentSlug)
   const { status, data, error } = useCountry(continent?.name, countrySlug)
   const { isFavorite, toggleFavorite } = useFavorites()
+  const [activeVideo, setActiveVideo] = useState(null)
 
   if (indexStatus === 'loading') return <p className="status">Loading…</p>
   if (!continent) return <p className="status status-error">Continent not found.</p>
@@ -48,6 +78,7 @@ export default function CountryDetailPage() {
     continentName: continent.name,
   }
   const favorited = isFavorite(favoriteEntry)
+  const mapName = continent.countries.find((c) => c.slug === countrySlug)?.map_name
 
   return (
     <div className="page">
@@ -63,6 +94,10 @@ export default function CountryDetailPage() {
         >
           {favorited ? '★ Remove from Favorites' : '☆ Add to Favorite'}
         </button>
+      </div>
+
+      <div className="map-container map-container-focus">
+        <WorldMap mode="country" focusName={mapName} height={220} />
       </div>
 
       <dl className="facts">
@@ -100,15 +135,14 @@ export default function CountryDetailPage() {
         </section>
       )}
 
-      {data.five_youtube_video_titles?.length > 0 && (
-        <section className="detail-section">
-          <h3>Suggested Videos</h3>
-          <ul className="plain-list">
-            {data.five_youtube_video_titles.map((title, i) => (
-              <li key={i}>{title}</li>
-            ))}
-          </ul>
-        </section>
+      <VideoList items={data.five_youtube_video_titles} onPlay={setActiveVideo} />
+
+      {activeVideo && (
+        <VideoModal
+          title={activeVideo.title}
+          videoId={activeVideo.videoId}
+          onClose={() => setActiveVideo(null)}
+        />
       )}
     </div>
   )

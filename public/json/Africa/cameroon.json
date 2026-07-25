@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Cameroon faces ongoing conflicts primarily in the Anglophone regions, where separatist movements seek independence, leading to clashes with government forces and humanitarian challenges.",
   "five_youtube_video_titles": [
-    "Discover Cameroon: Culture, Nature, and People",
-    "Mount Cameroon Hike - Africa's Highest Peak",
+    {
+      "title": "Discover Cameroon: Culture, Nature, and People",
+      "video_id": "TNugLK3Ffgs"
+    },
+    {
+      "title": "Mount Cameroon Hike - Africa's Highest Peak",
+      "video_id": "M8YW5AopCt8"
+    },
     "Cameroon's Wildlife: Exploring Waza National Park",
     "Traditional Festivals of Cameroon - Ngondo Festival",
     "Cameroon: History and Contemporary Issues Explained"

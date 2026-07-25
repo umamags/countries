@@ -66,8 +66,14 @@
   ],
   "current_conflicts": "Tense relations and occasional border disputes with Ethiopia persist despite a 2018 peace agreement; internal political repression and human rights concerns are also reported.",
   "five_youtube_video_titles": [
-    "Eritrea: The Hidden Gem of the Horn of Africa",
-    "Asmara: A Modernist City Frozen in Time",
+    {
+      "title": "Eritrea: The Hidden Gem of the Horn of Africa",
+      "video_id": "OT6y7Ygj2bc"
+    },
+    {
+      "title": "Asmara: A Modernist City Frozen in Time",
+      "video_id": "a8HyHgjazLA"
+    },
     "Exploring the Dahlak Archipelago - Eritrea's Red Sea Paradise",
     "Eritrea's Struggle for Independence and Nation Building",
     "Traditional Eritrean Food and Culture"

@@ -57,8 +57,14 @@
   ],
   "current_conflicts": "Burkina Faso faces ongoing security challenges due to jihadist insurgencies and inter-communal violence, particularly in the northern and eastern regions.",
   "five_youtube_video_titles": [
-    "Burkina Faso: A Country Overview",
-    "Exploring Ouagadougou - Capital of Burkina Faso",
+    {
+      "title": "Burkina Faso: A Country Overview",
+      "video_id": "gFe3qVNnhEU"
+    },
+    {
+      "title": "Exploring Ouagadougou - Capital of Burkina Faso",
+      "video_id": "itNcvAo39f0"
+    },
     "FESPACO Film Festival Highlights",
     "Traditional Music and Dance of Burkina Faso",
     "Security Challenges in Burkina Faso Explained"

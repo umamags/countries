@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Malawi is generally peaceful but faces challenges related to poverty, governance, and occasional political tensions.",
   "five_youtube_video_titles": [
-    "Discover Malawi: The Warm Heart of Africa",
-    "Lake Malawi National Park - Wildlife and Scenery",
+    {
+      "title": "Discover Malawi: The Warm Heart of Africa",
+      "video_id": "0WC1dvpBVqo"
+    },
+    {
+      "title": "Lake Malawi National Park - Wildlife and Scenery",
+      "video_id": "_CH09cDM6jQ"
+    },
     "Malawi Travel Guide - Top Attractions and Tips",
     "Cultural Traditions of Malawi - Gule Wamkulu Dance",
     "Malawi's History and Politics Explained"

@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import { useContinent, useCountriesIndex } from '../data/IndexContext'
 import { useFavorites } from '../data/FavoritesContext'
+import WorldMap from '../components/WorldMap'
 
 export default function CountryListPage() {
   const { continentSlug } = useParams()
@@ -11,6 +12,8 @@ export default function CountryListPage() {
   if (indexStatus === 'loading') return <p className="status">Loading…</p>
   if (!continent) return <p className="status status-error">Continent not found.</p>
 
+  const highlightNames = continent.countries.map((c) => c.map_name).filter(Boolean)
+
   return (
     <div className="page">
       <Link to="/" className="back-link">
@@ -20,6 +23,9 @@ export default function CountryListPage() {
       <p className="subtitle">
         {continent.countryCount} {continent.countryCount === 1 ? 'country' : 'countries'}
       </p>
+      <div className="map-container">
+        <WorldMap mode="continent" highlightNames={highlightNames} />
+      </div>
       <div className="grid grid-countries">
         {continent.countries.map((country) => {
           const favoriteEntry = {

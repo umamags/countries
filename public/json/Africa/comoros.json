@@ -52,8 +52,14 @@
   ],
   "current_conflicts": "Comoros faces political instability and occasional tensions related to secessionist movements, particularly on the island of Anjouan.",
   "five_youtube_video_titles": [
-    "Discovering Comoros: Africa's Hidden Gem",
-    "Comoros Travel Guide - What to See and Do",
+    {
+      "title": "Discovering Comoros: Africa's Hidden Gem",
+      "video_id": "lTZMaDOe2TE"
+    },
+    {
+      "title": "Comoros Travel Guide - What to See and Do",
+      "video_id": "V_u_BNPFCxY"
+    },
     "The Culture and Traditions of Comoros",
     "Mount Karthala Volcano Hike in Comoros",
     "Comorian Cuisine: Flavors of the Indian Ocean"

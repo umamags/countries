@@ -58,8 +58,14 @@
   ],
   "current_conflicts": "Niger faces security challenges from militant groups in the Sahel region, including Boko Haram and ISIS affiliates, impacting stability and development.",
   "five_youtube_video_titles": [
-    "Discover Niger: Land of the Sahara and Sahel",
-    "Niger Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Niger: Land of the Sahara and Sahel",
+      "video_id": "GKNetEjotS8"
+    },
+    {
+      "title": "Niger Travel Guide - Top Places to Visit",
+      "video_id": "lWsfBEr_w4o"
+    },
     "Cure Salée Festival - The Nomadic Gathering in Niger",
     "Wildlife of W National Park, Niger",
     "Niger: History, Culture, and Challenges"

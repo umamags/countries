@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Botswana is generally peaceful with no significant internal or external conflicts at present.",
   "five_youtube_video_titles": [
-    "Discover Botswana: The Jewel of Southern Africa",
-    "Wildlife Safari in Botswana's Okavango Delta",
+    {
+      "title": "Discover Botswana: The Jewel of Southern Africa",
+      "video_id": "WL-6jEbZX9U"
+    },
+    {
+      "title": "Wildlife Safari in Botswana's Okavango Delta",
+      "video_id": "ZQnm_63Fr1I"
+    },
     "Botswana's Culture and Traditions Explained",
     "History and Politics of Botswana",
     "Top 10 Places to Visit in Botswana"

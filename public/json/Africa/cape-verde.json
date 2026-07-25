@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Cape Verde is currently peaceful with no significant internal or external conflicts.",
   "five_youtube_video_titles": [
-    "Discover Cape Verde: Islands of Culture and Nature",
-    "Cape Verde Travel Guide - Top Things to Do",
+    {
+      "title": "Discover Cape Verde: Islands of Culture and Nature",
+      "video_id": "4wjlZ_RKHk8"
+    },
+    {
+      "title": "Cape Verde Travel Guide - Top Things to Do",
+      "video_id": "xyGruPlNp7A"
+    },
     "The Music and Soul of Cape Verde",
     "Exploring Fogo Volcano in Cape Verde",
     "Cape Verde History and Culture Overview"

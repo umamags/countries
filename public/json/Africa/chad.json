@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Chad faces ongoing security challenges from armed groups in the Lake Chad Basin and border tensions with neighboring countries.",
   "five_youtube_video_titles": [
-    "Discover Chad: Africa's Hidden Gem",
-    "Wildlife of Zakouma National Park, Chad",
+    {
+      "title": "Discover Chad: Africa's Hidden Gem",
+      "video_id": "pkanzKIzEts"
+    },
+    {
+      "title": "Wildlife of Zakouma National Park, Chad",
+      "video_id": "Et-7D_ZI1oA"
+    },
     "The Enigmatic Ennedi Plateau - Chad's Natural Wonder",
     "Chad: History, Culture, and Challenges",
     "Life and Traditions of the Wodaabe People in Chad"

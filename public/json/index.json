@@ -7,223 +7,278 @@
       "countries": [
         {
           "name": "Algeria",
-          "slug": "algeria"
+          "slug": "algeria",
+          "map_name": "Algeria"
         },
         {
           "name": "Angola",
-          "slug": "angola"
+          "slug": "angola",
+          "map_name": "Angola"
         },
         {
           "name": "Benin",
-          "slug": "benin"
+          "slug": "benin",
+          "map_name": "Benin"
         },
         {
           "name": "Botswana",
-          "slug": "botswana"
+          "slug": "botswana",
+          "map_name": "Botswana"
         },
         {
           "name": "Burkina Faso",
-          "slug": "burkina-faso"
+          "slug": "burkina-faso",
+          "map_name": "Burkina Faso"
         },
         {
           "name": "Burundi",
-          "slug": "burundi"
+          "slug": "burundi",
+          "map_name": "Burundi"
         },
         {
           "name": "Cameroon",
-          "slug": "cameroon"
+          "slug": "cameroon",
+          "map_name": "Cameroon"
         },
         {
           "name": "Cape Verde",
-          "slug": "cape-verde"
+          "slug": "cape-verde",
+          "map_name": "Cabo Verde"
         },
         {
           "name": "Central African Republic",
-          "slug": "central-african-republic"
+          "slug": "central-african-republic",
+          "map_name": "Central African Rep."
         },
         {
           "name": "Chad",
-          "slug": "chad"
+          "slug": "chad",
+          "map_name": "Chad"
         },
         {
           "name": "Comoros",
-          "slug": "comoros"
+          "slug": "comoros",
+          "map_name": "Comoros"
         },
         {
           "name": "Côte d'Ivoire",
-          "slug": "cote-d-ivoire"
+          "slug": "cote-d-ivoire",
+          "map_name": "Côte d'Ivoire"
         },
         {
           "name": "Democratic Republic of the Congo",
-          "slug": "democratic-republic-of-the-congo"
+          "slug": "democratic-republic-of-the-congo",
+          "map_name": "Dem. Rep. Congo"
         },
         {
           "name": "Djibouti",
-          "slug": "djibouti"
+          "slug": "djibouti",
+          "map_name": "Djibouti"
         },
         {
           "name": "Egypt",
-          "slug": "egypt"
+          "slug": "egypt",
+          "map_name": "Egypt"
         },
         {
           "name": "Equatorial Guinea",
-          "slug": "equatorial-guinea"
+          "slug": "equatorial-guinea",
+          "map_name": "Eq. Guinea"
         },
         {
           "name": "Eritrea",
-          "slug": "eritrea"
+          "slug": "eritrea",
+          "map_name": "Eritrea"
         },
         {
           "name": "Eswatini",
-          "slug": "eswatini"
+          "slug": "eswatini",
+          "map_name": "eSwatini"
         },
         {
           "name": "Ethiopia",
-          "slug": "ethiopia"
+          "slug": "ethiopia",
+          "map_name": "Ethiopia"
         },
         {
           "name": "Gabon",
-          "slug": "gabon"
+          "slug": "gabon",
+          "map_name": "Gabon"
         },
         {
           "name": "Gambia",
-          "slug": "gambia"
+          "slug": "gambia",
+          "map_name": "Gambia"
         },
         {
           "name": "Ghana",
-          "slug": "ghana"
+          "slug": "ghana",
+          "map_name": "Ghana"
         },
         {
           "name": "Guinea",
-          "slug": "guinea"
+          "slug": "guinea",
+          "map_name": "Guinea"
         },
         {
           "name": "Guinea-Bissau",
-          "slug": "guinea-bissau"
+          "slug": "guinea-bissau",
+          "map_name": "Guinea-Bissau"
         },
         {
           "name": "Kenya",
-          "slug": "kenya"
+          "slug": "kenya",
+          "map_name": "Kenya"
         },
         {
           "name": "Lesotho",
-          "slug": "lesotho"
+          "slug": "lesotho",
+          "map_name": "Lesotho"
         },
         {
           "name": "Liberia",
-          "slug": "liberia"
+          "slug": "liberia",
+          "map_name": "Liberia"
         },
         {
           "name": "Libya",
-          "slug": "libya"
+          "slug": "libya",
+          "map_name": "Libya"
         },
         {
           "name": "Madagascar",
-          "slug": "madagascar"
+          "slug": "madagascar",
+          "map_name": "Madagascar"
         },
         {
           "name": "Malawi",
-          "slug": "malawi"
+          "slug": "malawi",
+          "map_name": "Malawi"
         },
         {
           "name": "Mali",
-          "slug": "mali"
+          "slug": "mali",
+          "map_name": "Mali"
         },
         {
           "name": "Mauritania",
-          "slug": "mauritania"
+          "slug": "mauritania",
+          "map_name": "Mauritania"
         },
         {
           "name": "Mauritius",
-          "slug": "mauritius"
+          "slug": "mauritius",
+          "map_name": "Mauritius"
         },
         {
           "name": "Morocco",
-          "slug": "morocco"
+          "slug": "morocco",
+          "map_name": "Morocco"
         },
         {
           "name": "Mozambique",
-          "slug": "mozambique"
+          "slug": "mozambique",
+          "map_name": "Mozambique"
         },
         {
           "name": "Namibia",
-          "slug": "namibia"
+          "slug": "namibia",
+          "map_name": "Namibia"
         },
         {
           "name": "Niger",
-          "slug": "niger"
+          "slug": "niger",
+          "map_name": "Niger"
         },
         {
           "name": "Nigeria",
-          "slug": "nigeria"
+          "slug": "nigeria",
+          "map_name": "Nigeria"
         },
         {
           "name": "Republic of the Congo",
-          "slug": "republic-of-the-congo"
+          "slug": "republic-of-the-congo",
+          "map_name": "Congo"
         },
         {
           "name": "Rwanda",
-          "slug": "rwanda"
+          "slug": "rwanda",
+          "map_name": "Rwanda"
         },
         {
           "name": "Sao Tome and Principe",
-          "slug": "sao-tome-and-principe"
+          "slug": "sao-tome-and-principe",
+          "map_name": "São Tomé and Principe"
         },
         {
           "name": "Senegal",
-          "slug": "senegal"
+          "slug": "senegal",
+          "map_name": "Senegal"
         },
         {
           "name": "Seychelles",
-          "slug": "seychelles"
+          "slug": "seychelles",
+          "map_name": "Seychelles"
         },
         {
           "name": "Sierra Leone",
-          "slug": "sierra-leone"
+          "slug": "sierra-leone",
+          "map_name": "Sierra Leone"
         },
         {
           "name": "Somalia",
-          "slug": "somalia"
+          "slug": "somalia",
+          "map_name": "Somalia"
         },
         {
           "name": "South Africa",
-          "slug": "south-africa"
+          "slug": "south-africa",
+          "map_name": "South Africa"
         },
         {
           "name": "South Sudan",
-          "slug": "south-sudan"
+          "slug": "south-sudan",
+          "map_name": "S. Sudan"
         },
         {
           "name": "Sudan",
-          "slug": "sudan"
+          "slug": "sudan",
+          "map_name": "Sudan"
         },
         {
           "name": "Tanzania",
-          "slug": "tanzania"
+          "slug": "tanzania",
+          "map_name": "Tanzania"
         },
         {
           "name": "Togo",
-          "slug": "togo"
+          "slug": "togo",
+          "map_name": "Togo"
         },
         {
           "name": "Tunisia",
-          "slug": "tunisia"
+          "slug": "tunisia",
+          "map_name": "Tunisia"
         },
         {
           "name": "Uganda",
-          "slug": "uganda"
+          "slug": "uganda",
+          "map_name": "Uganda"
         },
         {
           "name": "Western Sahara",
-          "slug": "western-sahara"
+          "slug": "western-sahara",
+          "map_name": "W. Sahara"
         },
         {
           "name": "Zambia",
-          "slug": "zambia"
+          "slug": "zambia",
+          "map_name": "Zambia"
         },
         {
           "name": "Zimbabwe",
-          "slug": "zimbabwe"
+          "slug": "zimbabwe",
+          "map_name": "Zimbabwe"
         }
       ]
     },
@@ -234,7 +289,8 @@
       "countries": [
         {
           "name": "Antarctica",
-          "slug": "antarctica"
+          "slug": "antarctica",
+          "map_name": "Antarctica"
         }
       ]
     },
@@ -245,191 +301,238 @@
       "countries": [
         {
           "name": "Afghanistan",
-          "slug": "afghanistan"
+          "slug": "afghanistan",
+          "map_name": "Afghanistan"
         },
         {
           "name": "Armenia",
-          "slug": "armenia"
+          "slug": "armenia",
+          "map_name": "Armenia"
         },
         {
           "name": "Azerbaijan",
-          "slug": "azerbaijan"
+          "slug": "azerbaijan",
+          "map_name": "Azerbaijan"
         },
         {
           "name": "Bahrain",
-          "slug": "bahrain"
+          "slug": "bahrain",
+          "map_name": "Bahrain"
         },
         {
           "name": "Bangladesh",
-          "slug": "bangladesh"
+          "slug": "bangladesh",
+          "map_name": "Bangladesh"
         },
         {
           "name": "Bhutan",
-          "slug": "bhutan"
+          "slug": "bhutan",
+          "map_name": "Bhutan"
         },
         {
           "name": "Brunei",
-          "slug": "brunei"
+          "slug": "brunei",
+          "map_name": "Brunei"
         },
         {
           "name": "Cambodia",
-          "slug": "cambodia"
+          "slug": "cambodia",
+          "map_name": "Cambodia"
         },
         {
           "name": "China",
-          "slug": "china"
+          "slug": "china",
+          "map_name": "China"
         },
         {
           "name": "Georgia",
-          "slug": "georgia"
+          "slug": "georgia",
+          "map_name": "Georgia"
         },
         {
           "name": "India",
-          "slug": "india"
+          "slug": "india",
+          "map_name": "India"
         },
         {
           "name": "Indonesia",
-          "slug": "indonesia"
+          "slug": "indonesia",
+          "map_name": "Indonesia"
         },
         {
           "name": "Iran",
-          "slug": "iran"
+          "slug": "iran",
+          "map_name": "Iran"
         },
         {
           "name": "Iraq",
-          "slug": "iraq"
+          "slug": "iraq",
+          "map_name": "Iraq"
         },
         {
           "name": "Israel",
-          "slug": "israel"
+          "slug": "israel",
+          "map_name": "Israel"
         },
         {
           "name": "Japan",
-          "slug": "japan"
+          "slug": "japan",
+          "map_name": "Japan"
         },
         {
           "name": "Jordan",
-          "slug": "jordan"
+          "slug": "jordan",
+          "map_name": "Jordan"
         },
         {
           "name": "Kazakhstan",
-          "slug": "kazakhstan"
+          "slug": "kazakhstan",
+          "map_name": "Kazakhstan"
         },
         {
           "name": "Kuwait",
-          "slug": "kuwait"
+          "slug": "kuwait",
+          "map_name": "Kuwait"
         },
         {
           "name": "Kyrgyzstan",
-          "slug": "kyrgyzstan"
+          "slug": "kyrgyzstan",
+          "map_name": "Kyrgyzstan"
         },
         {
           "name": "Laos",
-          "slug": "laos"
+          "slug": "laos",
+          "map_name": "Laos"
         },
         {
           "name": "Lebanon",
-          "slug": "lebanon"
+          "slug": "lebanon",
+          "map_name": "Lebanon"
         },
         {
           "name": "Malaysia",
-          "slug": "malaysia"
+          "slug": "malaysia",
+          "map_name": "Malaysia"
         },
         {
           "name": "Maldives",
-          "slug": "maldives"
+          "slug": "maldives",
+          "map_name": "Maldives"
         },
         {
           "name": "Mongolia",
-          "slug": "mongolia"
+          "slug": "mongolia",
+          "map_name": "Mongolia"
         },
         {
           "name": "Myanmar",
-          "slug": "myanmar"
+          "slug": "myanmar",
+          "map_name": "Myanmar"
         },
         {
           "name": "Nepal",
-          "slug": "nepal"
+          "slug": "nepal",
+          "map_name": "Nepal"
         },
         {
           "name": "North Korea",
-          "slug": "north-korea"
+          "slug": "north-korea",
+          "map_name": "North Korea"
         },
         {
           "name": "Oman",
-          "slug": "oman"
+          "slug": "oman",
+          "map_name": "Oman"
         },
         {
           "name": "Pakistan",
-          "slug": "pakistan"
+          "slug": "pakistan",
+          "map_name": "Pakistan"
         },
         {
           "name": "Palestine",
-          "slug": "palestine"
+          "slug": "palestine",
+          "map_name": "Palestine"
         },
         {
           "name": "Philippines",
-          "slug": "philippines"
+          "slug": "philippines",
+          "map_name": "Philippines"
         },
         {
           "name": "Qatar",
-          "slug": "qatar"
+          "slug": "qatar",
+          "map_name": "Qatar"
         },
         {
           "name": "Saudi Arabia",
-          "slug": "saudi-arabia"
+          "slug": "saudi-arabia",
+          "map_name": "Saudi Arabia"
         },
         {
           "name": "Singapore",
-          "slug": "singapore"
+          "slug": "singapore",
+          "map_name": "Singapore"
         },
         {
           "name": "South Korea",
-          "slug": "south-korea"
+          "slug": "south-korea",
+          "map_name": "South Korea"
         },
         {
           "name": "Sri Lanka",
-          "slug": "sri-lanka"
+          "slug": "sri-lanka",
+          "map_name": "Sri Lanka"
         },
         {
           "name": "Syria",
-          "slug": "syria"
+          "slug": "syria",
+          "map_name": "Syria"
         },
         {
           "name": "Taiwan",
-          "slug": "taiwan"
+          "slug": "taiwan",
+          "map_name": "Taiwan"
         },
         {
           "name": "Tajikistan",
-          "slug": "tajikistan"
+          "slug": "tajikistan",
+          "map_name": "Tajikistan"
         },
         {
           "name": "Thailand",
-          "slug": "thailand"
+          "slug": "thailand",
+          "map_name": "Thailand"
         },
         {
           "name": "Timor-Leste",
-          "slug": "timor-leste"
+          "slug": "timor-leste",
+          "map_name": "Timor-Leste"
         },
         {
           "name": "Turkmenistan",
-          "slug": "turkmenistan"
+          "slug": "turkmenistan",
+          "map_name": "Turkmenistan"
         },
         {
           "name": "United Arab Emirates",
-          "slug": "united-arab-emirates"
+          "slug": "united-arab-emirates",
+          "map_name": "United Arab Emirates"
         },
         {
           "name": "Uzbekistan",
-          "slug": "uzbekistan"
+          "slug": "uzbekistan",
+          "map_name": "Uzbekistan"
         },
         {
           "name": "Vietnam",
-          "slug": "vietnam"
+          "slug": "vietnam",
+          "map_name": "Vietnam"
         },
         {
           "name": "Yemen",
-          "slug": "yemen"
+          "slug": "yemen",
+          "map_name": "Yemen"
         }
       ]
     },
@@ -440,91 +543,113 @@
       "countries": [
         {
           "name": "American Samoa",
-          "slug": "american-samoa"
+          "slug": "american-samoa",
+          "map_name": "American Samoa"
         },
         {
           "name": "Australia",
-          "slug": "australia"
+          "slug": "australia",
+          "map_name": "Australia"
         },
         {
           "name": "Christmas Island",
-          "slug": "christmas-island"
+          "slug": "christmas-island",
+          "map_name": null
         },
         {
           "name": "Cocos (Keeling) Islands",
-          "slug": "cocos-keeling-islands"
+          "slug": "cocos-keeling-islands",
+          "map_name": null
         },
         {
           "name": "Cook Islands",
-          "slug": "cook-islands"
+          "slug": "cook-islands",
+          "map_name": "Cook Is."
         },
         {
           "name": "Federated States of Micronesia",
-          "slug": "federated-states-of-micronesia"
+          "slug": "federated-states-of-micronesia",
+          "map_name": "Micronesia"
         },
         {
           "name": "Fiji",
-          "slug": "fiji"
+          "slug": "fiji",
+          "map_name": "Fiji"
         },
         {
           "name": "French Polynesia",
-          "slug": "french-polynesia"
+          "slug": "french-polynesia",
+          "map_name": "Fr. Polynesia"
         },
         {
           "name": "Guam",
-          "slug": "guam"
+          "slug": "guam",
+          "map_name": "Guam"
         },
         {
           "name": "Kiribati",
-          "slug": "kiribati"
+          "slug": "kiribati",
+          "map_name": "Kiribati"
         },
         {
           "name": "Marshall Islands",
-          "slug": "marshall-islands"
+          "slug": "marshall-islands",
+          "map_name": "Marshall Is."
         },
         {
           "name": "Nauru",
-          "slug": "nauru"
+          "slug": "nauru",
+          "map_name": "Nauru"
         },
         {
           "name": "New Caledonia",
-          "slug": "new-caledonia"
+          "slug": "new-caledonia",
+          "map_name": "New Caledonia"
         },
         {
           "name": "New Zealand",
-          "slug": "new-zealand"
+          "slug": "new-zealand",
+          "map_name": "New Zealand"
         },
         {
           "name": "Niue",
-          "slug": "niue"
+          "slug": "niue",
+          "map_name": "Niue"
         },
         {
           "name": "Palau",
-          "slug": "palau"
+          "slug": "palau",
+          "map_name": "Palau"
         },
         {
           "name": "Papua New Guinea",
-          "slug": "papua-new-guinea"
+          "slug": "papua-new-guinea",
+          "map_name": "Papua New Guinea"
         },
         {
           "name": "Samoa",
-          "slug": "samoa"
+          "slug": "samoa",
+          "map_name": "Samoa"
         },
         {
           "name": "Solomon Islands",
-          "slug": "solomon-islands"
+          "slug": "solomon-islands",
+          "map_name": "Solomon Is."
         },
         {
           "name": "Tonga",
-          "slug": "tonga"
+          "slug": "tonga",
+          "map_name": "Tonga"
         },
         {
           "name": "Tuvalu",
-          "slug": "tuvalu"
+          "slug": "tuvalu",
+          "map_name": null
         },
         {
           "name": "Vanuatu",
-          "slug": "vanuatu"
+          "slug": "vanuatu",
+          "map_name": "Vanuatu"
         }
       ]
     },
@@ -535,191 +660,238 @@
       "countries": [
         {
           "name": "Albania",
-          "slug": "albania"
+          "slug": "albania",
+          "map_name": "Albania"
         },
         {
           "name": "Andorra",
-          "slug": "andorra"
+          "slug": "andorra",
+          "map_name": "Andorra"
         },
         {
           "name": "Austria",
-          "slug": "austria"
+          "slug": "austria",
+          "map_name": "Austria"
         },
         {
           "name": "Belarus",
-          "slug": "belarus"
+          "slug": "belarus",
+          "map_name": "Belarus"
         },
         {
           "name": "Belgium",
-          "slug": "belgium"
+          "slug": "belgium",
+          "map_name": "Belgium"
         },
         {
           "name": "Bosnia and Herzegovina",
-          "slug": "bosnia-and-herzegovina"
+          "slug": "bosnia-and-herzegovina",
+          "map_name": "Bosnia and Herz."
         },
         {
           "name": "Bulgaria",
-          "slug": "bulgaria"
+          "slug": "bulgaria",
+          "map_name": "Bulgaria"
         },
         {
           "name": "Croatia",
-          "slug": "croatia"
+          "slug": "croatia",
+          "map_name": "Croatia"
         },
         {
           "name": "Cyprus",
-          "slug": "cyprus"
+          "slug": "cyprus",
+          "map_name": "Cyprus"
         },
         {
           "name": "Czech Republic",
-          "slug": "czech-republic"
+          "slug": "czech-republic",
+          "map_name": "Czechia"
         },
         {
           "name": "Denmark",
-          "slug": "denmark"
+          "slug": "denmark",
+          "map_name": "Denmark"
         },
         {
           "name": "Estonia",
-          "slug": "estonia"
+          "slug": "estonia",
+          "map_name": "Estonia"
         },
         {
           "name": "Finland",
-          "slug": "finland"
+          "slug": "finland",
+          "map_name": "Finland"
         },
         {
           "name": "France",
-          "slug": "france"
+          "slug": "france",
+          "map_name": "France"
         },
         {
           "name": "Germany",
-          "slug": "germany"
+          "slug": "germany",
+          "map_name": "Germany"
         },
         {
           "name": "Greece",
-          "slug": "greece"
+          "slug": "greece",
+          "map_name": "Greece"
         },
         {
           "name": "Hungary",
-          "slug": "hungary"
+          "slug": "hungary",
+          "map_name": "Hungary"
         },
         {
           "name": "Iceland",
-          "slug": "iceland"
+          "slug": "iceland",
+          "map_name": "Iceland"
         },
         {
           "name": "Ireland",
-          "slug": "ireland"
+          "slug": "ireland",
+          "map_name": "Ireland"
         },
         {
           "name": "Italy",
-          "slug": "italy"
+          "slug": "italy",
+          "map_name": "Italy"
         },
         {
           "name": "Kosovo",
-          "slug": "kosovo"
+          "slug": "kosovo",
+          "map_name": "Kosovo"
         },
         {
           "name": "Latvia",
-          "slug": "latvia"
+          "slug": "latvia",
+          "map_name": "Latvia"
         },
         {
           "name": "Liechtenstein",
-          "slug": "liechtenstein"
+          "slug": "liechtenstein",
+          "map_name": "Liechtenstein"
         },
         {
           "name": "Lithuania",
-          "slug": "lithuania"
+          "slug": "lithuania",
+          "map_name": "Lithuania"
         },
         {
           "name": "Luxembourg",
-          "slug": "luxembourg"
+          "slug": "luxembourg",
+          "map_name": "Luxembourg"
         },
         {
           "name": "Malta",
-          "slug": "malta"
+          "slug": "malta",
+          "map_name": "Malta"
         },
         {
           "name": "Moldova",
-          "slug": "moldova"
+          "slug": "moldova",
+          "map_name": "Moldova"
         },
         {
           "name": "Monaco",
-          "slug": "monaco"
+          "slug": "monaco",
+          "map_name": "Monaco"
         },
         {
           "name": "Montenegro",
-          "slug": "montenegro"
+          "slug": "montenegro",
+          "map_name": "Montenegro"
         },
         {
           "name": "Netherlands",
-          "slug": "netherlands"
+          "slug": "netherlands",
+          "map_name": "Netherlands"
         },
         {
           "name": "North Macedonia",
-          "slug": "north-macedonia"
+          "slug": "north-macedonia",
+          "map_name": "Macedonia"
         },
         {
           "name": "Norway",
-          "slug": "norway"
+          "slug": "norway",
+          "map_name": "Norway"
         },
         {
           "name": "Poland",
-          "slug": "poland"
+          "slug": "poland",
+          "map_name": "Poland"
         },
         {
           "name": "Portugal",
-          "slug": "portugal"
+          "slug": "portugal",
+          "map_name": "Portugal"
         },
         {
           "name": "Romania",
-          "slug": "romania"
+          "slug": "romania",
+          "map_name": "Romania"
         },
         {
           "name": "Russia",
-          "slug": "russia"
+          "slug": "russia",
+          "map_name": "Russia"
         },
         {
           "name": "San Marino",
-          "slug": "san-marino"
+          "slug": "san-marino",
+          "map_name": "San Marino"
         },
         {
           "name": "Serbia",
-          "slug": "serbia"
+          "slug": "serbia",
+          "map_name": "Serbia"
         },
         {
           "name": "Slovakia",
-          "slug": "slovakia"
+          "slug": "slovakia",
+          "map_name": "Slovakia"
         },
         {
           "name": "Slovenia",
-          "slug": "slovenia"
+          "slug": "slovenia",
+          "map_name": "Slovenia"
         },
         {
           "name": "Spain",
-          "slug": "spain"
+          "slug": "spain",
+          "map_name": "Spain"
         },
         {
           "name": "Sweden",
-          "slug": "sweden"
+          "slug": "sweden",
+          "map_name": "Sweden"
         },
         {
           "name": "Switzerland",
-          "slug": "switzerland"
+          "slug": "switzerland",
+          "map_name": "Switzerland"
         },
         {
           "name": "Turkey",
-          "slug": "turkey"
+          "slug": "turkey",
+          "map_name": "Turkey"
         },
         {
           "name": "Ukraine",
-          "slug": "ukraine"
+          "slug": "ukraine",
+          "map_name": "Ukraine"
         },
         {
           "name": "United Kingdom",
-          "slug": "united-kingdom"
+          "slug": "united-kingdom",
+          "map_name": "United Kingdom"
         },
         {
           "name": "Vatican City",
-          "slug": "vatican-city"
+          "slug": "vatican-city",
+          "map_name": "Vatican"
         }
       ]
     },
@@ -730,27 +902,33 @@
       "countries": [
         {
           "name": "Bahamas",
-          "slug": "bahamas"
+          "slug": "bahamas",
+          "map_name": "Bahamas"
         },
         {
           "name": "Canada",
-          "slug": "canada"
+          "slug": "canada",
+          "map_name": "Canada"
         },
         {
           "name": "Cuba",
-          "slug": "cuba"
+          "slug": "cuba",
+          "map_name": "Cuba"
         },
         {
           "name": "Guatemala",
-          "slug": "guatemala"
+          "slug": "guatemala",
+          "map_name": "Guatemala"
         },
         {
           "name": "Mexico",
-          "slug": "mexico"
+          "slug": "mexico",
+          "map_name": "Mexico"
         },
         {
           "name": "United States of America",
-          "slug": "united-states-of-america"
+          "slug": "united-states-of-america",
+          "map_name": "United States of America"
         }
       ]
     },
@@ -761,51 +939,63 @@
       "countries": [
         {
           "name": "Argentina",
-          "slug": "argentina"
+          "slug": "argentina",
+          "map_name": "Argentina"
         },
         {
           "name": "Bolivia",
-          "slug": "bolivia"
+          "slug": "bolivia",
+          "map_name": "Bolivia"
         },
         {
           "name": "Brazil",
-          "slug": "brazil"
+          "slug": "brazil",
+          "map_name": "Brazil"
         },
         {
           "name": "Chile",
-          "slug": "chile"
+          "slug": "chile",
+          "map_name": "Chile"
         },
         {
           "name": "Colombia",
-          "slug": "colombia"
+          "slug": "colombia",
+          "map_name": "Colombia"
         },
         {
           "name": "Ecuador",
-          "slug": "ecuador"
+          "slug": "ecuador",
+          "map_name": "Ecuador"
         },
         {
           "name": "Guyana",
-          "slug": "guyana"
+          "slug": "guyana",
+          "map_name": "Guyana"
         },
         {
           "name": "Paraguay",
-          "slug": "paraguay"
+          "slug": "paraguay",
+          "map_name": "Paraguay"
         },
         {
           "name": "Peru",
-          "slug": "peru"
+          "slug": "peru",
+          "map_name": "Peru"
         },
         {
           "name": "Suriname",
-          "slug": "suriname"
+          "slug": "suriname",
+          "map_name": "Suriname"
         },
         {
           "name": "Uruguay",
-          "slug": "uruguay"
+          "slug": "uruguay",
+          "map_name": "Uruguay"
         },
         {
           "name": "Venezuela",
-          "slug": "venezuela"
+          "slug": "venezuela",
+          "map_name": "Venezuela"
         }
       ]
     }

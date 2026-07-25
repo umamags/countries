@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "The country has largely stabilized after past civil conflicts, but occasional political tensions and disputes over elections persist.",
   "five_youtube_video_titles": [
-    "Discover Côte d'Ivoire: Culture and Nature",
-    "Top 10 Places to Visit in Côte d'Ivoire",
+    {
+      "title": "Discover Côte d'Ivoire: Culture and Nature",
+      "video_id": "jm13nT1OOlI"
+    },
+    {
+      "title": "Top 10 Places to Visit in Côte d'Ivoire",
+      "video_id": "spKWhBEs_Og"
+    },
     "Côte d'Ivoire History and Politics Explained",
     "Traditional Ivorian Cuisine You Must Try",
     "Wildlife and National Parks of Côte d'Ivoire"

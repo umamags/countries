@@ -67,8 +67,14 @@
   ],
   "current_conflicts": "Ethiopia has experienced internal conflicts, notably the Tigray conflict beginning in 2020 involving the federal government and the Tigray People's Liberation Front, leading to humanitarian concerns and regional instability.",
   "five_youtube_video_titles": [
-    "Ethiopia Travel Guide - Top Places to Visit",
-    "The History of Ethiopia Explained",
+    {
+      "title": "Ethiopia Travel Guide - Top Places to Visit",
+      "video_id": "qrRQKW2-HRY"
+    },
+    {
+      "title": "The History of Ethiopia Explained",
+      "video_id": "Bbk54q0Jks8"
+    },
     "Ethiopian Food and Culture Documentary",
     "Simien Mountains National Park - Ethiopia's Natural Wonder",
     "Understanding the Tigray Conflict in Ethiopia"

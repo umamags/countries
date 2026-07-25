@@ -63,8 +63,14 @@
   ],
   "current_conflicts": "Kenya faces challenges including political tensions, occasional ethnic clashes, and security threats from extremist groups such as Al-Shabaab.",
   "five_youtube_video_titles": [
-    "Discover Kenya: A Journey Through the Heart of Africa",
-    "Kenya Wildlife Safari - Maasai Mara National Reserve",
+    {
+      "title": "Discover Kenya: A Journey Through the Heart of Africa",
+      "video_id": "o_BJJ90yT9k"
+    },
+    {
+      "title": "Kenya Wildlife Safari - Maasai Mara National Reserve",
+      "video_id": "YcOo4hYMeMk"
+    },
     "The Culture and Traditions of Kenya",
     "Kenyan Cuisine: Traditional Foods You Must Try",
     "History of Kenya: From Colonization to Independence"

@@ -54,8 +54,14 @@
   ],
   "current_conflicts": "Benin is generally stable with no significant internal or external conflicts reported as of 2024.",
   "five_youtube_video_titles": [
-    "Discover Benin: Culture, History and Nature",
-    "Top 10 Places to Visit in Benin",
+    {
+      "title": "Discover Benin: Culture, History and Nature",
+      "video_id": "Ud9IrSbRCjg"
+    },
+    {
+      "title": "Top 10 Places to Visit in Benin",
+      "video_id": "jZJeCqbj1Hc"
+    },
     "Benin Voodoo Festival Explained",
     "A Day in Cotonou, Benin's Largest City",
     "Wildlife Safari in Pendjari National Park, Benin"

@@ -54,8 +54,14 @@
   ],
   "current_conflicts": "Mozambique faces ongoing insurgency in the northern Cabo Delgado province, involving Islamist militant groups causing humanitarian and security challenges.",
   "five_youtube_video_titles": [
-    "Discover Mozambique: A Land of Natural Beauty and Culture",
-    "Mozambique Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Mozambique: A Land of Natural Beauty and Culture",
+      "video_id": "9TYGJy3cVmA"
+    },
+    {
+      "title": "Mozambique Travel Guide - Top Places to Visit",
+      "video_id": "9TYGJy3cVmA"
+    },
     "History of Mozambique: From Colonization to Independence",
     "Mozambique's Wildlife and National Parks",
     "Current Situation in Cabo Delgado, Mozambique"

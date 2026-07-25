@@ -62,8 +62,14 @@
   ],
   "current_conflicts": "Libya has been experiencing ongoing political instability and armed conflict since 2011, involving rival governments and militias competing for control, with international involvement complicating the situation.",
   "five_youtube_video_titles": [
-    "Libya: History, Culture, and Conflict Explained",
-    "Exploring Ancient Roman Ruins in Libya - Leptis Magna",
+    {
+      "title": "Libya: History, Culture, and Conflict Explained",
+      "video_id": "fIqdprr7NiQ"
+    },
+    {
+      "title": "Exploring Ancient Roman Ruins in Libya - Leptis Magna",
+      "video_id": "EmF4GT-S-Yw"
+    },
     "Life in Libya Today: Challenges and Culture",
     "Libyan Cuisine: Traditional Dishes and Recipes",
     "The Political Crisis in Libya: Background and Current Status"

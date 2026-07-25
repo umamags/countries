@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Madagascar faces political instability and social unrest related to governance and economic challenges, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Madagascar Travel Guide - Top Things to Do & See",
-    "Wildlife of Madagascar - Lemurs and More",
+    {
+      "title": "Madagascar Travel Guide - Top Things to Do & See",
+      "video_id": "-NpKUCTJOV4"
+    },
+    {
+      "title": "Wildlife of Madagascar - Lemurs and More",
+      "video_id": "hGmxVyyFPb0"
+    },
     "The Unique Culture of Madagascar Explained",
     "Madagascar's Baobab Trees - Natural Wonders",
     "History and Politics of Madagascar in 10 Minutes"

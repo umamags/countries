@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Egypt faces challenges related to regional security, including concerns over the Nile River water rights and counterterrorism efforts in the Sinai Peninsula.",
   "five_youtube_video_titles": [
-    "Discover Egypt: Land of Ancient Wonders",
-    "A Journey Through Egypt's History and Culture",
+    {
+      "title": "Discover Egypt: Land of Ancient Wonders",
+      "video_id": "9cdUxZuarL0"
+    },
+    {
+      "title": "A Journey Through Egypt's History and Culture",
+      "video_id": "9cdUxZuarL0"
+    },
     "Top 10 Must-See Places in Egypt",
     "Egyptian Cuisine: Traditional Dishes Explained",
     "Modern Egypt: Challenges and Progress"

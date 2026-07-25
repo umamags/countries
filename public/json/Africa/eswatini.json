@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Eswatini experiences occasional political unrest related to calls for democratic reforms, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discovering Eswatini: Africa's Hidden Gem",
-    "Eswatini Culture and Traditions Explained",
+    {
+      "title": "Discovering Eswatini: Africa's Hidden Gem",
+      "video_id": "sYOvJEJHsqc"
+    },
+    {
+      "title": "Eswatini Culture and Traditions Explained",
+      "video_id": "YhcI904lL4I"
+    },
     "Wildlife and Nature in Eswatini",
     "The Umhlanga Reed Dance Festival in Eswatini",
     "History and Politics of Eswatini"

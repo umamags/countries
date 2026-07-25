@@ -58,8 +58,14 @@
   ],
   "current_conflicts": "No major active conflicts, but the country faces political repression and human rights concerns.",
   "five_youtube_video_titles": [
-    "Equatorial Guinea: Africa's Oil Rich Nation",
-    "Travel Guide to Equatorial Guinea",
+    {
+      "title": "Equatorial Guinea: Africa's Oil Rich Nation",
+      "video_id": "2UqmiENLnqQ"
+    },
+    {
+      "title": "Travel Guide to Equatorial Guinea",
+      "video_id": "1ASyul48g1E"
+    },
     "The Culture and Traditions of Equatorial Guinea",
     "Wildlife and Nature in Equatorial Guinea",
     "History and Politics of Equatorial Guinea"

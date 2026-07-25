@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Ongoing conflict in northern Mali involving separatist groups, Islamist militants, and government forces, leading to instability and humanitarian challenges.",
   "five_youtube_video_titles": [
-    "Discover Mali: History and Culture",
-    "Timbuktu: The City of Gold and Learning",
+    {
+      "title": "Discover Mali: History and Culture",
+      "video_id": "5TAQLXEkEhE"
+    },
+    {
+      "title": "Timbuktu: The City of Gold and Learning",
+      "video_id": "s8W3ifVddZY"
+    },
     "Exploring the Bandiagara Escarpment and Dogon Culture",
     "Malian Cuisine: Traditional Foods and Recipes",
     "Current Situation in Mali: Conflict and Peace Efforts"

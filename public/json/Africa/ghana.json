@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "Ghana is generally stable with no significant internal conflicts; however, there are occasional disputes over land and natural resources.",
   "five_youtube_video_titles": [
-    "Discover Ghana: A Journey Through Culture and History",
-    "Top 10 Places to Visit in Ghana",
+    {
+      "title": "Discover Ghana: A Journey Through Culture and History",
+      "video_id": "a1GmetlXPBI"
+    },
+    {
+      "title": "Top 10 Places to Visit in Ghana",
+      "video_id": "NfLUotwpY2w"
+    },
     "Ghanaian Food Tour: Traditional Dishes You Must Try",
     "The History of Ghana: From Ancient Kingdoms to Modern Nation",
     "Ghana's Festivals: Celebrating Culture and Heritage"

@@ -72,8 +72,14 @@
   ],
   "current_conflicts": "Algeria faces challenges related to terrorism in remote areas, political unrest, and economic pressures but is relatively stable compared to regional conflicts.",
   "five_youtube_video_titles": [
-    "Discover Algeria: A Journey Through History and Culture",
-    "Top 10 Places to Visit in Algeria",
+    {
+      "title": "Discover Algeria: A Journey Through History and Culture",
+      "video_id": "gJ6OvenaKp0"
+    },
+    {
+      "title": "Top 10 Places to Visit in Algeria",
+      "video_id": "m6NWMNl5yFU"
+    },
     "Algerian Cuisine: Traditional Dishes Explained",
     "The Casbah of Algiers - UNESCO World Heritage Site Tour",
     "Understanding Algeria's Role in North African Politics"

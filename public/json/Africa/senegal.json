@@ -83,8 +83,14 @@
   ],
   "current_conflicts": "Senegal is generally stable but faces challenges related to border security near the Casamance region, where a low-level separatist conflict has persisted intermittently.",
   "five_youtube_video_titles": [
-    "Discover Senegal: A Journey Through Culture and Nature",
-    "Senegal Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Senegal: A Journey Through Culture and Nature",
+      "video_id": "tX_-YVkcDT4"
+    },
+    {
+      "title": "Senegal Travel Guide - Top Places to Visit",
+      "video_id": "L-Rh98zuP1Q"
+    },
     "The History of Senegal Explained",
     "Senegalese Cuisine: Traditional Dishes You Must Try",
     "Senegal's Music and Dance Traditions"

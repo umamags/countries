@@ -49,8 +49,14 @@
   ],
   "current_conflicts": "Djibouti remains relatively stable but is affected by regional tensions in the Horn of Africa, including issues related to neighboring Somalia and Eritrea.",
   "five_youtube_video_titles": [
-    "Discover Djibouti: The Land of Salt and Fire",
-    "Djibouti Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Djibouti: The Land of Salt and Fire",
+      "video_id": "TOsVNjzgjBk"
+    },
+    {
+      "title": "Djibouti Travel Guide - Top Places to Visit",
+      "video_id": "Eyx-ir7DbYs"
+    },
     "The Strategic Importance of Djibouti in Global Politics",
     "Djibouti Culture and Traditions Explained",
     "Wildlife and Nature in Djibouti"

@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Ongoing armed conflicts in the eastern regions involving various rebel groups, ethnic militias, and government forces, often linked to control over mineral resources.",
   "five_youtube_video_titles": [
-    "Discovering the Democratic Republic of the Congo: Nature and Culture",
-    "The History of the Democratic Republic of the Congo Explained",
+    {
+      "title": "Discovering the Democratic Republic of the Congo: Nature and Culture",
+      "video_id": "43xTvpxWLW4"
+    },
+    {
+      "title": "The History of the Democratic Republic of the Congo Explained",
+      "video_id": "4INpgF4YPhA"
+    },
     "Life and Challenges in the DRC's Eastern Provinces",
     "Virunga National Park: Protecting Gorillas in the DRC",
     "Congolese Music and Dance: A Cultural Journey"

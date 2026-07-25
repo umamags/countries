@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Sierra Leone is currently stable with no major internal conflicts, focusing on post-war recovery and development.",
   "five_youtube_video_titles": [
-    "Discover Sierra Leone: A Land of Resilience and Culture",
-    "Sierra Leone Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Sierra Leone: A Land of Resilience and Culture",
+      "video_id": "dWUlgcvESoo"
+    },
+    {
+      "title": "Sierra Leone Travel Guide - Top Places to Visit",
+      "video_id": "IUP6VDycCn8"
+    },
     "History of Sierra Leone: From Slavery to Independence",
     "Sierra Leone's Wildlife and Conservation Efforts",
     "Traditional Sierra Leonean Cuisine Explained"

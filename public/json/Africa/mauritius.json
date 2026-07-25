@@ -76,8 +76,14 @@
   ],
   "current_conflicts": "Mauritius has no active internal conflicts but maintains a territorial dispute with the United Kingdom over the Chagos Archipelago.",
   "five_youtube_video_titles": [
-    "Mauritius Travel Guide - Top Things to Do in Mauritius",
-    "Mauritius Island - A Paradise in the Indian Ocean",
+    {
+      "title": "Mauritius Travel Guide - Top Things to Do in Mauritius",
+      "video_id": "UB3dH4Y08DI"
+    },
+    {
+      "title": "Mauritius Island - A Paradise in the Indian Ocean",
+      "video_id": "4gPIBKbwYII"
+    },
     "Mauritius Culture and Traditions",
     "Mauritius Food Tour - Exploring Local Cuisine",
     "History of Mauritius - From Colonization to Independence"

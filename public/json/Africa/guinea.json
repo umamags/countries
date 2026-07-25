@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Guinea faces internal political tensions following recent coups, with challenges related to governance, human rights, and economic stability.",
   "five_youtube_video_titles": [
-    "Discover Guinea: Culture, Nature, and History",
-    "Mount Nimba Strict Nature Reserve - Guinea's Natural Treasure",
+    {
+      "title": "Discover Guinea: Culture, Nature, and History",
+      "video_id": "GB7jbHMOwus"
+    },
+    {
+      "title": "Mount Nimba Strict Nature Reserve - Guinea's Natural Treasure",
+      "video_id": "xcXMQE0W30U"
+    },
     "Guinea Independence Day Celebrations",
     "Traditional Guinean Cuisine Explained",
     "Political Landscape of Guinea in 2024"

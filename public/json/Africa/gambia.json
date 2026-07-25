@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "Gambia is currently stable with no significant internal or external conflicts reported.",
   "five_youtube_video_titles": [
-    "Discover The Gambia: Africa's Smiling Coast",
-    "Gambia Travel Guide - Top Things to Do",
+    {
+      "title": "Discover The Gambia: Africa's Smiling Coast",
+      "video_id": "4EAGLJkIos4"
+    },
+    {
+      "title": "Gambia Travel Guide - Top Things to Do",
+      "video_id": "RMW2V0xp3Ms"
+    },
     "History of The Gambia - From Slavery to Independence",
     "Gambian Culture and Traditions Explained",
     "Wildlife and Nature in The Gambia"

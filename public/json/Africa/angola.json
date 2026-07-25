@@ -57,8 +57,14 @@
   ],
   "current_conflicts": "Angola is currently stable with no major internal conflicts, focusing on post-war reconstruction and economic development.",
   "five_youtube_video_titles": [
-    "Discover Angola: A Land of Natural Wonders",
-    "Angola Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Angola: A Land of Natural Wonders",
+      "video_id": "Llq0YtjP81g"
+    },
+    {
+      "title": "Angola Travel Guide - Top Places to Visit",
+      "video_id": "Llq0YtjP81g"
+    },
     "History of Angola: From Colony to Independence",
     "Angolan Culture and Traditions Explained",
     "Angola's Wildlife and National Parks"

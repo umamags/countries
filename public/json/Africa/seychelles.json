@@ -52,8 +52,14 @@
   ],
   "current_conflicts": "Seychelles is generally peaceful with no significant internal or external conflicts at present.",
   "five_youtube_video_titles": [
-    "Seychelles Travel Guide - Top Things to Do in Seychelles",
-    "Discover Seychelles: Islands of Paradise",
+    {
+      "title": "Seychelles Travel Guide - Top Things to Do in Seychelles",
+      "video_id": "GqfrwtyLmQI"
+    },
+    {
+      "title": "Discover Seychelles: Islands of Paradise",
+      "video_id": "_jnSAy9i0pU"
+    },
     "Seychelles - The Ultimate Island Getaway",
     "Wildlife and Nature of Seychelles",
     "Seychelles Culture and Traditions Explained"

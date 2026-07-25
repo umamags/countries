@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Ongoing conflict with militant group Al-Shabaab, political instability, and regional disputes continue to affect Somalia's security and development.",
   "five_youtube_video_titles": [
-    "Discovering Somalia: History and Culture",
-    "Somalia's Struggle for Peace and Stability",
+    {
+      "title": "Discovering Somalia: History and Culture",
+      "video_id": "oL8Ry-pWaTY"
+    },
+    {
+      "title": "Somalia's Struggle for Peace and Stability",
+      "video_id": "vGj5KMuIfEI"
+    },
     "Exploring Mogadishu: Somalia's Capital City",
     "Traditional Somali Cuisine and Food Culture",
     "The Impact of Al-Shabaab in Somalia"

@@ -70,8 +70,14 @@
   ],
   "current_conflicts": "Mauritania faces challenges related to desertification, economic development, and occasional tensions related to ethnic and social inequalities. There are no active large-scale armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Mauritania: Land of Desert and Culture",
-    "Mauritania Travel Guide - Exploring Nouakchott and Beyond",
+    {
+      "title": "Discover Mauritania: Land of Desert and Culture",
+      "video_id": "8EbQkPwypwc"
+    },
+    {
+      "title": "Mauritania Travel Guide - Exploring Nouakchott and Beyond",
+      "video_id": "epgs-c787y8"
+    },
     "Banc d'Arguin National Park - Mauritania's Natural Wonder",
     "History and Culture of Mauritania Explained",
     "Mauritanian Cuisine: Traditional Dishes and Flavors"

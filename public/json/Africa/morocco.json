@@ -68,8 +68,14 @@
   ],
   "current_conflicts": "Ongoing territorial dispute over Western Sahara between Morocco and the Sahrawi Arab Democratic Republic (SADR).",
   "five_youtube_video_titles": [
-    "Morocco Travel Guide - Top Things to Do & See",
-    "A Day in Marrakech, Morocco - Travel Vlog",
+    {
+      "title": "Morocco Travel Guide - Top Things to Do & See",
+      "video_id": "VzV9i5AOBsA"
+    },
+    {
+      "title": "A Day in Marrakech, Morocco - Travel Vlog",
+      "video_id": "u_WW4crrBRM"
+    },
     "History of Morocco - From Ancient to Modern Times",
     "Moroccan Cuisine - Traditional Dishes Explained",
     "Exploring the Atlas Mountains - Morocco Adventure"

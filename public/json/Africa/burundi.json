@@ -52,8 +52,14 @@
   ],
   "current_conflicts": "Burundi faces political tensions and occasional unrest related to governance and human rights issues, but no active large-scale armed conflict.",
   "five_youtube_video_titles": [
-    "Discover Burundi: The Heart of Africa",
-    "Burundi National Drummers - Cultural Heritage",
+    {
+      "title": "Discover Burundi: The Heart of Africa",
+      "video_id": "FoLg7OxEQBQ"
+    },
+    {
+      "title": "Burundi National Drummers - Cultural Heritage",
+      "video_id": "2gQcVmDIrtc"
+    },
     "Life and Nature in Burundi",
     "Burundi History and Culture Explained",
     "Travel Guide to Burundi - What You Need to Know"
