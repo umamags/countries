@@ -66,8 +66,14 @@
   ],
   "current_conflicts": "Mongolia maintains a neutral foreign policy and is not involved in any active conflicts. It balances relations between Russia and China while seeking international cooperation.",
   "five_youtube_video_titles": [
-    "Discover Mongolia: Land of the Eternal Blue Sky",
-    "Mongolia Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Mongolia: Land of the Eternal Blue Sky",
+      "video_id": "DwMV9ZTqF68"
+    },
+    {
+      "title": "Mongolia Travel Guide - Top Places to Visit",
+      "video_id": "ABRtpEH4p1U"
+    },
     "Naadam Festival - Mongolia's Traditional Sports",
     "Life of Nomads in Mongolia",
     "The Genghis Khan Statue Complex - Mongolia's Icon"

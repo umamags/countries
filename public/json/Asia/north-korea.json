@@ -62,8 +62,14 @@
   ],
   "current_conflicts": "Ongoing tensions with South Korea and the international community over North Korea's nuclear weapons program and human rights issues.",
   "five_youtube_video_titles": [
-    "North Korea: Inside the Secretive State",
-    "Life in North Korea: A Rare Glimpse",
+    {
+      "title": "North Korea: Inside the Secretive State",
+      "video_id": "eLCdsXRiouE"
+    },
+    {
+      "title": "Life in North Korea: A Rare Glimpse",
+      "video_id": "Ca33qjZYd-8"
+    },
     "The History and Politics of North Korea",
     "North Korean Culture and Traditions Explained",
     "Understanding North Korea's Nuclear Program"

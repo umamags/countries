@@ -79,8 +79,14 @@
   ],
   "current_conflicts": "Ongoing Israeli-Palestinian conflict involving disputes over land, sovereignty, and security, including tensions in Gaza, the West Bank, and East Jerusalem.",
   "five_youtube_video_titles": [
-    "Israel Travel Guide - Top Things to Do and See",
-    "History of Israel Explained",
+    {
+      "title": "Israel Travel Guide - Top Things to Do and See",
+      "video_id": "mMW9JVhSZ1A"
+    },
+    {
+      "title": "History of Israel Explained",
+      "video_id": "m19F4IHTVGc"
+    },
     "Israeli Culture and Traditions",
     "Understanding the Israeli-Palestinian Conflict",
     "Israeli Food Tour - Must Try Dishes"

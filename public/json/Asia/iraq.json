@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Iraq faces ongoing security challenges including insurgent attacks, sectarian violence, and tensions with various militant groups despite efforts to stabilize the country.",
   "five_youtube_video_titles": [
-    "Iraq: History, Culture, and Modern Challenges",
-    "Exploring Ancient Babylon - Iraq's Historical Treasure",
+    {
+      "title": "Iraq: History, Culture, and Modern Challenges",
+      "video_id": "-XRiX_QgnbI"
+    },
+    {
+      "title": "Exploring Ancient Babylon - Iraq's Historical Treasure",
+      "video_id": "BrYpSqmveM0"
+    },
     "Life in Baghdad: A Glimpse into Iraqi Society",
     "Iraqi Cuisine: Traditional Dishes and Recipes",
     "Understanding Iraq's Political Landscape"

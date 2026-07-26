@@ -57,8 +57,14 @@
   ],
   "current_conflicts": "Laos is generally peaceful but faces challenges related to unexploded ordnance from the Vietnam War era and occasional border tensions with neighboring countries.",
   "five_youtube_video_titles": [
-    "Discover Laos: The Land of a Million Elephants",
-    "Top 10 Places to Visit in Laos",
+    {
+      "title": "Discover Laos: The Land of a Million Elephants",
+      "video_id": "6H-bc3r-LCI"
+    },
+    {
+      "title": "Top 10 Places to Visit in Laos",
+      "video_id": "BuE78EiOGkk"
+    },
     "Laos Travel Guide - What You Need to Know",
     "Laos Culture and Traditions Explained",
     "Exploring the Plain of Jars in Laos"

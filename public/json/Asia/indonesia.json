@@ -83,8 +83,14 @@
   ],
   "current_conflicts": "Indonesia faces internal challenges including separatist movements in Papua, religious and ethnic tensions in some regions, and environmental issues related to deforestation and resource management.",
   "five_youtube_video_titles": [
-    "Indonesia Travel Guide - Top Places to Visit",
-    "The History of Indonesia Explained",
+    {
+      "title": "Indonesia Travel Guide - Top Places to Visit",
+      "video_id": "WK3clL6eG4s"
+    },
+    {
+      "title": "The History of Indonesia Explained",
+      "video_id": "PA7gFnYfBqo"
+    },
     "Indonesian Culture and Traditions",
     "Exploring Indonesian Cuisine: Food Tour",
     "Indonesia's Natural Wonders and Wildlife"

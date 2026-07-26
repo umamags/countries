@@ -70,8 +70,14 @@
   ],
   "current_conflicts": "Ongoing tensions and periodic clashes with Azerbaijan over the Nagorno-Karabakh region remain a significant security issue.",
   "five_youtube_video_titles": [
-    "Discover Armenia: The Land of Ancient Culture and Stunning Landscapes",
-    "Armenia Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Armenia: The Land of Ancient Culture and Stunning Landscapes",
+      "video_id": "K1BqwcVVoag"
+    },
+    {
+      "title": "Armenia Travel Guide - Top Places to Visit",
+      "video_id": "GWqGFpRD8Pc"
+    },
     "History of Armenia - From Ancient Times to Modern Day",
     "Armenian Cuisine Explained: Traditional Dishes and Recipes",
     "Nagorno-Karabakh Conflict Explained"

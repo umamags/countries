@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Ongoing tensions with India primarily over the Kashmir region, internal security challenges related to militant groups, and political instability.",
   "five_youtube_video_titles": [
-    "Discover Pakistan: Land of Diversity and Culture",
-    "Top 10 Places to Visit in Pakistan",
+    {
+      "title": "Discover Pakistan: Land of Diversity and Culture",
+      "video_id": "0fJBbSTfZ7Q"
+    },
+    {
+      "title": "Top 10 Places to Visit in Pakistan",
+      "video_id": "gL6gjJWiMvE"
+    },
     "History of Pakistan Explained",
     "Pakistani Cuisine: A Culinary Journey",
     "Understanding the Kashmir Conflict"

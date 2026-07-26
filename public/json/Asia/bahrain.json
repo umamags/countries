@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Bahrain faces internal political tensions related to demands for greater political reforms and sectarian divides, but no active armed conflict.",
   "five_youtube_video_titles": [
-    "Discover Bahrain: A Journey Through History and Culture",
-    "Top 10 Places to Visit in Bahrain",
+    {
+      "title": "Discover Bahrain: A Journey Through History and Culture",
+      "video_id": "rT2y7a1NtGg"
+    },
+    {
+      "title": "Top 10 Places to Visit in Bahrain",
+      "video_id": "HK_ywTgAaxE"
+    },
     "Bahrain's Economic Growth and Vision 2030",
     "Traditional Bahraini Cuisine Explained",
     "Bahrain International Music Festival Highlights"

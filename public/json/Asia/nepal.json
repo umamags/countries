@@ -87,8 +87,14 @@
   ],
   "current_conflicts": "Nepal is generally peaceful but faces occasional political instability and challenges related to border issues with China and India. There are no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Nepal: Land of the Himalayas",
-    "Mount Everest: The Roof of the World",
+    {
+      "title": "Discover Nepal: Land of the Himalayas",
+      "video_id": "KnzyzTfH3Mg"
+    },
+    {
+      "title": "Mount Everest: The Roof of the World",
+      "video_id": "TYLZG9tv0Yw"
+    },
     "Nepal's Festivals: Dashain and Tihar Explained",
     "Exploring Kathmandu: Culture and Heritage",
     "Nepalese Cuisine: Traditional Foods You Must Try"

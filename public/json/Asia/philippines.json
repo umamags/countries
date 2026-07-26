@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Ongoing territorial disputes in the South China Sea and internal conflicts with insurgent groups such as the New People's Army and Islamist militants.",
   "five_youtube_video_titles": [
-    "Philippines Travel Guide - Top Things to Do & See",
-    "History of the Philippines in 10 Minutes",
+    {
+      "title": "Philippines Travel Guide - Top Things to Do & See",
+      "video_id": "7tAep71PBSU"
+    },
+    {
+      "title": "History of the Philippines in 10 Minutes",
+      "video_id": "P-I4Bay5SXo"
+    },
     "Filipino Food Tour: Must-Try Dishes",
     "Cultural Festivals of the Philippines",
     "Understanding the South China Sea Dispute"

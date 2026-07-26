@@ -73,8 +73,14 @@
   ],
   "current_conflicts": "China faces territorial disputes in the South China Sea, tensions with Taiwan over sovereignty claims, and ongoing issues related to human rights and ethnic minorities such as in Xinjiang and Tibet.",
   "five_youtube_video_titles": [
-    "China: A Country of Contrasts and Change",
-    "The Great Wall of China - History and Facts",
+    {
+      "title": "China: A Country of Contrasts and Change",
+      "video_id": "6V3cRFkRGzs"
+    },
+    {
+      "title": "The Great Wall of China - History and Facts",
+      "video_id": "ZU_ToQpLxjc"
+    },
     "Chinese New Year Traditions Explained",
     "Modern China: Economic Growth and Challenges",
     "Exploring Chinese Cuisine: Regional Flavors"

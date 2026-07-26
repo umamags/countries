@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Bhutan currently has no active internal or external conflicts; it maintains peaceful relations with neighboring countries.",
   "five_youtube_video_titles": [
-    "Discover Bhutan: The Last Himalayan Kingdom",
-    "Bhutan Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Bhutan: The Last Himalayan Kingdom",
+      "video_id": "pIfBVSf1CZE"
+    },
+    {
+      "title": "Bhutan Travel Guide - Top Places to Visit",
+      "video_id": "opVcSLYj6zU"
+    },
     "Bhutan's Unique Culture and Traditions",
     "Gross National Happiness: Bhutan's Development Model",
     "Bhutanese Festivals and Celebrations Explained"

@@ -75,8 +75,14 @@
   ],
   "current_conflicts": "Bangladesh faces challenges related to political tensions, border disputes with Myanmar, and issues surrounding the Rohingya refugee crisis.",
   "five_youtube_video_titles": [
-    "Discover Bangladesh: Land of Rivers and Culture",
-    "Bangladesh Travel Guide | Top Places to Visit",
+    {
+      "title": "Discover Bangladesh: Land of Rivers and Culture",
+      "video_id": "3nRnz_oIx5M"
+    },
+    {
+      "title": "Bangladesh Travel Guide | Top Places to Visit",
+      "video_id": "Z44fFqBQQtg"
+    },
     "History of Bangladesh | From Liberation to Present",
     "Bangladeshi Cuisine: Traditional Foods You Must Try",
     "The Sundarbans: Home of the Bengal Tiger"

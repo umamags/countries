@@ -54,8 +54,14 @@
   ],
   "current_conflicts": "Togo experiences occasional political tensions and protests related to governance and electoral processes but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Togo: West Africa's Hidden Gem",
-    "Togo Travel Guide - Top Things to Do in Togo",
+    {
+      "title": "Discover Togo: West Africa's Hidden Gem",
+      "video_id": "bYR-JyqDgGQ"
+    },
+    {
+      "title": "Togo Travel Guide - Top Things to Do in Togo",
+      "video_id": "lzJLbOVY86U"
+    },
     "Culture and Traditions of Togo",
     "Togo's History and Independence",
     "Togolese Cuisine: Traditional Foods of Togo"

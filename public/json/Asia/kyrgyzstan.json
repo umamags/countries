@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Kyrgyzstan faces occasional border tensions with neighboring Tajikistan and internal political challenges but no large-scale armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Kyrgyzstan: The Land of Nomads and Mountains",
-    "Top 10 Places to Visit in Kyrgyzstan",
+    {
+      "title": "Discover Kyrgyzstan: The Land of Nomads and Mountains",
+      "video_id": "husuUwtA-Gc"
+    },
+    {
+      "title": "Top 10 Places to Visit in Kyrgyzstan",
+      "video_id": "WDc144SnT18"
+    },
     "Kyrgyzstan Travel Guide - What You Need to Know",
     "World Nomad Games 2018 Highlights",
     "Kyrgyzstan Culture and Traditions Explained"

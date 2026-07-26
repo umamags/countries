@@ -53,8 +53,14 @@
   ],
   "current_conflicts": "Ongoing territorial dispute between Morocco and the Polisario Front over sovereignty, with intermittent clashes despite a UN ceasefire.",
   "five_youtube_video_titles": [
-    "Western Sahara Explained: History and Conflict",
-    "Life in Western Sahara Refugee Camps",
+    {
+      "title": "Western Sahara Explained: History and Conflict",
+      "video_id": "4SakRNO_SMY"
+    },
+    {
+      "title": "Life in Western Sahara Refugee Camps",
+      "video_id": "JVZki7GfMjw"
+    },
     "The Sahrawi People: Culture and Struggle",
     "Western Sahara: The Last African Colony?",
     "Dakhla Peninsula: Desert Meets Ocean"

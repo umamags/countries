@@ -62,8 +62,14 @@
   ],
   "current_conflicts": "Jordan maintains relative stability but faces challenges related to regional conflicts, refugee influxes, and economic pressures.",
   "five_youtube_video_titles": [
-    "Discover Jordan: The Land of Ancient Wonders",
-    "Exploring Petra - Jordan's Rose City",
+    {
+      "title": "Discover Jordan: The Land of Ancient Wonders",
+      "video_id": "SZ5JjLdzQ1o"
+    },
+    {
+      "title": "Exploring Petra - Jordan's Rose City",
+      "video_id": "SZ5JjLdzQ1o"
+    },
     "Wadi Rum Desert Adventure in Jordan",
     "The Dead Sea Experience - Jordan",
     "Jordan Travel Guide | Top Places to Visit"

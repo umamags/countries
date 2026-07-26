@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Japan maintains territorial disputes with neighboring countries over islands such as the Senkaku/Diaoyu Islands with China and the Kuril Islands with Russia, but is generally peaceful with no active military conflicts.",
   "five_youtube_video_titles": [
-    "Japan Travel Guide - Top Things to Do in Japan",
-    "History of Japan in 10 Minutes",
+    {
+      "title": "Japan Travel Guide - Top Things to Do in Japan",
+      "video_id": "jTOfOew316s"
+    },
+    {
+      "title": "History of Japan in 10 Minutes",
+      "video_id": "Mh5LY4Mz15o"
+    },
     "Japanese Culture and Traditions Explained",
     "Exploring Japanese Food: Sushi, Ramen & More",
     "Modern Japan: Economy, Technology, and Society"

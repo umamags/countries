@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "The Maldives faces challenges related to climate change, particularly rising sea levels threatening its low-lying islands. There are no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Maldives: Paradise on Earth",
-    "Maldives Travel Guide 2023",
+    {
+      "title": "Discover Maldives: Paradise on Earth",
+      "video_id": "ROnulQUdvfY"
+    },
+    {
+      "title": "Maldives Travel Guide 2023",
+      "video_id": "3FM1waTeTDE"
+    },
     "The Culture and Traditions of Maldives",
     "Maldives: Climate Change and Rising Sea Levels",
     "Top 10 Things to Do in Maldives"

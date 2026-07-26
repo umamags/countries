@@ -72,8 +72,14 @@
   ],
   "current_conflicts": "Lebanon faces political instability, economic crisis, and tensions related to Hezbollah's role and regional conflicts impacting its security.",
   "five_youtube_video_titles": [
-    "Discover Lebanon: A Journey Through History and Culture",
-    "Lebanon Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Lebanon: A Journey Through History and Culture",
+      "video_id": "jT8JXTL8ELo"
+    },
+    {
+      "title": "Lebanon Travel Guide - Top Places to Visit",
+      "video_id": "8z2EfYmIV3g"
+    },
     "Lebanese Cuisine Explained: Traditional Dishes",
     "The Cedars of Lebanon: Nature and Heritage",
     "Lebanon's Political Landscape: An Overview"

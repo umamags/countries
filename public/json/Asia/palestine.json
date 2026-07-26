@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "Ongoing Israeli-Palestinian conflict involving disputes over territory, governance, and mutual recognition, with periodic escalations of violence and international diplomatic efforts.",
   "five_youtube_video_titles": [
-    "Palestine: History and Conflict Explained",
-    "A Day in Palestine: Culture and Life",
+    {
+      "title": "Palestine: History and Conflict Explained",
+      "video_id": "m19F4IHTVGc"
+    },
+    {
+      "title": "A Day in Palestine: Culture and Life",
+      "video_id": "h1BcLcn85gs"
+    },
     "The Holy Sites of Palestine",
     "Palestinian Cuisine: Traditional Foods and Recipes",
     "Understanding the Israeli-Palestinian Conflict"

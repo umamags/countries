@@ -79,8 +79,14 @@
   ],
   "current_conflicts": "Uganda faces challenges with insurgent groups such as the Allied Democratic Forces (ADF) in the eastern region, and occasional inter-ethnic tensions. The government is also involved in regional security efforts in neighboring countries.",
   "five_youtube_video_titles": [
-    "Discover Uganda: The Pearl of Africa",
-    "Wildlife and Nature in Uganda's National Parks",
+    {
+      "title": "Discover Uganda: The Pearl of Africa",
+      "video_id": "QTLmTHAzThw"
+    },
+    {
+      "title": "Wildlife and Nature in Uganda's National Parks",
+      "video_id": "4oAtw0U3DJw"
+    },
     "Ugandan Culture and Traditions Explained",
     "History and Politics of Uganda in Brief",
     "Top Tourist Attractions in Uganda"

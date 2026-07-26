@@ -52,8 +52,14 @@
   ],
   "current_conflicts": "Zimbabwe faces ongoing economic challenges, political tensions, and issues related to land reform and governance, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Zimbabwe: Victoria Falls and Beyond",
-    "The History of Zimbabwe Explained",
+    {
+      "title": "Discover Zimbabwe: Victoria Falls and Beyond",
+      "video_id": "gPQRObKvGe4"
+    },
+    {
+      "title": "The History of Zimbabwe Explained",
+      "video_id": "AK7uCgD46bs"
+    },
     "Zimbabwe Wildlife Safari - Hwange National Park",
     "Zimbabwean Culture and Traditions",
     "Zimbabwe's Economic Challenges and Future"

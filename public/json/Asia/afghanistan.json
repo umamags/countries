@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Ongoing internal conflicts involving Taliban governance, resistance groups, and regional instability continue to affect security and humanitarian conditions.",
   "five_youtube_video_titles": [
-    "Afghanistan: A Historical Overview",
-    "Culture and Traditions of Afghanistan",
+    {
+      "title": "Afghanistan: A Historical Overview",
+      "video_id": "T6usr-C3lcQ"
+    },
+    {
+      "title": "Culture and Traditions of Afghanistan",
+      "video_id": "_L41t_9oXcw"
+    },
     "Travel Guide to Afghanistan's Landmarks",
     "Afghan Cuisine: Traditional Dishes Explained",
     "Current Situation and Challenges in Afghanistan"

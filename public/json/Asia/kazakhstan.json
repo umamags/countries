@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "Kazakhstan is generally stable with no active internal or external conflicts, though it faces challenges related to regional security and economic diversification.",
   "five_youtube_video_titles": [
-    "Kazakhstan Travel Guide - Top Places to Visit",
-    "History of Kazakhstan Explained",
+    {
+      "title": "Kazakhstan Travel Guide - Top Places to Visit",
+      "video_id": "kVDLM8DfNFE"
+    },
+    {
+      "title": "History of Kazakhstan Explained",
+      "video_id": "fesLbWZcR4Q"
+    },
     "Kazakh Culture and Traditions",
     "Kazakhstan's Economic Development and Future",
     "Nauryz Festival in Kazakhstan - Celebration of Spring"

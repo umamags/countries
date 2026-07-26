@@ -70,8 +70,14 @@
   ],
   "current_conflicts": "Iran faces regional tensions involving its nuclear program, proxy conflicts in the Middle East, and strained relations with the United States and some neighboring countries.",
   "five_youtube_video_titles": [
-    "Iran Travel Guide - Top Places to Visit in Iran",
-    "History of Iran - From Ancient Persia to Modern Day",
+    {
+      "title": "Iran Travel Guide - Top Places to Visit in Iran",
+      "video_id": "0v7cOe1FSUE"
+    },
+    {
+      "title": "History of Iran - From Ancient Persia to Modern Day",
+      "video_id": "x4-EkQNHE3c"
+    },
     "Iranian Culture and Traditions Explained",
     "Iranian Cuisine - Traditional Foods You Must Try",
     "Current Political Situation in Iran - Explained"

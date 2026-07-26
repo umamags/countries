@@ -78,8 +78,14 @@
   ],
   "current_conflicts": "Qatar maintains a generally stable political environment but has experienced regional diplomatic tensions, notably the 2017-2021 Gulf diplomatic crisis involving a blockade by neighboring countries, which has since been resolved.",
   "five_youtube_video_titles": [
-    "Discover Qatar: A Journey Through the Desert and City",
-    "Qatar 2022 FIFA World Cup: Stadiums and Preparations",
+    {
+      "title": "Discover Qatar: A Journey Through the Desert and City",
+      "video_id": "10Ns1jWmtZU"
+    },
+    {
+      "title": "Qatar 2022 FIFA World Cup: Stadiums and Preparations",
+      "video_id": "C-0CebFpF_s"
+    },
     "Culture and Traditions of Qatar Explained",
     "Top 10 Places to Visit in Qatar",
     "Qatar's Economic Growth and Vision 2030"

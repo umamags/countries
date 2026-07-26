@@ -70,8 +70,14 @@
   ],
   "current_conflicts": "Saudi Arabia is involved in the Yemen conflict, supporting the Yemeni government against Houthi rebels. It also faces regional tensions with Iran and ongoing concerns over terrorism and security.",
   "five_youtube_video_titles": [
-    "Saudi Arabia: Land of the Two Holy Mosques",
-    "Inside Saudi Arabia's Vision 2030",
+    {
+      "title": "Saudi Arabia: Land of the Two Holy Mosques",
+      "video_id": "nqzd_id1iqM"
+    },
+    {
+      "title": "Inside Saudi Arabia's Vision 2030",
+      "video_id": "YPfQOQM37EM"
+    },
     "The Culture and Traditions of Saudi Arabia",
     "Saudi Arabia's Economic Transformation",
     "Travel Guide to Saudi Arabia's Top Landmarks"

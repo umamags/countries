@@ -80,8 +80,14 @@
   ],
   "current_conflicts": "South Africa faces challenges such as social inequality, crime, and sporadic service delivery protests, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "South Africa Travel Guide - Top Things to Do & See",
-    "History of South Africa - Apartheid and Beyond",
+    {
+      "title": "South Africa Travel Guide - Top Things to Do & See",
+      "video_id": "RcdAeOG0W-Y"
+    },
+    {
+      "title": "History of South Africa - Apartheid and Beyond",
+      "video_id": "ke4kVFycpYY"
+    },
     "South African Cuisine - Traditional Foods to Try",
     "Wildlife Safari in Kruger National Park, South Africa",
     "Cultural Festivals of South Africa Explained"

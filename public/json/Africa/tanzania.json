@@ -59,8 +59,14 @@
   ],
   "current_conflicts": "Tanzania is generally stable but faces challenges related to border disputes with neighboring countries and occasional internal political tensions.",
   "five_youtube_video_titles": [
-    "Discover Tanzania: Wildlife, Culture & Adventure",
-    "Mount Kilimanjaro Climb - Tanzania's Iconic Peak",
+    {
+      "title": "Discover Tanzania: Wildlife, Culture & Adventure",
+      "video_id": "blaRjrB-llQ"
+    },
+    {
+      "title": "Mount Kilimanjaro Climb - Tanzania's Iconic Peak",
+      "video_id": "XRwrpXf5V6c"
+    },
     "Serengeti National Park Safari Experience",
     "Zanzibar: History and Beaches of Tanzania's Spice Island",
     "Tanzanian Culture and Traditions Explained"

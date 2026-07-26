@@ -55,8 +55,14 @@
   ],
   "current_conflicts": "Internal ethnic and political conflicts persist, including clashes between government forces and opposition groups, impacting stability and humanitarian conditions.",
   "five_youtube_video_titles": [
-    "South Sudan: The World's Newest Country Explained",
-    "Life in Juba, South Sudan's Capital",
+    {
+      "title": "South Sudan: The World's Newest Country Explained",
+      "video_id": "pKmM1N0MoC4"
+    },
+    {
+      "title": "Life in Juba, South Sudan's Capital",
+      "video_id": "GM9Ax72RpWM"
+    },
     "South Sudan Civil War: Causes and Consequences",
     "Wildlife and Nature in South Sudan's National Parks",
     "South Sudan Independence Day Celebrations"

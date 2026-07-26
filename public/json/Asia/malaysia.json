@@ -81,8 +81,14 @@
   ],
   "current_conflicts": "Malaysia is generally stable but faces occasional tensions related to ethnic relations, territorial disputes in the South China Sea, and issues with illegal immigration and border security.",
   "five_youtube_video_titles": [
-    "Discover Malaysia: Culture, Food, and Travel Guide",
-    "Top 10 Places to Visit in Malaysia",
+    {
+      "title": "Discover Malaysia: Culture, Food, and Travel Guide",
+      "video_id": "bPbCItKgwfY"
+    },
+    {
+      "title": "Top 10 Places to Visit in Malaysia",
+      "video_id": "EVG-IH8cMYs"
+    },
     "Malaysian Street Food Tour",
     "History of Malaysia Explained",
     "Malaysia's Diverse Festivals and Traditions"

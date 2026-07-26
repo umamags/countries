@@ -91,8 +91,14 @@
   ],
   "current_conflicts": "India faces ongoing border disputes with neighboring countries such as China and Pakistan, particularly in regions like Jammu & Kashmir and Arunachal Pradesh. Internal challenges include insurgencies and communal tensions in certain areas.",
   "five_youtube_video_titles": [
-    "India Travel Guide - Top Places to Visit in India",
-    "The History of India in 10 Minutes",
+    {
+      "title": "India Travel Guide - Top Places to Visit in India",
+      "video_id": "K18nEQf8i9c"
+    },
+    {
+      "title": "The History of India in 10 Minutes",
+      "video_id": "atVaS-cHyoY"
+    },
     "Indian Culture and Traditions Explained",
     "Top 10 Indian Foods You Must Try",
     "India's Economic Growth and Challenges"

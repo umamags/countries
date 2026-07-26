@@ -62,8 +62,14 @@
   ],
   "current_conflicts": "Ongoing territorial disputes with Russia over the regions of Abkhazia and South Ossetia, which declared independence but are recognized by most countries as part of Georgia.",
   "five_youtube_video_titles": [
-    "Discover Georgia: The Land of Ancient Culture and Stunning Landscapes",
-    "Top 10 Places to Visit in Georgia",
+    {
+      "title": "Discover Georgia: The Land of Ancient Culture and Stunning Landscapes",
+      "video_id": "kq7dvzZ3ygs"
+    },
+    {
+      "title": "Top 10 Places to Visit in Georgia",
+      "video_id": "OtRwSvQhRi8"
+    },
     "Georgian Cuisine: Traditional Foods You Must Try",
     "History of Georgia: From Ancient Kingdoms to Modern Times",
     "Tbilisi Travel Guide: Exploring the Capital of Georgia"

@@ -57,8 +57,14 @@
   ],
   "current_conflicts": "Brunei is currently peaceful with no active conflicts.",
   "five_youtube_video_titles": [
-    "Discover Brunei: The Hidden Jewel of Borneo",
-    "Brunei Travel Guide | Top Things to Do in Brunei",
+    {
+      "title": "Discover Brunei: The Hidden Jewel of Borneo",
+      "video_id": "eWAv7qc5DzQ"
+    },
+    {
+      "title": "Brunei Travel Guide | Top Things to Do in Brunei",
+      "video_id": "a8gZ3HfZNZc"
+    },
     "Sultan Omar Ali Saifuddien Mosque - Brunei's Iconic Landmark",
     "Exploring Ulu Temburong National Park in Brunei",
     "Brunei National Day Celebrations 2023"

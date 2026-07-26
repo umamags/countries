@@ -50,8 +50,14 @@
   ],
   "current_conflicts": "Ongoing tensions and intermittent clashes with Armenia over the Nagorno-Karabakh region, a disputed territory internationally recognized as part of Azerbaijan but with a majority ethnic Armenian population.",
   "five_youtube_video_titles": [
-    "Azerbaijan Travel Guide - Top Things to Do in Azerbaijan",
-    "History of Azerbaijan - From Ancient Times to Present",
+    {
+      "title": "Azerbaijan Travel Guide - Top Things to Do in Azerbaijan",
+      "video_id": "zo8-jpKnfSM"
+    },
+    {
+      "title": "History of Azerbaijan - From Ancient Times to Present",
+      "video_id": "vA9kZiHbuwk"
+    },
     "Azerbaijani Cuisine: Traditional Foods You Must Try",
     "Exploring Baku: The Capital of Azerbaijan",
     "Nagorno-Karabakh Conflict Explained"

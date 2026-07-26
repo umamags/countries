@@ -51,8 +51,14 @@
   ],
   "current_conflicts": "Sudan faces internal conflicts including clashes in Darfur, South Kordofan, and Blue Nile regions, as well as political instability following the 2019 revolution.",
   "five_youtube_video_titles": [
-    "Sudan: History, Culture, and Conflict Explained",
-    "Exploring the Pyramids of Meroë in Sudan",
+    {
+      "title": "Sudan: History, Culture, and Conflict Explained",
+      "video_id": "lDfhxMwoyWo"
+    },
+    {
+      "title": "Exploring the Pyramids of Meroë in Sudan",
+      "video_id": "J0Lf1ofmaOo"
+    },
     "Life and Traditions in Sudan - A Cultural Overview",
     "Sudan's Political Transition and Challenges",
     "Sudanese Cuisine: Traditional Foods and Recipes"

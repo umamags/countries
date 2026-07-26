@@ -59,8 +59,14 @@
   ],
   "current_conflicts": "None; Antarctica is governed by an international treaty emphasizing peaceful scientific collaboration.",
   "five_youtube_video_titles": [
-    "Exploring Antarctica: The Frozen Continent",
-    "Life at the South Pole Research Station",
+    {
+      "title": "Exploring Antarctica: The Frozen Continent",
+      "video_id": "Vrtbxvefnjs"
+    },
+    {
+      "title": "Life at the South Pole Research Station",
+      "video_id": "gQ3_gZ3ZS_4"
+    },
     "Antarctic Wildlife and Ecosystems",
     "The Antarctic Treaty Explained",
     "Mount Erebus Volcano Eruption Footage"

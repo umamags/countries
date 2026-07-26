@@ -46,8 +46,14 @@
   ],
   "current_conflicts": "Ongoing internal conflicts involving ethnic armed groups and the military, particularly following the 2021 military coup which led to widespread protests and violence.",
   "five_youtube_video_titles": [
-    "Myanmar: A Land of Golden Pagodas and Rich Culture",
-    "The History and Politics of Myanmar Explained",
+    {
+      "title": "Myanmar: A Land of Golden Pagodas and Rich Culture",
+      "video_id": "kyaH1SgGXbk"
+    },
+    {
+      "title": "The History and Politics of Myanmar Explained",
+      "video_id": "uhOV4fVJVAg"
+    },
     "Exploring Bagan: Ancient Temples of Myanmar",
     "Myanmar Food Tour: Traditional Burmese Cuisine",
     "Inside Myanmar's Ongoing Conflict and Crisis"

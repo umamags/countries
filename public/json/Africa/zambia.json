@@ -63,8 +63,14 @@
   ],
   "current_conflicts": "Zambia is generally stable with no major internal or external conflicts, though it faces challenges related to economic development and regional security issues.",
   "five_youtube_video_titles": [
-    "Discover Zambia: Victoria Falls and Wildlife Safari",
-    "Zambia Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Zambia: Victoria Falls and Wildlife Safari",
+      "video_id": "6XVHh12v59Q"
+    },
+    {
+      "title": "Zambia Travel Guide - Top Places to Visit",
+      "video_id": "Qa6ph1kOLeY"
+    },
     "Cultural Festivals of Zambia: Kuomboka and Nc'wala",
     "Zambian Cuisine: Traditional Foods and Cooking",
     "History and Politics of Zambia Explained"

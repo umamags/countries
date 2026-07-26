@@ -67,8 +67,14 @@
   ],
   "current_conflicts": "Tunisia is generally stable but faces challenges including political tensions, economic issues, and threats from extremist groups in the region.",
   "five_youtube_video_titles": [
-    "Discover Tunisia: A Journey Through History and Culture",
-    "Top 10 Places to Visit in Tunisia",
+    {
+      "title": "Discover Tunisia: A Journey Through History and Culture",
+      "video_id": "Jucl8N9vrws"
+    },
+    {
+      "title": "Top 10 Places to Visit in Tunisia",
+      "video_id": "Y4IXF6i_mIM"
+    },
     "Tunisian Cuisine: Traditional Dishes You Must Try",
     "The Sahara Desert Experience in Tunisia",
     "Tunisia's Role in the Arab Spring"

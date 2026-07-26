@@ -54,8 +54,14 @@
   ],
   "current_conflicts": "Kuwait is currently stable with no active internal or external conflicts, focusing on regional diplomacy and economic development.",
   "five_youtube_video_titles": [
-    "Discover Kuwait: A Journey Through the Land of the Gulf",
-    "Kuwait City Tour - Top Attractions and Culture",
+    {
+      "title": "Discover Kuwait: A Journey Through the Land of the Gulf",
+      "video_id": "FGytudg5uDU"
+    },
+    {
+      "title": "Kuwait City Tour - Top Attractions and Culture",
+      "video_id": "w20SVlSQBgI"
+    },
     "Kuwaiti Cuisine: Traditional Dishes You Must Try",
     "History of Kuwait: From Independence to Modern Day",
     "Kuwait's Cultural Festivals and Traditions Explained"
