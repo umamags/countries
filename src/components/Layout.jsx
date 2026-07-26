@@ -13,6 +13,9 @@ export default function Layout() {
       <main>
         <Outlet />
       </main>
+      <footer className="site-footer">
+        <p>© Mahesh Natarajan · v1.0 · July 2026</p>
+      </footer>
     </>
   )
 }

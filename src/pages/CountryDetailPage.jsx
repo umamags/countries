@@ -5,6 +5,7 @@ import { useCountry } from '../data/useCountry'
 import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
 import VideoModal from '../components/VideoModal'
+import Breadcrumb from '../components/Breadcrumb'
 import { slugify } from '../utils/slug'
 
 function Fact({ label, value }) {
@@ -105,9 +106,13 @@ export default function CountryDetailPage() {
 
   return (
     <div className="page">
-      <Link to={`/continent/${continent.slug}`} className="back-link">
-        ← {continent.name}
-      </Link>
+      <Breadcrumb
+        items={[
+          { label: 'Home', to: '/' },
+          { label: continent.name, to: `/continent/${continent.slug}` },
+          { label: data.country },
+        ]}
+      />
       <div className="detail-title-row">
         <h1>{data.country}</h1>
         <button

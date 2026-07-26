@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { useContinent, useCountriesIndex } from '../data/IndexContext'
 import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function CountryListPage() {
   const { continentSlug } = useParams()
@@ -16,9 +17,7 @@ export default function CountryListPage() {
 
   return (
     <div className="page">
-      <Link to="/" className="back-link">
-        ← All continents
-      </Link>
+      <Breadcrumb items={[{ label: 'Home', to: '/' }, { label: continent.name }]} />
       <h1>{continent.name}</h1>
       <p className="subtitle">
         {continent.countryCount} {continent.countryCount === 1 ? 'country' : 'countries'}

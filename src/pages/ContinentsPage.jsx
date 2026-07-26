@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useCountriesIndex } from '../data/IndexContext'
 import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function ContinentsPage() {
   const { status, continents, error } = useCountriesIndex()
@@ -24,6 +25,7 @@ export default function ContinentsPage() {
 
   return (
     <div className="page">
+      <Breadcrumb items={[{ label: 'Home' }]} />
       <h1>Explore the World</h1>
       <p className="subtitle">Choose a continent to see its countries.</p>
       <div className="map-container">

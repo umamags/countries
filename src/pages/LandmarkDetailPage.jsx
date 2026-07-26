@@ -1,6 +1,7 @@
-import { Link, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { useContinent } from '../data/IndexContext'
 import { useCountry } from '../data/useCountry'
+import Breadcrumb from '../components/Breadcrumb'
 import { slugify } from '../utils/slug'
 
 export default function LandmarkDetailPage() {
@@ -20,9 +21,14 @@ export default function LandmarkDetailPage() {
 
   return (
     <div className="page">
-      <Link to={`/continent/${continent.slug}/country/${countrySlug}`} className="back-link">
-        ← {data.country}
-      </Link>
+      <Breadcrumb
+        items={[
+          { label: 'Home', to: '/' },
+          { label: continent.name, to: `/continent/${continent.slug}` },
+          { label: data.country, to: `/continent/${continent.slug}/country/${countrySlug}` },
+          { label: landmark.name },
+        ]}
+      />
       <h1>{landmark.name}</h1>
 
       {wiki?.image && <img className="landmark-image" src={wiki.image} alt={landmark.name} />}
