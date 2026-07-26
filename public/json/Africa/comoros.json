@@ -12,15 +12,26 @@
   "landmarks": [
     {
       "name": "Mount Karthala",
-      "writeup": "An active volcano and the highest point in Comoros, offering unique biodiversity and hiking opportunities."
+      "writeup": "An active volcano and the highest point in Comoros, offering unique biodiversity and hiking opportunities.",
+      "wiki": {
+        "extract": "Mount Karthala or Karthola is an active shield volcano and the highest point of the Comoros at 2,361 m (7,746 ft) above sea level. It is the southernmost and larger of the two volcanoes forming Grande Comore island, the largest island in the nation of Comoros. The Karthala volcano is very active, having erupted more than 20 times since the 19th century. Frequent eruptions have shaped the volcano's 3 km by 4 km summit caldera, but the island has largely escaped broad destruction. Eruptions on April 17, 2005 and May 29, 2006 ended a period of quiet.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mount_Karthala_%2811000398163%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Karthala"
+      }
     },
     {
       "name": "Medina of Moroni",
-      "writeup": "The historic old town of the capital city, featuring traditional Swahili architecture and vibrant markets."
+      "writeup": "The historic old town of the capital city, featuring traditional Swahili architecture and vibrant markets.",
+      "wiki": {
+        "extract": "Moroni is the largest city, national capital, and seat of the government of the Union of the Comoros, a sovereign archipelago nation in the Indian Ocean. Moroni means \"at the river\". Moroni is the capital of the semi-autonomous island of Ngazidja, the largest of the three main islands of the republic. The city's estimated population in 2003 was 41,557 residents. Moroni, which lies along the Route Nationale 1, has a port and several mosques such as the Badjanani Mosque.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Moroni-Harbour.jpg",
+        "url": "https://en.wikipedia.org/wiki/Moroni%2C_Comoros"
+      }
     },
     {
       "name": "Chomoni Beach",
-      "writeup": "A scenic beach known for its clear waters and coral reefs, popular for snorkeling and relaxation."
+      "writeup": "A scenic beach known for its clear waters and coral reefs, popular for snorkeling and relaxation.",
+      "wiki": null
     }
   ],
   "head_of_state": "President Azali Assoumani",

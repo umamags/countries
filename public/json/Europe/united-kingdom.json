@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Big Ben",
-      "writeup": "Iconic clock tower located at the north end of the Palace of Westminster in London."
+      "writeup": "Iconic clock tower located at the north end of the Palace of Westminster in London.",
+      "wiki": {
+        "extract": "Ben & Holly's Little Kingdom is a Malaysian-British-Canadian preschool children's animated television series. The show was created by Neville Astley and Mark Baker, and produced by Astley Baker Davies and by Entertainment One UK. Many of the voice actors who worked on Peppa Pig have lent their voices to the show; these include John Sparkes, Sarah Ann Kennedy, David Rintoul and David Graham. The music is composed, conducted, and produced by Julian Nott, who is noted for his Wallace and Gromit, Bing and Peppa Pig scores. Ben & Holly's Little Kingdom is the third show to be produced by Astley Baker Davies.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ben_%26_Holly%27s_Little_Kingdom_Logo_Nick_Jr.png",
+        "url": "https://en.wikipedia.org/wiki/Ben_%26_Holly's_Little_Kingdom"
+      }
     },
     {
       "name": "Stonehenge",
-      "writeup": "Prehistoric monument of standing stones in Wiltshire, England, dating back to around 3000 BC."
+      "writeup": "Prehistoric monument of standing stones in Wiltshire, England, dating back to around 3000 BC.",
+      "wiki": {
+        "extract": "Christianity is the largest religion in the United Kingdom, though it no longer represents a majority of the population. The United Kingdom was historically a Christian-majority country, but Christianity lost its majority status between 2010 and 2020.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Religion_in_the_United_Kingdom"
+      }
     },
     {
       "name": "Tower of London",
-      "writeup": "Historic castle on the north bank of the River Thames, known for its role in British history and housing the Crown Jewels."
+      "writeup": "Historic castle on the north bank of the River Thames, known for its role in British history and housing the Crown Jewels.",
+      "wiki": {
+        "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.1 million people in 2024. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
+        "url": "https://en.wikipedia.org/wiki/London"
+      }
     },
     {
       "name": "Edinburgh Castle",
-      "writeup": "Historic fortress dominating the skyline of Edinburgh, Scotland, with origins dating back to the 12th century."
+      "writeup": "Historic fortress dominating the skyline of Edinburgh, Scotland, with origins dating back to the 12th century.",
+      "wiki": {
+        "extract": "Edinburgh Castle is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role declined, and by the 17th century it was principally used as a military garrison. Its importance as a part of Scotland's national heritage was recognised increasingly from the early 19th century onwards, and various restoration programmes have been carried out over the past century and a half.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+        "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle"
+      }
     },
     {
       "name": "Buckingham Palace",
-      "writeup": "Official London residence of the British monarch and a symbol of the British monarchy."
+      "writeup": "Official London residence of the British monarch and a symbol of the British monarchy.",
+      "wiki": {
+        "extract": "Buckingham Palace is a royal residence and the administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Buckingham_Palace"
+      }
     }
   ],
   "head_of_state": "King Charles III",

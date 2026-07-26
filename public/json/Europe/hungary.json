@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Buda Castle",
-      "writeup": "A historic castle and palace complex of the Hungarian kings in Budapest, offering panoramic views of the city."
+      "writeup": "A historic castle and palace complex of the Hungarian kings in Budapest, offering panoramic views of the city.",
+      "wiki": {
+        "extract": "Buda Castle, formerly also called the Royal Palace and the Royal Castle, is the historical castle and palace complex of the Hungarian kings in Budapest. First completed in 1265, the Baroque palace that occupies most of the site today was built between 1749 and 1769, severely damaged during the Siege of Budapest in World War II, and rebuilt in a simplified Baroque style during the state communist era. Presently, it houses the Hungarian National Gallery, the Budapest Historical Museum, and the National Széchényi Library.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Budav%C3%A1ri_Palota%2C_ABCDEF_%C3%A9p%C3%BClet.jpg",
+        "url": "https://en.wikipedia.org/wiki/Buda_Castle"
+      }
     },
     {
       "name": "Parliament Building",
-      "writeup": "An iconic Gothic Revival building on the Danube River, serving as the seat of Hungary's National Assembly."
+      "writeup": "An iconic Gothic Revival building on the Danube River, serving as the seat of Hungary's National Assembly.",
+      "wiki": {
+        "extract": "The Hungarian Parliament Building, also known as the Parliament of Budapest after its location, is the seat of the National Assembly of Hungary, a notable landmark of Hungary, and a popular tourist destination in Budapest. It is situated on Kossuth Square in the Pest side of the city, on the eastern bank of the Danube. It was designed by Hungarian architect Imre Steindl in neo-Gothic style and opened in 1902. It has been the largest building in Hungary since its completion. The architectural style of the Hungarian parliament building was influenced by the gothic Vienna City Hall, and the renaissance elements like the cupola was influenced by the Maria vom Siege church in Vienna.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg/3840px-Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building"
+      }
     },
     {
       "name": "Fisherman's Bastion",
-      "writeup": "A terrace in neo-Gothic and neo-Romanesque style with lookout towers, providing scenic views over Budapest."
+      "writeup": "A terrace in neo-Gothic and neo-Romanesque style with lookout towers, providing scenic views over Budapest.",
+      "wiki": {
+        "extract": "The Halászbástya or Fisherman's Bastion is one of the best known historical monuments in Budapest, located near the Buda Castle, in the Várkerület. Since 1987, it has been designated a UNESCO World Heritage Site as part of the Várkerület District.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg",
+        "url": "https://en.wikipedia.org/wiki/Fisherman's_Bastion"
+      }
     },
     {
       "name": "Széchenyi Thermal Bath",
-      "writeup": "One of the largest medicinal bath complexes in Europe, known for its thermal waters and outdoor pools."
+      "writeup": "One of the largest medicinal bath complexes in Europe, known for its thermal waters and outdoor pools.",
+      "wiki": {
+        "extract": "The Széchenyi Medicinal Bath in Budapest is the largest medicinal bath in Europe. Its water is supplied by two thermal springs, one at 74 °C (165 °F) and the other at 77 °C (171 °F).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Budapest_Sz%C3%A9chenyi_Baths_R02.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sz%C3%A9chenyi_thermal_bath"
+      }
     },
     {
       "name": "Heroes' Square",
-      "writeup": "A major square in Budapest featuring statues of Hungary's most important national leaders and the Millennium Monument."
+      "writeup": "A major square in Budapest featuring statues of Hungary's most important national leaders and the Millennium Monument.",
+      "wiki": {
+        "extract": "Hősök tere is one of the major squares in Budapest, Hungary, noted for its iconic Millennium Monument with statues featuring the Seven chieftains of the Magyars and other important Hungarian national leaders, as well as the Memorial Stone of Heroes, often erroneously referred as the Tomb of the Unknown Soldier. The square lies at the outbound end of Andrássy Avenue next to City Park (Városliget). It hosts the Museum of Fine Arts and the Palace of Art (Műcsarnok). The square has played an important part in contemporary Hungarian history and has been a host to many political events, such as the reburial of Imre Nagy in 1989. Most sculptures were made by sculptor György Zala from Lendva, with one made by György Vastagh.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HUN-2015-Budapest-Heroes%E2%80%99_Square.jpg/3840px-HUN-2015-Budapest-Heroes%E2%80%99_Square.jpg",
+        "url": "https://en.wikipedia.org/wiki/Heroes'_Square_(Budapest)"
+      }
     }
   ],
   "head_of_state": "President Katalin Novák",

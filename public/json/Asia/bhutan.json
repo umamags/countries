@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Paro Taktsang (Tiger's Nest Monastery)",
-      "writeup": "A sacred Himalayan Buddhist site perched on a cliffside, known for its stunning views and spiritual significance."
+      "writeup": "A sacred Himalayan Buddhist site perched on a cliffside, known for its stunning views and spiritual significance.",
+      "wiki": {
+        "extract": "Paro Taktsang is a sacred Vajrayana Himalayan Buddhist site located in the cliffside of the upper Paro valley in Bhutan. It is one of thirteen Tiger's Nest caves in historical Tibet in which Padmasambhava practiced and taught Vajrayana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Paro_Taktsang"
+      }
     },
     {
       "name": "Punakha Dzong",
-      "writeup": "An impressive fortress and monastery located at the confluence of two rivers, serving as an important religious and administrative center."
+      "writeup": "An impressive fortress and monastery located at the confluence of two rivers, serving as an important religious and administrative center.",
+      "wiki": {
+        "extract": "The Punakha Dzong, also known as Pungthang Dewa Chhenbi Phodrang, is the administrative centre of Punakha District in Punakha, Bhutan. Constructed by Ngawang Namgyal, 1st Zhabdrung Rinpoche, in 1637–38, it is the second oldest and second-largest dzong in Bhutan and one of its most majestic structures. The dzong houses the sacred relics of the southern Drukpa Lineage of the Kagyu school of Tibetan Buddhism, including the Rangjung Kharsapani and the sacred remains of Ngawang Namgyal and the tertön Pema Lingpa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Punakha_Dzong%2C_Bhutan_02.jpg",
+        "url": "https://en.wikipedia.org/wiki/Punakha_Dzong"
+      }
     },
     {
       "name": "Bumthang Valley",
-      "writeup": "A culturally rich valley known as the spiritual heartland of Bhutan, featuring ancient temples and monasteries."
+      "writeup": "A culturally rich valley known as the spiritual heartland of Bhutan, featuring ancient temples and monasteries.",
+      "wiki": {
+        "extract": "Bumthang Valley is the main inhabited valley in the Bumthang district of Bhutan.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bumthang-Tal_in_Bhutan.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bumthang_Valley"
+      }
     }
   ],
   "head_of_state": "King Jigme Khesar Namgyel Wangchuck",

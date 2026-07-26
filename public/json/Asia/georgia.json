@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Narikala Fortress",
-      "writeup": "An ancient fortress overlooking Tbilisi, offering panoramic views of the city and the Kura River."
+      "writeup": "An ancient fortress overlooking Tbilisi, offering panoramic views of the city and the Kura River.",
+      "wiki": {
+        "extract": "Narikala is an ancient fortress overlooking Tbilisi, the capital of Georgia, and the Mtkvari (Kura) River. The fortress consists of two walled sections on a steep hill between the sulfur baths and the botanical gardens of Tbilisi. On the lower court there is the recently restored St Nicholas church. Newly built in 1996–1997, it replaces the original 13th-century church that was destroyed in a fire. The new church is of \"prescribed cross\" type, having doors on three sides. The internal part of the church is decorated with the frescos showing scenes from both the Bible and the history of Georgia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tbilisi_IMG_8846_1920.jpg",
+        "url": "https://en.wikipedia.org/wiki/Narikala"
+      }
     },
     {
       "name": "Svetitskhoveli Cathedral",
-      "writeup": "A UNESCO World Heritage site in Mtskheta, known for its architectural beauty and religious significance."
+      "writeup": "A UNESCO World Heritage site in Mtskheta, known for its architectural beauty and religious significance.",
+      "wiki": {
+        "extract": "The Svetitskhoveli Cathedral is an Orthodox Christian cathedral located in the historic town of Mtskheta, Georgia, northwest of the Georgian capital Tbilisi. A masterpiece of the Early and High Middle Ages, Svetitskhoveli is recognized by UNESCO as a World Heritage Site. It is currently the second-largest church building in Georgia, after the Holy Trinity Cathedral.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/3840px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral"
+      }
     },
     {
       "name": "Uplistsikhe",
-      "writeup": "An ancient rock-hewn town that showcases early urban culture in the region."
+      "writeup": "An ancient rock-hewn town that showcases early urban culture in the region.",
+      "wiki": {
+        "extract": "Uplistsikhe is an ancient rock-hewn town in eastern Georgia, some 10 kilometers east of the town of Gori, Shida Kartli.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg/3840px-Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Uplistsikhe"
+      }
     },
     {
       "name": "Gergeti Trinity Church",
-      "writeup": "A 14th-century church located near Mount Kazbek, famous for its scenic mountain backdrop."
+      "writeup": "A 14th-century church located near Mount Kazbek, famous for its scenic mountain backdrop.",
+      "wiki": {
+        "extract": "Gergeti Trinity Church is a popular name for the Holy Trinity Church near the village of Stepantsminda in Georgia. The church is situated on the right bank of the river Chkheri, at an elevation of 2,170 metres (7,120 ft), under Mount Kazbek.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gergeti_Trinity_Church_09.23.jpg/3840px-Gergeti_Trinity_Church_09.23.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church"
+      }
     },
     {
       "name": "Vardzia",
-      "writeup": "A cave monastery complex carved into the cliffs, dating back to the 12th century."
+      "writeup": "A cave monastery complex carved into the cliffs, dating back to the 12th century.",
+      "wiki": {
+        "extract": "Vardzia is a cave monastery site in southern Georgia, excavated from the slopes of the Erusheti Mountain on the left bank of the Kura River, thirty kilometres from Aspindza. The main period of construction was the second half of the twelfth century. The caves stretch along the cliff for some five hundred meters and in up to nineteen tiers. The monastery was an important cultural center, a place of significant literary and artistic work.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/3840px-2025-05-25_Vardzia_9.jpg",
+        "url": "https://en.wikipedia.org/wiki/Vardzia"
+      }
     }
   ],
   "head_of_state": "Salome Zourabichvili (President)",

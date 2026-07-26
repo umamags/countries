@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Schönbrunn Palace",
-      "writeup": "A former imperial summer residence in Vienna, known for its Baroque architecture and extensive gardens."
+      "writeup": "A former imperial summer residence in Vienna, known for its Baroque architecture and extensive gardens.",
+      "wiki": {
+        "extract": "Schönbrunn Palace was the main summer residence of the Habsburg rulers, located in Hietzing, the 13th district of Vienna. The name Schönbrunn has its roots in an artesian well from which water was consumed by the court.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG/3840px-Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+        "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace"
+      }
     },
     {
       "name": "Hofburg Palace",
-      "writeup": "The former imperial palace in Vienna, now serving as the official residence of the President of Austria."
+      "writeup": "The former imperial palace in Vienna, now serving as the official residence of the President of Austria.",
+      "wiki": {
+        "extract": "The Hofburg is a former Habsburg palace in Innsbruck, Austria, and considered one of the three most significant cultural buildings in the country, along with the Hofburg Palace and Schönbrunn Palace in Vienna. The Hofburg is the main building of a large residential complex once used by the Habsburgs that still includes the Noblewomen's Collegiate Foundation, the Silver Chapel, the Hofkirche containing Emperor Maximilian's cenotaph and the Schwarzen Mandern, the Theological University, the Tyrolean Folk Art Museum, Innsbruck Cathedral, the Congress, and the Hofgarten.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Innsbruck_-_Hofburg2.jpg/3840px-Innsbruck_-_Hofburg2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hofburg%2C_Innsbruck"
+      }
     },
     {
       "name": "St. Stephen's Cathedral",
-      "writeup": "A Gothic cathedral in Vienna, notable for its multi-colored tile roof and as a symbol of the city."
+      "writeup": "A Gothic cathedral in Vienna, notable for its multi-colored tile roof and as a symbol of the city.",
+      "wiki": {
+        "extract": "St. Stephen's Cathedral is a Roman Catholic church in Vienna, Austria, and the mother church of the Archdiocese of Vienna. It is the seat of the Archbishop of Vienna, Josef Grünwidl.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wien_-_Stephansdom_%281%29.JPG",
+        "url": "https://en.wikipedia.org/wiki/St._Stephen's_Cathedral%2C_Vienna"
+      }
     },
     {
       "name": "Salzburg Old Town",
-      "writeup": "A UNESCO World Heritage site famous for its baroque architecture and as the birthplace of Mozart."
+      "writeup": "A UNESCO World Heritage site famous for its baroque architecture and as the birthplace of Mozart.",
+      "wiki": {
+        "extract": "Salzburg is the fourth-largest city in Austria. In 2026 its population was 157,994. The city lies on the Salzach River, near the border with Germany and at the foot of the Alps mountains.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Salzburg_%2848489551981%29.jpg/3840px-Salzburg_%2848489551981%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Salzburg"
+      }
     },
     {
       "name": "Grossglockner High Alpine Road",
-      "writeup": "A scenic mountain road offering views of Austria's highest peak, Grossglockner."
+      "writeup": "A scenic mountain road offering views of Austria's highest peak, Grossglockner.",
+      "wiki": {
+        "extract": "The Grossglockner High Alpine Road is the highest surfaced mountain pass road in Austria. It connects Bruck in the state of Salzburg with Heiligenblut in Carinthia via the Fuscher Törl at 2,428 m (7,966 ft) and the Hochtor Pass at 2,504 m (8,215 ft). The road is named after the Grossglockner, Austria's highest mountain. Built as a scenic route, a toll is charged.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Grossglockner_road.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grossglockner_High_Alpine_Road"
+      }
     }
   ],
   "head_of_state": "President Alexander Van der Bellen",

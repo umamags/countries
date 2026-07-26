@@ -15,23 +15,48 @@
   "landmarks": [
     {
       "name": "Bwindi Impenetrable National Park",
-      "writeup": "A UNESCO World Heritage site known for its mountain gorilla population and rich biodiversity."
+      "writeup": "A UNESCO World Heritage site known for its mountain gorilla population and rich biodiversity.",
+      "wiki": {
+        "extract": "Bwindi Impenetrable National Park is a national park in southwestern Uganda. It is part of the Bwindi Impenetrable Forest and is situated along the Democratic Republic of the Congo border next to the Virunga National Park and on the edge of the Albertine Rift. Composed of 321 km2 (124 sq mi) of both lowland and montane forest, it is accessible only on foot. It is a United Nations Educational, Scientific and Cultural Organization-designated World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bwindi.JPG",
+        "url": "https://en.wikipedia.org/wiki/Bwindi_Impenetrable_National_Park"
+      }
     },
     {
       "name": "Murchison Falls National Park",
-      "writeup": "Famous for the powerful Murchison Falls where the Nile River squeezes through a narrow gorge."
+      "writeup": "Famous for the powerful Murchison Falls where the Nile River squeezes through a narrow gorge.",
+      "wiki": {
+        "extract": "Murchison Falls National Park is a national park in Uganda managed by the Ugandan Wildlife Authority. Located in north-western Uganda, it spreads inland from the shores of Lake Albert around the Victoria Nile up to the Karuma Falls.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Murchison_Falls_-_by_Boschlech.jpg",
+        "url": "https://en.wikipedia.org/wiki/Murchison_Falls_National_Park"
+      }
     },
     {
       "name": "Lake Victoria",
-      "writeup": "The largest lake in Africa and the source of the White Nile, shared by Uganda, Kenya, and Tanzania."
+      "writeup": "The largest lake in Africa and the source of the White Nile, shared by Uganda, Kenya, and Tanzania.",
+      "wiki": {
+        "extract": "Lake Victoria is one of the African Great Lakes. With a surface area of approximately 59,947 km2 (23,146 sq mi), Lake Victoria is Africa's largest lake by area, the world's largest tropical lake, and the world's second-largest fresh water lake by surface area after Lake Superior in North America. In terms of volume, Lake Victoria is the world's ninth-largest continental lake, containing about 2,424 km3 (1.965×109 acre⋅ft) of water. Lake Victoria occupies a shallow depression in Africa. The lake has an average depth of 40 m (130 ft) and a maximum depth of 80–81 m (262–266 ft). Its catchment area covers 169,858 km2 (65,583 sq mi). The lake has a shoreline of 7,142 km (4,438 mi) when digitized at the 1:25,000 level, with islands constituting 3.7% of this length.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ISS042-E-263206_-_View_of_Earth.jpg/3840px-ISS042-E-263206_-_View_of_Earth.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Victoria"
+      }
     },
     {
       "name": "Kasubi Tombs",
-      "writeup": "A cultural site and burial ground of Buganda kings, recognized by UNESCO for its traditional architecture."
+      "writeup": "A cultural site and burial ground of Buganda kings, recognized by UNESCO for its traditional architecture.",
+      "wiki": {
+        "extract": "The Kasubi Tombs in Kampala, Uganda, is the site of the burial grounds for four kabakas and other members of the Baganda royal family. As a result, the site remains an important spiritual and political site for the Ganda people, as well as an important example of traditional architecture. It became a UNESCO World Heritage Site in December 2001, when it was described as \"one of the most remarkable buildings using purely vegetal materials in the entire region of sub-Saharan Africa\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kampala_Kasubi_Tombs.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kasubi_Tombs"
+      }
     },
     {
       "name": "Rwenzori Mountains",
-      "writeup": "Also called the Mountains of the Moon, known for their snow-capped peaks and unique flora."
+      "writeup": "Also called the Mountains of the Moon, known for their snow-capped peaks and unique flora.",
+      "wiki": {
+        "extract": "The Rwenzori are a range of mountains in eastern equatorial Africa, located on the border between Uganda and the Democratic Republic of the Congo. The highest peak of the Ruwenzori reaches 5,109 metres (16,762 ft), and the range's upper regions are permanently snow-capped and glaciated. Rivers fed by mountain streams form one of the sources of the Nile. Because of this, European explorers linked the Ruwenzori with the legendary Mountains of the Moon, claimed by the Greek scholar Ptolemy as the source of the Nile. Virunga National Park in eastern DR Congo and Rwenzori Mountains National Park in southwestern Uganda are located within the range.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/1172_ruwenzori.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rwenzori_Mountains"
+      }
     }
   ],
   "head_of_state": "President Yoweri Museveni",

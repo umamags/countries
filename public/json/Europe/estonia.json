@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Tallinn Old Town",
-      "writeup": "A well-preserved medieval city center, known for its cobblestone streets and historic architecture."
+      "writeup": "A well-preserved medieval city center, known for its cobblestone streets and historic architecture.",
+      "wiki": {
+        "extract": "Tallinn Old Town is the oldest part of Tallinn, Estonia. Old Town of Tallinn has managed to wholly preserve its structure of medieval and Hanseatic origin. Old Town represents an exceptionally intact 13th century city plan. Since 1997, the area has been registered in the UNESCO World Heritage List. The old town is bordered by the Walls of Tallinn. Its area is 113 ha and there is a buffer zone of 2,253 ha.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Old_Town_of_Tallinn%2C_Tallinn%2C_Estonia_-_panoramio_%2858%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tallinn_Old_Town"
+      }
     },
     {
       "name": "Toompea Castle",
-      "writeup": "A historic castle complex in Tallinn, currently housing the Estonian Parliament."
+      "writeup": "A historic castle complex in Tallinn, currently housing the Estonian Parliament.",
+      "wiki": {
+        "extract": "Toompea castle is a medieval castle on Toompea hill in the central part of Tallinn, the capital of Estonia. In modern times, it houses the Parliament of Estonia (Riigikogu).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Toompea_loss_2014.jpg/3840px-Toompea_loss_2014.jpg",
+        "url": "https://en.wikipedia.org/wiki/Toompea_Castle"
+      }
     },
     {
       "name": "Lahemaa National Park",
-      "writeup": "One of Europe's largest national parks, featuring forests, bogs, and coastal landscapes."
+      "writeup": "One of Europe's largest national parks, featuring forests, bogs, and coastal landscapes.",
+      "wiki": {
+        "extract": "Lahemaa National Park is a park in northern Estonia, 70 kilometers east from the capital Tallinn. The Gulf of Finland is to the north of the park and the Tallinn-Narva highway (E20) to the south. Its area covers 747 km2. It was the first area to be designated a national park of the former Soviet Union. It is the largest park in Estonia and one of Europe's biggest national parks. Its charter calls for the preservation, research and promotion of North-Estonian landscapes, ecosystems, biodiversity and national heritage.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Viru_Bog%2C_Parque_Nacional_Lahemaa%2C_Estonia%2C_2012-08-12%2C_DD_26.JPG/3840px-Viru_Bog%2C_Parque_Nacional_Lahemaa%2C_Estonia%2C_2012-08-12%2C_DD_26.JPG",
+        "url": "https://en.wikipedia.org/wiki/Lahemaa_National_Park"
+      }
     },
     {
       "name": "Alexander Nevsky Cathedral",
-      "writeup": "A prominent Russian Orthodox cathedral in Tallinn, noted for its distinctive onion domes."
+      "writeup": "A prominent Russian Orthodox cathedral in Tallinn, noted for its distinctive onion domes.",
+      "wiki": {
+        "extract": "The Alexander Nevsky Cathedral of Tallinn is an Eastern Orthodox cathedral in central Tallinn, Estonia. It was built in 1894–1900, when the country was part of the former Russian Empire. The cathedral is the city's largest cupola church. The late Patriarch Alexy II of Moscow (1929–2008) started his priestly ministry in the cathedral. It is the primary cathedral of the semi-autonomous Estonian Orthodox Church of the Moscow Patriarchate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Catedral_de_Alejandro_Nevsky%2C_Tallin%2C_Estonia%2C_2012-08-11%2C_DD_46.JPG/3840px-Catedral_de_Alejandro_Nevsky%2C_Tallin%2C_Estonia%2C_2012-08-11%2C_DD_46.JPG",
+        "url": "https://en.wikipedia.org/wiki/Alexander_Nevsky_Cathedral%2C_Tallinn"
+      }
     },
     {
       "name": "Pärnu Beach",
-      "writeup": "A popular summer destination known for its sandy beaches and spa resorts."
+      "writeup": "A popular summer destination known for its sandy beaches and spa resorts.",
+      "wiki": {
+        "extract": "Pärnu is a city in southwest Estonia. Pärnu is located 128 kilometres (80 mi) south of the Estonian capital, Tallinn, and 176 kilometres (109 mi) west of Estonia's second-largest city, Tartu. The city sits off the coast of Pärnu Bay, an inlet of the Gulf of Riga, which is a part of the Baltic Sea. In the city, the Pärnu River drains into the Gulf of Riga.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg/3840px-P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/P%C3%A4rnu"
+      }
     }
   ],
   "head_of_state": "Alar Karis (President)",

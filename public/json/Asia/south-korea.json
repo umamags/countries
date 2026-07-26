@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Gyeongbokgung Palace",
-      "writeup": "A grand royal palace in Seoul, originally built in 1395, symbolizing the Joseon Dynasty's heritage."
+      "writeup": "A grand royal palace in Seoul, originally built in 1395, symbolizing the Joseon Dynasty's heritage.",
+      "wiki": {
+        "extract": "Gyeongbokgung is a former royal palace in Seoul, South Korea. Established in 1395, it was the first royal palace of the Joseon dynasty, and is now one of the most significant tourist attractions in the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/3840px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gyeongbokgung"
+      }
     },
     {
       "name": "N Seoul Tower",
-      "writeup": "A communication and observation tower offering panoramic views of Seoul."
+      "writeup": "A communication and observation tower offering panoramic views of Seoul.",
+      "wiki": {
+        "extract": "Namsan Seoul Tower, also known as the YTN Seoul Tower, Namsan Tower, Seoul Tower or N Seoul Tower, is a communication and observation tower located on the summit of Namsan in central Seoul, South Korea. The 236-metre-tall (774 ft) structure was the nation’s first tower servicing multiple TV and radio broadcasters, and is considered a landmark and symbol of the city.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/NamsanTower_%28Cropped%29.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower"
+      }
     },
     {
       "name": "Jeju Island",
-      "writeup": "A volcanic island known for its unique natural beauty, including lava tubes and waterfalls."
+      "writeup": "A volcanic island known for its unique natural beauty, including lava tubes and waterfalls.",
+      "wiki": {
+        "extract": "Jeju Island is South Korea's largest island, covering an area of 1,833.2 km2 (707.8 sq mi), which is 1.83% of the total area of the country. Alongside outlying islands, it is part of Jeju Province and makes up the majority of the province.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jeju_Island.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jeju_Island"
+      }
     },
     {
       "name": "Bukchon Hanok Village",
-      "writeup": "A traditional Korean village in Seoul with well-preserved hanok houses."
+      "writeup": "A traditional Korean village in Seoul with well-preserved hanok houses.",
+      "wiki": {
+        "extract": "Bukchon Hanok Village (Korean: 북촌한옥마을) is a residential neighborhood in Jongno District, Seoul, South Korea. It has many restored traditional Korean houses, called hanok. This has made it a popular tourist destination.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/3840px-Bukchon_Hanok_Village_01.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bukchon_Hanok_Village"
+      }
     },
     {
       "name": "DMZ (Demilitarized Zone)",
-      "writeup": "A buffer zone between North and South Korea, symbolizing the ongoing division of the peninsula."
+      "writeup": "A buffer zone between North and South Korea, symbolizing the ongoing division of the peninsula.",
+      "wiki": {
+        "extract": "A demilitarized zone is an area in which treaties or agreements between states, military powers or contending groups forbid military installations, activities, or personnel. A DZ often lies along an established frontier or boundary between two or more military powers or alliances. A DZ may sometimes form a de facto international border, such as the Korean Demilitarized Zone. Other examples of demilitarized zones are a 14 km (8.7 mi) wide area between Iraq and Kuwait; Antarctica ; and outer space.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20120416_WN_C1022490_0002_-_Flickr_-_NZ_Defence_Force.jpg/3840px-20120416_WN_C1022490_0002_-_Flickr_-_NZ_Defence_Force.jpg",
+        "url": "https://en.wikipedia.org/wiki/Demilitarized_zone"
+      }
     }
   ],
   "head_of_state": "President Yoon Suk-yeol",

@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Ancient City of Babylon",
-      "writeup": "A historic city famous for its ancient ruins and the Hanging Gardens, one of the Seven Wonders of the Ancient World."
+      "writeup": "A historic city famous for its ancient ruins and the Hanging Gardens, one of the Seven Wonders of the Ancient World.",
+      "wiki": {
+        "extract": "Babylon is an ancient city located on the lower Euphrates river in southern Mesopotamia, within modern-day Hillah, Iraq, about 85 kilometres south of modern-day Baghdad. Babylon functioned as the main cultural and political centre of the Akkadian-speaking region of Babylonia. Its rulers established two important empires in antiquity, the 19th–16th century BC Old Babylonian Empire, and the 7th–6th century BC Neo-Babylonian Empire. Babylon was also used as a regional capital of other empires, such as the Achaemenid Empire. Babylon was one of the most important urban centres of the ancient Near East, until its decline during the Hellenistic period. Nearby ancient sites include Kish, Borsippa, Dilbat, and Kutha.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ishtar_Gate.jpg",
+        "url": "https://en.wikipedia.org/wiki/Babylon"
+      }
     },
     {
       "name": "Al-Mustansiriya University",
-      "writeup": "One of the oldest universities in the world, established in Baghdad in the 13th century."
+      "writeup": "One of the oldest universities in the world, established in Baghdad in the 13th century.",
+      "wiki": {
+        "extract": "Al-Mustansiriya University is a public university located in Baghdad, Iraq. It traces its origin back to 1227. The modern form of the university was founded in 1963.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Al-Mustansriah_School_-_Main_door.jpg/3840px-Al-Mustansriah_School_-_Main_door.jpg",
+        "url": "https://en.wikipedia.org/wiki/Al-Mustansiriya_University"
+      }
     },
     {
       "name": "Erbil Citadel",
-      "writeup": "A continuously inhabited settlement and one of the oldest human-made structures in the world."
+      "writeup": "A continuously inhabited settlement and one of the oldest human-made structures in the world.",
+      "wiki": {
+        "extract": "The Citadel of Erbil, locally called Qellat, is a tell or occupied mound, and the historical city centre of Erbil in the Kurdistan Region of Iraq. The citadel was added to the World Heritage List on 21 June 2014.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hawler_Castle.jpg",
+        "url": "https://en.wikipedia.org/wiki/Citadel_of_Erbil"
+      }
     },
     {
       "name": "Great Mosque of Samarra",
-      "writeup": "Known for its unique spiral minaret, it was once the largest mosque in the world."
+      "writeup": "Known for its unique spiral minaret, it was once the largest mosque in the world.",
+      "wiki": {
+        "extract": "The Great Mosque of Samarra or Al-Malwiya Mosque is a former congregational mosque, now in partial ruins, in Samarra, in the Saladin Governorate of Iraq. The mosque was commissioned in 848 CE and completed in 851 by the Abbasid caliph Al-Mutawakkil. At the time of construction it was the world's largest mosque. It is known for its 52-metre-high (171 ft) minaret encircled by a spiral ramp. The former mosque is within the 15,058-hectare (37,210-acre) Samarra Archaeological City UNESCO World Heritage Site, listed in 2007.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Samrraa_05.jpg/3840px-Samrraa_05.jpg",
+        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Samarra"
+      }
     },
     {
       "name": "Ziggurat of Ur",
-      "writeup": "An ancient Sumerian ziggurat located near Nasiriyah, dating back to the 21st century BCE."
+      "writeup": "An ancient Sumerian ziggurat located near Nasiriyah, dating back to the 21st century BCE.",
+      "wiki": {
+        "extract": "The Ziggurat of Ur is a Neo-Sumerian ziggurat in what was the city of Ur near Nasiriyah, in present-day Dhi Qar Province, Iraq. The structure was built during the Early Bronze Age by King Ur-Nammu of the Third Dynasty of Ur. It had crumbled to ruins by the 6th century BC of the Neo-Babylonian period, when it was restored by King Nabonidus.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ziggarat_of_Ur_001.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+      }
     }
   ],
   "head_of_state": "President Abdul Latif Rashid",

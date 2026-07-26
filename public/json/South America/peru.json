@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Machu Picchu",
-      "writeup": "An ancient Incan city set high in the Andes Mountains, renowned for its archaeological significance and stunning panoramic views."
+      "writeup": "An ancient Incan city set high in the Andes Mountains, renowned for its archaeological significance and stunning panoramic views.",
+      "wiki": {
+        "extract": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft). It is situated in the Machupicchu District of Urubamba Province about 80 kilometers northwest of Cusco, above the Sacred Valley and along the Urubamba River, which forms a deep canyon with a subtropical mountain climate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/3840px-Machu_Picchu%2C_2023_%28012%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Machu_Picchu"
+      }
     },
     {
       "name": "Nazca Lines",
-      "writeup": "A series of large ancient geoglyphs in the Nazca Desert, depicting various animals and shapes, visible from the air."
+      "writeup": "A series of large ancient geoglyphs in the Nazca Desert, depicting various animals and shapes, visible from the air.",
+      "wiki": {
+        "extract": "The Nazca lines are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures have been found with the use of drones, and archaeologists believe that there are more to be found.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/3840px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+        "url": "https://en.wikipedia.org/wiki/Nazca_lines"
+      }
     },
     {
       "name": "Lake Titicaca",
-      "writeup": "The highest navigable lake in the world, shared with Bolivia, known for its cultural heritage and floating reed islands."
+      "writeup": "The highest navigable lake in the world, shared with Bolivia, known for its cultural heritage and floating reed islands.",
+      "wiki": {
+        "extract": "Lake Titicaca is a large lake in the Andes mountains on the border of Bolivia and Peru. It is often called the highest navigable lake in the world. It is often listed as a freshwater lake, though its waters are slightly brackish. Titicaca is the largest lake in South America, both in terms of the volume of water and surface area. It is the 18th largest lake in the world. It has a surface elevation of 3,812 m (12,507 ft).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lake_Titicaca_ESA22522896.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
+      }
     },
     {
       "name": "Colca Canyon",
-      "writeup": "One of the deepest canyons in the world, famous for condor sightings and traditional Andean villages."
+      "writeup": "One of the deepest canyons in the world, famous for condor sightings and traditional Andean villages.",
+      "wiki": {
+        "extract": "The Colca Canyon is a canyon of the Colca River in southern Peru, located about 160 kilometres (99 mi) northwest of Arequipa. With a depth of about 3,270 metres (10,730 ft), it is one of the deepest canyons in the world. Its length is about 70 kilometres (43 mi). The Colca Valley is a colorful Andean valley with pre-Inca rooted inhabitants, and towns founded in Spanish colonial times, still inhabited by people of the Collagua and Cabana cultures. The local people maintain their ancestral traditions and continue to cultivate the pre-Inca stepped terraces, called andenes.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colca_Canyon_Puno.jpg",
+        "url": "https://en.wikipedia.org/wiki/Colca_Canyon"
+      }
     },
     {
       "name": "Historic Centre of Lima",
-      "writeup": "The capital city's colonial core, featuring Spanish Baroque architecture and significant cultural landmarks."
+      "writeup": "The capital city's colonial core, featuring Spanish Baroque architecture and significant cultural landmarks.",
+      "wiki": {
+        "extract": "The Historic Centre of Lima is the historic city centre of the city of Lima, the capital of Peru. Located in the city's districts of Lima and Rímac, both in the Rímac Valley, it consists of two areas: the first is the Monumental Zone established by the Peruvian government in 1972, and the second one—contained within the first one—is the World Heritage Site established by UNESCO in 1988, whose buildings are marked with the organisation's black-and-white shield.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plaza_de_Armas%2C_Lima.jpg",
+        "url": "https://en.wikipedia.org/wiki/Historic_Centre_of_Lima"
+      }
     }
   ],
   "head_of_state": "Dina Boluarte (President as of 2024)",

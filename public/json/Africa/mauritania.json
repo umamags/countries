@@ -14,23 +14,48 @@
   "landmarks": [
     {
       "name": "Banc d'Arguin National Park",
-      "writeup": "A UNESCO World Heritage site known for its rich biodiversity, especially migratory birds and marine life."
+      "writeup": "A UNESCO World Heritage site known for its rich biodiversity, especially migratory birds and marine life.",
+      "wiki": {
+        "extract": "The Banc d'Arguin National Park of Bay of Arguin lies in Western Africa on the west coast of Mauritania between Nouakchott and Nouadhibou and is the former mouth of the Tamanrasset River. The World Heritage Site is a major site for migratory birds and breeding birds, including flamingos, pelicans and terns. Much of the breeding is on sand banks including the islands of Tidra, Niroumi, Nair, Kijji and Arguim. The surrounding waters are some of the richest fishing waters in western Africa and serve as nesting grounds for the entire western region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bancdarguin_map_lg.jpg",
+        "url": "https://en.wikipedia.org/wiki/Banc_d'Arguin_National_Park"
+      }
     },
     {
       "name": "Chinguetti Mosque",
-      "writeup": "An ancient mosque and one of the oldest in continuous use in the Muslim world, located in the historic town of Chinguetti."
+      "writeup": "An ancient mosque and one of the oldest in continuous use in the Muslim world, located in the historic town of Chinguetti.",
+      "wiki": {
+        "extract": "The Chinguetti Mosque, also known as the Chinguetti Great Mosque, is a Sunni Islam mosque in Chinguetti, Adrar Region, Mauritania. The minaret of this ancient structure is claimed to be the second oldest in continuous use anywhere in the Muslim world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%D9%86%D9%82%D9%8A%D8%B7_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A.jpg/3840px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%D9%86%D9%82%D9%8A%D8%B7_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A.jpg",
+        "url": "https://en.wikipedia.org/wiki/Chinguetti_Mosque"
+      }
     },
     {
       "name": "Nouakchott",
-      "writeup": "The capital city, serving as the political and economic center of Mauritania."
+      "writeup": "The capital city, serving as the political and economic center of Mauritania.",
+      "wiki": {
+        "extract": "Nouakchott is the capital and largest city of Mauritania. Located in the southwestern part of the country, it is one of the largest cities in the Sahara. The city also serves as the administrative and economic center of Mauritania.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nouakchott.jpg",
+        "url": "https://en.wikipedia.org/wiki/Nouakchott"
+      }
     },
     {
       "name": "Terjit Oasis",
-      "writeup": "A natural oasis in the Adrar region, popular for its palm groves and natural springs."
+      "writeup": "A natural oasis in the Adrar region, popular for its palm groves and natural springs.",
+      "wiki": {
+        "extract": "Terjit is an oasis, 45km by road south of Atar and popular with tourists in Mauritania. It nestles in a gorge on the western edge of the Adrar plateau with the palm grove stretching a few hundred meters alongside a stream which emerges from a spring. Terjit is part of the commune of Maaden in the Aoujeft Department.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Oasis_de_Tergit_%2802%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Terjit"
+      }
     },
     {
       "name": "Adrar Plateau",
-      "writeup": "A mountainous region with desert landscapes, ancient rock art, and historic caravan routes."
+      "writeup": "A mountainous region with desert landscapes, ancient rock art, and historic caravan routes.",
+      "wiki": {
+        "extract": "The Adrar is a highland natural and historical region of the Sahara Desert in northern Mauritania. The Adrar Region, an administrative division of Mauritania, is named after the traditional region. It is sometimes called Adrar Tamar to distinguish it from other areas called Adrar in the Sahara.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Adrar-Reg_%281%29.JPG",
+        "url": "https://en.wikipedia.org/wiki/Adrar_Plateau"
+      }
     }
   ],
   "head_of_state": "President Mohamed Ould Ghazouani",

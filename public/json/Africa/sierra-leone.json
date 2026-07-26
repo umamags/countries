@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Tacugama Chimpanzee Sanctuary",
-      "writeup": "A sanctuary dedicated to the protection and rehabilitation of chimpanzees, promoting wildlife conservation."
+      "writeup": "A sanctuary dedicated to the protection and rehabilitation of chimpanzees, promoting wildlife conservation.",
+      "wiki": {
+        "extract": "Sierra Leone, officially the Republic of Sierra Leone, is a country on the west coast of West Africa. It is bordered to the southeast by Liberia and by Guinea to the north. Sierra Leone's land area is 73,252 km2 (28,283 sq mi). It has a tropical climate and environments ranging from savannahs to rainforests. As of the 2023 census, Sierra Leone had a population of 8,460,512. Freetown is its capital and largest city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/960px-Flag_of_Sierra_Leone.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Sierra_Leone"
+      }
     },
     {
       "name": "Bunce Island",
-      "writeup": "An important historical site, Bunce Island was a major slave trading post during the transatlantic slave trade."
+      "writeup": "An important historical site, Bunce Island was a major slave trading post during the transatlantic slave trade.",
+      "wiki": {
+        "extract": "Bunce Island is an island in the Sierra Leone River. It is situated in the estuary of the Rokel River and Port Loko Creek, about 20 miles upriver from Sierra Leone's capital city Freetown. The island measures about 1,650 feet by 350 feet and houses a castle that was built by the Royal Africa Company in c.1670.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Freetown_SPOT_1094.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bunce_Island"
+      }
     },
     {
       "name": "Freetown Cotton Tree",
-      "writeup": "A historic symbol in Freetown, believed to be the site where freed slaves first gathered upon arrival."
+      "writeup": "A historic symbol in Freetown, believed to be the site where freed slaves first gathered upon arrival.",
+      "wiki": {
+        "extract": "The Cotton Tree is a kapok tree that is a historic symbol of Freetown, the capital city of Sierra Leone. The Cotton Tree gained importance in 1792 when a group of formerly enslaved African Americans, who had gained their freedom by fighting for the British during the American Revolutionary War, settled the site of modern Freetown. These former Black Loyalist soldiers, also known as Black Nova Scotians, resettled in Sierra Leone and founded Freetown on 11 March 1792. The descendants of the Nova Scotian settlers form part of the Sierra Leone Creole ethnicity today.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cotton_Tree_with_stump_and_Sierra_Leonean_flag.jpg",
+        "url": "https://en.wikipedia.org/wiki/Cotton_Tree_(Sierra_Leone)"
+      }
     }
   ],
   "head_of_state": "President Julius Maada Bio",

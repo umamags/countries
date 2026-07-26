@@ -5,6 +5,7 @@ import { useCountry } from '../data/useCountry'
 import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
 import VideoModal from '../components/VideoModal'
+import { slugify } from '../utils/slug'
 
 function Fact({ label, value }) {
   if (!value) return null
@@ -26,6 +27,28 @@ function NamedList({ title, items, textKey }) {
           <li key={i}>
             <span className="named-list-name">{item.name}</span>
             {item[textKey] ? <span className="named-list-text"> — {item[textKey]}</span> : null}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+function LandmarkList({ items, continentSlug, countrySlug }) {
+  if (!items || items.length === 0) return null
+  return (
+    <section className="detail-section">
+      <h3>Main Landmarks</h3>
+      <ul className="named-list">
+        {items.map((item, i) => (
+          <li key={i}>
+            <Link
+              className="named-list-name landmark-link"
+              to={`/continent/${continentSlug}/country/${countrySlug}/landmark/${slugify(item.name)}`}
+            >
+              {item.name}
+            </Link>
+            {item.writeup ? <span className="named-list-text"> — {item.writeup}</span> : null}
           </li>
         ))}
       </ul>
@@ -109,7 +132,7 @@ export default function CountryDetailPage() {
         <Fact label="Head of State / Government" value={data.head_of_state} />
       </dl>
 
-      <NamedList title="Main Landmarks" items={data.landmarks} textKey="writeup" />
+      <LandmarkList items={data.landmarks} continentSlug={continent.slug} countrySlug={countrySlug} />
       <NamedList title="Main Cultural Events" items={data.cultural_events} textKey="writeup" />
 
       {data.food_writeup && (

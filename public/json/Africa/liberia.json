@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Providence Island",
-      "writeup": "Historic island where freed American slaves first landed in 1822, marking the foundation of Liberia."
+      "writeup": "Historic island where freed American slaves first landed in 1822, marking the foundation of Liberia.",
+      "wiki": {
+        "extract": "Providence Island was the site of the first successful settlement of American freedmen by the American Colonization Society in Liberia. It has been proposed as a UNESCO World Heritage Site by the government of Liberia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Providence_Island_view_of_downtown_Monrovia.jpg",
+        "url": "https://en.wikipedia.org/wiki/Providence_Island%2C_Liberia"
+      }
     },
     {
       "name": "Sapo National Park",
-      "writeup": "Liberia's largest protected rainforest, home to diverse wildlife including pygmy hippos and forest elephants."
+      "writeup": "Liberia's largest protected rainforest, home to diverse wildlife including pygmy hippos and forest elephants.",
+      "wiki": {
+        "extract": "Sapo National Park is a national park in Sinoe County, Liberia. It is the country's largest protected area of rainforest,\nwas the first national park established in the country,\nand contains the second-largest area of primary tropical rainforest in West Africa after Taï National Park in neighbouring Côte d'Ivoire.\nAgriculture, construction, fishing, hunting, human settlement, and logging are prohibited in the park.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Sapo_National_Park"
+      }
     },
     {
       "name": "Liberia National Museum",
-      "writeup": "Museum in Monrovia showcasing Liberia's cultural heritage and history."
+      "writeup": "Museum in Monrovia showcasing Liberia's cultural heritage and history.",
+      "wiki": {
+        "extract": "Liberia, officially the Republic of Liberia, is a country on the West African coast. It is bordered by Sierra Leone to its northwest, Guinea to its north, Ivory Coast to its east, and the Atlantic Ocean to its south and southwest. It has a population of around 5.5 million and covers an area of 43,000 square miles (111,369 km2). The official language is English, though over 20 indigenous languages are spoken, reflecting the country's ethnic and cultural diversity. The capital and largest city is Monrovia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Liberia"
+      }
     }
   ],
   "head_of_state": "President George Weah",

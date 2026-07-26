@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Pyramids of Meroë",
-      "writeup": "Ancient Nubian pyramids located in the northeastern region, showcasing the Kingdom of Kush's rich history."
+      "writeup": "Ancient Nubian pyramids located in the northeastern region, showcasing the Kingdom of Kush's rich history.",
+      "wiki": {
+        "extract": "Meroë was an ancient city on the east bank of the Nile about 6 km north-east of the Kabushiya station near Shendi, Sudan, approximately 200 km north-east of Khartoum. Near the site is a group of villages called Bagrawiyah. This city was the capital of the Kingdom of Kush for several centuries from around 590 BC, until its collapse in the 4th century AD. The Kushitic Kingdom of Meroë gave its name to the \"Island of Meroë\", which was the modern region of Butana, a region bounded by the Nile, the Atbarah and the Blue Nile.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/NubianMeroePyramids30sep2005%282%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mero%C3%AB"
+      }
     },
     {
       "name": "Jebel Barkal",
-      "writeup": "A small mountain considered sacred, surrounded by archaeological sites linked to the ancient Kingdom of Napata."
+      "writeup": "A small mountain considered sacred, surrounded by archaeological sites linked to the ancient Kingdom of Napata.",
+      "wiki": {
+        "extract": "Jebel Barkal or Gebel Barkal is a mesa located 400 km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO. The area houses the Jebel Barkal Museum.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gebel_Barkal.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jebel_Barkal"
+      }
     },
     {
       "name": "Suakin Island",
-      "writeup": "Historic Red Sea port with Ottoman-era ruins reflecting Sudan's maritime trade history."
+      "writeup": "Historic Red Sea port with Ottoman-era ruins reflecting Sudan's maritime trade history.",
+      "wiki": {
+        "extract": "Suakin or Sawakin is a port city in northeastern Sudan, on the west coast of the Red Sea. It was formerly the region's chief port, but is now secondary to Port Sudan, about 50 kilometres (30 mi) north.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suakin%2Cel-Geyf_mosque.jpg",
+        "url": "https://en.wikipedia.org/wiki/Suakin"
+      }
     }
   ],
   "head_of_state": "General Abdel Fattah al-Burhan (Chairman of the Transitional Sovereignty Council)",

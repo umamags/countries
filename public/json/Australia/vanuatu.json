@@ -12,15 +12,30 @@
   "landmarks": [
     {
       "name": "Mount Yasur",
-      "writeup": "An active volcano on Tanna Island, known for its frequent eruptions and accessible lava lake."
+      "writeup": "An active volcano on Tanna Island, known for its frequent eruptions and accessible lava lake.",
+      "wiki": {
+        "extract": "Mount Yasur is an active volcano on Tanna Island, Vanuatu, 361 m (1,184 ft) high above sea level, on the coast near Sulphur Bay, northeast of the taller Mount Tukosmera, which was active in the Pleistocene. It has a largely unvegetated pyroclastic cone with a nearly circular summit crater 400 m in diameter.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mount_Yasur_eruption_2006%2C_Tanna_Island%2C_Vanuatu%2C_VAN_0516.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Yasur"
+      }
     },
     {
       "name": "Mele Cascades",
-      "writeup": "A series of beautiful waterfalls near Port Vila, popular for swimming and hiking."
+      "writeup": "A series of beautiful waterfalls near Port Vila, popular for swimming and hiking.",
+      "wiki": {
+        "extract": "Efate, originally named Sandwich Island and also known as Île Vate or just Vate, is an island in the Pacific Ocean. It is part of the Shefa Province in Vanuatu, and the capital city, Port Vila, is located on the island.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Map_of_Efate_Island_EN.png",
+        "url": "https://en.wikipedia.org/wiki/Efate"
+      }
     },
     {
       "name": "Chief Roi Mata's Domain",
-      "writeup": "A UNESCO World Heritage site encompassing archaeological sites related to a powerful 16th-century chief."
+      "writeup": "A UNESCO World Heritage site encompassing archaeological sites related to a powerful 16th-century chief.",
+      "wiki": {
+        "extract": "Roi Mata was a chiefly title in the central islands of Vanuatu. It was borne by a long dynasty of chiefs, from the 11th to the 17th century.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fele%27s_Cave.jpg",
+        "url": "https://en.wikipedia.org/wiki/Roi_Mata"
+      }
     }
   ],
   "head_of_state": "President Nikenike Vurobaravu",

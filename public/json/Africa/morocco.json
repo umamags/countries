@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Hassan II Mosque",
-      "writeup": "Located in Casablanca, it is one of the largest mosques in the world, known for its stunning architecture and oceanfront location."
+      "writeup": "Located in Casablanca, it is one of the largest mosques in the world, known for its stunning architecture and oceanfront location.",
+      "wiki": {
+        "extract": "The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the second largest mosque in Africa and one of the largest mosques in the world. Its minaret is the world's second tallest minaret at 210 metres (689 ft). Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high, topped by a laser, the light from which is directed towards Mecca. The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are made of handcrafted marble, and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque's outside ground.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/Hassan_II_mosque%2C_Casablanca_2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hassan_II_Mosque"
+      }
     },
     {
       "name": "Medina of Fez",
-      "writeup": "A UNESCO World Heritage site, this ancient walled city is famous for its narrow alleys, traditional markets, and historic buildings."
+      "writeup": "A UNESCO World Heritage site, this ancient walled city is famous for its narrow alleys, traditional markets, and historic buildings.",
+      "wiki": {
+        "extract": "Fez or Fes is a city in northern inland Morocco and the capital of the Fez-Meknes administrative region. It is one of the largest cities in Morocco, with a population of 1.256 million, according to the 2024 census. Located to the northwest of the Atlas Mountains, it is surrounded by hills and the old city is centered around the Fez River flowing from west to east.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg/3840px-Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
+        "url": "https://en.wikipedia.org/wiki/Fez%2C_Morocco"
+      }
     },
     {
       "name": "Ait Benhaddou",
-      "writeup": "A fortified village (ksar) along the former caravan route between the Sahara and Marrakech, known for its earthen clay architecture."
+      "writeup": "A fortified village (ksar) along the former caravan route between the Sahara and Marrakech, known for its earthen clay architecture.",
+      "wiki": {
+        "extract": "Aït Benhaddou is a historic ighrem or ksar along the former caravan route between the Sahara and Marrakesh in Morocco. It is considered a great example of Moroccan earthen clay architecture and has been a UNESCO World Heritage Site since 1987.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/3840px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou"
+      }
     },
     {
       "name": "Jemaa el-Fnaa",
-      "writeup": "A vibrant square in Marrakech famous for its street performers, food stalls, and traditional Moroccan culture."
+      "writeup": "A vibrant square in Marrakech famous for its street performers, food stalls, and traditional Moroccan culture.",
+      "wiki": {
+        "extract": "Jemaa el-Fnaa, also Jemaa el-Fna, Djema el-Fna or Djemaa el-Fnaa, is a square and market place in the medina quarter of Marrakesh, Morocco. It remains the main square of Marrakesh, used by locals and tourists.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/3840px-Djemaa_el_Fna.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa"
+      }
     },
     {
       "name": "Atlas Mountains",
-      "writeup": "A mountain range offering diverse landscapes, traditional Berber villages, and opportunities for trekking and skiing."
+      "writeup": "A mountain range offering diverse landscapes, traditional Berber villages, and opportunities for trekking and skiing.",
+      "wiki": {
+        "extract": "The Atlas Mountains are a mountain range in the Maghreb in North Africa. They separate the Sahara from the Mediterranean Sea and the Atlantic Ocean; the mountain range stretches around 2,500 km (1,600 mi) through Morocco, Algeria and Tunisia. The mountains are associated with the Titan Atlas. The range's highest peak is Toubkal, in central Morocco, with an elevation of 4,167 metres (13,671 ft). The Atlas Mountains are primarily inhabited by Berber populations.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Plateau_Yagour%2C_Agdal%2C_Morocco.jpg",
+        "url": "https://en.wikipedia.org/wiki/Atlas_Mountains"
+      }
     }
   ],
   "head_of_state": "King Mohammed VI",

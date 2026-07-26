@@ -15,19 +15,39 @@
   "landmarks": [
     {
       "name": "Victoria Falls",
-      "writeup": "One of the largest and most famous waterfalls in the world, located on the Zambezi River at the border between Zambia and Zimbabwe."
+      "writeup": "One of the largest and most famous waterfalls in the world, located on the Zambezi River at the border between Zambia and Zimbabwe.",
+      "wiki": {
+        "extract": "Victoria Falls is a waterfall on the Zambezi River, located on the border between Zambia and Zimbabwe. It is one of the world's largest waterfalls, with a width of 1,708 m (5,604 ft). The region around it has a high degree of biodiversity in both plants and animals.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/3840px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
+        "url": "https://en.wikipedia.org/wiki/Victoria_Falls"
+      }
     },
     {
       "name": "South Luangwa National Park",
-      "writeup": "A renowned wildlife sanctuary known for its walking safaris and diverse animal populations including elephants, lions, and hippos."
+      "writeup": "A renowned wildlife sanctuary known for its walking safaris and diverse animal populations including elephants, lions, and hippos.",
+      "wiki": {
+        "extract": "South Luangwa National Park is a national park in eastern Zambia that was founded as a game reserve in 1938 and became a national park in 1972. It covers 9,050 km2 (3,490 sq mi) in the valley of the Luangwa River, which forms its eastern boundary in the Eastern Province of Zambia. It is bordered to the west by a steep escarpment, the Muchinga Escarpment in Muchinga and Central Provinces. The Luangwa Valley lies at the end of the East African Rift valley.\nThe meandering Luangwa River and its lagoons support over 400 bird species and more than 60 mammal species including Rhodesian giraffe, African bush elephant and African buffalo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Luangwa_River_crossing.jpg/3840px-Luangwa_River_crossing.jpg",
+        "url": "https://en.wikipedia.org/wiki/South_Luangwa_National_Park"
+      }
     },
     {
       "name": "Lower Zambezi National Park",
-      "writeup": "A protected area along the Zambezi River offering opportunities for canoeing, fishing, and wildlife viewing."
+      "writeup": "A protected area along the Zambezi River offering opportunities for canoeing, fishing, and wildlife viewing.",
+      "wiki": {
+        "extract": "The Lower Zambezi National Park lies on the north bank of the Zambezi River in southeastern Zambia. Until 1983 when the area was declared a national park, the area was the private game reserve of Zambia's president. This meant that the park was protected from mass tourism and now remains one of the few untouched wilderness areas left in Africa. On the opposite bank is Zimbabwe's Mana Pools National Park. The two parks sit on the Zambezi floodplain ringed by mountains.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lower_Zambezi%2C_Zambia_%282518067857%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lower_Zambezi_National_Park"
+      }
     },
     {
       "name": "Kafue National Park",
-      "writeup": "One of Africa's largest national parks, home to a wide variety of wildlife and diverse ecosystems."
+      "writeup": "One of Africa's largest national parks, home to a wide variety of wildlife and diverse ecosystems.",
+      "wiki": {
+        "extract": "Kafue National Park is the largest national park in Zambia, covering an area of about 22,400 km2 (8,600 sq mi). It is the second largest national park in Africa and home to 152 mammal species. There are also 515 bird species, 70 reptile species, 58 species of fish and 36 amphibious species.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kafue_National_Park.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kafue_National_Park"
+      }
     }
   ],
   "head_of_state": "President Hakainde Hichilema",

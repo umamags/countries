@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Okavango Delta",
-      "writeup": "A vast inland delta known for its rich biodiversity and unique ecosystem, attracting numerous wildlife and bird species."
+      "writeup": "A vast inland delta known for its rich biodiversity and unique ecosystem, attracting numerous wildlife and bird species.",
+      "wiki": {
+        "extract": "The Okavango Delta or Okavango Grassland is a vast inland delta in Botswana formed where the Okavango River reaches a tectonic trough at an elevation of 930–1,000 m (3,050–3,280 ft) in the central part of the endorheic basin of the Kalahari Desert.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Okavango_Delta%2C_Botswana1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Okavango_Delta"
+      }
     },
     {
       "name": "Chobe National Park",
-      "writeup": "Famous for its large elephant population and diverse wildlife, it is one of Africa's premier game-viewing destinations."
+      "writeup": "Famous for its large elephant population and diverse wildlife, it is one of Africa's premier game-viewing destinations.",
+      "wiki": {
+        "extract": "Chobe National Park is Botswana's first national park, and also its most biologically diverse. The park contains the wetlands of the Chobe River, which flows into Victoria Falls and the Zambezi to the East. Located in the north of the country, the park is part of the Kavango–Zambezi Transfrontier Conservation Area, and partially borders Namibia's Caprivi Strip. It is Botswana's third largest park.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gnus_zebras_chobe_national_park.jpg",
+        "url": "https://en.wikipedia.org/wiki/Chobe_National_Park"
+      }
     },
     {
       "name": "Tsodilo Hills",
-      "writeup": "A UNESCO World Heritage site featuring ancient rock art and spiritual significance to local communities."
+      "writeup": "A UNESCO World Heritage site featuring ancient rock art and spiritual significance to local communities.",
+      "wiki": {
+        "extract": "The Tsodilo Hills are a UNESCO World Heritage Site (WHS), consisting of rock art, rock shelters, depressions, and caves in Botswana, Southern Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tsodilo_rock_paintings_1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tsodilo"
+      }
     }
   ],
   "head_of_state": "President Mokgweetsi Masisi",

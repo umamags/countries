@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Bayterek Tower",
-      "writeup": "A symbol of Astana (Nur-Sultan), representing a mythical tree of life and a golden egg from Kazakh folklore."
+      "writeup": "A symbol of Astana (Nur-Sultan), representing a mythical tree of life and a golden egg from Kazakh folklore.",
+      "wiki": {
+        "extract": "Baiterek is a monument and observation tower in Astana, the capital city of Kazakhstan. A tourist attraction popular with foreign visitors and Kazakhs, it is emblematic of the city, which became capital of the country in 1997. The tower is located on Nurjol Boulevard, and is considered a symbol of post-independence Kazakhstan.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Central_Downtown_Astana_2.jpg/3840px-Central_Downtown_Astana_2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Baiterek_(monument)"
+      }
     },
     {
       "name": "Charyn Canyon",
-      "writeup": "A natural canyon known for its striking rock formations, often compared to the Grand Canyon."
+      "writeup": "A natural canyon known for its striking rock formations, often compared to the Grand Canyon.",
+      "wiki": {
+        "extract": "Charyn Canyon, also known as the Sharyn Canyon is a canyon on the Charyn River in Kazakhstan. It is located about 200 km (120 mi) east of Almaty, close to the Kazakh–Chinese border. The canyon is roughly 154 km (96 mi) in length. It is part of the Charyn National Park established on 23 February 2004 and is located within the territory of the Uygur, Raiymbek, and Enbekshikazakh Districts of the Almaty Region. The canyon features many formations formed by the weathering of sedimentary rock. Though it is much smaller than the Grand Canyon, it has been described as being equally impressive.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg/3840px-Charyn_Canyon%2C_Kazakhstan_03.jpg",
+        "url": "https://en.wikipedia.org/wiki/Charyn_Canyon"
+      }
     },
     {
       "name": "Mausoleum of Khoja Ahmed Yasawi",
-      "writeup": "A UNESCO World Heritage site, this 14th-century mausoleum is an important example of Timurid architecture."
+      "writeup": "A UNESCO World Heritage site, this 14th-century mausoleum is an important example of Timurid architecture.",
+      "wiki": {
+        "extract": "The Mausoleum of Khawaja Ahmed Yasawi is a mausoleum in the city of Turkestan, in southern Kazakhstan. The structure was commissioned in 1389 by Timur, who ruled the area as part of the expansive Timurid Empire, to replace a smaller 12th-century mausoleum of the famous Turkic poet and Sufi mystic, Khoja Ahmed Yasawi (1093–1166). However, construction was halted with the death of Timur in 1405.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg/3840px-%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi"
+      }
     },
     {
       "name": "Almaty Central Mosque",
-      "writeup": "One of the largest mosques in Central Asia, known for its impressive architecture and cultural significance."
+      "writeup": "One of the largest mosques in Central Asia, known for its impressive architecture and cultural significance.",
+      "wiki": {
+        "extract": "Almaty Central Mosque is one of the largest mosques in Almaty, and in Kazakhstan. Designed to accommodate 7,000 worshippers, it was built on the site of the old mosque that dated to 1890 and caught fire in 1987.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%2C_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%281%29.jpg/3840px-%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%2C_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%281%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Central_Mosque_Almaty"
+      }
     },
     {
       "name": "Altai Mountains",
-      "writeup": "A mountain range offering diverse landscapes and rich biodiversity, important for both nature and cultural heritage."
+      "writeup": "A mountain range offering diverse landscapes and rich biodiversity, important for both nature and cultural heritage.",
+      "wiki": {
+        "extract": "The Altai Mountains are a mountain range in Central Asia, where Russia, China, Mongolia, and Kazakhstan converge, and where the rivers Irtysh and Ob have their headwaters. The highest summit of the range is Belukha, whose summit reaches 4,506 m above sea level. The massif merges with the Sayan Mountains in the northeast, and gradually becomes lower in the southeast, where it merges into the high plateau of the Gobi Desert. In the southwest, it is separated from the higher Tian Shan range by the Junggar Basin. It spans from about 45° to 52° N and from about 84° to 99° E.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Altai_Mountains.jpg",
+        "url": "https://en.wikipedia.org/wiki/Altai_Mountains"
+      }
     }
   ],
   "head_of_state": "President Kassym-Jomart Tokayev",

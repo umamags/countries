@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Phoenix Islands Protected Area",
-      "writeup": "One of the largest marine protected areas in the world, known for its rich biodiversity and pristine coral reefs."
+      "writeup": "One of the largest marine protected areas in the world, known for its rich biodiversity and pristine coral reefs.",
+      "wiki": {
+        "extract": "The Phoenix Islands Protected Area (PIPA) is located in the Republic of Kiribati, an ocean nation in the central Pacific approximately midway between Australia and Hawaii. PIPA constitutes 11.34% of Kiribati's exclusive economic zone (EEZ), and with a size of 408,250 km2 (157,630 sq mi), it is one of the largest marine protected areas (MPA) and one of the largest protected areas of any type on Earth. The PIPA was also designated as the world's largest and deepest UNESCO World Heritage Site in 2010.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rotjan_-_Enderbury_Day_1_-_2nd_half_%2862%29.JPG",
+        "url": "https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area"
+      }
     },
     {
       "name": "Betio War Memorial",
-      "writeup": "A memorial on Tarawa Atoll commemorating those who died in World War II during the Battle of Tarawa."
+      "writeup": "A memorial on Tarawa Atoll commemorating those who died in World War II during the Battle of Tarawa.",
+      "wiki": {
+        "extract": "Tarawa is an atoll and the capital of the Republic of Kiribati, in the Micronesia region of the central Pacific Ocean. It comprises North Tarawa, which has 6,629 inhabitants and much in common with other more remote islands of the Gilbert group, and South Tarawa, which has 56,388 inhabitants as of 2015, half of the country's total population. The atoll was the site of the Battle of Tarawa during World War II.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/South_Tarawa_%28north_and_south_labeled%29.svg/960px-South_Tarawa_%28north_and_south_labeled%29.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Tarawa"
+      }
     },
     {
       "name": "Te Umanibong Museum",
-      "writeup": "The national museum located in South Tarawa, showcasing Kiribati's cultural heritage and history."
+      "writeup": "The national museum located in South Tarawa, showcasing Kiribati's cultural heritage and history.",
+      "wiki": {
+        "extract": "Te Umanibong or the Kiribati Cultural Museum, or Kiribati Museum and Cultural Centre, is a museum in Bikenibeu on the atoll of Tarawa in Kiribati. It displays artefacts and other items of cultural and historic significance.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Te_Umwanibong_logo.png",
+        "url": "https://en.wikipedia.org/wiki/Te_Umanibong"
+      }
     }
   ],
   "head_of_state": "President Taneti Maamau",

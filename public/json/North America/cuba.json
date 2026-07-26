@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Old Havana",
-      "writeup": "A UNESCO World Heritage site known for its well-preserved Spanish colonial architecture and vibrant street life."
+      "writeup": "A UNESCO World Heritage site known for its well-preserved Spanish colonial architecture and vibrant street life.",
+      "wiki": {
+        "extract": "Old Havana is the city-center (downtown) and one of the 15 municipalities forming Havana, Cuba. It has the second highest population density in the city and contains the core of the original city of Havana. The positions of the original Walls of Havana are the modern boundaries of Old Havana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Havana_Map_-_Habana_Vieja.png",
+        "url": "https://en.wikipedia.org/wiki/Old_Havana"
+      }
     },
     {
       "name": "El Morro Castle",
-      "writeup": "A historic fortress guarding the entrance to Havana Bay, built in the 16th century."
+      "writeup": "A historic fortress guarding the entrance to Havana Bay, built in the 16th century.",
+      "wiki": {
+        "extract": "The Castillo de los Tres Reyes del Morro, also known as Castillo del Morro, is a fortress guarding the entrance to the Havana harbor.\nThe design is by the Italian engineer Battista Antonelli (1547–1616). Originally under the control of Spain, the fortress was captured by the British in 1762 and returned to Spain under the Treaty of Paris (1763) a year later. The Morro Castle was the primary defence in the Havana harbor until La Cabaña was completed in 1774.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif/lossy-page1-1280px-Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif.jpg",
+        "url": "https://en.wikipedia.org/wiki/Castillo_de_los_Tres_Reyes_Del_Morro"
+      }
     },
     {
       "name": "Varadero Beach",
-      "writeup": "One of the largest resort areas in the Caribbean, famous for its white sandy beaches and clear waters."
+      "writeup": "One of the largest resort areas in the Caribbean, famous for its white sandy beaches and clear waters.",
+      "wiki": {
+        "extract": "Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, Cárdenas, and the Península de Zapata.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aerial_photo_of_Varadero_16.JPG",
+        "url": "https://en.wikipedia.org/wiki/Varadero"
+      }
     },
     {
       "name": "Trinidad",
-      "writeup": "A colonial town with cobblestone streets and colorful buildings, also a UNESCO World Heritage site."
+      "writeup": "A colonial town with cobblestone streets and colorful buildings, also a UNESCO World Heritage site.",
+      "wiki": {
+        "extract": "Trinidad is a town in the province of Sancti Spíritus, central Cuba. Together with the nearby Valle de los Ingenios, it has been a UNESCO World Heritage Site since 1988, because of its historical importance as a center of the sugar trade in the 18th and 19th centuries. Trinidad is one of the best-preserved cities in the Caribbean from the time when the sugar trade was the main industry in the region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Trinidad_in_Kuba.jpg/3840px-Trinidad_in_Kuba.jpg",
+        "url": "https://en.wikipedia.org/wiki/Trinidad%2C_Cuba"
+      }
     },
     {
       "name": "Che Guevara Mausoleum",
-      "writeup": "The resting place of revolutionary leader Ernesto 'Che' Guevara, located in Santa Clara."
+      "writeup": "The resting place of revolutionary leader Ernesto 'Che' Guevara, located in Santa Clara.",
+      "wiki": {
+        "extract": "The Che Guevara Mausoleum is a memorial in Santa Clara, Cuba, located in \"Plaza Che Guevara\". It houses the remains of the revolutionary Ernesto \"Che\" Guevara and 29 fellow combatants killed in 1967 during Guevara's attempt to spur an armed uprising in Bolivia. The full area, which contains a bronze 22-foot statue of Guevara, is referred to as the Ernesto Guevara Sculptural Complex.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Che_Guevara_-_Grab_in_Santa_Clara%2C_Kuba.jpg",
+        "url": "https://en.wikipedia.org/wiki/Che_Guevara_Mausoleum"
+      }
     }
   ],
   "head_of_state": "Miguel Díaz-Canel (President)",

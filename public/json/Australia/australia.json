@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Sydney Opera House",
-      "writeup": "An iconic performing arts center known for its unique sail-like design, located in Sydney."
+      "writeup": "An iconic performing arts center known for its unique sail-like design, located in Sydney.",
+      "wiki": {
+        "extract": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings, and a masterpiece of 20th-century architecture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+      }
     },
     {
       "name": "Great Barrier Reef",
-      "writeup": "The world's largest coral reef system, renowned for its biodiversity and marine life."
+      "writeup": "The world's largest coral reef system, renowned for its biodiversity and marine life.",
+      "wiki": {
+        "extract": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 mi2). The reef is located in the Coral Sea, off the coast of Queensland, Australia, separated from the coast by a channel 160 kilometres (100 mi) wide in places and over 61 metres (200 ft) deep. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the Seven Natural Wonders of the World in 1997. Australian World Heritage places included it in its list in 2007. The Queensland National Trust named it a state icon of Queensland in 2006.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg",
+        "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef"
+      }
     },
     {
       "name": "Uluru (Ayers Rock)",
-      "writeup": "A massive sandstone monolith in the Northern Territory, sacred to Indigenous Australians."
+      "writeup": "A massive sandstone monolith in the Northern Territory, sacred to Indigenous Australians.",
+      "wiki": {
+        "extract": "Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ULURU.jpg",
+        "url": "https://en.wikipedia.org/wiki/Uluru"
+      }
     },
     {
       "name": "Bondi Beach",
-      "writeup": "Famous beach in Sydney known for surfing and vibrant coastal culture."
+      "writeup": "Famous beach in Sydney known for surfing and vibrant coastal culture.",
+      "wiki": {
+        "extract": "Bondi Beach is a beach and the surrounding suburb in Sydney, Australia. Bondi Beach is located 7 kilometres east of the Sydney central business district, in the local government area of Waverley Council, in the Eastern Suburbs. In the 2021 Australian census it had a population of 11,513 residents. Its postcode is 2026. Bondi, North Bondi and Bondi Junction are neighbouring suburbs. Bondi Beach is one of the most visited tourist sites in Australia, and the location of two television series, Bondi Rescue and Bondi Vet.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bondi_from_above.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bondi_Beach"
+      }
     },
     {
       "name": "Melbourne Cricket Ground",
-      "writeup": "One of the world's largest stadiums, central to Australia's sports culture."
+      "writeup": "One of the world's largest stadiums, central to Australia's sports culture.",
+      "wiki": {
+        "extract": "The Melbourne Cricket Ground (MCG), also known locally as the 'G', is a multi-purpose stadium located in Yarra Park in the suburb of East Melbourne, Victoria, Australia. The stadium primarily hosts Australian rules football and cricket as the home ground of multiple teams in the Australian Football League (AFL), as well as the Melbourne Renegades and the Melbourne Stars in the Big Bash League (BBL) and the Victorian cricket team in the Sheffield Shield. It also frequently hosts the Australian national cricket team. The ground was established by the Melbourne Cricket Club (MCC) in 1853, who continue to manage and operate the site. However, the stadium itself is owned by the Victorian Government through its appointed MCG Trust.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg/3840px-2017_AFL_Grand_Final_panorama_during_national_anthem.jpg",
+        "url": "https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground"
+      }
     }
   ],
   "head_of_state": "King Charles III (represented by Governor-General David Hurley)",

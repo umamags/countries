@@ -20,23 +20,48 @@
   "landmarks": [
     {
       "name": "Table Mountain",
-      "writeup": "A flat-topped mountain overlooking Cape Town, known for its biodiversity and panoramic views."
+      "writeup": "A flat-topped mountain overlooking Cape Town, known for its biodiversity and panoramic views.",
+      "wiki": {
+        "extract": "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Cape Town in South Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Table_Mountain_DanieVDM.jpg",
+        "url": "https://en.wikipedia.org/wiki/Table_Mountain"
+      }
     },
     {
       "name": "Robben Island",
-      "writeup": "Historic island prison where Nelson Mandela was held, now a museum and UNESCO World Heritage Site."
+      "writeup": "Historic island prison where Nelson Mandela was held, now a museum and UNESCO World Heritage Site.",
+      "wiki": {
+        "extract": "Robben Island is an island in Table Bay, 6.9 kilometres (4.3 mi) west of the coast of Bloubergstrand, north of Cape Town, South Africa. It takes its name from the archaic Dutch word for seals (robben), hence the Dutch/Afrikaans name Robbeneiland, which translates to Seal(s) Island.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Robben_Island"
+      }
     },
     {
       "name": "Kruger National Park",
-      "writeup": "One of Africa's largest game reserves, famous for its wildlife including the Big Five."
+      "writeup": "One of Africa's largest game reserves, famous for its wildlife including the Big Five.",
+      "wiki": {
+        "extract": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 (7,576 sq mi) in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360 km (220 mi) from north to south and 65 km (40 mi) from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve. It is within the South Africa Standard Time Zone (GMT+2).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kruger_Zebra.JPG",
+        "url": "https://en.wikipedia.org/wiki/Kruger_National_Park"
+      }
     },
     {
       "name": "Apartheid Museum",
-      "writeup": "Museum in Johannesburg documenting the history and impact of apartheid in South Africa."
+      "writeup": "Museum in Johannesburg documenting the history and impact of apartheid in South Africa.",
+      "wiki": {
+        "extract": "The Apartheid Museum is a museum illustrating apartheid and the 20th-century history of South Africa. The museum, part of the Gold Reef City complex in Johannesburg, was opened in November 2001.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/South_Africa-Johannesburg-Apartheid_Museum001.jpg",
+        "url": "https://en.wikipedia.org/wiki/Apartheid_Museum"
+      }
     },
     {
       "name": "Drakensberg Mountains",
-      "writeup": "Mountain range known for its dramatic peaks, hiking trails, and San rock art."
+      "writeup": "Mountain range known for its dramatic peaks, hiking trails, and San rock art.",
+      "wiki": {
+        "extract": "The Drakensberg is the eastern portion of the Great Escarpment, which encloses the central Southern African plateau. The Great Escarpment reaches its greatest elevation – 2,000 to 3,482 metres within the border region of South Africa and Lesotho.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/South_Africa_-_Drakensberg_%2816261357780%29.jpg/3840px-South_Africa_-_Drakensberg_%2816261357780%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Drakensberg"
+      }
     }
   ],
   "head_of_state": "President Cyril Ramaphosa",

@@ -12,23 +12,40 @@
   "landmarks": [
     {
       "name": "Iskanderkul Lake",
-      "writeup": "A scenic mountain lake in the Fann Mountains, known for its turquoise waters and natural beauty."
+      "writeup": "A scenic mountain lake in the Fann Mountains, known for its turquoise waters and natural beauty.",
+      "wiki": {
+        "extract": "Iskanderkul is a mountain lake of glacial origin in Tajikistan's Sughd Province. It lies at an altitude of 2,195 metres (7,201 ft) on the northern slopes of the Gissar Range in the Fann Mountains. Triangular in shape, it has a surface area of 3.4 square kilometres (1.3 sq mi) and is up to 72 metres (236 ft) deep. Formed by a landslide that blocks the Saratogh river, the outflow of the lake is called the Iskander Darya, which joins the Yaghnob River to form the Fan Darya, a major left tributary of the Zeravshan River.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iskander-kul%2C_Tajikistan.JPG",
+        "url": "https://en.wikipedia.org/wiki/Iskanderkul"
+      }
     },
     {
       "name": "Hissar Fortress",
-      "writeup": "An ancient fortress near Dushanbe, dating back to the 16th century, showcasing Tajikistan's historical architecture."
+      "writeup": "An ancient fortress near Dushanbe, dating back to the 16th century, showcasing Tajikistan's historical architecture.",
+      "wiki": null
     },
     {
       "name": "Pamir Mountains",
-      "writeup": "A high mountain range known as the 'Roof of the World,' offering rugged landscapes and cultural significance."
+      "writeup": "A high mountain range known as the 'Roof of the World,' offering rugged landscapes and cultural significance.",
+      "wiki": {
+        "extract": "The Pamir Mountains are a mountain range in Central Asia and South Asia. They are located at a junction with other notable mountain ranges, namely the Tian Shan, the Karakoram, the Kunlun, the Hindu Kush, and the Himalayas. They are among the world's highest mountains.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2_%D1%8E%D0%B6%D0%BD._-_panoramio_%283%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pamir_Mountains"
+      }
     },
     {
       "name": "Rudaki Park",
-      "writeup": "A central park in Dushanbe named after the Persian poet Rudaki, featuring monuments and recreational spaces."
+      "writeup": "A central park in Dushanbe named after the Persian poet Rudaki, featuring monuments and recreational spaces.",
+      "wiki": {
+        "extract": "Dushanbe is the capital and largest city of Tajikistan. As of February 2023, Dushanbe had a population of 1,228,400, with this population being largely Tajik. Until 1929, the city was known in Russian as Dyushambe, and from 1929 to 1961 as Stalinabad, after Joseph Stalin. Dushanbe is located in the Hisar Valley, bounded by the Hisar Range in the north and east and the Babatag, Aktau, Rangontau and Karatau mountains in the south, and has an elevation of 750–930 m. The city is divided into four districts: Ismail Samani, Avicenna, Ferdowsi, and Shah Mansur.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panorama_with_buildings%2C_Dushanbe.jpg/3840px-Panorama_with_buildings%2C_Dushanbe.jpg",
+        "url": "https://en.wikipedia.org/wiki/Dushanbe"
+      }
     },
     {
       "name": "Yamchun Fortress",
-      "writeup": "An ancient fortress located in the Wakhan Valley, reflecting the region's strategic historical importance."
+      "writeup": "An ancient fortress located in the Wakhan Valley, reflecting the region's strategic historical importance.",
+      "wiki": null
     }
   ],
   "head_of_state": "Emomali Rahmon (President)",

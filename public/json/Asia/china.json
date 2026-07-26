@@ -13,23 +13,48 @@
   "landmarks": [
     {
       "name": "Great Wall of China",
-      "writeup": "An ancient series of walls and fortifications stretching over 13,000 miles, built to protect Chinese states from invasions."
+      "writeup": "An ancient series of walls and fortifications stretching over 13,000 miles, built to protect Chinese states from invasions.",
+      "wiki": {
+        "extract": "The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/3840px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+      }
     },
     {
       "name": "Forbidden City",
-      "writeup": "A vast imperial palace complex in Beijing that served as the home of emperors and political center for centuries."
+      "writeup": "A vast imperial palace complex in Beijing that served as the home of emperors and political center for centuries.",
+      "wiki": {
+        "extract": "The Forbidden City is the imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of 24 Ming and Qing dynasty Emperors, and the center of political power in China for over 500 years from 1420 to 1924. The palace is now administered by the Palace Museum and has been a UNESCO World Heritage Site since 1987. The Forbidden City is one of the most famous palaces in all of Chinese history, and is the largest preserved royal palace complex still standing in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/3840px-The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+        "url": "https://en.wikipedia.org/wiki/Forbidden_City"
+      }
     },
     {
       "name": "Terracotta Army",
-      "writeup": "Thousands of life-sized clay soldiers buried with China's first Emperor Qin Shi Huang to protect him in the afterlife."
+      "writeup": "Thousands of life-sized clay soldiers buried with China's first Emperor Qin Shi Huang to protect him in the afterlife.",
+      "wiki": {
+        "extract": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE in his mausoleum with the purpose of protecting him in his afterlife.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg",
+        "url": "https://en.wikipedia.org/wiki/Terracotta_Army"
+      }
     },
     {
       "name": "Potala Palace",
-      "writeup": "A historic palace in Lhasa, Tibet, that was the winter residence of the Dalai Lama and a symbol of Tibetan Buddhism."
+      "writeup": "A historic palace in Lhasa, Tibet, that was the winter residence of the Dalai Lama and a symbol of Tibetan Buddhism.",
+      "wiki": {
+        "extract": "Potala Palace is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China. It was formerly the winter palace of the Dalai Lamas, built in the dzong style on Marpo Ri. From 1649 until 1959 it served as the Dalai Lamas' residence, after which it became chiefly a museum following the annexation of Tibet by the People's Republic of China.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Potala_Palace_HQ.jpg",
+        "url": "https://en.wikipedia.org/wiki/Potala_Palace"
+      }
     },
     {
       "name": "Shanghai Tower",
-      "writeup": "The tallest building in China and the second tallest in the world, symbolizing China's rapid modernization."
+      "writeup": "The tallest building in China and the second tallest in the world, symbolizing China's rapid modernization.",
+      "wiki": {
+        "extract": "The Shanghai Tower is a 128-story, 632-meter-tall (2,073-foot) megatall skyscraper located in Lujiazui, Pudong, Shanghai. It is currently the tallest building in China, and the world's third-tallest building by height to architectural top. It was the tallest and largest LEED-CS Platinum certified building in the world from 2016 to 2025. It was also the second tallest-building in the world, from 2015 to 2021, until the completion of Merdeka 118 in Malaysia. The Shanghai Tower also had the world's fastest elevators at a top speed of 20.5 meters per second until 2017, when it was surpassed by the Guangzhou CTF Finance Center, with its top speed of 21 meters per second.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Shanghai_Tower_logo.png",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Tower"
+      }
     }
   ],
   "head_of_state": "President Xi Jinping",

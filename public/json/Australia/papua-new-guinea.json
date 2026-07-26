@@ -13,23 +13,48 @@
   "landmarks": [
     {
       "name": "Kokoda Track",
-      "writeup": "A historic trail in the Owen Stanley Range, significant for its role in World War II during the Kokoda Campaign."
+      "writeup": "A historic trail in the Owen Stanley Range, significant for its role in World War II during the Kokoda Campaign.",
+      "wiki": {
+        "extract": "The Kokoda Track or Trail is a single-file foot thoroughfare that runs 96 kilometres (60 mi) overland – 60 kilometres (37 mi) in a straight line – through the Owen Stanley Range in Papua New Guinea (PNG). The track was the location of the 1942 World War II battle between Japanese and Allied – primarily Australian – forces in what was then the Australian territory of Papua.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/New_guinea_kokoda.PNG",
+        "url": "https://en.wikipedia.org/wiki/Kokoda_Track"
+      }
     },
     {
       "name": "Tufi Dive Resort and Fjords",
-      "writeup": "Known for stunning fjords and vibrant coral reefs, a popular destination for diving and eco-tourism."
+      "writeup": "Known for stunning fjords and vibrant coral reefs, a popular destination for diving and eco-tourism.",
+      "wiki": {
+        "extract": "Tufi is a town located on the south eastern peninsula of Cape Nelson, Oro Province, Papua New Guinea. Tufi is located on one of many rias, or drowned river valleys, locally referred to as 'fjords', on Cape Nelson surrounded by many uncharted reefs. The area is also famous for its production of tapa cloth.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tufi_Town.jpg/3840px-Tufi_Town.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tufi"
+      }
     },
     {
       "name": "Mount Wilhelm",
-      "writeup": "The highest peak in Papua New Guinea, attracting trekkers and climbers with its challenging terrain and scenic views."
+      "writeup": "The highest peak in Papua New Guinea, attracting trekkers and climbers with its challenging terrain and scenic views.",
+      "wiki": {
+        "extract": "Mount Wilhelm is the highest mountain in Papua New Guinea at 4,509 metres (14,793 ft). It is part of the Bismarck Range and the peak is the point where three provinces, Chimbu, Jiwaka and Madang, meet. In the local Kuman language, the peak is also known as Enduwa Kombuglu or Kombugl'o Dimbin.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mount_Wilhelm.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Wilhelm"
+      }
     },
     {
       "name": "Rabaul Volcano",
-      "writeup": "An active volcano near the town of Rabaul, notable for its eruptions and impact on local settlements."
+      "writeup": "An active volcano near the town of Rabaul, notable for its eruptions and impact on local settlements.",
+      "wiki": {
+        "extract": "Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600 km (370 mi) to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12 mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rabaul_from_Vulcanology_Observatory.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rabaul"
+      }
     },
     {
       "name": "Sepik River",
-      "writeup": "One of the largest river systems in Papua New Guinea, famous for its cultural significance and traditional art."
+      "writeup": "One of the largest river systems in Papua New Guinea, famous for its cultural significance and traditional art.",
+      "wiki": {
+        "extract": "The Sepik is the longest river on the island of New Guinea, and the third largest in Oceania by discharge volume after the Fly and Mamberamo. The majority of the river flows through the Papua New Guinea (PNG) provinces of Sandaun and East Sepik, with a small section flowing through the Indonesian province of Papua.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sepik-sediment-new.png",
+        "url": "https://en.wikipedia.org/wiki/Sepik"
+      }
     }
   ],
   "head_of_state": "Governor-General Sir Bob Dadae",

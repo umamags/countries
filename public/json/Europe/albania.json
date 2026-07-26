@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Butrint National Park",
-      "writeup": "An ancient city and UNESCO World Heritage site featuring ruins from Greek, Roman, Byzantine, and Venetian periods."
+      "writeup": "An ancient city and UNESCO World Heritage site featuring ruins from Greek, Roman, Byzantine, and Venetian periods.",
+      "wiki": {
+        "extract": "Butrint National Park is a national park in Vlorë County, southern Albania. It is located 18 kilometres (11 mi) south of Sarandë. The park encompasses 9,424 hectares (94.24 km2) of hilly terrain with freshwater lakes, wetlands, salt marshes, open plains, reed beds and islands. The park's significance for conservation is reflected in the large number of species with over 1,200 different animals and plants. Its mandate includes the protection of the lake and lagoon of Butrint, the natural channel of Vivari, the islands of Ksamil and as well the archaeological site, that provides valuable remains of ancient civilisations.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Parku_Komb%C3%ABtar_Butrint.svg/250px-Parku_Komb%C3%ABtar_Butrint.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Butrint_National_Park"
+      }
     },
     {
       "name": "Berat Castle",
-      "writeup": "A historic fortress overlooking the town of Berat, known for its well-preserved Ottoman architecture."
+      "writeup": "A historic fortress overlooking the town of Berat, known for its well-preserved Ottoman architecture.",
+      "wiki": {
+        "extract": "Berat Castle, also referred to as the Citadel of Berat and castle quarter, is a fortress overlooking the town of Berat, Albania. It dates mainly from the 13th century and contains many Byzantine-era Albanian Orthodox churches in the area and Ottoman-era mosques. It is built on a rocky hill on the right bank of the river Osum and is accessible only from the south. It is situated at an elevation of 214 metres (702 ft).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Berat_-_Festung_2a_Haupttor.jpg/3840px-Berat_-_Festung_2a_Haupttor.jpg",
+        "url": "https://en.wikipedia.org/wiki/Berat_Castle"
+      }
     },
     {
       "name": "Rozafa Castle",
-      "writeup": "A medieval castle near Shkodër with legends tied to its construction and panoramic views."
+      "writeup": "A medieval castle near Shkodër with legends tied to its construction and panoramic views.",
+      "wiki": {
+        "extract": "Rozafa Castle or Shkodër Castle is a castle in the city of Shkodër, in northwestern Albania. It rises imposingly on a rocky hill, 130 metres (430 ft) above sea level, surrounded by the Buna and Drin rivers. Shkodër is the seat of Shkodër County, and is one of Albania's oldest and most historic towns, as well as an important cultural and economic centre.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rozafa_Castle_in_July_2013_%285%29.JPG/3840px-Rozafa_Castle_in_July_2013_%285%29.JPG",
+        "url": "https://en.wikipedia.org/wiki/Rozafa_Castle"
+      }
     },
     {
       "name": "Gjirokastër",
-      "writeup": "A UNESCO-listed Ottoman town famous for its stone houses and historic castle."
+      "writeup": "A UNESCO-listed Ottoman town famous for its stone houses and historic castle.",
+      "wiki": {
+        "extract": "Gjirokastër is a city in southern Albania and the seat of Gjirokastër County and Gjirokastër Municipality. It is located in a valley between the Gjerë mountains and the Drino, at 300 metres above sea level. Its old town is a UNESCO World Heritage Site. The city is overlooked by Gjirokastër Fortress, where the Gjirokastër National Folk Festival is held every five years. It is the birthplace of former Albanian communist leader Enver Hoxha, and author Ismail Kadare.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gjirokaster_2016-2017.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+      }
     },
     {
       "name": "Ksamil Islands",
-      "writeup": "A group of small islands in the Ionian Sea known for their clear waters and beaches."
+      "writeup": "A group of small islands in the Ionian Sea known for their clear waters and beaches.",
+      "wiki": {
+        "extract": "Ksamil is a village and a former municipality in the riviera of Southern Albania, and part of Butrint National Park. At the 2015 local government reform it became a subdivision of the municipality of Sarandë. The population as of the 2023 census is 2,731, while according to the Civil Offices it was 9,137 in 2018. The municipal unit consists of the villages Ksamil and Manastir. During the communist era, the coastal village of Ksamil was built in 1966 and is located south of Sarandë off the road to Butrint.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ksamill-1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ksamil"
+      }
     }
   ],
   "head_of_state": "President Bajram Begaj",

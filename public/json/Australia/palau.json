@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Rock Islands",
-      "writeup": "A group of limestone islands known for their unique mushroom-like shapes and rich marine biodiversity."
+      "writeup": "A group of limestone islands known for their unique mushroom-like shapes and rich marine biodiversity.",
+      "wiki": {
+        "extract": "The Rock Islands of Palau, also called Chelbacheb, are a collection of several hundred small limestone or coral uprises in the Southern Lagoon of Palau between Koror and Peleliu, now an incorporated part of Koror State. There are between 250 and 300 islands in the group according to different sources, with an aggregate area of 42 square kilometers (16 sq mi) and a maximum height of 207 meters (679 ft). The islands were declared a UNESCO World Heritage Site in 2012.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ngerukewid-2016-aerial-view-Luka-Peternel.jpg/3840px-Ngerukewid-2016-aerial-view-Luka-Peternel.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rock_Islands"
+      }
     },
     {
       "name": "Jellyfish Lake",
-      "writeup": "A marine lake famous for its millions of harmless golden jellyfish, popular for snorkeling."
+      "writeup": "A marine lake famous for its millions of harmless golden jellyfish, popular for snorkeling.",
+      "wiki": {
+        "extract": "Jellyfish Lake is a marine lake located on Eil Malk island in Palau. Eil Malk is a part of the Rock Islands, a group of small, rocky, mostly uninhabited islands in Palau's Southern Lagoon, between Koror and Peleliu. There are about 70 other marine lakes located throughout the Rock Islands. Millions of golden jellyfish migrate horizontally across the lake daily.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Jellyfish_Lake_aerial_%28March_2008%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jellyfish_Lake"
+      }
     },
     {
       "name": "Babeldaob Island",
-      "writeup": "The largest island in Palau, featuring lush forests, waterfalls, and ancient stone monoliths."
+      "writeup": "The largest island in Palau, featuring lush forests, waterfalls, and ancient stone monoliths.",
+      "wiki": {
+        "extract": "Babeldaob is the largest island in the island nation of Palau. It is in the western Caroline Islands, and the second largest island in the Micronesia region of Oceania. Palau's capital, Ngerulmud, is located on Babeldaob, in Melekeok State.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beach-in-melekeok20071222.jpg",
+        "url": "https://en.wikipedia.org/wiki/Babeldaob"
+      }
     }
   ],
   "head_of_state": "Surangel Whipps Jr. (President)",

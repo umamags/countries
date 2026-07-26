@@ -12,15 +12,30 @@
   "landmarks": [
     {
       "name": "Vallée de Mai Nature Reserve",
-      "writeup": "A UNESCO World Heritage site on Praslin Island, known for its unique palm forest and the rare Coco de Mer palm."
+      "writeup": "A UNESCO World Heritage site on Praslin Island, known for its unique palm forest and the rare Coco de Mer palm.",
+      "wiki": {
+        "extract": "Vallée de Mai Nature Reserve is a nature park and UNESCO World Heritage Site on the island of Praslin, Seychelles. It consists of a well-preserved palm forest, flagship species made up of the island endemic coco de mer, as well as five other endemic palms.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Valle%C3%A9_de_mai2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Vall%C3%A9e_de_Mai"
+      }
     },
     {
       "name": "Anse Source d'Argent",
-      "writeup": "Famous beach on La Digue Island, renowned for its pink sand, granite boulders, and clear turquoise waters."
+      "writeup": "Famous beach on La Digue Island, renowned for its pink sand, granite boulders, and clear turquoise waters.",
+      "wiki": {
+        "extract": "Anse Source d'Argent is a beach situated in the southwest coast of La Digue, Seychelles. It is listed in Lonely Planet as one of the world's best beaches in 2024.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/La_Digue_asv2024-10_img22_Union_Estate.jpg/3840px-La_Digue_asv2024-10_img22_Union_Estate.jpg",
+        "url": "https://en.wikipedia.org/wiki/Anse_Source_d'Argent"
+      }
     },
     {
       "name": "Morne Seychellois National Park",
-      "writeup": "Largest national park on Mahé Island, featuring hiking trails and diverse flora and fauna."
+      "writeup": "Largest national park on Mahé Island, featuring hiking trails and diverse flora and fauna.",
+      "wiki": {
+        "extract": "Morne Seychellois is the highest peak in Seychelles. Morne Seychellois is located on the island of Mahé in the Morne Seychellois National Park.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Port_Victoria%2C_Seychelles_-_panoramio.jpg",
+        "url": "https://en.wikipedia.org/wiki/Morne_Seychellois"
+      }
     }
   ],
   "head_of_state": "President Wavel Ramkalawan",

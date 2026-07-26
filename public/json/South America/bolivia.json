@@ -14,23 +14,48 @@
   "landmarks": [
     {
       "name": "Salar de Uyuni",
-      "writeup": "The world's largest salt flat, known for its vast, reflective surface and unique landscapes."
+      "writeup": "The world's largest salt flat, known for its vast, reflective surface and unique landscapes.",
+      "wiki": {
+        "extract": "Salar de Uyuni is the largest salt flat in the world, with an area of approximately 10,582 square kilometres (4,086 mi2). It is situated in southwestern Bolivia, within the Daniel Campos Province of the Potosí Department, near the crest of the Andes Mountains, at an elevation of 3,656 m (11,995 ft) above sea level.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Salar_Uyuni_au01.jpg",
+        "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni"
+      }
     },
     {
       "name": "Lake Titicaca",
-      "writeup": "The highest navigable lake in the world, shared with Peru, rich in cultural significance."
+      "writeup": "The highest navigable lake in the world, shared with Peru, rich in cultural significance.",
+      "wiki": {
+        "extract": "Lake Titicaca is a large lake in the Andes mountains on the border of Bolivia and Peru. It is often called the highest navigable lake in the world. It is often listed as a freshwater lake, though its waters are slightly brackish. Titicaca is the largest lake in South America, both in terms of the volume of water and surface area. It is the 18th largest lake in the world. It has a surface elevation of 3,812 m (12,507 ft).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lake_Titicaca_ESA22522896.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
+      }
     },
     {
       "name": "Tiwanaku",
-      "writeup": "An ancient archaeological site featuring ruins of a pre-Incan civilization."
+      "writeup": "An ancient archaeological site featuring ruins of a pre-Incan civilization.",
+      "wiki": {
+        "extract": "Tiwanaku is a Pre-Columbian archaeological site in western Bolivia, near Lake Titicaca, about 70 kilometers from La Paz, and it is one of the largest sites in South America. Surface remains currently cover around 4 square kilometers and include decorated ceramics, monumental structures, and megalithic blocks. It has been conservatively estimated that the site was inhabited by 10,000 to 20,000 people in AD 800.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg/3840px-PUERTA_DEL_SOL_TIWANAKU.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tiwanaku"
+      }
     },
     {
       "name": "Madidi National Park",
-      "writeup": "A biodiverse rainforest park in the Amazon basin, home to many rare species."
+      "writeup": "A biodiverse rainforest park in the Amazon basin, home to many rare species.",
+      "wiki": {
+        "extract": "Madidi National Park is a national park in the upper Amazon River basin in Bolivia. It was established in 1995 with a total land area of 18,958 km2. Together with the nearby protected areas Manuripi-Heath and Apolobamba and the Manu Biosphere Reserve (Peru), Madidi is part of one of the largest protected areas in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Madidi_park.JPG",
+        "url": "https://en.wikipedia.org/wiki/Madidi_National_Park"
+      }
     },
     {
       "name": "Potosí",
-      "writeup": "A historic city famous for its silver mines and colonial architecture."
+      "writeup": "A historic city famous for its silver mines and colonial architecture.",
+      "wiki": {
+        "extract": "Potosí, known as Villa Imperial de Potosí in the colonial period, is the capital city and a municipality of the Department of Potosí in Bolivia. It is one of the highest cities in the world at a nominal 4,067 m (13,343 ft). \nDiego Huallpa, an indigenous prospector, is traditionally credited with the discovery of the Cerro Rico in 1545, which led to the founding and rapid growth of Potosí due to its extraordinary silver wealth.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg",
+        "url": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+      }
     }
   ],
   "head_of_state": "President Luis Arce (as of 2024)",

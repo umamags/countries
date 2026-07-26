@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Casbah of Algiers",
-      "writeup": "A historic medina in Algiers, known for its Ottoman palaces and narrow alleys, representing Algeria's rich cultural heritage."
+      "writeup": "A historic medina in Algiers, known for its Ottoman palaces and narrow alleys, representing Algeria's rich cultural heritage.",
+      "wiki": {
+        "extract": "The Casbah of Algiers, commonly referred to as the Casbah, corresponds to the old town or medina of Algiers, founded in 944 by the Zirids. It is a historic district that has been listed as a UNESCO World Heritage Site since 1992. Administratively, it is located within the municipality of Casbah, in the province of Algiers.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/AlgerCasbah.jpg",
+        "url": "https://en.wikipedia.org/wiki/Casbah_of_Algiers"
+      }
     },
     {
       "name": "Tassili n'Ajjer National Park",
-      "writeup": "A UNESCO World Heritage site famous for prehistoric rock art and unique desert landscapes."
+      "writeup": "A UNESCO World Heritage site famous for prehistoric rock art and unique desert landscapes.",
+      "wiki": {
+        "extract": "Tassili n'Ajjer is a mountain range in the Sahara desert, located in south-eastern Algeria. It holds one of the most important groupings of prehistoric cave art in the world and covers an area of more than 72,000 km2 (28,000 sq mi).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Map_of_Tassili_n%27Ajjer_and_surroundings-en.jpg/3840px-Map_of_Tassili_n%27Ajjer_and_surroundings-en.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tassili_n'Ajjer"
+      }
     },
     {
       "name": "M'Zab Valley",
-      "writeup": "A UNESCO-listed valley known for its traditional Ibadi Muslim architecture and unique social organization."
+      "writeup": "A UNESCO-listed valley known for its traditional Ibadi Muslim architecture and unique social organization.",
+      "wiki": {
+        "extract": "The M'zab, or Mzab, is a natural region of the northern Sahara Desert in Ghardaïa Province, Algeria. It is located 600 km (370 mi) south of Algiers and has approximately 360,000 inhabitants.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Panoramic_view_of_Ksar_Gharda%C3%AFa%2C_Algeria_2006.jpg",
+        "url": "https://en.wikipedia.org/wiki/M'zab"
+      }
     },
     {
       "name": "Djemila",
-      "writeup": "Ancient Roman ruins showcasing well-preserved temples, basilicas, and triumphal arches."
+      "writeup": "Ancient Roman ruins showcasing well-preserved temples, basilicas, and triumphal arches.",
+      "wiki": {
+        "extract": "Djémila, formerly Cuicul, is a small mountain village in Algeria, near the northern coast east of Algiers, where some of the best preserved Roman ruins in North Africa are found. It is in the region bordering the Constantinois and Petite Kabylie.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Roman_Ruins_of_Djemila_in_S%C3%A9tif%2C_Algeria.jpg/3840px-Roman_Ruins_of_Djemila_in_S%C3%A9tif%2C_Algeria.jpg",
+        "url": "https://en.wikipedia.org/wiki/Dj%C3%A9mila"
+      }
     },
     {
       "name": "Hoggar Mountains",
-      "writeup": "A mountain range in the Sahara known for its dramatic landscapes and Tuareg culture."
+      "writeup": "A mountain range in the Sahara known for its dramatic landscapes and Tuareg culture.",
+      "wiki": {
+        "extract": "The Hoggar Mountains are a highland region in the central Sahara in southern Algeria, along the Tropic of Cancer, and cover an area of approximately 550,000 km2.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%D8%A7%D8%B3%D9%83%D8%B1%D8%A7%D9%85_2_-_%D8%AA%D9%85%D9%86%D8%B1%D8%A7%D8%B3%D8%AA.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hoggar_Mountains"
+      }
     }
   ],
   "head_of_state": "President Abdelmadjid Tebboune",

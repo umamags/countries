@@ -14,23 +14,44 @@
   "landmarks": [
     {
       "name": "Bay of Kotor",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Bay of Kotor, also known as the Gulf of Kotor or just as the Boka, is a winding bay of the Adriatic Sea in southwestern Montenegro and the region of Montenegro concentrated around the bay. It is also the southernmost part of the historical region of Dalmatia. At the entrance to the Bay there is Prevlaka, a small peninsula in southern Croatia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kotor_aerial_1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bay_of_Kotor"
+      }
     },
     {
       "name": "Durmitor National Park",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Durmitor is a massif located in northwestern Montenegro. It is part of the Dinaric Alps. Its highest peak, Bobotov Kuk, reaches a height of 2,523 meters (8,278 ft).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Durmitor.jpg/3840px-Durmitor.jpg",
+        "url": "https://en.wikipedia.org/wiki/Durmitor"
+      }
     },
     {
       "name": "Ostrog Monastery",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Ostrog Monastery is a Serbian Orthodox monastery near Danilovgrad, Montenegro. Situated against an almost vertical background, high up in the large rock of Ostroška Greda, it is dedicated to Saint Basil of Ostrog, who was buried here.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_14.JPG/3840px-Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_14.JPG",
+        "url": "https://en.wikipedia.org/wiki/Ostrog_Monastery"
+      }
     },
     {
       "name": "Sveti Stefan",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Sveti Stefan is a town in Budva Municipality, on the Adriatic coast of Montenegro, approximately 6 kilometres (3.7 mi) southeast of Budva. The town is known for the Aman Sveti Stefan resort, a 5-star franchise of the international group of Aman Resorts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sveti_Stefan_%2806%29.jpg/3840px-Sveti_Stefan_%2806%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sveti_Stefan"
+      }
     },
     {
       "name": "Lovnen National Park",
-      "writeup": ""
+      "writeup": "",
+      "wiki": null
     }
   ],
   "head_of_state": "President Jakov Milatovin",

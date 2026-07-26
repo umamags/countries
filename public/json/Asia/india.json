@@ -23,23 +23,48 @@
   "landmarks": [
     {
       "name": "Taj Mahal",
-      "writeup": "A UNESCO World Heritage site in Agra, built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal, renowned for its white marble architecture."
+      "writeup": "A UNESCO World Heritage site in Agra, built by Mughal Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal, renowned for its white marble architecture.",
+      "wiki": {
+        "extract": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
     },
     {
       "name": "Red Fort",
-      "writeup": "Historic fort in Delhi that served as the main residence of Mughal emperors, symbolizing India's rich history and independence."
+      "writeup": "Historic fort in Delhi that served as the main residence of Mughal emperors, symbolizing India's rich history and independence.",
+      "wiki": {
+        "extract": "The Red Fort is a historic Mughal fort located in the Old Delhi area of Delhi, India. Serving as the main residence of the Mughal emperors, it was commissioned by Emperor Shah Jahan on the 12th of May 1639; the fort was constructed following his decision to shift the Mughal capital from Agra to Delhi. Originally adorned in red and white, the fort's design is attributed to Ustad Ahmad Lahori, the architect of the Taj Mahal. The Red Fort is a prominent example of Mughal architecture from Shah Jahan's reign, combining Persian and Indian architectural styles.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/3840px-Delhi_fort.jpg",
+        "url": "https://en.wikipedia.org/wiki/Red_Fort"
+      }
     },
     {
       "name": "Qutub Minar",
-      "writeup": "A 73-meter tall minaret in Delhi, built in the early 13th century, representing Indo-Islamic architecture."
+      "writeup": "A 73-meter tall minaret in Delhi, built in the early 13th century, representing Indo-Islamic architecture.",
+      "wiki": {
+        "extract": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level. It was to mark the beginning of Islamic rule in the region. Successive dynasties of the Delhi Sultanate continued the construction, and, in 1368, Firuz Shah Tughlaq rebuilt the top parts and added a cupola.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/3840px-Qutb_Minar_2022.jpg",
+        "url": "https://en.wikipedia.org/wiki/Qutb_Minar"
+      }
     },
     {
       "name": "Gateway of India",
-      "writeup": "An iconic arch monument in Mumbai, built during the British Raj to commemorate the visit of King George V and Queen Mary."
+      "writeup": "An iconic arch monument in Mumbai, built during the British Raj to commemorate the visit of King George V and Queen Mary.",
+      "wiki": {
+        "extract": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+      }
     },
     {
       "name": "Hampi",
-      "writeup": "Ruins of the Vijayanagara Empire capital, known for its ancient temples and unique Dravidian architecture."
+      "writeup": "Ruins of the Vijayanagara Empire capital, known for its ancient temples and unique Dravidian architecture.",
+      "wiki": {
+        "extract": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/3840px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hampi"
+      }
     }
   ],
   "head_of_state": "President Droupadi Murmu",

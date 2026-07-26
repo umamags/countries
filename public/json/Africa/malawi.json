@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Lake Malawi",
-      "writeup": "One of the largest lakes in Africa, known for its clear waters and diverse fish species."
+      "writeup": "One of the largest lakes in Africa, known for its clear waters and diverse fish species.",
+      "wiki": {
+        "extract": "Malawi has a developing economy. It generates $7.522 billion by gross domestic product as of 2019, and is predominantly agricultural, with about 80% of the population living in rural areas. The landlocked country in south central Africa ranks among the world's poorest and least developed countries. Approximately 50% of the population lives below the national poverty line, with 25% living in extreme poverty.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luanar.jpg",
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Malawi"
+      }
     },
     {
       "name": "Liwonde National Park",
-      "writeup": "A prominent wildlife reserve home to elephants, hippos, and various bird species."
+      "writeup": "A prominent wildlife reserve home to elephants, hippos, and various bird species.",
+      "wiki": {
+        "extract": "Liwonde National Park, also known as Liwonde Wildlife Reserve, is a national park in southern Malawi, near the Mozambique border. The park was established in 1973, and has been managed by the nonprofit conservation organization African Parks since August 2015. African Parks built an electric fence around the perimeter of the park to help mitigate human-wildlife conflict. In early 2018, the adjacent Mangochi Forest Reserve was also brought under African Parks' management, almost doubling the size of the protected area.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Liwonde_National_Park"
+      }
     },
     {
       "name": "Mount Mulanje",
-      "writeup": "The highest peak in Malawi, popular for hiking and its unique biodiversity."
+      "writeup": "The highest peak in Malawi, popular for hiking and its unique biodiversity.",
+      "wiki": {
+        "extract": "The Mulanje Massif, also known as Mount Mulanje, is a large inselberg and World Heritage Site in southern Malawi. Sapitwa Peak, the highest point on the massif at 3,002 m, is the highest point in Malawi. It lies 65 km east of Blantyre, rising sharply from the surrounding plains of Phalombe and the Mulanje district. It forms part of a proposed ecoregion, to be called the South East Africa Montane Archipelago (SEAMA).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mulanje_ETM_26may02.jpg/3840px-Mulanje_ETM_26may02.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mulanje_Massif"
+      }
     }
   ],
   "head_of_state": "President Lazarus Chakwera",

@@ -16,23 +16,48 @@
   "landmarks": [
     {
       "name": "Zuma Rock",
-      "writeup": "A natural monolith located in Niger State, often called the 'Gateway to Abuja' and known for its unique face-like features."
+      "writeup": "A natural monolith located in Niger State, often called the 'Gateway to Abuja' and known for its unique face-like features.",
+      "wiki": {
+        "extract": "Zuma Rock is a large natural monolith, or inselberg, an igneous intrusion composed of gabbro and granodiorite and of Precambrian age, located in Madalla, a town in Niger State, Nigeria. It is situated in the west of Nigeria's capital, Abuja, along the main road from Abuja to Kaduna, off Madalla, and is sometimes referred to as the \"Gateway to Abuja from Suleja\". Zuma Rock rises approximately 725 metres (2,379 ft) above sea level. It was once thought to be in the Federal Capital Territory but is actually located at the upper end of Madalla, a rural settlement in Suleja Local Government Area of Niger State.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Zuma_Rock.jpg",
+        "url": "https://en.wikipedia.org/wiki/Zuma_Rock"
+      }
     },
     {
       "name": "Olumo Rock",
-      "writeup": "A massive outcrop of granite rocks in Abeokuta, Ogun State, historically used as a fortress by the Egba people."
+      "writeup": "A massive outcrop of granite rocks in Abeokuta, Ogun State, historically used as a fortress by the Egba people.",
+      "wiki": {
+        "extract": "\nOlumo Rock is a mountain in south-western Nigeria. It is located in the city of Abeokuta, Ogun State, and was normally used as a natural fortress during inter-tribal warfare in the 19th century. Its patron spirit is venerated in the Yoruba religion as an orisha. In addition, Olumo Rock is an important paleontological archaeological site that has yielded an outstanding collection of stone tools such as hand axes, artificially shaped spherical rocks, pick-like tools and hammer rocks, dating back approximately 1.5 million years. The name olumo is the combination of two words: \"olu\" which means god/deity, and \"mo\" which means moulded.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Elevator_gears_at_Olumo.jpg",
+        "url": "https://en.wikipedia.org/wiki/Olumo_Rock"
+      }
     },
     {
       "name": "National Mosque, Abuja",
-      "writeup": "An important religious site and architectural landmark in Nigeria's capital city."
+      "writeup": "An important religious site and architectural landmark in Nigeria's capital city.",
+      "wiki": {
+        "extract": "The Abuja National Mosque, also known as the Nigerian National Mosque, is the national mosque of Nigeria, located in the capital city, Abuja. The mosque was built in 1984 and is open to the non-Muslim public, except during congregational prayers.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abuja_National_Mosque.jpg/3840px-Abuja_National_Mosque.jpg",
+        "url": "https://en.wikipedia.org/wiki/Abuja_National_Mosque"
+      }
     },
     {
       "name": "Aso Rock",
-      "writeup": "A large rock formation in Abuja, near the Nigerian Presidential Complex and National Assembly."
+      "writeup": "A large rock formation in Abuja, near the Nigerian Presidential Complex and National Assembly.",
+      "wiki": {
+        "extract": "The State House is the workplace and official residence of the President of Nigeria since 1991, when Nigeria moved its capital from Lagos to Abuja. It is located at Yakubu Gowon Crescent, Asokoro District, Abuja in the Federal Capital Territory of Nigeria. The Aso Rock Villa hosts the offices of the President and Vice President and it is the seat of the Executive Arm of the Federal Government of Nigeria. The Aso Rock Villa is the most protected presidential state house in Africa. It is heavily protected by the Presidential Guards Brigade and the State Security Service.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/The_State_House_(Aso_Rock_Villa)"
+      }
     },
     {
       "name": "Obudu Mountain Resort",
-      "writeup": "A scenic resort in Cross River State known for its cable cars, waterfalls, and temperate climate."
+      "writeup": "A scenic resort in Cross River State known for its cable cars, waterfalls, and temperate climate.",
+      "wiki": {
+        "extract": "Obanliku Mountain Resort is a ranch and resort on the Obudu Plateau in Cross River State, Nigeria.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fair_weather_clouds_on_Obudu_mountains.jpg",
+        "url": "https://en.wikipedia.org/wiki/Obudu_Mountain_Resort"
+      }
     }
   ],
   "head_of_state": "Bola Ahmed Tinubu (President)",

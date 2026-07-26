@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Brandenburg Gate",
-      "writeup": "An 18th-century neoclassical monument in Berlin symbolizing unity and peace."
+      "writeup": "An 18th-century neoclassical monument in Berlin symbolizing unity and peace.",
+      "wiki": {
+        "extract": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg",
+        "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate"
+      }
     },
     {
       "name": "Neuschwanstein Castle",
-      "writeup": "A 19th-century Romanesque Revival palace in Bavaria, famous for its fairy-tale appearance."
+      "writeup": "A 19th-century Romanesque Revival palace in Bavaria, famous for its fairy-tale appearance.",
+      "wiki": {
+        "extract": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill of the foothills of the Alps in the very south of Germany, near the border with Austria. It is located in the Swabia region of Bavaria, in the municipality of Schwangau, above the incorporated village of Hohenschwangau, which is also the location of Hohenschwangau Castle. The closest larger town is Füssen. The castle stands above the narrow gorge of the Pöllat stream, east of the Alpsee and Schwansee lakes, close to the mouth of the Lech into Lake Forggensee. Since 2025, the castle is part of the UNESCO World Heritage Site \"The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee\". According to Guinness World Records, at 65 metres, it is the tallest castle in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg",
+        "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"
+      }
     },
     {
       "name": "Cologne Cathedral",
-      "writeup": "A Gothic masterpiece and UNESCO World Heritage site, known for its impressive twin spires."
+      "writeup": "A Gothic masterpiece and UNESCO World Heritage site, known for its impressive twin spires.",
+      "wiki": {
+        "extract": "Cologne Cathedral is a Catholic cathedral in Cologne, North Rhine-Westphalia. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996. It is Germany's most visited landmark, attracting an average of 6 million people a year. At 157 m (515 ft), the cathedral is the tallest twin-spired church in the world, the third tallest church in Europe after Sagrada Família and Ulm Minster, and the tallest cathedral in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+        "url": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+      }
     },
     {
       "name": "Berlin Wall",
-      "writeup": "Remnants of the Cold War barrier that divided East and West Berlin from 1961 to 1989."
+      "writeup": "Remnants of the Cold War barrier that divided East and West Berlin from 1961 to 1989.",
+      "wiki": {
+        "extract": "The Berlin Wall was a guarded concrete barrier that encircled West Berlin from 1961 to 1989, separating it from East Berlin and the German Democratic Republic. Construction of the Berlin Wall was commenced by the government of the GDR on 13 August 1961. It included guard towers placed along large concrete walls, accompanied by a wide area that contained anti-vehicle trenches, beds of nails and other defenses. The primary intention for the Wall's construction was to prevent East German citizens from fleeing to the West.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+        "url": "https://en.wikipedia.org/wiki/Berlin_Wall"
+      }
     },
     {
       "name": "Heidelberg Castle",
-      "writeup": "A Renaissance ruin overlooking the Neckar River, symbolizing German Romanticism."
+      "writeup": "A Renaissance ruin overlooking the Neckar River, symbolizing German Romanticism.",
+      "wiki": {
+        "extract": "Heidelberg Castle is a ruin in Germany and landmark of Heidelberg. The castle ruins are among the most important Renaissance structures north of the Alps.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/3840px-Heidelberg-2726936.jpg",
+        "url": "https://en.wikipedia.org/wiki/Heidelberg_Castle"
+      }
     }
   ],
   "head_of_state": "Federal President Frank-Walter Steinmeier",

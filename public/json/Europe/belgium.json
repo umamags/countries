@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Atomium",
-      "writeup": "A unique building in Brussels designed to resemble an iron crystal magnified 165 billion times."
+      "writeup": "A unique building in Brussels designed to resemble an iron crystal magnified 165 billion times.",
+      "wiki": {
+        "extract": "The Atomium is a landmark modernist building in Brussels, Belgium, originally constructed as the centrepiece of the 1958 Brussels World's Fair. Designed by the engineer André Waterkeyn and the architects André and Jean Polak as a tribute to scientific progress, as well as to symbolise Belgian engineering skills at the time, it is located on the Heysel/Heizel Plateau in Laeken, where the exhibition took place. It is the city's most popular tourist attraction, and serves as a museum, an art centre and a cultural destination.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Brussels_-_Atomium_2022.jpg",
+        "url": "https://en.wikipedia.org/wiki/Atomium"
+      }
     },
     {
       "name": "Grand Place",
-      "writeup": "The central square of Brussels, known for its ornate guildhalls and historic buildings."
+      "writeup": "The central square of Brussels, known for its ornate guildhalls and historic buildings.",
+      "wiki": {
+        "extract": "The Grand-Place or Grote Markt is the central square of Brussels, Belgium. It is surrounded by opulent Baroque guildhalls of the former Guilds of Brussels and two larger edifices: the city's Flamboyant Town Hall, and the neo-Gothic King's House or Bread House building, housing the Brussels City Museum. The square measures 68 by 110 metres and is entirely paved.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/3840px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grand-Place"
+      }
     },
     {
       "name": "Manneken Pis",
-      "writeup": "A famous small bronze statue of a boy urinating, symbolizing Brussels' irreverent spirit."
+      "writeup": "A famous small bronze statue of a boy urinating, symbolizing Brussels' irreverent spirit.",
+      "wiki": {
+        "extract": "Manneken Pis is a landmark 55.5 cm (21.9 in) bronze fountain sculpture in central Brussels, Belgium, depicting a puer mingens: a nude boy urinating into the fountain's basin. Though its existence is attested as early as the mid-15th century, Manneken Pis was redesigned by the Brabantine sculptor Jérôme Duquesnoy the Elder and put in place in 1619. Its blue stone niche in rocaille style dates from 1770. The statue has been repeatedly stolen or damaged throughout its history. Since 1965, a replica has been displayed on site, with the original stored in the Brussels City Museum.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bruxelles_Manneken_Pis_cropped.jpg",
+        "url": "https://en.wikipedia.org/wiki/Manneken_Pis"
+      }
     },
     {
       "name": "Belfry of Bruges",
-      "writeup": "A medieval bell tower in Bruges offering panoramic views of the city."
+      "writeup": "A medieval bell tower in Bruges offering panoramic views of the city.",
+      "wiki": {
+        "extract": "The Belfry of Bruges is a medieval bell tower in the centre of Bruges, Belgium. One of the city's most prominent symbols, the belfry formerly housed a treasury and the municipal archives and served as an observation post for spotting fires and other dangers.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Brugge_Belfort_HDR.jpg",
+        "url": "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+      }
     },
     {
       "name": "Waterloo Battlefield",
-      "writeup": "Historic site of the 1815 Battle of Waterloo where Napoleon was defeated."
+      "writeup": "Historic site of the 1815 Battle of Waterloo where Napoleon was defeated.",
+      "wiki": {
+        "extract": "Waterloo is a municipality in Wallonia, located in the province of Walloon Brabant, Belgium, which in 2011 had a population of 29,706 and an area of 21.03 km2 (8.12 sq mi).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Maison_communale_Waterloo.jpg",
+        "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Belgium"
+      }
     }
   ],
   "head_of_state": "King Philippe",

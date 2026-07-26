@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Geirangerfjord",
-      "writeup": "A UNESCO World Heritage fjord known for its stunning natural beauty and dramatic waterfalls."
+      "writeup": "A UNESCO World Heritage fjord known for its stunning natural beauty and dramatic waterfalls.",
+      "wiki": {
+        "extract": "Geirangerfjorden (Norwegian) or Geiranger Fjord (English) is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in Stranda Municipality. It is a 15-kilometre-long branch off the Sunnylvsfjorden, which itself is a branch off the Storfjorden. The small village of Geiranger is located at the end of the fjord where the Geirangelva river empties into it.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geirangerfjord_.jpg/3840px-Geirangerfjord_.jpg",
+        "url": "https://en.wikipedia.org/wiki/Geirangerfjord"
+      }
     },
     {
       "name": "Oslo Opera House",
-      "writeup": "A modern architectural landmark located in the capital, known for its striking design and cultural performances."
+      "writeup": "A modern architectural landmark located in the capital, known for its striking design and cultural performances.",
+      "wiki": {
+        "extract": "The Oslo Opera House is the home of the Norwegian National Opera and Ballet, and the national opera house in Norway. The building is situated in the Bjørvika neighbourhood of central Oslo, at the head of the Oslofjord. It is operated by Norwegian Directorate of Public Construction and Property, the government agency which manages property for the Norwegian government. The structure contains 1,100 rooms in a total area of 49,000 m2 (530,000 sq ft). The main auditorium seats 1,364 and two other performance spaces can seat 200 and 400. The main stage is 16 m (52 ft) wide and 40 m (130 ft) deep. The angled exterior surfaces of the building are covered with marble from Carrara, Italy and white granite and make it appear to rise from the water. It is the largest cultural building constructed in Norway since Nidaros Cathedral was completed circa 1300.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Oslo_Opera_House"
+      }
     },
     {
       "name": "Bryggen",
-      "writeup": "Historic wharf in Bergen featuring colorful wooden buildings dating back to the Hanseatic League era."
+      "writeup": "Historic wharf in Bergen featuring colorful wooden buildings dating back to the Hanseatic League era.",
+      "wiki": {
+        "extract": "Bryggen, also known as Tyskebryggen, is a series of Hanseatic heritage commercial buildings lining up the eastern side of the Vågen harbour in the city of Bergen, Norway. Bryggen has been on the UNESCO list for World Cultural Heritage sites since 1979.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg/3840px-Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bryggen"
+      }
     },
     {
       "name": "Nidaros Cathedral",
-      "writeup": "Medieval cathedral in Trondheim, an important religious site and pilgrimage destination."
+      "writeup": "Medieval cathedral in Trondheim, an important religious site and pilgrimage destination.",
+      "wiki": {
+        "extract": "Nidaros Cathedral is a Church of Norway cathedral located in the city of Trondheim in Trøndelag county. It is built over the burial site of King Olav II, who brought Christianity to Norway and became the patron saint of the nation; the consecration of new Norwegian monarchs occurs at Nidaros Cathedral. It was built over a 230-year period, from 1070 to 1300 when it was substantially completed. However additional work, additions and renovations have continued intermittently since then, including a major reconstruction starting in 1869 and completed in 2001. Nidaros Cathedral is a popular place of Evangelical-Lutheran Christian pilgrimage, with several thousand pilgrims visiting it each year. Mass and the Divine Office, according to the Evangelical-Lutheran tradition, are celebrated daily at Nidaros Cathedral, in addition to other prayer services that are held there throughout the day.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg/3840px-Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Nidaros_Cathedral"
+      }
     },
     {
       "name": "Lofoten Islands",
-      "writeup": "Scenic archipelago known for dramatic mountains, fishing villages, and Northern Lights viewing."
+      "writeup": "Scenic archipelago known for dramatic mountains, fishing villages, and Northern Lights viewing.",
+      "wiki": {
+        "extract": "Lofoten is an archipelago and a traditional district in the county of Nordland, Norway. Lofoten has distinctive scenery with dramatic mountains and peaks, open sea and sheltered bays, beaches, and untouched lands. There are two towns, Svolvær and Leknes — the latter is approximately 169 km (105 mi) north of the Arctic Circle and approximately 2,420 km (1,500 mi) away from the North Pole. The archipelago experiences one of the world's largest elevated temperature anomalies relative to its high latitude. As of 2017, the islands attract one million tourists each year. Winter tourism has grown significantly, with visitors coming to experience the northern lights and unique Arctic scenery during the polar night season.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/3840px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lofoten"
+      }
     }
   ],
   "head_of_state": "King Harald V",

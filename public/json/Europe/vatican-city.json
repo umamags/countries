@@ -11,19 +11,39 @@
   "landmarks": [
     {
       "name": "St. Peter's Basilica",
-      "writeup": "A Renaissance-era church and one of the largest in the world, it is a major pilgrimage site and the papal enclave's centerpiece."
+      "writeup": "A Renaissance-era church and one of the largest in the world, it is a major pilgrimage site and the papal enclave's centerpiece.",
+      "wiki": {
+        "extract": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+        "url": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+      }
     },
     {
       "name": "Sistine Chapel",
-      "writeup": "Famous for Michelangelo's ceiling frescoes, it serves as the Pope's chapel and the site of the papal conclave."
+      "writeup": "Famous for Michelangelo's ceiling frescoes, it serves as the Pope's chapel and the site of the papal conclave.",
+      "wiki": {
+        "extract": "The Vatican Museums are the public museums of the Vatican City. They display works from the immense collection amassed by the Catholic Church and the papacy throughout the centuries, including several of the best-known Roman sculptures and most important masterpieces of Renaissance art in the world. The museums contain roughly 70,000 works, of which 20,000 are on display, and currently employ 640 people who work in 40 different administrative, scholarly, and restoration departments.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Musei_vaticani_Coat_of_Arms.svg/1280px-Musei_vaticani_Coat_of_Arms.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Vatican_Museums"
+      }
     },
     {
       "name": "Vatican Museums",
-      "writeup": "A vast collection of art and historical artifacts amassed by the Catholic Church over centuries."
+      "writeup": "A vast collection of art and historical artifacts amassed by the Catholic Church over centuries.",
+      "wiki": {
+        "extract": "The Vatican Museums are the public museums of the Vatican City. They display works from the immense collection amassed by the Catholic Church and the papacy throughout the centuries, including several of the best-known Roman sculptures and most important masterpieces of Renaissance art in the world. The museums contain roughly 70,000 works, of which 20,000 are on display, and currently employ 640 people who work in 40 different administrative, scholarly, and restoration departments.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Musei_vaticani_Coat_of_Arms.svg/1280px-Musei_vaticani_Coat_of_Arms.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Vatican_Museums"
+      }
     },
     {
       "name": "St. Peter's Square",
-      "writeup": "An expansive plaza in front of St. Peter's Basilica, designed by Bernini, used for papal ceremonies."
+      "writeup": "An expansive plaza in front of St. Peter's Basilica, designed by Bernini, used for papal ceremonies.",
+      "wiki": {
+        "extract": "St. Peter's Square is a large plaza located directly in front of St. Peter's Basilica in Vatican City, the papal enclave in Rome, directly west of the neighborhood (rione) of Borgo. Both the square and the basilica are named after Saint Peter, an apostle of Jesus whom Catholics consider the first Pope.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/3840px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg",
+        "url": "https://en.wikipedia.org/wiki/St._Peter's_Square"
+      }
     }
   ],
   "head_of_state": "Pope Francis",

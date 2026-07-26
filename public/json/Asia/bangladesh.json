@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Sundarbans",
-      "writeup": "The largest mangrove forest in the world, home to the Bengal tiger and a UNESCO World Heritage Site."
+      "writeup": "The largest mangrove forest in the world, home to the Bengal tiger and a UNESCO World Heritage Site.",
+      "wiki": {
+        "extract": "Sundarbans is a mangrove forest area in the Ganges Delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh's Khulna Division. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels. Spread across 10,277 km2 (3,968 sq mi), it is the world's largest mangrove forest. It covers over 6,017 km2 (2,323 sq mi) in Bangladesh's Khulna Division. In West Bengal's Presidency division, they extend over 4,260 km2 (1,640 sq mi) in the South 24 Parganas and North 24 Parganas districts.\nFour protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz. Sundarbans West, Sundarbans South, Sundarbans East in Bangladesh and Sundarbans National Park in India.\nThe Indian Sundarbans were considered endangered in a 2020 assessment under the IUCN Red List of Ecosystems framework. The most abundant tree species are sundri and gewa. The forests provide habitat to 453 fauna wildlife, including 290 bird, 120 fish, 42 mammal, 35 reptile and eight amphibian species. Despite a total ban on all killing or capture of wildlife other than fish and some invertebrates, there has been a consistent pattern of depleted biodiversity or loss of species in the 20th century, with the ecological quality of the forest declining.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Save_the_sundarbans_20.jpg/3840px-Save_the_sundarbans_20.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sundarbans"
+      }
     },
     {
       "name": "Lalbagh Fort",
-      "writeup": "A 17th-century Mughal fort complex in Dhaka, known for its beautiful architecture and historical significance."
+      "writeup": "A 17th-century Mughal fort complex in Dhaka, known for its beautiful architecture and historical significance.",
+      "wiki": {
+        "extract": "The Lalbagh Fort is a historic fort situated in the old city of Dhaka, Bangladesh. Its name is derived from its neighbourhood, Lalbagh, which means Red Garden. The term Lalbagh refers to reddish and pinkish hues in the Mughal architecture. The original fort was called Fort Aurangabad. Its construction was started by Prince Muhammad Azam Shah, a son of the Emperor Aurangzeb, and briefly a future Mughal emperor himself. After the prince was recalled by his father, the fort's construction was overseen by Shaista Khan, the Subahdar of Mughal Bengal. The death of Shaista Khan's daughter, Pari Bibi, resulted in a halt to the construction process, apparently due to Shaista Khan's superstition that the fort brought bad omen. Pari Bibi was buried inside the fort.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lalbagh_Fort"
+      }
     },
     {
       "name": "Ahsan Manzil",
-      "writeup": "The Pink Palace in Dhaka, once the official residential palace of the Nawab of Dhaka."
+      "writeup": "The Pink Palace in Dhaka, once the official residential palace of the Nawab of Dhaka.",
+      "wiki": {
+        "extract": "Ahsan Manzil is a historic palace situated in Kumartoli along the banks of Buriganga River in Dhaka, Bangladesh. It served as the official residence and administrative seat of the Nawab of Dhaka during the late 19th and early 20th centuries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ahsan_Manzil-Front_View.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ahsan_Manzil"
+      }
     },
     {
       "name": "Jatiyo Sangsad Bhaban",
-      "writeup": "The National Parliament House, an architectural masterpiece designed by Louis Kahn."
+      "writeup": "The National Parliament House, an architectural masterpiece designed by Louis Kahn.",
+      "wiki": {
+        "extract": "The Jatiya Sangsad Bhaban is the Parliament house of Bangladesh, located at Sher-e-Bangla Nagar in Dhaka. Initially designed for the Parliament of Pakistan by architect Louis Kahn, the complex is one of the largest legislative complexes in the world, covering 840,000 m2.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Assembly_of_Bangladesh_%2810%29.jpg/3840px-National_Assembly_of_Bangladesh_%2810%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jatiya_Sangsad_Bhaban"
+      }
     },
     {
       "name": "Cox's Bazar",
-      "writeup": "The world's longest natural sea beach, a popular tourist destination."
+      "writeup": "The world's longest natural sea beach, a popular tourist destination.",
+      "wiki": {
+        "extract": "Cox's Bazar is a city, fishing port, tourism centre, and the headquarters of the Cox's Bazar District and Cox's Bazar Sadar Upazila in south-eastern Bangladesh. The city has a population of about 196,000. Cox's Bazar Beach is a major tourist attraction.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/A_dusk_at_Cox%27s_Bazar_sea_beach.jpg/3840px-A_dusk_at_Cox%27s_Bazar_sea_beach.jpg",
+        "url": "https://en.wikipedia.org/wiki/Cox's_Bazar"
+      }
     }
   ],
   "head_of_state": "President Mohammad Shahabuddin",

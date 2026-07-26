@@ -10,15 +10,26 @@
   "landmarks": [
     {
       "name": "Obo National Park",
-      "writeup": "A protected rainforest area known for its biodiversity and endemic species."
+      "writeup": "A protected rainforest area known for its biodiversity and endemic species.",
+      "wiki": null
     },
     {
       "name": "Roça Sundy",
-      "writeup": "A historic plantation site linked to the abolition of slavery in the islands."
+      "writeup": "A historic plantation site linked to the abolition of slavery in the islands.",
+      "wiki": {
+        "extract": "Sundy is a settlement in the northwestern part of Príncipe Island in São Tomé and Príncipe. Its population is 416. Sundy lies 5 km northwest of the island capital of Santo António. In 1822 the first cocoa plantation of the whole archipelago was established in Sundy. Several buildings of this plantation have been preserved.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Sundy%2C_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+      }
     },
     {
       "name": "São Sebastião Museum",
-      "writeup": "A cultural museum housed in a former fortress showcasing local history."
+      "writeup": "A cultural museum housed in a former fortress showcasing local history.",
+      "wiki": {
+        "extract": "São Tomé is the capital and largest city of the Central African island country of São Tomé and Príncipe. Its name is Portuguese for \"Saint Thomas\". Founded in the 15th century, it is one of Africa's oldest colonial cities.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2012SaoTome-8_%288042889363%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+      }
     }
   ],
   "head_of_state": "President Carlos Vila Nova",

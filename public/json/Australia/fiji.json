@@ -12,23 +12,44 @@
   "landmarks": [
     {
       "name": "Sabeto Hot Springs and Mud Pool",
-      "writeup": "Natural hot springs and mud pools known for their therapeutic properties, located near Nadi."
+      "writeup": "Natural hot springs and mud pools known for their therapeutic properties, located near Nadi.",
+      "wiki": null
     },
     {
       "name": "Garden of the Sleeping Giant",
-      "writeup": "A botanical garden famous for its collection of orchids and tropical plants."
+      "writeup": "A botanical garden famous for its collection of orchids and tropical plants.",
+      "wiki": {
+        "extract": "The Momo Levu (Tui Sabeto) is the Sovereign of the Dominion of Betoraurau.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Tui_Sabeto"
+      }
     },
     {
       "name": "Sri Siva Subramaniya Temple",
-      "writeup": "The largest Hindu temple in the Southern Hemisphere, located in Nadi."
+      "writeup": "The largest Hindu temple in the Southern Hemisphere, located in Nadi.",
+      "wiki": {
+        "extract": "The Sri Siva Subramaniya Temple is a Hindu temple in Nadi, Fiji. It is the largest Hindu temple in the Southern Hemisphere. It is at the southern end of the main road through Nadi. In addition to being a significant religious and cultural site for the Indo Fijian community, the temple is a popular tourist attraction.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nadi_Sri_Siva_Subramaniya_Temple.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sri_Siva_Subramaniya_Temple"
+      }
     },
     {
       "name": "Bouma National Heritage Park",
-      "writeup": "A protected area on Taveuni Island featuring waterfalls, rainforest, and hiking trails."
+      "writeup": "A protected area on Taveuni Island featuring waterfalls, rainforest, and hiking trails.",
+      "wiki": {
+        "extract": "Trisia Angela Farrelly is a New Zealand professor of social anthropology and honorary fellow of Massey University, specialising in science-policy and systems approaches to preventing and reducing plastic pollution. Farrelly coordinates the Scientists' Coalition for an Effective Plastics Treaty, with a membership of more than 400 members from over 60 countries. She co-founded the Aotearoa Plastic Pollution Alliance and the New Zealand Product Stewardship Council. Farrelly is also a technical advisor to the Secretariat for the Pacific Regional Environment Programme and a senior editor of the journal Cambridge Prisms: Plastics. In December 2024, she was appointed an Officer of the New Zealand Order of Merit, for services to ecology.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Trisia_Farrelly_ONZM_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Trisia_Farrelly"
+      }
     },
     {
       "name": "Fiji Museum",
-      "writeup": "Located in Suva, it showcases Fiji's history, culture, and archaeology."
+      "writeup": "Located in Suva, it showcases Fiji's history, culture, and archaeology.",
+      "wiki": {
+        "extract": "The Fiji Museum is a museum in Suva, Fiji, located in the capital city's botanical gardens, Thurston Gardens.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Fiji_Museum_%28Suva%2C_Fiji%29_logo.png",
+        "url": "https://en.wikipedia.org/wiki/Fiji_Museum"
+      }
     }
   ],
   "head_of_state": "President Wiliame Katonivere",

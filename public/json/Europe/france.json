@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Eiffel Tower",
-      "writeup": "An iconic iron lattice tower in Paris, symbolizing French art and engineering."
+      "writeup": "An iconic iron lattice tower in Paris, symbolizing French art and engineering.",
+      "wiki": {
+        "extract": "The Eiffel Tower is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+      }
     },
     {
       "name": "Louvre Museum",
-      "writeup": "World's largest art museum, home to the Mona Lisa and vast historical collections."
+      "writeup": "World's largest art museum, home to the Mona Lisa and vast historical collections.",
+      "wiki": {
+        "extract": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory. The museum is housed in the Louvre Palace, originally built in the late 12th to 13th century under Philip II. Remnants of the Medieval Louvre fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary residence of the French kings.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/3840px-Louvre_Museum_Wikimedia_Commons.jpg",
+        "url": "https://en.wikipedia.org/wiki/Louvre"
+      }
     },
     {
       "name": "Mont Saint-Michel",
-      "writeup": "A medieval abbey perched on a rocky island, known for its unique tides and architecture."
+      "writeup": "A medieval abbey perched on a rocky island, known for its unique tides and architecture.",
+      "wiki": {
+        "extract": "Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/3840px-Mont-Saint-Michel_vu_du_ciel.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+      }
     },
     {
       "name": "Palace of Versailles",
-      "writeup": "A former royal residence famous for its opulent architecture and gardens."
+      "writeup": "A former royal residence famous for its opulent architecture and gardens.",
+      "wiki": {
+        "extract": "The Palace of Versailles is a château and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/3840px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+      }
     },
     {
       "name": "Notre-Dame Cathedral",
-      "writeup": "A masterpiece of Gothic architecture located in Paris, renowned for its stained glass and sculptures."
+      "writeup": "A masterpiece of Gothic architecture located in Paris, renowned for its stained glass and sculptures.",
+      "wiki": {
+        "extract": "On 15 April 2019, at 18:18 CEST, a structural fire broke out in the roof space of Notre-Dame de Paris, a medieval Catholic cathedral in Paris, France, part of the \"Paris, Banks of the Seine\" UNESCO World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Incendie_Notre_Dame_de_Paris.jpg",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_fire"
+      }
     }
   ],
   "head_of_state": "Emmanuel Macron (President)",

@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Mount Fuji",
-      "writeup": "An iconic stratovolcano and Japan's highest peak, revered for its symmetrical cone and cultural significance."
+      "writeup": "An iconic stratovolcano and Japan's highest peak, revered for its symmetrical cone and cultural significance.",
+      "wiki": {
+        "extract": "Mount Fuji  is an active stratovolcano located on the Japanese island of Honshu, with a summit elevation of 3,776.24 m. It is the highest mountain in Japan, the second-highest volcano on any Asian island, and the seventh-highest peak of an island on Earth. Mount Fuji last erupted from 1707 to 1708.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/3840px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Fuji"
+      }
     },
     {
       "name": "Tokyo Tower",
-      "writeup": "A communications and observation tower in Tokyo, symbolizing Japan's post-war rebirth and modernization."
+      "writeup": "A communications and observation tower in Tokyo, symbolizing Japan's post-war rebirth and modernization.",
+      "wiki": {
+        "extract": "Tokyo Skytree , a.k.a Tokyo Sky Tree, is a broadcasting and observation tower, located in Sumida, Tokyo, Japan. It has been the tallest tower in Japan since opening in 2012, and reached its full height of 634 metres in early 2011, making it the tallest tower in the world, displacing the Canton Tower, and the third tallest structure in the world behind Merdeka 118 and Burj Khalifa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+      }
     },
     {
       "name": "Kinkaku-ji (Golden Pavilion)",
-      "writeup": "A Zen Buddhist temple in Kyoto famous for its stunning gold leaf exterior and serene garden setting."
+      "writeup": "A Zen Buddhist temple in Kyoto famous for its stunning gold leaf exterior and serene garden setting.",
+      "wiki": {
+        "extract": "Kinkaku-ji , officially named Rokuon-ji , is a Zen Buddhist temple in Kyoto, Japan and a tourist attraction. It is designated as a World Heritage Site, a National Special Historic Site, a National Special Landscape, and one of the 17 Historic Monuments of Ancient Kyoto. The temple is nicknamed after its reliquary (shariden), the Golden Pavilion , whose top two floors are coated in 0.5 μm gold leaf. The current pavilion was rebuilt in 1955 after being destroyed in an arson attack.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/3840px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kinkaku-ji"
+      }
     },
     {
       "name": "Himeji Castle",
-      "writeup": "A well-preserved feudal castle known for its elegant white appearance and complex defensive design."
+      "writeup": "A well-preserved feudal castle known for its elegant white appearance and complex defensive design.",
+      "wiki": {
+        "extract": "Himeji Castle  is a hilltop Japanese castle complex situated in Himeji, a city in Hyōgo Prefecture, Japan. The castle is regarded as the finest surviving example of prototypical Japanese castle architecture, comprising a network of 83 structures with advanced defensive systems from the feudal period. The castle is frequently known as Hakuro-jō or Shirasagi-jō because of its brilliant white exterior and supposed resemblance to a bird taking flight.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/3840px-Himeji_castle_in_may_2015.jpg",
+        "url": "https://en.wikipedia.org/wiki/Himeji_Castle"
+      }
     },
     {
       "name": "Itsukushima Shrine",
-      "writeup": "A Shinto shrine on Miyajima Island, renowned for its 'floating' torii gate visible at high tide."
+      "writeup": "A Shinto shrine on Miyajima Island, renowned for its 'floating' torii gate visible at high tide.",
+      "wiki": {
+        "extract": "Itsukushima Shrine  is a Shinto shrine on the island of Itsukushima, best known for its \"floating\" torii. It is in the city of Hatsukaichi, in Hiroshima Prefecture in Japan, accessible from the mainland by ferry at Miyajimaguchi Station. The shrine complex is listed as a UNESCO World Heritage Site, and the Japanese government has designated several buildings and possessions as National Treasures.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/3840px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Itsukushima_Shrine"
+      }
     }
   ],
   "head_of_state": "Emperor Naruhito",

@@ -11,15 +11,26 @@
   "landmarks": [
     {
       "name": "Hanamonga na Maui",
-      "writeup": "An ancient trilithon stone structure believed to be a royal gateway built in the 13th century."
+      "writeup": "An ancient trilithon stone structure believed to be a royal gateway built in the 13th century.",
+      "wiki": null
     },
     {
       "name": "Royal Palace",
-      "writeup": "The official residence of the King of Tonga, located in the capital, Nukunalofa."
+      "writeup": "The official residence of the King of Tonga, located in the capital, Nukunalofa.",
+      "wiki": {
+        "extract": "The Royal Palace of the Kingdom of Tonga is located in the northwest of the capital, Nukuʻalofa, close to the Pacific Ocean. The wooden Palace, which was built in 1867, is the official residence of the King of Tonga. The palace is not open to the public, but it is easily visible from the waterfront.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg/3840px-Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg",
+        "url": "https://en.wikipedia.org/wiki/Royal_Palace%2C_Tonga"
+      }
     },
     {
       "name": "Mapu a Vaea Blowholes",
-      "writeup": "Natural blowholes on Tongatapu island where seawater shoots through lava tubes."
+      "writeup": "Natural blowholes on Tongatapu island where seawater shoots through lava tubes.",
+      "wiki": {
+        "extract": "The Mapu a Vaea, also known as Mapu'a Vaea, are a chain of natural blowholes on the island of Tongatapu, located near the village of Houma in the Kingdom of Tonga. It is one of the highlights of the tours around the island of Tongatapu.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mapu_a_Vaea.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mapu_a_Vaea"
+      }
     }
   ],
   "head_of_state": "King Tupou VI",

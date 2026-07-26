@@ -1,10 +1,23 @@
-import { Link } from 'react-router-dom'
+import { useMemo } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
 import { useCountriesIndex } from '../data/IndexContext'
 import { useFavorites } from '../data/FavoritesContext'
+import WorldMap from '../components/WorldMap'
 
 export default function ContinentsPage() {
   const { status, continents, error } = useCountriesIndex()
   const { favorites, toggleFavorite } = useFavorites()
+  const navigate = useNavigate()
+
+  const groupByName = useMemo(() => {
+    const map = new Map()
+    for (const continent of continents) {
+      for (const country of continent.countries) {
+        if (country.map_name) map.set(country.map_name, { key: continent.slug, label: continent.name })
+      }
+    }
+    return map
+  }, [continents])
 
   if (status === 'loading') return <p className="status">Loading continents…</p>
   if (status === 'error') return <p className="status status-error">Could not load data: {error}</p>
@@ -13,6 +26,13 @@ export default function ContinentsPage() {
     <div className="page">
       <h1>Explore the World</h1>
       <p className="subtitle">Choose a continent to see its countries.</p>
+      <div className="map-container">
+        <WorldMap
+          mode="explore"
+          groupByName={groupByName}
+          onGroupClick={(slug) => navigate(`/continent/${slug}`)}
+        />
+      </div>
       <div className="grid grid-continents">
         {continents.map((continent) => (
           <Link key={continent.slug} to={`/continent/${continent.slug}`} className="card continent-card">

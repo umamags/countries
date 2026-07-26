@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Rijksmuseum",
-      "writeup": "A Dutch national museum dedicated to arts and history in Amsterdam, housing masterpieces from the Dutch Golden Age."
+      "writeup": "A Dutch national museum dedicated to arts and history in Amsterdam, housing masterpieces from the Dutch Golden Age.",
+      "wiki": {
+        "extract": "The Rijksmuseum is the national museum of the Netherlands dedicated to Dutch arts and history, located at the Museum Square in the borough of Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Royal Concertgebouw.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg/3840px-South_facade_of_the_Rijksmuseum_Amsterdam_%28DSCF0528%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rijksmuseum"
+      }
     },
     {
       "name": "Anne Frank House",
-      "writeup": "Museum in Amsterdam preserving the hiding place where Anne Frank wrote her diary during World War II."
+      "writeup": "Museum in Amsterdam preserving the hiding place where Anne Frank wrote her diary during World War II.",
+      "wiki": {
+        "extract": "The Anne Frank House is a writer's house and biographical museum dedicated to Jewish wartime diarist Anne Frank. The building is located on a canal called the Prinsengracht, close to the Westerkerk, in central Amsterdam in the Netherlands.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/3840px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg",
+        "url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+      }
     },
     {
       "name": "Keukenhof Gardens",
-      "writeup": "One of the world's largest flower gardens, famous for its vibrant tulip displays in spring."
+      "writeup": "One of the world's largest flower gardens, famous for its vibrant tulip displays in spring.",
+      "wiki": {
+        "extract": "Keukenhof, also known as the Garden of Europe, is one of the world's largest flower gardens, situated in the municipality of Lisse, in the Netherlands. According to the official website, Keukenhof Park covers an area of 32 hectares and approximately 7 million flower bulbs are planted in the gardens annually. While it is widely known for its tulips, Keukenhof also features numerous other flowers, including hyacinths, daffodils, lilies, roses, carnations and irises.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/26Y_1599_2.jpg/3840px-26Y_1599_2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Keukenhof"
+      }
     },
     {
       "name": "Kinderdijk Windmills",
-      "writeup": "A UNESCO World Heritage site featuring 19 historic windmills built for water management."
+      "writeup": "A UNESCO World Heritage site featuring 19 historic windmills built for water management.",
+      "wiki": {
+        "extract": "The Kinderdijk windmills are a group of 19 monumental windmills in the Alblasserwaard polder, in the province of South Holland, Netherlands. Most of the mills are part of the village of Kinderdijk in the municipality of Molenlanden, and one mill, De Blokker, is part of the municipality of Alblasserdam. Built in 1738 and 1740, to keep water out of the polder, it is the largest concentration of old windmills in the Netherlands and one of the best-known Dutch tourist sites. The mills are listed as national monuments and the entire area is a protected village view since 1993. They have been a UNESCO World Heritage Site since 1997, and as such are officially named as the Mill Network at Kinderdijk-Elshout.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/KinderdijkWindmills.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kinderdijk_windmills"
+      }
     },
     {
       "name": "Dam Square",
-      "writeup": "Central public square in Amsterdam known for the Royal Palace and National Monument."
+      "writeup": "Central public square in Amsterdam known for the Royal Palace and National Monument.",
+      "wiki": {
+        "extract": "Dam Square, also known as the Dam, is a town square in Amsterdam, the capital and most populous city of the Netherlands. Its notable buildings and frequent events make it one of the best-known and most important locations in the city and the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dam_Square_2024.jpg/3840px-Dam_Square_2024.jpg",
+        "url": "https://en.wikipedia.org/wiki/Dam_Square"
+      }
     }
   ],
   "head_of_state": "King Willem-Alexander",

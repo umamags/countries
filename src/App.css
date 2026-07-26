@@ -317,6 +317,7 @@
   fill: var(--border);
   stroke: var(--bg-raised);
   stroke-width: 0.5;
+  transition: fill 0.1s ease;
 }
 
 .map-country.is-highlighted {
@@ -326,6 +327,10 @@
 .world-map-focus .map-country {
   stroke: var(--bg-raised);
   stroke-width: 1;
+}
+
+.map-country.is-groupable {
+  cursor: pointer;
 }
 
 /* Suggested videos */
@@ -418,4 +423,31 @@
   padding: 10px 14px;
   font-size: 13px;
   color: var(--accent);
+}
+
+/* Landmarks */
+
+.landmark-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.landmark-image {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  margin: 4px 0 20px;
+}
+
+.landmark-description {
+  line-height: 1.6;
+  margin: 0 0 12px;
+}
+
+.landmark-source {
+  display: inline-block;
+  color: var(--accent);
+  font-size: 14px;
 }

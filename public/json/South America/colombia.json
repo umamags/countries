@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Ciudad Perdida",
-      "writeup": "An ancient archaeological site in the Sierra Nevada, believed to be older than Machu Picchu."
+      "writeup": "An ancient archaeological site in the Sierra Nevada, believed to be older than Machu Picchu.",
+      "wiki": {
+        "extract": "Ciudad Perdida is the archaeological site of an ancient city in the Sierra Nevada de Santa Marta of Colombia, within the jurisdiction of the municipality of Santa Marta. This city is believed to have been founded about 800 AD. If so, Ciudad Perdida predates Machu Picchu by about 650 years. It was built by the Tairona.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/CIUDAD_PERDIDA_2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ciudad_Perdida"
+      }
     },
     {
       "name": "Cartagena's Walled City",
-      "writeup": "A historic colonial city known for its preserved fortifications and vibrant culture."
+      "writeup": "A historic colonial city known for its preserved fortifications and vibrant culture.",
+      "wiki": {
+        "extract": "Cartagena, known since the imperial era as Cartagena de Indias, is a city and one of the major ports on the northern coast of Colombia in the Caribbean Coast Region, along the Caribbean Sea. Cartagena's past role as a link in the route to the West Indies provides it with important historical value for world exploration and preservation of heritage from the great commercial maritime routes. As a former Spanish colony, it was a key port for the export of Bolivian silver to Spain and for the import of enslaved Africans under the asiento system. It was defensible against pirate attacks in the Caribbean. The city's strategic location between the Magdalena and Sinú rivers also gave it easy access to the interior of New Granada and made it a main port for trade between Spain and its overseas empire, establishing its importance by the early 1540s.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_Naval_del_Caribe.JPG",
+        "url": "https://en.wikipedia.org/wiki/Cartagena%2C_Colombia"
+      }
     },
     {
       "name": "Tayrona National Natural Park",
-      "writeup": "A coastal park with diverse ecosystems, including beaches, rainforest, and archaeological sites."
+      "writeup": "A coastal park with diverse ecosystems, including beaches, rainforest, and archaeological sites.",
+      "wiki": {
+        "extract": "The Tayrona National Natural Park is a protected area in the Colombian northern Caribbean region and within the jurisdiction of the city of Santa Marta, 34 kilometres (21 mi) from the city centre. The park presents a biodiversity endemic to the area of the Sierra Nevada de Santa Marta mountain range, featuring a variety of climates and geography that ranges from arid sea level to 900 meters above sea level. The park covers approximately 30 square kilometres (12 sq mi) of maritime area in the Caribbean Sea and approximately 150 square kilometres (58 sq mi) of land.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Arrecifes.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tayrona_National_Natural_Park"
+      }
     },
     {
       "name": "Salt Cathedral of Zipaquirá",
-      "writeup": "An underground Roman Catholic church built within the tunnels of a salt mine."
+      "writeup": "An underground Roman Catholic church built within the tunnels of a salt mine.",
+      "wiki": {
+        "extract": "The Salt Cathedral of Zipaquirá is an underground Roman Catholic church built within the tunnels of a salt mine 200 metres (660 ft) underground in a halite mountain near the city of Zipaquirá, in Cundinamarca, Colombia. It is a tourist destination and place of pilgrimage in the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_creation_of_man_-_Zipaquira.JPG",
+        "url": "https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1"
+      }
     },
     {
       "name": "Monserrate",
-      "writeup": "A mountain overlooking Bogotá, featuring a church and panoramic city views."
+      "writeup": "A mountain overlooking Bogotá, featuring a church and panoramic city views.",
+      "wiki": {
+        "extract": "Monserrate is a mountain over 3,000 metres high that overlooks the city center of Bogotá, the capital city of Colombia. It rises to 3,152 meters (10,341 ft) above the sea level, where there is a church with a shrine, devoted to El Señor Caído.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2017_Bogot%C3%A1_Bas%C3%ADlica_del_Se%C3%B1or_Ca%C3%ADdo_de_Monserrate.jpg/3840px-2017_Bogot%C3%A1_Bas%C3%ADlica_del_Se%C3%B1or_Ca%C3%ADdo_de_Monserrate.jpg",
+        "url": "https://en.wikipedia.org/wiki/Monserrate"
+      }
     }
   ],
   "head_of_state": "President Gustavo Petro",

@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Mount Erebus",
-      "writeup": "An active volcano and one of the southernmost active volcanoes on Earth."
+      "writeup": "An active volcano and one of the southernmost active volcanoes on Earth.",
+      "wiki": {
+        "extract": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441 ft), it is the second most prominent mountain in Antarctica and the second-highest volcano in Antarctica. It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova. It makes Ross Island the sixth-highest island on Earth by highest point.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mt_erebus.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Erebus"
+      }
     },
     {
       "name": "Ross Ice Shelf",
-      "writeup": "The largest ice shelf of Antarctica, extending into the Ross Sea."
+      "writeup": "The largest ice shelf of Antarctica, extending into the Ross Sea.",
+      "wiki": {
+        "extract": "The Ross Ice Shelf is the largest ice shelf of Antarctica. It is several hundred metres thick. The nearly vertical ice front to the open sea is more than 600 km (370 mi) long, and between 15 and 50 m high above the water surface. Ninety percent of the floating ice, however, is below the water surface.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Corp2401_-_Flickr_-_NOAA_Photo_Library.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ross_Ice_Shelf"
+      }
     },
     {
       "name": "South Pole",
-      "writeup": "The southernmost point on the Earth, located on the Antarctic Plateau."
+      "writeup": "The southernmost point on the Earth, located on the Antarctic Plateau.",
+      "wiki": {
+        "extract": "The South Pole, also known as the Geographic South Pole or Terrestrial South Pole, is the point in the Southern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True South Pole to distinguish from the south magnetic pole.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Pole-south.gif",
+        "url": "https://en.wikipedia.org/wiki/South_Pole"
+      }
     },
     {
       "name": "Deception Island",
-      "writeup": "A volcanic island with a natural harbor, known for geothermal activity."
+      "writeup": "A volcanic island with a natural harbor, known for geothermal activity.",
+      "wiki": {
+        "extract": "Deception Island is in the South Shetland Islands close to the Antarctic Peninsula with a large and usually \"safe\" natural harbour, which is occasionally affected by the underlying active volcano. This island is the caldera of an active volcano, which seriously damaged local scientific stations in 1967 and 1969. The island previously held a whaling station. It has now become a tourist destination, attracting over 15,000 visitors annually. Two research stations are operated by Argentina and Spain during the summer season. While various countries have asserted sovereignty, it is still administered under the Antarctic Treaty System, meaning it is under no control.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Deception_island.jpg",
+        "url": "https://en.wikipedia.org/wiki/Deception_Island"
+      }
     },
     {
       "name": "Lemaire Channel",
-      "writeup": "A scenic strait between the Antarctic Peninsula and Booth Island, popular for cruises."
+      "writeup": "A scenic strait between the Antarctic Peninsula and Booth Island, popular for cruises.",
+      "wiki": {
+        "extract": "Lemaire Channel is a strait off Antarctica, between Kyiv Peninsula in the mainland's Graham Land and Booth Island. Nicknamed \"Kodak Gap\" by some, it is one of the top tourist destinations in Antarctica; steep cliffs hem in the iceberg-filled passage, which is 11 km (6.8 mi) long and just 600 metres (2,000 ft) wide at its narrowest point.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ant-pen-map-Kiev.PNG",
+        "url": "https://en.wikipedia.org/wiki/Lemaire_Channel"
+      }
     }
   ],
   "head_of_state": "None (Governed by the Antarctic Treaty System)",

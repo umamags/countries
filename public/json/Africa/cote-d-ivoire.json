@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Basilica of Our Lady of Peace",
-      "writeup": "One of the largest churches in the world, located in Yamoussoukro, known for its impressive architecture."
+      "writeup": "One of the largest churches in the world, located in Yamoussoukro, known for its impressive architecture.",
+      "wiki": {
+        "extract": "The Basilica of Our Lady of Peace is a Catholic minor basilica dedicated to Our Lady of Peace in Yamoussoukro, the administrative capital of Ivory Coast. Guinness World Records lists it as the largest church in the world, having surpassed the previous record holder, Saint Peter's Basilica, upon completion. It has an area of 30,000 square metres (320,000 sq ft) and is 158 metres (518 ft) tall. However, it also includes a rectory and a villa, which are not strictly part of the church. It can accommodate 18,000 worshippers, compared to 60,000 for St. Peter's.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Notre_dame_de_la_paix_yamoussoukro_by_felix_krohn.jpg",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"
+      }
     },
     {
       "name": "Taï National Park",
-      "writeup": "A UNESCO World Heritage site, this park is home to diverse wildlife and one of the last primary rainforests in West Africa."
+      "writeup": "A UNESCO World Heritage site, this park is home to diverse wildlife and one of the last primary rainforests in West Africa.",
+      "wiki": {
+        "extract": "Taï National Park is a national park in Ivory Coast that contains one of the last areas of primary rainforest in West Africa. It was inscribed as a World Heritage Site in 1982 due to the diversity of its flora and fauna. Five mammal species of the Taï National Park are on the Red List of Threatened Species: pygmy hippopotamus, olive colobus monkeys, leopards, chimpanzees, and Jentink's duiker.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ta%C3%AF_National_Park_%2824148248710%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ta%C3%AF_National_Park"
+      }
     },
     {
       "name": "Banco National Park",
-      "writeup": "A large urban forest reserve near Abidjan, offering a natural escape within the city."
+      "writeup": "A large urban forest reserve near Abidjan, offering a natural escape within the city.",
+      "wiki": {
+        "extract": "Banco National Park is a national park in Ivory Coast, located along Highway North in the district of Attécoubé (Abidjan). It is one of the only dense, primary tropical forests located in the heart of an urban area, other than the Tijuca National Park in Rio de Janeiro in Brazil.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/For%C3%AAt_du_banco_%28_C%C3%B4te_d%27Ivoire_%29.jpg/3840px-For%C3%AAt_du_banco_%28_C%C3%B4te_d%27Ivoire_%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Banco_National_Park"
+      }
     }
   ],
   "head_of_state": "President Alassane Ouattara",

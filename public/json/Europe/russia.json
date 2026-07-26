@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Red Square",
-      "writeup": "Historic square in Moscow, known for its political and cultural significance."
+      "writeup": "Historic square in Moscow, known for its political and cultural significance.",
+      "wiki": {
+        "extract": "Red Square is one of the oldest and largest squares in Moscow, Russia. It is located in Moscow's historic centre, along the eastern walls of the Kremlin. It is the city's most prominent landmark, with famous buildings such as Saint Basil's Cathedral, Lenin's Mausoleum, the State Historical Museum and the GUM department store. It has been a UNESCO World Heritage Site since 1990. Red Square has been the scene of executions, demonstrations, riots, parades, and speeches. Almost 73,000 square metres, it lies directly east of the Kremlin and north of the Moskva River. A moat that separated the square from the Kremlin was paved over in 1812.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kremlin_and_Red_Square.1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Red_Square"
+      }
     },
     {
       "name": "Kremlin",
-      "writeup": "Fortified complex in Moscow that serves as the official residence of the President."
+      "writeup": "Fortified complex in Moscow that serves as the official residence of the President.",
+      "wiki": {
+        "extract": "The Moscow Kremlin, commonly known as the Kremlin, is a fortified complex (kremlin) in Moscow, Russia. Located in the historic centre of the country's capital city, the Kremlin comprises five palaces, four cathedrals, and an enclosing wall along with numerous towers. Within the complex is the Grand Kremlin Palace, which was one of the royal residences of the Tsar of Russia, and is now the residence of the president of the Russian Federation. The Kremlin overlooks the Moskva River to the south, Red Square to the east, and Alexander Garden to the west.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Moscow_Kremlin_%288281675670%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kremlin"
+      }
     },
     {
       "name": "Hermitage Museum",
-      "writeup": "One of the largest and oldest museums in the world, located in Saint Petersburg."
+      "writeup": "One of the largest and oldest museums in the world, located in Saint Petersburg.",
+      "wiki": {
+        "extract": "The State Hermitage Museum is a museum of art and culture in Saint Petersburg, Russia, and holds the largest collection of paintings in the world. It was founded in 1764 when Empress Catherine the Great acquired a collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. The museum celebrates the anniversary of its founding each year on 7 December, Saint Catherine's Day. It has been open to the public since 1852. The Art Newspaper ranked the museum 10th in their list of the most visited art museums, with 2,812,913 visitors in 2022.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hermitage_Museum"
+      }
     },
     {
       "name": "Lake Baikal",
-      "writeup": "World's deepest freshwater lake, located in Siberia."
+      "writeup": "World's deepest freshwater lake, located in Siberia.",
+      "wiki": {
+        "extract": "Lake Baikal is a rift lake and the deepest lake in the world. It is situated in southern Siberia, Russia, between the federal subjects of Irkutsk Oblast to the northwest and the Republic of Buryatia to the southeast.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Baikal.A2001296.0420.250m-NASA.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+      }
     },
     {
       "name": "Saint Basil's Cathedral",
-      "writeup": "Iconic colorful cathedral located on Red Square in Moscow."
+      "writeup": "Iconic colorful cathedral located on Red Square in Moscow.",
+      "wiki": {
+        "extract": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is a Russian Orthodox church on Red Square in the historic centre of Moscow. It is one of the most popular cultural symbols of Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat, or Pokrovsky Cathedral. It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. It was completed, with its colours, in 1683.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+      }
     }
   ],
   "head_of_state": "President Vladimir Putin",

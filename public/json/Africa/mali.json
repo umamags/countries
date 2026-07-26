@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Timbuktu",
-      "writeup": "An ancient city known for its historic role as a center of Islamic learning and trade."
+      "writeup": "An ancient city known for its historic role as a center of Islamic learning and trade.",
+      "wiki": {
+        "extract": "Timbuktu is an ancient city in Mali, situated 20 kilometres north of the Niger River. It is the capital of the Tombouctou Region, one of the 19 administrative regions of Mali, having a population of around one million people in the 2022 census.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Donkeys%2C_Timbuktu.jpg",
+        "url": "https://en.wikipedia.org/wiki/Timbuktu"
+      }
     },
     {
       "name": "Djenné Mosque",
-      "writeup": "The largest mud-brick building in the world and a UNESCO World Heritage site."
+      "writeup": "The largest mud-brick building in the world and a UNESCO World Heritage site.",
+      "wiki": {
+        "extract": "The Great Mosque of Djenné in the Sudano-Sahelian architectural style is the largest adobe brick building in the world. The mosque is located in the city of Djenné, Mali, on the flood plain of the Bani River. The first mosque on the site was built around the 13th century, but the current structure dates from 1907. As well as being the centre of the community of Djenné, it is one of the most famous landmarks in Africa. Along with the \"Old Towns of Djenné\", it was designated a World Heritage Site by UNESCO in 1988.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Djenne_great_mud_mosque.jpg",
+        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9"
+      }
     },
     {
       "name": "Bandiagara Escarpment",
-      "writeup": "A sandstone cliff region home to the Dogon people and known for its unique cultural heritage."
+      "writeup": "A sandstone cliff region home to the Dogon people and known for its unique cultural heritage.",
+      "wiki": {
+        "extract": "The Bandiagara Escarpment is a sandstone cliff in the Dogon country of Mali. It rises about 500 m (1,600 ft) above the lower sandy flats to the south, and has a length of approximately 150 km (90 mi).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Les_Falaises_de_Bandiagara.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bandiagara_Escarpment"
+      }
     }
   ],
   "head_of_state": "Assimi Goïta (Interim President as of 2024)",

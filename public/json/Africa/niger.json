@@ -14,19 +14,39 @@
   "landmarks": [
     {
       "name": "Aïr Mountains",
-      "writeup": "A rugged mountain range in northern Niger known for its unique desert landscapes and prehistoric rock art."
+      "writeup": "A rugged mountain range in northern Niger known for its unique desert landscapes and prehistoric rock art.",
+      "wiki": {
+        "extract": "The Aïr Mountains or Aïr Massif is a triangular massif, located in northern Niger, within the Sahara. Part of the West Saharan montane xeric woodlands ecoregion, they rise to more than 1,800 m (5,900 ft) and extend over 84,000 km2 (32,000 sq mi). Lying in the midst of desert north of the 17th parallel, the Aïr plateau, with an average altitude between 500 and 900 m, forms an island of Sahel climate which supports a wide variety of life, many pastoral and farming communities, and dramatic geological and archaeological sites. There are notable archaeological excavations in the region that illustrate the prehistoric past of this region. The endangered African wild dog once existed in this region, but may now be extirpated due to human population pressures in this region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Timia_valley.JPG",
+        "url": "https://en.wikipedia.org/wiki/A%C3%AFr_Mountains"
+      }
     },
     {
       "name": "Tenere Desert",
-      "writeup": "Part of the Sahara, famous for its vast sand dunes and the 'Tree of Ténéré,' once considered the most isolated tree on Earth."
+      "writeup": "Part of the Sahara, famous for its vast sand dunes and the 'Tree of Ténéré,' once considered the most isolated tree on Earth.",
+      "wiki": {
+        "extract": "The Ténéré is a desert region in south central Sahara. It comprises a vast plain of sand stretching from northeastern Niger to western Chad, occupying an area of over 400,000 square kilometres (150,000 sq mi). It is bounded by the Aïr Mountains in the west, the Hoggar Mountains in the north, the Djado Plateau in the northeast, the Tibesti Mountains in the east, and the basin of Lake Chad in the south. The central part of the desert contains the Erg of Bilma, an area of sand dunes. The Neolithic Tenerian culture was centred on the region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg",
+        "url": "https://en.wikipedia.org/wiki/T%C3%A9n%C3%A9r%C3%A9"
+      }
     },
     {
       "name": "Niamey Grand Mosque",
-      "writeup": "The largest mosque in Niger's capital, an important religious and cultural site."
+      "writeup": "The largest mosque in Niger's capital, an important religious and cultural site.",
+      "wiki": {
+        "extract": "The Grand Mosque of Niamey is a Sunni mosque located in Niamey, Niger that was built in the 1970s.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Niamey%2C_Niger_%285489325064%29_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Niamey"
+      }
     },
     {
       "name": "W National Park",
-      "writeup": "A UNESCO World Heritage site shared with Benin and Burkina Faso, known for its biodiversity and wildlife."
+      "writeup": "A UNESCO World Heritage site shared with Benin and Burkina Faso, known for its biodiversity and wildlife.",
+      "wiki": {
+        "extract": "The W National Park or W Regional Park is a major national park in West Africa around a meander in the Niger River shaped like the letter W. The park includes areas of the three countries Niger, Benin and Burkina Faso, and is governed by the three governments. Until 2008, the implementation of a regional management was supported by the EU-funded project ECOPAS. The three national parks operate under the name W Transborder Park. The section of W National Park lying in Benin, measuring over 8,000 km2 (3,100 sq mi), came under the full management of African Parks in June 2020. In Benin, W National Park is contiguous with Pendjari National Park which is also under the management of African Parks.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mekrou_river_in_W-National_Park_MS_6380.JPG",
+        "url": "https://en.wikipedia.org/wiki/W_National_Park"
+      }
     }
   ],
   "head_of_state": "President Mohamed Bazoum",

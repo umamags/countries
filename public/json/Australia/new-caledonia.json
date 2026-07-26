@@ -14,23 +14,48 @@
   "landmarks": [
     {
       "name": "Loyalty Islands",
-      "writeup": "A group of islands known for their natural beauty, coral reefs, and traditional Kanak culture."
+      "writeup": "A group of islands known for their natural beauty, coral reefs, and traditional Kanak culture.",
+      "wiki": {
+        "extract": "Loyalty Islands Province is one of the three top-level administrative subdivisions of New Caledonia. It encompasses the Loyalty Islands archipelago in the Pacific Ocean, located northeast of the New Caledonian mainland of Grande Terre.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/New_Caledonia_administrative1.png",
+        "url": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province"
+      }
     },
     {
       "name": "Nouméa",
-      "writeup": "The capital city, featuring a blend of French and Melanesian cultures with vibrant markets and colonial architecture."
+      "writeup": "The capital city, featuring a blend of French and Melanesian cultures with vibrant markets and colonial architecture.",
+      "wiki": {
+        "extract": "Nouméa is the capital and largest city of the French special collectivity of New Caledonia and is also the largest Francophone city in Oceania. It is situated on a peninsula in the south of New Caledonia's main island, Grande Terre, and is home to the majority of the island's European, Polynesian, Indonesian, and Vietnamese populations, as well as many Melanesians, Ni-Vanuatu and indigenous Kanaks who work in one of the South Pacific's most industrialised cities. The city lies on a protected deepwater harbour that serves as the chief port for New Caledonia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/View_over_Noumea.jpg/3840px-View_over_Noumea.jpg",
+        "url": "https://en.wikipedia.org/wiki/Noum%C3%A9a"
+      }
     },
     {
       "name": "Blue River Provincial Park",
-      "writeup": "A protected area with diverse flora and fauna, hiking trails, and scenic river views."
+      "writeup": "A protected area with diverse flora and fauna, hiking trails, and scenic river views.",
+      "wiki": {
+        "extract": "The Blue River Provincial Park is a nature reserve in Yaté Commune, South Province, New Caledonia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lac_de_Yat%C3%A9_04.jpg",
+        "url": "https://en.wikipedia.org/wiki/Blue_River_Provincial_Park"
+      }
     },
     {
       "name": "Amedee Lighthouse",
-      "writeup": "A historic lighthouse on Amedee Island, offering panoramic views and a glimpse into maritime history."
+      "writeup": "A historic lighthouse on Amedee Island, offering panoramic views and a glimpse into maritime history.",
+      "wiki": {
+        "extract": "The Amédée Lighthouse is an iron lighthouse located on Amédée Island in New Caledonia, 24 kilometres from Nouméa on Grande Terre.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Noum%C3%A9a_Phare_Am%C3%A9d%C3%A9e.JPG",
+        "url": "https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Lighthouse"
+      }
     },
     {
       "name": "Tjibaou Cultural Center",
-      "writeup": "A cultural institution dedicated to Kanak heritage, showcasing traditional art, music, and architecture."
+      "writeup": "A cultural institution dedicated to Kanak heritage, showcasing traditional art, music, and architecture.",
+      "wiki": {
+        "extract": "The Tjibaou Cultural Centre, on the narrow Tinu Peninsula, approximately 8 kilometres (5.0 mi) northeast of the historic centre of Nouméa, the capital of New Caledonia, celebrates the vernacular Kanak culture, the indigenous culture of New Caledonia, amidst much political controversy over the independent status sought by some Kanaks from French rule. It opened in June 1998 and was designed by Italian architect Renzo Piano and named after Jean-Marie Tjibaou, the leader of the independence movement who was assassinated in 1989 and had a vision of establishing a cultural centre which blended the linguistic and artistic heritage of the Kanak people.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Egrant-190-91.jpg",
+        "url": "https://en.wikipedia.org/wiki/Jean-Marie_Tjibaou_Cultural_Centre"
+      }
     }
   ],
   "head_of_state": "Emmanuel Macron (President of France)",

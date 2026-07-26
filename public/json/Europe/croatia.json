@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Dubrovnik Old Town",
-      "writeup": "A UNESCO World Heritage site known for its well-preserved medieval walls and historic architecture."
+      "writeup": "A UNESCO World Heritage site known for its well-preserved medieval walls and historic architecture.",
+      "wiki": {
+        "extract": "Dubrovnik, historically also known as Ragusa, is a city in southern Dalmatia, Croatia, by the Adriatic Sea. It is one of the most prominent tourist destinations in the Mediterranean, a seaport and the centre of the Dubrovnik-Neretva County. In 2021, its total population was 41,562. Recognizing its outstanding medieval architecture and fortifications, UNESCO inscribed the Old City of Dubrovnik as a World Heritage Site in 1979.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+        "url": "https://en.wikipedia.org/wiki/Dubrovnik"
+      }
     },
     {
       "name": "Plitvice Lakes National Park",
-      "writeup": "Famous for its cascading lakes and waterfalls, this park is a natural wonder and a UNESCO World Heritage site."
+      "writeup": "Famous for its cascading lakes and waterfalls, this park is a natural wonder and a UNESCO World Heritage site.",
+      "wiki": {
+        "extract": "Plitvice Lakes National Park is one of the oldest and largest national parks in Croatia. In 1979, Plitvice Lakes National Park was inscribed on the UNESCO World Heritage list, for its outstanding and picturesque series of tufa lakes, caves, and connected waterfalls.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/View_in_Plitvice_Lakes_National_Park.jpg",
+        "url": "https://en.wikipedia.org/wiki/Plitvice_Lakes_National_Park"
+      }
     },
     {
       "name": "Diocletian's Palace",
-      "writeup": "An ancient Roman palace in Split, serving as a historical and architectural landmark."
+      "writeup": "An ancient Roman palace in Split, serving as a historical and architectural landmark.",
+      "wiki": {
+        "extract": "Diocletian's Palace is an ancient Roman palace and fortress complex in Split, Croatia. It was built at the end of the third century AD by the Roman Emperor Diocletian as his retirement residence. About half of the complex was for Diocletian's personal use, with the rest housing the military garrison. The complex was built on a peninsula six kilometres (3.7 mi) southwest from Salona, the former capital of Dalmatia, one of the largest cities of the late empire with 60,000 people and the birthplace of Diocletian.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Croatia-01239_-_The_Peristil_%289551533404%29.jpg/3840px-Croatia-01239_-_The_Peristil_%289551533404%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Diocletian's_Palace"
+      }
     },
     {
       "name": "Pula Arena",
-      "writeup": "One of the best-preserved Roman amphitheaters, still used for events and concerts."
+      "writeup": "One of the best-preserved Roman amphitheaters, still used for events and concerts.",
+      "wiki": {
+        "extract": "The Amphitheatre in Pula, better known as the Pula Arena, is a Roman amphitheatre located in Pula, Istria, Croatia. Constructed between 27 BC and AD 68, during the reigns of Emperors Augustus and Vespasian, the arena is one of the best-preserved ancient Roman amphitheatres in the world and the only remaining example to retain its entire circular wall structure. Originally built outside the city walls, the arena once accommodated up to 23,000 spectators and served as the main venue for gladiatorial contests, animal hunts, and other forms of public entertainment typical of the Roman Empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pula_Arena_%282024-10-10_1%29.jpg/3840px-Pula_Arena_%282024-10-10_1%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pula_Arena"
+      }
     },
     {
       "name": "Zagreb Cathedral",
-      "writeup": "The tallest building in Croatia, known for its Gothic architecture and historical significance."
+      "writeup": "The tallest building in Croatia, known for its Gothic architecture and historical significance.",
+      "wiki": {
+        "extract": "The Zagreb Cathedral, is a Catholic cathedral in Kaptol, Zagreb. It is the tallest sacral building in Croatia and the most monumental sacral building of Gothic architecture southeast of the Alps.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Zagreb_Cathedral_02.jpg",
+        "url": "https://en.wikipedia.org/wiki/Zagreb_Cathedral"
+      }
     }
   ],
   "head_of_state": "President Zoran Milanovin",

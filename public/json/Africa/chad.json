@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Zakouma National Park",
-      "writeup": "A major wildlife reserve known for its elephants, lions, and diverse ecosystems."
+      "writeup": "A major wildlife reserve known for its elephants, lions, and diverse ecosystems.",
+      "wiki": {
+        "extract": "Zakouma National Park is a 3,000 km2 (1,158 sq mi) national park in southeastern Chad, straddling the border of Guéra Region and Salamat Region. Zakouma is the nation's oldest national park, declared a national park in 1963 by presidential decree, giving it the highest form of protection available under the nation's laws. It has been managed by the nonprofit conservation organization African Parks since 2010 in partnership with Chad's government.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Girafe_du_parc_national_de_Zakouma.jpg/3840px-Girafe_du_parc_national_de_Zakouma.jpg",
+        "url": "https://en.wikipedia.org/wiki/Zakouma_National_Park"
+      }
     },
     {
       "name": "Ennedi Plateau",
-      "writeup": "A UNESCO World Heritage site famous for its rock formations, prehistoric rock art, and desert landscapes."
+      "writeup": "A UNESCO World Heritage site famous for its rock formations, prehistoric rock art, and desert landscapes.",
+      "wiki": {
+        "extract": "The Ennedi Plateau is located in the northeast of Chad, in the regions of Ennedi-Ouest and Ennedi-Est. It is considered a part of the group of mountains known as the Ennedi Massif found in Chad, which is one of the nine countries that make up the Sahelian belt that spans the Atlantic Ocean to Sudan. The Ennedi is a sandstone bulwark in the middle of the Sahara, which was formed by erosion from wind and temperature. Many people occupied this area, such as hunters-gatherers and pastoralists. The Ennedi area is also known for its large collection of rock art depicting mainly cattle, as these animals had the greatest financial, environmental, and cultural impact. This art dates back nearly 7,000 years ago. Today, two semi-nomadic groups, mainly Muslim, live in the Ennedi during the rainy months and pass through the area during the dry season. They rely on their herds of camels, donkeys, sheep, and goats to survive.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/24_Kamele_ziehen_zur_Wasserstelle_im_Ennedi-Gebirge_im_Tschad.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ennedi_Plateau"
+      }
     },
     {
       "name": "N'Djamena",
-      "writeup": "The capital city, notable for its markets, colonial architecture, and cultural diversity."
+      "writeup": "The capital city, notable for its markets, colonial architecture, and cultural diversity.",
+      "wiki": {
+        "extract": "N'Djamena is the capital and largest city of Chad. It is also a Special Status Province, divided into 10 districts or arrondissements.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Building_of_National_Assembly_DJAMENA.jpg/3840px-Building_of_National_Assembly_DJAMENA.jpg",
+        "url": "https://en.wikipedia.org/wiki/N'Djamena"
+      }
     }
   ],
   "head_of_state": "President Mahamat Déby Itno",

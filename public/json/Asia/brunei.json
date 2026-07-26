@@ -13,19 +13,39 @@
   "landmarks": [
     {
       "name": "Sultan Omar Ali Saifuddien Mosque",
-      "writeup": "A stunning mosque in Bandar Seri Begawan, known for its golden dome and beautiful lagoon."
+      "writeup": "A stunning mosque in Bandar Seri Begawan, known for its golden dome and beautiful lagoon.",
+      "wiki": {
+        "extract": "Omar Ali Saifuddien III Sa'adul Khairi Waddien reigned as the Sultan of Brunei from 1950 until his abdication in 1967.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_D.Y.M.M._Maulana_Al-Sultan_Sir_Omar_Ali_Saifuddin_Saadul_Khairi_Waddin.jpg/3840px-Portrait_of_D.Y.M.M._Maulana_Al-Sultan_Sir_Omar_Ali_Saifuddin_Saadul_Khairi_Waddin.jpg",
+        "url": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_III"
+      }
     },
     {
       "name": "Ulu Temburong National Park",
-      "writeup": "A pristine rainforest park offering canopy walks and rich biodiversity."
+      "writeup": "A pristine rainforest park offering canopy walks and rich biodiversity.",
+      "wiki": {
+        "extract": "Ulu Temburong National Park is the first national park to be established in Brunei, protected since 1991. The park is in Temburong District in eastern Brunei, and covers about 40% of the district in the south at 550 square kilometres (210 sq mi). It is within the Batu Apoi Forest Reserve. The park contains unspoiled jungle and is known as the \"Green Jewel of Brunei\", described as \"the finest example of the sultanate's successful forest protection policy\". The principal rivers are the Temburong and Belalong Rivers. It is an important ecotourism centre in Brunei and hosts the Ulu Ulu Resort. The Peradayan Forest Reserve is also located in the district.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Long_way_to_go....jpg",
+        "url": "https://en.wikipedia.org/wiki/Ulu_Temburong_National_Park"
+      }
     },
     {
       "name": "Istana Nurul Iman",
-      "writeup": "The official residence of the Sultan of Brunei, one of the largest residential palaces in the world."
+      "writeup": "The official residence of the Sultan of Brunei, one of the largest residential palaces in the world.",
+      "wiki": {
+        "extract": "The Istana Nurul Iman is the official residence of the Sultan of Brunei, Hassanal Bolkiah, and the seat of the Brunei government. The palace is located on a leafy, riverside sprawl of hills on the banks of the Brunei River, a few kilometres southwest of Bandar Seri Begawan, Brunei's capital city. The palace is often at the centre of state occasions and royal hospitality.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aerial_view_of_Brunei_23_September_2024_11.jpg/3840px-Aerial_view_of_Brunei_23_September_2024_11.jpg",
+        "url": "https://en.wikipedia.org/wiki/Istana_Nurul_Iman"
+      }
     },
     {
       "name": "Kampong Ayer",
-      "writeup": "A historic water village built on stilts over the Brunei River."
+      "writeup": "A historic water village built on stilts over the Brunei River.",
+      "wiki": {
+        "extract": "Kampung Ayer is a prominent traditional settlement in Bandar Seri Begawan, the capital of Brunei. It comprises neighbourhoods of traditional houses, schools and mosques built on stilts above the Brunei River near the capital's city centre. It has an area of about 10 square kilometres (3.9 sq mi); the total population was 10,250 in 2016. It has been historically nicknamed 'Venice of the East'.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BN-bsb-kampong-ayer.jpg/3840px-BN-bsb-kampong-ayer.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kampong_Ayer"
+      }
     }
   ],
   "head_of_state": "Sultan Hassanal Bolkiah",

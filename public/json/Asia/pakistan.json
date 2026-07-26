@@ -15,23 +15,48 @@
   "landmarks": [
     {
       "name": "Badshahi Mosque",
-      "writeup": "A Mughal-era mosque in Lahore, known for its grand architecture and historical significance."
+      "writeup": "A Mughal-era mosque in Lahore, known for its grand architecture and historical significance.",
+      "wiki": {
+        "extract": "The Badshahi Mosque is a Mughal-era imperial mosque located in Lahore, Punjab, Pakistan. It was constructed between 1671 and 1673 by the Mughal emperor Aurangzeb, opposite to the Lahore Fort in the northern outskirts of the historic Walled City. It is widely considered to be an iconic landmark of the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Badshahi_Mosque_front_picture.jpg",
+        "url": "https://en.wikipedia.org/wiki/Badshahi_Mosque"
+      }
     },
     {
       "name": "Mohenjo-Daro",
-      "writeup": "An ancient Indus Valley Civilization archaeological site, showcasing early urban planning."
+      "writeup": "An ancient Indus Valley Civilization archaeological site, showcasing early urban planning.",
+      "wiki": {
+        "extract": "Mohenjo-daro is an archaeological site in the Larkana District of Sindh, Pakistan. Built c. 2500 BCE, it was one of the largest settlements of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilisations of ancient Egypt, Mesopotamia, Minoa, and Norte Chico.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+        "url": "https://en.wikipedia.org/wiki/Mohenjo-daro"
+      }
     },
     {
       "name": "Faisal Mosque",
-      "writeup": "The largest mosque in Pakistan, located in Islamabad, notable for its contemporary design."
+      "writeup": "The largest mosque in Pakistan, located in Islamabad, notable for its contemporary design.",
+      "wiki": {
+        "extract": "The Faisal Mosque is the national mosque of Pakistan, located in Islamabad, the capital of the country. It is the sixth-largest mosque in the world and located on the foothills of Margalla Hills. It is named after the late King Faisal of Saudi Arabia. Designed by Turkish architect Vedat Dalokay, the mosque features a contemporary design consisting of eight sides of concrete shell and is inspired by the design of a typical Bedouin tent.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg/3840px-Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg",
+        "url": "https://en.wikipedia.org/wiki/Faisal_Mosque"
+      }
     },
     {
       "name": "K2",
-      "writeup": "The second highest mountain in the world, located in the Karakoram range."
+      "writeup": "The second highest mountain in the world, located in the Karakoram range.",
+      "wiki": {
+        "extract": "K2, also known as Mount Godwin-Austen, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest at 8,849 metres (29,032 ft). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in the China-administered Trans-Karakoram Tract in the Taxkorgan Tajik Autonomous County of Xinjiang.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chogori.jpg/3840px-Chogori.jpg",
+        "url": "https://en.wikipedia.org/wiki/K2"
+      }
     },
     {
       "name": "Lahore Fort",
-      "writeup": "A historic fort in Lahore, reflecting Mughal architecture and history."
+      "writeup": "A historic fort in Lahore, reflecting Mughal architecture and history.",
+      "wiki": {
+        "extract": "The Lahore Fort is a citadel in the walled interior of Lahore in Punjab, Pakistan. The fortress is located at the northern end of the Walled City and is spread over an area greater than 20 hectares. It contains 21 notable monuments, some of which date to the era of Emperor Akbar. The Lahore Fort is notable for having been almost entirely rebuilt in the 17th century, when the Mughal Empire was at the height of its splendour and opulence.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lahore_Fort_view_from_Baradari.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lahore_Fort"
+      }
     }
   ],
   "head_of_state": "President Arif Alvi",

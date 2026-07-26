@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Lake Assal",
-      "writeup": "A saline lake below sea level, known as one of the saltiest bodies of water in the world."
+      "writeup": "A saline lake below sea level, known as one of the saltiest bodies of water in the world.",
+      "wiki": {
+        "extract": "Lake Assal is a crater lake in central-western Djibouti. It is located at the western end of Gulf of Tadjoura between Arta Region, and Tadjoura Region, touching Dikhil Region, at the top of the Great Rift Valley, some 120 km (75 mi) west of Djibouti city. Lake Assal is a saline lake that lies 155 m (509 ft) below sea level in the Afar Triangle, making it the lowest point on land in Africa and the third-lowest point on Earth after the Sea of Galilee and the Dead Sea. No outflow occurs from the lake, and due to high evaporation, the salinity level of its waters is 10 times that of the sea, making it the fifth most saline body of water in the world, behind Garabogazköl, Lake Retba, Gaet'ale Pond and Lake Elton. The salt in the lake is exploited under four concessions awarded in 2002 at the southeast end of the lake; the major share of production is held by Société d’Exploitation du Lac and Société d’Exploitation du Salt Investment S.A de Djibouti.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Assal_NASA.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)"
+      }
     },
     {
       "name": "Tadjoura",
-      "writeup": "One of the oldest towns in Djibouti, known for its whitewashed buildings and historic mosques."
+      "writeup": "One of the oldest towns in Djibouti, known for its whitewashed buildings and historic mosques.",
+      "wiki": {
+        "extract": "Tadjoura is one of the oldest towns in Djibouti and the capital of the Tadjourah Region. The town rose to prominence in the early 19th century as an alternative port to nearby Zeila. Lying on the Gulf of Tadjoura, it is home to a population of around 19,000 inhabitants. It is the third-largest city in the country after Djibouti and Ali Sabieh.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tagore.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tadjoura"
+      }
     },
     {
       "name": "Day Forest National Park",
-      "writeup": "A rare forested area in the country, home to diverse flora and fauna."
+      "writeup": "A rare forested area in the country, home to diverse flora and fauna.",
+      "wiki": {
+        "extract": "Day Forest National Park, also known as Forêt du Day National Park, is a national park in the Goda Mountains and Tadjourah Region of Djibouti. The region is one of the very few forested areas of Djibouti, which taken as a whole is one of the least forested countries on Earth. It is the wettest part of Djibouti, receiving some 500 millimetres of precipitation annually.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Goda_Mountains_-_National_Park_of_For%C3%AAt_du_Day.jpg",
+        "url": "https://en.wikipedia.org/wiki/Day_Forest_National_Park"
+      }
     }
   ],
   "head_of_state": "President Ismaïl Omar Guelleh",

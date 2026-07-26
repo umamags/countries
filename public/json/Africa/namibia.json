@@ -15,23 +15,48 @@
   "landmarks": [
     {
       "name": "Etosha National Park",
-      "writeup": "A vast wildlife reserve known for its salt pan and diverse animal species including elephants, lions, and rhinos."
+      "writeup": "A vast wildlife reserve known for its salt pan and diverse animal species including elephants, lions, and rhinos.",
+      "wiki": {
+        "extract": "Etosha National Park is a national park in northwestern Namibia and one of the largest national parks in Africa. It was proclaimed a game reserve in March 1907 in Ordinance 88 by the Governor of German South West Africa, Friedrich von Lindequist. It was designated as Wildschutzgebiet in 1958, and was awarded the status of national park in 1967, by an act of parliament of the Republic of South Africa. It spans an area of 22,270 km2 (8,600 sq mi) and was named after the large Etosha pan which is almost entirely within the park. With an area of 4,760 km2 (1,840 sq mi), the Etosha pan covers 23% of the total area of the national park. The area is home to hundreds of species of mammals, birds and reptiles, including several threatened and endangered species such as the black rhinoceros. Sixty-one black rhinoceros were killed during poaching in Namibia during 2022, 46 of which were killed in Etosha.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dust_Cloud_in_Etosha_National_Park.jpg",
+        "url": "https://en.wikipedia.org/wiki/Etosha_National_Park"
+      }
     },
     {
       "name": "Sossusvlei",
-      "writeup": "Famous for its towering red sand dunes in the Namib Desert, some of the highest in the world."
+      "writeup": "Famous for its towering red sand dunes in the Namib Desert, some of the highest in the world.",
+      "wiki": {
+        "extract": "Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. The name \"Sossusvlei\" is often used in an extended meaning to refer to the surrounding area. These landmarks are some of the major visitor attractions of Namibia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sossusvlei.jpg/3840px-Sossusvlei.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sossusvlei"
+      }
     },
     {
       "name": "Fish River Canyon",
-      "writeup": "One of the largest canyons in the world, offering dramatic landscapes and hiking opportunities."
+      "writeup": "One of the largest canyons in the world, offering dramatic landscapes and hiking opportunities.",
+      "wiki": {
+        "extract": "The Fish River Canyon is located in the south of Namibia. It is the largest canyon in Africa, and the second most visited tourist attraction in Namibia. It features a gigantic ravine, in total about 160 kilometres (100 mi) long, up to 27 km wide and in places almost 550 meters deep.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fish_River_Canyon_from_Main_View_Point.jpg/3840px-Fish_River_Canyon_from_Main_View_Point.jpg",
+        "url": "https://en.wikipedia.org/wiki/Fish_River_Canyon"
+      }
     },
     {
       "name": "Swakopmund",
-      "writeup": "A coastal town known for its German colonial architecture and adventure tourism."
+      "writeup": "A coastal town known for its German colonial architecture and adventure tourism.",
+      "wiki": {
+        "extract": "Swakopmund is a city on the coast of western Namibia, 352 km (219 mi) west of the Namibian capital Windhoek via the B2 main road. It is the capital of the Erongo administrative district. It has 25,047 inhabitants.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg/3840px-Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg",
+        "url": "https://en.wikipedia.org/wiki/Swakopmund"
+      }
     },
     {
       "name": "Damaraland",
-      "writeup": "A region with rugged terrain, ancient rock engravings, and desert-adapted wildlife."
+      "writeup": "A region with rugged terrain, ancient rock engravings, and desert-adapted wildlife.",
+      "wiki": {
+        "extract": "Damaraland was a name given to the north-central part of South West Africa, which later became Namibia, inhabited by the Damaras. It was bordered roughly by Ovamboland in the north, the Namib Desert in the west, the Kalahari Desert in the east, and the Windhoek region in the south.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Damaraland.svg/1280px-Flag_of_Damaraland.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Damaraland"
+      }
     }
   ],
   "head_of_state": "President Hage Geingob",

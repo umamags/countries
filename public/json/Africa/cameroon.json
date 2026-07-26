@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Mount Cameroon",
-      "writeup": "An active volcano and the highest peak in West Africa, popular for hiking and biodiversity."
+      "writeup": "An active volcano and the highest peak in West Africa, popular for hiking and biodiversity.",
+      "wiki": {
+        "extract": "Mount Cameroon is an active stratovolcano in the Southwest Region of Cameroon next to the city of Buea near the Gulf of Guinea. Mount Cameroon is also known as Cameroon Mountain or Fako or by its indigenous name Mongo ma Ndemi. Mount Cameroon is ranked 22nd by topographic isolation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mount_Cameroon_view_from_Buea_%28Soppo%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Cameroon"
+      }
     },
     {
       "name": "Waza National Park",
-      "writeup": "A major wildlife reserve known for elephants, lions, and diverse bird species."
+      "writeup": "A major wildlife reserve known for elephants, lions, and diverse bird species.",
+      "wiki": {
+        "extract": "Waza National Park is a national park in the Department of Logone-et-Chari, in Far North Region, Cameroon. It was founded in 1934 as a hunting reserve, and covers a total of 1,700 km2 (660 sq mi). Waza achieved national park status in 1968, and became a UNESCO biosphere reserve in 1979.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elephants_around_tree_in_Waza%2C_Cameroon.jpg",
+        "url": "https://en.wikipedia.org/wiki/Waza_National_Park"
+      }
     },
     {
       "name": "Dja Faunal Reserve",
-      "writeup": "A UNESCO World Heritage site, home to one of the largest and best-protected rainforests in Africa."
+      "writeup": "A UNESCO World Heritage site, home to one of the largest and best-protected rainforests in Africa.",
+      "wiki": {
+        "extract": "Dja Faunal Reserve, located in southeastern Cameroon, is a UNESCO World Heritage Site inscribed in 1987. Causes of inscription include diversity of species present in the park, the presence of five threatened species of mammal, and lack of disturbance within the park. It is managed by Dja Conservation Services (DCS), which is led by a conservator. The Reserve receives significant support for its management from many projects funded by international partners and supporters of conservation in Cameroon.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dja_River_and_pirogue.JPG",
+        "url": "https://en.wikipedia.org/wiki/Dja_Faunal_Reserve"
+      }
     },
     {
       "name": "Kribi Beaches",
-      "writeup": "Famous for white sandy beaches and nearby waterfalls, a popular tourist destination."
+      "writeup": "Famous for white sandy beaches and nearby waterfalls, a popular tourist destination.",
+      "wiki": {
+        "extract": "Kribi is a beach resort and sea port in Cameroon.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kribi.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kribi"
+      }
     },
     {
       "name": "Foumban Royal Palace",
-      "writeup": "Historic palace of the Bamoun kingdom, showcasing traditional architecture and culture."
+      "writeup": "Historic palace of the Bamoun kingdom, showcasing traditional architecture and culture.",
+      "wiki": {
+        "extract": "The Foumban Royal Palace is a historical building in the city of Foumban, capital of Noun. It is the seat of the Kingdom of Bamum, where the Chief-Superior of the peoples of the valley of the East bank of the Noun resides.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bamun_sultan_palace.jpg",
+        "url": "https://en.wikipedia.org/wiki/Foumban_Royal_Palace"
+      }
     }
   ],
   "head_of_state": "President Paul Biya",

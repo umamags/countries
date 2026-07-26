@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "CN Tower",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The CN Tower is a 553.3-metre-high (1,815.3 ft) communications and observation tower in Toronto, Ontario, Canada. Completed in 1976, it is located in downtown Toronto, built on the former Railway Lands. Its name \"CN\" refers to Canadian National, the railway company that built the tower. Following the railway's decision to divest non-core freight railway assets prior to the company's privatization in 1995, it transferred the tower to the Canada Lands Company, a federal Crown corporation responsible for the government's real estate portfolio.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Tower_logo.png",
+        "url": "https://en.wikipedia.org/wiki/CN_Tower"
+      }
     },
     {
       "name": "Niagara Falls",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Niagara Falls is a city in Ontario, Canada, adjacent to, and named after, Niagara Falls. As of the 2021 census, the city had a population of 94,415. The city is located on the Niagara Peninsula along the western bank of the Niagara River, which forms part of the Canada–United States border, with the other side being the twin city of Niagara Falls, New York. Niagara Falls is within the Regional Municipality of Niagara and a part of the St. Catharines - Niagara Census Metropolitan Area (CMA).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Niagara_Falls_Ontario_Canada_aerial_view.jpg",
+        "url": "https://en.wikipedia.org/wiki/Niagara_Falls%2C_Ontario"
+      }
     },
     {
       "name": "Banff National Park",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Banff National Park is Canada's first national park, established in 1885 as Rocky Mountains Park. Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes. Provincial forests and Yoho National Park are neighbours to the west, while Kootenay National Park is located to the south and Kananaskis Country to the southeast. The main commercial centre of the park is the town of Banff, in the Bow River valley.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg",
+        "url": "https://en.wikipedia.org/wiki/Banff_National_Park"
+      }
     },
     {
       "name": "Parliament Hill",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Parliament Hill is an area of Crown land on the southern bank of the Ottawa River that houses the Parliament of Canada in downtown Ottawa, Ontario. It accommodates a suite of Gothic revival buildings whose architectural elements were chosen to evoke the history of parliamentary democracy. Parliament Hill attracts approximately three million visitors each year. The Parliamentary Protective Service is responsible for law enforcement on Parliament Hill and in the parliamentary precinct, while the National Capital Commission is responsible for maintaining the nine-hectare (22-acre) area of the grounds.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/3840px-Ottawa_-_ON_-_Stadtansicht.jpg",
+        "url": "https://en.wikipedia.org/wiki/Parliament_Hill"
+      }
     },
     {
       "name": "Old Quebec",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Quebec City is the capital city of the Canadian province of Quebec. As of July 2021, the city had a population of 549,459 and the Quebec City census metropolitan area had a population of 839,311. It is the twelfth-largest city and the seventh-largest metropolitan area in Canada. It is also the second-largest city in the province, after Montreal. It has a humid continental climate with warm summers coupled with cold and snowy winters.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Quebec_City_skyline_from_L%C3%A9vis.jpg/3840px-Quebec_City_skyline_from_L%C3%A9vis.jpg",
+        "url": "https://en.wikipedia.org/wiki/Quebec_City"
+      }
     }
   ],
   "head_of_state": "King Charles III (represented by Governor General Mary Simon)",

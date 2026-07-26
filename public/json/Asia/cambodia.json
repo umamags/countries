@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Angkor Wat",
-      "writeup": "A massive 12th-century temple complex in Siem Reap, Angkor Wat is the largest religious monument in the world and a symbol of Cambodia."
+      "writeup": "A massive 12th-century temple complex in Siem Reap, Angkor Wat is the largest religious monument in the world and a symbol of Cambodia.",
+      "wiki": {
+        "extract": "Angkor Wat is a Vaishnava Hindu and Theravada Buddhist temple complex in Siem Reap, Cambodia, and the largest religious complex in the world. Located on a site measuring 162.6 hectares within the ancient capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu. From the late 13th century onward, the complex was gradually transformed into a Buddhist temple and has remained an active center of Buddhist worship for centuries. Angkor Wat is noted for its monumental scale, extensive bas-reliefs, and architectural unity characteristics of Khmer architecture. Unlike most Angkorian temples, it is oriented toward the west. It is a symbol of Cambodia and appears on the Cambodian national flag.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg",
+        "url": "https://en.wikipedia.org/wiki/Angkor_Wat"
+      }
     },
     {
       "name": "Royal Palace, Phnom Penh",
-      "writeup": "The official residence of the King of Cambodia, featuring classic Khmer architecture and beautiful gardens."
+      "writeup": "The official residence of the King of Cambodia, featuring classic Khmer architecture and beautiful gardens.",
+      "wiki": {
+        "extract": "Phnom Penh is the capital and most populous city of Cambodia. It has been the national capital since 1865 and has grown to become the nation's primate city and its political, economic, industrial, and cultural centre. The city's name derives from Wat Phnom, a Buddhist temple, and Lady Penh, the city's founder. It sits at the confluence of the Tonlé Sap and Mekong rivers, and is the start of the Bassac River. It is also the seat of Cambodia's monarchy, based at the Royal Palace.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
+        "url": "https://en.wikipedia.org/wiki/Phnom_Penh"
+      }
     },
     {
       "name": "Tuol Sleng Genocide Museum",
-      "writeup": "A former high school turned prison during the Khmer Rouge regime, now a museum documenting the atrocities."
+      "writeup": "A former high school turned prison during the Khmer Rouge regime, now a museum documenting the atrocities.",
+      "wiki": {
+        "extract": "The Tuol Sleng Genocide Museum is a museum for the Cambodian genocide. Located in Phnom Penh, the site is a former secondary school that had been turned into an internment facility known as Security Prison 21 (S-21) by the Khmer Rouge regime from 1975 until its fall in 1979. From 1976 to 1979, an estimated 20,000 people were imprisoned at Tuol Sleng; it was one of between 150 and 196 torture and execution centers established by the Khmer Rouge and their secret police.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum"
+      }
     },
     {
       "name": "Koh Ker",
-      "writeup": "An ancient temple complex in northern Cambodia, known for its remote location and unique pyramid-shaped temple."
+      "writeup": "An ancient temple complex in northern Cambodia, known for its remote location and unique pyramid-shaped temple.",
+      "wiki": {
+        "extract": "Koh Ker is a remote archaeological site in northern Cambodia about 120 kilometres (75 mi) away from Siem Reap and the ancient site of Angkor. It is a jungle filled region that is sparsely populated. More than 180 sanctuaries were found in a protected area of 81 square kilometres (31 sq mi). Only about two dozen monuments can be visited by tourists because most of the sanctuaries are hidden in the forest and the whole area is not fully demined.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/0505280017PThompyramid.jpg",
+        "url": "https://en.wikipedia.org/wiki/Koh_Ker"
+      }
     },
     {
       "name": "Tonle Sap Lake",
-      "writeup": "Southeast Asia's largest freshwater lake, vital for Cambodia's fishing industry and biodiversity."
+      "writeup": "Southeast Asia's largest freshwater lake, vital for Cambodia's fishing industry and biodiversity.",
+      "wiki": {
+        "extract": "Tonlé Sap is a lake in central Cambodia. Belonging to the Mekong river system, Tonlé Sap is the largest freshwater lake in Southeast Asia and one of the most diverse and productive ecosystems in the world. It was designated as a Biosphere Reserve by UNESCO in 1997 due to its high biodiversity. The lake has a large seasonal variation in water depth, with the post-monsoon level sometimes being as much as 10 metres higher than during the monsoons. During the 21st century, the lake and its surrounding ecosystems have come under increasing pressure from deforestation, intensive agriculture and fishery, infrastructure development and climate change.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cambodia%2C_Tonle_Sap_IMG_3285.JPG",
+        "url": "https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap"
+      }
     }
   ],
   "head_of_state": "King Norodom Sihamoni",

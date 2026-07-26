@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Prince's Palace of Monaco",
-      "writeup": "The official residence of the Prince of Monaco, showcasing Renaissance architecture and offering panoramic views of the city."
+      "writeup": "The official residence of the Prince of Monaco, showcasing Renaissance architecture and offering panoramic views of the city.",
+      "wiki": {
+        "extract": "Albert II is Prince of Monaco, reigning since 2005.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Albert_II_-_08.06.2025_-_Encontro_com_Sua_Alteza_o_Pr%C3%ADncipe_de_M%C3%B4naco%2C_Alberto_II_%2854574973880%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Albert_II%2C_Prince_of_Monaco"
+      }
     },
     {
       "name": "Monte Carlo Casino",
-      "writeup": "A world-famous casino and entertainment complex known for its opulent Belle Époque design and association with luxury."
+      "writeup": "A world-famous casino and entertainment complex known for its opulent Belle Époque design and association with luxury.",
+      "wiki": {
+        "extract": "The Monte Carlo Casino, officially named Casino de Monte-Carlo, is a gambling and entertainment complex located in Monaco. It includes a casino, the Opéra de Monte-Carlo, and the office of Les Ballets de Monte-Carlo.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Casino_de_Monte-Carlo_logo.png",
+        "url": "https://en.wikipedia.org/wiki/Monte_Carlo_Casino"
+      }
     },
     {
       "name": "Oceanographic Museum",
-      "writeup": "A museum and aquarium dedicated to marine sciences, founded by Prince Albert I, featuring extensive marine fauna exhibits."
+      "writeup": "A museum and aquarium dedicated to marine sciences, founded by Prince Albert I, featuring extensive marine fauna exhibits.",
+      "wiki": {
+        "extract": "The Oceanographic Museum, is a museum of marine sciences in Monaco City, Monaco.\nThis building is part of the Institut océanographique, which is committed to sharing its knowledge of the oceans.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Monaco_BW_2011-06-07_17-50-43.jpg/3840px-Monaco_BW_2011-06-07_17-50-43.jpg",
+        "url": "https://en.wikipedia.org/wiki/Oceanographic_Museum_of_Monaco"
+      }
     },
     {
       "name": "Monaco Cathedral",
-      "writeup": "A Roman-Byzantine style cathedral where many members of the Grimaldi family are buried, including Grace Kelly."
+      "writeup": "A Roman-Byzantine style cathedral where many members of the Grimaldi family are buried, including Grace Kelly.",
+      "wiki": {
+        "extract": "Grace Patricia Kelly was an American actress and Princess of Monaco as the wife of Prince Rainier III from their marriage on April 18, 1956 until her death in 1982. Prior to her marriage, she achieved stardom in several significant Hollywood films in the early to mid-1950s. She received an Academy Award and three Golden Globe Awards, and was ranked 13th on the American Film Institute's 25 Greatest Female Stars list.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Grace_Kelly_1955.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grace_Kelly"
+      }
     },
     {
       "name": "Japanese Garden",
-      "writeup": "A peaceful garden blending Japanese landscaping with Mediterranean plants, symbolizing Monaco's cultural openness."
+      "writeup": "A peaceful garden blending Japanese landscaping with Mediterranean plants, symbolizing Monaco's cultural openness.",
+      "wiki": {
+        "extract": "The Japanese Garden is a municipal park on the Avenue Princesse Grace, in the Larvotto ward of Monaco. It is next to the Grimaldi Forum convention centre. The garden is 0.7 hectares in size, and features a stylised mountain, hill, waterfall, beach, brook, and a Zen garden for meditation. It is open daily from 9:00 to sunset.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jardinmonaco3bis.jpg",
+        "url": "https://en.wikipedia.org/wiki/Japanese_Garden%2C_Monaco"
+      }
     }
   ],
   "head_of_state": "Prince Albert II",

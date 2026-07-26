@@ -14,15 +14,30 @@
   "landmarks": [
     {
       "name": "Gorongosa National Park",
-      "writeup": "A biodiversity hotspot known for its wildlife and scenic landscapes, crucial for conservation efforts."
+      "writeup": "A biodiversity hotspot known for its wildlife and scenic landscapes, crucial for conservation efforts.",
+      "wiki": {
+        "extract": "Gorongosa National Park is at the southern end of the Great African Rift Valley in the heart of central Mozambique, Southeast Africa. The more than 4,000 km2 (1,500 sq mi) park comprises the valley floor and parts of surrounding plateaus. Rivers originating on nearby Mount Gorongosa at 1,863 m (6,112 ft) water the plain.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gorongosa_Park_Gate.JPG",
+        "url": "https://en.wikipedia.org/wiki/Gorongosa_National_Park"
+      }
     },
     {
       "name": "Island of Mozambique",
-      "writeup": "A UNESCO World Heritage site featuring colonial architecture and historical significance as a former Portuguese trading post."
+      "writeup": "A UNESCO World Heritage site featuring colonial architecture and historical significance as a former Portuguese trading post.",
+      "wiki": {
+        "extract": "Portuguese Mozambique or Portuguese East Africa were the common terms by which Mozambique was designated during the period in which it was a Portuguese overseas province. Portuguese Mozambique originally constituted a string of Portuguese possessions along the south-east African coast, and later became a unified province, which now forms the Republic of Mozambique.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/960px-Flag_of_Portugal_%28official%29.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Portuguese_Mozambique"
+      }
     },
     {
       "name": "Bazaruto Archipelago",
-      "writeup": "A group of islands famous for pristine beaches, coral reefs, and marine biodiversity."
+      "writeup": "A group of islands famous for pristine beaches, coral reefs, and marine biodiversity.",
+      "wiki": {
+        "extract": "The Bazaruto Archipelago is a group of six islands in Mozambique, near the mainland city of Vilankulo. It comprises the islands of Bazaruto, Benguerra, Magaruque, Santa Carolina and Bangué.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS059-E-92404_-_View_of_Mozambique.jpg/3840px-ISS059-E-92404_-_View_of_Mozambique.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bazaruto_Archipelago"
+      }
     }
   ],
   "head_of_state": "President Filipe Nyusi",

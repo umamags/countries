@@ -13,19 +13,39 @@
   "landmarks": [
     {
       "name": "Kigali Genocide Memorial",
-      "writeup": "A memorial site in Kigali dedicated to the victims of the 1994 genocide, offering educational exhibits and a place for remembrance."
+      "writeup": "A memorial site in Kigali dedicated to the victims of the 1994 genocide, offering educational exhibits and a place for remembrance.",
+      "wiki": {
+        "extract": "The Kigali Genocide Memorial commemorates the 1994 Rwandan genocide. The remains of over 250,000 people are interred there.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%D7%90%D7%AA%D7%A8_%D7%94%D7%94%D7%A0%D7%A6%D7%97%D7%94_%D7%9C%D7%A8%D7%A6%D7%97_%D7%94%D7%A2%D7%9D_%D7%91%D7%A8%D7%95%D7%90%D7%A0%D7%93%D7%94_%D7%91%D7%A7%D7%99%D7%92%D7%90%D7%9C%D7%99_12.jpg/3840px-%D7%90%D7%AA%D7%A8_%D7%94%D7%94%D7%A0%D7%A6%D7%97%D7%94_%D7%9C%D7%A8%D7%A6%D7%97_%D7%94%D7%A2%D7%9D_%D7%91%D7%A8%D7%95%D7%90%D7%A0%D7%93%D7%94_%D7%91%D7%A7%D7%99%D7%92%D7%90%D7%9C%D7%99_12.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kigali_Genocide_Memorial"
+      }
     },
     {
       "name": "Volcanoes National Park",
-      "writeup": "Famous for mountain gorilla tracking, this park is part of the Virunga volcanic chain and a key conservation area."
+      "writeup": "Famous for mountain gorilla tracking, this park is part of the Virunga volcanic chain and a key conservation area.",
+      "wiki": {
+        "extract": "Volcanoes National Park is a national park in northwestern Rwanda. It covers 160 km2 (62 sq mi) of rainforest and encompasses five of the eight volcanoes in the Virunga Mountains, namely Karisimbi, Bisoke, Muhabura, Gahinga and Sabyinyo. It borders Virunga National Park in the Democratic Republic of the Congo and Mgahinga Gorilla National Park in Uganda. It is home to the mountain gorilla and the golden monkey, and was the base for the primatologist Dian Fossey.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Volcanoes_National_Park_Banner_Image.gif",
+        "url": "https://en.wikipedia.org/wiki/Volcanoes_National_Park"
+      }
     },
     {
       "name": "Lake Kivu",
-      "writeup": "One of Africa's Great Lakes, known for its scenic beauty and recreational activities along the border with the Democratic Republic of Congo."
+      "writeup": "One of Africa's Great Lakes, known for its scenic beauty and recreational activities along the border with the Democratic Republic of Congo.",
+      "wiki": {
+        "extract": "Lake Kivu is one of the African Great Lakes. It lies on the border between the Democratic Republic of the Congo and Rwanda, and is in the Albertine Rift, the western branch of the East African Rift. Lake Kivu empties into the Ruzizi River, which flows southwards into Lake Tanganyika.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/LakeKivu_satellite.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Kivu"
+      }
     },
     {
       "name": "Nyungwe Forest National Park",
-      "writeup": "A large montane rainforest with rich biodiversity, including chimpanzees and numerous bird species."
+      "writeup": "A large montane rainforest with rich biodiversity, including chimpanzees and numerous bird species.",
+      "wiki": {
+        "extract": "The Nyungwe Forest is located in southwestern Rwanda, on the border with Burundi, where it is contiguous with the Kibira National Park to the south, and Lake Kivu and the Democratic Republic of the Congo to the west. The Nyungwe rainforest is most likely the best preserved montane rainforest in Africa. It is located in the watershed between the basin of the Congo River to the west and the basin of the river Nile to the east. From the east side of the Nyungwe forest comes also one of the branches of the Nile sources.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Nyungwe_Forest"
+      }
     }
   ],
   "head_of_state": "President Paul Kagame",

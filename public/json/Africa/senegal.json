@@ -15,23 +15,48 @@
   "landmarks": [
     {
       "name": "Gorée Island",
-      "writeup": "A UNESCO World Heritage site known for its role in the Atlantic slave trade and its preserved colonial architecture."
+      "writeup": "A UNESCO World Heritage site known for its role in the Atlantic slave trade and its preserved colonial architecture.",
+      "wiki": {
+        "extract": "Île de Gorée is one of the 19 communes d'arrondissement of the city of Dakar, Senegal. It is an 18.2-hectare (45-acre) island located two kilometres at sea from the main harbour of Dakar, famous as a destination for people interested in the Atlantic slave trade.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ile-de-goree.jpg/3840px-Ile-de-goree.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gor%C3%A9e"
+      }
     },
     {
       "name": "African Renaissance Monument",
-      "writeup": "The tallest statue in Africa, symbolizing Africa's emergence from centuries of colonialism and slavery."
+      "writeup": "The tallest statue in Africa, symbolizing Africa's emergence from centuries of colonialism and slavery.",
+      "wiki": {
+        "extract": "The African Renaissance Monument is a 50-metre tall bronze statue located on top of one of the twin hills known as Collines des Mamelles, outside Dakar, Senegal. Built overlooking the Atlantic Ocean in the Ouakam suburb, the statue was designed by the Senegalese architect Pierre Goudiaby Atepa after an idea presented by President Abdoulaye Wade, and built by Mansudae Overseas Projects, a monument construction company from North Korea.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Monument_renaissance.jpg/3840px-Monument_renaissance.jpg",
+        "url": "https://en.wikipedia.org/wiki/African_Renaissance_Monument"
+      }
     },
     {
       "name": "Djoudj National Bird Sanctuary",
-      "writeup": "A major bird sanctuary and UNESCO World Heritage site, home to thousands of migratory birds."
+      "writeup": "A major bird sanctuary and UNESCO World Heritage site, home to thousands of migratory birds.",
+      "wiki": {
+        "extract": "The Djoudj National Bird Sanctuary lies on the southeast bank of the Senegal River in Senegal, in northern Biffeche, north east of St-Louis.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CormoransDjoudj.JPG",
+        "url": "https://en.wikipedia.org/wiki/Djoudj_National_Bird_Sanctuary"
+      }
     },
     {
       "name": "Lac Rose (Pink Lake)",
-      "writeup": "A salt lake famous for its pink waters caused by algae and high salt content."
+      "writeup": "A salt lake famous for its pink waters caused by algae and high salt content.",
+      "wiki": {
+        "extract": "Lake Retba, also known as Lac Rose, lies north of the Cape Verde peninsula in Senegal, some 35 km (22 mi) north-east of the capital, Dakar. It is named for its pink waters caused by Dunaliella salina algae and is known for its high salt content, up to 40% in some areas. Its colour is usually particularly strong from late January to early March, during the dry season. Flooding in September 2022 not only disrupted salt harvesting activities on the lake, but also led the lake to lose its colour, causing a negative effect on tourism. However, as of 2025, the lake has regained some of its colour.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RetbaLakeShore.jpg/3840px-RetbaLakeShore.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Retba"
+      }
     },
     {
       "name": "Saint-Louis",
-      "writeup": "A historic city and former colonial capital with distinctive French colonial architecture."
+      "writeup": "A historic city and former colonial capital with distinctive French colonial architecture.",
+      "wiki": {
+        "extract": "Saint-Louis or Saint Louis, is the capital of Senegal's Saint-Louis Region. Located in the northwest of Senegal, near the mouth of the Senegal River, and 320 kilometres (200 mi) north of Senegal's capital city Dakar. It had a population of 254,171 in 2023. Saint-Louis was the capital of the French colony of Senegal from 1673 until 1902 and French West Africa from 1895 until 1902, when the capital was moved to Dakar. From 1920 to 1957, it also served as the capital of the neighboring colony of Mauritania.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Island_of_Saint-Louis-113799.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saint-Louis%2C_Senegal"
+      }
     }
   ],
   "head_of_state": "President Macky Sall",

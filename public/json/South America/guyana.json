@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Kaieteur Falls",
-      "writeup": "One of the world's most powerful waterfalls, located on the Potaro River in the Kaieteur National Park."
+      "writeup": "One of the world's most powerful waterfalls, located on the Potaro River in the Kaieteur National Park.",
+      "wiki": {
+        "extract": "Kaieteur Falls is one of the most powerful single-drop waterfalls in the world. It is located on the Potaro River in Kaieteur National Park, central Essequibo Territory, Guyana. It is 226 metres (741 ft) high when measured from its plunge over a sandstone and conglomerate cliff to the first break. It then flows over a series of steep cascades that, when included in the measurements, bring the total height to 251 metres (822 ft). While many falls have greater height or greater flow, few have the combination of height and water volume, and Kaieteur is among the most powerful waterfalls in the world with an average flow rate of 663 cubic meters per second. Kaieteur Falls is about four and a half times the height of Niagara Falls, on the border between Canada and the United States, and about twice the height of Victoria Falls, on the border of Zambia and Zimbabwe in Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GuyanaKaieteurFalls2004.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kaieteur_Falls"
+      }
     },
     {
       "name": "St. George's Cathedral",
-      "writeup": "An Anglican cathedral in Georgetown, known as one of the tallest wooden churches in the world."
+      "writeup": "An Anglican cathedral in Georgetown, known as one of the tallest wooden churches in the world.",
+      "wiki": {
+        "extract": "St. George's Cathedral is an Anglican cathedral in Georgetown, Guyana. The church is of Gothic Revival timber construction and reaches a height of 43.5 metres (143 ft). It is the seat of the Bishop of Guyana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20191121_Guyana_0048_Georgetown_sRGB_%2849295795336%29.jpg/3840px-20191121_Guyana_0048_Georgetown_sRGB_%2849295795336%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/St._George's_Cathedral%2C_Georgetown"
+      }
     },
     {
       "name": "Iwokrama Forest",
-      "writeup": "A protected rainforest reserve known for biodiversity and conservation efforts."
+      "writeup": "A protected rainforest reserve known for biodiversity and conservation efforts.",
+      "wiki": {
+        "extract": "The Iwokrama Forest is a 3,716 square kilometres (1,435 sq mi) nature reserve of central Guyana located in the Guiana Shield, The area is 85 km (53 mi) at its widest point east to west and 80 km (50 mi) north to south. It is bisected by the Georgetown–Lethem Road. The forest lies between 4° and 5° north latitude and 58.5 and 59.5 degrees west longitude and is bordered by the Pakaraima Mountains on the west, isolated highlands on the east, savannahs on the southwest and northwest. The Essequibo River forms the eastern boundary. The northern boundary is the Siparuni River. The Burro-Burro River runs through the centre, and most of its watershed is within the forest.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg/3840px-Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Iwokrama_Forest"
+      }
     }
   ],
   "head_of_state": "President Irfaan Ali",

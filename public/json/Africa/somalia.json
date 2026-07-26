@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Laas Geel",
-      "writeup": "Ancient cave paintings dating back over 5,000 years, showcasing early African rock art."
+      "writeup": "Ancient cave paintings dating back over 5,000 years, showcasing early African rock art.",
+      "wiki": {
+        "extract": "Laas Geel, also spelled Laas Gaal, are cave formations on the rural outskirts of Hargeisa, Somaliland, situated in the Maroodi Jeex region of the country. They contain some of the earliest known cave paintings of domesticated African aurochs in the Horn of Africa. Laas Geel's rock art is estimated to be approximately 5,500 to 4,500 years old.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Laas_Geel.jpg",
+        "url": "https://en.wikipedia.org/wiki/Laas_Geel"
+      }
     },
     {
       "name": "Arba'a Rukun Mosque",
-      "writeup": "One of the oldest mosques in Mogadishu, reflecting Islamic architecture and history."
+      "writeup": "One of the oldest mosques in Mogadishu, reflecting Islamic architecture and history.",
+      "wiki": {
+        "extract": "The Arba'a Rukun Mosque, also known as Arba Rucun, is a mosque in the Shangani medieval district of Mogadishu, Banaadir, Somalia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mogadishu1936.jpg",
+        "url": "https://en.wikipedia.org/wiki/Arba'a_Rukun_Mosque"
+      }
     },
     {
       "name": "Mogadishu Cathedral",
-      "writeup": "A historic cathedral built during Italian colonial rule, symbolizing Somalia's diverse heritage."
+      "writeup": "A historic cathedral built during Italian colonial rule, symbolizing Somalia's diverse heritage.",
+      "wiki": {
+        "extract": "Mogadishu Cathedral is a ruined Catholic cathedral located in Mogadishu, Somalia. Between 1928 and 1991, it served as the seat of the Roman Catholic Diocese of Mogadiscio. Built in 1928 by Italian colonial authorities, much of the building was destroyed in 2008 by al-Shabaab. In 2013, the diocese announced plans to refurbish the building.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cattedrale_di_Mogadiscio.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mogadishu_Cathedral"
+      }
     }
   ],
   "head_of_state": "President Hassan Sheikh Mohamud",

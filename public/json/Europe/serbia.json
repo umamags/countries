@@ -10,15 +10,26 @@
   "landmarks": [
     {
       "name": "Belgrade Fortress",
-      "writeup": "Historic fortress overlooking the confluence of the River Sava and Danube, symbolizing Belgrade's strategic importance."
+      "writeup": "Historic fortress overlooking the confluence of the River Sava and Danube, symbolizing Belgrade's strategic importance.",
+      "wiki": {
+        "extract": "The Belgrade Fortress, consists of the old citadel and Kalemegdan Park on the confluence of the Sava and Danube rivers, in an urban area of modern Belgrade, Serbia. Located in Belgrade's municipality of Stari Grad, the fortress constitutes the specific historical core of the city. As one of the most important representatives of Belgrade's cultural heritage, it was originally protected right after World War II, among the first officially declared cultural monuments in Serbia. The fortress was declared a Monument of Culture of Exceptional Importance in 1979, and is protected by the Republic of Serbia. It is the most visited tourist attraction in Belgrade, with Skadarlija being the second. Since the admission is free, it is estimated that the total number of visitors is over 2 million yearly.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BC%D0%B5%D0%B3%D0%B4%D0%B0%D0%BD%2C_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%9F%D0%BE%D0%B1%D1%98%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+        "url": "https://en.wikipedia.org/wiki/Belgrade_Fortress"
+      }
     },
     {
       "name": "Studenica Monastery",
-      "writeup": "A 12th-century Serbian Orthodox monastery, renowned for its medieval frescoes and cultural significance."
+      "writeup": "A 12th-century Serbian Orthodox monastery, renowned for its medieval frescoes and cultural significance.",
+      "wiki": {
+        "extract": "The Studenica Monastery is a 12th-century Serbian Orthodox monastery situated 39 kilometres (24 mi) southwest of Kraljevo and 40.9 kilometres (25.4 mi) east of Ivanjica, in central Serbia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg/3840px-Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg",
+        "url": "https://en.wikipedia.org/wiki/Studenica_Monastery"
+      }
     },
     {
       "name": "nerdap National Park",
-      "writeup": "Home to the Iron Gates gorge on the Danube, featuring diverse wildlife and archaeological sites."
+      "writeup": "Home to the Iron Gates gorge on the Danube, featuring diverse wildlife and archaeological sites.",
+      "wiki": null
     }
   ],
   "head_of_state": "President Aleksandar Vunin",

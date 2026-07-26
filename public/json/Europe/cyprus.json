@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Kourion",
-      "writeup": "An ancient city-kingdom with well-preserved Greco-Roman ruins including a theater and mosaics."
+      "writeup": "An ancient city-kingdom with well-preserved Greco-Roman ruins including a theater and mosaics.",
+      "wiki": {
+        "extract": "Kourion was an important ancient Greek city-state on the southwestern coast of the island of Cyprus. In the twelfth century BCE, after the collapse of the Mycenaean palaces, Greek settlers from Argos arrived on this site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Episkopi_01-2017_img06_Kourion.jpg/3840px-Episkopi_01-2017_img06_Kourion.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kourion"
+      }
     },
     {
       "name": "Kyrenia Castle",
-      "writeup": "A historic castle located in the harbor of Kyrenia, showcasing Byzantine and Crusader architecture."
+      "writeup": "A historic castle located in the harbor of Kyrenia, showcasing Byzantine and Crusader architecture.",
+      "wiki": {
+        "extract": "Kyrenia is a city on the northern coast of Cyprus, noted for its historic harbour and castle. It is under the control of Northern Cyprus.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kyrenia_01-2017_img04_view_from_castle_bastion.jpg/3840px-Kyrenia_01-2017_img04_view_from_castle_bastion.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kyrenia"
+      }
     },
     {
       "name": "Tombs of the Kings",
-      "writeup": "A large necropolis dating back to the 4th century BC, known for its underground tombs carved out of solid rock."
+      "writeup": "A large necropolis dating back to the 4th century BC, known for its underground tombs carved out of solid rock.",
+      "wiki": {
+        "extract": "The Tombs of the Kings is a large necropolis about 2 kilometres (1.2 mi) north of Paphos harbour in Cyprus. In 1980, it was designated a UNESCO World Heritage Site along with Paphos and Kouklia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tombs_of_the_Kings_%28Paphos%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Paphos)"
+      }
     },
     {
       "name": "St. Hilarion Castle",
-      "writeup": "A medieval castle with panoramic views, linked to Crusader legends and fairy tales."
+      "writeup": "A medieval castle with panoramic views, linked to Crusader legends and fairy tales.",
+      "wiki": {
+        "extract": "Saint Hilarion Castle is in the Kyrenia Mountains of Cyprus. This location provided the castle with command of the pass road from Kyrenia to Nicosia. It is the best preserved ruin of the three former strongholds in the Kyrenia mountains, the other two being Kantara and Buffavento.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saint_Hilarion_Castle%2C_Northern_Cyprus_-_panoramio_%286%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saint_Hilarion_Castle"
+      }
     },
     {
       "name": "Nicosia Old City",
-      "writeup": "The walled city center of the capital, featuring narrow streets, historic buildings, and the Green Line dividing north and south."
+      "writeup": "The walled city center of the capital, featuring narrow streets, historic buildings, and the Green Line dividing north and south.",
+      "wiki": {
+        "extract": "Nicosia, also known as Lefkosia or Lefkoşa, is the capital of Cyprus. It is the southeasternmost capital city among European Union member states. Its northern part is the de facto capital of Northern Cyprus.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nicosia%27s_skyline_2024.jpg/3840px-Nicosia%27s_skyline_2024.jpg",
+        "url": "https://en.wikipedia.org/wiki/Nicosia"
+      }
     }
   ],
   "head_of_state": "President Nikos Christodoulides",

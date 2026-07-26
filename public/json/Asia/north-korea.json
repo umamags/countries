@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Kumsusan Palace of the Sun",
-      "writeup": "The mausoleum where the bodies of Kim Il-sung and Kim Jong-il lie in state, serving as a significant political and cultural site."
+      "writeup": "The mausoleum where the bodies of Kim Il-sung and Kim Jong-il lie in state, serving as a significant political and cultural site.",
+      "wiki": {
+        "extract": "The Kumsusan Palace of the Sun, formerly the Kumsusan Memorial Palace (금수산기념궁전), is the mausoleum where the preserved bodies of Kim Il Sung and Kim Jong Il, the eternal leaders of North Korea, are displayed. Located near the northeast corner of the city of Pyongyang, the memorial has been renovated from the Kumsusan Assembly Hall (금수산의사당), Kim Il Sung's official residence and office.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kumsusan_Memorial_Palace%2C_Pyongyang.jpg/3840px-Kumsusan_Memorial_Palace%2C_Pyongyang.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kumsusan_Palace_of_the_Sun"
+      }
     },
     {
       "name": "Juche Tower",
-      "writeup": "A monument symbolizing the Juche ideology, located in Pyongyang, representing self-reliance."
+      "writeup": "A monument symbolizing the Juche ideology, located in Pyongyang, representing self-reliance.",
+      "wiki": {
+        "extract": "The Juche Tower, completed in 1982, is a 170-metre (560 ft) monument in Pyongyang, the capital of North Korea. The monument is named after the ideology of Juche introduced by North Korea's first leader, Kim Il Sung.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tower_of_Juche_Idea%2C_Pyongyang%2C_North_Korea_%282909246855%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Juche_Tower"
+      }
     },
     {
       "name": "Mount Paektu",
-      "writeup": "A sacred volcanic mountain considered the mythical birthplace of the Korean people and important in North Korean propaganda."
+      "writeup": "A sacred volcanic mountain considered the mythical birthplace of the Korean people and important in North Korean propaganda.",
+      "wiki": {
+        "extract": "Mount Paektu or Mount Baekdu (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain. At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, called Janggun Peak, belongs to North Korea. The mountain notably features a caldera that contains a large crater lake called Heaven Lake, which serves as the source of the Songhua, Tumen, and Yalu rivers. Korean and Manchu people assign a mythical quality to the mountain and its lake, and consider the mountain to be their ancestral homeland.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Laika_ac_Mt._Paekdu_%287998657081%29.jpg/3840px-Laika_ac_Mt._Paekdu_%287998657081%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Paektu"
+      }
     },
     {
       "name": "Arch of Triumph",
-      "writeup": "Built to commemorate Korean resistance to Japan from 1925 to 1945, it is one of the largest triumphal arches in the world."
+      "writeup": "Built to commemorate Korean resistance to Japan from 1925 to 1945, it is one of the largest triumphal arches in the world.",
+      "wiki": {
+        "extract": "The Arch of Triumph is a triumphal arch in Pyongyang, North Korea. It was built to commemorate the Korean resistance to Japan from 1925 to 1945. It is the second tallest memorial arch in the world, after Monumento a la Revolución in Mexico, standing 60 m (197 ft) high and 50 m (164 ft) wide.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/V%C3%ADt%C4%9Bzn%C3%BD_oblouk_-_panoramio_%281%29.jpg/3840px-V%C3%ADt%C4%9Bzn%C3%BD_oblouk_-_panoramio_%281%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Arch_of_Triumph_(Pyongyang)"
+      }
     },
     {
       "name": "Mansudae Grand Monument",
-      "writeup": "Features large statues of Kim Il-sung and Kim Jong-il, a central site for public homage."
+      "writeup": "Features large statues of Kim Il-sung and Kim Jong-il, a central site for public homage.",
+      "wiki": {
+        "extract": "The Mansudae Grand Monument (Korean: 만수대대기념비) is a complex of monuments in Pyongyang, North Korea. There are 229 figures in all, commemorating the history of the revolutionary struggle of the Korean people, and especially their leaders. The central part of the monument consists of two 22-meter-tall (72 ft) bronze statues of Kim Il Sung and Kim Jong Il.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mansudae-Monument-Bow-2014.jpg/3840px-Mansudae-Monument-Bow-2014.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mansudae_Grand_Monument"
+      }
     }
   ],
   "head_of_state": "Kim Jong-un",

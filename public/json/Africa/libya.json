@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Leptis Magna",
-      "writeup": "An ancient Roman city on the coast, known for its well-preserved ruins including a theater, basilica, and marketplace."
+      "writeup": "An ancient Roman city on the coast, known for its well-preserved ruins including a theater, basilica, and marketplace.",
+      "wiki": {
+        "extract": "Leptis or Lepcis Magna, also known by other names in antiquity, was a prominent city of the Carthaginian Empire and Roman Libya at the mouth of the Wadi Lebda in the Mediterranean.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/3840px-Leptis_Magna_%2829%29_%288288918733%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Leptis_Magna"
+      }
     },
     {
       "name": "Cyrene",
-      "writeup": "A UNESCO World Heritage site featuring Greek and Roman ruins, including temples and a necropolis."
+      "writeup": "A UNESCO World Heritage site featuring Greek and Roman ruins, including temples and a necropolis.",
+      "wiki": {
+        "extract": "Cyrene, also sometimes anglicized as Kyrene, was an ancient Greek colony and Roman city near present-day Shahhat in northeastern Libya in North Africa. It was part of the Pentapolis, an important group of five cities in the region, and gave the area its classical and early modern name Cyrenaica.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cyrene8.jpg",
+        "url": "https://en.wikipedia.org/wiki/Cyrene%2C_Libya"
+      }
     },
     {
       "name": "Sabratha",
-      "writeup": "An ancient Roman city with impressive ruins such as a theater and forum, located on the Mediterranean coast."
+      "writeup": "An ancient Roman city with impressive ruins such as a theater and forum, located on the Mediterranean coast.",
+      "wiki": {
+        "extract": "Sabratha, in the Zawiya District of Libya, was the westernmost of the ancient \"three cities\" of Roman Tripolis, alongside Oea and Leptis Magna. From 2001 to 2007 it was the capital of the former Sabratha wa Sorman District. It lies on the Mediterranean coast about 70 km (43 mi) west of modern Tripoli. The extant archaeological site was inscribed as a UNESCO World Heritage Site in 1982.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Theatre_of_Sabratha%2C_Libya.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sabratha"
+      }
     },
     {
       "name": "Ghadames",
-      "writeup": "A historic Berber town known as the 'Pearl of the Desert' with traditional mud-brick architecture."
+      "writeup": "A historic Berber town known as the 'Pearl of the Desert' with traditional mud-brick architecture.",
+      "wiki": {
+        "extract": "Ghadames or Ghadamis is an oasis town in the Nalut District of the Tripolitania region in northwestern Libya.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ghadames_Mosque.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ghadames"
+      }
     },
     {
       "name": "Acacus Mountains",
-      "writeup": "A mountain range famous for prehistoric rock art dating back thousands of years."
+      "writeup": "A mountain range famous for prehistoric rock art dating back thousands of years.",
+      "wiki": {
+        "extract": "The Acacus Mountains or Tadrart Akakus form a mountain range in the desert of the Ghat District in western Libya, part of the Sahara. They are situated east of the city of Ghat, Libya, and stretch north from the border with Algeria, about 100 kilometres (62 mi). The area has a particularly rich array of prehistoric rock art.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tadrart_Acacus_1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Acacus_Mountains"
+      }
     }
   ],
   "head_of_state": "Mohamed al-Menfi (Chairman of the Presidential Council)",

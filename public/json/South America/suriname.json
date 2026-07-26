@@ -14,15 +14,30 @@
   "landmarks": [
     {
       "name": "Fort Zeelandia",
-      "writeup": "A historic fortress in Paramaribo, originally built by the British and later expanded by the Dutch, symbolizing colonial history."
+      "writeup": "A historic fortress in Paramaribo, originally built by the British and later expanded by the Dutch, symbolizing colonial history.",
+      "wiki": {
+        "extract": "Fort Zeelandia is a fortress in Paramaribo, Suriname. In 1640 the French built a wooden fort on the spot which, during British colonial period, was reinforced and became Fort Willoughby. It was taken by the Dutch in 1667 and renamed Fort Zeelandia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fort_Zeelandia_top_view_%28photo_5%29_located_at_Abraham_Crijnssenweg_1_paramaribo%2C_suriname.jpg/3840px-Fort_Zeelandia_top_view_%28photo_5%29_located_at_Abraham_Crijnssenweg_1_paramaribo%2C_suriname.jpg",
+        "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Paramaribo)"
+      }
     },
     {
       "name": "Central Suriname Nature Reserve",
-      "writeup": "A UNESCO World Heritage site known for its pristine tropical rainforest and biodiversity."
+      "writeup": "A UNESCO World Heritage site known for its pristine tropical rainforest and biodiversity.",
+      "wiki": {
+        "extract": "The Central Suriname Nature Reserve is a conservation unit in Suriname.\nIt preserves an area of tropical rainforest. The reserve is in pristine condition.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg",
+        "url": "https://en.wikipedia.org/wiki/Central_Suriname_Nature_Reserve"
+      }
     },
     {
       "name": "Saint Peter and Paul Cathedral",
-      "writeup": "One of the tallest wooden structures in the Western Hemisphere, located in Paramaribo."
+      "writeup": "One of the tallest wooden structures in the Western Hemisphere, located in Paramaribo.",
+      "wiki": {
+        "extract": "The Cathedral-Basilica of Saint Peter and Paul, also called Saint Peter and Paul Cathedral, is a wooden Roman Catholic cathedral located in the centre of the capital city of Paramaribo, Suriname.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sint-Petrus-en-Pauluskathedraal.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saint_Peter_and_Paul_Cathedral%2C_Paramaribo"
+      }
     }
   ],
   "head_of_state": "President Chan Santokhi",

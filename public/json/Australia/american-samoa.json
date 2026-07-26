@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "National Park of American Samoa",
-      "writeup": "A protected area encompassing tropical rainforests, coral reefs, and volcanic mountains, showcasing the islands' natural beauty and biodiversity."
+      "writeup": "A protected area encompassing tropical rainforests, coral reefs, and volcanic mountains, showcasing the islands' natural beauty and biodiversity.",
+      "wiki": {
+        "extract": "The American Samoa men's national football team represents American Samoa in men's international association football and is controlled by the Football Federation American Samoa, the governing body of the sport in the territory. American Samoa's home ground is the Pago Park Soccer Stadium in Pago Pago.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
+        "url": "https://en.wikipedia.org/wiki/American_Samoa_national_football_team"
+      }
     },
     {
       "name": "Pago Pago Harbor",
-      "writeup": "A deep natural harbor surrounded by volcanic mountains, serving as a key port and scenic spot."
+      "writeup": "A deep natural harbor surrounded by volcanic mountains, serving as a key port and scenic spot.",
+      "wiki": {
+        "extract": "Pago Pago is the capital of American Samoa. It is in Maoputasi County on Tutuila, the main island of American Samoa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/AmericanSamoaLegislatureBuilding.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa"
+      }
     },
     {
       "name": "Jean P. Haydon Museum",
-      "writeup": "A museum dedicated to preserving and showcasing the cultural and historical heritage of American Samoa."
+      "writeup": "A museum dedicated to preserving and showcasing the cultural and historical heritage of American Samoa.",
+      "wiki": {
+        "extract": "The Jean P. Haydon Museum is a museum in Pago Pago dedicated to the culture and history of the United States territory of American Samoa. It contains a collection of canoes, coconut-shell combs, pigs’ tusk armlets and native pharmacopoeia. It also houses exhibits on natural history, tapa making, traditional tattooing, as well as a collection of war clubs, kava bowls, and historic photographs. Constructed in 1913 as U.S. Naval Station Tutuila Commissary, the building was home to Tutuila Island's Post Office from 1950 to 1971. The museum has displays of various aspects of the Samoan Islands’ culture and history. It is the official repository for collections of artifacts for American Samoa. Funded by the American Samoa Council on Arts, Culture and the Humanities, it is the venue used for numerous of the cultural resource activities in American Samoa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jean_p_haydon_museum.png",
+        "url": "https://en.wikipedia.org/wiki/Jean_P._Haydon_Museum"
+      }
     }
   ],
   "head_of_state": "President of the United States (Joe Biden)",

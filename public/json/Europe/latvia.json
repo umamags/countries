@@ -10,15 +10,26 @@
   "landmarks": [
     {
       "name": "Riga Old Town",
-      "writeup": "A UNESCO World Heritage site known for its medieval architecture and vibrant cultural scene."
+      "writeup": "A UNESCO World Heritage site known for its medieval architecture and vibrant cultural scene.",
+      "wiki": {
+        "extract": "Riga, officially Riga State City, is the capital, primate, and largest city of Latvia and the second largest in the Baltics. Home to 588,911 inhabitants, the city accounts for a third of Latvia's total population. The population of Riga metropolitan area, which stretches beyond the city limits, is estimated at 847,162. The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km2 (118.60 sq mi) and lies 1–10 m (3–33 ft) above sea level on a flat and sandy plain.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/3840px-Riga_%2833844464828%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Riga"
+      }
     },
     {
       "name": "Gauja National Park",
-      "writeup": "The largest national park in Latvia, famous for its natural beauty, hiking trails, and historic castles."
+      "writeup": "The largest national park in Latvia, famous for its natural beauty, hiking trails, and historic castles.",
+      "wiki": {
+        "extract": "Gauja National Park in Vidzeme is the largest national park in Latvia, with an area of 917.86 km2 running from north-east of Sigulda to south-west of Cēsis along the valley of the Gauja River, from which the park takes its name.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ergeljuklintis424aug037qg.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gauja_National_Park"
+      }
     },
     {
       "name": "Rundnle Palace",
-      "writeup": "An 18th-century Baroque palace often referred to as the 'Versailles of Latvia'."
+      "writeup": "An 18th-century Baroque palace often referred to as the 'Versailles of Latvia'.",
+      "wiki": null
     }
   ],
   "head_of_state": "Edgars Rinknvins (President as of 2024)",

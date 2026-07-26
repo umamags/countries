@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Plaza Independencia",
-      "writeup": "The main square in Montevideo, featuring the statue of national hero José Artigas and surrounded by historic buildings."
+      "writeup": "The main square in Montevideo, featuring the statue of national hero José Artigas and surrounded by historic buildings.",
+      "wiki": {
+        "extract": "Plaza Independencia is the main public square of Montevideo, Uruguay. It was laid out in the 19th century on the site formerly occupied by the Citadel of Montevideo, marking the transition between the old fortified city and the modern urban expansion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/PlazaIndependencia.jpg",
+        "url": "https://en.wikipedia.org/wiki/Plaza_Independencia"
+      }
     },
     {
       "name": "Casapueblo",
-      "writeup": "A building near Punta del Este designed by artist Carlos Páez Vilaró, serving as a museum, art gallery, and hotel."
+      "writeup": "A building near Punta del Este designed by artist Carlos Páez Vilaró, serving as a museum, art gallery, and hotel.",
+      "wiki": {
+        "extract": "Casapueblo is a building constructed by the Uruguayan artist Carlos Páez Vilaró. It is located in Punta Ballena, 13 kilometres (8 mi) from Punta del Este, Uruguay. Initially, it was the artist's summer home and workshop, and includes a museum, an art gallery, a cafeteria and a hotel in its facilities. It was the permanent residence of its creator, who worked and spent his last days there.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Casapueblo.JPG",
+        "url": "https://en.wikipedia.org/wiki/Casapueblo"
+      }
     },
     {
       "name": "Colonia del Sacramento",
-      "writeup": "A UNESCO World Heritage site known for its well-preserved colonial architecture and cobblestone streets."
+      "writeup": "A UNESCO World Heritage site known for its well-preserved colonial architecture and cobblestone streets.",
+      "wiki": {
+        "extract": "Colonia del Sacramento is a city in southwestern Uruguay, by the Río de la Plata, facing Buenos Aires, Argentina. It is one of the oldest towns in Uruguay and the capital of the Colonia Department. As of the 2023 census, it has a population of around 32,174.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg",
+        "url": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento"
+      }
     },
     {
       "name": "Palacio Salvo",
-      "writeup": "An iconic skyscraper in Montevideo that was once the tallest building in South America."
+      "writeup": "An iconic skyscraper in Montevideo that was once the tallest building in South America.",
+      "wiki": {
+        "extract": "The Palacio Salvo is an eclectic skyscraper at the intersection of 18 de Julio Avenue and Plaza Independencia in the Centro neighbourhood of Montevideo, Uruguay. Finished in 1928, It was built thanks to the initiative of the business brothers Ángel, José and Lorenzo Salvo, the 27-story Palacio Salvo stands 105 m (344 ft) high. It was the tallest building in Latin America for a brief period, at its completion it was the tallest reinforced concrete structure in the world. It was designed by the architect Mario Palanti, an Italian immigrant living in Buenos Aires, who used a similar design for his Palacio Barolo in Buenos Aires, Argentina.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Palacio_Salvo_Logo.jpg",
+        "url": "https://en.wikipedia.org/wiki/Palacio_Salvo"
+      }
     },
     {
       "name": "Punta del Este Lighthouse",
-      "writeup": "A historic lighthouse offering panoramic views of the Atlantic coast and the city."
+      "writeup": "A historic lighthouse offering panoramic views of the Atlantic coast and the city.",
+      "wiki": {
+        "extract": "Punta del Este is a seaside city and peninsula on the Atlantic Coast in the Maldonado Department of southeastern Uruguay. Starting as a small town, Punta del Este grew to become a resort for the Latin and North American jet set and tourists. The city has been called \"The Hamptons of South America\", as well as \"The Monaco of the South\", \"The Miami Beach of South America\", \"The Pearl of the Atlantic\", and \"The St. Tropez of South America\". Many famous people have visited, resided, or acquired vacation properties in Punta del Este and its surroundings.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg",
+        "url": "https://en.wikipedia.org/wiki/Punta_del_Este"
+      }
     }
   ],
   "head_of_state": "President Luis Lacalle Pou",

@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Carthage",
-      "writeup": "Ancient city ruins near Tunis, once a powerful Phoenician city-state and a major center of Mediterranean trade."
+      "writeup": "Ancient city ruins near Tunis, once a powerful Phoenician city-state and a major center of Mediterranean trade.",
+      "wiki": {
+        "extract": "Carthage is a commune in Tunis Governorate, Tunisia. It is named for, and includes in its area, the archaeological site of Carthage.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Carthage_sud_urbanisation.jpg",
+        "url": "https://en.wikipedia.org/wiki/Carthage_(municipality)"
+      }
     },
     {
       "name": "Medina of Tunis",
-      "writeup": "Historic old town of Tunis, known for its narrow alleys, traditional souks, and Islamic architecture."
+      "writeup": "Historic old town of Tunis, known for its narrow alleys, traditional souks, and Islamic architecture.",
+      "wiki": {
+        "extract": "The Medina of Tunis is the medina quarter of Tunis, the capital of Tunisia. It has been a UNESCO World Heritage Site since 1979.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Medina_old_Town_of_Tunis.jpeg/3840px-Medina_old_Town_of_Tunis.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Medina_of_Tunis"
+      }
     },
     {
       "name": "Amphitheatre of El Jem",
-      "writeup": "A large Roman amphitheatre, one of the best-preserved in the world, showcasing Tunisia's Roman heritage."
+      "writeup": "A large Roman amphitheatre, one of the best-preserved in the world, showcasing Tunisia's Roman heritage.",
+      "wiki": {
+        "extract": "The Amphitheatre of El Jem is an oval amphitheatre in the modern-day city of El Djem, Tunisia, formerly Thysdrus in the Roman province of Africa. It is listed by UNESCO since 1979 as a World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Amphitheatre_of_El_Jem%2C_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis%2C_the_estimated_capacity_is_35%2C000%2C_Tunisia_-_52717762494.jpg",
+        "url": "https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem"
+      }
     },
     {
       "name": "Bardo National Museum",
-      "writeup": "Museum in Tunis housing one of the world's largest collections of Roman mosaics and artifacts from Tunisia's history."
+      "writeup": "Museum in Tunis housing one of the world's largest collections of Roman mosaics and artifacts from Tunisia's history.",
+      "wiki": {
+        "extract": "The Bardo National Museum or Bardo Palace is an arts and North African history museum in Le Bardo, Tunis, Tunisia. It is one of the most important museums in the Mediterranean region and the second largest museum in Africa after the Egyptian Museum of Cairo. It traces the history of Tunisia over several millennia and across several civilizations through a wide variety of archaeological pieces.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tunis%2C_mus%C3%A9e_du_Bardo%2C_salle_de_Virgile_01.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bardo_National_Museum_(Tunis)"
+      }
     },
     {
       "name": "Sahara Desert",
-      "writeup": "The southern part of Tunisia extends into the Sahara, offering unique desert landscapes and cultural experiences."
+      "writeup": "The southern part of Tunisia extends into the Sahara, offering unique desert landscapes and cultural experiences.",
+      "wiki": {
+        "extract": "The Sahara is a desert spanning North Africa. With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world and the third-largest desert overall, smaller only than the deserts of Antarctica and the northern Arctic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sahara_real_color.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sahara"
+      }
     }
   ],
   "head_of_state": "President Kais Saied",

@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Itaipu Dam",
-      "writeup": "One of the world's largest hydroelectric dams, located on the Paraná River between Paraguay and Brazil."
+      "writeup": "One of the world's largest hydroelectric dams, located on the Paraná River between Paraguay and Brazil.",
+      "wiki": {
+        "extract": "The Itaipu Dam is a hydroelectric dam on the Paraná River located on the border between Brazil and Paraguay. It is the third-largest hydroelectric dam in the world in terms of produced energy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg",
+        "url": "https://en.wikipedia.org/wiki/Itaipu_Dam"
+      }
     },
     {
       "name": "Jesuit Missions of La Santísima Trinidad de Paraná",
-      "writeup": "A UNESCO World Heritage site featuring well-preserved ruins of a 17th-century Jesuit mission."
+      "writeup": "A UNESCO World Heritage site featuring well-preserved ruins of a 17th-century Jesuit mission.",
+      "wiki": {
+        "extract": "The Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue are located in the Itapúa Department, Paraguay, and are religious missions that are still preserved and that were founded by the Jesuit missioners during the colonization of South America in the 17th century. These religious missions were created in 1609 and developed for 150 years. Both Jesuit missions were declared World Heritage Site by the UNESCO in 1993.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trinidad_%28Paraguay%29.JPG",
+        "url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue"
+      }
     },
     {
       "name": "Palacio de los López",
-      "writeup": "The presidential palace in Asunción, known for its neoclassical architecture and historical significance."
+      "writeup": "The presidential palace in Asunción, known for its neoclassical architecture and historical significance.",
+      "wiki": {
+        "extract": "Palacio de los López, officially titled Palacio de Gobierno is a neoclassical manor in Asunción, Paraguay, that serves as a workplace for the President of Paraguay, and as the seat of the government of Paraguay. The president does not reside in the palace, and is instead housed at Mburuvicha Róga, some 2.5 km to the southeast.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg",
+        "url": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez"
+      }
     }
   ],
   "head_of_state": "President Santiago Peña",

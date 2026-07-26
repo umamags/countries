@@ -14,15 +14,30 @@
   "landmarks": [
     {
       "name": "Orango Islands National Park",
-      "writeup": "A protected area known for its diverse wildlife, including saltwater hippos and rich birdlife, located in the Bijagós Archipelago."
+      "writeup": "A protected area known for its diverse wildlife, including saltwater hippos and rich birdlife, located in the Bijagós Archipelago.",
+      "wiki": {
+        "extract": "Orango is one of the Bijagós Islands, located 60 kilometres off the coast of mainland Guinea-Bissau. At 272.5 km2, it is the largest island in the archipelago. The island has a population of 1,250 ; the largest village is Eticoga. With the neighbouring islands Imbone, Canongo, Meneque and Orangozinho, it forms the Orango National Park. It belongs to the Uno Sector.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Map_of_the_sectors_of_the_Bolama_Region%2C_Guinea-Bissau.png",
+        "url": "https://en.wikipedia.org/wiki/Orango"
+      }
     },
     {
       "name": "Bissau Velho",
-      "writeup": "The historic old town of the capital city Bissau, featuring colonial Portuguese architecture and cultural heritage sites."
+      "writeup": "The historic old town of the capital city Bissau, featuring colonial Portuguese architecture and cultural heritage sites.",
+      "wiki": {
+        "extract": "José Luís Mendes Lopes, known as Zezinho, is a Bissau-Guinean professional footballer who plays as a midfielder for Cypriot club Omonia Aradippou and the Guinea-Bissau national team.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Zezinho_(Bissau-Guinean_footballer)"
+      }
     },
     {
       "name": "Bolama Island",
-      "writeup": "Former capital of Portuguese Guinea, known for its colonial ruins and historical significance."
+      "writeup": "Former capital of Portuguese Guinea, known for its colonial ruins and historical significance.",
+      "wiki": {
+        "extract": "Bolama is the closest of the Bissagos Islands to the mainland of Guinea-Bissau. The island has a population of 6,024. It shares its name with its largest settlement, the town Bolama, which is the capital of the island and the Bolama Region. A causeway links the island to the Ilha das Cobras. Attractions on the island include sandy beaches and the abandoned ruins of the town of Bolama. It is known for its cashew nuts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Insula_Bolama.png",
+        "url": "https://en.wikipedia.org/wiki/Bolama_Island"
+      }
     }
   ],
   "head_of_state": "President Umaro Sissoco Embaló",

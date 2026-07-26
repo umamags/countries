@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Easter Island",
-      "writeup": "A remote volcanic island famous for its archaeological sites, including nearly 900 monumental statues called moai."
+      "writeup": "A remote volcanic island famous for its archaeological sites, including nearly 900 monumental statues called moai.",
+      "wiki": {
+        "extract": "Easter Island is an island and special territory of Chile in the southeastern Pacific Ocean, at the southeasternmost point of the Polynesian Triangle in Oceania. The island is renowned for its nearly 1,000 extant monumental statues, called moai, which were created by the early Rapa Nui people. In 1995, UNESCO named Easter Island a World Heritage Site, with much of the island protected within Rapa Nui National Park. Easter Island is also the only territory in Polynesia where Spanish is an official language.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/3840px-Easter_Island_5.jpg",
+        "url": "https://en.wikipedia.org/wiki/Easter_Island"
+      }
     },
     {
       "name": "Torres del Paine National Park",
-      "writeup": "A national park in Patagonia known for its stunning mountains, glaciers, lakes, and diverse wildlife."
+      "writeup": "A national park in Patagonia known for its stunning mountains, glaciers, lakes, and diverse wildlife.",
+      "wiki": {
+        "extract": "Torres del Paine National Park is a national park encompassing mountains, glaciers, lakes, and rivers in southern Chilean Patagonia. The Cordillera del Paine group of mountains is the park's centerpiece. It lies in a transition area between the Magellanic subpolar forests and the Patagonian Steppes. The park is located 112 km (70 mi) north of Puerto Natales and 312 km (194 mi) north of Punta Arenas. The park borders Bernardo O'Higgins National Park to the west and the Los Glaciares National Park to the north in Argentine territory. It was established as a national park in 1959. Paine means \"blue\" in the native Tehuelche (Aonikenk) language and is pronounced PIE-neh.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg",
+        "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park"
+      }
     },
     {
       "name": "Atacama Desert",
-      "writeup": "The driest non-polar desert in the world, offering unique landscapes and some of the clearest night skies for astronomy."
+      "writeup": "The driest non-polar desert in the world, offering unique landscapes and some of the clearest night skies for astronomy.",
+      "wiki": {
+        "extract": "The Atacama Desert is a desert plateau on the Pacific coast of South America, stretching along a 1,600-kilometre-long (1,000-mile) strip of land in northern Chile, west of the Andes. It covers an area of 105,000 km2 (41,000 mi2), rising to 128,000 km2 (49,000 mi2) if the barren lower slopes of the Andes are included.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Atacama.png",
+        "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+      }
     },
     {
       "name": "Valparaíso",
-      "writeup": "A colorful port city known for its steep funiculars, vibrant street art, and historic quarter."
+      "writeup": "A colorful port city known for its steep funiculars, vibrant street art, and historic quarter.",
+      "wiki": {
+        "extract": "Valparaíso is a major city, commune, seaport, and naval base facility in the Valparaíso Region of Chile. Valparaíso was originally named after Valparaíso de Arriba, in Castile-La Mancha, Spain. With a population of 284,938, it is the 10th-largest commune in Chile.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
+        "url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso"
+      }
     },
     {
       "name": "La Moneda Palace",
-      "writeup": "The presidential palace in Santiago, an important symbol of Chilean government and history."
+      "writeup": "The presidential palace in Santiago, an important symbol of Chilean government and history.",
+      "wiki": {
+        "extract": "Palacio de La Moneda, or simply La Moneda, is the seat of the president of the Republic of Chile. It also houses the offices of three cabinet ministers: Interior, General Secretariat of the Presidency, and General Secretariat of the Government. Located in downtown Santiago, it occupies an entire block in the Civic District, bordered by Moneda street to the north, Morandé street to the east, Alameda del Libertador Bernardo O'Higgins to the south, and Teatinos street to the west.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/3840px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
+        "url": "https://en.wikipedia.org/wiki/La_Moneda_Palace"
+      }
     }
   ],
   "head_of_state": "President Gabriel Boric",

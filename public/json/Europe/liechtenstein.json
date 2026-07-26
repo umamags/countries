@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Vaduz Castle",
-      "writeup": "The official residence of the Prince of Liechtenstein, perched on a hill overlooking the capital Vaduz."
+      "writeup": "The official residence of the Prince of Liechtenstein, perched on a hill overlooking the capital Vaduz.",
+      "wiki": {
+        "extract": "Vaduz Castle is the palace and official residence of the Prince of Liechtenstein. The castle gave its name to the town of Vaduz, the capital of Liechtenstein, which it overlooks from an adjacent hilltop.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg/3840px-Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg",
+        "url": "https://en.wikipedia.org/wiki/Vaduz_Castle"
+      }
     },
     {
       "name": "Kunstmuseum Liechtenstein",
-      "writeup": "A modern art museum in Vaduz featuring contemporary and modern art collections."
+      "writeup": "A modern art museum in Vaduz featuring contemporary and modern art collections.",
+      "wiki": {
+        "extract": "Liechtenstein, officially the Principality of Liechtenstein, is a doubly landlocked country in the Central European Alps. A microstate, It is located between Austria to the east and north-east and Switzerland to the north-west, west and south.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Liechtenstein"
+      }
     },
     {
       "name": "Gutenberg Castle",
-      "writeup": "A well-preserved medieval castle located in the town of Balzers."
+      "writeup": "A well-preserved medieval castle located in the town of Balzers.",
+      "wiki": {
+        "extract": "Gutenberg Castle is an intact castle in the municipality of Balzers, Liechtenstein, the southern-most municipality in the country. Gutenberg is one of the five castles of the principality and one of two that have survived intact until the present day.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Liechtenstein_asv2022-10_img25_Balzers_Burg_Gutenberg.jpg/3840px-Liechtenstein_asv2022-10_img25_Balzers_Burg_Gutenberg.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gutenberg_Castle"
+      }
     }
   ],
   "head_of_state": "Prince Hans-Adam II",

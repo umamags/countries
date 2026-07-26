@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Lake Bled",
-      "writeup": "A picturesque lake with a small island and medieval castle, popular for tourism and natural beauty."
+      "writeup": "A picturesque lake with a small island and medieval castle, popular for tourism and natural beauty.",
+      "wiki": {
+        "extract": "Lake Bled is a lake in the Julian Alps of the Upper Carniolan region of northwestern Slovenia, where it adjoins the town of Bled. The area is a tourist destination. The lake is 35 km (22 mi) from Ljubljana International Airport and 55 km (34 mi) from the capital city, Ljubljana. Lake Bled is 4.2 km (2.6 mi) from the Lesce–Bled train station.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/3840px-Lake_Bled_from_the_Mountain.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Bled"
+      }
     },
     {
       "name": "Ljubljana Castle",
-      "writeup": "A historic fortress overlooking the capital city, offering panoramic views and cultural exhibitions."
+      "writeup": "A historic fortress overlooking the capital city, offering panoramic views and cultural exhibitions.",
+      "wiki": {
+        "extract": "Ljubljana is the capital and largest city of Slovenia, located along a trade route between the northern Adriatic Sea and the Danube region, north of the country's largest marsh, it has been inhabited since prehistoric times. It is the country's cultural, educational, economic, political and administrative center and the seat of the Urban Municipality of Ljubljana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg/3840px-Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ljubljana"
+      }
     },
     {
       "name": "Postojna Cave",
-      "writeup": "One of the largest karst cave systems in Europe, famous for its stunning formations and underground train."
+      "writeup": "One of the largest karst cave systems in Europe, famous for its stunning formations and underground train.",
+      "wiki": {
+        "extract": "Postojna Cave is a 24.34 km (15.12 mi) long karst cave system near Postojna, southwestern Slovenia. It is the second-longest cave system in the country as well as one of its top tourism sites. The caves were created by the Pivka River.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Postojna_%2822206343750%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Postojna_Cave"
+      }
     },
     {
       "name": "Triglav National Park",
-      "writeup": "Slovenia’s only national park, home to Mount Triglav, the highest peak, and diverse alpine flora and fauna."
+      "writeup": "Slovenia’s only national park, home to Mount Triglav, the highest peak, and diverse alpine flora and fauna.",
+      "wiki": {
+        "extract": "Triglav National Park is the only national park in Slovenia. It was established in its modern form in 1981 and is located in the northwestern part of the country, respectively the southeastern part of the Alpine massif. Mount Triglav, the highest peak of the Julian Alps, stands almost in the middle of the national park. From there the valleys spread out radially, supplying water to two large river systems with their sources in the Julian Alps: the Soča and the Sava, flowing to the Adriatic and Black Sea, respectively.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Triglav_National_Park"
+      }
     },
     {
       "name": "Predjama Castle",
-      "writeup": "A Renaissance castle built within a cave mouth, known for its unique architecture and historical significance."
+      "writeup": "A Renaissance castle built within a cave mouth, known for its unique architecture and historical significance.",
+      "wiki": {
+        "extract": "Predjama Castle is a Renaissance castle built within a cave mouth in south-central Slovenia, in the historical region of Inner Carniola. It is located in the village of Predjama, approximately 11 kilometres from the town of Postojna and 9 kilometres from Postojna Cave.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B6hlenburg_Predjama_in_Slovenien.jpg/3840px-H%C3%B6hlenburg_Predjama_in_Slovenien.jpg",
+        "url": "https://en.wikipedia.org/wiki/Predjama_Castle"
+      }
     }
   ],
   "head_of_state": "President Nataša Pirc Musar",

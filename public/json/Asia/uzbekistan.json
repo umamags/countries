@@ -12,15 +12,30 @@
   "landmarks": [
     {
       "name": "Registan Square",
-      "writeup": "A historic public square in Samarkand, surrounded by three madrasahs showcasing Timurid architecture."
+      "writeup": "A historic public square in Samarkand, surrounded by three madrasahs showcasing Timurid architecture.",
+      "wiki": {
+        "extract": "Registan, officially the Registan Square is a historic public square in the city of Samarkand, Uzbekistan. It served as the heart of the Timurid Empire and later as the city's commercial, educational, and ceremonial center. The square is famed for its ensemble of three madrasas : the Ulugh Beg Madrasa of the Timurid period, the Sherdar Madrasa and the Tilakari Madrasa, built later under the Janid dynasty—which together they represent some of the finest achievements of Islamic architecture in Central Asia. Renowned for its soaring iwans, turquoise domes, intricate mosaic tilework, and geometric ornamentation, Registan is considered one of the greatest examples of Timurid and Persian-influenced architecture..",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RegistanSquare_Samarkand.jpg",
+        "url": "https://en.wikipedia.org/wiki/Registan"
+      }
     },
     {
       "name": "Itchan Kala",
-      "writeup": "The walled inner town of Khiva, a UNESCO World Heritage site with well-preserved Islamic architecture."
+      "writeup": "The walled inner town of Khiva, a UNESCO World Heritage site with well-preserved Islamic architecture.",
+      "wiki": {
+        "extract": "Itchan Kala is the walled inner town of the city of Khiva, Uzbekistan. Since 1990, it has been protected as a World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Islam_Khodja_Madrasa_01.jpg",
+        "url": "https://en.wikipedia.org/wiki/Itchan_Kala"
+      }
     },
     {
       "name": "Bukhara Historic Centre",
-      "writeup": "An ancient city center with numerous mosques, madrasahs, and bazaars reflecting Central Asian culture."
+      "writeup": "An ancient city center with numerous mosques, madrasahs, and bazaars reflecting Central Asian culture.",
+      "wiki": {
+        "extract": "Bukhara is the seventh-largest city in Uzbekistan by population, with 280,187 residents as of 1 January 2020. It is the capital of Bukhara Region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kalon-Ensemble_Buchara.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bukhara"
+      }
     }
   ],
   "head_of_state": "President Shavkat Mirziyoyev",

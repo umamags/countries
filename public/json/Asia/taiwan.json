@@ -13,23 +13,48 @@
   "landmarks": [
     {
       "name": "Taipei 101",
-      "writeup": "A landmark skyscraper in Taipei, once the tallest building in the world, known for its unique design and observatory."
+      "writeup": "A landmark skyscraper in Taipei, once the tallest building in the world, known for its unique design and observatory.",
+      "wiki": {
+        "extract": "Taipei 101, formerly known as the Taipei World Financial Center, is a 508-meter, 101-story skyscraper in Taipei, Taiwan. It is owned by the Taipei Financial Center Corporation. It was officially classified as the world's tallest building from its opening on 31 December 2004, until it was surpassed by the Burj Khalifa in 2009. As of 2026, it is the tallest building in Taiwan and the eleventh tallest in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/960px-Taipei_101_logo.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      }
     },
     {
       "name": "Taroko Gorge",
-      "writeup": "A stunning marble-walled canyon in Taroko National Park, famous for its natural beauty and hiking trails."
+      "writeup": "A stunning marble-walled canyon in Taroko National Park, famous for its natural beauty and hiking trails.",
+      "wiki": {
+        "extract": "Taroko National Park is one of the nine national parks in Taiwan and was named after the Taroko Gorge, the landmark gorge of the park carved by the Liwu River. The park spans Taichung Municipality, Nantou County, and Hualien County and is located in Xiulin Township. The Taroko Gorge forms one of only three river-carved gorges in the world cut entirely through pure marble, ranking alongside Bhedaghat Gorge in Jabalpur, India and Trigrad Gorge in Bulgaria.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Taroko_Gorge4.jpg/3840px-Taroko_Gorge4.jpg",
+        "url": "https://en.wikipedia.org/wiki/Taroko_National_Park"
+      }
     },
     {
       "name": "Sun Moon Lake",
-      "writeup": "Taiwan's largest freshwater lake, known for its scenic views and cultural significance to indigenous peoples."
+      "writeup": "Taiwan's largest freshwater lake, known for its scenic views and cultural significance to indigenous peoples.",
+      "wiki": {
+        "extract": "Sun Moon Lake is a lake in Yuchi Township, Nantou County, Taiwan. It is the largest body of water in Taiwan. The area around the lake is home to the Thao people, one of Taiwan's indigenous ethnic groups. Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake resembles a sun while the west side resembles a moon, hence the name.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sun_Moon_Lake_Sentinel-2B_MSI_2024-04-04.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sun_Moon_Lake"
+      }
     },
     {
       "name": "Chiang Kai-shek Memorial Hall",
-      "writeup": "A national monument in Taipei dedicated to the former leader Chiang Kai-shek."
+      "writeup": "A national monument in Taipei dedicated to the former leader Chiang Kai-shek.",
+      "wiki": {
+        "extract": "The Chiang Kai-shek Memorial Hall is a national monument and tourist attraction erected during Taiwan’s martial law period in memory of Chiang Kai-shek, former President of the Republic of China. In recent years, the site has also incorporated remembrance of Taiwan’s martial law period (1949–1987).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chiang_Kai-shek_memorial_amk.jpg",
+        "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall"
+      }
     },
     {
       "name": "Alishan National Scenic Area",
-      "writeup": "A mountainous area famous for sunrise views, forest railway, and indigenous culture."
+      "writeup": "A mountainous area famous for sunrise views, forest railway, and indigenous culture.",
+      "wiki": {
+        "extract": "The Alishan National Scenic Area is a mountain resort and nature reserve located in Alishan township, Chiayi County, Taiwan.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alishan%2C_Part_IV_-_Alishan5348.jpg/3840px-Alishan%2C_Part_IV_-_Alishan5348.jpg",
+        "url": "https://en.wikipedia.org/wiki/Alishan_National_Scenic_Area"
+      }
     }
   ],
   "head_of_state": "President Tsai Ing-wen",

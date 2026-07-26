@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Kunta Kinteh Island",
-      "writeup": "A UNESCO World Heritage site, historically significant as a center of the transatlantic slave trade."
+      "writeup": "A UNESCO World Heritage site, historically significant as a center of the transatlantic slave trade.",
+      "wiki": {
+        "extract": "Kunta Kinteh Island, formerly called James Island and St Andrew's Island, is an island in the Gambia River, 30 km (19 mi) from the river mouth and near Juffureh in the Republic of the Gambia. Fort James is located on the island. It is less than 3.2 km from Albreda on the river's northern bank. As an important historical site in the West African slave trade, it is listed as a UNESCO World Heritage Site, together with related sites including a ruined Portuguese chapel and a colonial warehouse in Albreda, the Maurel Frères Building in Juffureh, and Fort Bullen and Six-Gun Battery, which are located at the mouth of the Gambia River.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/River_gambia_galleryfull.jpg",
+        "url": "https://en.wikipedia.org/wiki/Kunta_Kinteh_Island"
+      }
     },
     {
       "name": "Arch 22",
-      "writeup": "A prominent monument in Banjul commemorating the 1994 coup d'état."
+      "writeup": "A prominent monument in Banjul commemorating the 1994 coup d'état.",
+      "wiki": {
+        "extract": "Arch 22 is a commemorative arch on the road into Banjul in the Gambia. It was built in 1996 to mark the military coup d'état of 22 July 1994, through which Yahya Jammeh and his Armed Forces Provisional Ruling Council overthrew the democratically elected Gambian government of President Sir Dawda Jawara.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Gambia_banjul_arch22.JPG",
+        "url": "https://en.wikipedia.org/wiki/Arch_22"
+      }
     },
     {
       "name": "Abuko Nature Reserve",
-      "writeup": "One of the first nature reserves in Gambia, home to diverse wildlife and bird species."
+      "writeup": "One of the first nature reserves in Gambia, home to diverse wildlife and bird species.",
+      "wiki": {
+        "extract": "Abuko National Park is a nature reserve in the Gambia lying south of the town of Abuko. It is a popular tourist attraction and was the country's first designated wildlife reserve.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gambia_abuko_001.jpg",
+        "url": "https://en.wikipedia.org/wiki/Abuko_Nature_Reserve"
+      }
     }
   ],
   "head_of_state": "President Adama Barrow",

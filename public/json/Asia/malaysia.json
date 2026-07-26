@@ -13,23 +13,48 @@
   "landmarks": [
     {
       "name": "Petronas Twin Towers",
-      "writeup": "Iconic twin skyscrapers in Kuala Lumpur, once the tallest buildings in the world, symbolizing Malaysia's modernization."
+      "writeup": "Iconic twin skyscrapers in Kuala Lumpur, once the tallest buildings in the world, symbolizing Malaysia's modernization.",
+      "wiki": {
+        "extract": "The Petronas Towers, also known as the Petronas Twin Towers and colloquially the KLCC Twin Towers, are an interlinked pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 m (1,483 ft). From 1998 to 2004, they were the tallest buildings in the world until they were surpassed by the Taipei 101 skyscraper in Taiwan. The Petronas Towers remain the world's tallest twin skyscrapers, surpassing the original World Trade Center towers in New York City, and were the tallest buildings in Malaysia until 2019, when they were surpassed by The Exchange 106. The Petronas Towers are a major landmark of Kuala Lumpur, along with the nearby Kuala Lumpur Tower and Merdeka 118, and are visible in many places across the city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Petronas_Towers_Logo.svg/960px-Petronas_Towers_Logo.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Petronas_Towers"
+      }
     },
     {
       "name": "Batu Caves",
-      "writeup": "A limestone hill with a series of caves and cave temples, famous for the large statue of Lord Murugan and Hindu festivals."
+      "writeup": "A limestone hill with a series of caves and cave temples, famous for the large statue of Lord Murugan and Hindu festivals.",
+      "wiki": {
+        "extract": "Batu Caves are a series of limestone caves in Gombak, Selangor, Malaysia. It is located on a 325 m (1,066 ft)–tall mogote, about 13 km (8.1 mi) north of the Malaysian capital of Kuala Lumpur. The cave complex contains many Hindu temples, the most popular of which is a shrine dedicated to Murugan, and is the focal point of the Tamil Hindu festival of Thaipusam in Malaysia. The complex hosts a 43 m (141 ft) tall Murugan statue, amongst the tallest Murugan statues in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/3840px-Batu_Caves_stairs_2022-05.jpg",
+        "url": "https://en.wikipedia.org/wiki/Batu_Caves"
+      }
     },
     {
       "name": "George Town",
-      "writeup": "A UNESCO World Heritage site known for its colonial architecture, street art, and multicultural heritage."
+      "writeup": "A UNESCO World Heritage site known for its colonial architecture, street art, and multicultural heritage.",
+      "wiki": {
+        "extract": "George Town is the capital of the Malaysian state of Penang. It is the core city of the George Town Conurbation, Malaysia's second largest metropolitan area with a population of 2.84 million and the second largest metropolitan economy in the country. The city proper spans an area of 306 km2 (118 sq mi) encompassing Penang Island and surrounding islets, and had a population of 794,313 as of 2020.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Skyline_of_George_Town%2C_Penang_at_night_Nov2024-29-17.jpg/3840px-Skyline_of_George_Town%2C_Penang_at_night_Nov2024-29-17.jpg",
+        "url": "https://en.wikipedia.org/wiki/George_Town%2C_Penang"
+      }
     },
     {
       "name": "Mount Kinabalu",
-      "writeup": "The highest peak in Southeast Asia, located in Sabah, popular for trekking and biodiversity."
+      "writeup": "The highest peak in Southeast Asia, located in Sabah, popular for trekking and biodiversity.",
+      "wiki": {
+        "extract": "Mount Kinabalu is the highest mountain in Malaysia and Maritime Southeast Asia, located on the island of Borneo in Sabah. With a height of 4,095 metres (13,435 ft), it is the third-highest peak of an island on Earth, the 28th-highest peak in Southeast Asia, and 20th-most-prominent mountain in the world. The mountain is located in Ranau district, West Coast Division of Sabah, Malaysia. It is protected as Kinabalu Park, a World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg/3840px-Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Kinabalu"
+      }
     },
     {
       "name": "Langkawi Islands",
-      "writeup": "An archipelago known for its beaches, rainforests, and duty-free shopping."
+      "writeup": "An archipelago known for its beaches, rainforests, and duty-free shopping.",
+      "wiki": {
+        "extract": "Langkawi, officially known as Langkawi, the Jewel of Kedah, is a duty-free island and an archipelago of 99 islands located some 30 kilometres (19 mi) off the coast of northwestern Malaysia and a few kilometres south of Ko Tarutao, adjacent to the Thai border. Politically, it is an administrative district of Kedah, with Kuah as its largest town. Langkawi was developed as a tourist destination in the 1980s, and Pantai Cenang is the island's most popular beach and tourist area.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eagle_square_at_Kuah_Langkawi.jpg/3840px-Eagle_square_at_Kuah_Langkawi.jpg",
+        "url": "https://en.wikipedia.org/wiki/Langkawi"
+      }
     }
   ],
   "head_of_state": "Yang di-Pertuan Agong Al-Sultan Abdullah Ri'ayatuddin Al-Mustafa Billah Shah",

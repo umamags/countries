@@ -10,19 +10,39 @@
   "landmarks": [
     {
       "name": "Kuwait Towers",
-      "writeup": "Iconic water towers and a symbol of modern Kuwait, featuring observation decks with panoramic views."
+      "writeup": "Iconic water towers and a symbol of modern Kuwait, featuring observation decks with panoramic views.",
+      "wiki": {
+        "extract": "Kuwait, officially the State of Kuwait, is a country in West Asia. With a coastline of approximately 500 km (311 mi), it is situated at the head of the Persian Gulf in the northeastern edge of the Arabian Peninsula, bordering Iraq to the north and Saudi Arabia to the south. Kuwait is geographically the closest Gulf country to mainland Iran. The country is a small city-state; most of the population reside in the urban agglomeration of Kuwait City, the capital and largest city. As of 2024, Kuwait has a population of 4.82 million, of which 1.53 million are Kuwaiti citizens while the remaining 3.29 million are foreign nationals from over 100 countries. In 2024, Kuwait had the world's seventh largest number of foreign nationals as a percentage of the population, where its citizens make up fewer than 30% of the overall population.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Kuwait"
+      }
     },
     {
       "name": "Grand Mosque",
-      "writeup": "The largest mosque in Kuwait, known for its impressive Islamic architecture and cultural significance."
+      "writeup": "The largest mosque in Kuwait, known for its impressive Islamic architecture and cultural significance.",
+      "wiki": {
+        "extract": "The Grand Mosque, located in Kuwait City, is the largest mosque in Kuwait. Its area spans 45,000 square metres (480,000 sq ft), out of which the building itself covers 20,000 square metres (220,000 sq ft). The main prayer hall is 72 metres (236 ft) wide on all sides, and has teakwood doors. Natural lighting is provided by 144 windows.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kuwait_City_Grand_Mosque_Exterior_South_Facade_5.jpg/3840px-Kuwait_City_Grand_Mosque_Exterior_South_Facade_5.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Kuwait"
+      }
     },
     {
       "name": "Al Shaheed Park",
-      "writeup": "A large urban park featuring museums, green spaces, and memorials dedicated to Kuwait's martyrs."
+      "writeup": "A large urban park featuring museums, green spaces, and memorials dedicated to Kuwait's martyrs.",
+      "wiki": {
+        "extract": "Al Shaheed Park is the largest urban park in Kuwait located in Al-Assima governorate, sitting at about 78.5 acres. Al Shaheed Park is considered the most significant green infrastructure project in Kuwait and has one of the largest over-structure green roofs in the world.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Al_Shaheed_Park"
+      }
     },
     {
       "name": "Liberation Tower",
-      "writeup": "One of the tallest telecommunications towers in the world, symbolizing Kuwait's liberation."
+      "writeup": "One of the tallest telecommunications towers in the world, symbolizing Kuwait's liberation.",
+      "wiki": {
+        "extract": "The Liberation Tower is a 372-meter-high or 1,220 feet tall telecommunications tower in Kuwait City, Kuwait. It is the second-tallest structure in the country and the 39th tallest building in the world. The tower is not publicly accessible to tourists. However, the complex building attached to the tower houses government offices such as the Communication and Information Technology Regulatory Authority and a government service center that offer civil services related to Ministry of Interior, Ministry of Foreign Affairs, Public Authority For Civil Information, Ministry of Justice, Public Institution for Social Security, Ministry of Commerce and Industry, Fire Service Directorate, and Ministry of Social Affairs and Labour.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Liberation_Tower_by_twilight.jpg",
+        "url": "https://en.wikipedia.org/wiki/Liberation_Tower_(Kuwait)"
+      }
     }
   ],
   "head_of_state": "His Highness Sheikh Nawaf Al-Ahmad Al-Jaber Al-Sabah (Emir)",

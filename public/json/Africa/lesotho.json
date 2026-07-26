@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Thaba Bosiu",
-      "writeup": "A sandstone plateau that served as a fortress and the birthplace of the Basotho nation."
+      "writeup": "A sandstone plateau that served as a fortress and the birthplace of the Basotho nation.",
+      "wiki": {
+        "extract": "Thaba Bosiu is a constituency and sandstone plateau with an area of approximately 2 km2 (0.77 sq mi) and a height of 1,804 meters above sea level. It is located between the Orange and Caledon Rivers in the Maseru District of Lesotho, 24 km east of the country's capital Maseru. It was once the capital of Lesotho, having been King Moshoeshoe's stronghold.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/685_Thaba_Bosiu.jpg",
+        "url": "https://en.wikipedia.org/wiki/Thaba_Bosiu"
+      }
     },
     {
       "name": "Katse Dam",
-      "writeup": "One of the largest dams in Africa, crucial for water supply and hydroelectric power."
+      "writeup": "One of the largest dams in Africa, crucial for water supply and hydroelectric power.",
+      "wiki": {
+        "extract": "The Katse Dam, a concrete arch dam on the Malibamatšo River in Lesotho, is Africa's second largest double-curvature arch dam after the Tekezé Dam in Ethiopia. Located just below the confluence of the Bokong River, which forms the western arm of the Katse reservoir, the dam is part of a larger project which will eventually include five large dams in remote rural areas.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Katse_Dam.jpg/3840px-Katse_Dam.jpg",
+        "url": "https://en.wikipedia.org/wiki/Katse_Dam"
+      }
     },
     {
       "name": "Sehlabathebe National Park",
-      "writeup": "A UNESCO World Heritage site known for its unique biodiversity and rock art."
+      "writeup": "A UNESCO World Heritage site known for its unique biodiversity and rock art.",
+      "wiki": {
+        "extract": "The Sehlabathebe National Park is located in the Maloti Mountains in Qacha's Nek District, Lesotho and is part of the Maloti-Drakensberg World Heritage Site. The park was first established on 8 May 1969 and since then, is recognised as important in terms of biological diversity and cultural heritage. The landscape is dominated by grasslands of various types. The larger ecosystem functions provide freshwater to Lesotho, South Africa, and Namibia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Early_Morning_view_from_Sehlabathebe_House_-_panoramio.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sehlabathebe_National_Park"
+      }
     }
   ],
   "head_of_state": "King Letsie III",

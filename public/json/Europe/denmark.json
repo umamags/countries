@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "The Little Mermaid",
-      "writeup": "A famous bronze statue in Copenhagen inspired by Hans Christian Andersen's fairy tale."
+      "writeup": "A famous bronze statue in Copenhagen inspired by Hans Christian Andersen's fairy tale.",
+      "wiki": {
+        "extract": "The Little Mermaid is a bronze statue by Edvard Eriksen, depicting a mermaid becoming human. The sculpture is displayed on a rock by the waterside at the Langelinie promenade in Copenhagen, Denmark. It is 1.25 metres (4.1 ft) tall and weighs 175 kilograms (385 lb).",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Copenhagen_-_the_little_mermaid_statue_-_2013.jpg",
+        "url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)"
+      }
     },
     {
       "name": "Tivoli Gardens",
-      "writeup": "One of the world's oldest amusement parks located in the heart of Copenhagen."
+      "writeup": "One of the world's oldest amusement parks located in the heart of Copenhagen.",
+      "wiki": {
+        "extract": "Tivoli Gardens, also known simply as Tivoli, is an amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tivoli_Gardens_4.jpg/3840px-Tivoli_Gardens_4.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tivoli_Gardens"
+      }
     },
     {
       "name": "Kronborg Castle",
-      "writeup": "A Renaissance castle in Helsingør, known as the setting of Shakespeare's Hamlet."
+      "writeup": "A Renaissance castle in Helsingør, known as the setting of Shakespeare's Hamlet.",
+      "wiki": {
+        "extract": "Kronborg is a castle and historical stronghold in the town of Helsingør, Denmark. Immortalised as Elsinore in William Shakespeare's play Hamlet, Kronborg is one of the most important Renaissance castles in Northern Europe. It was inscribed on the UNESCO World Heritage List in 2000.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kronborg_002.JPG",
+        "url": "https://en.wikipedia.org/wiki/Kronborg"
+      }
     },
     {
       "name": "Roskilde Cathedral",
-      "writeup": "A UNESCO World Heritage site and burial place of Danish monarchs."
+      "writeup": "A UNESCO World Heritage site and burial place of Danish monarchs.",
+      "wiki": {
+        "extract": "Roskilde Cathedral, in the city of Roskilde on the island of Zealand (Sjælland) in eastern Denmark, is a cathedral of the Lutheran Church of Denmark.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Roskilde_Cathedral_aerial_crop.jpg",
+        "url": "https://en.wikipedia.org/wiki/Roskilde_Cathedral"
+      }
     },
     {
       "name": "Nyhavn",
-      "writeup": "A 17th-century waterfront, canal and entertainment district in Copenhagen."
+      "writeup": "A 17th-century waterfront, canal and entertainment district in Copenhagen.",
+      "wiki": {
+        "extract": "Nyhavn is a 17th-century waterfront, canal and entertainment district in Copenhagen, Denmark. Stretching from Kongens Nytorv to the Inner Harbour just south of the Royal Playhouse, it is lined by brightly coloured 17th and early 18th century townhouses and bars, cafes and restaurants. The canal harbours many historical wooden ships.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Nyhavn_Canal_3.jpg/3840px-The_Nyhavn_Canal_3.jpg",
+        "url": "https://en.wikipedia.org/wiki/Nyhavn"
+      }
     }
   ],
   "head_of_state": "Queen Margrethe II",

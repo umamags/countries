@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Cliffs of Moher",
-      "writeup": "Dramatic sea cliffs on the west coast offering stunning views over the Atlantic Ocean."
+      "writeup": "Dramatic sea cliffs on the west coast offering stunning views over the Atlantic Ocean.",
+      "wiki": {
+        "extract": "The Cliffs of Moher are sea cliffs located at the southwestern edge of the Burren region in County Clare, Ireland. They run for about 14 kilometres. At their southern end, they rise 120 metres (390 ft) above the Atlantic Ocean at Hag's Head, and, 8 kilometres to the north, they reach their maximum height of 214 metres (702 ft) just north of O'Brien's Tower, a round stone tower near the midpoint of the cliffs, built in 1835 by Sir Cornelius O'Brien, then continue at lower heights. The closest settlements are the villages of Liscannor 6 km to the south, and Doolin 7 km to the north.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cliffs-Of-Moher-OBriens-From-South.JPG/3840px-Cliffs-Of-Moher-OBriens-From-South.JPG",
+        "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher"
+      }
     },
     {
       "name": "Trinity College and The Book of Kells",
-      "writeup": "Historic university in Dublin housing the illuminated manuscript, the Book of Kells."
+      "writeup": "Historic university in Dublin housing the illuminated manuscript, the Book of Kells.",
+      "wiki": {
+        "extract": "The Book of Kells is an illustrated manuscript and Celtic Gospel book in Latin, containing the four Gospels of the New Testament together with various prefatory texts and tables. It was created in a Columban monastery in Scotland, and may have had contributions from various Columban institutions from Scotland and Ireland. It is believed to have been created c. 800 AD. The text of the Gospels is largely drawn from the Vulgate, although it also includes several passages drawn from the earlier versions of the Bible known as the Vetus Latina. It is regarded as a masterwork of Western calligraphy and the pinnacle of Insular illumination. The manuscript takes its name from the Abbey of Kells, County Meath, which was its home for centuries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg",
+        "url": "https://en.wikipedia.org/wiki/Book_of_Kells"
+      }
     },
     {
       "name": "Guinness Storehouse",
-      "writeup": "Famous brewery in Dublin showcasing the history and production of Guinness beer."
+      "writeup": "Famous brewery in Dublin showcasing the history and production of Guinness beer.",
+      "wiki": {
+        "extract": "Guinness Storehouse is a tourist attraction at St. James's Gate Brewery in Dublin, Ireland. Since opening in 2000, it has received over twenty million visitors.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Guinness_Storehouse_exterior_3.jpg/3840px-Guinness_Storehouse_exterior_3.jpg",
+        "url": "https://en.wikipedia.org/wiki/Guinness_Storehouse"
+      }
     },
     {
       "name": "Ring of Kerry",
-      "writeup": "Scenic circular tourist route in County Kerry featuring mountains, lakes, and coastal views."
+      "writeup": "Scenic circular tourist route in County Kerry featuring mountains, lakes, and coastal views.",
+      "wiki": {
+        "extract": "The Ring of Kerry is a 179-kilometre-long (111-mile) circular tourist route in County Kerry, south-western Ireland. Clockwise from Killarney it follows the N71 to Kenmare, then the N70 around the Iveragh Peninsula to Killorglin – passing through Sneem, Waterville, Cahersiveen, and Glenbeigh – before returning to Killarney via the N72.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Atlantic_Ocean%2C_Ring_of_Kerry_%28506559%29_%2827964189752%29.jpg/3840px-Atlantic_Ocean%2C_Ring_of_Kerry_%28506559%29_%2827964189752%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ring_of_Kerry"
+      }
     },
     {
       "name": "Newgrange",
-      "writeup": "Ancient passage tomb older than Stonehenge and the Egyptian pyramids, located in County Meath."
+      "writeup": "Ancient passage tomb older than Stonehenge and the Egyptian pyramids, located in County Meath.",
+      "wiki": {
+        "extract": "Newgrange is a prehistoric monument in County Meath in Ireland, placed on a rise overlooking the River Boyne, eight kilometres west of the town of Drogheda. It is an exceptionally grand passage tomb built during the Neolithic Period, around 3100 BC, making it older than Stonehenge and the Egyptian pyramids. Newgrange is the main monument in the Brú na Bóinne complex, a World Heritage Site that also includes the passage tombs of Knowth and Dowth, as well as other henges, burial mounds and standing stones.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irelands_history.jpg",
+        "url": "https://en.wikipedia.org/wiki/Newgrange"
+      }
     }
   ],
   "head_of_state": "President Michael D. Higgins",

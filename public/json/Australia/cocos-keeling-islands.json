@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Home Island",
-      "writeup": "One of the two inhabited islands, known for its traditional Cocos Malay community and cultural heritage."
+      "writeup": "One of the two inhabited islands, known for its traditional Cocos Malay community and cultural heritage.",
+      "wiki": {
+        "extract": "The Cocos (Keeling) Islands, officially the Territory of Cocos (Keeling) Islands, are an Australian external territory located in the Indian Ocean, comprising a small archipelago approximately midway between Australia and Sri Lanka and relatively close to the Indonesian island of Sumatra. The territory's dual name reflects that the islands have historically been known as either the Cocos Islands or the Keeling Islands, the latter of which is still a common short name.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/500px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands"
+      }
     },
     {
       "name": "Direction Island",
-      "writeup": "Famous for its natural beauty, coral reefs, and as a popular spot for snorkeling and diving."
+      "writeup": "Famous for its natural beauty, coral reefs, and as a popular spot for snorkeling and diving.",
+      "wiki": {
+        "extract": "West Island, part of the South Keeling Islands, is the capital of the Cocos (Keeling) Islands, an Australian external territory in the Indian Ocean. The population is roughly 120, making it the third smallest capital in the world, and consists mainly of Europeans. It is less populous than Home Island, the only other inhabited island.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cocos_%28Keeling%29_Islands_%2832206670676%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands"
+      }
     },
     {
       "name": "West Island",
-      "writeup": "The administrative center of the territory, hosting government offices and the airport."
+      "writeup": "The administrative center of the territory, hosting government offices and the airport.",
+      "wiki": {
+        "extract": "West Island, part of the South Keeling Islands, is the capital of the Cocos (Keeling) Islands, an Australian external territory in the Indian Ocean. The population is roughly 120, making it the third smallest capital in the world, and consists mainly of Europeans. It is less populous than Home Island, the only other inhabited island.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cocos_%28Keeling%29_Islands_%2832206670676%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands"
+      }
     }
   ],
   "head_of_state": "King Charles III (represented by an Administrator)",

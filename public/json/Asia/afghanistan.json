@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Minaret of Jam",
-      "writeup": "A UNESCO World Heritage site, this 12th-century minaret is notable for its intricate brickwork and historical significance."
+      "writeup": "A UNESCO World Heritage site, this 12th-century minaret is notable for its intricate brickwork and historical significance.",
+      "wiki": {
+        "extract": "The Minaret of Jam is a UNESCO World Heritage Site in western Afghanistan. It is located in a remote and nearly inaccessible region of Shahrak District, Ghor Province, between the Jam and Hari Rivers. The 62 m (203 ft) or 65 m (213 ft) high minaret was built c. 1190, entirely of baked bricks, and is famous for its intricate brick, stucco and glazed tile decoration, which consists of alternating bands of Kufic and Naskhi calligraphy, geometric patterns, and verses from the Qur'an. Since 2002, the minaret has remained on the list of World Heritage in Danger, under serious threat of erosion, and has not been actively preserved. In 2014, the BBC reported that the tower was in imminent danger of collapse.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jam_afghan_architecture_harirud_brick.jpg",
+        "url": "https://en.wikipedia.org/wiki/Minaret_of_Jam"
+      }
     },
     {
       "name": "Bamiyan Buddhas (site)",
-      "writeup": "Once home to giant Buddha statues carved into cliffs, destroyed in 2001, the site remains culturally and historically important."
+      "writeup": "Once home to giant Buddha statues carved into cliffs, destroyed in 2001, the site remains culturally and historically important.",
+      "wiki": {
+        "extract": "The Buddhas of Bamiyan were two monumental Buddhist reliefs in the Bamiyan Valley of Afghanistan, carved possibly around the 6th-century. Located 130 kilometres (81 mi) to the northwest of Kabul, at an elevation of 2,500 metres (8,200 ft), carbon dating of the structural components of the Buddhas has determined the smaller 38 m (125 ft) \"Eastern Buddha\" was built around 570 CE, and the larger 55 m (180 ft) \"Western Buddha\" was built around 618 CE, which would date both to the time when the Hephthalites ruled the region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Buddha_of_Bamiyan.jpg",
+        "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan"
+      }
     },
     {
       "name": "Band-e Amir National Park",
-      "writeup": "Afghanistan's first national park, known for its stunning series of deep blue lakes separated by natural dams."
+      "writeup": "Afghanistan's first national park, known for its stunning series of deep blue lakes separated by natural dams.",
+      "wiki": {
+        "extract": "Band-e Amir National Park is located in the central Bamyan Province of Afghanistan. It was established on 22 May 2009 as Afghanistan's first national park to promote and protect the natural beauty of a series of intensely blue lakes created by natural dams high in the Hindu Kush. Band-e-Amir is a chain of six lakes in the southern mountainous desert area of the national park. The Balkh River originates here and flows to Balkh Province in the north.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Afghanistan%27s_Grand_Canyon.jpg",
+        "url": "https://en.wikipedia.org/wiki/Band-e_Amir_National_Park"
+      }
     }
   ],
   "head_of_state": "Supreme Leader Hibatullah Akhundzada",

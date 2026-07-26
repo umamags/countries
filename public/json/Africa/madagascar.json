@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Avenue of the Baobabs",
-      "writeup": "A famous dirt road lined with towering baobab trees, iconic for its unique landscape and sunset views."
+      "writeup": "A famous dirt road lined with towering baobab trees, iconic for its unique landscape and sunset views.",
+      "wiki": {
+        "extract": "The Avenue of the Baobabs, or Alley of the Baobabs, is a prominent group of Grandidier's baobabs lining the unpaved Road No.8 between Morondava and Belon'i Tsiribihina in the Menabe region of western Madagascar. Its striking landscape draws travelers from around the world, making it one of the most visited locations in the region. It has been a center of local conservation efforts, and was granted temporary protected status in July 2007 by the Ministry of Environment, Water and Forestry – a step toward making it Madagascar's first natural monument.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Adansonia_grandidieri_Pat_Hooper.jpg",
+        "url": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs"
+      }
     },
     {
       "name": "Tsingy de Bemaraha National Park",
-      "writeup": "A UNESCO World Heritage site known for its limestone karst formations and rich biodiversity."
+      "writeup": "A UNESCO World Heritage site known for its limestone karst formations and rich biodiversity.",
+      "wiki": {
+        "extract": "The Tsingy de Bemaraha National Park is a national park located in northwest Madagascar. It is mainly within the boundaries of Antsalova District, with a small part in the northeast falling within Morafenobe District. The national park centers on two geological formations: the Great Tsingy and the Little Tsingy. Together with the adjacent Tsingy de Bemaraha Strict Nature Reserve, the National Park is a UNESCO World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsingy_de_Bemaraha.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tsingy_de_Bemaraha_National_Park"
+      }
     },
     {
       "name": "Ranomafana National Park",
-      "writeup": "A rainforest park home to rare lemurs and diverse flora and fauna."
+      "writeup": "A rainforest park home to rare lemurs and diverse flora and fauna.",
+      "wiki": {
+        "extract": "Ranomafana National Park is a national park in southeastern Madagascar, in the Haute Matsiatra and Vatovavy regions. It was established as Madagascar's fourth national park in 1991 following the rediscovery of the greater bamboo lemur and the discovery of the golden bamboo lemur by the primatologist Dr. Patricia Wright.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sign_At_Entrance_To_Ranomafana_National_Park.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ranomafana_National_Park"
+      }
     }
   ],
   "head_of_state": "President Andry Rajoelina",

@@ -13,19 +13,39 @@
   "landmarks": [
     {
       "name": "Kalandula Falls",
-      "writeup": "One of the largest waterfalls in Africa, located on the Lucala River, known for its impressive width and scenic beauty."
+      "writeup": "One of the largest waterfalls in Africa, located on the Lucala River, known for its impressive width and scenic beauty.",
+      "wiki": {
+        "extract": "Kalandula Falls or Calandula Falls are waterfalls in the municipality of Calandula, Malanje Province, Angola. On the Lucala River, the falls are 105 meters high and 400 meters wide. They are one of the largest waterfalls by volume in Africa. The distance from Luanda is 360 km (220 mi).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG",
+        "url": "https://en.wikipedia.org/wiki/Kalandula_Falls"
+      }
     },
     {
       "name": "Fortress of São Miguel",
-      "writeup": "A historic fort in Luanda built by the Portuguese in the 16th century, now housing the Museum of the Armed Forces."
+      "writeup": "A historic fort in Luanda built by the Portuguese in the 16th century, now housing the Museum of the Armed Forces.",
+      "wiki": {
+        "extract": "Fortaleza de São Miguel or Saint Michael Fortress was a Portuguese fortress built in 1576 in the Ingombota District of Luanda, Angola. During Dutch rule in Angola between 1641 and 1648, the fort was known as Fort Aardenburgh.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luanda-SMiguelFort2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel"
+      }
     },
     {
       "name": "Iona National Park",
-      "writeup": "Angola's largest national park, featuring diverse wildlife and unique desert landscapes."
+      "writeup": "Angola's largest national park, featuring diverse wildlife and unique desert landscapes.",
+      "wiki": {
+        "extract": "Iona National Park is the largest and oldest national park in Angola. It is situated in the Southwestern corner of the country, in Namibe Province. It is roughly bound by the Atlantic Ocean to the West, an escarpment to the East that marks the beginning of the interior plateau, the Curoca River to the North, and the Cunene River to the South. It is about 200 kilometres (120 mi) south of the city of Namibe and covers 5,850 square miles (15,200 km2) sq. miles.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Imbondeiro_Tree.jpg",
+        "url": "https://en.wikipedia.org/wiki/Iona_National_Park"
+      }
     },
     {
       "name": "Mussulo Island",
-      "writeup": "A popular beach destination near Luanda, known for its sandy beaches and resorts."
+      "writeup": "A popular beach destination near Luanda, known for its sandy beaches and resorts.",
+      "wiki": {
+        "extract": "Mussulo is a peninsula located in south of Luanda Province, Angola. It was part of the municipality of Mussulo, province of Luanda, but was later made a municipality. It is actually a spit created by sediments from the Cuanza River, moved north by the Benguela Current. It is about 30 km long, at most 3 km wide, and at the narrowest parts in the south of the peninsula, less than 100 metres.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mussulo%2C_Angola.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mussulo"
+      }
     }
   ],
   "head_of_state": "President João Lourenço",

@@ -10,15 +10,30 @@
   "landmarks": [
     {
       "name": "Al-Aqsa Mosque",
-      "writeup": "A significant Islamic holy site located in the Old City of Jerusalem, revered in Islam as the third holiest site."
+      "writeup": "A significant Islamic holy site located in the Old City of Jerusalem, revered in Islam as the third holiest site.",
+      "wiki": {
+        "extract": "The Aqsa Mosque, also known as the Qibli Mosque or Qibli Chapel, is the main congregational mosque or prayer hall in the Al-Aqsa mosque compound in the Old City of Jerusalem. In some sources the building is also named al-Masjid al-Aqṣā, but this name primarily applies to the wider compound in which the building sits, which is itself also known as \"Al-Aqsa Mosque\", \"Al-Aqsa\" or \"Haram al-Sharif\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg/3840px-Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Al-Aqsa_Mosque"
+      }
     },
     {
       "name": "Church of the Nativity",
-      "writeup": "Located in Bethlehem, it is traditionally considered the birthplace of Jesus Christ and a major Christian pilgrimage destination."
+      "writeup": "Located in Bethlehem, it is traditionally considered the birthplace of Jesus Christ and a major Christian pilgrimage destination.",
+      "wiki": {
+        "extract": "The Church of the Nativity, or Basilica of the Nativity, is a basilica located in Bethlehem, West Bank, Palestine. The grotto holds a prominent religious significance to Christians of various denominations as the birthplace of Jesus. The grotto is the oldest site continuously used as a place of worship in Christianity, and the basilica is the oldest major church in the Holy Land.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/3840px-Church_of_the_Nativity_%287703592746%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Nativity"
+      }
     },
     {
       "name": "Hisham's Palace",
-      "writeup": "An archaeological site near Jericho featuring Umayyad-era ruins and mosaics."
+      "writeup": "An archaeological site near Jericho featuring Umayyad-era ruins and mosaics.",
+      "wiki": {
+        "extract": "Hisham's Palace, also known as Khirbat al-Mafjar, is an important early Islamic archaeological site in the city of Jericho, in the West Bank in Palestine. Built by the Umayyad dynasty in the first half of the 8th century, it is one of the so-called Umayyad desert castles. It is located 3 kilometres (2 mi) north of Jericho's city center, in an area governed by the Palestinian National Authority (PNA). The palace was used until the 11th century, and it may have been destroyed by an earthquake in 1033.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hisham_Palace_in_Jericho2.jpg/3840px-Hisham_Palace_in_Jericho2.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hisham's_Palace"
+      }
     }
   ],
   "head_of_state": "Mahmoud Abbas (President of the State of Palestine and Palestinian National Authority)",

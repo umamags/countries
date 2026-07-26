@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Iguazu Falls",
-      "writeup": "One of the largest and most spectacular waterfall systems in the world, located on the border with Brazil."
+      "writeup": "One of the largest and most spectacular waterfall systems in the world, located on the border with Brazil.",
+      "wiki": {
+        "extract": "Puerto Iguazú is a border city in the province of Misiones, Argentina. With a population of 82,227 ,\nit is the fourth largest city in the Province, after Posadas, Oberá, and Eldorado.\nThe Iguazú Falls are 18 kilometres (11 mi) away from the city, and as a result the city has developed much of its infrastructure around tourism.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Puerto_Iguazu%2C_Misiones%2C_Argentina%2C_6th._Jan._2011_-_Flickr_-_PhillipC.jpg/3840px-Downtown_Puerto_Iguazu%2C_Misiones%2C_Argentina%2C_6th._Jan._2011_-_Flickr_-_PhillipC.jpg",
+        "url": "https://en.wikipedia.org/wiki/Puerto_Iguaz%C3%BA"
+      }
     },
     {
       "name": "Perito Moreno Glacier",
-      "writeup": "A massive glacier in Patagonia known for its dynamic ice ruptures and stunning blue ice formations."
+      "writeup": "A massive glacier in Patagonia known for its dynamic ice ruptures and stunning blue ice formations.",
+      "wiki": {
+        "extract": "The Perito Moreno, Francisco Gormaz or Bismarck Glacier is a glacier located in Los Glaciares National Park in southwest Santa Cruz Province, Argentina, and originated in the Magallanes Region in Chile, being also part of the Bernardo O'Higgins National Park. It is one of the most important tourist attractions in the Argentine Patagonia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Perito_Moreno_Glacier_2023.jpg/3840px-Perito_Moreno_Glacier_2023.jpg",
+        "url": "https://en.wikipedia.org/wiki/Perito_Moreno_Glacier"
+      }
     },
     {
       "name": "Casa Rosada",
-      "writeup": "The executive mansion and office of the President of Argentina, located in Buenos Aires."
+      "writeup": "The executive mansion and office of the President of Argentina, located in Buenos Aires.",
+      "wiki": {
+        "extract": "The Casa Rosada, lit. 'the pink house', is the president of the Argentine Republic's official workplace, located in Buenos Aires. The palatial mansion is known officially as Casa de Gobierno. Normally, the president lives at the Quinta de Olivos, the president of Argentina's official residence, located in Olivos, Greater Buenos Aires. The characteristic color of the Casa Rosada is baby pink, and it is considered one of the most emblematic buildings in Buenos Aires. The building also houses a museum, which contains objects relating to former presidents of Argentina. It has been declared a National Historic Monument of Argentina.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/3840px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG",
+        "url": "https://en.wikipedia.org/wiki/Casa_Rosada"
+      }
     },
     {
       "name": "La Boca",
-      "writeup": "A colorful neighborhood in Buenos Aires famous for its vibrant street art and tango culture."
+      "writeup": "A colorful neighborhood in Buenos Aires famous for its vibrant street art and tango culture.",
+      "wiki": {
+        "extract": "La Boca is a neighborhood (barrio) of Buenos Aires, the capital of Argentina.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LaBoca_ST_98.jpg",
+        "url": "https://en.wikipedia.org/wiki/La_Boca"
+      }
     },
     {
       "name": "Aconcagua",
-      "writeup": "The highest mountain in the Americas, located in the Andes mountain range."
+      "writeup": "The highest mountain in the Americas, located in the Andes mountain range.",
+      "wiki": {
+        "extract": "Aconcagua is a mountain in the Principal Cordillera of the Andes range, located in Mendoza Province, Argentina. With a summit elevation of 6,967.15 metres, it is the highest mountain in the Americas, the highest outside Asia, and the highest peak in both the Western and Southern Hemispheres. It is the second-most topographically prominent peak in the world and one of the Seven Summits, the highest mountains on each of the seven continents.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/3840px-Aconcagua2016.jpg",
+        "url": "https://en.wikipedia.org/wiki/Aconcagua"
+      }
     }
   ],
   "head_of_state": "President Alberto Fernández",

@@ -12,23 +12,48 @@
   "landmarks": [
     {
       "name": "Le Morne Brabant",
-      "writeup": "A UNESCO World Heritage site, this mountain is a symbol of resistance against slavery."
+      "writeup": "A UNESCO World Heritage site, this mountain is a symbol of resistance against slavery.",
+      "wiki": {
+        "extract": "Le Morne Brabant is a peninsula at the extreme southwestern tip of the Indian Ocean island of Mauritius. On it is a basaltic monolith of the same name 556 metres high. Its summit covers an area of over 12 hectares. There are many caves and overhangs on the steep slopes. It is largely surrounded by a lagoon and is a well known tourist attraction. It is also a refuge for two rare plants, the Mandrinette and the Boucle d'Oreille. The peninsula of Le Morne benefits from a micro-climate. The mountain is named after the Dutch East India Company ship Brabant that ran aground here on 29 December 1783.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg/3840px-Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Le_Morne_Brabant"
+      }
     },
     {
       "name": "Black River Gorges National Park",
-      "writeup": "A large national park known for its biodiversity and hiking trails."
+      "writeup": "A large national park known for its biodiversity and hiking trails.",
+      "wiki": {
+        "extract": "Black River Gorges National Park is a national park located in the mountainous south-western region of Mauritius. It is the largest protected area on the island and was officially proclaimed on 15 June 1994. The park is managed by the National Parks and Conservation Service (Mauritius) and plays an important role in protecting the remaining native forests and endangered species of Mauritius.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Black_River_Gorges_National_Park_IMG_0912.jpg/3840px-Black_River_Gorges_National_Park_IMG_0912.jpg",
+        "url": "https://en.wikipedia.org/wiki/Black_River_Gorges_National_Park"
+      }
     },
     {
       "name": "Aapravasi Ghat",
-      "writeup": "A historic site where indentured laborers first arrived, now a UNESCO World Heritage site."
+      "writeup": "A historic site where indentured laborers first arrived, now a UNESCO World Heritage site.",
+      "wiki": {
+        "extract": "Aapravasi Ghat is a building complex located in Port Louis, Mauritius, the first British colony to receive indentured, or contracted, labour workforce from many countries. From 1849 to 1923, half a million Indian indentured labourers passed through the Immigration Depot, to be transported to plantations throughout the British Empire. The large-scale migration of the labourers left an indelible mark on the societies of many former British colonies, with Indians constituting a substantial proportion of their national populations. In Mauritius alone, 68 percent of the current total population is of Indian ancestry. The Immigration Depot has thus become an important reference point in the history and cultural identity of Mauritius.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aapravasi_Ghat_Museum%2C_Mauritius_%2841%29.jpg/3840px-Aapravasi_Ghat_Museum%2C_Mauritius_%2841%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Aapravasi_Ghat"
+      }
     },
     {
       "name": "Chamarel Seven Colored Earths",
-      "writeup": "A natural phenomenon featuring sand dunes with seven distinct colors."
+      "writeup": "A natural phenomenon featuring sand dunes with seven distinct colors.",
+      "wiki": {
+        "extract": "The Seven Coloured Earths are a geological formation and prominent tourist attraction found in the Chamarel plain of the Rivière Noire District in south-western Mauritius. It is a relatively small area of sand dunes comprising sand of seven distinct colours. The main feature of the place is that since these differently coloured sands spontaneously settle in different layers, dunes acquire a surrealistic, striped colouring. Since the earth was first exposed, rains have carved beautiful patterns into the hillside, creating an effect of earthen meringue.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Seven_Coloured_Earths_Geopark_in_Chamarel%2C_Mauritius_%2853697998768%29.jpg/3840px-Seven_Coloured_Earths_Geopark_in_Chamarel%2C_Mauritius_%2853697998768%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Seven_Coloured_Earths"
+      }
     },
     {
       "name": "Pamplemousses Botanical Garden",
-      "writeup": "One of the oldest botanical gardens in the Southern Hemisphere, famous for giant water lilies."
+      "writeup": "One of the oldest botanical gardens in the Southern Hemisphere, famous for giant water lilies.",
+      "wiki": {
+        "extract": "The Sir Seewoosagur Ramgoolam Botanic Garden, commonly known as the Pamplemousses Botanic Garden, is a popular tourist attraction in Pamplemousses, near Port Louis, Mauritius, and the oldest botanical garden in the Southern Hemisphere. Famous for its long pond of giant water lilies, the garden, first constructed by Pierre Poivre in 1770, covers an area of around 37 hectares.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Giant_water_lilies.JPG",
+        "url": "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden"
+      }
     }
   ],
   "head_of_state": "President Prithvirajsing Roopun",

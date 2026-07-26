@@ -13,23 +13,48 @@
   "landmarks": [
     {
       "name": "Tikal",
-      "writeup": "An ancient Mayan city in the rainforests of northern Guatemala, known for its towering pyramids and rich archaeological significance."
+      "writeup": "An ancient Mayan city in the rainforests of northern Guatemala, known for its towering pyramids and rich archaeological significance.",
+      "wiki": {
+        "extract": "Tikal is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization. It is located in the archaeological region of the Petén Basin in what is now the Petén Department in northern Guatemala. The site is part of Guatemala's Tikal National Park, which was declared a UNESCO World Heritage Site in 1979.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tikal_3.jpg",
+        "url": "https://en.wikipedia.org/wiki/Tikal"
+      }
     },
     {
       "name": "Antigua Guatemala",
-      "writeup": "A well-preserved colonial city famous for its Spanish Baroque-influenced architecture and vibrant cultural festivals."
+      "writeup": "A well-preserved colonial city famous for its Spanish Baroque-influenced architecture and vibrant cultural festivals.",
+      "wiki": {
+        "extract": "Guatemala, officially the Republic of Guatemala, is a country in northern Central America. It is bordered to the north and west by Mexico, to the northeast by Belize, to the east by Honduras, and to the southeast by El Salvador. It is bounded by the Pacific Ocean to the south and the Gulf of Honduras to the northeast.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/960px-Flag_of_Guatemala.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Guatemala"
+      }
     },
     {
       "name": "Lake Atitlán",
-      "writeup": "A scenic volcanic lake surrounded by traditional Mayan villages and volcanoes, popular for its natural beauty and cultural experiences."
+      "writeup": "A scenic volcanic lake surrounded by traditional Mayan villages and volcanoes, popular for its natural beauty and cultural experiences.",
+      "wiki": {
+        "extract": "Lake Atitlán is a large natural lake in the Guatemalan Highlands of the Sierra Madre mountain range. The lake is located in the Sololá Department of southwestern Guatemala. With a maximum depth of 340 metres (1,120 ft), it is the deepest lake in Central America.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lago_de_Atitlan_seen_from_orbit.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n"
+      }
     },
     {
       "name": "Semuc Champey",
-      "writeup": "A natural limestone bridge with turquoise pools, located in a lush jungle setting, ideal for swimming and hiking."
+      "writeup": "A natural limestone bridge with turquoise pools, located in a lush jungle setting, ideal for swimming and hiking.",
+      "wiki": {
+        "extract": "Semuc Champey is a natural enclave in the department of Alta Verapaz, Guatemala, near the Q'eqchi' Maya town of Lanquín. It consists of a natural 300 metres (980 ft) limestone bridge, under which passes the Cahabón River. Atop the bridge is a series of stepped, turquoise pools, a popular swimming attraction.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Semuc_Champey%2C_Guatemala.jpg/3840px-Semuc_Champey%2C_Guatemala.jpg",
+        "url": "https://en.wikipedia.org/wiki/Semuc_Champey"
+      }
     },
     {
       "name": "Pacaya Volcano",
-      "writeup": "An active volcano near Guatemala City, offering hiking opportunities and views of lava flows."
+      "writeup": "An active volcano near Guatemala City, offering hiking opportunities and views of lava flows.",
+      "wiki": {
+        "extract": "Pacaya is an active complex volcano in Guatemala, which first erupted approximately 23,000 years ago and has erupted at least 23 times since the Spanish conquest of Guatemala. It rises to an elevation of 2,552 metres (8,373 ft). After being dormant for over 70 years, it began erupting vigorously in 1961 and has been erupting frequently since then. Much of its activity is Strombolian, but occasionally Plinian eruptions also occur, sometimes showering the area of the nearby Departments with ash.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Pacaya_erupting_in_1976.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pacaya"
+      }
     }
   ],
   "head_of_state": "President Alejandro Giammattei",

@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Lake Ohrid",
-      "writeup": "One of Europe's oldest and deepest lakes, known for its biodiversity and UNESCO World Heritage status."
+      "writeup": "One of Europe's oldest and deepest lakes, known for its biodiversity and UNESCO World Heritage status.",
+      "wiki": {
+        "extract": "Lake Ohrid is a lake which straddles the mountainous border between the southwestern part of North Macedonia and eastern Albania. It is one of Europe's deepest and oldest lakes, with a unique aquatic ecosystem of worldwide importance, with more than 200 endemic species.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lake_Ohrid%2C_Macedonia-Albania_viewed_from_a_NASA_satellite.jpg",
+        "url": "https://en.wikipedia.org/wiki/Lake_Ohrid"
+      }
     },
     {
       "name": "Skopje Fortress (Kale)",
-      "writeup": "Historic fortress overlooking the capital city, dating back to the 6th century."
+      "writeup": "Historic fortress overlooking the capital city, dating back to the 6th century.",
+      "wiki": {
+        "extract": "The Skopje Fortress, commonly referred to as Kale, is a historic fortress located in the old town of Skopje, the capital of North Macedonia. It is located in Centar municipality and situated on the highest point in the city overlooking the Vardar River. The fortress is depicted on the coat of arms of Skopje, which in turn is incorporated in the city's flag.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/KaleFortress-Skopje1.JPG",
+        "url": "https://en.wikipedia.org/wiki/Skopje_Fortress"
+      }
     },
     {
       "name": "St. Jovan Bigorski Monastery",
-      "writeup": "An important Orthodox monastery renowned for its woodcarvings and religious significance."
+      "writeup": "An important Orthodox monastery renowned for its woodcarvings and religious significance.",
+      "wiki": {
+        "extract": "The Monastery of Saint Jovan Bigorski is a Macedonian Orthodox monastery located in western North Macedonia, near the road connecting the towns of Debar and Gostivar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saint_Jovan_Bigorski_Monastery"
+      }
     },
     {
       "name": "Stone Bridge",
-      "writeup": "Iconic Ottoman-era bridge connecting the old and new parts of Skopje."
+      "writeup": "Iconic Ottoman-era bridge connecting the old and new parts of Skopje.",
+      "wiki": {
+        "extract": "The Stone Bridge is a bridge across the Vardar River in Skopje, the capital of North Macedonia, built by Sultan Mehmed the Conqueror.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/08_Skopje.jpg/3840px-08_Skopje.jpg",
+        "url": "https://en.wikipedia.org/wiki/Stone_Bridge_(Skopje)"
+      }
     },
     {
       "name": "Mavrovo National Park",
-      "writeup": "A large national park known for its mountains, forests, and winter sports facilities."
+      "writeup": "A large national park known for its mountains, forests, and winter sports facilities.",
+      "wiki": {
+        "extract": "Mavrovo National Park is the largest of the four national parks of North Macedonia, within the borders of the municipality of Mavrovo and Rostuse. Located in the west of the country, it spreads over an area of about 780 km2 and is characterized by deep canyons, lakes, and dense forests that abound with diverse wildlife. It was established in 1949 by a law passed by the National Assembly of Socialist Republic of Macedonia; later the legislation was changed to enforce a much stricter protection system, dividing the park into three zones: strict nature reserves, managed reserves, and a tourist zone.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/%D0%9C%D0%B0%D0%B2%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE_%D0%B5%D0%B7%D0%B5%D1%80%D0%BE.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mavrovo_National_Park"
+      }
     }
   ],
   "head_of_state": "Stevo Pendarovski (President)",

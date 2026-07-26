@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Mount Nimba Strict Nature Reserve",
-      "writeup": "A UNESCO World Heritage site known for its rich biodiversity and unique mountain ecosystem."
+      "writeup": "A UNESCO World Heritage site known for its rich biodiversity and unique mountain ecosystem.",
+      "wiki": {
+        "extract": "Mount Nimba Strict Nature Reserve is a protected area and UNESCO World Heritage Site located in both Guinea and Côte d'Ivoire, extending over a total of area of 175.4 km2, with 125.4 km2 in Guinea, and 50 km2 in Côte d'Ivoire. The reserve covers significant portions of the Nimba Range, a geographically unique area with unusually rich flora and fauna, including exceptional numbers of single-site endemic species, such as Nimbaphrynoides, the Nimba otter shrew, and multiple species of horseshoe bats. Its highest peak is Mount Richard-Molard at 1,752 m (5,750 ft), which is the highest peak of both countries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nimba_Range.jpg",
+        "url": "https://en.wikipedia.org/wiki/Mount_Nimba_Strict_Nature_Reserve"
+      }
     },
     {
       "name": "Conakry Grand Mosque",
-      "writeup": "One of the largest mosques in West Africa, located in the capital city Conakry."
+      "writeup": "One of the largest mosques in West Africa, located in the capital city Conakry.",
+      "wiki": {
+        "extract": "The Grand Mosque of Conakry is a mosque in Conakry, Guinea, located east of the Conakry Botanical Garden and beside the Donka Hospital.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Mosqu%C3%A9e_Fay%C3%A7al_corrig%C3%A9e.jpg",
+        "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Conakry"
+      }
     },
     {
       "name": "Fouta Djallon Highlands",
-      "writeup": "A mountainous region famous for its scenic landscapes, waterfalls, and traditional Fulani culture."
+      "writeup": "A mountainous region famous for its scenic landscapes, waterfalls, and traditional Fulani culture.",
+      "wiki": {
+        "extract": "Fouta Djallon is a highland region in the center of Guinea, roughly corresponding with Middle Guinea, in West Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Guinea_Highlands_map.png",
+        "url": "https://en.wikipedia.org/wiki/Fouta_Djallon"
+      }
     }
   ],
   "head_of_state": "President Mamady Doumbouya (as of 2024)",

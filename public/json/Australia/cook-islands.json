@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Avarua",
-      "writeup": "The capital city located on Rarotonga, known for its vibrant markets and cultural sites."
+      "writeup": "The capital city located on Rarotonga, known for its vibrant markets and cultural sites.",
+      "wiki": {
+        "extract": "Avarua is a district and township in the north of the island of Rarotonga, the largest island of the Cook Islands. It serves as the capital of the country and is divided into 19 tapere (sub-districts). It is an important commercial and economic centre, with the country's main airport and harbour (Avatiu) here. The district had a population of 5,120 in the 2021 census.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Para_O_Tane_Palace%2C_Rarotonga%2C_Cook_Islands.jpg",
+        "url": "https://en.wikipedia.org/wiki/Avarua"
+      }
     },
     {
       "name": "Te Rua Manga (The Needle)",
-      "writeup": "A distinctive rock formation and popular hiking destination on Rarotonga."
+      "writeup": "A distinctive rock formation and popular hiking destination on Rarotonga.",
+      "wiki": {
+        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39 km2 (26.02 sq mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rarotonga_Island.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rarotonga"
+      }
     },
     {
       "name": "Muri Lagoon",
-      "writeup": "A beautiful lagoon with clear waters, ideal for snorkeling and water activities."
+      "writeup": "A beautiful lagoon with clear waters, ideal for snorkeling and water activities.",
+      "wiki": {
+        "extract": "Muri Lagoon is in the Ngatangiia district on the eastern coast of Rarotonga in the Cook Islands. The lagoon is a significant tourist attraction and the largest tourism revenue earner in the Cook Islands, accounting for 25% of tourism bed usage on Rarotonga. In 2015 the Cook Islands government declared the environmental condition of the lagoon a national disaster.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Muri_Beach%2C_Rarotonga%2C_Cook_Islands.jpg",
+        "url": "https://en.wikipedia.org/wiki/Muri_Lagoon"
+      }
     },
     {
       "name": "Aitutaki Lagoon",
-      "writeup": "Famous for its stunning turquoise waters and coral reefs, a top tourist attraction."
+      "writeup": "Famous for its stunning turquoise waters and coral reefs, a top tourist attraction.",
+      "wiki": {
+        "extract": "Aitutaki, also traditionally known as Araʻura and Utataki, is the second most-populated island in the Cook Islands, after Rarotonga. It is an \"almost atoll\", with fifteen islets in a lagoon adjacent to the main island. Total land area is 18.05 km2 (6.97 sq mi), and the lagoon has an area of between 50 and 74 km2. A major tourist destination, Aitutaki is the second most visited island of the Cook Islands archipelago.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/AST-01-039_Aituctaki_Atoll.jpg",
+        "url": "https://en.wikipedia.org/wiki/Aitutaki"
+      }
     },
     {
       "name": "Titikaveka Beach",
-      "writeup": "A scenic beach known for its white sand and calm waters."
+      "writeup": "A scenic beach known for its white sand and calm waters.",
+      "wiki": {
+        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39 km2 (26.02 sq mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rarotonga_Island.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rarotonga"
+      }
     }
   ],
   "head_of_state": "King Charles III (represented locally by the Queen's Representative)",

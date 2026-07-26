@@ -10,23 +10,44 @@
   "landmarks": [
     {
       "name": "Wawel Castle",
-      "writeup": "A historic castle residency in Kraków, symbolizing Polish national identity and royal heritage."
+      "writeup": "A historic castle residency in Kraków, symbolizing Polish national identity and royal heritage.",
+      "wiki": {
+        "extract": "The Wawel Royal Castle and the Wawel Hill on which it sits constitute the most historically and culturally significant site in Poland. A fortified residency on the Vistula River in Kraków, it was established on the orders of King Casimir III the Great and enlarged over the centuries into a number of structures around a Polish Renaissance courtyard. It represents nearly all European architectural styles of the Medieval, Renaissance and Baroque periods. With over 3.47 million visitors in 2025, Wawel Castle is the most visited art museum in Poland and the 14th most visited art museum in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wawel_%284%29.jpg/3840px-Wawel_%284%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Wawel_Castle"
+      }
     },
     {
       "name": "Auschwitz-Birkenau",
-      "writeup": "The largest Nazi concentration and extermination camp, now a museum and memorial site."
+      "writeup": "The largest Nazi concentration and extermination camp, now a museum and memorial site.",
+      "wiki": {
+        "extract": "The Auschwitz-Birkenau State Museum is a museum on the site of the Auschwitz concentration camp in Oświęcim, Poland, which was operated by Nazi Germany.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/3840px-Auschwitz_I_%2822_May_2010%29_b.jpg",
+        "url": "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum"
+      }
     },
     {
       "name": "Old Town Warsaw",
-      "writeup": "Reconstructed historic center of Warsaw, showcasing Polish resilience and architectural heritage."
+      "writeup": "Reconstructed historic center of Warsaw, showcasing Polish resilience and architectural heritage.",
+      "wiki": {
+        "extract": "Warsaw Old Town, also known as Old Town, and historically known as Old Warsaw, is a neighbourhood, and an area of the City Information System, in the city of Warsaw, Poland, located within the district of Śródmieście. It is the oldest portion of the city, and contains numerous historic buildings, mostly from 17th and 18th centuries, such as the Royal Castle, city walls, St. John's Cathedral, and the Barbican, the Old Town Market Square and the Warsaw Mermaid Statue. The settlement itself dates back to between the 13th and 14th centuries, and was granted town privileges c. 1300.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/PL_Warsaw_stare_miasto_location.svg/960px-PL_Warsaw_stare_miasto_location.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Old_Town%2C_Warsaw"
+      }
     },
     {
       "name": "Malbork Castle",
-      "writeup": "The largest brick castle in the world, built by the Teutonic Knights in the 13th century."
+      "writeup": "The largest brick castle in the world, built by the Teutonic Knights in the 13th century.",
+      "wiki": {
+        "extract": "The Castle of the Teutonic Order in Malbork, commonly known as Malbork Castle, is a Brick Gothic castle complex located in the town of Malbork, Poland, built in the 13th and significantly expanded in the 14th century. It is the largest castle in the world measured by land area and a UNESCO World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg",
+        "url": "https://en.wikipedia.org/wiki/Malbork_Castle"
+      }
     },
     {
       "name": "Bianowiena Forest",
-      "writeup": "One of the last and largest remaining parts of the primeval forest that once covered Europe."
+      "writeup": "One of the last and largest remaining parts of the primeval forest that once covered Europe.",
+      "wiki": null
     }
   ],
   "head_of_state": "President Andrzej Duda",

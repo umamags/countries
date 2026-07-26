@@ -10,23 +10,48 @@
   "landmarks": [
     {
       "name": "Blue Lagoon",
-      "writeup": "A geothermal spa known for its milky blue waters rich in minerals, located in a lava field."
+      "writeup": "A geothermal spa known for its milky blue waters rich in minerals, located in a lava field.",
+      "wiki": {
+        "extract": "The Blue Lagoon is a geothermal spa in southwestern Iceland. The spa is located in a lava field 5 km (3.1 mi) from Grindavík and in front of Mount Þorbjörn on the Reykjanes Peninsula, in a location favourable for geothermal power, and is supplied by water used in the nearby Svartsengi geothermal power station. The Blue Lagoon is approximately 20 km (12 mi) from Keflavík International Airport, and is one of the most visited tourist attractions in Iceland.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Blue_Lagoon_Main_Building.JPG/3840px-Blue_Lagoon_Main_Building.JPG",
+        "url": "https://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa)"
+      }
     },
     {
       "name": "Thingvellir National Park",
-      "writeup": "A UNESCO World Heritage site where the North American and Eurasian tectonic plates meet."
+      "writeup": "A UNESCO World Heritage site where the North American and Eurasian tectonic plates meet.",
+      "wiki": {
+        "extract": "Þingvellir was the site of the Alþing, the annual parliament of Iceland from the year 930 until the last session held at Þingvellir in 1798. Since 1881, the parliament has been located within Alþingishúsið in Iceland's capital, Reykjavík.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%C3%9Eingvellir_from_the_information_centre.JPG/3840px-%C3%9Eingvellir_from_the_information_centre.JPG",
+        "url": "https://en.wikipedia.org/wiki/%C3%9Eingvellir"
+      }
     },
     {
       "name": "Geysir Geothermal Area",
-      "writeup": "Famous for its erupting hot springs, including the active Strokkur geyser."
+      "writeup": "Famous for its erupting hot springs, including the active Strokkur geyser.",
+      "wiki": {
+        "extract": "Geysir, sometimes known as The Great Geysir, is a geyser in south-western Iceland, that geological studies suggest started forming about 1150 CE. The English word geyser derives from Geysir. The name Geysir itself is derived from the Icelandic verb geysa. Geysir lies in the Haukadalur valley on the slopes of Laugarfjall lava dome, which is also the home to Strokkur geyser about 50 metres (160 ft) to the south. The Strokkur geyser may be confused with it, and the geothermal field it is in is known usually as either Geysir or Haukadalur.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Erupting_geysir.jpg",
+        "url": "https://en.wikipedia.org/wiki/Geysir"
+      }
     },
     {
       "name": "Hallgrímskirkja",
-      "writeup": "A distinctive Lutheran church in Reykjavik, known for its unique architecture and panoramic city views."
+      "writeup": "A distinctive Lutheran church in Reykjavik, known for its unique architecture and panoramic city views.",
+      "wiki": {
+        "extract": "Hallgrímskirkja is a Protestant Lutheran parish church in Reykjavík, Iceland. At 74.5 metres (244 ft) tall, it is the largest church in Iceland and second tallest building in the country. Known for its distinctively curved spire and side wings, it has been described as having become an important symbol for Iceland's national identity since its completion in 1986. The church is named after the Icelandic poet and cleric Hallgrímur Pétursson (1614–1674), author of the Passion Hymns.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hallgrimskirkja_mai_2026.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
+      }
     },
     {
       "name": "Vatnajökull National Park",
-      "writeup": "Home to Europe's largest glacier and diverse volcanic landscapes."
+      "writeup": "Home to Europe's largest glacier and diverse volcanic landscapes.",
+      "wiki": {
+        "extract": "Vatnajökull National Park is one of three national parks in Iceland, and is the largest one. It encompasses all of Vatnajökull glacier and extensive surrounding areas. These include the national parks previously existing at Skaftafell in the southwest and Jökulsárgljúfur in the north.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hvannadalshnjukur-Vatnajokull_National_Park.JPG",
+        "url": "https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull_National_Park"
+      }
     }
   ],
   "head_of_state": "President Guðni Th. Jóhannesson",

@@ -11,23 +11,48 @@
   "landmarks": [
     {
       "name": "Chocolate Hills",
-      "writeup": "A unique geological formation of over 1,200 symmetrical hills that turn brown in the dry season, located in Bohol."
+      "writeup": "A unique geological formation of over 1,200 symmetrical hills that turn brown in the dry season, located in Bohol.",
+      "wiki": {
+        "extract": "The Chocolate Hills are a geological formation in the Philippine province of Bohol. A minimum of 1,260 hills, and possibly over 1,776, spread over an area of more than 50 square kilometers (20 sq mi). They are covered in green grass that turns a chocolate-brown during the dry season, hence the name.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chocolate_Hills_Bohol.JPG",
+        "url": "https://en.wikipedia.org/wiki/Chocolate_Hills"
+      }
     },
     {
       "name": "Rizal Park",
-      "writeup": "A historical urban park in Manila dedicated to national hero José Rizal."
+      "writeup": "A historical urban park in Manila dedicated to national hero José Rizal.",
+      "wiki": {
+        "extract": "Rizal Park, Luneta, also known as Rizal Park, Luneta Park, or simply Luneta, is a historic urban park located in Ermita, Manila, Philippines. It is one of the largest urban parks in the country, covering an area of 58 hectares. The area now occupied by the park was known as Bagumbayan during the Spanish colonial period. It is adjacent to the historic walled city of Intramuros.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/3840px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rizal_Park"
+      }
     },
     {
       "name": "Taal Volcano",
-      "writeup": "One of the world's smallest active volcanoes, located on an island in Taal Lake."
+      "writeup": "One of the world's smallest active volcanoes, located on an island in Taal Lake.",
+      "wiki": {
+        "extract": "Taal Volcano, also known as Taal Caldera, is a large caldera filled by Taal Lake in the Philippines. Located in the province of Batangas about 50 kilometers (31 mi) south of Manila, the volcano is the second most active volcano in the country, with 39 recorded historical eruptions, all concentrated on Volcano Island, near the middle of Taal Lake. The caldera was formed by prehistoric eruptions between less than 670,000 and less than 6,000 years ago. The cones Batulao, Macolod, and Sungay are remnants of the early pre-caldera Taal system, with Batulao being the earliest known cone.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Taal_Lake_and_Volcano%2C_Tagaytay%2C_Philippines.jpg/3840px-Taal_Lake_and_Volcano%2C_Tagaytay%2C_Philippines.jpg",
+        "url": "https://en.wikipedia.org/wiki/Taal_Volcano"
+      }
     },
     {
       "name": "Banaue Rice Terraces",
-      "writeup": "Ancient terraces carved into the mountains of Ifugao, often called the 'Eighth Wonder of the World.'"
+      "writeup": "Ancient terraces carved into the mountains of Ifugao, often called the 'Eighth Wonder of the World.'",
+      "wiki": {
+        "extract": "The Banaue Rice Terraces are terraces that were carved into the mountains of Banaue, Ifugao, in the Philippines, by the ancestors of the Igorot people. The terraces were built with minimal equipment, largely by hand. The terraces are located approximately 1,500 meters above sea level. These are fed by an ancient irrigation system from the rainforests above the terraces.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Banaue-terrace.JPG/3840px-Banaue-terrace.JPG",
+        "url": "https://en.wikipedia.org/wiki/Banaue_Rice_Terraces"
+      }
     },
     {
       "name": "Intramuros",
-      "writeup": "A historic walled city in Manila dating back to Spanish colonial times."
+      "writeup": "A historic walled city in Manila dating back to Spanish colonial times.",
+      "wiki": {
+        "extract": "Intramuros is the 0.67-square-kilometer (0.26 sq mi) historic walled area within the city of Manila, the capital of the Philippines. It is administered by the Intramuros Administration with the help of the city government of Manila.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Baluartillo_de_San_Jos%C3%A9%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_41.jpg/3840px-Baluartillo_de_San_Jos%C3%A9%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_41.jpg",
+        "url": "https://en.wikipedia.org/wiki/Intramuros"
+      }
     }
   ],
   "head_of_state": "President Ferdinand Marcos Jr.",

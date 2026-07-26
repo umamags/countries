@@ -14,15 +14,30 @@
   "landmarks": [
     {
       "name": "Pendjari National Park",
-      "writeup": "A UNESCO Biosphere Reserve known for its diverse wildlife including elephants, lions, and hippos."
+      "writeup": "A UNESCO Biosphere Reserve known for its diverse wildlife including elephants, lions, and hippos.",
+      "wiki": {
+        "extract": "Pendjari National Park lies in north-western Benin, adjoining the Arli National Park in Burkina Faso. Named for the Pendjari River, the national park is known for its wildlife and is home to some of the last populations of big game like the African forest elephant, lion, hippopotamus, African buffalo, and various antelopes in West Africa. The park is also famous for its richness in birds.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Parc_national_de_la_Pendjari.JPG",
+        "url": "https://en.wikipedia.org/wiki/Pendjari_National_Park"
+      }
     },
     {
       "name": "Royal Palaces of Abomey",
-      "writeup": "Historic palaces of the Kingdom of Dahomey, showcasing traditional architecture and cultural heritage."
+      "writeup": "Historic palaces of the Kingdom of Dahomey, showcasing traditional architecture and cultural heritage.",
+      "wiki": {
+        "extract": "The Royal Palaces of Abomey are 10 palaces spread over an area of 47 hectares at the heart of the Abomey town in Benin, formerly the capital of the West African Kingdom of Dahomey. The Kingdom was founded in 1625 by the Fon people who developed it into a powerful military and commercial empire, which dominated trade with European slave traders on the Slave Coast until the late 19th century, to whom they sold their prisoners of war. At its peak the palaces could accommodate up to 8000 people. The King's palace included a two-story building known as the \"cowrie house\" or akuehue. Under the twelve kings who succeeded from 1625 to 1900, the kingdom established itself as one of the most powerful of the western coast of Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Abomey_2006_1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey"
+      }
     },
     {
       "name": "Ouidah Museum of History",
-      "writeup": "Museum dedicated to the history of the transatlantic slave trade and Benin's cultural past."
+      "writeup": "Museum dedicated to the history of the transatlantic slave trade and Benin's cultural past.",
+      "wiki": {
+        "extract": "The Ouidah Museum of History is a history museum in Ouidah, Benin. It occupies the Portuguese Fort of São João Baptista de Ajudá, built in 1721.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Musee_d%27Histoire_in_Ouidah_2015.jpg",
+        "url": "https://en.wikipedia.org/wiki/Ouidah_Museum_of_History"
+      }
     }
   ],
   "head_of_state": "President Patrice Talon",

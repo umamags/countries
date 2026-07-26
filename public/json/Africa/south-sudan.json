@@ -15,15 +15,30 @@
   "landmarks": [
     {
       "name": "Boma National Park",
-      "writeup": "One of the largest national parks in Africa, known for its diverse wildlife and seasonal migration of antelopes."
+      "writeup": "One of the largest national parks in Africa, known for its diverse wildlife and seasonal migration of antelopes.",
+      "wiki": {
+        "extract": "Boma National Park is a protected area in eastern South Sudan near the Ethiopian border. It was established in 1977 and covers 22,800 km2 (8,800 sq mi) of grasslands and floodplains.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Boma_National_Park"
+      }
     },
     {
       "name": "Nimule National Park",
-      "writeup": "Located near the border with Uganda, it features savannah landscapes and a variety of wildlife including elephants and lions."
+      "writeup": "Located near the border with Uganda, it features savannah landscapes and a variety of wildlife including elephants and lions.",
+      "wiki": {
+        "extract": "The Nimule National Park is a national park in South Sudan. It was established in 1954, and extends over an area of 410 km2, along the border with Uganda.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Nimule_National_Park"
+      }
     },
     {
       "name": "Juba Nile Bridge",
-      "writeup": "A key infrastructure landmark in the capital city, connecting different parts of Juba across the White Nile."
+      "writeup": "A key infrastructure landmark in the capital city, connecting different parts of Juba across the White Nile.",
+      "wiki": {
+        "extract": "Juba is the capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central Equatoria State. It is the most recently declared national capital and had a population of 525,953 in 2017. It has an area of 52 km2 (20 sq mi), with the metropolitan area covering 336 km2 (130 sq mi).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG",
+        "url": "https://en.wikipedia.org/wiki/Juba"
+      }
     }
   ],
   "head_of_state": "Salva Kiir Mayardit (President)",

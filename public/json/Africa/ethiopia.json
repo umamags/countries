@@ -15,19 +15,39 @@
   "landmarks": [
     {
       "name": "Lalibela Rock-Hewn Churches",
-      "writeup": "A group of 11 medieval monolithic churches carved out of rock, considered a pilgrimage site and a UNESCO World Heritage site."
+      "writeup": "A group of 11 medieval monolithic churches carved out of rock, considered a pilgrimage site and a UNESCO World Heritage site.",
+      "wiki": {
+        "extract": "The eleven Rock-hewn Churches of Lalibela are monolithic churches located in the western Ethiopian Highlands near the town of Lalibela, named after the late-12th and early-13th century King Gebre Meskel Lalibela of the Zagwe dynasty, who commissioned the massive building project of 11 rock-hewn churches to recreate the holy city of Jerusalem in his own kingdom. The site remains in use by the Ethiopian Orthodox Christian Church to this day, and it remains an important place of pilgrimage for Ethiopian Orthodox worshipers. It took 24 years to build all the 11 rock hewn churches.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/3840px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches%2C_Lalibela"
+      }
     },
     {
       "name": "Simien Mountains National Park",
-      "writeup": "Known for dramatic mountain scenery and endemic wildlife including the Ethiopian wolf and Gelada baboon."
+      "writeup": "Known for dramatic mountain scenery and endemic wildlife including the Ethiopian wolf and Gelada baboon.",
+      "wiki": {
+        "extract": "Simien Mountains National Park is the largest national park in Ethiopia. Located in the North Gondar Zone of the Amhara Region, its territory covers the highest parts of the Simien Mountains and includes Ras Dashan, the highest point in Ethiopia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Semien_Mountains_9.jpg",
+        "url": "https://en.wikipedia.org/wiki/Simien_Mountains_National_Park"
+      }
     },
     {
       "name": "Aksum Obelisks",
-      "writeup": "Ancient stelae marking the ruins of the Kingdom of Aksum, an important center of early Christianity."
+      "writeup": "Ancient stelae marking the ruins of the Kingdom of Aksum, an important center of early Christianity.",
+      "wiki": {
+        "extract": "The Obelisk of Axum is a 4th-century CE, 24-metre (79 ft) tall phonolite stele, weighing 160 tonnes, in the city of Axum in Ethiopia. It is ornamented with two false doors at the base and features decorations resembling windows on all sides. The obelisk ends in a semi-circular top, which used to be enclosed by metal frames.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rome_Stele.jpg",
+        "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum"
+      }
     },
     {
       "name": "The Blue Nile Falls",
-      "writeup": "A spectacular waterfall on the Blue Nile river, locally known as 'Tis Issat' meaning 'smoking water.'"
+      "writeup": "A spectacular waterfall on the Blue Nile river, locally known as 'Tis Issat' meaning 'smoking water.'",
+      "wiki": {
+        "extract": "The Blue Nile is a river originating at Lake Tana in Ethiopia. It travels for approximately 1,450 km (900 mi) through Ethiopia and Sudan. Along with the White Nile, it is one of the two major tributaries of the Nile and supplies about 85.6% of the water to the Nile during the rainy season.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg/3840px-ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg",
+        "url": "https://en.wikipedia.org/wiki/Blue_Nile"
+      }
     }
   ],
   "head_of_state": "President Sahle-Work Zewde",

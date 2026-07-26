@@ -13,15 +13,30 @@
   "landmarks": [
     {
       "name": "Basilica of Sainte-Anne",
-      "writeup": "A prominent Catholic basilica located in Brazzaville, known for its architectural beauty and religious significance."
+      "writeup": "A prominent Catholic basilica located in Brazzaville, known for its architectural beauty and religious significance.",
+      "wiki": {
+        "extract": "The Basilica of Sainte-Anne-du-Congo is a monumental Catholic church in Brazzaville, Republic of the Congo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Basilique_Sainte-anne.jpg",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville"
+      }
     },
     {
       "name": "Odzala-Kokoua National Park",
-      "writeup": "One of Africa's oldest national parks, famous for its biodiversity including forest elephants and western lowland gorillas."
+      "writeup": "One of Africa's oldest national parks, famous for its biodiversity including forest elephants and western lowland gorillas.",
+      "wiki": {
+        "extract": "Odzala-Kokoua National Park is a national park in the Republic of the Congo. The park was first protected in 1935, declared a biosphere reserve in 1977, and granted official designation by presidential decree in 2001. Odzala-Kokoua has approximately 100 mammal species, and one of the continent's most diverse primate populations. The nonprofit conservation organization African Parks began managing the park in collaboration with the Ministry of Forest Economy, Sustainable Development and Environment of the Republic of the Congo in 2010.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park"
+      }
     },
     {
       "name": "Pointe-Noire",
-      "writeup": "The country's main commercial hub and port city, known for its beaches and vibrant markets."
+      "writeup": "The country's main commercial hub and port city, known for its beaches and vibrant markets.",
+      "wiki": {
+        "extract": "Pointe-Noire is the second largest city and main economic centre in the Republic of the Congo, with a population of 1,420,612 inhabitants in 2023. Since the 2002 constitution, it is also an autonomous department and a commune ; before this date it was the capital of the Kouilou region. It is situated on a headland between Pointe-Noire Bay and the Atlantic Ocean and is located near the border with Angola.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg/3840px-Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pointe-Noire"
+      }
     }
   ],
   "head_of_state": "President Denis Sassou Nguesso",

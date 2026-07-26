@@ -12,15 +12,30 @@
   "landmarks": [
     {
       "name": "Christmas Island National Park",
-      "writeup": "Covers 63% of the island, home to unique wildlife including the famous red crab migration."
+      "writeup": "Covers 63% of the island, home to unique wildlife including the famous red crab migration.",
+      "wiki": {
+        "extract": "The Christmas Island red crab is a species of land crab that is endemic to Christmas Island and Cocos (Keeling) Islands in the Indian Ocean. Although restricted to a relatively small area, an estimated 43.7 million adult red crabs once lived on Christmas Island alone, but the accidental introduction of the yellow crazy ant is believed to have reduced the population by about a third. Christmas Island red crabs make an annual mass migration to the sea to lay their eggs in the ocean. As of 2020 the red crab had not been assessed by the International Union for Conservation of Nature and it was not listed on their Red List. During the annual mass migration to the sea for spawning, millions of crabs emerge at the same time, thickly carpeting the ground. Authorities institute road closures and detours as necessary.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Christmas_Island_%285774532171%29.jpg/3840px-Christmas_Island_%285774532171%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Christmas_Island_red_crab"
+      }
     },
     {
       "name": "Flying Fish Cove",
-      "writeup": "The main settlement and port, known for its scenic views and coral reefs."
+      "writeup": "The main settlement and port, known for its scenic views and coral reefs.",
+      "wiki": {
+        "extract": "Flying Fish Cove is the capital city and main settlement of Christmas Island. Although it was originally named after the British survey-ship Flying Fish, many maps simply label it \"The Settlement\". It was the first British settlement on the island, established in 1888.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flying_Fish_Cove_at_Christmas_Island.jpg",
+        "url": "https://en.wikipedia.org/wiki/Flying_Fish_Cove"
+      }
     },
     {
       "name": "Dales",
-      "writeup": "A rainforest area with freshwater streams, waterfalls, and diverse flora and fauna."
+      "writeup": "A rainforest area with freshwater streams, waterfalls, and diverse flora and fauna.",
+      "wiki": {
+        "extract": "The Dales is a wetland site located in the west of Christmas Island, an Australian external territory in the eastern Indian Ocean. The site has been recognised as being of international importance by designation under the Ramsar Convention on Wetlands.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/The_Dales_(Christmas_Island)"
+      }
     }
   ],
   "head_of_state": "King Charles III (represented by the Administrator of Christmas Island)",

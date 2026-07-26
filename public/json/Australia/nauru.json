@@ -11,15 +11,30 @@
   "landmarks": [
     {
       "name": "Anibare Bay",
-      "writeup": "A scenic bay known for its white sandy beaches and clear waters, popular for swimming and snorkeling."
+      "writeup": "A scenic bay known for its white sandy beaches and clear waters, popular for swimming and snorkeling.",
+      "wiki": {
+        "extract": "Anibare Bay is a large bay located in the Anibare district of eastern Nauru, a small island nation located in Oceania.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Living_on_a_Blue_Planet_-_Nauru.jpg",
+        "url": "https://en.wikipedia.org/wiki/Anibare_Bay"
+      }
     },
     {
       "name": "Command Ridge",
-      "writeup": "The highest point on Nauru, offering panoramic views of the island and remnants of World War II fortifications."
+      "writeup": "The highest point on Nauru, offering panoramic views of the island and remnants of World War II fortifications.",
+      "wiki": {
+        "extract": "Command Ridge is considered the highest point of Nauru, with an elevation of 65 metres (213 ft).",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Command_Ridge"
+      }
     },
     {
       "name": "Moqua Well",
-      "writeup": "An underground freshwater lake that serves as a natural water source and a cultural site."
+      "writeup": "An underground freshwater lake that serves as a natural water source and a cultural site.",
+      "wiki": {
+        "extract": "The Moqua Well is a small underground lake in Yaren, Nauru.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Moqua_Well-en.svg/1280px-Moqua_Well-en.svg.png",
+        "url": "https://en.wikipedia.org/wiki/Moqua_Well"
+      }
     }
   ],
   "head_of_state": "President David Adeang",
