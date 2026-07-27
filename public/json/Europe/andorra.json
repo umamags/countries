@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Església de Sant Joan de Caselles is a church located in Canillo, Andorra. It is a heritage property registered in the Cultural Heritage of Andorra, and was built in the 11–12th century. The 16th century altarpiece depicting scenes from the life and martyrdom of Saint John the apostle is considered of exceptional quality.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Esgl%C3%A9sia_de_Sant_Joan_de_Caselles_-_10.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sant_Joan_de_Caselles"
+        "url": "https://en.wikipedia.org/wiki/Sant_Joan_de_Caselles",
+        "coordinates": {
+          "lat": 42.57083333,
+          "lon": 1.60777778
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Caldea is a spa resort in Escaldes-Engordany, Andorra.",
         "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Caldea_spa_resort%2C_May_2016.jpg",
-        "url": "https://en.wikipedia.org/wiki/Caldea"
+        "url": "https://en.wikipedia.org/wiki/Caldea",
+        "coordinates": {
+          "lat": 42.5117,
+          "lon": 1.5368
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Vallnord is a ski/snowboard resort in the Pyrenees mountains in the country of Andorra, close to the border with Spain at Tor, Pallars.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ordino-Arcal%C3%ADs.JPG",
-        "url": "https://en.wikipedia.org/wiki/Vallnord"
+        "url": "https://en.wikipedia.org/wiki/Vallnord",
+        "coordinates": {
+          "lat": 42.54278056,
+          "lon": 1.492425
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Casa de la Vall is a historical house in Andorra la Vella, Andorra. It was the seat of the General Council of Andorra until 2011. It lies just to the southwest of the Andorra National Library. It is a heritage property registered in the Cultural Heritage of Andorra.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Casa_de_la_Vall_2015-10.JPG",
-        "url": "https://en.wikipedia.org/wiki/Casa_de_la_Vall"
+        "url": "https://en.wikipedia.org/wiki/Casa_de_la_Vall",
+        "coordinates": {
+          "lat": 42.50666667,
+          "lon": 1.52055556
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Madriu-Perafita-Claror Valley is a glacial valley in the southeast of Andorra. It covers an area of 42.47 km2, approximately 9% of the total area of Andorra, and is part of the second largest watershed basin in Andorra. The isolated valley is recognised as a haven for rare or endangered wildlife, and the undeveloped valley has recently been considered to be the \"spiritual heart\" of Andorra. It became Andorra's first, and to date its only, UNESCO World Heritage Site in 2004, with a small extension in 2006.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Refuge_perafita_andorra.jpg",
-        "url": "https://en.wikipedia.org/wiki/Madriu-Perafita-Claror_Valley"
+        "url": "https://en.wikipedia.org/wiki/Madriu-Perafita-Claror_Valley",
+        "coordinates": {
+          "lat": 42.49472222,
+          "lon": 1.59555556
+        }
       }
     }
   ],
@@ -92,5 +112,19 @@
     "Andorra Travel Guide 2023",
     "Andorra: History, Culture, and Nature",
     "Exploring Andorra's Ski Resorts and Mountains"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Andorra",
+      "capital": true,
+      "lat": 42.500001,
+      "lon": 1.516486
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/andorra.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Andorra.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

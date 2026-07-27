@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Salar de Uyuni is the largest salt flat in the world, with an area of approximately 10,582 square kilometres (4,086 mi2). It is situated in southwestern Bolivia, within the Daniel Campos Province of the Potosí Department, near the crest of the Andes Mountains, at an elevation of 3,656 m (11,995 ft) above sea level.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Salar_Uyuni_au01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni"
+        "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni",
+        "coordinates": {
+          "lat": -20.133775,
+          "lon": -67.48913333
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "Lake Titicaca is a large lake in the Andes mountains on the border of Bolivia and Peru. It is often called the highest navigable lake in the world. It is often listed as a freshwater lake, though its waters are slightly brackish. Titicaca is the largest lake in South America, both in terms of the volume of water and surface area. It is the 18th largest lake in the world. It has a surface elevation of 3,812 m (12,507 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lake_Titicaca_ESA22522896.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
+        "url": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+        "coordinates": {
+          "lat": -15.825,
+          "lon": -69.325
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "Tiwanaku is a Pre-Columbian archaeological site in western Bolivia, near Lake Titicaca, about 70 kilometers from La Paz, and it is one of the largest sites in South America. Surface remains currently cover around 4 square kilometers and include decorated ceramics, monumental structures, and megalithic blocks. It has been conservatively estimated that the site was inhabited by 10,000 to 20,000 people in AD 800.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg/3840px-PUERTA_DEL_SOL_TIWANAKU.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tiwanaku"
+        "url": "https://en.wikipedia.org/wiki/Tiwanaku",
+        "coordinates": {
+          "lat": -16.55472222,
+          "lon": -68.67333333
+        }
       }
     },
     {
@@ -45,7 +57,11 @@
       "wiki": {
         "extract": "Madidi National Park is a national park in the upper Amazon River basin in Bolivia. It was established in 1995 with a total land area of 18,958 km2. Together with the nearby protected areas Manuripi-Heath and Apolobamba and the Manu Biosphere Reserve (Peru), Madidi is part of one of the largest protected areas in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Madidi_park.JPG",
-        "url": "https://en.wikipedia.org/wiki/Madidi_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Madidi_National_Park",
+        "coordinates": {
+          "lat": -13.8,
+          "lon": -67.63333333
+        }
       }
     },
     {
@@ -54,7 +70,11 @@
       "wiki": {
         "extract": "Potosí, known as Villa Imperial de Potosí in the colonial period, is the capital city and a municipality of the Department of Potosí in Bolivia. It is one of the highest cities in the world at a nominal 4,067 m (13,343 ft). \nDiego Huallpa, an indigenous prospector, is traditionally credited with the discovery of the Cerro Rico in 1545, which led to the founding and rapid growth of Potosí due to its extraordinary silver wealth.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vista_de_la_Villa_Imperial_de_Potos%C3%AD.jpg",
-        "url": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+        "url": "https://en.wikipedia.org/wiki/Potos%C3%AD",
+        "coordinates": {
+          "lat": -19.58916667,
+          "lon": -65.75333333
+        }
       }
     }
   ],
@@ -100,5 +120,43 @@
     "Bolivia Travel Guide - Top Places to Visit",
     "Carnaval de Oruro - Bolivia's Colorful Festival",
     "Bolivian Cuisine: Traditional Foods You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Sucre",
+      "capital": true,
+      "lat": -19.040971,
+      "lon": -65.259516
+    },
+    {
+      "name": "Santa Cruz",
+      "capital": false,
+      "lat": -17.751972,
+      "lon": -63.227942
+    },
+    {
+      "name": "La Paz",
+      "capital": true,
+      "lat": -16.496028,
+      "lon": -68.151931
+    },
+    {
+      "name": "Tarija",
+      "capital": false,
+      "lat": -21.516685,
+      "lon": -64.749986
+    },
+    {
+      "name": "Trinidad",
+      "capital": false,
+      "lat": -14.833372,
+      "lon": -64.899977
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/bolivia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Bolivia.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

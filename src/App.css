@@ -326,7 +326,7 @@
 }
 
 .map-container-focus {
-  max-width: 320px;
+  max-width: 420px;
 }
 
 .map-status {
@@ -360,6 +360,38 @@
 
 .map-country.is-groupable {
   cursor: pointer;
+}
+
+.map-city circle {
+  fill: var(--bg-raised);
+  stroke: var(--text-h);
+  stroke-width: 1.5;
+}
+
+.map-city.is-capital circle {
+  fill: var(--text-h);
+  stroke: var(--bg-raised);
+  stroke-width: 1.5;
+}
+
+.map-city text {
+  font-size: 12px;
+  fill: var(--text-h);
+  font-weight: 500;
+  paint-order: stroke;
+  stroke: var(--bg-raised);
+  stroke-width: 3px;
+}
+
+.map-landmark-pin {
+  fill: var(--bg-raised);
+  stroke: var(--text-h);
+  stroke-width: 1.5;
+  cursor: pointer;
+}
+
+.map-landmark-pin:hover {
+  fill: var(--text-h);
 }
 
 /* Suggested videos */
@@ -479,6 +511,36 @@
   display: inline-block;
   color: var(--accent);
   font-size: 14px;
+}
+
+/* Reference map (Option B countries) */
+
+.reference-map {
+  margin-bottom: 24px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg-raised);
+  padding: 12px;
+}
+
+.reference-map-image {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+.reference-map-credit {
+  display: block;
+  margin-top: 8px;
+  text-align: center;
+  color: var(--text);
+  font-size: 12px;
+}
+
+.reference-map-credit:hover {
+  color: var(--accent);
 }
 
 /* Footer */

@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Issyk-Kul or Ysyk-Köl is an endorheic saline lake in the western Tian Shan mountains in eastern Kyrgyzstan—just south of a dividing range separating Kyrgyzstan from Kazakhstan. It is the eighth-deepest lake in the world, the eleventh-largest lake in the world by volume, and the second-largest saline lake. It is located at an elevation of 1,607 metres (5,272 ft). Despite the elevation and low temperatures during winter, it rarely freezes due to its high salinity.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Issykkul_plyag.jpg",
-        "url": "https://en.wikipedia.org/wiki/Issyk-Kul"
+        "url": "https://en.wikipedia.org/wiki/Issyk-Kul",
+        "coordinates": {
+          "lat": 42.41666667,
+          "lon": 77.25
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "The Ala-Archa Nature Park is an alpine national park in the Tian Shan mountains of Kyrgyzstan, located approximately 35 km south of the capital city of Bishkek. Established in 1976, it currently covers 16,485 hectares.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ala_archa.JPG",
-        "url": "https://en.wikipedia.org/wiki/Ala-Archa_Nature_Park"
+        "url": "https://en.wikipedia.org/wiki/Ala-Archa_Nature_Park",
+        "coordinates": {
+          "lat": 42.58333333,
+          "lon": 74.48333333
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The Burana Tower is a large minaret in the Chüy Valley in northern Kyrgyzstan. It is located about 80 km east of the country's capital Bishkek, near the town of Tokmok. The tower, along with grave markers, some earthworks and the remnants of a castle and three mausoleums, is all that remains of the ancient city of Balasagun, which was established by the Karakhanids at the end of the 9th century. The tower was built in the 11th century and was used as a template for other minarets. An external staircase and steep, winding stairway inside the tower enables visitors to climb to the top. It is one of the oldest architectural constructions in Central Asia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Burana_Tower%2C_Kyrgyzstan.jpg",
-        "url": "https://en.wikipedia.org/wiki/Burana_Tower"
+        "url": "https://en.wikipedia.org/wiki/Burana_Tower",
+        "coordinates": {
+          "lat": 42.74694444,
+          "lon": 75.24861111
+        }
       }
     }
   ],
@@ -77,5 +89,19 @@
     "Kyrgyzstan Travel Guide - What You Need to Know",
     "World Nomad Games 2018 Highlights",
     "Kyrgyzstan Culture and Traditions Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bishkek",
+      "capital": true,
+      "lat": 42.875025,
+      "lon": 74.583258
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/kyrgyzstan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKyrgyzstan_Transportation.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

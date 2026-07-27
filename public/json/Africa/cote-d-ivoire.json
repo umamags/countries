@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Basilica of Our Lady of Peace is a Catholic minor basilica dedicated to Our Lady of Peace in Yamoussoukro, the administrative capital of Ivory Coast. Guinness World Records lists it as the largest church in the world, having surpassed the previous record holder, Saint Peter's Basilica, upon completion. It has an area of 30,000 square metres (320,000 sq ft) and is 158 metres (518 ft) tall. However, it also includes a rectory and a villa, which are not strictly part of the church. It can accommodate 18,000 worshippers, compared to 60,000 for St. Peter's.",
         "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Notre_dame_de_la_paix_yamoussoukro_by_felix_krohn.jpg",
-        "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace",
+        "coordinates": {
+          "lat": 6.81111111,
+          "lon": -5.29694444
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Taï National Park is a national park in Ivory Coast that contains one of the last areas of primary rainforest in West Africa. It was inscribed as a World Heritage Site in 1982 due to the diversity of its flora and fauna. Five mammal species of the Taï National Park are on the Red List of Threatened Species: pygmy hippopotamus, olive colobus monkeys, leopards, chimpanzees, and Jentink's duiker.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ta%C3%AF_National_Park_%2824148248710%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ta%C3%AF_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Ta%C3%AF_National_Park",
+        "coordinates": {
+          "lat": 5.75,
+          "lon": -7.11666667
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Banco National Park is a national park in Ivory Coast, located along Highway North in the district of Attécoubé (Abidjan). It is one of the only dense, primary tropical forests located in the heart of an urban area, other than the Tijuca National Park in Rio de Janeiro in Brazil.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/For%C3%AAt_du_banco_%28_C%C3%B4te_d%27Ivoire_%29.jpg/3840px-For%C3%AAt_du_banco_%28_C%C3%B4te_d%27Ivoire_%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Banco_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Banco_National_Park",
+        "coordinates": {
+          "lat": 5.38333333,
+          "lon": -4.05
+        }
       }
     }
   ],
@@ -76,5 +88,31 @@
     "Côte d'Ivoire History and Politics Explained",
     "Traditional Ivorian Cuisine You Must Try",
     "Wildlife and National Parks of Côte d'Ivoire"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Yamoussoukro",
+      "capital": true,
+      "lat": 6.818381,
+      "lon": -5.275503
+    },
+    {
+      "name": "Abidjan",
+      "capital": true,
+      "lat": 5.321943,
+      "lon": -4.041994
+    },
+    {
+      "name": "Bouaké",
+      "capital": false,
+      "lat": 7.689982,
+      "lon": -5.030014
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/cote-d-ivoire.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACote_d%27Ivoire-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

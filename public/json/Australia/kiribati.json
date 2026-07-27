@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Phoenix Islands Protected Area (PIPA) is located in the Republic of Kiribati, an ocean nation in the central Pacific approximately midway between Australia and Hawaii. PIPA constitutes 11.34% of Kiribati's exclusive economic zone (EEZ), and with a size of 408,250 km2 (157,630 sq mi), it is one of the largest marine protected areas (MPA) and one of the largest protected areas of any type on Earth. The PIPA was also designated as the world's largest and deepest UNESCO World Heritage Site in 2010.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rotjan_-_Enderbury_Day_1_-_2nd_half_%2862%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area"
+        "url": "https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area",
+        "coordinates": {
+          "lat": -3.64972222,
+          "lon": -172.8575
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Tarawa is an atoll and the capital of the Republic of Kiribati, in the Micronesia region of the central Pacific Ocean. It comprises North Tarawa, which has 6,629 inhabitants and much in common with other more remote islands of the Gilbert group, and South Tarawa, which has 56,388 inhabitants as of 2015, half of the country's total population. The atoll was the site of the Battle of Tarawa during World War II.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/South_Tarawa_%28north_and_south_labeled%29.svg/960px-South_Tarawa_%28north_and_south_labeled%29.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Tarawa"
+        "url": "https://en.wikipedia.org/wiki/Tarawa",
+        "coordinates": {
+          "lat": 1.33333333,
+          "lon": 173
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Te Umanibong or the Kiribati Cultural Museum, or Kiribati Museum and Cultural Centre, is a museum in Bikenibeu on the atoll of Tarawa in Kiribati. It displays artefacts and other items of cultural and historic significance.",
         "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Te_Umwanibong_logo.png",
-        "url": "https://en.wikipedia.org/wiki/Te_Umanibong"
+        "url": "https://en.wikipedia.org/wiki/Te_Umanibong",
+        "coordinates": {
+          "lat": 1.36638889,
+          "lon": 173.12138889
+        }
       }
     }
   ],
@@ -71,5 +83,19 @@
     "The Phoenix Islands Protected Area - Kiribati's Marine Treasure",
     "Battle of Tarawa - World War II History in Kiribati",
     "Kiribati's Struggle Against Rising Sea Levels"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Tarawa",
+      "capital": true,
+      "lat": 1.338188,
+      "lon": 173.017571
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/kiribati.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKiribati_CIA_WFB_map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

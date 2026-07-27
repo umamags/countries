@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Giza pyramid complex in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg",
-        "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+        "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+        "coordinates": {
+          "lat": 29.97611111,
+          "lon": 31.13277778
+        }
       }
     },
     {
@@ -23,7 +27,8 @@
       "wiki": {
         "extract": "A sphinx is a mythical creature with the head of a human, the body of a lion, and the wings of an eagle.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sphinx_CdM_Paris_DeRidder865_n2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sphinx"
+        "url": "https://en.wikipedia.org/wiki/Sphinx",
+        "coordinates": null
       }
     },
     {
@@ -32,7 +37,11 @@
       "wiki": {
         "extract": "The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic Kingdom, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Temple_de_Louxor_68.jpg",
-        "url": "https://en.wikipedia.org/wiki/Karnak"
+        "url": "https://en.wikipedia.org/wiki/Karnak",
+        "coordinates": {
+          "lat": 25.7183,
+          "lon": 32.6583
+        }
       }
     },
     {
@@ -41,7 +50,11 @@
       "wiki": {
         "extract": "The Valley of the Kings, also known as the Valley of the Gates of the Kings, is an area in Egypt where, for a period of nearly 500 years from the Eighteenth Dynasty to the Twentieth Dynasty, rock-cut tombs were excavated for pharaohs and powerful nobles under the New Kingdom of ancient Egypt.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+        "url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+        "coordinates": {
+          "lat": 25.74083333,
+          "lon": 32.60222222
+        }
       }
     },
     {
@@ -50,7 +63,11 @@
       "wiki": {
         "extract": "Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel, Aswan Governorate, Upper Egypt, near the border with Sudan. It is located on the western bank of Lake Nasser, about 230 km (140 mi) southwest of Aswan. Its latitude of 22° 20′ 13″ N is 1.0978°, which are 122 km, south of the tropic of Cancer.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/Abu_Simbel"
+        "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
+        "coordinates": {
+          "lat": 22.33694444,
+          "lon": 31.62555556
+        }
       }
     }
   ],
@@ -110,5 +127,43 @@
     "Top 10 Must-See Places in Egypt",
     "Egyptian Cuisine: Traditional Dishes Explained",
     "Modern Egypt: Challenges and Progress"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Cairo",
+      "capital": true,
+      "lat": 30.051906,
+      "lon": 31.248022
+    },
+    {
+      "name": "Alexandria",
+      "capital": false,
+      "lat": 31.201965,
+      "lon": 29.94805
+    },
+    {
+      "name": "Bur Said",
+      "capital": false,
+      "lat": 31.25999,
+      "lon": 32.290008
+    },
+    {
+      "name": "Luxor",
+      "capital": false,
+      "lat": 25.700019,
+      "lon": 32.650038
+    },
+    {
+      "name": "Suez",
+      "capital": false,
+      "lat": 30.004976,
+      "lon": 32.549941
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/egypt.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Egypt.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

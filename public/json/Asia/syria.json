@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Palmyra is an ancient city in central Syria. It is located in the eastern part of the Levant, and archaeological finds date back to the Neolithic period, and documents first mention the city in the early second millennium BCE. Palmyra changed hands on a number of occasions between different empires before becoming a subject of the Roman Empire in the first century CE.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Palmyra_03.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palmyra"
+        "url": "https://en.wikipedia.org/wiki/Palmyra",
+        "coordinates": {
+          "lat": 34.55138889,
+          "lon": 38.26805556
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Umayyad Mosque, also known as the Great Mosque of Damascus, located in the old city of Damascus, the capital of Syria, is one of the largest and oldest mosques in the world. Its religious importance stems from the eschatological reports concerning the mosque and historic events associated with it. Christian and Muslim tradition alike consider it the burial place of John the Baptist's head, a tradition originating in the 6th century. Two shrines inside the premises commemorate the Islamic prophet Muhammad's grandson Husayn ibn Ali, whose martyrdom is frequently compared to that of John the Baptist. It is considered to be the oldest mosque still in use in its original form.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Umayyad_Mosque%2C_Damascus.jpg",
-        "url": "https://en.wikipedia.org/wiki/Umayyad_Mosque"
+        "url": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
+        "coordinates": {
+          "lat": 33.51138889,
+          "lon": 36.30666667
+        }
       }
     },
     {
@@ -32,7 +40,8 @@
       "wiki": {
         "extract": "The Citadel of Aleppo is a large medieval fortified palace in the centre of the old city of Aleppo, northern Syria. It is considered to be one of the oldest and largest castles in the world. Usage of the Citadel hill dates back at least to the middle of the 3rd millennium BC. Occupied by many civilizations over time – including the Arameans, Assyrians, Romans, Byzantines, Arabs, Ayyubids, Mamluks and Ottomans – the majority of the construction as it stands today is thought to originate from the Ayyubid period. An extensive conservation work took place in the 2000s by the Aga Khan Trust for Culture, in collaboration with Aleppo Archeological Society. Dominating the city, the Citadel is part of the Ancient City of Aleppo, a UNESCO World Heritage Site since 1986. During the 2010s, the Citadel received significant damage during the lengthy Battle of Aleppo. It was reopened to the public in early 2018 with repairs to damaged parts underway, though some of the damage will be purposefully preserved as part of the history of the citadel. The citadel was damaged by the 2023 Turkey–Syria earthquake.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Citadel_of_Aleppo.jpg",
-        "url": "https://en.wikipedia.org/wiki/Citadel_of_Aleppo"
+        "url": "https://en.wikipedia.org/wiki/Citadel_of_Aleppo",
+        "coordinates": null
       }
     }
   ],
@@ -70,5 +79,25 @@
     "Exploring Ancient Palmyra, Syria",
     "Syrian Cuisine: Traditional Dishes and Recipes",
     "Life in Damascus Amidst the Conflict"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Damascus",
+      "capital": true,
+      "lat": 33.50198,
+      "lon": 36.29805
+    },
+    {
+      "name": "Aleppo",
+      "capital": false,
+      "lat": 36.231917,
+      "lon": 37.168074
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/syria.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASyria-2024_CIA_WFB_Map.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

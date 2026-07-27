@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Narikala is an ancient fortress overlooking Tbilisi, the capital of Georgia, and the Mtkvari (Kura) River. The fortress consists of two walled sections on a steep hill between the sulfur baths and the botanical gardens of Tbilisi. On the lower court there is the recently restored St Nicholas church. Newly built in 1996–1997, it replaces the original 13th-century church that was destroyed in a fire. The new church is of \"prescribed cross\" type, having doors on three sides. The internal part of the church is decorated with the frescos showing scenes from both the Bible and the history of Georgia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tbilisi_IMG_8846_1920.jpg",
-        "url": "https://en.wikipedia.org/wiki/Narikala"
+        "url": "https://en.wikipedia.org/wiki/Narikala",
+        "coordinates": {
+          "lat": 41.68777778,
+          "lon": 44.80861111
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Svetitskhoveli Cathedral is an Orthodox Christian cathedral located in the historic town of Mtskheta, Georgia, northwest of the Georgian capital Tbilisi. A masterpiece of the Early and High Middle Ages, Svetitskhoveli is recognized by UNESCO as a World Heritage Site. It is currently the second-largest church building in Georgia, after the Holy Trinity Cathedral.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/3840px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral"
+        "url": "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral",
+        "coordinates": {
+          "lat": 41.8419,
+          "lon": 44.7211
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Uplistsikhe is an ancient rock-hewn town in eastern Georgia, some 10 kilometers east of the town of Gori, Shida Kartli.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg/3840px-Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Uplistsikhe"
+        "url": "https://en.wikipedia.org/wiki/Uplistsikhe",
+        "coordinates": {
+          "lat": 41.96833333,
+          "lon": 44.20416667
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Gergeti Trinity Church is a popular name for the Holy Trinity Church near the village of Stepantsminda in Georgia. The church is situated on the right bank of the river Chkheri, at an elevation of 2,170 metres (7,120 ft), under Mount Kazbek.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gergeti_Trinity_Church_09.23.jpg/3840px-Gergeti_Trinity_Church_09.23.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church"
+        "url": "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church",
+        "coordinates": {
+          "lat": 42.6625,
+          "lon": 44.62027778
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Vardzia is a cave monastery site in southern Georgia, excavated from the slopes of the Erusheti Mountain on the left bank of the Kura River, thirty kilometres from Aspindza. The main period of construction was the second half of the twelfth century. The caves stretch along the cliff for some five hundred meters and in up to nineteen tiers. The monastery was an important cultural center, a place of significant literary and artistic work.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/3840px-2025-05-25_Vardzia_9.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vardzia"
+        "url": "https://en.wikipedia.org/wiki/Vardzia",
+        "coordinates": {
+          "lat": 41.38091667,
+          "lon": 43.28376111
+        }
       }
     }
   ],
@@ -98,5 +118,31 @@
     "Georgian Cuisine: Traditional Foods You Must Try",
     "History of Georgia: From Ancient Kingdoms to Modern Times",
     "Tbilisi Travel Guide: Exploring the Capital of Georgia"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Tbilisi",
+      "capital": true,
+      "lat": 41.726956,
+      "lon": 44.78885
+    },
+    {
+      "name": "Batumi",
+      "capital": false,
+      "lat": 41.600005,
+      "lon": 41.630007
+    },
+    {
+      "name": "Sukhumi",
+      "capital": false,
+      "lat": 43.020021,
+      "lon": 41.020018
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/georgia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorgia-CIA_WFB_Map_%28nocolor%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

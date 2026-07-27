@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Meroë was an ancient city on the east bank of the Nile about 6 km north-east of the Kabushiya station near Shendi, Sudan, approximately 200 km north-east of Khartoum. Near the site is a group of villages called Bagrawiyah. This city was the capital of the Kingdom of Kush for several centuries from around 590 BC, until its collapse in the 4th century AD. The Kushitic Kingdom of Meroë gave its name to the \"Island of Meroë\", which was the modern region of Butana, a region bounded by the Nile, the Atbarah and the Blue Nile.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/NubianMeroePyramids30sep2005%282%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mero%C3%AB"
+        "url": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+        "coordinates": {
+          "lat": 16.93333333,
+          "lon": 33.72638889
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Jebel Barkal or Gebel Barkal is a mesa located 400 km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO. The area houses the Jebel Barkal Museum.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gebel_Barkal.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jebel_Barkal"
+        "url": "https://en.wikipedia.org/wiki/Jebel_Barkal",
+        "coordinates": {
+          "lat": 18.53666667,
+          "lon": 31.82833333
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Suakin or Sawakin is a port city in northeastern Sudan, on the west coast of the Red Sea. It was formerly the region's chief port, but is now secondary to Port Sudan, about 50 kilometres (30 mi) north.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suakin%2Cel-Geyf_mosque.jpg",
-        "url": "https://en.wikipedia.org/wiki/Suakin"
+        "url": "https://en.wikipedia.org/wiki/Suakin",
+        "coordinates": {
+          "lat": 19.1025,
+          "lon": 37.33
+        }
       }
     }
   ],
@@ -77,5 +89,43 @@
     "Life and Traditions in Sudan - A Cultural Overview",
     "Sudan's Political Transition and Challenges",
     "Sudanese Cuisine: Traditional Foods and Recipes"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Khartoum",
+      "capital": true,
+      "lat": 15.590024,
+      "lon": 32.532233
+    },
+    {
+      "name": "Omdurman",
+      "capital": false,
+      "lat": 15.616681,
+      "lon": 32.480022
+    },
+    {
+      "name": "Port Sudan",
+      "capital": false,
+      "lat": 19.615791,
+      "lon": 37.216426
+    },
+    {
+      "name": "Kassala",
+      "capital": false,
+      "lat": 15.459972,
+      "lon": 36.390016
+    },
+    {
+      "name": "Al-Ubayyid",
+      "capital": false,
+      "lat": 13.18329,
+      "lon": 30.216698
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/sudan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Sudan-_2012_CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

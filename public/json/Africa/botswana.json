@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Okavango Delta or Okavango Grassland is a vast inland delta in Botswana formed where the Okavango River reaches a tectonic trough at an elevation of 930–1,000 m (3,050–3,280 ft) in the central part of the endorheic basin of the Kalahari Desert.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Okavango_Delta%2C_Botswana1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Okavango_Delta"
+        "url": "https://en.wikipedia.org/wiki/Okavango_Delta",
+        "coordinates": {
+          "lat": -19.4,
+          "lon": 22.9
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Chobe National Park is Botswana's first national park, and also its most biologically diverse. The park contains the wetlands of the Chobe River, which flows into Victoria Falls and the Zambezi to the East. Located in the north of the country, the park is part of the Kavango–Zambezi Transfrontier Conservation Area, and partially borders Namibia's Caprivi Strip. It is Botswana's third largest park.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gnus_zebras_chobe_national_park.jpg",
-        "url": "https://en.wikipedia.org/wiki/Chobe_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Chobe_National_Park",
+        "coordinates": {
+          "lat": -18.65,
+          "lon": 24.4
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The Tsodilo Hills are a UNESCO World Heritage Site (WHS), consisting of rock art, rock shelters, depressions, and caves in Botswana, Southern Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tsodilo_rock_paintings_1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tsodilo"
+        "url": "https://en.wikipedia.org/wiki/Tsodilo",
+        "coordinates": {
+          "lat": -18.75,
+          "lon": 21.73333333
+        }
       }
     }
   ],
@@ -77,5 +89,37 @@
     "Botswana's Culture and Traditions Explained",
     "History and Politics of Botswana",
     "Top 10 Places to Visit in Botswana"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Gaborone",
+      "capital": true,
+      "lat": -24.646314,
+      "lon": 25.911948
+    },
+    {
+      "name": "Francistown",
+      "capital": false,
+      "lat": -21.17004,
+      "lon": 27.500016
+    },
+    {
+      "name": "Mahalapye",
+      "capital": false,
+      "lat": -23.1,
+      "lon": 26.820006
+    },
+    {
+      "name": "Serowe",
+      "capital": false,
+      "lat": -22.390017,
+      "lon": 26.710039
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/botswana.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABotswana-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

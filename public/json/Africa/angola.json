@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Kalandula Falls or Calandula Falls are waterfalls in the municipality of Calandula, Malanje Province, Angola. On the Lucala River, the falls are 105 meters high and 400 meters wide. They are one of the largest waterfalls by volume in Africa. The distance from Luanda is 360 km (220 mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG",
-        "url": "https://en.wikipedia.org/wiki/Kalandula_Falls"
+        "url": "https://en.wikipedia.org/wiki/Kalandula_Falls",
+        "coordinates": {
+          "lat": -9.07583333,
+          "lon": 16.00333333
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Fortaleza de São Miguel or Saint Michael Fortress was a Portuguese fortress built in 1576 in the Ingombota District of Luanda, Angola. During Dutch rule in Angola between 1641 and 1648, the fort was known as Fort Aardenburgh.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luanda-SMiguelFort2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel"
+        "url": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel",
+        "coordinates": {
+          "lat": -8.8083,
+          "lon": 13.2234
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Iona National Park is the largest and oldest national park in Angola. It is situated in the Southwestern corner of the country, in Namibe Province. It is roughly bound by the Atlantic Ocean to the West, an escarpment to the East that marks the beginning of the interior plateau, the Curoca River to the North, and the Cunene River to the South. It is about 200 kilometres (120 mi) south of the city of Namibe and covers 5,850 square miles (15,200 km2) sq. miles.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Imbondeiro_Tree.jpg",
-        "url": "https://en.wikipedia.org/wiki/Iona_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Iona_National_Park",
+        "coordinates": {
+          "lat": -16.67,
+          "lon": 12.33
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "Mussulo is a peninsula located in south of Luanda Province, Angola. It was part of the municipality of Mussulo, province of Luanda, but was later made a municipality. It is actually a spit created by sediments from the Cuanza River, moved north by the Benguela Current. It is about 30 km long, at most 3 km wide, and at the narrowest parts in the south of the peninsula, less than 100 metres.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mussulo%2C_Angola.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mussulo"
+        "url": "https://en.wikipedia.org/wiki/Mussulo",
+        "coordinates": {
+          "lat": -8.96361111,
+          "lon": 13.05166667
+        }
       }
     }
   ],
@@ -88,5 +104,43 @@
     "History of Angola: From Colony to Independence",
     "Angolan Culture and Traditions Explained",
     "Angola's Wildlife and National Parks"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Luanda",
+      "capital": true,
+      "lat": -8.83634,
+      "lon": 13.232481
+    },
+    {
+      "name": "Huambo",
+      "capital": false,
+      "lat": -12.74804,
+      "lon": 15.758064
+    },
+    {
+      "name": "Benguela",
+      "capital": false,
+      "lat": -12.578265,
+      "lon": 13.407233
+    },
+    {
+      "name": "Moçâmedes",
+      "capital": false,
+      "lat": -15.190043,
+      "lon": 12.160022
+    },
+    {
+      "name": "Malanje",
+      "capital": false,
+      "lat": -9.54,
+      "lon": 16.340026
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/angola.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Angola.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

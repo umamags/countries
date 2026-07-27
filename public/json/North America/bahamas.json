@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Atlantis Paradise Island is an ocean-themed casino resort located on Paradise Island in the Bahamas. The resort spans 154-acre (62 ha) which includes a waterpark, marine habitat, and other recreational facilities. It is built around the Aquaventure waterscape and features multiple hotel towers, including The Royal, Coral, Cove, and Reef Towers.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Atlantis_Paradise_Island_complex.jpg/3840px-The_Atlantis_Paradise_Island_complex.jpg",
-        "url": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island"
+        "url": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island",
+        "coordinates": {
+          "lat": 25.085,
+          "lon": -77.32083333
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Nassau is the capital and largest city of the Bahamas. It is on the island of New Providence, which has a population of 296,522, 74.26% of the country's total population. Nassau is commonly defined as a primate city, dwarfing all other towns in the country. It is the centre of commerce, education, law, administration, and media of the country.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg/3840px-Nassau%2C_Bahamas_aerial_view_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas"
+        "url": "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas",
+        "coordinates": {
+          "lat": 25.07805556,
+          "lon": -77.33861111
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Exuma Cays Land and Sea Park is a protected area in the Exuma Cays of the Bahamas. The protected area extends from Shroud Cay in the north to Bell Cay in the south. The vegetation consists of mangrove communities, with the east sides being clad in low scrub and the western sides with taller scrub. There are many epiphytic orchids and bromeliads.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Exuma_Cays_Land_and_Sea_Park_2.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Exuma_Cays_Land_and_Sea_Park"
+        "url": "https://en.wikipedia.org/wiki/Exuma_Cays_Land_and_Sea_Park",
+        "coordinates": {
+          "lat": 24.42,
+          "lon": -76.69
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The Queen's Staircase is a walkway of 65 steps in Nassau, the capital city of The Bahamas. It was carved out of solid limestone by 600 slaves between 1793 and 1794 to create a direct route from Fort Fincastle to Nassau. It was later named for Queen Victoria of the United Kingdom of Great Britain and Ireland in the 19th century, and is now a popular landmark of Nassau.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Queen%27s_staircase%2C_Nassau%2C_Bahamas.jpg",
-        "url": "https://en.wikipedia.org/wiki/Queen's_Staircase"
+        "url": "https://en.wikipedia.org/wiki/Queen's_Staircase",
+        "coordinates": {
+          "lat": 25.07313889,
+          "lon": -77.33766667
+        }
       }
     },
     {
@@ -50,7 +66,8 @@
       "wiki": {
         "extract": "A blue hole is a large marine cavern or sinkhole, which is open to the surface and has developed in a bank or island composed of a carbonate bedrock. Blue holes typically contain tidally influenced water of fresh, marine, or mixed chemistry. They extend below sea level for most of their depth and may provide access to submerged cave passages. Well-known examples are the Blue Hole of Dahab in the Red Sea, Dragon Hole in the South China Sea and in the Caribbean: the Great Blue Hole and Dean's Blue Hole.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Great_Blue_Hole.jpg",
-        "url": "https://en.wikipedia.org/wiki/Blue_hole"
+        "url": "https://en.wikipedia.org/wiki/Blue_hole",
+        "coordinates": null
       }
     }
   ],
@@ -96,5 +113,25 @@
     "The History of The Bahamas Explained",
     "Bahamas Junkanoo Festival Highlights",
     "Bahamas Travel Guide 2024"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Nassau",
+      "capital": true,
+      "lat": 25.08339,
+      "lon": -77.350044
+    },
+    {
+      "name": "Freeport",
+      "capital": false,
+      "lat": 26.533276,
+      "lon": -78.700013
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/bahamas.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Bahamas.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

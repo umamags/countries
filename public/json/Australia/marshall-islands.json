@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Bikini Atoll, known as Eschscholtz Atoll between the 19th century and 1946, is a coral reef in the Marshall Islands consisting of 23 islands surrounding a 229.4-square-mile (594.1 km2) central lagoon. The atoll is at the northern end of the Ralik Chain, approximately 530 miles (850 km) northwest of the capital Majuro.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png",
-        "url": "https://en.wikipedia.org/wiki/Bikini_Atoll"
+        "url": "https://en.wikipedia.org/wiki/Bikini_Atoll",
+        "coordinates": {
+          "lat": 11.6,
+          "lon": 165.4
+        }
       }
     },
     {
@@ -24,7 +28,8 @@
       "wiki": {
         "extract": "Arno Atoll is a coral atoll of 133 islands in the Pacific Ocean, and forms a legislative district of the Ratak Chain of the Marshall Islands. Its total land area is only 5 square miles (13 km2). Unlike most other atolls, Arno encloses three different lagoons, a large central one, and two smaller ones in the north and east. Its main lagoon encloses an area of 130.77 square miles (338.7 km2). At a distance of only 20 kilometers (12 mi), it is the closest atoll to the Marshall Islands capital, Majuro Atoll, and can be seen looking east from Majuro on a clear day at low tide. The population of Arno Atoll was 1,141 at the 2021 census. The most populous islets are Ajeltokrok, Kobjeltak, Rearlaplap, Langor and Tutu. The largest village is Ine, Arno.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/ArnoAtoll_ASTER_2002jul25.jpg",
-        "url": "https://en.wikipedia.org/wiki/Arno_Atoll"
+        "url": "https://en.wikipedia.org/wiki/Arno_Atoll",
+        "coordinates": null
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "Laura is an island town situated in Marshall Islands. It is located in the west of Majuro Atoll. At approximately 10 feet (3.0 m) above sea level, Laura has the highest elevation of any islands in the Majuro Atoll. Marshall Islands International Airport is located on the island of Laura. A road connects the island of Laura to Djarrit. Much of the Majuro Atoll population relies on the freshwater lens in Laura to supply water.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Laura_beach_n_tree_%28170671778%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Laura%2C_Marshall_Islands"
+        "url": "https://en.wikipedia.org/wiki/Laura%2C_Marshall_Islands",
+        "coordinates": {
+          "lat": 7.13777778,
+          "lon": 171.04888889
+        }
       }
     }
   ],
@@ -71,5 +80,19 @@
     "Bikini Atoll Nuclear Test Site - Marshall Islands",
     "Traditional Navigation in the Marshall Islands",
     "Climate Change Threats to the Marshall Islands"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Majuro",
+      "capital": true,
+      "lat": 7.103004,
+      "lon": 171.38
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/marshall-islands.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Marshall_Islands.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

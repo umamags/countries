@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Pristina is the capital and largest city of Kosovo. It is the administrative center of the eponymous municipality and district.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Prishtina_seen_from_Mother_Theresa_Cathedral.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pristina"
+        "url": "https://en.wikipedia.org/wiki/Pristina",
+        "coordinates": {
+          "lat": 42.66666667,
+          "lon": 21.16666667
+        }
       }
     },
     {
@@ -29,7 +33,11 @@
       "wiki": {
         "extract": "Germia Park is a regional park located in the northeast of Pristina, Kosovo, and covers an area of 62 square kilometres (24 sq mi). Its highest point, Butos Peak, is 1050 meters above sea level and its lowest 663 meters above sea level.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Germia_1.jpg/3840px-Germia_1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Germia_Park"
+        "url": "https://en.wikipedia.org/wiki/Germia_Park",
+        "coordinates": {
+          "lat": 42.673,
+          "lon": 21.195
+        }
       }
     },
     {
@@ -38,7 +46,11 @@
       "wiki": {
         "extract": "The Newborn Monument (NEWBORN) is a typographic sculpture and tourist attraction in Pristina, Kosovo. Located in front of the Palace of Youth and Sports, the monument was unveiled on 17 February 2008, the day that Kosovo formally declared its independence from Serbia. The monument consists of the English-language word \"Newborn\" in capital block letters, which were painted bright yellow when the sculpture was first revealed. The monument was later re-painted with the flags of the states that have recognized Kosovo. At the unveiling of the monument it was announced that it will be painted differently on the anniversary of Kosovo's independence movement day every year. The monument attracted the attention of international media reporting Kosovo's movement declaration of independence, and it was featured prominently on the front page of The New York Times.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/NEWBORN_Monument.jpg",
-        "url": "https://en.wikipedia.org/wiki/Newborn_monument"
+        "url": "https://en.wikipedia.org/wiki/Newborn_monument",
+        "coordinates": {
+          "lat": 42.660539,
+          "lon": 21.158209
+        }
       }
     }
   ],
@@ -76,5 +88,19 @@
     "Kosovo Documentary: A Nation's Struggle for Independence",
     "Kosovo Culture and Traditions",
     "Exploring Pristina - The Capital of Kosovo"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Pristina",
+      "capital": true,
+      "lat": 42.66671,
+      "lon": 21.165984
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/kosovo.svg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKosovo_CIA_map_PL.svg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

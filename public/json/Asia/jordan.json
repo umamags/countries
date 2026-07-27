@@ -14,7 +14,8 @@
       "wiki": {
         "extract": "Petra, originally known to its inhabitants as Raqmu, is an ancient city and archaeological site in southern Jordan. Famous for its rock-cut architecture and water conduit systems, Petra is also called the \"Rose City\" because of the colour of the sandstone from which it is carved. The city is one of the New 7 Wonders of the World and a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/3840px-Al_Deir_Petra.JPG",
-        "url": "https://en.wikipedia.org/wiki/Petra"
+        "url": "https://en.wikipedia.org/wiki/Petra",
+        "coordinates": null
       }
     },
     {
@@ -23,7 +24,11 @@
       "wiki": {
         "extract": "Wadi Rum (Arabic: وادي رم Wādī Ramm, also Wādī al-Ramm, known also as the Valley of the Moon or Red mountains, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km to the east of the city of Aqaba. With an area of 720 km2 it is the largest wadi in Jordan.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg",
-        "url": "https://en.wikipedia.org/wiki/Wadi_Rum"
+        "url": "https://en.wikipedia.org/wiki/Wadi_Rum",
+        "coordinates": {
+          "lat": 29.59305556,
+          "lon": 35.42
+        }
       }
     },
     {
@@ -32,7 +37,8 @@
       "wiki": {
         "extract": "The Dead Sea, also known by other names, is a landlocked salt lake bordered by Jordan to the east, the West Bank to the west and Israel to the southwest. It lies in the endorheic basin of the Jordan Rift Valley, and its main tributary is the Jordan River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Dead_Sea_beach_00.JPG",
-        "url": "https://en.wikipedia.org/wiki/Dead_Sea"
+        "url": "https://en.wikipedia.org/wiki/Dead_Sea",
+        "coordinates": null
       }
     },
     {
@@ -41,7 +47,8 @@
       "wiki": {
         "extract": "The Amman Citadel on Citadel Hill is an archaeological site on an L-shaped hill towering over Downtown Amman, in the central part of the capital of Jordan.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Amman_Citadel.jpg",
-        "url": "https://en.wikipedia.org/wiki/Amman_Citadel"
+        "url": "https://en.wikipedia.org/wiki/Amman_Citadel",
+        "coordinates": null
       }
     },
     {
@@ -50,7 +57,11 @@
       "wiki": {
         "extract": "Jerash or Jarash is a city in northern Jordan. The city is the administrative center of the Jerash Governorate, and has a population of 50,745 as of 2015. It is located 30.0 miles north of the capital city Amman.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Oval_Plaza_%28Forum_Romanum%2C_Gerasa_-_Jerash%2C_Jordan%29_-_%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D9%86%D8%AF%D9%88%D8%A9%2C_%D8%AC%D8%B1%D8%B4.jpg/3840px-Oval_Plaza_%28Forum_Romanum%2C_Gerasa_-_Jerash%2C_Jordan%29_-_%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D9%86%D8%AF%D9%88%D8%A9%2C_%D8%AC%D8%B1%D8%B4.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jerash"
+        "url": "https://en.wikipedia.org/wiki/Jerash",
+        "coordinates": {
+          "lat": 32.28055556,
+          "lon": 35.89722222
+        }
       }
     }
   ],
@@ -98,5 +109,19 @@
     "Wadi Rum Desert Adventure in Jordan",
     "The Dead Sea Experience - Jordan",
     "Jordan Travel Guide | Top Places to Visit"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Amman",
+      "capital": true,
+      "lat": 31.951971,
+      "lon": 35.931354
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/jordan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJordan_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

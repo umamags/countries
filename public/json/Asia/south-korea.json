@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Gyeongbokgung is a former royal palace in Seoul, South Korea. Established in 1395, it was the first royal palace of the Joseon dynasty, and is now one of the most significant tourist attractions in the country.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/3840px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gyeongbokgung"
+        "url": "https://en.wikipedia.org/wiki/Gyeongbokgung",
+        "coordinates": {
+          "lat": 37.579884,
+          "lon": 126.9768
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Namsan Seoul Tower, also known as the YTN Seoul Tower, Namsan Tower, Seoul Tower or N Seoul Tower, is a communication and observation tower located on the summit of Namsan in central Seoul, South Korea. The 236-metre-tall (774 ft) structure was the nation’s first tower servicing multiple TV and radio broadcasters, and is considered a landmark and symbol of the city.",
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/NamsanTower_%28Cropped%29.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower"
+        "url": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower",
+        "coordinates": {
+          "lat": 37.551216,
+          "lon": 126.988276
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Jeju Island is South Korea's largest island, covering an area of 1,833.2 km2 (707.8 sq mi), which is 1.83% of the total area of the country. Alongside outlying islands, it is part of Jeju Province and makes up the majority of the province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jeju_Island.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jeju_Island"
+        "url": "https://en.wikipedia.org/wiki/Jeju_Island",
+        "coordinates": {
+          "lat": 33.38,
+          "lon": 126.53
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Bukchon Hanok Village (Korean: 북촌한옥마을) is a residential neighborhood in Jongno District, Seoul, South Korea. It has many restored traditional Korean houses, called hanok. This has made it a popular tourist destination.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/3840px-Bukchon_Hanok_Village_01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bukchon_Hanok_Village"
+        "url": "https://en.wikipedia.org/wiki/Bukchon_Hanok_Village",
+        "coordinates": {
+          "lat": 37.58305556,
+          "lon": 126.98361111
+        }
       }
     },
     {
@@ -50,7 +66,8 @@
       "wiki": {
         "extract": "A demilitarized zone is an area in which treaties or agreements between states, military powers or contending groups forbid military installations, activities, or personnel. A DZ often lies along an established frontier or boundary between two or more military powers or alliances. A DZ may sometimes form a de facto international border, such as the Korean Demilitarized Zone. Other examples of demilitarized zones are a 14 km (8.7 mi) wide area between Iraq and Kuwait; Antarctica ; and outer space.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20120416_WN_C1022490_0002_-_Flickr_-_NZ_Defence_Force.jpg/3840px-20120416_WN_C1022490_0002_-_Flickr_-_NZ_Defence_Force.jpg",
-        "url": "https://en.wikipedia.org/wiki/Demilitarized_zone"
+        "url": "https://en.wikipedia.org/wiki/Demilitarized_zone",
+        "coordinates": null
       }
     }
   ],
@@ -108,5 +125,43 @@
     "Korean Culture and Traditions Explained",
     "South Korean Cuisine: Must-Try Foods",
     "Understanding the Korean Peninsula Conflict"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Seoul",
+      "capital": true,
+      "lat": 37.568295,
+      "lon": 126.997785
+    },
+    {
+      "name": "Busan",
+      "capital": false,
+      "lat": 35.096999,
+      "lon": 129.008102
+    },
+    {
+      "name": "Incheon",
+      "capital": false,
+      "lat": 37.478094,
+      "lon": 126.640288
+    },
+    {
+      "name": "Daejeon",
+      "capital": false,
+      "lat": 36.337492,
+      "lon": 127.423082
+    },
+    {
+      "name": "Gwangju",
+      "capital": false,
+      "lat": 35.172912,
+      "lon": 126.908488
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/south-korea.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Korea%2C_South.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

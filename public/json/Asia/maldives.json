@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Malé Friday Mosque, also known as the Malé Hukuru Miskiy, or the Old Friday Mosque, is a Sufi Sunni mosque, located in the city of Malé, Kaafu Atoll, Maldives.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Male%27_Hukuru_Miskiy_1.jpg/3840px-Male%27_Hukuru_Miskiy_1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mal%C3%A9_Friday_Mosque"
+        "url": "https://en.wikipedia.org/wiki/Mal%C3%A9_Friday_Mosque",
+        "coordinates": {
+          "lat": 4.17805556,
+          "lon": 73.5125
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Hulhumalé is a reclaimed island located in the south of North Malé Atoll, Maldives. The artificial island is being built up by pumping sand from the sea floor, in order to meet the existing and future housing, industrial and commercial development demands of the Malé region and as a response to the threat posed by rising sea levels. The official settlement was inaugurated by President Maumoon Abdul Gayoom on May 12, 2004.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Malediven_R%C3%BCckflug_Hulhumale_6.jpg/3840px-Malediven_R%C3%BCckflug_Hulhumale_6.jpg",
-        "url": "https://en.wikipedia.org/wiki/Hulhumal%C3%A9"
+        "url": "https://en.wikipedia.org/wiki/Hulhumal%C3%A9",
+        "coordinates": {
+          "lat": 4.21666667,
+          "lon": 73.53333333
+        }
       }
     },
     {
@@ -33,7 +41,8 @@
       "wiki": {
         "extract": "Maldives is an island country in the Indian Ocean, South Asia, south-southwest of India. It has a total land size of 298 km2 (115 mi2) which makes it the smallest country in Asia. It consists of approximately 1,190 coral islands grouped in a double chain of 26 atolls, spread over roughly 90,000 square kilometres, making this one of the most geographically dispersed countries in the world. It has the 31st largest exclusive economic zone of 923,322 km2 (356,497 mi2). Composed of live coral reefs and sand bars, the atolls are situated atop a submarine ridge, 960 km (600 mi) long that rises abruptly from the depths of the Indian Ocean and runs from north to south. Only near the southern end of this natural coral barricade do two open passages permit safe ship navigation from one side of the Indian Ocean to the other through the territorial waters of Maldives. For administrative purposes the Maldives government organised these atolls into twenty-one administrative divisions.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Maldives_pol98.jpg",
-        "url": "https://en.wikipedia.org/wiki/Geography_of_the_Maldives"
+        "url": "https://en.wikipedia.org/wiki/Geography_of_the_Maldives",
+        "coordinates": null
       }
     },
     {
@@ -42,7 +51,8 @@
       "wiki": {
         "extract": "Manta rays are large rays belonging to the genus Mobula. Three species are known: M. birostris, the largest at 7 m (23 ft) in width, M. yarae, which reaches 6 m (20 ft), and M. alfredi, the smallest at 5.5 m (18 ft). All three have triangular pectoral fins, horn-shaped cephalic fins and large, forward-facing mouths. They are classified among the Myliobatiformes and are placed in the family Myliobatidae. They have one of the highest brain-to-body ratio of all fish, advanced cognition, and may understand mirror contingencies.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG",
-        "url": "https://en.wikipedia.org/wiki/Manta_ray"
+        "url": "https://en.wikipedia.org/wiki/Manta_ray",
+        "coordinates": null
       }
     },
     {
@@ -51,7 +61,11 @@
       "wiki": {
         "extract": "Utheemu is one of the inhabited islands of Haa Alif Atoll administrative division and geographically part of Thiladhummathi Atoll in the north of the Maldives. It is an island-level administrative constituency governed by the Utheemu Island Council.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Utheemu03.jpg",
-        "url": "https://en.wikipedia.org/wiki/Utheemu"
+        "url": "https://en.wikipedia.org/wiki/Utheemu",
+        "coordinates": {
+          "lat": 6.83444444,
+          "lon": 73.11305556
+        }
       }
     }
   ],
@@ -107,5 +121,19 @@
     "The Culture and Traditions of Maldives",
     "Maldives: Climate Change and Rising Sea Levels",
     "Top 10 Things to Do in Maldives"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Malé",
+      "capital": true,
+      "lat": 4.166708,
+      "lon": 73.499948
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/maldives.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMaldives-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

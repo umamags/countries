@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Mount Kenya is the second highest mountain in Africa. Located about 150 km north-northeast of the capital Nairobi and just 16.5 kilometres south of the equator, the mountain's highest peaks are Batian, Nelion, and Point Lenana. Historically situated in the former Eastern and Central provinces, the massif now serves as the intersection of Meru, Embu, Kirinyaga, Nyeri, and Tharaka Nithi counties. The area was officially gazetted as the Mount Kenya National Park in 1949 and was later designated a UNESCO World Heritage Site in 1997 for its outstanding natural beauty and ecological significance. Today, the park and its surrounding forest reserve are managed by the Kenya Wildlife Service and the Kenya Forest Service as a critical sanctuary for endangered species and a primary water tower for the region.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MtKenya.jpg/3840px-MtKenya.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Kenya"
+        "url": "https://en.wikipedia.org/wiki/Mount_Kenya",
+        "coordinates": {
+          "lat": -0.15083333,
+          "lon": 37.3075
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Maasai Mara, sometimes also spelt Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok County, Kenya, contiguous with the Serengeti National Park in Tanzania. It is named in honour of the Maasai people, the ancestral inhabitants of the area, who migrated to the area from the Nile Basin. Their description of the area when looked at from afar: \"Mara\" means \"spotted\" in the Maa language because of the short bushy trees which dot the landscape.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Masai_Mara_at_Sunset.jpg",
-        "url": "https://en.wikipedia.org/wiki/Maasai_Mara"
+        "url": "https://en.wikipedia.org/wiki/Maasai_Mara",
+        "coordinates": {
+          "lat": -1.49,
+          "lon": 35.14
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Nakuru, sometimes referred to as Nakuru City, is the capital city of Nakuru County, Kenya. As of 2019, Nakuru had an urban population of 570,674. The city lies along the Nairobi–Nakuru Highway, 160 kilometres (99 mi) from Nairobi, the capital city of Kenya. In December 2021, Nakuru City became the fourth urban area in Kenya to be assigned the status of \"city\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Golden_life_mall%2C_Nakuru.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nakuru"
+        "url": "https://en.wikipedia.org/wiki/Nakuru",
+        "coordinates": {
+          "lat": -0.3,
+          "lon": 36.06666667
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212 mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lamu_Old_Town.jpg",
-        "url": "https://en.wikipedia.org/wiki/Lamu"
+        "url": "https://en.wikipedia.org/wiki/Lamu",
+        "coordinates": {
+          "lat": -2.26944444,
+          "lon": 40.90222222
+        }
       }
     },
     {
@@ -51,7 +67,11 @@
       "wiki": {
         "extract": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km (4.3 mi) south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife.\nDespite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lions_of_Kenya_02.jpg/3840px-Lions_of_Kenya_02.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nairobi_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Nairobi_National_Park",
+        "coordinates": {
+          "lat": -1.37333333,
+          "lon": 36.85888889
+        }
       }
     }
   ],
@@ -99,5 +119,37 @@
     "The Culture and Traditions of Kenya",
     "Kenyan Cuisine: Traditional Foods You Must Try",
     "History of Kenya: From Colonization to Independence"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Nairobi",
+      "capital": true,
+      "lat": -1.281401,
+      "lon": 36.814711
+    },
+    {
+      "name": "Mombasa",
+      "capital": false,
+      "lat": -4.03808,
+      "lon": 39.687972
+    },
+    {
+      "name": "Eldoret",
+      "capital": false,
+      "lat": 0.520006,
+      "lon": 35.269981
+    },
+    {
+      "name": "Meru",
+      "capital": false,
+      "lat": 0.059982,
+      "lon": 37.640018
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/kenya.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKenya-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

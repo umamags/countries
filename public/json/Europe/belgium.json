@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "The Atomium is a landmark modernist building in Brussels, Belgium, originally constructed as the centrepiece of the 1958 Brussels World's Fair. Designed by the engineer André Waterkeyn and the architects André and Jean Polak as a tribute to scientific progress, as well as to symbolise Belgian engineering skills at the time, it is located on the Heysel/Heizel Plateau in Laeken, where the exhibition took place. It is the city's most popular tourist attraction, and serves as a museum, an art centre and a cultural destination.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Brussels_-_Atomium_2022.jpg",
-        "url": "https://en.wikipedia.org/wiki/Atomium"
+        "url": "https://en.wikipedia.org/wiki/Atomium",
+        "coordinates": {
+          "lat": 50.89472222,
+          "lon": 4.34111111
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "The Grand-Place or Grote Markt is the central square of Brussels, Belgium. It is surrounded by opulent Baroque guildhalls of the former Guilds of Brussels and two larger edifices: the city's Flamboyant Town Hall, and the neo-Gothic King's House or Bread House building, housing the Brussels City Museum. The square measures 68 by 110 metres and is entirely paved.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/3840px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg",
-        "url": "https://en.wikipedia.org/wiki/Grand-Place"
+        "url": "https://en.wikipedia.org/wiki/Grand-Place",
+        "coordinates": {
+          "lat": 50.84666667,
+          "lon": 4.3525
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Manneken Pis is a landmark 55.5 cm (21.9 in) bronze fountain sculpture in central Brussels, Belgium, depicting a puer mingens: a nude boy urinating into the fountain's basin. Though its existence is attested as early as the mid-15th century, Manneken Pis was redesigned by the Brabantine sculptor Jérôme Duquesnoy the Elder and put in place in 1619. Its blue stone niche in rocaille style dates from 1770. The statue has been repeatedly stolen or damaged throughout its history. Since 1965, a replica has been displayed on site, with the original stored in the Brussels City Museum.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bruxelles_Manneken_Pis_cropped.jpg",
-        "url": "https://en.wikipedia.org/wiki/Manneken_Pis"
+        "url": "https://en.wikipedia.org/wiki/Manneken_Pis",
+        "coordinates": {
+          "lat": 50.8449861,
+          "lon": 4.3499932
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "The Belfry of Bruges is a medieval bell tower in the centre of Bruges, Belgium. One of the city's most prominent symbols, the belfry formerly housed a treasury and the municipal archives and served as an observation post for spotting fires and other dangers.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Brugge_Belfort_HDR.jpg",
-        "url": "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+        "url": "https://en.wikipedia.org/wiki/Belfry_of_Bruges",
+        "coordinates": {
+          "lat": 51.20833333,
+          "lon": 3.22472222
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "Waterloo is a municipality in Wallonia, located in the province of Walloon Brabant, Belgium, which in 2011 had a population of 29,706 and an area of 21.03 km2 (8.12 sq mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Maison_communale_Waterloo.jpg",
-        "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Belgium"
+        "url": "https://en.wikipedia.org/wiki/Waterloo%2C_Belgium",
+        "coordinates": {
+          "lat": 50.71746944,
+          "lon": 4.39791111
+        }
       }
     }
   ],
@@ -102,5 +122,19 @@
     "Belgian Food and Drink: Waffles, Chocolate, and Beer",
     "The History of Belgium Explained",
     "Belgium Travel Guide: Tips and Highlights"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Brussels",
+      "capital": true,
+      "lat": 50.835263,
+      "lon": 4.331371
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/belgium.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABelgium-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

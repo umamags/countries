@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Belém Tower, officially the Tower of Saint Vincent, is a 16th-century fortification located in Lisbon, Portugal, which served as a point of embarkation and disembarkation for Portuguese explorers and as a ceremonial gateway to Lisbon. The tower symbolizes Portugal's maritime and colonial power in early modern Europe. It was built during the height of the Portuguese Renaissance and is a prominent example of the Portuguese Manueline style, but it also incorporates other architectural styles, such as the minarets, which are inspired by Moorish architecture. The structure was built from lioz limestone, a material local to the Lisbon region, and is composed of a bastion and a 30-metre (100 ft) four-storey tower.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower"
+        "url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+        "coordinates": {
+          "lat": 38.69166667,
+          "lon": -9.21611111
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Jerónimos Monastery or Hieronymites Monastery is a former monastery of the Order of Saint Jerome near the Tagus river in the parish of Belém, in the Lisbon Municipality, Portugal. It became the necropolis of the Portuguese royal dynasty of Aviz in the 16th century but was secularized on 28 December 1833 by state decree and its ownership transferred to the charitable institution, Real Casa Pia de Lisboa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Jer%C3%B3nimos_Monastery_or_Hieronymites_Monastery.png",
-        "url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery"
+        "url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+        "coordinates": {
+          "lat": 38.69777778,
+          "lon": -9.20611111
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Douro is the largest river of the Iberian Peninsula by discharge. It rises near Duruelo de la Sierra in the Spanish province of Soria, meanders briefly south, then flows generally west through the northern part of the Meseta Central in Castile and León into northern Portugal. Its largest tributary is the right-bank Esla. The Douro flows into the Atlantic Ocean at Porto, the second largest city of Portugal.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg/3840px-Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Douro"
+        "url": "https://en.wikipedia.org/wiki/Douro",
+        "coordinates": {
+          "lat": 41.14333333,
+          "lon": -8.66944444
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Sintra, officially the Town of Sintra, is a town and municipality in the Greater Lisbon region of Portugal, located on the Portuguese Riviera. The population of the municipality in 2021 was 385,654, in an area of 319.23 square kilometres (123.26 sq mi). Sintra is one of the most urbanized and densely populated municipalities of Portugal. A major tourist destination famed for its picturesqueness, the municipality has several historic palaces, castles, scenic beaches, parks and gardens.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg/3840px-Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sintra"
+        "url": "https://en.wikipedia.org/wiki/Sintra",
+        "coordinates": {
+          "lat": 38.79916667,
+          "lon": -9.38833333
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Ribeira Square is a historical square in Porto, Portugal. It is included in the historical centre of the city, designated World Heritage by UNESCO.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Porto_July_2014-34a.jpg/3840px-Porto_July_2014-34a.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ribeira_Square"
+        "url": "https://en.wikipedia.org/wiki/Ribeira_Square",
+        "coordinates": {
+          "lat": 41.1407,
+          "lon": -8.613
+        }
       }
     }
   ],
@@ -96,5 +116,31 @@
     "Portuguese Cuisine: Traditional Dishes Explained",
     "The History of Portugal in 10 Minutes",
     "Fado Music: The Soul of Portugal"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Lisbon",
+      "capital": true,
+      "lat": 38.724669,
+      "lon": -9.146812
+    },
+    {
+      "name": "Funchal",
+      "capital": false,
+      "lat": 32.649983,
+      "lon": -16.88004
+    },
+    {
+      "name": "Ponta Delgada",
+      "capital": false,
+      "lat": 37.748302,
+      "lon": -25.666584
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/portugal.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Portugal.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

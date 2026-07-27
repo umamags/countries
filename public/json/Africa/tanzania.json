@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Kilimanjaro Region is one of Tanzania's 31 administrative regions. The regional capital and largest city is the municipality of Moshi. With the 3rd highest HDI of 0.640 in the country, Kilimanjaro is one among the top five most developed regions of Tanzania. According to the 2012 national census, the region had a population of 1,640,087, which was lower than the pre-census projection of 1,702,207. For 2002–2012, the region's 1.8 percent average annual population growth rate was the 24th highest in the country. It was also the eighth most densely populated region with 124 people per square kilometer. The most well-known tribes in the Kilimanjaro region are the Chaga.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Uhuru_Peak_Mt._Kilimanjaro_1.JPG",
-        "url": "https://en.wikipedia.org/wiki/Kilimanjaro_Region"
+        "url": "https://en.wikipedia.org/wiki/Kilimanjaro_Region",
+        "coordinates": {
+          "lat": -4.1337,
+          "lon": 37.8088
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "The Serengeti National Park is a large national park in northern Tanzania that stretches over 14,763 km2 (5,700 sq mi). It is located in eastern Mara Region and northeastern Simiyu Region and contains over 15,000 km2 (5,800 sq mi) of savanna. The park was established in 1940.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/3840px-Serengeti-Landscape-2012.JPG",
-        "url": "https://en.wikipedia.org/wiki/Serengeti_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Serengeti_National_Park",
+        "coordinates": {
+          "lat": -2.4,
+          "lon": 34.6
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Ngorongoro Conservation Area is a protected area and a UNESCO World Heritage Site located in Ngorongoro District, 180 km (110 mi) west of Arusha City in Arusha Region, within the Crater Highlands geological area of northeastern Tanzania. The area is named after Ngorongoro Crater, a large volcanic caldera within the area. The Ngorongoro Conservation Area Authority (NCAA), which administers the Ngorongoro Conservation Area (NCA), is an arm of the Tanzanian government and its boundaries follow the boundary of the Ngorongoro District in the Arusha Region. The western portion of the park abuts the Serengeti National Park (SNP). The area comprising the NCA, SNP, and Kenya's Maasai Mara game reserve is home to Great Migration, a massive annual migration of millions of wildebeest, zebras, gazelles, and other animals. The NCA also contains Olduvai Gorge, one of the most important paleoanthropological sites in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ngorongoro-1001-2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area"
+        "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area",
+        "coordinates": {
+          "lat": -3.21,
+          "lon": 35.46
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "The Zanzibar Archipelago is a group of islands off the coast of mainland Tanzania in the Sea of Zanj. The archipelago is also known as the Spice Islands.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Zanzibar_Archipelago_location_map.svg/3840px-Zanzibar_Archipelago_location_map.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Zanzibar_Archipelago"
+        "url": "https://en.wikipedia.org/wiki/Zanzibar_Archipelago",
+        "coordinates": {
+          "lat": -6.55,
+          "lon": 39.56666667
+        }
       }
     }
   ],
@@ -90,5 +106,43 @@
     "Serengeti National Park Safari Experience",
     "Zanzibar: History and Beaches of Tanzania's Spice Island",
     "Tanzanian Culture and Traditions Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Dar es Salaam",
+      "capital": true,
+      "lat": -6.798067,
+      "lon": 39.266396
+    },
+    {
+      "name": "Mwanza",
+      "capital": false,
+      "lat": -2.520015,
+      "lon": 32.930021
+    },
+    {
+      "name": "Zanzibar",
+      "capital": false,
+      "lat": -6.16,
+      "lon": 39.200026
+    },
+    {
+      "name": "Arusha",
+      "capital": false,
+      "lat": -3.360016,
+      "lon": 36.669999
+    },
+    {
+      "name": "Mbeya",
+      "capital": false,
+      "lat": -8.890014,
+      "lon": 33.430042
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/tanzania.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATanzania-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

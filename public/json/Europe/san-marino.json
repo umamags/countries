@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Guaita, also known as the Rocca is one of three towered peaks overlooking the city of San Marino, the capital of San Marino. The other two are Cesta and Montale.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg/3840px-Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Guaita"
+        "url": "https://en.wikipedia.org/wiki/Guaita",
+        "coordinates": {
+          "lat": 43.9354,
+          "lon": 12.4496
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The City of San Marino, also known simply as San Marino and locally as Città, is the capital city of the Republic of San Marino and one of its nine castelli. It has a population of 4,118. It is on the western slopes of San Marino's highest point, Monte Titano. It is also the fifth-least-populated national capital in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Basilica_del_Santo_Marino%2C_San_Marino%2C_2022-09-20%2C_DD_11.jpg/3840px-Basilica_del_Santo_Marino%2C_San_Marino%2C_2022-09-20%2C_DD_11.jpg",
-        "url": "https://en.wikipedia.org/wiki/City_of_San_Marino"
+        "url": "https://en.wikipedia.org/wiki/City_of_San_Marino",
+        "coordinates": {
+          "lat": 43.9346,
+          "lon": 12.4473
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Palazzo Pubblico is the city hall of the City of San Marino. It is where official state ceremonies take place, and it is the seat of the Republic's main institutional and administrative bodies: the Captains Regent, the Grand and General Council, the Council of XII, and the Congress of State.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palazzo_Pubblico_-_esterno.jpg/3840px-Palazzo_Pubblico_-_esterno.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palazzo_Pubblico_(San_Marino)"
+        "url": "https://en.wikipedia.org/wiki/Palazzo_Pubblico_(San_Marino)",
+        "coordinates": {
+          "lat": 43.9369,
+          "lon": 12.4466
+        }
       }
     }
   ],
@@ -66,5 +78,19 @@
     "San Marino: A Tiny Country with a Big History",
     "Visiting San Marino - Europe's Smallest Republic",
     "San Marino - History, Culture and Attractions"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "San Marino",
+      "capital": true,
+      "lat": 43.936096,
+      "lon": 12.44177
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/san-marino.gif",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASan_Marino_CIA_map.gif",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

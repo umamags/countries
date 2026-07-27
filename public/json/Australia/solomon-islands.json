@@ -16,7 +16,8 @@
       "wiki": {
         "extract": "Marovo Lagoon is the largest double-barrier enclosed lagoon in the world. Located in the New Georgia Islands, Western Province, Solomon Islands, between Vangunu and Nggatokae islands, both extinct volcanic islands, at 8.48°S 158.07°E. It covers 700 km2 (270 mi2) and is protected by a double barrier reef system. The Marovo Lagoon World Heritage Area is considered an area of high biodiversity and conservation value. The name Marovo is derived from the island of Marovo in the centre of the lagoon.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vangunu_Island_NASA.jpg",
-        "url": "https://en.wikipedia.org/wiki/Marovo_Lagoon"
+        "url": "https://en.wikipedia.org/wiki/Marovo_Lagoon",
+        "coordinates": null
       }
     },
     {
@@ -25,7 +26,11 @@
       "wiki": {
         "extract": "Tetepare Island is an island in Western Province, in the independent nation of Solomon Islands. Tetepare supports pristine lowland rainforest and a rich inshore marine area. Tetepare Island is identified as an area with high biodiversity and conservation values.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tetepare_Island_NASA.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tetepare_Island"
+        "url": "https://en.wikipedia.org/wiki/Tetepare_Island",
+        "coordinates": {
+          "lat": -8.716667,
+          "lon": 157.55
+        }
       }
     },
     {
@@ -34,7 +39,8 @@
       "wiki": {
         "extract": "The culture of the Solomon Islands reflects the extent of the differentiation and diversity among the groups living within the Solomon Islands archipelago, which lies within Melanesia in the Pacific Ocean, with the peoples distinguished by island, language, topography, and geography. The cultural area includes the nation state of Solomon Islands and the Bougainville Island, which is a part of Papua New Guinea.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Solomon_Islands_chief_wearing_a_spectacular_porpoise_tooth_chest_ornament_and_kap-kap%2C_Florida_or_Malaita.jpg",
-        "url": "https://en.wikipedia.org/wiki/Culture_of_the_Solomon_Islands_archipelago"
+        "url": "https://en.wikipedia.org/wiki/Culture_of_the_Solomon_Islands_archipelago",
+        "coordinates": null
       }
     },
     {
@@ -43,7 +49,11 @@
       "wiki": {
         "extract": "Honiara is the capital and largest city of Solomon Islands, situated on the northwestern coast of Guadalcanal. As of 2019, it had a population of 129,569 people. The city is served by Honiara International Airport and the seaport of Point Cruz, and lies along the Kukum Highway. In 1983, a capital territory – comprising the 22 square-kilometre metropolitan area of Honiara – was proclaimed, with a self-governing status akin to a province, although the city also retained its older role as capital of Guadalcanal Province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honiara_View.jpg/3840px-Honiara_View.jpg",
-        "url": "https://en.wikipedia.org/wiki/Honiara"
+        "url": "https://en.wikipedia.org/wiki/Honiara",
+        "coordinates": {
+          "lat": -9.43194444,
+          "lon": 159.95555556
+        }
       }
     }
   ],
@@ -81,5 +91,19 @@
     "History of the Solomon Islands - World War II Battles",
     "Traditional Life and Customs in the Solomon Islands",
     "Solomon Islands Marine Biodiversity and Conservation"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Honiara",
+      "capital": true,
+      "lat": -9.437994,
+      "lon": 159.949766
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/solomon-islands.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASolomon_Islands-CIA-WFB-map-thai.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic. Built in the 9th century, the castle has long served as the seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. As such, the term \"Prague Castle\" or simply \"Hrad\" are often used as metonymy for the president and his staff and advisors. The Bohemian Crown Jewels are kept within a hidden room inside it.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/3840px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg",
-        "url": "https://en.wikipedia.org/wiki/Prague_Castle"
+        "url": "https://en.wikipedia.org/wiki/Prague_Castle",
+        "coordinates": {
+          "lat": 50.09,
+          "lon": 14.4
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the early 15th century. The bridge replaced the old Judith Bridge built 1158–1172 that had been severely damaged by a flood in 1342. This new bridge was originally called Stone Bridge or Prague Bridge, but has been referred to as \"Charles Bridge\" since 1870.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg/3840px-Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg",
-        "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+        "url": "https://en.wikipedia.org/wiki/Charles_Bridge",
+        "coordinates": {
+          "lat": 50.08638889,
+          "lon": 14.41194444
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Český Krumlov is a town in the South Bohemian Region of the Czech Republic. It has about 13,000 inhabitants. The town is located on the Vltava River in the Bohemian Forest Foothills.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blick_auf_das_Stadtzentrum_von_Krumau_%282026%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov"
+        "url": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov",
+        "coordinates": {
+          "lat": 48.81111111,
+          "lon": 14.31527778
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Kutná Hora is a town in the Central Bohemian Region of the Czech Republic. It has about 22,000 inhabitants. The history of Kutná Hora is linked to silver mining, which made it a rich and rapidly developing town. The centre of Kutná Hora, including the Sedlec Abbey and the Sedlec Ossuary, was designated a UNESCO World Heritage Site in 1995 because of its outstanding architecture and its influence on subsequent architectural developments in other Central European city centres. The historic town centre is also protected as an urban monument reservation, the fourth largest in the Czech Republic.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kutn%C3%A1_Hora_%28003%29.jpg/3840px-Kutn%C3%A1_Hora_%28003%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora"
+        "url": "https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora",
+        "coordinates": {
+          "lat": 49.94833333,
+          "lon": 15.26833333
+        }
       }
     },
     {
@@ -50,7 +66,8 @@
       "wiki": {
         "extract": "Pilsner Urquell is a lager beer brewed at Asahi Breweries' Pilsner Urquell Brewery in Plzeň, Czech Republic. Pilsner Urquell was the world's first pale lager, and its popularity meant it was much copied, and named pils, pilsner or pilsener. It is hopped with Saaz hops, a noble hop variety that is a key element in its flavour profile, as is the use of soft water.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pilsner_Urquell_logo.svg/500px-Pilsner_Urquell_logo.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Pilsner_Urquell"
+        "url": "https://en.wikipedia.org/wiki/Pilsner_Urquell",
+        "coordinates": null
       }
     }
   ],
@@ -108,5 +125,19 @@
     "Czech Republic Travel Documentary",
     "Traditional Czech Food and Beer Experience",
     "History of the Czech Republic Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Prague",
+      "capital": true,
+      "lat": 50.085283,
+      "lon": 14.464034
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/czech-republic.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACzech_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

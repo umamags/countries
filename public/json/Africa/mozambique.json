@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Gorongosa National Park is at the southern end of the Great African Rift Valley in the heart of central Mozambique, Southeast Africa. The more than 4,000 km2 (1,500 sq mi) park comprises the valley floor and parts of surrounding plateaus. Rivers originating on nearby Mount Gorongosa at 1,863 m (6,112 ft) water the plain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gorongosa_Park_Gate.JPG",
-        "url": "https://en.wikipedia.org/wiki/Gorongosa_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Gorongosa_National_Park",
+        "coordinates": {
+          "lat": -18.766,
+          "lon": 34.5
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "Portuguese Mozambique or Portuguese East Africa were the common terms by which Mozambique was designated during the period in which it was a Portuguese overseas province. Portuguese Mozambique originally constituted a string of Portuguese possessions along the south-east African coast, and later became a unified province, which now forms the Republic of Mozambique.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/960px-Flag_of_Portugal_%28official%29.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Portuguese_Mozambique"
+        "url": "https://en.wikipedia.org/wiki/Portuguese_Mozambique",
+        "coordinates": {
+          "lat": -25.9153,
+          "lon": 32.5764
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "The Bazaruto Archipelago is a group of six islands in Mozambique, near the mainland city of Vilankulo. It comprises the islands of Bazaruto, Benguerra, Magaruque, Santa Carolina and Bangué.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS059-E-92404_-_View_of_Mozambique.jpg/3840px-ISS059-E-92404_-_View_of_Mozambique.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bazaruto_Archipelago"
+        "url": "https://en.wikipedia.org/wiki/Bazaruto_Archipelago",
+        "coordinates": {
+          "lat": -21.75,
+          "lon": 35.45
+        }
       }
     }
   ],
@@ -80,5 +92,43 @@
     "History of Mozambique: From Colonization to Independence",
     "Mozambique's Wildlife and National Parks",
     "Current Situation in Cabo Delgado, Mozambique"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Maputo",
+      "capital": true,
+      "lat": -25.953332,
+      "lon": 32.587217
+    },
+    {
+      "name": "Beira",
+      "capital": false,
+      "lat": -19.820045,
+      "lon": 34.870006
+    },
+    {
+      "name": "Nampula",
+      "capital": false,
+      "lat": -15.136041,
+      "lon": 39.293043
+    },
+    {
+      "name": "Nacala",
+      "capital": false,
+      "lat": -14.518611,
+      "lon": 40.715024
+    },
+    {
+      "name": "Quelimane",
+      "capital": false,
+      "lat": -17.880008,
+      "lon": 36.889986
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/mozambique.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMozambique-CIA_WFB_Map_2021_orig.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

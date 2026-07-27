@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Mir is an urban-type settlement in Karelichy District, Grodno Region, Belarus. It is situated on the banks of Miranka River, about 85 kilometres (53 mi) southwest of the capital, Minsk. As of 2025, it has a population of 2,248.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/City_Mir_Belarus.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mir%2C_Belarus"
+        "url": "https://en.wikipedia.org/wiki/Mir%2C_Belarus",
+        "coordinates": {
+          "lat": 53.45,
+          "lon": 26.46666667
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Brest Fortress, formerly known as Brest-Litovsk Fortress, is a 19th-century fortress in Brest, Belarus. In 1965, the title Hero Fortress was given to the fortress to commemorate the defence of the frontier stronghold during the first week of Operation Barbarossa, when Axis forces invaded the Soviet Union on 22 June 1941. The title \"Hero Fortress\" corresponds to the title \"Hero City\" that the Presidium of the Supreme Soviet of the Soviet Union awarded to twelve Soviet cities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg",
-        "url": "https://en.wikipedia.org/wiki/Brest_Fortress"
+        "url": "https://en.wikipedia.org/wiki/Brest_Fortress",
+        "coordinates": {
+          "lat": 52.082,
+          "lon": 23.658
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The National Library of Belarus is the largest library in the Republic of Belarus, located in Minsk. It houses the largest collection of Belarusian printed materials and the third largest collection of books in Russian behind the Russian State Library (Moscow) and the Russian National Library.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/N%C3%A1rodn%C3%AD_knihovna%2C_Minsk_-_panoramio.jpg/3840px-N%C3%A1rodn%C3%AD_knihovna%2C_Minsk_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/National_Library_of_Belarus"
+        "url": "https://en.wikipedia.org/wiki/National_Library_of_Belarus",
+        "coordinates": {
+          "lat": 53.93138889,
+          "lon": 27.64583333
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "Nesvizh Castle or Nyasvizh Castle is a residential castle of the Radziwiłł family in Nyasvizh (Nesvizh), Belarus. It is 183 metres (600 ft) above sea level. Built originally in the 16th and 17th centuries, throughout its history the site has been sacked, damaged and abandoned repeatedly, and has seen multiple different uses including as a storehouse. Finally it has been extensively rebuilt and restored from 2004–2012. In 2005, the castle, church, and surrounding environment were inscribed on the UNESCO World Heritage List. The castle and the nearby Corpus Christi Church were instrumental in the development of Central European and Russian architecture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6_%D1%96_%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA_12.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nesvizh_Castle"
+        "url": "https://en.wikipedia.org/wiki/Nesvizh_Castle",
+        "coordinates": {
+          "lat": 53.22287778,
+          "lon": 26.69173611
+        }
       }
     },
     {
@@ -51,7 +67,11 @@
       "wiki": {
         "extract": "Belovezhskaya Pushcha National Park is a national park within parts of the Brest Region and Grodno Region in Belarus adjacent to the Polish border. Since 1992, it has been a preserved part of the UNESCO World Heritage Site Białowieża Forest, the last primeval forest fragment of the European woodlands that once stretched across the European Plain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/BelarusBNP09.JPG",
-        "url": "https://en.wikipedia.org/wiki/Belovezhskaya_Pushcha_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Belovezhskaya_Pushcha_National_Park",
+        "coordinates": {
+          "lat": 52.58546111,
+          "lon": 23.87912778
+        }
       }
     }
   ],
@@ -97,5 +117,25 @@
     "Belarusian Cuisine: Traditional Foods Explained",
     "The Political Landscape of Belarus in 2024",
     "Belovezhskaya Pushcha National Park - Europe's Ancient Forest"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Minsk",
+      "capital": true,
+      "lat": 53.901923,
+      "lon": 27.564681
+    },
+    {
+      "name": "Brest",
+      "capital": false,
+      "lat": 52.099984,
+      "lon": 23.69999
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/belarus.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABelarus_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

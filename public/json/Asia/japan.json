@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Mount Fuji  is an active stratovolcano located on the Japanese island of Honshu, with a summit elevation of 3,776.24 m. It is the highest mountain in Japan, the second-highest volcano on any Asian island, and the seventh-highest peak of an island on Earth. Mount Fuji last erupted from 1707 to 1708.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/3840px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Fuji"
+        "url": "https://en.wikipedia.org/wiki/Mount_Fuji",
+        "coordinates": {
+          "lat": 35.36083333,
+          "lon": 138.7275
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Tokyo Skytree , a.k.a Tokyo Sky Tree, is a broadcasting and observation tower, located in Sumida, Tokyo, Japan. It has been the tallest tower in Japan since opening in 2012, and reached its full height of 634 metres in early 2011, making it the tallest tower in the world, displacing the Canton Tower, and the third tallest structure in the world behind Merdeka 118 and Burj Khalifa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+        "url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+        "coordinates": {
+          "lat": 35.7101,
+          "lon": 139.8107
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Kinkaku-ji , officially named Rokuon-ji , is a Zen Buddhist temple in Kyoto, Japan and a tourist attraction. It is designated as a World Heritage Site, a National Special Historic Site, a National Special Landscape, and one of the 17 Historic Monuments of Ancient Kyoto. The temple is nicknamed after its reliquary (shariden), the Golden Pavilion , whose top two floors are coated in 0.5 μm gold leaf. The current pavilion was rebuilt in 1955 after being destroyed in an arson attack.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/3840px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kinkaku-ji"
+        "url": "https://en.wikipedia.org/wiki/Kinkaku-ji",
+        "coordinates": {
+          "lat": 35.0395,
+          "lon": 135.7285
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Himeji Castle  is a hilltop Japanese castle complex situated in Himeji, a city in Hyōgo Prefecture, Japan. The castle is regarded as the finest surviving example of prototypical Japanese castle architecture, comprising a network of 83 structures with advanced defensive systems from the feudal period. The castle is frequently known as Hakuro-jō or Shirasagi-jō because of its brilliant white exterior and supposed resemblance to a bird taking flight.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/3840px-Himeji_castle_in_may_2015.jpg",
-        "url": "https://en.wikipedia.org/wiki/Himeji_Castle"
+        "url": "https://en.wikipedia.org/wiki/Himeji_Castle",
+        "coordinates": {
+          "lat": 34.83944444,
+          "lon": 134.69388889
+        }
       }
     },
     {
@@ -50,7 +66,8 @@
       "wiki": {
         "extract": "Itsukushima Shrine  is a Shinto shrine on the island of Itsukushima, best known for its \"floating\" torii. It is in the city of Hatsukaichi, in Hiroshima Prefecture in Japan, accessible from the mainland by ferry at Miyajimaguchi Station. The shrine complex is listed as a UNESCO World Heritage Site, and the Japanese government has designated several buildings and possessions as National Treasures.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/3840px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Itsukushima_Shrine"
+        "url": "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
+        "coordinates": null
       }
     }
   ],
@@ -110,5 +127,43 @@
     "Japanese Culture and Traditions Explained",
     "Exploring Japanese Food: Sushi, Ramen & More",
     "Modern Japan: Economy, Technology, and Society"
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/japan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJapan_CIA_map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "cities": [
+    {
+      "name": "Tokyo",
+      "capital": true,
+      "lat": 35.686963,
+      "lon": 139.749462
+    },
+    {
+      "name": "Ōsaka",
+      "capital": false,
+      "lat": 34.751981,
+      "lon": 135.458199
+    },
+    {
+      "name": "Nagoya",
+      "capital": false,
+      "lat": 35.156943,
+      "lon": 136.913046
+    },
+    {
+      "name": "Fukuoka",
+      "capital": false,
+      "lat": 33.596961,
+      "lon": 130.408068
+    },
+    {
+      "name": "Sapporo",
+      "capital": false,
+      "lat": 43.076925,
+      "lon": 141.338099
+    }
   ]
 }

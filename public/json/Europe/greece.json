@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The word Acropolis is from Greek  ἄκρον (akron) 'highest point, extremity' and  πόλις (polis) 'city'. The term acropolis is generic and there are many other acropoleis in Greece. During ancient times the Acropolis of Athens was also more properly known as Cecropia (Κεκροπία), after the legendary serpent-man Cecrops, the supposed first Athenian king.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/3840px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
-        "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens"
+        "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+        "coordinates": {
+          "lat": 37.97166667,
+          "lon": 23.72611111
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Delphi, in legend previously called Pytho (Πυθώ), was an ancient sacred precinct in central Greece. It was the seat of Pythia, the major oracle who was consulted about important decisions throughout the ancient classical world. The ancient Greeks considered the centre of the world to be in Delphi, marked by the stone monument known as the Omphalos of Delphi. The term omphalos was the Greek word for \"navel\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Delphi%2C_Greece_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/Delphi"
+        "url": "https://en.wikipedia.org/wiki/Delphi",
+        "coordinates": {
+          "lat": 38.4823,
+          "lon": 22.5013
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Santorini, officially Thira or Thera, is a Greek island in the southern Aegean Sea, about 200 km (120 mi) southeast from the mainland. It is the largest island of a small, circular archipelago formed by the Santorini caldera. It is the southernmost member of the Cyclades group of islands, with an area of approximately 73 km2 (28 mi2) and a 2021 census population of 15,480. The municipality of Santorini includes the inhabited islands of Santorini and Therasia, and the uninhabited islands of Nea Kameni, Palaia Kameni, Aspronisi, Anydros, and Christiana. The total land area is 90 km2 (35 mi2). Santorini is part of the Thira regional unit.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2011_Dimos_Thiras.png",
-        "url": "https://en.wikipedia.org/wiki/Santorini"
+        "url": "https://en.wikipedia.org/wiki/Santorini",
+        "coordinates": {
+          "lat": 36.415,
+          "lon": 25.4325
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Meteora is a rock formation in the regional unit of Trikala, in Thessaly, in northwestern Greece, hosting one of the most prominent complexes of Eastern Orthodox monasteries, viewed locally as second in importance only to Mount Athos. Their height is more than 20 metres (66 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meteora%27s_monastery_2.jpg/3840px-Meteora%27s_monastery_2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Meteora"
+        "url": "https://en.wikipedia.org/wiki/Meteora",
+        "coordinates": {
+          "lat": 39.71416667,
+          "lon": 21.63111111
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Knossos is an archaeological site and ancient urban centre in Crete, Greece. It is located within the southern periphery of Heraklion, about 5 km (3.1 mi) south of the city's historic centre. The site was occupied from the Neolithic period into the first millennium AD and became the largest and best-known centre of the Minoan civilisation.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Crete_integrated_map-en.svg/960px-Crete_integrated_map-en.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Knossos"
+        "url": "https://en.wikipedia.org/wiki/Knossos",
+        "coordinates": {
+          "lat": 35.29805556,
+          "lon": 25.16305556
+        }
       }
     }
   ],
@@ -108,5 +128,25 @@
     "Greek Food and Culinary Traditions",
     "The Acropolis of Athens Explained",
     "Greece Travel Documentary 2023"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Athens",
+      "capital": true,
+      "lat": 37.985272,
+      "lon": 23.731375
+    },
+    {
+      "name": "Thessaloniki",
+      "capital": false,
+      "lat": 40.698052,
+      "lon": 22.883055
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/greece.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGreece_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

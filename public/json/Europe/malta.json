@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Valletta, also known as Città Umilissima, is the capital city of Malta and one of its 68 council areas. Located between the Grand Harbour to the east and Marsamxett Harbour to the west, its population as of 2021 was 5,157. As Malta's capital city, it is a commercial centre for shopping, bars, dining, and café life. It is also the southernmost capital of Europe, and, at just 0.61 square kilometres (0.24 sq mi), it is the European Union's smallest capital city.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/3840px-St_Sebastian_Curtain_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Valletta"
+        "url": "https://en.wikipedia.org/wiki/Valletta",
+        "coordinates": {
+          "lat": 35.89833333,
+          "lon": 14.5125
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Mdina, also known by its Italian epithets Città Vecchia and Città Notabile, is a fortified city in the Western Region of Malta which was the island's capital from antiquity to the medieval period. The city has not spread beyond its ancient walls, and had a population of 242 as of July 2024. This included 120 males and 122 females; 166 Maltese nationals and 76 foreign nationals.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg/3840px-Malta_-_Mdina_%28Triq_San_Oswald%29_02_ies.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mdina"
+        "url": "https://en.wikipedia.org/wiki/Mdina",
+        "coordinates": {
+          "lat": 35.88583333,
+          "lon": 14.40305556
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Beaghmore is a complex of early Bronze Age megalithic features, stone circles and cairns, 8.5 miles north west of Cookstown, County Tyrone in Northern Ireland, on the south-east edge of the Sperrin Mountains.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A_stone_circle_at_Beaghmore..jpg/3840px-A_stone_circle_at_Beaghmore..jpg",
-        "url": "https://en.wikipedia.org/wiki/Beaghmore"
+        "url": "https://en.wikipedia.org/wiki/Beaghmore",
+        "coordinates": {
+          "lat": 54.7014662,
+          "lon": -6.9387013
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "St John's Co-Cathedral is a Catholic co-cathedral in Valletta, Malta, dedicated to Saint John the Baptist. It was built by the Order of St. John between 1573 and 1578, having been commissioned by Grand Master Jean de la Cassière as the Conventual Church of Saint John.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St_John%27s_Co-Cathedral%2C_Valletta_001.jpg/3840px-St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
-        "url": "https://en.wikipedia.org/wiki/St_John's_Co-Cathedral"
+        "url": "https://en.wikipedia.org/wiki/St_John's_Co-Cathedral",
+        "coordinates": {
+          "lat": 35.89777778,
+          "lon": 14.51277778
+        }
       }
     },
     {
@@ -105,5 +121,19 @@
     "Malta Travel Guide 2024",
     "History of Malta in 10 Minutes",
     "Malta Food Tour: Traditional Maltese Cuisine"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Valletta",
+      "capital": true,
+      "lat": 35.899733,
+      "lon": 14.514711
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/malta.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACIA_factbook_map_of_Malta_and_Gozo.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Schönbrunn Palace was the main summer residence of the Habsburg rulers, located in Hietzing, the 13th district of Vienna. The name Schönbrunn has its roots in an artesian well from which water was consumed by the court.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG/3840px-Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
-        "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace"
+        "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+        "coordinates": {
+          "lat": 48.184516,
+          "lon": 16.311865
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Hofburg is a former Habsburg palace in Innsbruck, Austria, and considered one of the three most significant cultural buildings in the country, along with the Hofburg Palace and Schönbrunn Palace in Vienna. The Hofburg is the main building of a large residential complex once used by the Habsburgs that still includes the Noblewomen's Collegiate Foundation, the Silver Chapel, the Hofkirche containing Emperor Maximilian's cenotaph and the Schwarzen Mandern, the Theological University, the Tyrolean Folk Art Museum, Innsbruck Cathedral, the Congress, and the Hofgarten.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Innsbruck_-_Hofburg2.jpg/3840px-Innsbruck_-_Hofburg2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Hofburg%2C_Innsbruck"
+        "url": "https://en.wikipedia.org/wiki/Hofburg%2C_Innsbruck",
+        "coordinates": {
+          "lat": 47.268889,
+          "lon": 11.394444
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "St. Stephen's Cathedral is a Roman Catholic church in Vienna, Austria, and the mother church of the Archdiocese of Vienna. It is the seat of the Archbishop of Vienna, Josef Grünwidl.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wien_-_Stephansdom_%281%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/St._Stephen's_Cathedral%2C_Vienna"
+        "url": "https://en.wikipedia.org/wiki/St._Stephen's_Cathedral%2C_Vienna",
+        "coordinates": {
+          "lat": 48.2085,
+          "lon": 16.373
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Salzburg is the fourth-largest city in Austria. In 2026 its population was 157,994. The city lies on the Salzach River, near the border with Germany and at the foot of the Alps mountains.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Salzburg_%2848489551981%29.jpg/3840px-Salzburg_%2848489551981%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Salzburg"
+        "url": "https://en.wikipedia.org/wiki/Salzburg",
+        "coordinates": {
+          "lat": 47.8,
+          "lon": 13.045
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Grossglockner High Alpine Road is the highest surfaced mountain pass road in Austria. It connects Bruck in the state of Salzburg with Heiligenblut in Carinthia via the Fuscher Törl at 2,428 m (7,966 ft) and the Hochtor Pass at 2,504 m (8,215 ft). The road is named after the Grossglockner, Austria's highest mountain. Built as a scenic route, a toll is charged.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Grossglockner_road.jpg",
-        "url": "https://en.wikipedia.org/wiki/Grossglockner_High_Alpine_Road"
+        "url": "https://en.wikipedia.org/wiki/Grossglockner_High_Alpine_Road",
+        "coordinates": {
+          "lat": 47.08333333,
+          "lon": 12.84277778
+        }
       }
     }
   ],
@@ -108,5 +128,19 @@
     "Austrian Cuisine: Traditional Dishes Explained",
     "The Music of Austria: From Mozart to Modern Times",
     "Austria Travel Guide: What You Need to Know"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Vienna",
+      "capital": true,
+      "lat": 48.201961,
+      "lon": 16.364693
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/austria.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAustria_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

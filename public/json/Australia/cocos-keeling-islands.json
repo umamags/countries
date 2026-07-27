@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Cocos (Keeling) Islands, officially the Territory of Cocos (Keeling) Islands, are an Australian external territory located in the Indian Ocean, comprising a small archipelago approximately midway between Australia and Sri Lanka and relatively close to the Indonesian island of Sumatra. The territory's dual name reflects that the islands have historically been known as either the Cocos Islands or the Keeling Islands, the latter of which is still a common short name.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/500px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands"
+        "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
+        "coordinates": {
+          "lat": -12.1175,
+          "lon": 96.895
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "West Island, part of the South Keeling Islands, is the capital of the Cocos (Keeling) Islands, an Australian external territory in the Indian Ocean. The population is roughly 120, making it the third smallest capital in the world, and consists mainly of Europeans. It is less populous than Home Island, the only other inhabited island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cocos_%28Keeling%29_Islands_%2832206670676%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands"
+        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands",
+        "coordinates": {
+          "lat": -12.18694444,
+          "lon": 96.82833333
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "West Island, part of the South Keeling Islands, is the capital of the Cocos (Keeling) Islands, an Australian external territory in the Indian Ocean. The population is roughly 120, making it the third smallest capital in the world, and consists mainly of Europeans. It is less populous than Home Island, the only other inhabited island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cocos_%28Keeling%29_Islands_%2832206670676%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands"
+        "url": "https://en.wikipedia.org/wiki/West_Island%2C_Cocos_(Keeling)_Islands",
+        "coordinates": {
+          "lat": -12.18694444,
+          "lon": 96.82833333
+        }
       }
     }
   ],
@@ -67,5 +79,11 @@
     "Cocos (Keeling) Islands Travel Guide",
     "The Unique Culture of the Cocos (Keeling) Islands",
     "Wildlife and Nature of the Cocos (Keeling) Islands"
-  ]
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/cocos-keeling-islands.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACocos_%28Keeling%29_Islands-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Maiden Tower is a 12th-century monument in the Old City, Baku, Azerbaijan. Along with the Shirvanshahs' Palace, dated to the 15th century, it forms a group of historic monuments listed in 2001 under the UNESCO World Heritage List of Historical Monuments as cultural property, Category III. It was build, like most buildings in the Old City, by the Iranian Shirvanshahs, and is one of Azerbaijan's most distinctive national emblems, and is thus featured on Azerbaijani currency notes and official letterheads.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Maiden_tower_IMG_8521.jpg",
-        "url": "https://en.wikipedia.org/wiki/Maiden_Tower_(Baku)"
+        "url": "https://en.wikipedia.org/wiki/Maiden_Tower_(Baku)",
+        "coordinates": {
+          "lat": 40.3661,
+          "lon": 49.8372
+        }
       }
     },
     {
@@ -23,7 +27,8 @@
       "wiki": {
         "extract": "The Gobustan Rock Art Cultural Landscape is a historic site in Azerbaijan, comprising a large collection of petroglyphs that reflect the flora, fauna, hunting practices, social structures, and cultural expressions of human societies from prehistoric to medieval times. These engravings provide detailed depictions of anthropomorphic figures, such as lance-bearers and ritualistic dance scenes, as well as various animal species, bullfighting events, camel caravans, and celestial symbols such as the sun and other stars. Estimated to date back approximately 5,000 to 20,000 years, the rock art offers insight into the spiritual life and daily activities of early human populations in the region. It is recognized as a UNESCO World Heritage Site and forms part of the larger Gobustan State Historical and Cultural Reserve, which preserves archaeological, cultural, and natural landmarks.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Petroglyphs_of_Qobustan_2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gobustan_Rock_Art_Cultural_Landscape"
+        "url": "https://en.wikipedia.org/wiki/Gobustan_Rock_Art_Cultural_Landscape",
+        "coordinates": null
       }
     },
     {
@@ -32,7 +37,11 @@
       "wiki": {
         "extract": "The Heydar Aliyev Center is a 57,500 m2 (619,000 sq ft) building complex in Baku, Azerbaijan, designed by Zaha Hadid and noted for its distinctive architecture and flowing, curved style that eschews sharp angles. The main contractor, Dia Holdings, is owned by actors that are linked to Azerbaijan's ruling Aliyev family's network of offshore companies.",
         "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Heydar_Aliyev_Cultural_Center.jpg",
-        "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center"
+        "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+        "coordinates": {
+          "lat": 40.39527778,
+          "lon": 49.86694444
+        }
       }
     }
   ],
@@ -76,5 +85,19 @@
     "Azerbaijani Cuisine: Traditional Foods You Must Try",
     "Exploring Baku: The Capital of Azerbaijan",
     "Nagorno-Karabakh Conflict Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Baku",
+      "capital": true,
+      "lat": 40.397218,
+      "lon": 49.860271
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/azerbaijan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAzerbaijan_Transportation.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Eiffel Tower is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Eiffel_Tower_logo.svg/330px-Eiffel_Tower_logo.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+        "coordinates": {
+          "lat": 48.85822222,
+          "lon": 2.2945
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory. The museum is housed in the Louvre Palace, originally built in the late 12th to 13th century under Philip II. Remnants of the Medieval Louvre fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary residence of the French kings.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/3840px-Louvre_Museum_Wikimedia_Commons.jpg",
-        "url": "https://en.wikipedia.org/wiki/Louvre"
+        "url": "https://en.wikipedia.org/wiki/Louvre",
+        "coordinates": {
+          "lat": 48.8611,
+          "lon": 2.3358
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/3840px-Mont-Saint-Michel_vu_du_ciel.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+        "url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+        "coordinates": {
+          "lat": 48.636,
+          "lon": -1.511
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The Palace of Versailles is a château and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/3840px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+        "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+        "coordinates": {
+          "lat": 48.8047,
+          "lon": 2.1203
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "On 15 April 2019, at 18:18 CEST, a structural fire broke out in the roof space of Notre-Dame de Paris, a medieval Catholic cathedral in Paris, France, part of the \"Paris, Banks of the Seine\" UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Incendie_Notre_Dame_de_Paris.jpg",
-        "url": "https://en.wikipedia.org/wiki/Notre-Dame_fire"
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_fire",
+        "coordinates": {
+          "lat": 48.853,
+          "lon": 2.35
+        }
       }
     }
   ],
@@ -108,5 +128,43 @@
     "French Cuisine Explained: Traditional Dishes and Culinary Secrets",
     "History of France: From the Revolution to Modern Day",
     "Understanding French Politics and Society"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Paris",
+      "capital": true,
+      "lat": 48.868639,
+      "lon": 2.33139
+    },
+    {
+      "name": "Lyon",
+      "capital": false,
+      "lat": 45.771954,
+      "lon": 4.828085
+    },
+    {
+      "name": "Marseille",
+      "capital": false,
+      "lat": 43.291925,
+      "lon": 5.373064
+    },
+    {
+      "name": "Lille",
+      "capital": false,
+      "lat": 50.651915,
+      "lon": 3.078062
+    },
+    {
+      "name": "Toulouse",
+      "capital": false,
+      "lat": 43.621905,
+      "lon": 1.447981
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/france.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrance-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

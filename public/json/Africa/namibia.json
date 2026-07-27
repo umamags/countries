@@ -19,7 +19,11 @@
       "wiki": {
         "extract": "Etosha National Park is a national park in northwestern Namibia and one of the largest national parks in Africa. It was proclaimed a game reserve in March 1907 in Ordinance 88 by the Governor of German South West Africa, Friedrich von Lindequist. It was designated as Wildschutzgebiet in 1958, and was awarded the status of national park in 1967, by an act of parliament of the Republic of South Africa. It spans an area of 22,270 km2 (8,600 sq mi) and was named after the large Etosha pan which is almost entirely within the park. With an area of 4,760 km2 (1,840 sq mi), the Etosha pan covers 23% of the total area of the national park. The area is home to hundreds of species of mammals, birds and reptiles, including several threatened and endangered species such as the black rhinoceros. Sixty-one black rhinoceros were killed during poaching in Namibia during 2022, 46 of which were killed in Etosha.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dust_Cloud_in_Etosha_National_Park.jpg",
-        "url": "https://en.wikipedia.org/wiki/Etosha_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Etosha_National_Park",
+        "coordinates": {
+          "lat": -18.94527778,
+          "lon": 15.89777778
+        }
       }
     },
     {
@@ -28,7 +32,11 @@
       "wiki": {
         "extract": "Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. The name \"Sossusvlei\" is often used in an extended meaning to refer to the surrounding area. These landmarks are some of the major visitor attractions of Namibia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sossusvlei.jpg/3840px-Sossusvlei.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sossusvlei"
+        "url": "https://en.wikipedia.org/wiki/Sossusvlei",
+        "coordinates": {
+          "lat": -24.73983,
+          "lon": 15.28765
+        }
       }
     },
     {
@@ -37,7 +45,11 @@
       "wiki": {
         "extract": "The Fish River Canyon is located in the south of Namibia. It is the largest canyon in Africa, and the second most visited tourist attraction in Namibia. It features a gigantic ravine, in total about 160 kilometres (100 mi) long, up to 27 km wide and in places almost 550 meters deep.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fish_River_Canyon_from_Main_View_Point.jpg/3840px-Fish_River_Canyon_from_Main_View_Point.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fish_River_Canyon"
+        "url": "https://en.wikipedia.org/wiki/Fish_River_Canyon",
+        "coordinates": {
+          "lat": -27.589293,
+          "lon": 17.597587
+        }
       }
     },
     {
@@ -46,7 +58,11 @@
       "wiki": {
         "extract": "Swakopmund is a city on the coast of western Namibia, 352 km (219 mi) west of the Namibian capital Windhoek via the B2 main road. It is the capital of the Erongo administrative district. It has 25,047 inhabitants.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg/3840px-Mole%2C_Jetty_and_Lighthouse_Swakopmund%2C_Namibia.jpg",
-        "url": "https://en.wikipedia.org/wiki/Swakopmund"
+        "url": "https://en.wikipedia.org/wiki/Swakopmund",
+        "coordinates": {
+          "lat": -22.68333333,
+          "lon": 14.53333333
+        }
       }
     },
     {
@@ -55,7 +71,11 @@
       "wiki": {
         "extract": "Damaraland was a name given to the north-central part of South West Africa, which later became Namibia, inhabited by the Damaras. It was bordered roughly by Ovamboland in the north, the Namib Desert in the west, the Kalahari Desert in the east, and the Windhoek region in the south.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Damaraland.svg/1280px-Flag_of_Damaraland.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Damaraland"
+        "url": "https://en.wikipedia.org/wiki/Damaraland",
+        "coordinates": {
+          "lat": -22.25,
+          "lon": 15.19
+        }
       }
     }
   ],
@@ -107,5 +127,43 @@
     "Wildlife Safari in Etosha National Park, Namibia",
     "The Namib Desert: World's Oldest Desert",
     "Namibia's Culture and Traditions Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Windhoek",
+      "capital": true,
+      "lat": -22.570006,
+      "lon": 17.083546
+    },
+    {
+      "name": "Walvis Bay",
+      "capital": false,
+      "lat": -22.957528,
+      "lon": 14.505306
+    },
+    {
+      "name": "Swakopmund",
+      "capital": false,
+      "lat": -22.668863,
+      "lon": 14.53502
+    },
+    {
+      "name": "Otjiwarongo",
+      "capital": false,
+      "lat": -20.459541,
+      "lon": 16.640007
+    },
+    {
+      "name": "Grootfontein",
+      "capital": false,
+      "lat": -19.566624,
+      "lon": 18.116558
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/namibia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANamibia_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

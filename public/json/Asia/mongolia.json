@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Genghis Khan Equestrian Statue, part of the Genghis Khan Statue Complex, is a 40-metre (130 ft) tall, stainless steel statue of Genghis Khan on horseback and the world's tallest equestrian statue. It is located about a mile from the Tuul River at Tsonjin Boldog, 54 km (33.55 mi) east of the Mongolian capital Ulaanbaatar, where, according to legend, he found a golden whip. It is on top of the Genghis Khan Statue Complex, a visitor centre, itself 10 metres (33 ft) tall, with 36 columns representing the 36 khans from Genghis to Ligdan Khan. It was designed by sculptor D. Erdenebileg and architect J. Enkhjargal and erected and opened in 2008 to honor the 800th anniversary of the founding of the Mongol Empire.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Genghis_Khan_Equestrian_Statue%2C_photo_by_Vaiz_Ha.jpg/3840px-Genghis_Khan_Equestrian_Statue%2C_photo_by_Vaiz_Ha.jpg",
-        "url": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan"
+        "url": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan",
+        "coordinates": {
+          "lat": 47.80805556,
+          "lon": 107.52975
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Erdene Zuu Monastery is probably the earliest surviving Buddhist monastery in Mongolia. Built in 1585, it is located in Kharkhorin, Övörkhangai Province and is now included within the Orkhon Valley Cultural Landscape World Heritage Site. The monastery is affiliated with the Gelug sect of Tibetan Buddhism.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery"
+        "url": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery",
+        "coordinates": {
+          "lat": 47.20166667,
+          "lon": 102.84333333
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Gorkhi-Terelj National Park is one of the national parks of Mongolia. The Terelj tourist zone has a number of \"tourist camps\". It is connected with Ulaanbaatar by a paved road. The road comes to the Gorkhiin Davaa pass. Most of the tourist camps and tourist attractions are before this pass. The road then ends at the settlement of Terelj, which features small shops and restaurants. The Terelj settlement is located in the valley of the Terelj River, approximately 66 km from the Ulaanbaatar city center. The national park tourist zone is formally in Nalaikh düüreg (district) part of Ulaanbaatar municipality, the rest of the protected zone beginning to the north of the Terelj River, is located in Mongolia's Töv Province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gorkhi-Terelj_National_Park.jpg/3840px-Gorkhi-Terelj_National_Park.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gorkhi-Terelj_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Gorkhi-Terelj_National_Park",
+        "coordinates": {
+          "lat": 48.150204,
+          "lon": 107.576006
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Karakorum was the capital of the Mongol Empire between 1235 and 1260 and of the Northern Yuan dynasty in the late 14th and 15th centuries. Its ruins lie in the northwestern corner of the Övörkhangai Province of modern-day Mongolia, near the present town of Kharkhorin and adjacent to the Erdene Zuu Monastery, which is likely the oldest surviving Buddhist monastery in Mongolia. They are located in the upper part of the World Heritage Site Orkhon Valley.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Erdene_Zuu_Monastery_05.jpg/3840px-Erdene_Zuu_Monastery_05.jpg",
-        "url": "https://en.wikipedia.org/wiki/Karakorum"
+        "url": "https://en.wikipedia.org/wiki/Karakorum",
+        "coordinates": {
+          "lat": 47.21027778,
+          "lon": 102.84777778
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Gobi Desert is a large, cold desert and grassland region in southern Mongolia and North China. It is the sixth-largest desert in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gobi_Desert.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gobi_Desert"
+        "url": "https://en.wikipedia.org/wiki/Gobi_Desert",
+        "coordinates": {
+          "lat": 42.59,
+          "lon": 103.43
+        }
       }
     }
   ],
@@ -102,5 +122,43 @@
     "Naadam Festival - Mongolia's Traditional Sports",
     "Life of Nomads in Mongolia",
     "The Genghis Khan Statue Complex - Mongolia's Icon"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Ulaanbaatar",
+      "capital": true,
+      "lat": 47.918619,
+      "lon": 106.91467
+    },
+    {
+      "name": "Erdenet",
+      "capital": false,
+      "lat": 49.053297,
+      "lon": 104.118337
+    },
+    {
+      "name": "Choibalsan",
+      "capital": false,
+      "lat": 48.066587,
+      "lon": 114.506023
+    },
+    {
+      "name": "Dund-Us",
+      "capital": false,
+      "lat": 48.016642,
+      "lon": 91.633259
+    },
+    {
+      "name": "Dalandzadgad",
+      "capital": false,
+      "lat": 43.583553,
+      "lon": 104.440281
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/mongolia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMongolia_CIA_map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

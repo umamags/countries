@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Minaret of Jam is a UNESCO World Heritage Site in western Afghanistan. It is located in a remote and nearly inaccessible region of Shahrak District, Ghor Province, between the Jam and Hari Rivers. The 62 m (203 ft) or 65 m (213 ft) high minaret was built c. 1190, entirely of baked bricks, and is famous for its intricate brick, stucco and glazed tile decoration, which consists of alternating bands of Kufic and Naskhi calligraphy, geometric patterns, and verses from the Qur'an. Since 2002, the minaret has remained on the list of World Heritage in Danger, under serious threat of erosion, and has not been actively preserved. In 2014, the BBC reported that the tower was in imminent danger of collapse.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jam_afghan_architecture_harirud_brick.jpg",
-        "url": "https://en.wikipedia.org/wiki/Minaret_of_Jam"
+        "url": "https://en.wikipedia.org/wiki/Minaret_of_Jam",
+        "coordinates": {
+          "lat": 34.39655556,
+          "lon": 64.51605556
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "The Buddhas of Bamiyan were two monumental Buddhist reliefs in the Bamiyan Valley of Afghanistan, carved possibly around the 6th-century. Located 130 kilometres (81 mi) to the northwest of Kabul, at an elevation of 2,500 metres (8,200 ft), carbon dating of the structural components of the Buddhas has determined the smaller 38 m (125 ft) \"Eastern Buddha\" was built around 570 CE, and the larger 55 m (180 ft) \"Western Buddha\" was built around 618 CE, which would date both to the time when the Hephthalites ruled the region.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Buddha_of_Bamiyan.jpg",
-        "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan"
+        "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan",
+        "coordinates": {
+          "lat": 34.832,
+          "lon": 67.8267
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Band-e Amir National Park is located in the central Bamyan Province of Afghanistan. It was established on 22 May 2009 as Afghanistan's first national park to promote and protect the natural beauty of a series of intensely blue lakes created by natural dams high in the Hindu Kush. Band-e-Amir is a chain of six lakes in the southern mountainous desert area of the national park. The Balkh River originates here and flows to Balkh Province in the north.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Afghanistan%27s_Grand_Canyon.jpg",
-        "url": "https://en.wikipedia.org/wiki/Band-e_Amir_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Band-e_Amir_National_Park",
+        "coordinates": {
+          "lat": 34.83972222,
+          "lon": 67.23083333
+        }
       }
     }
   ],
@@ -77,5 +89,37 @@
     "Travel Guide to Afghanistan's Landmarks",
     "Afghan Cuisine: Traditional Dishes Explained",
     "Current Situation and Challenges in Afghanistan"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Kabul",
+      "capital": true,
+      "lat": 34.518636,
+      "lon": 69.181314
+    },
+    {
+      "name": "Kandahar",
+      "capital": false,
+      "lat": 31.61002,
+      "lon": 65.694946
+    },
+    {
+      "name": "Herat",
+      "capital": false,
+      "lat": 34.330009,
+      "lon": 62.169993
+    },
+    {
+      "name": "Mazar-i-Sharif",
+      "capital": false,
+      "lat": 36.699994,
+      "lon": 67.100028
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/afghanistan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281982%29_Afghanistan.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

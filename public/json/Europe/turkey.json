@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Hagia Sophia mosque in İznik (Nicaea) in Bursa Province, Turkey, was built as a Byzantine-era basilican church. Converted into the Orhan Mosque after the Ottoman conquest, it was turned into a museum in 1935. The church is now once again in service as a mosque. It is in the town centre of İznik, within the old walled area.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hagia_Sophia_Iznik.JPG",
-        "url": "https://en.wikipedia.org/wiki/Hagia_Sophia%2C_%C4%B0znik"
+        "url": "https://en.wikipedia.org/wiki/Hagia_Sophia%2C_%C4%B0znik",
+        "coordinates": {
+          "lat": 40.4292,
+          "lon": 29.72015
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Cappadocia is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nevşehir, Kayseri, Aksaray, Kırşehir, Sivas and Niğde. Today, the touristic Cappadocia Region is located in Nevşehir province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/3840px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Cappadocia"
+        "url": "https://en.wikipedia.org/wiki/Cappadocia",
+        "coordinates": {
+          "lat": 38.61833333,
+          "lon": 34.86722222
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Topkapı Palace or the Seraglio, is a large museum and library in the east of the Fatih district of Istanbul in Turkey. From the 1460s to the completion of Dolmabahçe Palace in 1853, it served as the administrative center of the Ottoman Empire, and was the main residence of its sultans.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Topkap%C4%B1_-_01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace"
+        "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+        "coordinates": {
+          "lat": 41.013,
+          "lon": 28.984
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Pamukkale, meaning \"cotton castle\" in Turkish, is a natural site in Denizli Province in southwestern Turkey. The area is famous for a carbonate mineral left by the flowing of thermal spring water. It is located in Turkey's Inner Aegean region, in the River Menderes valley, which has a temperate climate for most of the year.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pamukkale%2C_Denizli_2026_68.jpg/3840px-Pamukkale%2C_Denizli_2026_68.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pamukkale"
+        "url": "https://en.wikipedia.org/wiki/Pamukkale",
+        "coordinates": {
+          "lat": 37.92388889,
+          "lon": 29.12333333
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Ephesus was an ancient Greek city on the coast of Ionia, in present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of Apasa, a city-state that was also the capital of Arzawa, by Attic and Ionian Greek colonists. During the Classical Greek era, it was one of twelve cities that were members of the Ionian League. The city came under the control of the Roman Republic in 129 BC.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/3840px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ephesus"
+        "url": "https://en.wikipedia.org/wiki/Ephesus",
+        "coordinates": {
+          "lat": 37.94111111,
+          "lon": 27.34194444
+        }
       }
     }
   ],
@@ -100,5 +120,43 @@
     "Turkish Cuisine Explained: Traditional Foods and Recipes",
     "The History of Turkey in 10 Minutes",
     "Understanding Turkey's Geopolitical Role"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Ankara",
+      "capital": true,
+      "lat": 39.929184,
+      "lon": 32.862446
+    },
+    {
+      "name": "Istanbul",
+      "capital": false,
+      "lat": 41.106942,
+      "lon": 29.008056
+    },
+    {
+      "name": "İzmir",
+      "capital": false,
+      "lat": 38.438096,
+      "lon": 27.149848
+    },
+    {
+      "name": "Bursa",
+      "capital": false,
+      "lat": 40.201933,
+      "lon": 29.068052
+    },
+    {
+      "name": "Adana",
+      "capital": false,
+      "lat": 36.996935,
+      "lon": 35.318058
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/turkey.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATurkey_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

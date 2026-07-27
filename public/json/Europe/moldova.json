@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe, with an area of 33,843 km2 (13,067 sq mi) and a population of 2.38 million. Moldova is bordered by Romania to the west and Ukraine to the north, east, and south. The unrecognised breakaway state of Transnistria lies across the Dniester river on the country's eastern border with Ukraine. Moldova is a parliamentary democratic republic with its capital in Chișinău, the country's largest city and main cultural and commercial centre.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1920px-Flag_of_Moldova.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Moldova"
+        "url": "https://en.wikipedia.org/wiki/Moldova",
+        "coordinates": {
+          "lat": 47,
+          "lon": 29
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Stephen the Great Central Park is the main park in Central Chișinău, Moldova. It is the oldest park in Moldova and spans about 7 hectares. It has gained the nickname \"The Park of the Lovers\" in Chișinău due to its popularity as a meeting spot for couples. The park contains 50 species of trees, some of which are quite old, the mulberries and acacias being between 130 and 180 years. The Alley of Classics is located in the park.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chisinau_Stefan_cel_Mare_park_fountain.jpg/3840px-Chisinau_Stefan_cel_Mare_park_fountain.jpg",
-        "url": "https://en.wikipedia.org/wiki/Stephen_the_Great_Central_Park"
+        "url": "https://en.wikipedia.org/wiki/Stephen_the_Great_Central_Park",
+        "coordinates": {
+          "lat": 47.025,
+          "lon": 28.828
+        }
       }
     },
     {
@@ -32,7 +40,8 @@
       "wiki": {
         "extract": "Mileștii Mici is a Moldovan wine producer located in the commune of Mileștii Mici.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mile%C5%9Ftii_Mici_%283944427747%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mile%C8%99tii_Mici_(winery)"
+        "url": "https://en.wikipedia.org/wiki/Mile%C8%99tii_Mici_(winery)",
+        "coordinates": null
       }
     }
   ],
@@ -70,5 +79,19 @@
     "The History of Moldova Explained",
     "Moldovan Wine Country Tour",
     "Cultural Traditions of Moldova"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Chișinău",
+      "capital": true,
+      "lat": 47.005024,
+      "lon": 28.857711
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/moldova.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMoldova_Transportation.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

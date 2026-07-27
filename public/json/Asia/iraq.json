@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Babylon is an ancient city located on the lower Euphrates river in southern Mesopotamia, within modern-day Hillah, Iraq, about 85 kilometres south of modern-day Baghdad. Babylon functioned as the main cultural and political centre of the Akkadian-speaking region of Babylonia. Its rulers established two important empires in antiquity, the 19th–16th century BC Old Babylonian Empire, and the 7th–6th century BC Neo-Babylonian Empire. Babylon was also used as a regional capital of other empires, such as the Achaemenid Empire. Babylon was one of the most important urban centres of the ancient Near East, until its decline during the Hellenistic period. Nearby ancient sites include Kish, Borsippa, Dilbat, and Kutha.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ishtar_Gate.jpg",
-        "url": "https://en.wikipedia.org/wiki/Babylon"
+        "url": "https://en.wikipedia.org/wiki/Babylon",
+        "coordinates": {
+          "lat": 32.5425,
+          "lon": 44.42111111
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Al-Mustansiriya University is a public university located in Baghdad, Iraq. It traces its origin back to 1227. The modern form of the university was founded in 1963.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Al-Mustansriah_School_-_Main_door.jpg/3840px-Al-Mustansriah_School_-_Main_door.jpg",
-        "url": "https://en.wikipedia.org/wiki/Al-Mustansiriya_University"
+        "url": "https://en.wikipedia.org/wiki/Al-Mustansiriya_University",
+        "coordinates": {
+          "lat": 33.33861111,
+          "lon": 44.38972222
+        }
       }
     },
     {
@@ -33,7 +41,8 @@
       "wiki": {
         "extract": "The Citadel of Erbil, locally called Qellat, is a tell or occupied mound, and the historical city centre of Erbil in the Kurdistan Region of Iraq. The citadel was added to the World Heritage List on 21 June 2014.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hawler_Castle.jpg",
-        "url": "https://en.wikipedia.org/wiki/Citadel_of_Erbil"
+        "url": "https://en.wikipedia.org/wiki/Citadel_of_Erbil",
+        "coordinates": null
       }
     },
     {
@@ -42,7 +51,11 @@
       "wiki": {
         "extract": "The Great Mosque of Samarra or Al-Malwiya Mosque is a former congregational mosque, now in partial ruins, in Samarra, in the Saladin Governorate of Iraq. The mosque was commissioned in 848 CE and completed in 851 by the Abbasid caliph Al-Mutawakkil. At the time of construction it was the world's largest mosque. It is known for its 52-metre-high (171 ft) minaret encircled by a spiral ramp. The former mosque is within the 15,058-hectare (37,210-acre) Samarra Archaeological City UNESCO World Heritage Site, listed in 2007.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Samrraa_05.jpg/3840px-Samrraa_05.jpg",
-        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Samarra"
+        "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Samarra",
+        "coordinates": {
+          "lat": 34.20583333,
+          "lon": 43.87972222
+        }
       }
     },
     {
@@ -51,7 +64,11 @@
       "wiki": {
         "extract": "The Ziggurat of Ur is a Neo-Sumerian ziggurat in what was the city of Ur near Nasiriyah, in present-day Dhi Qar Province, Iraq. The structure was built during the Early Bronze Age by King Ur-Nammu of the Third Dynasty of Ur. It had crumbled to ruins by the 6th century BC of the Neo-Babylonian period, when it was restored by King Nabonidus.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ziggarat_of_Ur_001.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+        "url": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+        "coordinates": {
+          "lat": 30.96277778,
+          "lon": 46.10305556
+        }
       }
     }
   ],
@@ -107,5 +124,43 @@
     "Life in Baghdad: A Glimpse into Iraqi Society",
     "Iraqi Cuisine: Traditional Dishes and Recipes",
     "Understanding Iraq's Political Landscape"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Baghdad",
+      "capital": true,
+      "lat": 33.340594,
+      "lon": 44.391923
+    },
+    {
+      "name": "Mosul",
+      "capital": false,
+      "lat": 36.346948,
+      "lon": 43.143059
+    },
+    {
+      "name": "Basra",
+      "capital": false,
+      "lat": 30.51547,
+      "lon": 47.811611
+    },
+    {
+      "name": "Najaf",
+      "capital": false,
+      "lat": 32.000332,
+      "lon": 44.335371
+    },
+    {
+      "name": "Kirkuk",
+      "capital": false,
+      "lat": 35.472239,
+      "lon": 44.392267
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/iraq.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIraq-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

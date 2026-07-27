@@ -15,7 +15,8 @@
       "wiki": {
         "extract": "Malawi has a developing economy. It generates $7.522 billion by gross domestic product as of 2019, and is predominantly agricultural, with about 80% of the population living in rural areas. The landlocked country in south central Africa ranks among the world's poorest and least developed countries. Approximately 50% of the population lives below the national poverty line, with 25% living in extreme poverty.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luanar.jpg",
-        "url": "https://en.wikipedia.org/wiki/Economy_of_Malawi"
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Malawi",
+        "coordinates": null
       }
     },
     {
@@ -24,7 +25,11 @@
       "wiki": {
         "extract": "Liwonde National Park, also known as Liwonde Wildlife Reserve, is a national park in southern Malawi, near the Mozambique border. The park was established in 1973, and has been managed by the nonprofit conservation organization African Parks since August 2015. African Parks built an electric fence around the perimeter of the park to help mitigate human-wildlife conflict. In early 2018, the adjacent Mangochi Forest Reserve was also brought under African Parks' management, almost doubling the size of the protected area.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Liwonde_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Liwonde_National_Park",
+        "coordinates": {
+          "lat": -14.83333333,
+          "lon": 35.33333333
+        }
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "The Mulanje Massif, also known as Mount Mulanje, is a large inselberg and World Heritage Site in southern Malawi. Sapitwa Peak, the highest point on the massif at 3,002 m, is the highest point in Malawi. It lies 65 km east of Blantyre, rising sharply from the surrounding plains of Phalombe and the Mulanje district. It forms part of a proposed ecoregion, to be called the South East Africa Montane Archipelago (SEAMA).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mulanje_ETM_26may02.jpg/3840px-Mulanje_ETM_26may02.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mulanje_Massif"
+        "url": "https://en.wikipedia.org/wiki/Mulanje_Massif",
+        "coordinates": {
+          "lat": -15.94972222,
+          "lon": 35.59361111
+        }
       }
     }
   ],
@@ -77,5 +86,31 @@
     "Malawi Travel Guide - Top Attractions and Tips",
     "Cultural Traditions of Malawi - Gule Wamkulu Dance",
     "Malawi's History and Politics Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Lilongwe",
+      "capital": true,
+      "lat": -13.983295,
+      "lon": 33.783302
+    },
+    {
+      "name": "Blantyre",
+      "capital": false,
+      "lat": -15.790007,
+      "lon": 34.989947
+    },
+    {
+      "name": "Mzuzu",
+      "capital": false,
+      "lat": -11.459987,
+      "lon": 34.01998
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/malawi.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMalawi_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei, now part of the Madolenihmw district of Pohnpei state in the Federated States of Micronesia in the western Pacific Ocean. Nan Madol was the capital of the Saudeleur dynasty until about 1628. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals. The site core with its stone walls encloses an area approximately 1.5 by 0.5 kilometres and it contains 92 artificial islets—stone and coral fill platforms—bordered by tidal canals.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nan_madol.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nan_Madol"
+        "url": "https://en.wikipedia.org/wiki/Nan_Madol",
+        "coordinates": {
+          "lat": 6.84194444,
+          "lon": 158.33222222
+        }
       }
     },
     {
@@ -27,7 +31,8 @@
       "wiki": {
         "extract": "A rai stone, or fei stone, is one of many large artifacts that were manufactured and treasured by the native inhabitants of the Yap islands in Micronesia. They are also known as Yapese stone money or similar names.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yap_Stone_Money.jpg",
-        "url": "https://en.wikipedia.org/wiki/Rai_stones"
+        "url": "https://en.wikipedia.org/wiki/Rai_stones",
+        "coordinates": null
       }
     },
     {
@@ -36,7 +41,11 @@
       "wiki": {
         "extract": "The Federated States of Micronesia, or simply Micronesia, is an island country in Micronesia, a region of Oceania. The federation encompasses the majority of the Caroline Islands and consists of four states—from west to east: Yap, Chuuk, Pohnpei, and Kosrae—that span the western Pacific just north of the equator for a longitudinal distance of almost 2,700 km (1,700 mi). Together, the states comprise around 607 islands and a combined land area of approximately 702 km2 or 271 sq mi.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/960px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+        "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+        "coordinates": {
+          "lat": 6.91666667,
+          "lon": 158.25
+        }
       }
     }
   ],
@@ -74,5 +83,19 @@
     "Cultural Traditions of Yap Island",
     "Travel Guide to Pohnpei, Micronesia",
     "Micronesian Cuisine and Island Life"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Palikir",
+      "capital": true,
+      "lat": 6.916644,
+      "lon": 158.149974
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/federated-states-of-micronesia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Micronesia%2C_Federated_States_of.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

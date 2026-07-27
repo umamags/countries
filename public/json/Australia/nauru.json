@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Anibare Bay is a large bay located in the Anibare district of eastern Nauru, a small island nation located in Oceania.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Living_on_a_Blue_Planet_-_Nauru.jpg",
-        "url": "https://en.wikipedia.org/wiki/Anibare_Bay"
+        "url": "https://en.wikipedia.org/wiki/Anibare_Bay",
+        "coordinates": {
+          "lat": -0.53361111,
+          "lon": 166.95555556
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Command Ridge is considered the highest point of Nauru, with an elevation of 65 metres (213 ft).",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Command_Ridge"
+        "url": "https://en.wikipedia.org/wiki/Command_Ridge",
+        "coordinates": {
+          "lat": -0.53111111,
+          "lon": 166.91666667
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The Moqua Well is a small underground lake in Yaren, Nauru.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Moqua_Well-en.svg/1280px-Moqua_Well-en.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Moqua_Well"
+        "url": "https://en.wikipedia.org/wiki/Moqua_Well",
+        "coordinates": {
+          "lat": -0.5466,
+          "lon": 166.92
+        }
       }
     }
   ],
@@ -67,5 +79,11 @@
     "Nauru's Phosphate Mining History Explained",
     "Travel Guide to Nauru's Beaches and Landmarks",
     "Nauru: Challenges of a Tiny Island Country"
-  ]
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/nauru.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Nauru.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

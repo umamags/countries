@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Vallée de Mai Nature Reserve is a nature park and UNESCO World Heritage Site on the island of Praslin, Seychelles. It consists of a well-preserved palm forest, flagship species made up of the island endemic coco de mer, as well as five other endemic palms.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Valle%C3%A9_de_mai2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vall%C3%A9e_de_Mai"
+        "url": "https://en.wikipedia.org/wiki/Vall%C3%A9e_de_Mai",
+        "coordinates": {
+          "lat": -4.32916667,
+          "lon": 55.7375
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Anse Source d'Argent is a beach situated in the southwest coast of La Digue, Seychelles. It is listed in Lonely Planet as one of the world's best beaches in 2024.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/La_Digue_asv2024-10_img22_Union_Estate.jpg/3840px-La_Digue_asv2024-10_img22_Union_Estate.jpg",
-        "url": "https://en.wikipedia.org/wiki/Anse_Source_d'Argent"
+        "url": "https://en.wikipedia.org/wiki/Anse_Source_d'Argent",
+        "coordinates": {
+          "lat": -4.371544,
+          "lon": 55.827213
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Morne Seychellois is the highest peak in Seychelles. Morne Seychellois is located on the island of Mahé in the Morne Seychellois National Park.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Port_Victoria%2C_Seychelles_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/Morne_Seychellois"
+        "url": "https://en.wikipedia.org/wiki/Morne_Seychellois",
+        "coordinates": {
+          "lat": -4.64383333,
+          "lon": 55.4389
+        }
       }
     }
   ],
@@ -78,5 +90,19 @@
     "Seychelles - The Ultimate Island Getaway",
     "Wildlife and Nature of Seychelles",
     "Seychelles Culture and Traditions Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Victoria",
+      "capital": true,
+      "lat": -4.616632,
+      "lon": 55.44999
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/seychelles.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Seychelles.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

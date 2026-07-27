@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Pendjari National Park lies in north-western Benin, adjoining the Arli National Park in Burkina Faso. Named for the Pendjari River, the national park is known for its wildlife and is home to some of the last populations of big game like the African forest elephant, lion, hippopotamus, African buffalo, and various antelopes in West Africa. The park is also famous for its richness in birds.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Parc_national_de_la_Pendjari.JPG",
-        "url": "https://en.wikipedia.org/wiki/Pendjari_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Pendjari_National_Park",
+        "coordinates": {
+          "lat": 11.05,
+          "lon": 1.51666667
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "The Royal Palaces of Abomey are 10 palaces spread over an area of 47 hectares at the heart of the Abomey town in Benin, formerly the capital of the West African Kingdom of Dahomey. The Kingdom was founded in 1625 by the Fon people who developed it into a powerful military and commercial empire, which dominated trade with European slave traders on the Slave Coast until the late 19th century, to whom they sold their prisoners of war. At its peak the palaces could accommodate up to 8000 people. The King's palace included a two-story building known as the \"cowrie house\" or akuehue. Under the twelve kings who succeeded from 1625 to 1900, the kingdom established itself as one of the most powerful of the western coast of Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Abomey_2006_1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey"
+        "url": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey",
+        "coordinates": {
+          "lat": 7.18645,
+          "lon": 1.99400278
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "The Ouidah Museum of History is a history museum in Ouidah, Benin. It occupies the Portuguese Fort of São João Baptista de Ajudá, built in 1721.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Musee_d%27Histoire_in_Ouidah_2015.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ouidah_Museum_of_History"
+        "url": "https://en.wikipedia.org/wiki/Ouidah_Museum_of_History",
+        "coordinates": {
+          "lat": 6.358903,
+          "lon": 2.090185
+        }
       }
     }
   ],
@@ -80,5 +92,31 @@
     "Benin Voodoo Festival Explained",
     "A Day in Cotonou, Benin's Largest City",
     "Wildlife Safari in Pendjari National Park, Benin"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Cotonou",
+      "capital": true,
+      "lat": 6.401954,
+      "lon": 2.518045
+    },
+    {
+      "name": "Porto-Novo",
+      "capital": false,
+      "lat": 6.483311,
+      "lon": 2.616626
+    },
+    {
+      "name": "Parakou",
+      "capital": false,
+      "lat": 9.34001,
+      "lon": 2.620036
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/benin.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABenin-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

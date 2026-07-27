@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Orango is one of the Bijagós Islands, located 60 kilometres off the coast of mainland Guinea-Bissau. At 272.5 km2, it is the largest island in the archipelago. The island has a population of 1,250 ; the largest village is Eticoga. With the neighbouring islands Imbone, Canongo, Meneque and Orangozinho, it forms the Orango National Park. It belongs to the Uno Sector.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Map_of_the_sectors_of_the_Bolama_Region%2C_Guinea-Bissau.png",
-        "url": "https://en.wikipedia.org/wiki/Orango"
+        "url": "https://en.wikipedia.org/wiki/Orango",
+        "coordinates": {
+          "lat": 11.24941667,
+          "lon": -16.22116667
+        }
       }
     },
     {
@@ -27,7 +31,8 @@
       "wiki": {
         "extract": "José Luís Mendes Lopes, known as Zezinho, is a Bissau-Guinean professional footballer who plays as a midfielder for Cypriot club Omonia Aradippou and the Guinea-Bissau national team.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Zezinho_(Bissau-Guinean_footballer)"
+        "url": "https://en.wikipedia.org/wiki/Zezinho_(Bissau-Guinean_footballer)",
+        "coordinates": null
       }
     },
     {
@@ -36,7 +41,11 @@
       "wiki": {
         "extract": "Bolama is the closest of the Bissagos Islands to the mainland of Guinea-Bissau. The island has a population of 6,024. It shares its name with its largest settlement, the town Bolama, which is the capital of the island and the Bolama Region. A causeway links the island to the Ilha das Cobras. Attractions on the island include sandy beaches and the abandoned ruins of the town of Bolama. It is known for its cashew nuts.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Insula_Bolama.png",
-        "url": "https://en.wikipedia.org/wiki/Bolama_Island"
+        "url": "https://en.wikipedia.org/wiki/Bolama_Island",
+        "coordinates": {
+          "lat": 11.55,
+          "lon": -15.53333333
+        }
       }
     }
   ],
@@ -80,5 +89,19 @@
     "A Day in Bissau, Guinea-Bissau's Capital City",
     "Guinea-Bissau History and Culture Explained",
     "Traditional Music and Dance of Guinea-Bissau"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bissau",
+      "capital": true,
+      "lat": 11.865024,
+      "lon": -15.598361
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/guinea-bissau.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGuinea-Bissau_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

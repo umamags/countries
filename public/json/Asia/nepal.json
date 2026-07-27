@@ -23,7 +23,11 @@
       "wiki": {
         "extract": "In the afternoon of 25 April 2015, a 7.8 moment magnitude earthquake struck Nepal and surrounding countries. Tremors from the quake triggered an avalanche from Pumori into Base Camp on Mount Everest. At least 24 people were killed, surpassing the toll of an avalanche that occurred in 2014 as the deadliest disaster on the mountain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mount-Everest.jpg",
-        "url": "https://en.wikipedia.org/wiki/2015_Mount_Everest_avalanches"
+        "url": "https://en.wikipedia.org/wiki/2015_Mount_Everest_avalanches",
+        "coordinates": {
+          "lat": 28.23111111,
+          "lon": 84.73111111
+        }
       }
     },
     {
@@ -32,7 +36,11 @@
       "wiki": {
         "extract": "Pashupatinath Temple is a revered Hindu temple dedicated to Pashupati, a manifestation of Shiva. Located on the banks of the sacred Bagmati River in Kathmandu, Nepal, the temple is one of the oldest and most significant religious complexes in South Asia. Recognized as a UNESCO World Heritage Site since 1979, it is one of seven monument groups in UNESCO's designation of Kathmandu Valley and is described as an \"extensive Hindu temple precinct\" comprising a vast network of temples, ashrams, inscriptions, and images raised over the centuries along the banks of the sacred Bagmati River. The temple, considered one of the holiest pilgrimage sites for Hindus, is built on an area of 246 hectares and includes 518 mini-temples and the principal pagoda-style temple.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/3840px-Pashupatinath_Temple-2020.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pashupatinath_Temple"
+        "url": "https://en.wikipedia.org/wiki/Pashupatinath_Temple",
+        "coordinates": {
+          "lat": 27.70972222,
+          "lon": 85.34861111
+        }
       }
     },
     {
@@ -41,7 +49,11 @@
       "wiki": {
         "extract": "Boudha Stupa, Boudhanath Stupa, also known as Khasti Chaitya or Khāsa Chaitya, is a stupa and major spiritual landmark seen as the embodiment of the enlightened mind of all the Buddhas, located in Boudha, within the city of Kathmandu, Nepal. Built in the northeast of Kathmandu Valley and originally surrounded by rice paddies, the stupa is said in one text to have given birth to Tibetan Buddhism. It is believed to contain consecrated substances, and its layout as a massive mandala makes it the largest spherical stupa in Nepal and one of the largest in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg/3840px-Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg",
-        "url": "https://en.wikipedia.org/wiki/Boudha_Stupa"
+        "url": "https://en.wikipedia.org/wiki/Boudha_Stupa",
+        "coordinates": {
+          "lat": 27.72138889,
+          "lon": 85.36194444
+        }
       }
     },
     {
@@ -50,7 +62,11 @@
       "wiki": {
         "extract": "Chitwan National Park is the first national park of Nepal and was established in 1973 as Royal Chitwan National Park. It was granted the status of a World Heritage Site in 1984. It covers an area of 952.63 km2 (367.81 sq mi) in the Terai region of south-central Nepal. It ranges in elevation from about 100 m (330 ft) in the river valleys to 815 m (2,674 ft) in the Sivalik Hills.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chitwan_swamp.jpg",
-        "url": "https://en.wikipedia.org/wiki/Chitwan_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Chitwan_National_Park",
+        "coordinates": {
+          "lat": 27.5,
+          "lon": 84.33333333
+        }
       }
     },
     {
@@ -59,7 +75,8 @@
       "wiki": {
         "extract": "Lumbini is a Buddhist pilgrimage site in the Rupandehi District of Lumbini Province in Nepal. According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c. 563 BCE. Lumbini is one of four most sacred pilgrimage sites pivotal in the life of the Buddha.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BRP_Lumbini_Mayadevi_temple.jpg/3840px-BRP_Lumbini_Mayadevi_temple.jpg",
-        "url": "https://en.wikipedia.org/wiki/Lumbini"
+        "url": "https://en.wikipedia.org/wiki/Lumbini",
+        "coordinates": null
       }
     }
   ],
@@ -123,5 +140,19 @@
     "Nepal's Festivals: Dashain and Tihar Explained",
     "Exploring Kathmandu: Culture and Heritage",
     "Nepalese Cuisine: Traditional Foods You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Kathmandu",
+      "capital": true,
+      "lat": 27.718638,
+      "lon": 85.314696
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/nepal.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Nepal.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

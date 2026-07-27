@@ -15,7 +15,8 @@
       "wiki": {
         "extract": "Thaba Bosiu is a constituency and sandstone plateau with an area of approximately 2 km2 (0.77 sq mi) and a height of 1,804 meters above sea level. It is located between the Orange and Caledon Rivers in the Maseru District of Lesotho, 24 km east of the country's capital Maseru. It was once the capital of Lesotho, having been King Moshoeshoe's stronghold.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/685_Thaba_Bosiu.jpg",
-        "url": "https://en.wikipedia.org/wiki/Thaba_Bosiu"
+        "url": "https://en.wikipedia.org/wiki/Thaba_Bosiu",
+        "coordinates": null
       }
     },
     {
@@ -24,7 +25,11 @@
       "wiki": {
         "extract": "The Katse Dam, a concrete arch dam on the Malibamatšo River in Lesotho, is Africa's second largest double-curvature arch dam after the Tekezé Dam in Ethiopia. Located just below the confluence of the Bokong River, which forms the western arm of the Katse reservoir, the dam is part of a larger project which will eventually include five large dams in remote rural areas.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Katse_Dam.jpg/3840px-Katse_Dam.jpg",
-        "url": "https://en.wikipedia.org/wiki/Katse_Dam"
+        "url": "https://en.wikipedia.org/wiki/Katse_Dam",
+        "coordinates": {
+          "lat": -29.33694444,
+          "lon": 28.50611111
+        }
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "The Sehlabathebe National Park is located in the Maloti Mountains in Qacha's Nek District, Lesotho and is part of the Maloti-Drakensberg World Heritage Site. The park was first established on 8 May 1969 and since then, is recognised as important in terms of biological diversity and cultural heritage. The landscape is dominated by grasslands of various types. The larger ecosystem functions provide freshwater to Lesotho, South Africa, and Namibia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Early_Morning_view_from_Sehlabathebe_House_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sehlabathebe_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Sehlabathebe_National_Park",
+        "coordinates": {
+          "lat": -29.899,
+          "lon": 29.121
+        }
       }
     }
   ],
@@ -77,5 +86,19 @@
     "Culture and Traditions of Lesotho",
     "Lesotho's Stunning Landscapes and Wildlife",
     "History and Politics of Lesotho Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Maseru",
+      "capital": true,
+      "lat": -29.316674,
+      "lon": 27.483273
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/lesotho.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALesotho_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -19,7 +19,11 @@
       "wiki": {
         "extract": "Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/3840px-Pradaksina.jpg",
-        "url": "https://en.wikipedia.org/wiki/Borobudur"
+        "url": "https://en.wikipedia.org/wiki/Borobudur",
+        "coordinates": {
+          "lat": -7.608,
+          "lon": 110.204
+        }
       }
     },
     {
@@ -28,7 +32,11 @@
       "wiki": {
         "extract": "Komodo National Park is a national park in Indonesia within the Lesser Sunda Islands in the border region between the provinces of East Nusa Tenggara and West Nusa Tenggara. The park includes the three larger islands—Komodo, Padar and Rinca—and 26 smaller ones, with a total area of 1,733 km2 (669 sq mi), with 603 km2 (233 sq mi) of it land. The park was founded in 1980 to protect the Komodo dragon, the world's largest lizard. Later it was dedicated to protecting other species, including marine species. In 1991 the park was declared a UNESCO World Heritage Site and a Man and Biosphere Reserve. It is considered one of the world's 25 biodiversity hotspots.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Komodo_dragon_at_Komodo_National_Park.jpg",
-        "url": "https://en.wikipedia.org/wiki/Komodo_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Komodo_National_Park",
+        "coordinates": {
+          "lat": -8.54333333,
+          "lon": 119.48944444
+        }
       }
     },
     {
@@ -37,7 +45,11 @@
       "wiki": {
         "extract": "Prambanan is a 9th-century Hindu temple compound in the Special Region of Yogyakarta, in southern Java, Indonesia, dedicated to the Trimūrti, the expression of God as the Creator (Brahma), the Preserver (Vishnu) and the Destroyer (Shiva). The temple compound is located approximately 17 kilometres (11 mi) northeast of the city of Yogyakarta on the boundary between Central Java and Yogyakarta provinces.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/3840px-Prambanan_Temple_Yogyakarta_Indonesia.jpg",
-        "url": "https://en.wikipedia.org/wiki/Prambanan"
+        "url": "https://en.wikipedia.org/wiki/Prambanan",
+        "coordinates": {
+          "lat": -7.75222222,
+          "lon": 110.49166667
+        }
       }
     },
     {
@@ -46,7 +58,11 @@
       "wiki": {
         "extract": "Raja Ampat, or the Four Kings, is an archipelago located off the northwest tip of Bird's Head Peninsula, Southwest Papua province, Indonesia. It comprises over 1,500 small islands, cays, and shoals around the four main islands of Misool, Salawati, Batanta, and Waigeo, and the smaller island of Kofiau.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Raja_Ampat_Islands_-_journal.pbio.1001457.g001.png",
-        "url": "https://en.wikipedia.org/wiki/Raja_Ampat_Islands"
+        "url": "https://en.wikipedia.org/wiki/Raja_Ampat_Islands",
+        "coordinates": {
+          "lat": -0.2333115,
+          "lon": 130.5078908
+        }
       }
     },
     {
@@ -55,7 +71,11 @@
       "wiki": {
         "extract": "The Bromo, or Mount Bromo, is an active somma volcano, a Hindu pilgrimage site, and part of the Tengger mountains, in East Java, Indonesia. At 2,329 meters (7,641 ft), it is not the highest peak of the massif, but is the most active and famous. The area is one of the most visited tourist destinations in East Java, and the volcano is included in the Bromo Tengger Semeru National Park. The name Bromo comes from the Javanese pronunciation of Brahma, the Hindu god of creation. At the mouth of the crater, there is an idol of Ganesha, the Hindu god of wisdom, which is worshipped by Javanese Hindus. Mount Bromo is located in the middle of a plain called \"Sea of Sand\", a nature reserve that has been protected since 1919.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bromo-Semeru-Batok-Widodaren.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Bromo"
+        "url": "https://en.wikipedia.org/wiki/Mount_Bromo",
+        "coordinates": {
+          "lat": -7.94166667,
+          "lon": 112.95
+        }
       }
     }
   ],
@@ -119,5 +139,43 @@
     "Indonesian Culture and Traditions",
     "Exploring Indonesian Cuisine: Food Tour",
     "Indonesia's Natural Wonders and Wildlife"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Jakarta",
+      "capital": true,
+      "lat": -6.172472,
+      "lon": 106.827492
+    },
+    {
+      "name": "Surabaya",
+      "capital": false,
+      "lat": -7.24729,
+      "lon": 112.748887
+    },
+    {
+      "name": "Bandung",
+      "capital": false,
+      "lat": -6.948083,
+      "lon": 107.568067
+    },
+    {
+      "name": "Medan",
+      "capital": false,
+      "lat": 3.58192,
+      "lon": 98.648094
+    },
+    {
+      "name": "Palembang",
+      "capital": false,
+      "lat": -2.978093,
+      "lon": 104.748084
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/indonesia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIndonesia-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

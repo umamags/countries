@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Christ the Redeemer is an Art Deco statue of Jesus in Rio de Janeiro, Brazil, created by French-Polish sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot and Romanian sculptor Gheorghe Leonida who sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal, and faces east. The arms stretch 28 metres (92 ft) wide. It is made of reinforced concrete and soapstone. Christ the Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organizers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
-        "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"
+        "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+        "coordinates": {
+          "lat": -22.95194444,
+          "lon": -43.21055556
+        }
       }
     },
     {
@@ -23,7 +27,8 @@
       "wiki": {
         "extract": "The Amazon rainforest, also called the Amazon jungle, Amazonia, or simply the Amazon, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest. This region includes territory belonging to nine nations and 3,344 indigenous territories.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/3840px-Amazon17_%285641020319%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        "url": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+        "coordinates": null
       }
     },
     {
@@ -32,7 +37,11 @@
       "wiki": {
         "extract": "Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
-        "url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
+        "url": "https://en.wikipedia.org/wiki/Iguazu_Falls",
+        "coordinates": {
+          "lat": -25.68666667,
+          "lon": -54.44472222
+        }
       }
     },
     {
@@ -41,7 +50,11 @@
       "wiki": {
         "extract": "Copacabana is a Brazilian bairro (neighbourhood) located in the South Zone of the city of Rio de Janeiro, Brazil. It is most prominently known for its 4 km (2.5 mile) balneario beach, which is one of the most famous in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Praia_de_Copacabana_-_Rio_de_Janeiro%2C_Brasil.jpg",
-        "url": "https://en.wikipedia.org/wiki/Copacabana%2C_Rio_de_Janeiro"
+        "url": "https://en.wikipedia.org/wiki/Copacabana%2C_Rio_de_Janeiro",
+        "coordinates": {
+          "lat": -22.96694444,
+          "lon": -43.18055556
+        }
       }
     },
     {
@@ -50,7 +63,11 @@
       "wiki": {
         "extract": "Brasília is the capital city of Brazil and the Federal District. Located in the Brazilian Highlands in the country's Central-West region, it was founded by President Juscelino Kubitschek on 21 April 1960, to replace Rio de Janeiro as the national capital. Brasília is Brazil's third-most populous city after São Paulo and Rio de Janeiro, with a population of 2.8 million. Among major Latin American cities, it has the highest GDP per capita.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Planalto_Central_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+        "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+        "coordinates": {
+          "lat": -15.79388889,
+          "lon": -47.88277778
+        }
       }
     }
   ],
@@ -100,5 +117,43 @@
     "Carnival in Rio de Janeiro - Full Experience",
     "Brazilian Food Tour - Must Try Dishes",
     "History of Brazil - From Colonization to Modern Day"
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/brazil.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABrazil-CIA_WFB_Map_%282023%29.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "cities": [
+    {
+      "name": "Brasília",
+      "capital": true,
+      "lat": -15.781394,
+      "lon": -47.917998
+    },
+    {
+      "name": "São Paulo",
+      "capital": false,
+      "lat": -23.556734,
+      "lon": -46.626966
+    },
+    {
+      "name": "Rio de Janeiro",
+      "capital": false,
+      "lat": -22.923077,
+      "lon": -43.226967
+    },
+    {
+      "name": "Belo Horizonte",
+      "capital": false,
+      "lat": -19.91308,
+      "lon": -43.91695
+    },
+    {
+      "name": "Porto Alegre",
+      "capital": false,
+      "lat": -30.048069,
+      "lon": -51.201958
+    }
   ]
 }

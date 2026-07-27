@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "The Darvaza gas crater, also known as the Door to Hell or Gates of Hell, officially the Shining of Karakum, is a burning natural gas field collapsed into a cavern near Darvaza, Turkmenistan. Hundreds of natural gas fires illuminate the floor and rim of the crater. The crater has been burning since 1971. Drilling punctured a natural-gas cavern, the cavern's roof collapsed, and some sources state that engineers ignited the crater to prevent poisonous gases from spreading.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/3840px-Darvasa_gas_crater_panorama.jpg",
-        "url": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+        "url": "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
+        "coordinates": {
+          "lat": 40.2525,
+          "lon": 58.4396
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Ruhyýet Palace, also known as the Palace of Congresses and Arts, is the seat of government in Ashgabat, the capital of Turkmenistan. The palace serves as a venue for official state events, international forums, meetings, and presidential inaugurations.",
         "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Independence_Day_Parade_-_Flickr_-_Kerri-Jo_%28160%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ruhy%C3%BDet_Palace"
+        "url": "https://en.wikipedia.org/wiki/Ruhy%C3%BDet_Palace",
+        "coordinates": {
+          "lat": 37.9325,
+          "lon": 58.3778
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Nisa was an ancient settlement of the Parthians, located near the Bagyr neighborhood of Ashgabat, Turkmenistan, 18 km west of the city center. Nisa is described by some as the first seat of the Arsacid Empire. It is traditionally assumed to have been founded by Arsaces I and was reputedly the royal residence of the Parthian kings, although it has not been established that the fortress at Nisa was either a royal residence or a mausoleum.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nisa-Entrance-2015.JPG/3840px-Nisa-Entrance-2015.JPG",
-        "url": "https://en.wikipedia.org/wiki/Nisa%2C_Turkmenistan"
+        "url": "https://en.wikipedia.org/wiki/Nisa%2C_Turkmenistan",
+        "coordinates": {
+          "lat": 37.96666667,
+          "lon": 58.195
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "Konye-Urgench, also known as Köneürgenç, Old Urgench or Urganj, is a city in north Turkmenistan, just south from its border with Uzbekistan. In 2022, it had a total population of 37,176 people.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Urgench.jpg",
-        "url": "https://en.wikipedia.org/wiki/Konye-Urgench"
+        "url": "https://en.wikipedia.org/wiki/Konye-Urgench",
+        "coordinates": {
+          "lat": 42.32565,
+          "lon": 59.152018
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "Ashgabat is the capital and largest city of Turkmenistan. It lies between the Karakum Desert and the Köpetdag mountain range in Central Asia, approximately 50 km (30 mi) away from the Iran-Turkmenistan border. The city has a population of 1,030,063.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Ashgabat_%2842376779291%29.jpg/3840px-View_of_Ashgabat_%2842376779291%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ashgabat"
+        "url": "https://en.wikipedia.org/wiki/Ashgabat",
+        "coordinates": {
+          "lat": 37.9375,
+          "lon": 58.38
+        }
       }
     }
   ],
@@ -98,5 +118,37 @@
     "Inside Ashgabat: The Marble City of Turkmenistan",
     "The Burning Gas Crater of Darvaza: Turkmenistan's Door to Hell",
     "Turkmen Culture and Traditions Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Ashgabat",
+      "capital": true,
+      "lat": 37.949995,
+      "lon": 58.383299
+    },
+    {
+      "name": "Türkmenabat",
+      "capital": false,
+      "lat": 39.110002,
+      "lon": 63.580036
+    },
+    {
+      "name": "Mary",
+      "capital": false,
+      "lat": 37.600016,
+      "lon": 61.833321
+    },
+    {
+      "name": "Türkmenbaşy",
+      "capital": false,
+      "lat": 40.023047,
+      "lon": 52.969676
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/turkmenistan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATurkmenistan-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

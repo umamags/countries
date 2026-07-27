@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Angkor Wat is a Vaishnava Hindu and Theravada Buddhist temple complex in Siem Reap, Cambodia, and the largest religious complex in the world. Located on a site measuring 162.6 hectares within the ancient capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu. From the late 13th century onward, the complex was gradually transformed into a Buddhist temple and has remained an active center of Buddhist worship for centuries. Angkor Wat is noted for its monumental scale, extensive bas-reliefs, and architectural unity characteristics of Khmer architecture. Unlike most Angkorian temples, it is oriented toward the west. It is a symbol of Cambodia and appears on the Cambodian national flag.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg",
-        "url": "https://en.wikipedia.org/wiki/Angkor_Wat"
+        "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+        "coordinates": {
+          "lat": 13.4125,
+          "lon": 103.86666667
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Phnom Penh is the capital and most populous city of Cambodia. It has been the national capital since 1865 and has grown to become the nation's primate city and its political, economic, industrial, and cultural centre. The city's name derives from Wat Phnom, a Buddhist temple, and Lady Penh, the city's founder. It sits at the confluence of the Tonlé Sap and Mekong rivers, and is the start of the Bassac River. It is also the seat of Cambodia's monarchy, based at the Royal Palace.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
-        "url": "https://en.wikipedia.org/wiki/Phnom_Penh"
+        "url": "https://en.wikipedia.org/wiki/Phnom_Penh",
+        "coordinates": {
+          "lat": 11.56944444,
+          "lon": 104.92111111
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "The Tuol Sleng Genocide Museum is a museum for the Cambodian genocide. Located in Phnom Penh, the site is a former secondary school that had been turned into an internment facility known as Security Prison 21 (S-21) by the Khmer Rouge regime from 1975 until its fall in 1979. From 1976 to 1979, an estimated 20,000 people were imprisoned at Tuol Sleng; it was one of between 150 and 196 torture and execution centers established by the Khmer Rouge and their secret police.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum"
+        "url": "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum",
+        "coordinates": {
+          "lat": 11.54944444,
+          "lon": 104.91777778
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "Koh Ker is a remote archaeological site in northern Cambodia about 120 kilometres (75 mi) away from Siem Reap and the ancient site of Angkor. It is a jungle filled region that is sparsely populated. More than 180 sanctuaries were found in a protected area of 81 square kilometres (31 sq mi). Only about two dozen monuments can be visited by tourists because most of the sanctuaries are hidden in the forest and the whole area is not fully demined.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/0505280017PThompyramid.jpg",
-        "url": "https://en.wikipedia.org/wiki/Koh_Ker"
+        "url": "https://en.wikipedia.org/wiki/Koh_Ker",
+        "coordinates": {
+          "lat": 13.775,
+          "lon": 104.54722222
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "Tonlé Sap is a lake in central Cambodia. Belonging to the Mekong river system, Tonlé Sap is the largest freshwater lake in Southeast Asia and one of the most diverse and productive ecosystems in the world. It was designated as a Biosphere Reserve by UNESCO in 1997 due to its high biodiversity. The lake has a large seasonal variation in water depth, with the post-monsoon level sometimes being as much as 10 metres higher than during the monsoons. During the 21st century, the lake and its surrounding ecosystems have come under increasing pressure from deforestation, intensive agriculture and fishery, infrastructure development and climate change.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cambodia%2C_Tonle_Sap_IMG_3285.JPG",
-        "url": "https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap"
+        "url": "https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap",
+        "coordinates": {
+          "lat": 12.88333333,
+          "lon": 104.06666667
+        }
       }
     }
   ],
@@ -108,5 +128,31 @@
     "Cambodian Culture and Traditions Explained",
     "History of the Khmer Empire and Angkor Wat",
     "Cambodian Cuisine: Traditional Dishes to Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Phnom Penh",
+      "capital": true,
+      "lat": 11.551976,
+      "lon": 104.914689
+    },
+    {
+      "name": "Battambang",
+      "capital": false,
+      "lat": 13.100013,
+      "lon": 103.200047
+    },
+    {
+      "name": "Siem Reap",
+      "capital": false,
+      "lat": 13.366638,
+      "lon": 103.850033
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/cambodia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Cambodia.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

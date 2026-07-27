@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Angel Falls  is a waterfall in Venezuela.\nIt is the world's tallest uninterrupted waterfall, with a height of 979 metres (3,212 ft), and a plunge of 807 m (2,648 ft). The waterfall drops over the edge of the Auyán-tepui mountain in the Canaima National Park, a UNESCO World Heritage Site in the Gran Sabana region of Bolívar State. The height figure, 979 m (3,212 ft), mostly consists of the main plunge but also includes about 400 metres (1,300 ft) of sloped cascade and rapids below the drop and then a 30-metre-high (100 ft) plunge downstream of these talus rapids.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SaltoAngel1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Angel_Falls"
+        "url": "https://en.wikipedia.org/wiki/Angel_Falls",
+        "coordinates": {
+          "lat": 5.9675,
+          "lon": -62.53555556
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Mérida Cable Car is a cable car system in Venezuela. Its base is located in the Venezuelan city of Mérida at an altitude of 1,577 metres (5,174 ft), and its terminus is on Pico Espejo, at 4,765 metres (15,633 ft). It is the highest and second longest cable car in the world. The system was opened to the public in 1960, and closed in 2008 for reconstruction. In October 2016, a new regular service was inaugurated.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Teleferico_Arribando_Estacion_barinitas.JPG",
-        "url": "https://en.wikipedia.org/wiki/M%C3%A9rida_cable_car"
+        "url": "https://en.wikipedia.org/wiki/M%C3%A9rida_cable_car",
+        "coordinates": {
+          "lat": 8.52916667,
+          "lon": -71.06361111
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Los Roques Archipelago is a federal dependency of Venezuela consisting of approximately 350 islands, cays, and islets in a total area of 40.61 km2 (15.68 mi2). The archipelago is located 128 km (80 mi) directly north of the port of La Guaira, in the Caribbean Sea.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gran_Roque_from_plane.jpg",
-        "url": "https://en.wikipedia.org/wiki/Los_Roques_Archipelago"
+        "url": "https://en.wikipedia.org/wiki/Los_Roques_Archipelago",
+        "coordinates": {
+          "lat": 11.8575,
+          "lon": -66.7575
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Bolívar Square in Caracas is one of the most important and recognized Venezuelan public spaces. It is located in the center of the first 25 blocks of Caracas when it was founded as \"Santiago de León de Caracas\" in 1567. It is in the historic center of the city in the Cathedral Parish of the Libertador Municipality.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bolivar-plaza-caballo-caracas.JPG",
-        "url": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_Square_(Caracas)"
+        "url": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_Square_(Caracas)",
+        "coordinates": {
+          "lat": 10.506,
+          "lon": -66.9146
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Morrocoy National Park lies on the east coast of Falcón State and the north-west side of Golfo Triste, on the west central Venezuelan coast, near the towns of Boca de Aroa, Tucacas, Sanare, Chichiriviche, and Tocuyo de la Costa. It was declared a national park on 26 May 1974. The park's wildlife has suffered from human activity, and there has been a significant decline in coral species in recent years.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cocotero_en_Cayo_Sombrero.jpg",
-        "url": "https://en.wikipedia.org/wiki/Morrocoy_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Morrocoy_National_Park",
+        "coordinates": {
+          "lat": 10.856,
+          "lon": -68.306
+        }
       }
     }
   ],
@@ -100,5 +120,43 @@
     "Exploring Angel Falls - The World's Highest Waterfall",
     "Venezuelan Food Tour - Traditional Dishes to Try",
     "History of Venezuela - From Independence to Present"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Caracas",
+      "capital": true,
+      "lat": 10.502944,
+      "lon": -66.918983
+    },
+    {
+      "name": "Maracaibo",
+      "capital": false,
+      "lat": 10.731923,
+      "lon": -71.661924
+    },
+    {
+      "name": "Valencia",
+      "capital": false,
+      "lat": 10.231927,
+      "lon": -67.981967
+    },
+    {
+      "name": "Ciudad Guayana",
+      "capital": false,
+      "lat": 8.370018,
+      "lon": -62.619987
+    },
+    {
+      "name": "San Cristóbal",
+      "capital": false,
+      "lat": 7.770003,
+      "lon": -72.249968
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/venezuela.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVenezuela-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

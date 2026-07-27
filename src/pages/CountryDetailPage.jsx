@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams, useNavigate } from 'react-router-dom'
 import { useContinent } from '../data/IndexContext'
 import { useCountry } from '../data/useCountry'
 import { useFavorites } from '../data/FavoritesContext'
@@ -89,6 +89,7 @@ export default function CountryDetailPage() {
   const { status, data, error } = useCountry(continent?.name, countrySlug)
   const { isFavorite, toggleFavorite } = useFavorites()
   const [activeVideo, setActiveVideo] = useState(null)
+  const navigate = useNavigate()
 
   if (indexStatus === 'loading') return <p className="status">Loading…</p>
   if (!continent) return <p className="status status-error">Continent not found.</p>
@@ -103,6 +104,14 @@ export default function CountryDetailPage() {
   }
   const favorited = isFavorite(favoriteEntry)
   const mapName = continent.countries.find((c) => c.slug === countrySlug)?.map_name
+  const landmarkPins = (data.landmarks || [])
+    .filter((l) => l.wiki?.coordinates)
+    .map((l) => ({
+      name: l.name,
+      lat: l.wiki.coordinates.lat,
+      lon: l.wiki.coordinates.lon,
+      slug: slugify(l.name),
+    }))
 
   return (
     <div className="page">
@@ -124,9 +133,36 @@ export default function CountryDetailPage() {
         </button>
       </div>
 
-      <div className="map-container map-container-focus">
-        <WorldMap mode="country" focusName={mapName} height={220} />
-      </div>
+      {data.reference_map ? (
+        <div className="reference-map">
+          <img
+            src={`${import.meta.env.BASE_URL}${data.reference_map.image}`}
+            alt={`Reference map of ${data.country} showing major cities`}
+            className="reference-map-image"
+          />
+          <a
+            className="reference-map-credit"
+            href={data.reference_map.source_url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {data.reference_map.attribution} ↗
+          </a>
+        </div>
+      ) : (
+        <div className="map-container map-container-focus">
+          <WorldMap
+            mode="country"
+            focusName={mapName}
+            height={data.cities ? 340 : 220}
+            cities={data.cities}
+            landmarks={landmarkPins}
+            onLandmarkClick={(slug) =>
+              navigate(`/continent/${continent.slug}/country/${countrySlug}/landmark/${slug}`)
+            }
+          />
+        </div>
+      )}
 
       <dl className="facts">
         <Fact label="Continent" value={data.continent} />

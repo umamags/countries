@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Riga, officially Riga State City, is the capital, primate, and largest city of Latvia and the second largest in the Baltics. Home to 588,911 inhabitants, the city accounts for a third of Latvia's total population. The population of Riga metropolitan area, which stretches beyond the city limits, is estimated at 847,162. The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km2 (118.60 sq mi) and lies 1–10 m (3–33 ft) above sea level on a flat and sandy plain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/3840px-Riga_%2833844464828%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Riga"
+        "url": "https://en.wikipedia.org/wiki/Riga",
+        "coordinates": {
+          "lat": 56.94888889,
+          "lon": 24.10638889
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Gauja National Park in Vidzeme is the largest national park in Latvia, with an area of 917.86 km2 running from north-east of Sigulda to south-west of Cēsis along the valley of the Gauja River, from which the park takes its name.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ergeljuklintis424aug037qg.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gauja_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Gauja_National_Park",
+        "coordinates": {
+          "lat": 57.41666667,
+          "lon": 25.41666667
+        }
       }
     },
     {
@@ -66,5 +74,19 @@
     "Latvian Song and Dance Festival 2023 Highlights",
     "Exploring Riga Old Town - Latvia's Capital",
     "Latvian Cuisine: Traditional Foods You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Riga",
+      "capital": true,
+      "lat": 56.950024,
+      "lon": 24.099965
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/latvia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALatvia_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

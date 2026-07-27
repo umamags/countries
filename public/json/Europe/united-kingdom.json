@@ -14,7 +14,8 @@
       "wiki": {
         "extract": "Ben & Holly's Little Kingdom is a Malaysian-British-Canadian preschool children's animated television series. The show was created by Neville Astley and Mark Baker, and produced by Astley Baker Davies and by Entertainment One UK. Many of the voice actors who worked on Peppa Pig have lent their voices to the show; these include John Sparkes, Sarah Ann Kennedy, David Rintoul and David Graham. The music is composed, conducted, and produced by Julian Nott, who is noted for his Wallace and Gromit, Bing and Peppa Pig scores. Ben & Holly's Little Kingdom is the third show to be produced by Astley Baker Davies.",
         "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ben_%26_Holly%27s_Little_Kingdom_Logo_Nick_Jr.png",
-        "url": "https://en.wikipedia.org/wiki/Ben_%26_Holly's_Little_Kingdom"
+        "url": "https://en.wikipedia.org/wiki/Ben_%26_Holly's_Little_Kingdom",
+        "coordinates": null
       }
     },
     {
@@ -23,7 +24,8 @@
       "wiki": {
         "extract": "Christianity is the largest religion in the United Kingdom, though it no longer represents a majority of the population. The United Kingdom was historically a Christian-majority country, but Christianity lost its majority status between 2010 and 2020.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Religion_in_the_United_Kingdom"
+        "url": "https://en.wikipedia.org/wiki/Religion_in_the_United_Kingdom",
+        "coordinates": null
       }
     },
     {
@@ -32,7 +34,11 @@
       "wiki": {
         "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.1 million people in 2024. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
-        "url": "https://en.wikipedia.org/wiki/London"
+        "url": "https://en.wikipedia.org/wiki/London",
+        "coordinates": {
+          "lat": 51.50722222,
+          "lon": -0.1275
+        }
       }
     },
     {
@@ -41,7 +47,11 @@
       "wiki": {
         "extract": "Edinburgh Castle is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role declined, and by the 17th century it was principally used as a military garrison. Its importance as a part of Scotland's national heritage was recognised increasingly from the early 19th century onwards, and various restoration programmes have been carried out over the past century and a half.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
-        "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle"
+        "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+        "coordinates": {
+          "lat": 55.94861111,
+          "lon": -3.20083333
+        }
       }
     },
     {
@@ -50,7 +60,11 @@
       "wiki": {
         "extract": "Buckingham Palace is a royal residence and the administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Buckingham_Palace"
+        "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+        "coordinates": {
+          "lat": 51.50083333,
+          "lon": -0.14194444
+        }
       }
     }
   ],
@@ -108,5 +122,43 @@
     "British Culture and Traditions",
     "Famous Landmarks of the UK",
     "UK Food and Cuisine Overview"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "London",
+      "capital": true,
+      "lat": 51.501941,
+      "lon": -0.118668
+    },
+    {
+      "name": "Birmingham",
+      "capital": false,
+      "lat": 52.47692,
+      "lon": -1.921943
+    },
+    {
+      "name": "Manchester",
+      "capital": false,
+      "lat": 53.502361,
+      "lon": -2.249933
+    },
+    {
+      "name": "Glasgow",
+      "capital": false,
+      "lat": 55.876351,
+      "lon": -4.252653
+    },
+    {
+      "name": "Cardiff",
+      "capital": false,
+      "lat": 51.499995,
+      "lon": -3.225008
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/united-kingdom.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_United_Kingdom.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

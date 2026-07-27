@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Malabo is a city in Equatorial Guinea, located in the province of Bioko Norte. It is located on the north coast of the island of Bioko. In 2018, the city had a population of approximately 297,000 inhabitants.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hotel_de_Federaciones_02.jpg",
-        "url": "https://en.wikipedia.org/wiki/Malabo"
+        "url": "https://en.wikipedia.org/wiki/Malabo",
+        "coordinates": {
+          "lat": 3.74555556,
+          "lon": 8.77444444
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "Pico Basilé, located on the island of Bioko, is the tallest mountain of Equatorial Guinea. With an elevation of 3,011 metres, it is the summit of the largest and highest of three overlapping basaltic shield volcanoes which form the island. From the summit, Mount Cameroon can be seen to the north-east. Pico Basilé lies close to the city of Malabo. The very top is used as a broadcast transmitting station for RTVGE and microwave relay station for various communication networks.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Pico_Basil%C3%A9.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pico_Basil%C3%A9"
+        "url": "https://en.wikipedia.org/wiki/Pico_Basil%C3%A9",
+        "coordinates": {
+          "lat": 3.58777778,
+          "lon": 8.76166667
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "Bioko is an island of Equatorial Guinea. It is located 32 km (20 mi) south of the coast of Cameroon, and 160 km (99 mi) northwest of the northernmost part of mainland Equatorial Guinea. Malabo, on the north coast of the island, is the former capital city of Equatorial Guinea. Bioko's population was 335,048 at the 2015 census and it covers an area of 2,017 km2 (779 sq mi), making it the fourth largest island in Africa. The island is part of the Cameroon line of volcanoes and is located off the Cameroon coast, in the Bight of Biafra portion of the Gulf of Guinea. Its geology is volcanic; its highest peak is Pico Basile at 3,012 m (9,882 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bioko.png",
-        "url": "https://en.wikipedia.org/wiki/Bioko"
+        "url": "https://en.wikipedia.org/wiki/Bioko",
+        "coordinates": {
+          "lat": 3.5,
+          "lon": 8.7
+        }
       }
     },
     {
@@ -45,7 +57,11 @@
       "wiki": {
         "extract": "Monte Alén National Park is located near the center of Equatorial Guinea. It was established in 1990. With an area of 2,000 km2 (770 sq mi), it is the country's largest national park. The goliath frog, one of the prominent amphibians found in the park, is the biggest frog in the world; hunting it is prohibited.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nationalpark_Monte_Al%C3%A9n_%28Tafel%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Monte_Al%C3%A9n_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Monte_Al%C3%A9n_National_Park",
+        "coordinates": {
+          "lat": 1.53,
+          "lon": 10.11
+        }
       }
     }
   ],
@@ -89,5 +105,19 @@
     "The Culture and Traditions of Equatorial Guinea",
     "Wildlife and Nature in Equatorial Guinea",
     "History and Politics of Equatorial Guinea"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Malabo",
+      "capital": true,
+      "lat": 3.750015,
+      "lon": 8.783278
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/equatorial-guinea.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEquatorial_Guinea-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

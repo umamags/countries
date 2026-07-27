@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "The Galápagos Islands are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles west of the mainland of South America. They form the Galápagos Province of the Republic of Ecuador, with a population of slightly over 33,000 in 2020. The province is divided into the cantons of San Cristóbal, Santa Cruz, and Isabela, the three most populated islands in the chain. The Galápagos are famous for their large number of endemic species, which were studied by Charles Darwin in the 1830s and inspired his theory of evolution by means of natural selection. All of these islands are protected as part of Ecuador's Galápagos National Park and Marine Reserve.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/3840px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG",
-        "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands"
+        "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+        "coordinates": {
+          "lat": -0.5,
+          "lon": -90.5
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Cotopaxi is an active stratovolcano in the Andes Mountains, located in Cotopaxi National Park in Cotopaxi Province, about 50 km (31.1 mi) south of Quito, and 31 km (19 mi) northeast of the city of Latacunga, Ecuador. It is the second highest summit in Ecuador, reaching a height of 5,897 m (19,347 ft). Cotopaxi is among the highest active volcanoes in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cotopaxi_volcano_2008-06-27T1322.jpg",
-        "url": "https://en.wikipedia.org/wiki/Cotopaxi"
+        "url": "https://en.wikipedia.org/wiki/Cotopaxi",
+        "coordinates": {
+          "lat": -0.68055556,
+          "lon": -78.43777778
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Quito, officially San Francisco de Quito, is the capital and second-largest city of Ecuador, with an estimated population of 2.8 million in its metropolitan area. It is also the capital of the province of Pichincha. Quito is in a valley on the eastern slopes of Pichincha, an active stratovolcano in the Andes.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/3840px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Quito"
+        "url": "https://en.wikipedia.org/wiki/Quito",
+        "coordinates": {
+          "lat": -0.22,
+          "lon": -78.5125
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "The Ciudad Mitad del Mundo is a tract of land owned by the prefecture of the province of Pichincha, Ecuador. It is located at San Antonio parish of the canton of Quito, 26 kilometers (16 mi) north of the center of Quito. The grounds contain the Monument to the Equator, which highlights the exact location of the Equator and commemorates the eighteenth-century Franco-Spanish Geodesic Mission which fixed its approximate location; they also contain the Museo Etnográfico Mitad del Mundo, Ethnographic Museum Middle of the Earth, a museum about the indigenous people ethnography of Ecuador.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/3840px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
-        "url": "https://en.wikipedia.org/wiki/Ciudad_Mitad_del_Mundo"
+        "url": "https://en.wikipedia.org/wiki/Ciudad_Mitad_del_Mundo",
+        "coordinates": {
+          "lat": -0.00222222,
+          "lon": -78.45583333
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "Cuenca, officially Santa Ana de los Ríos de Cuenca, is an Ecuadorian city, head of the canton of the same name and capital of the province of Azuay, as well as its largest and most populated city. It is crossed by the Tomebamba, Tarqui, Yanuncay and Machángara rivers, in the south-central inter-Andean region of Ecuador, in the Paute river basin, at an altitude of 2,538 meters above sea level and with a temperate Andean climate averaging 16.3 °C.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Collage_Cuenca.png",
-        "url": "https://en.wikipedia.org/wiki/Cuenca%2C_Ecuador"
+        "url": "https://en.wikipedia.org/wiki/Cuenca%2C_Ecuador",
+        "coordinates": {
+          "lat": -2.89741389,
+          "lon": -79.00448056
+        }
       }
     }
   ],
@@ -94,5 +114,37 @@
     "Exploring Quito's Historic Center",
     "Ecuadorian Food Tour - Traditional Dishes",
     "The Culture and Festivals of Ecuador"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Quito",
+      "capital": true,
+      "lat": -0.213042,
+      "lon": -78.501997
+    },
+    {
+      "name": "Guayaquil",
+      "capital": false,
+      "lat": -2.218088,
+      "lon": -79.921988
+    },
+    {
+      "name": "Cuenca",
+      "capital": false,
+      "lat": -2.899992,
+      "lon": -78.999995
+    },
+    {
+      "name": "Santa Cruz",
+      "capital": false,
+      "lat": -0.533315,
+      "lon": -90.35
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/ecuador.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Ecuador.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

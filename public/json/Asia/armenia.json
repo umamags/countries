@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Geghard is a medieval monastery in the Kotayk province of Armenia, which is partially carved out of the adjacent mountain, surrounded by cliffs. It is listed as a UNESCO World Heritage Site with enhanced protection status.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Monasterio_de_Geghard%2C_Armenia%2C_2016-10-02%2C_DD_63.jpg/3840px-Monasterio_de_Geghard%2C_Armenia%2C_2016-10-02%2C_DD_63.jpg",
-        "url": "https://en.wikipedia.org/wiki/Geghard"
+        "url": "https://en.wikipedia.org/wiki/Geghard",
+        "coordinates": {
+          "lat": 40.140425,
+          "lon": 44.818511
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Garni Temple is a classical colonnaded structure in the village of Garni, in central Armenia, around 30 km (19 mi) east of Yerevan. Built in the Ionic order, it is the best-known structure and symbol of pre-Christian Armenia. Considered an eastern outpost of the Greco-Roman world, it is the only largely preserved Hellenistic building in the former Soviet Union.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Garni_temple_2021_drone.jpg",
-        "url": "https://en.wikipedia.org/wiki/Garni_Temple"
+        "url": "https://en.wikipedia.org/wiki/Garni_Temple",
+        "coordinates": {
+          "lat": 40.112421,
+          "lon": 44.730277
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Khor Virap is an Armenian monastery located in the Ararat Plain in Armenia, near the border with Turkey, about 8 kilometres (5.0 mi) south of Artashat, Ararat Province, in the territory of ancient Artaxata. The monastery was host to a theological seminary and was the residence of the Catholicos, the head of the Armenian Church.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg/3840px-Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg",
-        "url": "https://en.wikipedia.org/wiki/Khor_Virap"
+        "url": "https://en.wikipedia.org/wiki/Khor_Virap",
+        "coordinates": {
+          "lat": 39.87833333,
+          "lon": 44.57611111
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Republic Square is the central town square in Yerevan, the capital of Armenia. It consists of two sections: an oval roundabout and a trapezoid-shaped section which contains a pool with musical fountains. The square is surrounded by five major buildings built in pink and yellow tuff in the neoclassical style with extensive use of Armenian motifs. This architectural ensemble includes the Government House, the History Museum and the National Gallery, Armenia Marriott Hotel and two buildings that formerly housed the ministries of Foreign Affairs and Transport and Communications. The square was originally designed by Alexander Tamanian in 1924. The construction of most of the buildings was completed by the 1950s; the last building—the National Gallery—was completed in 1977.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%D5%80%D5%A1%D5%B6%D6%80%D5%A1%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D5%80%D6%80%D5%A1%D5%BA%D5%A1%D6%80%D5%A1%D5%AF.jpg",
-        "url": "https://en.wikipedia.org/wiki/Republic_Square%2C_Yerevan"
+        "url": "https://en.wikipedia.org/wiki/Republic_Square%2C_Yerevan",
+        "coordinates": {
+          "lat": 40.17777778,
+          "lon": 44.51277778
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Lake Sevan is the largest body of water in Armenia and the broader Caucasus region. It is one of the largest freshwater alpine lakes in Eurasia. The lake is situated in Gegharkunik Province, at an altitude of 1,900 m (6,234 ft) above sea level. It is fed by 28 rivers and streams. 10% of this incoming water is drained by the Hrazdan River, while the remaining 90% evaporates.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lake_Sevan_2022-08-14_Sentinel-2_L2A.jpg/3840px-Lake_Sevan_2022-08-14_Sentinel-2_L2A.jpg",
-        "url": "https://en.wikipedia.org/wiki/Lake_Sevan"
+        "url": "https://en.wikipedia.org/wiki/Lake_Sevan",
+        "coordinates": {
+          "lat": 40.31666667,
+          "lon": 45.35
+        }
       }
     }
   ],
@@ -106,5 +126,19 @@
     "History of Armenia - From Ancient Times to Modern Day",
     "Armenian Cuisine Explained: Traditional Dishes and Recipes",
     "Nagorno-Karabakh Conflict Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Yerevan",
+      "capital": true,
+      "lat": 40.183097,
+      "lon": 44.511606
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/armenia.jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AArmenia-map-ja.jpeg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

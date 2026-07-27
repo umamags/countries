@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov. The castle was built by Saxons in 1377 who were given the privilege by Louis I of Hungary. It is a national monument and landmark in Transylvania. The fortress is on the Transylvanian side of the historical border with Wallachia, on road DN73.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Castelul_Bran2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bran_Castle"
+        "url": "https://en.wikipedia.org/wiki/Bran_Castle",
+        "coordinates": {
+          "lat": 45.515,
+          "lon": 25.36722222
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Palace of the Parliament, initially designed during Communist times as the People's House or the House of the Republic, is the seat of the Parliament of Romania, located atop Dealul Spirii in Bucharest, the national capital. The Palace reaches a height of 84 m (276 ft), is 92 m (302 ft) deep underground, has a floor area of 365,000 m2 (3,930,000 sq ft) and a volume of 2,550,000 m3 (90,000,000 cu ft). The Palace of the Parliament is the heaviest building in the world, weighing about 4,098,500 tonnes, and is the largest civilian administrative building in the world, the largest military administrative building being the yet larger US Pentagon. The Independent described it as the third best building in the world, \"hideous but also sort of impressive.\"",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Bucharest_-_Palace_of_the_Parliament_%282024%29_%282%29.jpg/3840px-Bucharest_-_Palace_of_the_Parliament_%282024%29_%282%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament"
+        "url": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament",
+        "coordinates": {
+          "lat": 44.4275,
+          "lon": 26.0875
+        }
       }
     },
     {
@@ -32,7 +40,8 @@
       "wiki": {
         "extract": "Jean de l'Ours or John the Bear, John of the Bear, John-of-the-Bear, John Bear, is the leading character in the French folktale Jean de l'Ours classed as Type 301B in the Aarne–Thompson system; it can also denote any tale of this type.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/JeandelOurs.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jean_de_l'Ours"
+        "url": "https://en.wikipedia.org/wiki/Jean_de_l'Ours",
+        "coordinates": null
       }
     },
     {
@@ -41,7 +50,11 @@
       "wiki": {
         "extract": "The Danube Delta is the second largest river delta in Europe, after the Volga Delta, and is the best preserved on the continent. Occurring where the Danube River empties into the Black Sea, most of the Danube Delta lies in Romania, with a small part located in Ukraine. Its approximate surface area is 4,152 square kilometres, of which 3,446 km2 (1,331 sq mi) is in Romania. With the lagoons of Razim–Sinoe, located south of the main delta, the total area of the Danube Delta is 5,165 km2 (1,994 sq mi). The Razim–Sinoe lagoon complex is geologically and ecologically related to the delta proper; the combined territory is listed as a World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Danube_Delta_ESA23450088.jpeg/3840px-Danube_Delta_ESA23450088.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Danube_Delta"
+        "url": "https://en.wikipedia.org/wiki/Danube_Delta",
+        "coordinates": {
+          "lat": 45.2,
+          "lon": 29.5
+        }
       }
     },
     {
@@ -96,5 +109,31 @@
     "Romanian Culture and Traditions Explained",
     "A Journey Through Romania's History",
     "Romanian Food Tour: Traditional Dishes You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bucharest",
+      "capital": true,
+      "lat": 44.435318,
+      "lon": 26.098001
+    },
+    {
+      "name": "Iași",
+      "capital": false,
+      "lat": 47.168347,
+      "lon": 27.574947
+    },
+    {
+      "name": "Constanța",
+      "capital": false,
+      "lat": 44.202662,
+      "lon": 28.609974
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/romania.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARomania-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

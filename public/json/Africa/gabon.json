@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Lopé National Park is a national park in central Gabon. Bordered by the Ogooué River to the north and the Chaillu Massif to the south, the park has an area of 4,912 km2 (1,897 sq mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lop%C3%A9_National_Park_river_crop.jpg",
-        "url": "https://en.wikipedia.org/wiki/Lop%C3%A9_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Lop%C3%A9_National_Park",
+        "coordinates": {
+          "lat": -0.5,
+          "lon": 11.5
+        }
       }
     },
     {
@@ -27,7 +31,8 @@
       "wiki": {
         "extract": "Fortescue is a global metal mining company headquartered in Australia. Fortescue focused on iron ore mining under the name of Fortescue Metals Group (FMG) until July 2023. As of 2017, Fortescue is the fourth-largest iron ore producer in the world. The company has holdings of more than 87,000 km2 in the Pilbara region of Western Australia, making it the largest tenement holder in the state, larger than both BHP and Rio Tinto.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/FMG_Christmas_Creek.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fortescue_(company)"
+        "url": "https://en.wikipedia.org/wiki/Fortescue_(company)",
+        "coordinates": null
       }
     },
     {
@@ -36,7 +41,11 @@
       "wiki": {
         "extract": "Libreville is the capital and largest city of Gabon, located on the Gabon Estuary. Libreville occupies 65 square kilometres (25 sq mi) of the northwestern province of Estuaire. Libreville is also a port on the Gabon Estuary, near the Gulf of Guinea. As of the 2013 census, its population was 703,904.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Libreville_frond_de_mer.jpg",
-        "url": "https://en.wikipedia.org/wiki/Libreville"
+        "url": "https://en.wikipedia.org/wiki/Libreville",
+        "coordinates": {
+          "lat": 0.40777778,
+          "lon": 9.44027778
+        }
       }
     },
     {
@@ -45,7 +54,11 @@
       "wiki": {
         "extract": "Ivindo National Park is a national park in east-central Gabon in Central Africa, straddling the border of the Ogooué-Ivindo and Ogooué-Lolo provinces. Its creation was announced in August 2002 by then-President Omar Bongo at the Earth Summit in Johannesburg, along with Gabon's 12 other terrestrial national parks. Most famous for the spectacular Kongou and Mingouli waterfalls of the Ivindo River, known as the “wonders of Ivindo”, the park also includes the Ipassa Makokou Biosphere Reserve and Langoué Baï, one of the 5 most important forest clearings in Central Africa. The park was designated as a UNESCO World Heritage Site in 2021 for its outstanding biodiversity and relatively intact tropical forest ecosystem.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Waterfall_ivindo_gabon.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ivindo_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Ivindo_National_Park",
+        "coordinates": {
+          "lat": 0.088,
+          "lon": 12.63
+        }
       }
     },
     {
@@ -54,7 +67,11 @@
       "wiki": {
         "extract": "Libreville is the capital and largest city of Gabon, located on the Gabon Estuary. Libreville occupies 65 square kilometres (25 sq mi) of the northwestern province of Estuaire. Libreville is also a port on the Gabon Estuary, near the Gulf of Guinea. As of the 2013 census, its population was 703,904.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Libreville_frond_de_mer.jpg",
-        "url": "https://en.wikipedia.org/wiki/Libreville"
+        "url": "https://en.wikipedia.org/wiki/Libreville",
+        "coordinates": {
+          "lat": 0.40777778,
+          "lon": 9.44027778
+        }
       }
     }
   ],
@@ -110,5 +127,31 @@
     "Wildlife of Gabon National Parks",
     "Gabonese Culture and Traditions Explained",
     "History and Politics of Gabon"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Libreville",
+      "capital": true,
+      "lat": 0.385389,
+      "lon": 9.457965
+    },
+    {
+      "name": "Port-Gentil",
+      "capital": false,
+      "lat": -0.720022,
+      "lon": 8.780022
+    },
+    {
+      "name": "Franceville",
+      "capital": false,
+      "lat": -1.6333,
+      "lon": 13.583295
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/gabon.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGabon_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

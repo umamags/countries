@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Milford Sound is a fiord in the south west of New Zealand's South Island within Fiordland National Park, Piopiotahi Marine Reserve, and the Te Wahipounamu World Heritage site. It has been judged the world's top travel destination in an international survey and is acclaimed as New Zealand's most famous tourist destination. Rudyard Kipling called it the eighth Wonder of the World. The fiord is most commonly accessed via road by tour coach, with the road terminating at a small village also called Milford Sound.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Milford_Sound_%28New_Zealand%29.JPG/3840px-Milford_Sound_%28New_Zealand%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/Milford_Sound"
+        "url": "https://en.wikipedia.org/wiki/Milford_Sound",
+        "coordinates": {
+          "lat": -44.64805556,
+          "lon": 167.90555556
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Located at the corner of Victoria and Federal Streets within the city's CBD, it is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the second-tallest freestanding structure in the Southern Hemisphere, surpassed only by the Autograph Tower in Jakarta, Indonesia, and the 28th tallest tower in the world. Since its completion in 1997, the Sky Tower has become an iconic landmark in Auckland's skyline, due to its height and design. It was the tallest freestanding structure in the Southern Hemisphere from 1996 to 2022.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/01_Auckland_New_Zealand-1000137.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)"
+        "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
+        "coordinates": {
+          "lat": -36.84847,
+          "lon": 174.76231
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Tongariro National Park, located in the central North Island, is the oldest national park in New Zealand and the sixth national park established in the world. It has been recognised by UNESCO as a World Heritage Site for its mixed cultural and natural values.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tongariro_Mahuia_River_n.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park",
+        "coordinates": {
+          "lat": -39.29083333,
+          "lon": 175.56222222
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "Waitomo, officially Waitomo Caves, is a rural community in the King Country region of New Zealand's North Island. There are several solutional cave systems in the area around the village, which are popular tourist attractions. Restaurants and accommodation are centred in the village to serve visiting tourists.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Waitomo_Cave_Entrance_n.jpg",
-        "url": "https://en.wikipedia.org/wiki/Waitomo"
+        "url": "https://en.wikipedia.org/wiki/Waitomo",
+        "coordinates": {
+          "lat": -38.26065,
+          "lon": 175.10333889
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "The Hobbiton Movie Set is a significant location used for The Lord of the Rings film trilogy and The Hobbit film trilogy, serving as a stand-in for the town of Hobbiton in the Shire in both trilogies. It is situated on a family-run farm about 8 kilometres (5.0 mi) west of Hinuera and 10 kilometres (6.2 mi) southwest of Matamata, in Waikato, New Zealand, and is now a Tolkien tourism destination, offering a guided tour of the set.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Waterhouse_Lake_Front.jpg",
-        "url": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set"
+        "url": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set",
+        "coordinates": {
+          "lat": -37.8575,
+          "lon": 175.67972222
+        }
       }
     }
   ],
@@ -110,5 +130,43 @@
     "The Culture and Traditions of New Zealand",
     "Top 10 Places to Visit in New Zealand",
     "New Zealand History Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Wellington",
+      "capital": true,
+      "lat": -41.299988,
+      "lon": 174.783266
+    },
+    {
+      "name": "Auckland",
+      "capital": false,
+      "lat": -36.848055,
+      "lon": 174.763027
+    },
+    {
+      "name": "Manukau",
+      "capital": false,
+      "lat": -36.99997,
+      "lon": 174.884971
+    },
+    {
+      "name": "Christchurch",
+      "capital": false,
+      "lat": -43.535022,
+      "lon": 172.630023
+    },
+    {
+      "name": "Hamilton",
+      "capital": false,
+      "lat": -37.778269,
+      "lon": 175.289578
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/new-zealand.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANew_Zealand-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Mount Cameroon is an active stratovolcano in the Southwest Region of Cameroon next to the city of Buea near the Gulf of Guinea. Mount Cameroon is also known as Cameroon Mountain or Fako or by its indigenous name Mongo ma Ndemi. Mount Cameroon is ranked 22nd by topographic isolation.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mount_Cameroon_view_from_Buea_%28Soppo%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Cameroon"
+        "url": "https://en.wikipedia.org/wiki/Mount_Cameroon",
+        "coordinates": {
+          "lat": 4.21666667,
+          "lon": 9.1725
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Waza National Park is a national park in the Department of Logone-et-Chari, in Far North Region, Cameroon. It was founded in 1934 as a hunting reserve, and covers a total of 1,700 km2 (660 sq mi). Waza achieved national park status in 1968, and became a UNESCO biosphere reserve in 1979.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elephants_around_tree_in_Waza%2C_Cameroon.jpg",
-        "url": "https://en.wikipedia.org/wiki/Waza_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Waza_National_Park",
+        "coordinates": {
+          "lat": 11.33333333,
+          "lon": 14.73333333
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Dja Faunal Reserve, located in southeastern Cameroon, is a UNESCO World Heritage Site inscribed in 1987. Causes of inscription include diversity of species present in the park, the presence of five threatened species of mammal, and lack of disturbance within the park. It is managed by Dja Conservation Services (DCS), which is led by a conservator. The Reserve receives significant support for its management from many projects funded by international partners and supporters of conservation in Cameroon.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dja_River_and_pirogue.JPG",
-        "url": "https://en.wikipedia.org/wiki/Dja_Faunal_Reserve"
+        "url": "https://en.wikipedia.org/wiki/Dja_Faunal_Reserve",
+        "coordinates": {
+          "lat": 3,
+          "lon": 13
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "Kribi is a beach resort and sea port in Cameroon.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kribi.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kribi"
+        "url": "https://en.wikipedia.org/wiki/Kribi",
+        "coordinates": {
+          "lat": 2.935,
+          "lon": 9.91
+        }
       }
     },
     {
@@ -51,7 +67,11 @@
       "wiki": {
         "extract": "The Foumban Royal Palace is a historical building in the city of Foumban, capital of Noun. It is the seat of the Kingdom of Bamum, where the Chief-Superior of the peoples of the valley of the East bank of the Noun resides.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bamun_sultan_palace.jpg",
-        "url": "https://en.wikipedia.org/wiki/Foumban_Royal_Palace"
+        "url": "https://en.wikipedia.org/wiki/Foumban_Royal_Palace",
+        "coordinates": {
+          "lat": 5.733044,
+          "lon": 10.901154
+        }
       }
     }
   ],
@@ -107,5 +127,43 @@
     "Cameroon's Wildlife: Exploring Waza National Park",
     "Traditional Festivals of Cameroon - Ngondo Festival",
     "Cameroon: History and Contemporary Issues Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Yaoundé",
+      "capital": true,
+      "lat": 3.868647,
+      "lon": 11.514705
+    },
+    {
+      "name": "Douala",
+      "capital": false,
+      "lat": 4.062356,
+      "lon": 9.708045
+    },
+    {
+      "name": "Bamenda",
+      "capital": false,
+      "lat": 5.959984,
+      "lon": 10.150016
+    },
+    {
+      "name": "Garoua",
+      "capital": false,
+      "lat": 9.300012,
+      "lon": 13.390025
+    },
+    {
+      "name": "Maroua",
+      "capital": false,
+      "lat": 10.595566,
+      "lon": 14.324696
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/cameroon.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACameroon-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

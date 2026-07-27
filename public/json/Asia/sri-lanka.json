@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sigiriya_%28141688197%29.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Sigiriya"
+        "url": "https://en.wikipedia.org/wiki/Sigiriya",
+        "coordinates": {
+          "lat": 7.95694444,
+          "lon": 80.75972222
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Sri Dalada Maligawa, commonly known in English as the Temple of the Sacred Tooth Relic, is a Buddhist temple in Kandy, Sri Lanka. It is located in the Royal Palace Complex of the former Kingdom of Kandy, which houses the relic of the tooth of the Buddha. Since ancient times, the relic has played an important role in local politics because it is believed that whoever holds the relic holds the governance of the country. The relic was historically held by Sinhalese kings. The Temple of the Tooth is a World Heritage Site mainly due to the temple and the relic.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg/3840px-SL_Kandy_asv2020-01_img33_Sacred_Tooth_Temple.jpg",
-        "url": "https://en.wikipedia.org/wiki/Temple_of_the_Tooth"
+        "url": "https://en.wikipedia.org/wiki/Temple_of_the_Tooth",
+        "coordinates": {
+          "lat": 7.2936,
+          "lon": 80.6414
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Yala National Park is a national park in Sri Lanka, bordering the Indian Ocean and covering 979 km2 (378 sq mi). It was designated as a wildlife sanctuary in 1900. It hosts diverse ecosystems ranging from moist monsoon forests to freshwater and marine wetlands, and is important for the conservation of Sri Lankan elephants, Sri Lankan leopards and 44 mammal species. It is one of the 70 Important Bird Areas in Sri Lanka harbouring 215 bird species including six endemic species of Sri Lanka.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Yala_Beach.jpg/3840px-Yala_Beach.jpg",
-        "url": "https://en.wikipedia.org/wiki/Yala_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Yala_National_Park",
+        "coordinates": {
+          "lat": 6.37277778,
+          "lon": 81.51694444
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards. It is a historical, archaeological and architectural heritage monument, which even after more than 437 years maintains a polished appearance, due to extensive reconstruction work done by the Archaeological Department of Sri Lanka.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Galle_Fort.jpg/3840px-Galle_Fort.jpg",
-        "url": "https://en.wikipedia.org/wiki/Galle_Fort"
+        "url": "https://en.wikipedia.org/wiki/Galle_Fort",
+        "coordinates": {
+          "lat": 6.025833,
+          "lon": 80.2175
+        }
       }
     },
     {
@@ -52,7 +68,11 @@
       "wiki": {
         "extract": "Adam's Peak is a 2,243-metre-tall (7,359-foot) conical sacred mountain located in central Sri Lanka. It is well known for the Sri Pada, a 1.8 m rock formation resembling a footprint near the summit whose name is also used for the mountain itself. In Buddhist tradition the print is held to be the footprint of the Buddha, later in Sri Lankan Hindu tradition that of Hanuman or Shiva, and in some Islamic and Christian traditions that of Adam or St. Thomas the Apostle.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Pada.JPG",
-        "url": "https://en.wikipedia.org/wiki/Adam's_Peak"
+        "url": "https://en.wikipedia.org/wiki/Adam's_Peak",
+        "coordinates": {
+          "lat": 6.8094,
+          "lon": 80.4997
+        }
       }
     }
   ],
@@ -102,5 +122,31 @@
     "Sri Lankan Culture and Traditions Explained",
     "Sri Lanka Travel Guide 2024",
     "The History and Heritage of Sri Lanka"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Colombo",
+      "capital": true,
+      "lat": 6.931966,
+      "lon": 79.857751
+    },
+    {
+      "name": "Sri Jayawardenepura Kotte",
+      "capital": false,
+      "lat": 6.900004,
+      "lon": 79.949993
+    },
+    {
+      "name": "Kandy",
+      "capital": false,
+      "lat": 7.279981,
+      "lon": 80.670001
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/sri-lanka.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASri_Lanka_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

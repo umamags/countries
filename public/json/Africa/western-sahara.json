@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Dakhla is a city in the disputed territory of Western Sahara, and has been occupied by Morocco since 1976. It is the capital of the claimed Moroccan administrative region Dakhla-Oued Ed-Dahab. It has a population of 161,723 and is on a narrow peninsula of the Atlantic Coast, the Río de Oro Peninsula, about 550 km (340 mi) south of Laayoune.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dakhla%2C_Western_Sahara_%2811%29.jpg/3840px-Dakhla%2C_Western_Sahara_%2811%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Dakhla%2C_Western_Sahara"
+        "url": "https://en.wikipedia.org/wiki/Dakhla%2C_Western_Sahara",
+        "coordinates": {
+          "lat": 23.70805556,
+          "lon": -15.94555556
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Smāra is a city in the Moroccan-occupied part of Western Sahara, with a population of 57,035 recorded in the 2014 Moroccan census. It is served by Smara Airport and Smara bus station.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Smara%2CrooftopE.jpg",
-        "url": "https://en.wikipedia.org/wiki/Smara"
+        "url": "https://en.wikipedia.org/wiki/Smara",
+        "coordinates": {
+          "lat": 26.73944444,
+          "lon": -11.67027778
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Laayoune or El Aaiún is the largest city of the disputed territory of Western Sahara, with a population of 262,791 in 2024. The city is the de jure capital of the Sahrawi Arab Democratic Republic, though it is under de facto Moroccan administration as occupied territory. The modern city is thought to have been founded by the Spanish captain Antonio de Oro in 1938. From 1958, it became the administrative capital of the Spanish Sahara, administered by the Governor General of Spanish West Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/El_Aai%C3%BAn-La%C3%A2youne_Collage.png",
-        "url": "https://en.wikipedia.org/wiki/Laayoune"
+        "url": "https://en.wikipedia.org/wiki/Laayoune",
+        "coordinates": {
+          "lat": 27.15,
+          "lon": -13.19888889
+        }
       }
     }
   ],
@@ -79,5 +91,19 @@
     "The Sahrawi People: Culture and Struggle",
     "Western Sahara: The Last African Colony?",
     "Dakhla Peninsula: Desert Meets Ocean"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bir Lehlou",
+      "capital": false,
+      "lat": 26.119167,
+      "lon": -9.652522
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/western-sahara.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWestern_Sahara-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

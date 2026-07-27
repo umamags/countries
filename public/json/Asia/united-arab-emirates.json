@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Burj Khalifa is a megatall skyscraper in Dubai, United Arab Emirates. Designed by Skidmore, Owings & Merrill, it is the world's tallest structure, with a total height of 829.8 m and a roof height of 828 m (2,717 ft). It has been the tallest building in the world since its topping out in 2009, surpassing Taipei 101, which had held the record since 2004.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/3840px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+        "url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+        "coordinates": {
+          "lat": 25.1972,
+          "lon": 55.2742
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Sheikh Zayed Grand Mosque is a mosque located in Abu Dhabi, the capital city of the United Arab Emirates. It is the country's largest mosque, and is the key place of worship for daily Islamic prayers. There is a smaller replica of this mosque in Surakarta, a city in Indonesia.",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/Sheikh_Zayed_Mosque_view.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sheikh_Zayed_Grand_Mosque"
+        "url": "https://en.wikipedia.org/wiki/Sheikh_Zayed_Grand_Mosque",
+        "coordinates": {
+          "lat": 24.412,
+          "lon": 54.474
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Palm Jumeirah, also known as the Palm Islands,\n(Arabic: نخلة جميرا) is an archipelago of artificial islands on the Persian Gulf in Jumeirah, Dubai, United Arab Emirates. It is part of a larger series of developments called the Palm Islands, including Palm Jebel Ali and the Dubai Islands, which, when completed, will together increase Dubai's shoreline by a total of 520 kilometres (320 mi). It has a population of over 25,000 as of 2022.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palm_Jumeirah"
+        "url": "https://en.wikipedia.org/wiki/Palm_Jumeirah",
+        "coordinates": {
+          "lat": 25.11805556,
+          "lon": 55.13333333
+        }
       }
     }
   ],
@@ -66,5 +78,25 @@
     "The Rise of Dubai: From Desert to Metropolis",
     "Traditional Emirati Food and Cuisine Explained",
     "United Arab Emirates: A Look at Its Economy and Society"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Abu Dhabi",
+      "capital": true,
+      "lat": 24.466684,
+      "lon": 54.366593
+    },
+    {
+      "name": "Dubai",
+      "capital": false,
+      "lat": 25.231942,
+      "lon": 55.278029
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/united-arab-emirates.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AUnited_Arab_Emirates-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

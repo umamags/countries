@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Leptis or Lepcis Magna, also known by other names in antiquity, was a prominent city of the Carthaginian Empire and Roman Libya at the mouth of the Wadi Lebda in the Mediterranean.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/3840px-Leptis_Magna_%2829%29_%288288918733%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Leptis_Magna"
+        "url": "https://en.wikipedia.org/wiki/Leptis_Magna",
+        "coordinates": {
+          "lat": 32.63916667,
+          "lon": 14.29055556
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Cyrene, also sometimes anglicized as Kyrene, was an ancient Greek colony and Roman city near present-day Shahhat in northeastern Libya in North Africa. It was part of the Pentapolis, an important group of five cities in the region, and gave the area its classical and early modern name Cyrenaica.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cyrene8.jpg",
-        "url": "https://en.wikipedia.org/wiki/Cyrene%2C_Libya"
+        "url": "https://en.wikipedia.org/wiki/Cyrene%2C_Libya",
+        "coordinates": {
+          "lat": 32.8225,
+          "lon": 21.8625
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Sabratha, in the Zawiya District of Libya, was the westernmost of the ancient \"three cities\" of Roman Tripolis, alongside Oea and Leptis Magna. From 2001 to 2007 it was the capital of the former Sabratha wa Sorman District. It lies on the Mediterranean coast about 70 km (43 mi) west of modern Tripoli. The extant archaeological site was inscribed as a UNESCO World Heritage Site in 1982.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Theatre_of_Sabratha%2C_Libya.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sabratha"
+        "url": "https://en.wikipedia.org/wiki/Sabratha",
+        "coordinates": {
+          "lat": 32.79222222,
+          "lon": 12.48416667
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Ghadames or Ghadamis is an oasis town in the Nalut District of the Tripolitania region in northwestern Libya.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ghadames_Mosque.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ghadames"
+        "url": "https://en.wikipedia.org/wiki/Ghadames",
+        "coordinates": {
+          "lat": 30.13333333,
+          "lon": 9.5
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Acacus Mountains or Tadrart Akakus form a mountain range in the desert of the Ghat District in western Libya, part of the Sahara. They are situated east of the city of Ghat, Libya, and stretch north from the border with Algeria, about 100 kilometres (62 mi). The area has a particularly rich array of prehistoric rock art.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tadrart_Acacus_1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Acacus_Mountains"
+        "url": "https://en.wikipedia.org/wiki/Acacus_Mountains",
+        "coordinates": {
+          "lat": 24.83333333,
+          "lon": 10.33333333
+        }
       }
     }
   ],
@@ -98,5 +118,43 @@
     "Life in Libya Today: Challenges and Culture",
     "Libyan Cuisine: Traditional Dishes and Recipes",
     "The Political Crisis in Libya: Background and Current Status"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Tripoli",
+      "capital": true,
+      "lat": 32.8925,
+      "lon": 13.180012
+    },
+    {
+      "name": "Banghazi",
+      "capital": false,
+      "lat": 32.118679,
+      "lon": 20.064777
+    },
+    {
+      "name": "Misrata",
+      "capital": false,
+      "lat": 32.379973,
+      "lon": 15.099998
+    },
+    {
+      "name": "Zuwara",
+      "capital": false,
+      "lat": 32.93441,
+      "lon": 12.079149
+    },
+    {
+      "name": "Sabha",
+      "capital": false,
+      "lat": 27.033271,
+      "lon": 14.43332
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/libya.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Libya.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Little Mermaid is a bronze statue by Edvard Eriksen, depicting a mermaid becoming human. The sculpture is displayed on a rock by the waterside at the Langelinie promenade in Copenhagen, Denmark. It is 1.25 metres (4.1 ft) tall and weighs 175 kilograms (385 lb).",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Copenhagen_-_the_little_mermaid_statue_-_2013.jpg",
-        "url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)"
+        "url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)",
+        "coordinates": {
+          "lat": 55.69286111,
+          "lon": 12.59927778
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Tivoli Gardens, also known simply as Tivoli, is an amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tivoli_Gardens_4.jpg/3840px-Tivoli_Gardens_4.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tivoli_Gardens"
+        "url": "https://en.wikipedia.org/wiki/Tivoli_Gardens",
+        "coordinates": {
+          "lat": 55.67361111,
+          "lon": 12.56833333
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Kronborg is a castle and historical stronghold in the town of Helsingør, Denmark. Immortalised as Elsinore in William Shakespeare's play Hamlet, Kronborg is one of the most important Renaissance castles in Northern Europe. It was inscribed on the UNESCO World Heritage List in 2000.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kronborg_002.JPG",
-        "url": "https://en.wikipedia.org/wiki/Kronborg"
+        "url": "https://en.wikipedia.org/wiki/Kronborg",
+        "coordinates": {
+          "lat": 56.0386,
+          "lon": 12.6219
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Roskilde Cathedral, in the city of Roskilde on the island of Zealand (Sjælland) in eastern Denmark, is a cathedral of the Lutheran Church of Denmark.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Roskilde_Cathedral_aerial_crop.jpg",
-        "url": "https://en.wikipedia.org/wiki/Roskilde_Cathedral"
+        "url": "https://en.wikipedia.org/wiki/Roskilde_Cathedral",
+        "coordinates": {
+          "lat": 55.64277778,
+          "lon": 12.08
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Nyhavn is a 17th-century waterfront, canal and entertainment district in Copenhagen, Denmark. Stretching from Kongens Nytorv to the Inner Harbour just south of the Royal Playhouse, it is lined by brightly coloured 17th and early 18th century townhouses and bars, cafes and restaurants. The canal harbours many historical wooden ships.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Nyhavn_Canal_3.jpg/3840px-The_Nyhavn_Canal_3.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nyhavn"
+        "url": "https://en.wikipedia.org/wiki/Nyhavn",
+        "coordinates": {
+          "lat": 55.67972222,
+          "lon": 12.59055556
+        }
       }
     }
   ],
@@ -108,5 +128,19 @@
     "History of Denmark in 10 Minutes",
     "Danish Culture and Traditions Explained",
     "Exploring Copenhagen: Denmark's Capital City"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "København",
+      "capital": true,
+      "lat": 55.68051,
+      "lon": 12.56154
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/denmark.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Denmark.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

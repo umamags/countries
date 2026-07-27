@@ -17,7 +17,8 @@
       "wiki": {
         "extract": "The Kokoda Track or Trail is a single-file foot thoroughfare that runs 96 kilometres (60 mi) overland – 60 kilometres (37 mi) in a straight line – through the Owen Stanley Range in Papua New Guinea (PNG). The track was the location of the 1942 World War II battle between Japanese and Allied – primarily Australian – forces in what was then the Australian territory of Papua.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/New_guinea_kokoda.PNG",
-        "url": "https://en.wikipedia.org/wiki/Kokoda_Track"
+        "url": "https://en.wikipedia.org/wiki/Kokoda_Track",
+        "coordinates": null
       }
     },
     {
@@ -26,7 +27,11 @@
       "wiki": {
         "extract": "Tufi is a town located on the south eastern peninsula of Cape Nelson, Oro Province, Papua New Guinea. Tufi is located on one of many rias, or drowned river valleys, locally referred to as 'fjords', on Cape Nelson surrounded by many uncharted reefs. The area is also famous for its production of tapa cloth.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tufi_Town.jpg/3840px-Tufi_Town.jpg",
-        "url": "https://en.wikipedia.org/wiki/Tufi"
+        "url": "https://en.wikipedia.org/wiki/Tufi",
+        "coordinates": {
+          "lat": -9.08333333,
+          "lon": 149.31666667
+        }
       }
     },
     {
@@ -35,7 +40,11 @@
       "wiki": {
         "extract": "Mount Wilhelm is the highest mountain in Papua New Guinea at 4,509 metres (14,793 ft). It is part of the Bismarck Range and the peak is the point where three provinces, Chimbu, Jiwaka and Madang, meet. In the local Kuman language, the peak is also known as Enduwa Kombuglu or Kombugl'o Dimbin.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mount_Wilhelm.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Wilhelm"
+        "url": "https://en.wikipedia.org/wiki/Mount_Wilhelm",
+        "coordinates": {
+          "lat": -5.8,
+          "lon": 145.03333333
+        }
       }
     },
     {
@@ -44,7 +53,11 @@
       "wiki": {
         "extract": "Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600 km (370 mi) to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12 mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rabaul_from_Vulcanology_Observatory.jpg",
-        "url": "https://en.wikipedia.org/wiki/Rabaul"
+        "url": "https://en.wikipedia.org/wiki/Rabaul",
+        "coordinates": {
+          "lat": -4.2,
+          "lon": 152.18333333
+        }
       }
     },
     {
@@ -53,7 +66,11 @@
       "wiki": {
         "extract": "The Sepik is the longest river on the island of New Guinea, and the third largest in Oceania by discharge volume after the Fly and Mamberamo. The majority of the river flows through the Papua New Guinea (PNG) provinces of Sandaun and East Sepik, with a small section flowing through the Indonesian province of Papua.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sepik-sediment-new.png",
-        "url": "https://en.wikipedia.org/wiki/Sepik"
+        "url": "https://en.wikipedia.org/wiki/Sepik",
+        "coordinates": {
+          "lat": -3.84166667,
+          "lon": 144.54166667
+        }
       }
     }
   ],
@@ -99,5 +116,43 @@
     "Papua New Guinea: The Land of a Thousand Cultures",
     "Mount Hagen Cultural Show Highlights",
     "Exploring the Sepik River and its Traditions"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Port Moresby",
+      "capital": true,
+      "lat": -9.464708,
+      "lon": 147.192504
+    },
+    {
+      "name": "Lae",
+      "capital": false,
+      "lat": -6.732988,
+      "lon": 146.990035
+    },
+    {
+      "name": "Mt. Hagen",
+      "capital": false,
+      "lat": -5.863222,
+      "lon": 144.21682
+    },
+    {
+      "name": "Goroka",
+      "capital": false,
+      "lat": -6.083312,
+      "lon": 145.385482
+    },
+    {
+      "name": "Rabaul",
+      "capital": false,
+      "lat": -4.20549,
+      "lon": 152.143431
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/papua-new-guinea.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APapua_New_Guinea_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

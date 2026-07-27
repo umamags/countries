@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island, part of New York City, in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi, and its metal framework built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+        "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+        "coordinates": {
+          "lat": 40.68916667,
+          "lon": -74.04444444
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Grand Canyon National Park is a national park of the United States located in northwestern Arizona, the 15th site to have been named as a national park. The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World. The park, which covers 1,217,262 acres of unincorporated area in Coconino and Mohave counties, received more than 4.9 million recreational visitors in 2024. The Grand Canyon was designated a World Heritage Site by UNESCO in 1979. The park celebrated its 100th anniversary on February 26, 2019.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dawn_on_the_S_rim_of_the_Grand_Canyon_%288645178272%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park",
+        "coordinates": {
+          "lat": 36.0552608,
+          "lon": -112.1218355
+        }
       }
     },
     {
@@ -32,7 +40,8 @@
       "wiki": {
         "extract": "White Americans are Americans who identify as white people. In a more official sense, the United States Census Bureau, which collects demographic data on Americans, defines \"white\" as \"[a] person having origins in any of the original peoples of Europe, the Middle East, or North Africa\". White Americans have historically constituted the majority population in the United States, though their share has been gradually declining in recent decades. As of the latest American Community Survey conducted by the U.S. Census Bureau in 2024, an estimated 59.8% of the U.S. population—approximately 203.3 million people—identify as White alone, while Non-Hispanic Whites account for 56.3% of the population, or roughly 191.4 million people. Overall, 72.1% of Americans identify as White either alone or in combination with one or more other racial groups. European Americans are by far the largest panethnic group of White Americans and have constituted the majority population of the United States since the nation's founding. Middle Eastern Americans constitute a much smaller demographic of White Americans, making up around 1.1% of the US population in 2020.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/White_Americans_2020_County.png/3840px-White_Americans_2020_County.png",
-        "url": "https://en.wikipedia.org/wiki/White_Americans"
+        "url": "https://en.wikipedia.org/wiki/White_Americans",
+        "coordinates": null
       }
     },
     {
@@ -41,7 +50,11 @@
       "wiki": {
         "extract": "The Mount Rushmore National Memorial is a national memorial featuring a colossal sculpture carved into the granite face of Mount Rushmore in the Black Hills, about 2 mi (3 km) southwest of Keystone, South Dakota, United States. The sculptor, Gutzon Borglum, named it the Shrine of Democracy, and oversaw the execution from 1927 to 1941 with the help of his son, Lincoln Borglum. The sculpture features 60-foot-tall (18 m) depictions of the heads of four United States presidents: George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln, respectively chosen to represent the nation's foundation, expansion, development, and preservation. Mount Rushmore attracts more than two million visitors annually to the memorial park which covers 1,278 acres.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/3840px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Rushmore"
+        "url": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+        "coordinates": {
+          "lat": 43.87888889,
+          "lon": -103.45916667
+        }
       }
     },
     {
@@ -50,7 +63,11 @@
       "wiki": {
         "extract": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco—the northern tip of the San Francisco Peninsula—to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
-        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+        "coordinates": {
+          "lat": 37.81972222,
+          "lon": -122.47861111
+        }
       }
     }
   ],
@@ -108,5 +125,43 @@
     "Top 10 Places to Visit in the USA",
     "American Culture Explained",
     "How the USA Became a Superpower"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Washington, D.C.",
+      "capital": true,
+      "lat": 38.901495,
+      "lon": -77.011364
+    },
+    {
+      "name": "New York",
+      "capital": false,
+      "lat": 40.751925,
+      "lon": -73.981963
+    },
+    {
+      "name": "Los Angeles",
+      "capital": false,
+      "lat": 33.991924,
+      "lon": -118.181926
+    },
+    {
+      "name": "Chicago",
+      "capital": false,
+      "lat": 41.831937,
+      "lon": -87.752001
+    },
+    {
+      "name": "Miami",
+      "capital": false,
+      "lat": 25.789557,
+      "lon": -80.226052
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/united-states-of-america.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:United_States_CIA_World_Factbook.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

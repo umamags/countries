@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "The Basilica of Sainte-Anne-du-Congo is a monumental Catholic church in Brazzaville, Republic of the Congo.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Basilique_Sainte-anne.jpg",
-        "url": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville"
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville",
+        "coordinates": {
+          "lat": -4.2685,
+          "lon": 15.2844
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Odzala-Kokoua National Park is a national park in the Republic of the Congo. The park was first protected in 1935, declared a biosphere reserve in 1977, and granted official designation by presidential decree in 2001. Odzala-Kokoua has approximately 100 mammal species, and one of the continent's most diverse primate populations. The nonprofit conservation organization African Parks began managing the park in collaboration with the Ministry of Forest Economy, Sustainable Development and Environment of the Republic of the Congo in 2010.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park",
+        "coordinates": {
+          "lat": 0.8,
+          "lon": 14.9
+        }
       }
     },
     {
@@ -35,7 +43,8 @@
       "wiki": {
         "extract": "Pointe-Noire is the second largest city and main economic centre in the Republic of the Congo, with a population of 1,420,612 inhabitants in 2023. Since the 2002 constitution, it is also an autonomous department and a commune ; before this date it was the capital of the Kouilou region. It is situated on a headland between Pointe-Noire Bay and the Atlantic Ocean and is located near the border with Angola.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg/3840px-Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pointe-Noire"
+        "url": "https://en.wikipedia.org/wiki/Pointe-Noire",
+        "coordinates": null
       }
     }
   ],
@@ -79,5 +88,31 @@
     "Brazzaville City Guide: Republic of the Congo",
     "Traditional Music and Dance in the Republic of the Congo",
     "History and Politics of the Republic of the Congo Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Brazzaville",
+      "capital": true,
+      "lat": -4.25724,
+      "lon": 15.282744
+    },
+    {
+      "name": "Pointe-Noire",
+      "capital": false,
+      "lat": -4.770007,
+      "lon": 11.880039
+    },
+    {
+      "name": "Kayes",
+      "capital": false,
+      "lat": -4.180018,
+      "lon": 13.280006
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/republic-of-the-congo.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACongo%2C_Republic_of_the-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

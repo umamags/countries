@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Cidade Velha is a city in the southern part of the island of Santiago, Cape Verde. Founded in 1462 by Portuguese traders, it is the oldest settlement in Cape Verde and its former capital. Once called Ribeira Grande by the Portuguese colonists, they changed its name to Cidade Velha in the late 18th century after relocating the capital to Praia. It is the seat of the Ribeira Grande de Santiago municipality.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cidade_Velha_Pelourinho_square_b_2011.jpg",
-        "url": "https://en.wikipedia.org/wiki/Cidade_Velha"
+        "url": "https://en.wikipedia.org/wiki/Cidade_Velha",
+        "coordinates": {
+          "lat": 14.916,
+          "lon": -23.606
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Fogo is an island in the Sotavento group of Cape Verde in the central Atlantic Ocean. Its population is 35,837 (2015), with an area of 476 km2 (184 sq mi). It reaches the highest altitude of all the islands in Cape Verde, rising to 2,829 metres above sea level at the summit of its active volcano, Pico do Fogo.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fogo%2C_Cape_Verde_Islands.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fogo%2C_Cape_Verde"
+        "url": "https://en.wikipedia.org/wiki/Fogo%2C_Cape_Verde",
+        "coordinates": {
+          "lat": 14.95,
+          "lon": -24.3425
+        }
       }
     },
     {
@@ -33,7 +41,8 @@
       "wiki": {
         "extract": "Sal is an island in Cape Verde. Sal is a tourist destination with white sand beaches and over 350 days of sunshine a year. It is one of the three sandy eastern islands of the Cape Verde archipelago in the central Atlantic Ocean, 350 miles (560 km) off the west coast of Africa. Cabo Verde is known for year-round kiteboarding, for the large reserve of Caretta turtles which hatch from July to September, and the music of Cesária Évora. Cabo Verde is now the world's largest nesting aggregation for this turtle species, and Sal has the second-largest rookery.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bela-vista-net-Sal-map.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sal%2C_Cape_Verde"
+        "url": "https://en.wikipedia.org/wiki/Sal%2C_Cape_Verde",
+        "coordinates": null
       }
     },
     {
@@ -42,7 +51,11 @@
       "wiki": {
         "extract": "Praia is the capital and largest city of Cape Verde. Located on the southern coast of Santiago island within the Sotavento Islands group, the city is the seat of the Praia Municipality. Praia is the political, economic and cultural center of Cape Verde.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pal%C3%A1cio_da_Cultura%2C_Praia%2C_Cape_Verde.jpg",
-        "url": "https://en.wikipedia.org/wiki/Praia"
+        "url": "https://en.wikipedia.org/wiki/Praia",
+        "coordinates": {
+          "lat": 14.918,
+          "lon": -23.509
+        }
       }
     },
     {
@@ -51,7 +64,8 @@
       "wiki": {
         "extract": "Sal is an island in Cape Verde. Sal is a tourist destination with white sand beaches and over 350 days of sunshine a year. It is one of the three sandy eastern islands of the Cape Verde archipelago in the central Atlantic Ocean, 350 miles (560 km) off the west coast of Africa. Cabo Verde is known for year-round kiteboarding, for the large reserve of Caretta turtles which hatch from July to September, and the music of Cesária Évora. Cabo Verde is now the world's largest nesting aggregation for this turtle species, and Sal has the second-largest rookery.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bela-vista-net-Sal-map.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sal%2C_Cape_Verde"
+        "url": "https://en.wikipedia.org/wiki/Sal%2C_Cape_Verde",
+        "coordinates": null
       }
     }
   ],
@@ -107,5 +121,19 @@
     "The Music and Soul of Cape Verde",
     "Exploring Fogo Volcano in Cape Verde",
     "Cape Verde History and Culture Overview"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Praia",
+      "capital": true,
+      "lat": 14.916698,
+      "lon": -23.516689
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/cape-verde.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Cape_Verde.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

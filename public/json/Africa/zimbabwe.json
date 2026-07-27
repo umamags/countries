@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Victoria Falls, popularly known as Vic Falls, is a resort town and city in the province of Matabeleland North, Zimbabwe. It lies on the southern bank of the Zambezi River at the western end of Victoria Falls themselves. According to the 2022 Population Census, the town had a population of 35,199.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/ZW-Victoria-falls-stadt-1.jpg",
-        "url": "https://en.wikipedia.org/wiki/Victoria_Falls%2C_Zimbabwe"
+        "url": "https://en.wikipedia.org/wiki/Victoria_Falls%2C_Zimbabwe",
+        "coordinates": {
+          "lat": -17.93333333,
+          "lon": 25.83333333
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Great Zimbabwe was a city in the south-eastern hills of the modern country of Zimbabwe, near Masvingo. It was settled from around 1000 CE, and served as the capital of the Kingdom of Great Zimbabwe from the 13th century. It is the largest stone structure in precolonial Southern Africa. Major construction on the city began in the 11th century until the 15th century, and it was abandoned in the 16th or 17th century. The edifices were erected by ancestors of the Shona people, currently located in Zimbabwe and nearby countries. The stone city spans an area of 7.22 square kilometres (2.79 mi2). Population estimates vary. Earlier estimates suggest a peak population of around 20,000 people. A recent study using archaeological, ethnographic, and historical evidence, along with statistical modeling suggests that the site's population did not exceed 10,000 people. The Zimbabwe state centred on it likely covered 50,000 km². It is recognised as a World Heritage Site by UNESCO.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/3840px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+        "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+        "coordinates": {
+          "lat": -20.26666667,
+          "lon": 30.93333333
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Hwange National Park is the largest natural reserve in Zimbabwe. It measures around 14,600 km2 (5,600 sq mi) in area. It lies in the northwest of the country, just off the main road between Bulawayo and Victoria Falls. The nearest town is Dete.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Down_the_water_hole.jpg",
-        "url": "https://en.wikipedia.org/wiki/Hwange_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Hwange_National_Park",
+        "coordinates": {
+          "lat": -18.735,
+          "lon": 26.955
+        }
       }
     }
   ],
@@ -78,5 +90,31 @@
     "Zimbabwe Wildlife Safari - Hwange National Park",
     "Zimbabwean Culture and Traditions",
     "Zimbabwe's Economic Challenges and Future"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Harare",
+      "capital": true,
+      "lat": -17.815844,
+      "lon": 31.042764
+    },
+    {
+      "name": "Bulawayo",
+      "capital": false,
+      "lat": -20.169998,
+      "lon": 28.580002
+    },
+    {
+      "name": "Chitungwiza",
+      "capital": false,
+      "lat": -18.000001,
+      "lon": 31.100003
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/zimbabwe.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AZimbabwe-2017_CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

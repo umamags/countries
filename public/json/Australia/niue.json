@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Alofi is the capital of the island nation of Niue. With a population of 610 in 2022, Alofi is the second-smallest national capital by population. It consists of two villages: Alofi North and Alofi South. They collectively serve as the capital, but of the two, Alofi South hosts more government buildings, as many were moved to the southern part after Cyclone Heta.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alofi_Visitor_Information_Centre.jpg/3840px-Alofi_Visitor_Information_Centre.jpg",
-        "url": "https://en.wikipedia.org/wiki/Alofi"
+        "url": "https://en.wikipedia.org/wiki/Alofi",
+        "coordinates": {
+          "lat": -19.05416667,
+          "lon": -169.91944444
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Niue is a small, oval island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64 km. It claims an exclusive economic zone of 200 nautical miles, and a territorial sea of 12 nautical miles. It is one of world's largest coral islands.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Avatele_Niue.jpg",
-        "url": "https://en.wikipedia.org/wiki/Geography_of_Niue"
+        "url": "https://en.wikipedia.org/wiki/Geography_of_Niue",
+        "coordinates": {
+          "lat": -19.03333333,
+          "lon": -169.86666667
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Niue is a self-governing island country in free association with New Zealand. It is situated in the South Pacific Ocean, is part of Polynesia, and is predominantly inhabited by Polynesians. As one of the world's largest coral islands, Niue is nicknamed \"The Rock\", which comes from the traditional name \"Rock of Polynesia\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Niue"
+        "url": "https://en.wikipedia.org/wiki/Niue",
+        "coordinates": {
+          "lat": -19.05,
+          "lon": -169.85
+        }
       }
     },
     {
@@ -42,7 +54,8 @@
       "wiki": {
         "extract": "Museums in Niue include:Hikulagi Sculpture Park\nTāoga Niue Museum, in the capital, Alofi, which replaced the Huanaki Cultural Centre & Museum, which was destroyed by Cyclone Heta in 2004.\nTahiono Gallery",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Niue"
+        "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Niue",
+        "coordinates": null
       }
     }
   ],
@@ -80,5 +93,11 @@
     "Niue Island - A Remote Paradise in the South Pacific",
     "Culture and Traditions of Niue",
     "Niue's Natural Wonders and Adventure Activities"
-  ]
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/niue.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Niue.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

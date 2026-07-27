@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Hạ Long Bay or Halong Bay is a bay located in Northeastern Vietnam, administered by Quảng Ninh province. The name Hạ Long means \"descending dragon\". It features thousands of limestone karsts and islets in various shapes and sizes, for which it is listed as a UNESCO World Heritage Site and a popular travel destination. The bay is also part of a larger area that includes Bai Tu Long Bay to the northeast and Cát Bà Island to the southwest. These zones share similar geological, geographical, geomorphological, climatic, and cultural characteristics.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg",
-        "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay"
+        "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay",
+        "coordinates": {
+          "lat": 20.9,
+          "lon": 107.2
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Imperial City or Imperial Palace also known as Đại Nội (大內), is a royal enclosure within the walled city of Huế, the former imperial capital of Vietnam during the Nguyễn dynasty. It contains the palaces that housed the imperial family, as well as shrines, gardens, and offices for mandarins. Constructed in 1804 under Emperor Gia Long as a new capital and later re-modelled and enlarged to its current scale in 1833, it mostly served as a ceremonial function and imperial residence during the French colonial period. After the end of the monarchy in 1945, it suffered heavy damage and neglect during the Indochina Wars through the 1980s. The Imperial City was designated as a UNESCO World Heritage Site in 1993 as part of the Complex of Huế Monuments and is undergoing restoration.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%C4%90%E1%BA%A1i_n%E1%BB%99i.jpg",
-        "url": "https://en.wikipedia.org/wiki/Imperial_City_of_Hu%E1%BA%BF"
+        "url": "https://en.wikipedia.org/wiki/Imperial_City_of_Hu%E1%BA%BF",
+        "coordinates": {
+          "lat": 16.46972222,
+          "lon": 107.57777778
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Mỹ Sơn is a cluster of abandoned and partially ruined Shaiva Hindu temples in central Vietnam, constructed between the 4th and the 13th century by the Kings of Champa, an Indianized kingdom of the Cham people. The temples are dedicated to the veneration of God in accordance with Shaivism, wherein God is named Shiva, or The Auspicious One. In this particular complex, he is venerated under various local names, the most important of which is Bhadreshvara.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg/3840px-2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg",
-        "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9_S%C6%A1n"
+        "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9_S%C6%A1n",
+        "coordinates": {
+          "lat": 15.76666667,
+          "lon": 108.11666667
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The tunnels of Củ Chi are an immense network of connecting tunnels located in the Củ Chi District of Ho Chi Minh City (Saigon), Vietnam, and are part of a much larger network of tunnels that underlie much of the country. The Củ Chi tunnels were the location of several military campaigns during the Vietnam War, and were the Viet Cong's base of operations for the Tết Offensive in 1968.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/C%E1%BB%A7_Chi_tunnels_entrance.JPG/3840px-C%E1%BB%A7_Chi_tunnels_entrance.JPG",
-        "url": "https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels"
+        "url": "https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels",
+        "coordinates": {
+          "lat": 11.06083333,
+          "lon": 106.52861111
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The President Ho Chi Minh Mausoleum is a mausoleum which serves as the resting place of Vietnamese revolutionary leader and President Ho Chi Minh in Hanoi, Vietnam. It is a large building located in the center of Ba Đình Square, where Ho, Chairman of the Workers' Party of Vietnam from 1951 until his death in 1969, read the Declaration of Independence on September 2, 1945, establishing the Democratic Republic of Vietnam. It is open to the public every morning except Monday and Friday.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C4%83ng_B%C3%A1c_-_NKS.jpg/3840px-L%C4%83ng_B%C3%A1c_-_NKS.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum"
+        "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum",
+        "coordinates": {
+          "lat": 21.03666667,
+          "lon": 105.83472222
+        }
       }
     }
   ],
@@ -92,5 +112,37 @@
     "Vietnamese Cuisine Explained - Traditional Dishes You Must Try",
     "Exploring Ha Long Bay - Natural Wonder of Vietnam",
     "Vietnam War Documentary - Causes and Consequences"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Hanoi",
+      "capital": true,
+      "lat": 21.035273,
+      "lon": 105.848068
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "capital": false,
+      "lat": 10.781971,
+      "lon": 106.693081
+    },
+    {
+      "name": "Haiphong",
+      "capital": false,
+      "lat": 20.831952,
+      "lon": 106.678147
+    },
+    {
+      "name": "Da Nang",
+      "capital": false,
+      "lat": 16.060039,
+      "lon": 108.249971
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/vietnam.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Vietnam.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

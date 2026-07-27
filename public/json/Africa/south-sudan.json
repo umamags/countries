@@ -19,7 +19,11 @@
       "wiki": {
         "extract": "Boma National Park is a protected area in eastern South Sudan near the Ethiopian border. It was established in 1977 and covers 22,800 km2 (8,800 sq mi) of grasslands and floodplains.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Boma_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Boma_National_Park",
+        "coordinates": {
+          "lat": 6.49,
+          "lon": 33.91
+        }
       }
     },
     {
@@ -28,7 +32,11 @@
       "wiki": {
         "extract": "The Nimule National Park is a national park in South Sudan. It was established in 1954, and extends over an area of 410 km2, along the border with Uganda.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Nimule_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Nimule_National_Park",
+        "coordinates": {
+          "lat": 3.7,
+          "lon": 31.95
+        }
       }
     },
     {
@@ -37,7 +45,11 @@
       "wiki": {
         "extract": "Juba is the capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central Equatoria State. It is the most recently declared national capital and had a population of 525,953 in 2017. It has an area of 52 km2 (20 sq mi), with the metropolitan area covering 336 km2 (130 sq mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG",
-        "url": "https://en.wikipedia.org/wiki/Juba"
+        "url": "https://en.wikipedia.org/wiki/Juba",
+        "coordinates": {
+          "lat": 4.8539,
+          "lon": 31.5825
+        }
       }
     }
   ],
@@ -81,5 +93,31 @@
     "South Sudan Civil War: Causes and Consequences",
     "Wildlife and Nature in South Sudan's National Parks",
     "South Sudan Independence Day Celebrations"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Malakal",
+      "capital": false,
+      "lat": 9.536897,
+      "lon": 31.65599
+    },
+    {
+      "name": "Wau",
+      "capital": false,
+      "lat": 7.699981,
+      "lon": 27.989961
+    },
+    {
+      "name": "Juba",
+      "capital": false,
+      "lat": 4.829975,
+      "lon": 31.580026
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/south-sudan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Sudan-_2012_CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

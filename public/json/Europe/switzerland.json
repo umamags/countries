@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "The Matterhorn is a mountain of the Alps, straddling the main watershed and border between Switzerland and Italy. It is a large, near-symmetric pyramidal peak in the extended Monte Rosa area of the Pennine Alps, whose summit is 4,478 metres (14,692 ft) above sea level, making it one of the highest summits in the Alps and Europe. Sometimes referred to as the \"Mountain of Mountains\", the Matterhorn has become an indelible emblem of Switzerland and of the Alps as a whole. It has also been described as the most beautiful mountain in the world and has been claimed to be the most photographed mountain in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Matterhorn"
+        "url": "https://en.wikipedia.org/wiki/Matterhorn",
+        "coordinates": {
+          "lat": 45.97638889,
+          "lon": 7.65861111
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Chillon Castle is a medieval island castle located on Lake Geneva, south of Veytaux in the Swiss canton of Vaud. It is situated at the eastern end of the lake, on the narrow shore between Montreux and Villeneuve, which gives access to the Alpine valley of the Rhône. Chillon is amongst the most visited medieval castles in Europe. Successively occupied by the House of Savoy, then by the Bernese from 1536 until 1798, it now belongs to the canton of Vaud and is classified as a Swiss Cultural Property of National Significance.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/3840px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
-        "url": "https://en.wikipedia.org/wiki/Chillon_Castle"
+        "url": "https://en.wikipedia.org/wiki/Chillon_Castle",
+        "coordinates": {
+          "lat": 46.41416667,
+          "lon": 6.9275
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "The Jet d'Eau is a large fountain in Geneva, Switzerland, and is one of the city's most famous landmarks, being featured on the city's official tourism web site. Situated where Lake Geneva exits as the Rhône, it is visible throughout the city and from the air, even when flying over Geneva at an altitude of ten kilometres (33,000 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jet_d%27eau_de_Gen%C3%A8ve_%28swiss%29.jpg/3840px-Jet_d%27eau_de_Gen%C3%A8ve_%28swiss%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jet_d'Eau"
+        "url": "https://en.wikipedia.org/wiki/Jet_d'Eau",
+        "coordinates": {
+          "lat": 46.20722222,
+          "lon": 6.15611111
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "Bern, or Berne, is the de facto capital of Switzerland, referred to as the \"federal city\". With a population of about 146,000, Bern is the fifth-most populous city in Switzerland, behind Zurich, Geneva, Basel and Lausanne. The Bern agglomeration, which includes 36 municipalities, had a population of 406,900 in 2014. The metropolitan area had a population of 660,000 in 2000.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bundeshaus_Bern_2009%2C_Flooffy.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bern"
+        "url": "https://en.wikipedia.org/wiki/Bern",
+        "coordinates": {
+          "lat": 46.94805556,
+          "lon": 7.4475
+        }
       }
     },
     {
@@ -53,7 +69,11 @@
       "wiki": {
         "extract": "The Swiss National Museum is a museum in Zurich, Switzerland's largest city, adjacent to Zürich Hauptbahnhof and the Platzspitz park. It is part of the Musée Suisse Group, which is itself affiliated with the Federal Office of Culture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg/3840px-2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg",
-        "url": "https://en.wikipedia.org/wiki/Swiss_National_Museum"
+        "url": "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+        "coordinates": {
+          "lat": 47.37916667,
+          "lon": 8.53972222
+        }
       }
     }
   ],
@@ -103,5 +123,31 @@
     "Swiss Culture and Traditions Explained",
     "Exploring the Swiss Alps - Nature and Adventure",
     "Swiss Food and Cuisine - What to Eat in Switzerland"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bern",
+      "capital": true,
+      "lat": 46.916683,
+      "lon": 7.466976
+    },
+    {
+      "name": "Geneva",
+      "capital": false,
+      "lat": 46.210008,
+      "lon": 6.140028
+    },
+    {
+      "name": "Zürich",
+      "capital": false,
+      "lat": 47.381934,
+      "lon": 8.548064
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/switzerland.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASwitzerland_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

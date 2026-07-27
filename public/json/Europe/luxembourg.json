@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Vianden Castle, located in Vianden in the north of Luxembourg, is one of the largest fortified castles west of the Rhine. With origins dating from the fourth century as a Roman outpost and the 10th century, the more familiar castle form was built in the Romanesque style from the 11th to 14th centuries. Gothic transformations and trimmings were added at the end of this period. A Renaissance mansion was added in the 17th century but thereafter the castle was allowed to fall into ruins. It has, however, recently been fully restored and is open to visitors. Vianden Castle is widely regarded as the best castle to visit in Luxembourg.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Vianden%2C_Luxemburg.jpg/3840px-Burg_Vianden%2C_Luxemburg.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vianden_Castle"
+        "url": "https://en.wikipedia.org/wiki/Vianden_Castle",
+        "coordinates": {
+          "lat": 49.935,
+          "lon": 6.20222222
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "The Bock is a promontory in the eastern corner of Luxembourg City's historical upper town, the Ville Haute. It was here that Count Siegfried built his Castle of Lucilinburhuc in 963, providing a basis for the development of the town that became Luxembourg. Over the centuries, the Bock and the surrounding defenses were reinforced, attacked, and rebuilt time and time again. as the armies of the Burgundians, Habsburgs, Spaniards, Prussians, and French vied for victory over one of Europe's most strategic strongholds, the Fortress of Luxembourg. Warring did not stop until the Treaty of London was signed in 1867, calling for the demolition of the fortifications. Ruins of the old castle and the vast underground system of passages and galleries known as the casemates continue to be a major tourist attraction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Selig_Luxembourg_from_Paffendall.jpg",
-        "url": "https://en.wikipedia.org/wiki/Bock_(Luxembourg)"
+        "url": "https://en.wikipedia.org/wiki/Bock_(Luxembourg)",
+        "coordinates": {
+          "lat": 49.61166667,
+          "lon": 6.13694444
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "The Grand Ducal Palace is a palace in Luxembourg City, in southern Luxembourg. It is the official residence of the grand duke of Luxembourg, and where he performs most of his duties as head of state of the grand duchy, though his principal residence is Berg Castle, in Colmar-Berg.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg/3840px-Luxemburg_BW_2016-09-15_11-46-49_stitch.jpg",
-        "url": "https://en.wikipedia.org/wiki/Grand_Ducal_Palace%2C_Luxembourg"
+        "url": "https://en.wikipedia.org/wiki/Grand_Ducal_Palace%2C_Luxembourg",
+        "coordinates": {
+          "lat": 49.61088889,
+          "lon": 6.13283333
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "Notre Dame Cathedral is the Catholic cathedral of the Archdiocese of Luxembourg, located in Luxembourg City in southern Luxembourg. It was originally a Jesuit church, and its cornerstone was laid in 1613. It is the only cathedral in Luxembourg. The church is an example of late Gothic architecture; however, it also has many Renaissance elements and adornments.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Luxembourg_City_Eurotrip_%28133169443%29.jpeg",
-        "url": "https://en.wikipedia.org/wiki/Notre-Dame_Cathedral%2C_Luxembourg"
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_Cathedral%2C_Luxembourg",
+        "coordinates": {
+          "lat": 49.60966667,
+          "lon": 6.13155556
+        }
       }
     },
     {
@@ -52,7 +68,8 @@
       "wiki": {
         "extract": "Kirchberg is a district in north-eastern Luxembourg City, in southern Luxembourg. It consists of a plateau overlooking the north-east of the historical city center, Ville Haute, connected to the rest of the elevated city by the Grand Duchess Charlotte Bridge, which spans the Pfaffenthal valley. It is often referred to, in reference to the geographical feature it inhabits, as the Kirchberg plateau by Luxembourgish residents. Kirchberg is the predominant location of the European Union institutions and bodies based within Luxembourg, and is sometimes used as a metonym for the EU's judiciary, which occupies the district. It is thus the central business district of Luxembourg.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/EP_-_Kirchberg_from_the_skies_2025_%283%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kirchberg%2C_Luxembourg"
+        "url": "https://en.wikipedia.org/wiki/Kirchberg%2C_Luxembourg",
+        "coordinates": null
       }
     }
   ],
@@ -102,5 +119,19 @@
     "Luxembourg City Travel Guide",
     "History of Luxembourg Explained",
     "Luxembourg Cuisine and Culture"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Luxembourg",
+      "capital": true,
+      "lat": 49.61166,
+      "lon": 6.130003
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/luxembourg.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Luxembourg.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

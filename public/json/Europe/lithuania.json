@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Old Town of Vilnius, one of the largest surviving medieval old towns in Northern Europe, as inscribed within UNESCO World Heritage Sites, has an area of 3.59 square kilometres. It encompasses 74 quarters, with 70 streets and lanes numbering 1487 buildings with a total floor area of 1,497,000 square meters. The administrative division of the Old Town is a larger territory and comprises more than 4.5 square kilometres. It was founded by the Lithuanian Grand Duke and King of Poland Jogaila in 1387 on the Magdeburg rights the oldest part of the Lithuanian capital of Vilnius, it had been developed over the course of many centuries, and has been shaped by the city's history and a constantly changing cultural influence. It is a place where some of Europe's greatest architectural styles—gothic, renaissance, baroque and neoclassical—stand side by side and complement each other. There are many Catholic, Lutheran and Orthodox churches, residential houses, cultural and architectural monuments, museums in the Old Town.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vilnius_old_town_by_Augustas_Didzgalvis.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vilnius_Old_Town"
+        "url": "https://en.wikipedia.org/wiki/Vilnius_Old_Town",
+        "coordinates": {
+          "lat": 54.68666667,
+          "lon": 25.29305556
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Trakai Island Castle is an island castle located in Trakai, Lithuania, on an island in Lake Galvė. The construction of the stone castle was begun in the 14th century by Kęstutis, and around 1409 major works were completed by his son Vytautas the Great, who died in this castle in 1430. Trakai was one of the main centers of the Grand Duchy of Lithuania and the castle held great strategic importance. The castle was rebuilt in the 1950s–1960s by Lithuanian initiative, although it had received resistance from Soviet authorities. The Trakai History Museum was established after the reconstruction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Trakai_castle_2016.jpg/3840px-Trakai_castle_2016.jpg",
-        "url": "https://en.wikipedia.org/wiki/Trakai_Island_Castle"
+        "url": "https://en.wikipedia.org/wiki/Trakai_Island_Castle",
+        "coordinates": {
+          "lat": 54.6525,
+          "lon": 24.93305556
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Hill of Crosses is a site of pilgrimage about 12 km (7.5 mi) north of the city of Šiauliai, in northern Lithuania. The precise origin of the practice of leaving crosses on the hill is uncertain, but it is believed that the first crosses were placed on the former Jurgaičiai or Domantai hill fort after the 1831 Uprising. Over the generations, not only crosses and crucifixes, but statues of the Virgin Mary, carvings of Lithuanian patriots and thousands of tiny effigies and rosaries have been brought here by Catholic pilgrims. The exact number of crosses is unknown, but estimates put it at about 55,000 in 1990 and 100,000 in 2006. It is a major site of Catholic pilgrimage in Lithuania.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG/3840px-Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/Hill_of_Crosses"
+        "url": "https://en.wikipedia.org/wiki/Hill_of_Crosses",
+        "coordinates": {
+          "lat": 56.01527778,
+          "lon": 23.41666667
+        }
       }
     }
   ],
@@ -70,5 +82,19 @@
     "Lithuanian Traditions and Festivals Explained",
     "Lithuanian Cuisine: Traditional Dishes You Must Try",
     "The Hill of Crosses: Lithuania's Symbol of Faith and Resistance"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Vilnius",
+      "capital": true,
+      "lat": 54.683366,
+      "lon": 25.316635
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/lithuania.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALithuania_Physiography.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Koutammakou, the Land of the Batammariba is a cultural landscape designated in 2004 and expanded in 2023 as a UNESCO World Heritage Site at the border between northern Togo and Benin. The area features traditional mud tower-houses which remain the preferred style of living. The traditional mud houses are known as a national symbol of Togo. Many of the mud houses have two floors and some of them have flat roofs.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Togo_Taberma_house_02.jpg",
-        "url": "https://en.wikipedia.org/wiki/Koutammakou"
+        "url": "https://en.wikipedia.org/wiki/Koutammakou",
+        "coordinates": {
+          "lat": 10.06666667,
+          "lon": 1.13333333
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "Fazao Malfakassa National Park or Parc national de Fazao Malfakassa is the largest of three national parks in Togo, the others being Kéran and Fosse aux Lions. It is situated between the Kara Region and Centrale Region in semi-mountainous wetland, and forms part of the border with Ghana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_la_montagne_%C3%A0_Fazao.jpg/3840px-Vue_de_la_montagne_%C3%A0_Fazao.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fazao_Malfakassa_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Fazao_Malfakassa_National_Park",
+        "coordinates": {
+          "lat": 9,
+          "lon": 1
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "The Lomé Grand Market is a public market in Lomé, the capital of Togo. It is located near the famous Sacred Heart Cathedral of Lomé, at the heart of the city. It occupies an entire city block and consists of three sections: Atipoji, Asigame and Assivito. Most vendors are women and children, and local performers can often be found playing live music at the market. A wide selection of spices are sold at the market, including cinnamon sticks, clove, nutmeg, and star anise.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lom%C3%A9_Grand_March%C3%A9_with_the_Cath%C3%A9drale_du_Sacr%C3%A9_Coeur_%2833592985581%29.jpg/3840px-Lom%C3%A9_Grand_March%C3%A9_with_the_Cath%C3%A9drale_du_Sacr%C3%A9_Coeur_%2833592985581%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Lom%C3%A9_Grand_Market"
+        "url": "https://en.wikipedia.org/wiki/Lom%C3%A9_Grand_Market",
+        "coordinates": {
+          "lat": 6.1256261,
+          "lon": 1.2254183
+        }
       }
     }
   ],
@@ -80,5 +92,25 @@
     "Culture and Traditions of Togo",
     "Togo's History and Independence",
     "Togolese Cuisine: Traditional Foods of Togo"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Lomé",
+      "capital": true,
+      "lat": 6.133883,
+      "lon": 1.220811
+    },
+    {
+      "name": "Atakpamé",
+      "capital": false,
+      "lat": 7.530043,
+      "lon": 1.120024
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/togo.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATogo-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

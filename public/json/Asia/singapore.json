@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore and a landmark of the city. At its opening in 2010, it was deemed the world's most expensive standalone casino property at S$8 billion (US$6.88 billion). The resort includes a 1,850-room hotel, a 120,000-square-metre (1,300,000 sq ft) meetings and conventions facility at Sands Expo & Convention Centre, a 74,000-square-metre luxury shopping mall, The Shoppes at Marina Bay Sands, an ArtScience museum, a 2,183-capacity theatre, the world's first floating Apple store, the world's first Louis Vuitton Island Maison, celebrity chef and signature restaurants, and a casino with 500 tables and 3,000 electronic gaming machines. The complex includes three towers topped by the Sands Skypark, a 340-metre-long (1,120 ft) skyway connecting the towers with a capacity of 3,902 people and a 150 m (490 ft) infinity swimming pool, set on top of the world's largest public cantilevered platform, which overhangs the north tower by 66.5 m (218 ft). The 20-hectare resort was designed by Moshe Safdie. The main contractor was Ssangyong Engineering and Construction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/3840px-Marina_Bay_Sands_%28I%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+        "url": "https://en.wikipedia.org/wiki/Marina_Bay_Sands",
+        "coordinates": {
+          "lat": 1.2825,
+          "lon": 103.86
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "The Gardens by the Bay (GBTB) is an urban park spanning 105 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden in Marina South, Bay East Garden with the Founders' Memorial in Marina East and Bay Central Garden in the Downtown Core and Kallang. The largest of the gardens is the Bay South Garden at 54 hectares designed by Grant Associates. Its Flower Dome is the largest glass greenhouse in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/3840px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay"
+        "url": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+        "coordinates": {
+          "lat": 1.28472222,
+          "lon": 103.865
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Sentosa Island, known mononymously as Sentosa, is an island located off the southern coast of Singapore's main island. The island is separated from the main island of Singapore by a channel of water, the Keppel Harbour, and is adjacent to Pulau Brani, a smaller island wedged between Sentosa and the main island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1_sentosa_aerial_2016.jpg/3840px-1_sentosa_aerial_2016.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sentosa"
+        "url": "https://en.wikipedia.org/wiki/Sentosa",
+        "coordinates": {
+          "lat": 1.248,
+          "lon": 103.83
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Singapore_Skyline_2019-10.jpg/3840px-Singapore_Skyline_2019-10.jpg",
-        "url": "https://en.wikipedia.org/wiki/Merlion"
+        "url": "https://en.wikipedia.org/wiki/Merlion",
+        "coordinates": {
+          "lat": 1.28680556,
+          "lon": 103.8545
+        }
       }
     },
     {
@@ -53,7 +69,11 @@
       "wiki": {
         "extract": "The Singapore Botanic Gardens is a tropical garden located at the fringe of the Orchard Road shopping district in Singapore. It is one of three gardens, and the only tropical garden, to be honoured as a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Symphony_Lake%2C_Singapore_Botanic_Gardens_-_20041025.jpg",
-        "url": "https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens"
+        "url": "https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens",
+        "coordinates": {
+          "lat": 1.3151,
+          "lon": 103.8162
+        }
       }
     }
   ],
@@ -111,5 +131,19 @@
     "Singapore Travel Guide 2024",
     "The History of Singapore Explained",
     "Singapore Food Tour: Best Local Dishes"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Singapore",
+      "capital": true,
+      "lat": 1.294979,
+      "lon": 103.853875
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/singapore.gif",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACIA_World_Factbook_map_of_Singapore_%28English%2C_2004%29.gif",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

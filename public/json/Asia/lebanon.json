@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608. Most of the population consists of Shia Muslims, followed by Sunni Muslims and Christians; in 2017, there was also a large presence of Syrian refugees.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/3840px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Baalbek"
+        "url": "https://en.wikipedia.org/wiki/Baalbek",
+        "coordinates": {
+          "lat": 34.00633611,
+          "lon": 36.20732222
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "The Jeita Grotto is a system of two separate, but interconnected, karstic limestone caves spanning an overall length of nearly 9 kilometres (5.6 mi). The caves are situated in the Nahr al-Kalb river valley within the locality of Jeita, 18 kilometres (11 mi) north of the Lebanese capital Beirut. Though inhabited in prehistoric times, the lower cave was not rediscovered until 1836 by Reverend William Thomson; it can only be visited by boat since it channels an underground river that provides fresh drinking water to more than a million Lebanese.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Upper_Jeita_Grotto.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jeita_Grotto"
+        "url": "https://en.wikipedia.org/wiki/Jeita_Grotto",
+        "coordinates": {
+          "lat": 33.94338889,
+          "lon": 35.64135833
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Byblos, also known as Jbail, Jebeil, Jbeil or Jubayl, is an ancient city in the Keserwan-Jbeil Governorate of Lebanon. The area is believed to have been first settled between 8800 and 7000 BC and continuously inhabited since 5000 BC. During its history, Byblos was part of numerous cultures including Canaanite, Egyptian, Phoenician, Assyrian, Persian, Hellenistic, Roman, Genoese, Mamluk and Ottoman. Urbanisation is thought to have begun during the third millennium BC when it developed into a city, making it one of the oldest cities in the world, if not the oldest. It is a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byblos_Libanon_2003.JPG",
-        "url": "https://en.wikipedia.org/wiki/Byblos"
+        "url": "https://en.wikipedia.org/wiki/Byblos",
+        "coordinates": {
+          "lat": 34.12361111,
+          "lon": 35.65194444
+        }
       }
     },
     {
@@ -43,7 +55,11 @@
       "wiki": {
         "extract": "The Cedars of God is a forest in the Kadisha Valley of Bsharre, Lebanon. It is a vestige of the extensive forests of the Lebanon cedar that thrived across Mount Lebanon in antiquity. Early modern travelers' accounts of the wild cedars appear to refer to the ones in Bsharri; the Christian monks of the monasteries in the Kadisha Valley venerated the trees for centuries. The earliest documented references of the Cedars of God are found in Tablets 4–6 of the Epic of Gilgamesh.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Forest_of_The_cedars_of_God.jpg",
-        "url": "https://en.wikipedia.org/wiki/Cedars_of_God"
+        "url": "https://en.wikipedia.org/wiki/Cedars_of_God",
+        "coordinates": {
+          "lat": 34.245,
+          "lon": 36.04805556
+        }
       }
     },
     {
@@ -52,7 +68,8 @@
       "wiki": {
         "extract": "The National Museum of Beirut is the principal museum of archaeology in Lebanon. The collection begun after World War I, and the museum was officially opened in 1942. The museum has collections totaling about 100,000 objects, most of which are antiquities and medieval finds from excavations undertaken by the Directorate General of Antiquities.",
         "image": "https://upload.wikimedia.org/wikipedia/en/5/51/National_Museum_Lebanon.png",
-        "url": "https://en.wikipedia.org/wiki/National_Museum_of_Beirut"
+        "url": "https://en.wikipedia.org/wiki/National_Museum_of_Beirut",
+        "coordinates": null
       }
     }
   ],
@@ -108,5 +125,19 @@
     "Lebanese Cuisine Explained: Traditional Dishes",
     "The Cedars of Lebanon: Nature and Heritage",
     "Lebanon's Political Landscape: An Overview"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Beirut",
+      "capital": true,
+      "lat": 33.873921,
+      "lon": 35.507762
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/lebanon.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALebanon-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

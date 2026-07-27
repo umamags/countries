@@ -16,7 +16,8 @@
       "wiki": {
         "extract": "The Old Bridge, also known as the Mostar Bridge, is a rebuilt 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina. It crosses the river Neretva and connects the two parts of the city, which is named after the bridge keepers who guarded the Old Bridge during the Ottoman era. Commissioned by Suleiman the Magnificent in 1557 and designed by Mimar Hayruddin, a student and apprentice of the architect Mimar Sinan, the Old Bridge is an exemplary piece of Balkan Islamic architecture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mostar_Old_Town_Panorama_2007.jpg",
-        "url": "https://en.wikipedia.org/wiki/Stari_Most"
+        "url": "https://en.wikipedia.org/wiki/Stari_Most",
+        "coordinates": null
       }
     },
     {
@@ -35,7 +36,11 @@
       "wiki": {
         "extract": "Vrelo Bosne is a public park and a protected Nature Monument established around the source of the Bosna river, featuring the system of numerous springs at the foothills of Mount Igman, in the municipality of Ilidža, on the outskirts of Sarajevo, capital of Bosnia and Herzegovina. Vrelo Bosne is one of the country's popular natural landmarks and provides a quiet escape from city life.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bridge_on_Vrelo_Bosne.jpg/3840px-Bridge_on_Vrelo_Bosne.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vrelo_Bosne"
+        "url": "https://en.wikipedia.org/wiki/Vrelo_Bosne",
+        "coordinates": {
+          "lat": 43.818867,
+          "lon": 18.269447
+        }
       }
     },
     {
@@ -44,7 +49,8 @@
       "wiki": {
         "extract": "The Army of the Republic of Bosnia and Herzegovina, often referred to as Bosnian Army, was the military force of the Republic of Bosnia and Herzegovina. It was established by the government of the Republic of Bosnia and Herzegovina in 1992 following the outbreak of the Bosnian War.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_of_the_Army_of_the_Republic_of_Bosnia_and_Herzegovina.svg/250px-Logo_of_the_Army_of_the_Republic_of_Bosnia_and_Herzegovina.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Bosnia_and_Herzegovina"
+        "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Bosnia_and_Herzegovina",
+        "coordinates": null
       }
     }
   ],
@@ -94,5 +100,25 @@
     "Bosnia and Herzegovina Travel Guide 2023",
     "The Story of the Stari Most Bridge in Mostar",
     "Bosnian Cuisine: Traditional Dishes You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Sarajevo",
+      "capital": true,
+      "lat": 43.850022,
+      "lon": 18.383002
+    },
+    {
+      "name": "Banja Luka",
+      "capital": false,
+      "lat": 44.780405,
+      "lon": 17.179974
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/bosnia-and-herzegovina.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABosnia_and_Herzegovina_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

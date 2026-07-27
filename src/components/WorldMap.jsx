@@ -4,6 +4,7 @@ import { useWorldAtlas } from '../data/useWorldAtlas'
 
 const WIDTH = 600
 const PADDING = 16
+const PIN_PADDING = 40
 
 /**
  * Renders countries from the shared world topology (see useWorldAtlas).
@@ -20,21 +21,60 @@ const PADDING = 16
  * `focusName` may be null/undefined for countries the 50m dataset has no
  * shape for (e.g. Tuvalu) - that's treated as "no map available", not
  * "show the whole world".
+ *
+ * In mode="country", optional `cities` ([{name, lat, lon, capital}]) and
+ * `landmarks` ([{name, lat, lon, slug}]) are projected with the same
+ * country-fitted projection and drawn as pins - `onLandmarkClick(slug)`
+ * makes landmark pins clickable, routing straight to that landmark's page.
  */
-export default function WorldMap({ mode, highlightNames, focusName, groupByName, onGroupClick, height = 320 }) {
+export default function WorldMap({
+  mode,
+  highlightNames,
+  focusName,
+  groupByName,
+  onGroupClick,
+  cities,
+  landmarks,
+  onLandmarkClick,
+  height = 320,
+}) {
   const { status, featureCollection } = useWorldAtlas()
   const [hoveredGroup, setHoveredGroup] = useState(null)
   const highlightSet = useMemo(() => new Set(highlightNames ?? []), [highlightNames])
   const isCountryMode = mode === 'country'
   const isExploreMode = mode === 'explore'
 
-  const { path, features, notFound } = useMemo(() => {
-    if (!featureCollection) return { path: null, features: [], notFound: false }
+  const { path, features, notFound, projection } = useMemo(() => {
+    if (!featureCollection) return { path: null, features: [], notFound: false, projection: null }
 
     if (isCountryMode) {
-      if (!focusName) return { path: null, features: [], notFound: true }
+      if (!focusName) return { path: null, features: [], notFound: true, projection: null }
       const focusFeature = featureCollection.features.find((f) => f.properties?.name === focusName)
-      if (!focusFeature) return { path: null, features: [], notFound: true }
+      if (!focusFeature) return { path: null, features: [], notFound: true, projection: null }
+
+      // Countries with far-flung territories (Alaska, French Guiana, ...)
+      // have a bounding box dominated by those, squeezing the mainland -
+      // and its cities/landmarks - into an unreadable corner. When pins are
+      // supplied, fit to their extent instead of the whole country's.
+      const pins = [...(cities ?? []), ...(landmarks ?? [])]
+      if (pins.length > 0) {
+        const pinCollection = {
+          type: 'FeatureCollection',
+          features: pins.map((p) => ({ type: 'Feature', geometry: { type: 'Point', coordinates: [p.lon, p.lat] } })),
+        }
+        // Extra right-side margin: city/landmark labels are drawn to the
+        // right of their point, so a point near the fitted edge needs more
+        // room than the point itself to keep its label from clipping.
+        const projection = geoMercator().fitExtent(
+          [
+            [PIN_PADDING, PIN_PADDING],
+            [WIDTH - PIN_PADDING - 60, height - PIN_PADDING],
+          ],
+          pinCollection
+        )
+        return { path: geoPath(projection), features: [focusFeature], notFound: false, projection }
+      }
+
       const projection = geoMercator().fitExtent(
         [
           [PADDING, PADDING],
@@ -42,12 +82,12 @@ export default function WorldMap({ mode, highlightNames, focusName, groupByName,
         ],
         focusFeature
       )
-      return { path: geoPath(projection), features: [focusFeature], notFound: false }
+      return { path: geoPath(projection), features: [focusFeature], notFound: false, projection }
     }
 
     const projection = geoNaturalEarth1().fitSize([WIDTH, height], featureCollection)
-    return { path: geoPath(projection), features: featureCollection.features, notFound: false }
-  }, [featureCollection, isCountryMode, focusName, height])
+    return { path: geoPath(projection), features: featureCollection.features, notFound: false, projection }
+  }, [featureCollection, isCountryMode, focusName, height, cities, landmarks])
 
   if (status === 'loading') return <p className="map-status">Loading map…</p>
   if (status === 'error') return <p className="map-status">Map not available.</p>
@@ -82,6 +122,34 @@ export default function WorldMap({ mode, highlightNames, focusName, groupByName,
           </path>
         )
       })}
+
+      {isCountryMode &&
+        cities?.map((city) => {
+          const [x, y] = projection([city.lon, city.lat])
+          return (
+            <g key={city.name} className={`map-city${city.capital ? ' is-capital' : ''}`}>
+              <circle cx={x} cy={y} r={city.capital ? 4.5 : 3} />
+              <text x={x + 6} y={y + 3}>
+                {city.name}
+              </text>
+            </g>
+          )
+        })}
+
+      {isCountryMode &&
+        landmarks?.map((landmark) => {
+          const [x, y] = projection([landmark.lon, landmark.lat])
+          return (
+            <path
+              key={landmark.slug}
+              className="map-landmark-pin"
+              d={`M${x},${y - 7} l4,7 l-4,7 l-4,-7 Z`}
+              onClick={onLandmarkClick ? () => onLandmarkClick(landmark.slug) : undefined}
+            >
+              <title>{landmark.name}</title>
+            </path>
+          )
+        })}
     </svg>
   )
 }

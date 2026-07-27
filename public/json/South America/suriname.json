@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Fort Zeelandia is a fortress in Paramaribo, Suriname. In 1640 the French built a wooden fort on the spot which, during British colonial period, was reinforced and became Fort Willoughby. It was taken by the Dutch in 1667 and renamed Fort Zeelandia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fort_Zeelandia_top_view_%28photo_5%29_located_at_Abraham_Crijnssenweg_1_paramaribo%2C_suriname.jpg/3840px-Fort_Zeelandia_top_view_%28photo_5%29_located_at_Abraham_Crijnssenweg_1_paramaribo%2C_suriname.jpg",
-        "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Paramaribo)"
+        "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Paramaribo)",
+        "coordinates": {
+          "lat": 5.82527778,
+          "lon": -55.15
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "The Central Suriname Nature Reserve is a conservation unit in Suriname.\nIt preserves an area of tropical rainforest. The reserve is in pristine condition.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg",
-        "url": "https://en.wikipedia.org/wiki/Central_Suriname_Nature_Reserve"
+        "url": "https://en.wikipedia.org/wiki/Central_Suriname_Nature_Reserve",
+        "coordinates": {
+          "lat": 4,
+          "lon": -56.5
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "The Cathedral-Basilica of Saint Peter and Paul, also called Saint Peter and Paul Cathedral, is a wooden Roman Catholic cathedral located in the centre of the capital city of Paramaribo, Suriname.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sint-Petrus-en-Pauluskathedraal.jpg",
-        "url": "https://en.wikipedia.org/wiki/Saint_Peter_and_Paul_Cathedral%2C_Paramaribo"
+        "url": "https://en.wikipedia.org/wiki/Saint_Peter_and_Paul_Cathedral%2C_Paramaribo",
+        "coordinates": {
+          "lat": 5.82866667,
+          "lon": -55.15405556
+        }
       }
     }
   ],
@@ -74,5 +86,25 @@
     "History of Suriname: From Colony to Independence",
     "Top 10 Things to Do in Suriname",
     "Suriname's Diverse Culture Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Paramaribo",
+      "capital": true,
+      "lat": 5.83503,
+      "lon": -55.167031
+    },
+    {
+      "name": "Cottica",
+      "capital": false,
+      "lat": 3.850009,
+      "lon": -54.233289
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/suriname.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASuriname-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic church under construction in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church \nin the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. Parts of the Sagrada Família were declared as a UNESCO World Heritage Site in 2005, under \"Works of Antoni Gaudí\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+        "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+        "coordinates": {
+          "lat": 41.40369,
+          "lon": 2.17433
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "The Alhambra is a palatine city and fortress complex located in Granada, Spain. It is one of the most famous monuments of Islamic architecture and the only well-preserved palace from the medieval Islamic world. Additionally, the palace contains notable examples of Spanish Renaissance architecture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/3840px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
-        "url": "https://en.wikipedia.org/wiki/Alhambra"
+        "url": "https://en.wikipedia.org/wiki/Alhambra",
+        "coordinates": {
+          "lat": 37.1775,
+          "lon": -3.59
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and the single best collection of Spanish art. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Velázquez, are some of the highlights of the collection. Velázquez and his keen eye and sensibility were also responsible for bringing much of the museum's fine collection of Italian masters to Spain, now one of the largest outside of Italy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Museo_del_Prado_2016_%2825185969599%29.jpg/3840px-Museo_del_Prado_2016_%2825185969599%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Museo_del_Prado"
+        "url": "https://en.wikipedia.org/wiki/Museo_del_Prado",
+        "coordinates": {
+          "lat": 40.4139,
+          "lon": -3.6922
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Turó del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Parc_guell_-_panoramio.jpg",
-        "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell"
+        "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell",
+        "coordinates": {
+          "lat": 41.41361111,
+          "lon": 2.15277778
+        }
       }
     },
     {
@@ -53,7 +69,11 @@
       "wiki": {
         "extract": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain. It was once the centre of Old Madrid. It was first built (1580–1619) during the reign of Philip III. Only a few blocks away is another famous plaza, the Puerta del Sol.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Madrid_Plaza_Mayor_%2848733706273%29.jpg/3840px-Madrid_Plaza_Mayor_%2848733706273%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Plaza_Mayor%2C_Madrid"
+        "url": "https://en.wikipedia.org/wiki/Plaza_Mayor%2C_Madrid",
+        "coordinates": {
+          "lat": 40.415364,
+          "lon": -3.707391
+        }
       }
     }
   ],
@@ -111,5 +131,43 @@
     "Spanish Culture and Traditions Explained",
     "Famous Spanish Foods You Must Try",
     "Exploring Barcelona: Architecture and Landmarks"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Madrid",
+      "capital": true,
+      "lat": 40.401972,
+      "lon": -3.685298
+    },
+    {
+      "name": "Barcelona",
+      "capital": false,
+      "lat": 41.385245,
+      "lon": 2.181425
+    },
+    {
+      "name": "Seville",
+      "capital": false,
+      "lat": 37.405015,
+      "lon": -5.980007
+    },
+    {
+      "name": "Bilbao",
+      "capital": false,
+      "lat": 43.249982,
+      "lon": -2.929987
+    },
+    {
+      "name": "Valencia",
+      "capital": false,
+      "lat": 39.486963,
+      "lon": -0.401958
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/spain.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Spain.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

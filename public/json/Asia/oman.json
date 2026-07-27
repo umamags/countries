@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Sultan Qaboos Grand Mosque is a Friday mosque located in Muscat, the capital city of the Sultanate of Oman. Completed in 2001 in a contemporary Islamic style, it is the largest mosque in the country and can accommodate 20,000 worshipers.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Sultan_Qaboos_Grand_Mosque_RB.jpg/3840px-Sultan_Qaboos_Grand_Mosque_RB.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque"
+        "url": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque",
+        "coordinates": {
+          "lat": 23.58388889,
+          "lon": 58.38916667
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Nizwa Fort is a 17th-century fortification in Nizwa, Oman. Built in the 1650s under Imam Sultan bin Saif, it is known for its large circular tower and is one of Oman's prominent historic and tourist landmarks.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nizwa_%285%29.jpg/3840px-Nizwa_%285%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Nizwa_Fort"
+        "url": "https://en.wikipedia.org/wiki/Nizwa_Fort",
+        "coordinates": {
+          "lat": 22.93333333,
+          "lon": 57.53027778
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Sharqiya Sands is a region of desert in Oman. The region was named for the Bani Wahiba tribe. Divided between the northern and southern governorates in the Eastern Region. The area is defined by a boundary of 180 kilometers (110 mi) north to south and 80 kilometers (50 mi) east to west, with an area of 12,500 square kilometers (4,800 sq mi). The desert has been of scientific interest since a 1986 expedition by the Royal Geographical Society documented the diversity of the terrain, the flora and fauna, noting 16,000 invertebrates as well as 200 species of other wildlife, including avifauna. They also documented 150 species of native flora.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Sharqiya_Sands"
+        "url": "https://en.wikipedia.org/wiki/Sharqiya_Sands",
+        "coordinates": {
+          "lat": 22,
+          "lon": 58.83333333
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The Jebel Akhdar Mountains is a mountain range approximately 80 km (50 mi) long and 32 km (20 mi) wide, that is part of the Hajar Mountains in Ad Dakhiliyah Governorate of Oman.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jebel_Akhdar_view.jpg/3840px-Jebel_Akhdar_view.jpg",
-        "url": "https://en.wikipedia.org/wiki/Jebel_Akhdar_(Oman)"
+        "url": "https://en.wikipedia.org/wiki/Jebel_Akhdar_(Oman)",
+        "coordinates": {
+          "lat": 23.1,
+          "lon": 57.4
+        }
       }
     },
     {
@@ -50,7 +66,8 @@
       "wiki": {
         "extract": "The Royal Opera House Muscat (ROHM) is Oman's premier venue for musical arts and culture. The opera house is located in Shati Al-Qurm district of Muscat on Sultan Qaboos Street. Built on the royal orders of Sultan Qaboos of Oman, the Royal Opera House reflects unique contemporary Omani architecture, and has a capacity to accommodate maximum of 1,100 people. The opera house complex consists of a concert theatre, auditorium, formal landscaped gardens, cultural market with retail, luxury restaurants and an art centre for musical, theatrical and operatic productions. Opened in 2011, the venue is one of Oman’s main institutions for the performing arts, presenting opera, orchestral music, ballet and other stage productions. Its main auditorium is designed as a flexible performance space that can be adapted for different types of productions.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Opera_house_Muscat.jpg",
-        "url": "https://en.wikipedia.org/wiki/Royal_Opera_House_Muscat"
+        "url": "https://en.wikipedia.org/wiki/Royal_Opera_House_Muscat",
+        "coordinates": null
       }
     }
   ],
@@ -102,5 +119,19 @@
     "Omani Culture and Traditions Explained",
     "The History of Oman in 10 Minutes",
     "Omani Cuisine: Traditional Dishes You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Muscat",
+      "capital": true,
+      "lat": 23.613325,
+      "lon": 58.593312
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/oman.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOman-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

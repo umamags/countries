@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Cape Coast Castle is one of about forty \"slave castles\", or large commercial forts, built on the Gold Coast of West Africa by European traders. Cape Coast Castle is located in the Central Region of Ghana. It was originally a Portuguese \"feitoria\" or trading post, established in 1555, which was named Cabo Corso, meaning \"Short Cape.\"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cape_Coast_Castle%2C_Cape_Coast%2C_Ghana.JPG",
-        "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle"
+        "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle",
+        "coordinates": {
+          "lat": 5.10361111,
+          "lon": -1.24111111
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Kakum National Park, located in the coastal environs of the Central Region of Ghana, covers an area of 375 square kilometres (145 sq mi). Established in 1931 as a reserve, it was gazetted as a national park only in 1992 after an initial survey of avifauna was conducted. The area is covered with tropical forest. The uniqueness of this park lies in the fact that it was established at the initiative of the local people and not by the State Department of wildlife who are responsible for wildlife preservation in Ghana. It is one of only 3 locations in Africa with a canopy walkway, which is 350 metres (1,150 ft) long and connects seven tree tops which provides access to the forest.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kakum.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kakum_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Kakum_National_Park",
+        "coordinates": {
+          "lat": 5.3536,
+          "lon": -1.3833
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "The Kwame Nkrumah Memorial Park and Mausoleum is located in downtown Accra, the capital of Ghana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kwame_Nkrumah_Memorial_Park.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park"
+        "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park",
+        "coordinates": {
+          "lat": 5.54444444,
+          "lon": -0.20277778
+        }
       }
     }
   ],
@@ -76,5 +88,19 @@
     "Ghanaian Food Tour: Traditional Dishes You Must Try",
     "The History of Ghana: From Ancient Kingdoms to Modern Nation",
     "Ghana's Festivals: Celebrating Culture and Heritage"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Accra",
+      "capital": true,
+      "lat": 5.551981,
+      "lon": -0.218662
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/ghana.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Ghana.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Providence Island was the site of the first successful settlement of American freedmen by the American Colonization Society in Liberia. It has been proposed as a UNESCO World Heritage Site by the government of Liberia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Providence_Island_view_of_downtown_Monrovia.jpg",
-        "url": "https://en.wikipedia.org/wiki/Providence_Island%2C_Liberia"
+        "url": "https://en.wikipedia.org/wiki/Providence_Island%2C_Liberia",
+        "coordinates": {
+          "lat": 6.32,
+          "lon": -10.802
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Sapo National Park is a national park in Sinoe County, Liberia. It is the country's largest protected area of rainforest,\nwas the first national park established in the country,\nand contains the second-largest area of primary tropical rainforest in West Africa after Taï National Park in neighbouring Côte d'Ivoire.\nAgriculture, construction, fishing, hunting, human settlement, and logging are prohibited in the park.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Sapo_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Sapo_National_Park",
+        "coordinates": {
+          "lat": 5.41111389,
+          "lon": -8.414625
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Liberia, officially the Republic of Liberia, is a country on the West African coast. It is bordered by Sierra Leone to its northwest, Guinea to its north, Ivory Coast to its east, and the Atlantic Ocean to its south and southwest. It has a population of around 5.5 million and covers an area of 43,000 square miles (111,369 km2). The official language is English, though over 20 indigenous languages are spoken, reflecting the country's ethnic and cultural diversity. The capital and largest city is Monrovia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Liberia"
+        "url": "https://en.wikipedia.org/wiki/Liberia",
+        "coordinates": {
+          "lat": 6.5,
+          "lon": -9.5
+        }
       }
     }
   ],
@@ -76,5 +88,19 @@
     "The Story of Liberia's Independence",
     "Wildlife and Nature in Liberia's Sapo National Park",
     "Liberian Cuisine: Traditional Foods and Recipes"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Monrovia",
+      "capital": true,
+      "lat": 6.314582,
+      "lon": -10.79966
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/liberia.jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALiberia_CIA_map_PL.jpeg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

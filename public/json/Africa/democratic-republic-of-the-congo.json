@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Virunga National Park is a national park in the Albertine Rift Valley in the eastern part of the Democratic Republic of the Congo. It was created in 1925. In elevation, it ranges from 680 m (2,230 ft) in the Semliki River valley to 5,109 m (16,762 ft) in the Rwenzori Mountains. From north to south it extends approximately 300 km (190 mi), largely along the international borders with Uganda and Rwanda in the east. It covers an area of 7,800 km2 (3,000 sq mi). It is bounded to the north by the Puemba River and to the south by Tchegera Island in Lake Kivu.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Virunga_National_Park-107997.jpg",
-        "url": "https://en.wikipedia.org/wiki/Virunga_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Virunga_National_Park",
+        "coordinates": {
+          "lat": -0.91666667,
+          "lon": 29.16666667
+        }
       }
     },
     {
@@ -27,7 +31,11 @@
       "wiki": {
         "extract": "Mount Nyiragongo is an active stratovolcano with an elevation of 3,470 m (11,385 ft) in the Virunga Mountains associated with the Albertine Rift. It is located inside Virunga National Park, in the North Kivu province in the Democratic Republic of the Congo, about 12 km (7.5 mi) north of the town of Goma and Lake Kivu and just 9.8 km (6.1mi) west of the border with Rwanda. The main crater is about two kilometres (1 mi) wide and usually contains a lava lake. The crater presently has two distinct cooled lava benches within the crater walls – one at about 3,175 m (10,417 ft) and a lower one at about 2,975 m (9,760 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/An_aerial_view_of_the_towering_volcanic_peak_of_Mt._Nyiragongo.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo"
+        "url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo",
+        "coordinates": {
+          "lat": -1.51916667,
+          "lon": 29.25416667
+        }
       }
     },
     {
@@ -36,7 +44,11 @@
       "wiki": {
         "extract": "The Congo River, formerly also known as the Zaire River, is the second-longest river in Africa, shorter only than the Nile, as well as the third largest river in the world by discharge volume, following the Amazon and Ganges–Brahmaputra rivers. It is the world's deepest recorded river, with measured depths of around 220 m (720 ft). The Congo–Lualaba–Luvua–Luapula–Chambeshi River system has an overall length of 4,700 km (2,900 mi), which makes it the world's ninth-longest river. The Chambeshi is a tributary of the Lualaba River, and Lualaba is the name of the Congo River upstream of Boyoma Falls, extending for 1,800 km (1,100 mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_view_of_the_Congo_River_near_Kisangani.jpg/3840px-Aerial_view_of_the_Congo_River_near_Kisangani.jpg",
-        "url": "https://en.wikipedia.org/wiki/Congo_River"
+        "url": "https://en.wikipedia.org/wiki/Congo_River",
+        "coordinates": {
+          "lat": -6.075,
+          "lon": 12.45
+        }
       }
     },
     {
@@ -45,7 +57,8 @@
       "wiki": {
         "extract": "The Democratic Republic of the Congo (DRC), also known as the DR Congo, Congo-Kinshasa, or simply the Congo, and formerly named Zaire, is a country in Central Africa. By land area, it is the second-largest country in Africa and the eleventh-largest in the world. With a population of about 124 million people, the Democratic Republic of the Congo is the fourth-most populous country in Africa and the most populous Francophone country in the world. French is the official and most widely spoken language. There are over 200 indigenous languages, of which Lingala is the most widely spoken. The capital, largest city, and economic center is Kinshasa. The DRC is bordered by the Republic of the Congo, the Cabinda exclave of Angola, and the South Atlantic Ocean to the west; the Central African Republic and South Sudan to the north; Uganda, Rwanda, Burundi, and Tanzania to the east; and Zambia and Angola to the south. Centered on the Congo Basin, most of the DRC's terrain is covered by dense rainforests and is crossed by many rivers. The east and southeast are mountainous.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/960px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+        "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "coordinates": null
       }
     },
     {
@@ -54,7 +67,11 @@
       "wiki": {
         "extract": "Kinshasa, formerly named Léopoldville from 1881 to 1966, is the capital and largest city of the Democratic Republic of the Congo. Kinshasa is one of the world's fastest-growing megacities, with an estimated population of 18.5 million in 2026. It is the most densely populated city in the DRC, the third-most populous city and third-largest metropolitan area in Africa, the world's seventh-most populous city proper and fourth-most populous capital city. It is the leading economic, political, and cultural center of the DRC, housing several industries including manufacturing, telecommunications, banking, and entertainment. The city also hosts some of the DRC's significant institutional buildings, such as the People's Palace, Palace of the Nation, Constitutional Court, Court of Cassation, Council of State, African Union City, Marble Palace, Government House, Kinshasa Financial Center, and other national departments and agencies.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kinshasa"
+        "url": "https://en.wikipedia.org/wiki/Kinshasa",
+        "coordinates": {
+          "lat": -4.32194444,
+          "lon": 15.31194444
+        }
       }
     }
   ],
@@ -110,5 +127,43 @@
     "Life and Challenges in the DRC's Eastern Provinces",
     "Virunga National Park: Protecting Gorillas in the DRC",
     "Congolese Music and Dance: A Cultural Journey"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Kinshasa",
+      "capital": true,
+      "lat": -4.327778,
+      "lon": 15.313026
+    },
+    {
+      "name": "Lubumbashi",
+      "capital": false,
+      "lat": -11.678079,
+      "lon": 27.478072
+    },
+    {
+      "name": "Mbuji-Mayi",
+      "capital": false,
+      "lat": -6.148081,
+      "lon": 23.59805
+    },
+    {
+      "name": "Kananga",
+      "capital": false,
+      "lat": -5.888096,
+      "lon": 22.398072
+    },
+    {
+      "name": "Kikwit",
+      "capital": false,
+      "lat": -5.030043,
+      "lon": 18.850002
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/democratic-republic-of-the-congo.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACongo%2C_Democratic_Republic_of_the-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

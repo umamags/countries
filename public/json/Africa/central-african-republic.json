@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Manovo-Gounda St Floris National Park is a national park and UNESCO World Heritage Site located in the Central African Republic prefecture Bamingui-Bangoran, near the Chad border. It was inscribed to the list of World Heritage Sites in 1988 as a result of the diversity of life present within it.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Manovo.jpg",
-        "url": "https://en.wikipedia.org/wiki/Manovo-Gounda_St._Floris_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Manovo-Gounda_St._Floris_National_Park",
+        "coordinates": {
+          "lat": 9,
+          "lon": 21.5
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Boali became the capital city of Ombella-M'Poko prefecture in Central African Republic on December 10 2020 after the former capital of Bimbo was incorporated into Bangui prefecture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Republique_Centrafricaine_-_Boali_-_Chutes_de_Boali.jpg",
-        "url": "https://en.wikipedia.org/wiki/Boali"
+        "url": "https://en.wikipedia.org/wiki/Boali",
+        "coordinates": {
+          "lat": 4.8,
+          "lon": 18.11666667
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The Dzanga-Sangha Special Reserve is a protected area in southwestern Central African Republic, covering 6,865.54 km2 (2,650.80 sq mi) of tropical rainforest within the Congo Basin. Established in 1990, it surrounds Dzanga-Ndoki National Park, together forming the Dzanga-Sangha Complex of Protected Areas.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dzanga_Sangha_Entry_Point%2C_Central_African_Republic.jpg",
-        "url": "https://en.wikipedia.org/wiki/Dzanga-Sangha_Special_Reserve"
+        "url": "https://en.wikipedia.org/wiki/Dzanga-Sangha_Special_Reserve",
+        "coordinates": {
+          "lat": 3.1,
+          "lon": 16.33333333
+        }
       }
     }
   ],
@@ -77,5 +89,37 @@
     "History and Culture of the Central African Republic",
     "Life and Challenges in the Central African Republic",
     "Central African Republic Travel Guide"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bangui",
+      "capital": true,
+      "lat": 4.366644,
+      "lon": 18.558288
+    },
+    {
+      "name": "Bambari",
+      "capital": false,
+      "lat": 5.76196,
+      "lon": 20.667203
+    },
+    {
+      "name": "Obo",
+      "capital": false,
+      "lat": 5.399992,
+      "lon": 26.500026
+    },
+    {
+      "name": "N'Délé",
+      "capital": false,
+      "lat": 8.409137,
+      "lon": 20.653044
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/central-african-republic.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACentral_African_Republic-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Samoa, officially the Independent State of Samoa, is an island country in Polynesia, part of Oceania, in the South Pacific Ocean. It consists of two main islands, two smaller, inhabited islands, and several smaller, uninhabited islands, including the Aleipata Islands. Samoa is located 64 km west of American Samoa, 889 km northeast of Tonga, 1,152 km northeast of Fiji, 483 km east of Wallis and Futuna, 1,151 km southeast of Tuvalu, 519 km south of Tokelau, 4,190 km southwest of Hawaii, and 610 km northwest of Niue. The capital and largest city is Apia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1280px-Flag_of_Samoa.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Samoa"
+        "url": "https://en.wikipedia.org/wiki/Samoa",
+        "coordinates": {
+          "lat": -13.745,
+          "lon": -172.2175
+        }
       }
     },
     {
@@ -24,7 +28,8 @@
       "wiki": {
         "extract": "The Robert Louis Stevenson Museum is a museum in Samoa, which commemorates the life of the Scottish author Robert Louis Stevenson. The museum displays a curated version of his residence, as Stevenson lived in it. Its establishment was funded by overseas donations.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Samoan_Home_of_Robert_Louis_Stevenson_%2830595201572%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson_Museum"
+        "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson_Museum",
+        "coordinates": null
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "Samoa, officially the Independent State of Samoa, is an island country in Polynesia, part of Oceania, in the South Pacific Ocean. It consists of two main islands, two smaller, inhabited islands, and several smaller, uninhabited islands, including the Aleipata Islands. Samoa is located 64 km west of American Samoa, 889 km northeast of Tonga, 1,152 km northeast of Fiji, 483 km east of Wallis and Futuna, 1,151 km southeast of Tuvalu, 519 km south of Tokelau, 4,190 km southwest of Hawaii, and 610 km northwest of Niue. The capital and largest city is Apia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1280px-Flag_of_Samoa.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Samoa"
+        "url": "https://en.wikipedia.org/wiki/Samoa",
+        "coordinates": {
+          "lat": -13.745,
+          "lon": -172.2175
+        }
       }
     }
   ],
@@ -71,5 +80,19 @@
     "Samoan Culture and Traditions Explained",
     "Exploring Samoa's Natural Wonders",
     "A Taste of Samoa: Traditional Samoan Food"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Apia",
+      "capital": true,
+      "lat": -13.841545,
+      "lon": -171.738642
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/samoa.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAmerican_Samoa-CIA_WFB_Map_%282023%29.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "The Western Wall is an ancient retaining wall of the built-up hill known to Jews and Christians as the Temple Mount of Jerusalem. Its most famous section, known by the same name, often shortened by Jews to the Kotel or Kosel, is known in the West as the Wailing Wall, and in the Arab world and Islamic world as the Buraq Wall. In a Jewish religious context, the term Western Wall and its variations is used in the narrow sense, for the section used for Jewish prayer; in its broader sense it refers to the entire 488-metre-long (1,601 ft) retaining wall on the western side of the Temple Mount.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Westernwall2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Western_Wall"
+        "url": "https://en.wikipedia.org/wiki/Western_Wall",
+        "coordinates": {
+          "lat": 31.7767,
+          "lon": 35.2345
+        }
       }
     },
     {
@@ -24,7 +28,8 @@
       "wiki": {
         "extract": "The Dead Sea, also known by other names, is a landlocked salt lake bordered by Jordan to the east, the West Bank to the west and Israel to the southwest. It lies in the endorheic basin of the Jordan Rift Valley, and its main tributary is the Jordan River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Dead_Sea_beach_00.JPG",
-        "url": "https://en.wikipedia.org/wiki/Dead_Sea"
+        "url": "https://en.wikipedia.org/wiki/Dead_Sea",
+        "coordinates": null
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "Masada is a mountain-top fortress complex in the Judaean Desert, overlooking the western shore of the Dead Sea in southeastern Israel. The fort, built in the first century BC, was constructed atop a natural plateau rising over 400 m (1,300 ft) above the surrounding terrain, 20 km (12 mi) east of modern Arad.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
-        "url": "https://en.wikipedia.org/wiki/Masada"
+        "url": "https://en.wikipedia.org/wiki/Masada",
+        "coordinates": {
+          "lat": 31.31555556,
+          "lon": 35.35388889
+        }
       }
     },
     {
@@ -42,7 +51,11 @@
       "wiki": {
         "extract": "The Baháʼí Terraces, or the Hanging Gardens of Haifa, are garden terraces on Mount Carmel in Haifa, and one of the most popular tourist destinations in Israel. Completed in 2001, there are 19 terraces and more than 1,500 steps ascending the mountain. The central terrace has the Shrine of the Báb, one of the main religious sites of the Baháʼí Faith. The architect by Fariborz Sahba, and the structural engineers were Karban and Co. from Haifa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TerracesBenGurion2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Terraces_(Bah%C3%A1%CA%BC%C3%AD)"
+        "url": "https://en.wikipedia.org/wiki/Terraces_(Bah%C3%A1%CA%BC%C3%AD)",
+        "coordinates": {
+          "lat": 32.81444444,
+          "lon": 34.98694444
+        }
       }
     },
     {
@@ -51,7 +64,11 @@
       "wiki": {
         "extract": "Yad Vashem is Israel's official memorial institution to the victims of the Holocaust, known in Hebrew as the Shoah (שואה). It is dedicated to preserving the memory of the Jews who were murdered; echoing the stories of the survivors; honoring Jews who fought against their Nazi oppressors and gentiles who selflessly aided Jews in need; and researching the phenomenon of the Holocaust in particular and genocide in general, with the aim of avoiding such events in the future. Yad Vashem's vision, as stated on its website, is: \"To lead the documentation, research, education and commemoration of the Holocaust, and to convey the chronicles of this singular Jewish and human event to every person in Israel, to the Jewish people, and to every significant and relevant audience worldwide.\"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yad_Vashem_Logo.svg/960px-Yad_Vashem_Logo.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Yad_Vashem"
+        "url": "https://en.wikipedia.org/wiki/Yad_Vashem",
+        "coordinates": {
+          "lat": 31.77416667,
+          "lon": 35.17555556
+        }
       }
     }
   ],
@@ -115,5 +132,25 @@
     "Israeli Culture and Traditions",
     "Understanding the Israeli-Palestinian Conflict",
     "Israeli Food Tour - Must Try Dishes"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Jerusalem",
+      "capital": true,
+      "lat": 31.778408,
+      "lon": 35.206626
+    },
+    {
+      "name": "Tel Aviv",
+      "capital": false,
+      "lat": 32.081937,
+      "lon": 34.768066
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/israel.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIsrael_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

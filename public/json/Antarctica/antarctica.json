@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441 ft), it is the second most prominent mountain in Antarctica and the second-highest volcano in Antarctica. It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova. It makes Ross Island the sixth-highest island on Earth by highest point.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mt_erebus.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Erebus"
+        "url": "https://en.wikipedia.org/wiki/Mount_Erebus",
+        "coordinates": {
+          "lat": -77.52972222,
+          "lon": 167.15333333
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "The Ross Ice Shelf is the largest ice shelf of Antarctica. It is several hundred metres thick. The nearly vertical ice front to the open sea is more than 600 km (370 mi) long, and between 15 and 50 m high above the water surface. Ninety percent of the floating ice, however, is below the water surface.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Corp2401_-_Flickr_-_NOAA_Photo_Library.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ross_Ice_Shelf"
+        "url": "https://en.wikipedia.org/wiki/Ross_Ice_Shelf",
+        "coordinates": {
+          "lat": -81.5,
+          "lon": -175
+        }
       }
     },
     {
@@ -33,7 +41,8 @@
       "wiki": {
         "extract": "The South Pole, also known as the Geographic South Pole or Terrestrial South Pole, is the point in the Southern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True South Pole to distinguish from the south magnetic pole.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Pole-south.gif",
-        "url": "https://en.wikipedia.org/wiki/South_Pole"
+        "url": "https://en.wikipedia.org/wiki/South_Pole",
+        "coordinates": null
       }
     },
     {
@@ -42,7 +51,11 @@
       "wiki": {
         "extract": "Deception Island is in the South Shetland Islands close to the Antarctic Peninsula with a large and usually \"safe\" natural harbour, which is occasionally affected by the underlying active volcano. This island is the caldera of an active volcano, which seriously damaged local scientific stations in 1967 and 1969. The island previously held a whaling station. It has now become a tourist destination, attracting over 15,000 visitors annually. Two research stations are operated by Argentina and Spain during the summer season. While various countries have asserted sovereignty, it is still administered under the Antarctic Treaty System, meaning it is under no control.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Deception_island.jpg",
-        "url": "https://en.wikipedia.org/wiki/Deception_Island"
+        "url": "https://en.wikipedia.org/wiki/Deception_Island",
+        "coordinates": {
+          "lat": -62.95833333,
+          "lon": -60.64166667
+        }
       }
     },
     {
@@ -51,7 +64,11 @@
       "wiki": {
         "extract": "Lemaire Channel is a strait off Antarctica, between Kyiv Peninsula in the mainland's Graham Land and Booth Island. Nicknamed \"Kodak Gap\" by some, it is one of the top tourist destinations in Antarctica; steep cliffs hem in the iceberg-filled passage, which is 11 km (6.8 mi) long and just 600 metres (2,000 ft) wide at its narrowest point.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ant-pen-map-Kiev.PNG",
-        "url": "https://en.wikipedia.org/wiki/Lemaire_Channel"
+        "url": "https://en.wikipedia.org/wiki/Lemaire_Channel",
+        "coordinates": {
+          "lat": -65.133,
+          "lon": -64
+        }
       }
     }
   ],
@@ -95,5 +112,43 @@
     "Antarctic Wildlife and Ecosystems",
     "The Antarctic Treaty Explained",
     "Mount Erebus Volcano Eruption Footage"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "McMurdo Station",
+      "capital": false,
+      "lat": -77.732282,
+      "lon": 166.869416
+    },
+    {
+      "name": "Esperanza Base",
+      "capital": false,
+      "lat": -63.375329,
+      "lon": -57.025902
+    },
+    {
+      "name": "Casey Station",
+      "capital": false,
+      "lat": -66.286086,
+      "lon": 110.536214
+    },
+    {
+      "name": "Amundsen–Scott South Pole Station",
+      "capital": false,
+      "lat": -90,
+      "lon": 176.994452
+    },
+    {
+      "name": "Mirny Station",
+      "capital": false,
+      "lat": -66.57553,
+      "lon": 93.006289
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Antarctica/antarctica.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Antarctica.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

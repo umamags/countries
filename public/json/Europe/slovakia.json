@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Bratislava Castle is the main castle of Bratislava, the capital of Slovakia. The massive rectangular building with four corner towers stands on an isolated rocky hill of the Little Carpathians, directly above the Danube river, in the middle of Bratislava. Because of its size and location, it has been a dominant feature of the city for centuries.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bratislava_-_Burg_%28b%29.JPG/3840px-Bratislava_-_Burg_%28b%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/Bratislava_Castle"
+        "url": "https://en.wikipedia.org/wiki/Bratislava_Castle",
+        "coordinates": {
+          "lat": 48.14222222,
+          "lon": 17.1
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The ruins of Spiš Castle in eastern Slovakia form one of the six largest castle sites in Slovakia. The castle is situated above the town of Spišské Podhradie and the village of Žehra, in the region known as Spiš. It was included in the UNESCO list of World Heritage Sites in 1993. The area of the castle is 3.9 ha. It is administered by the Spiš Museum at Levoča, a division of the Slovak National Museum.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Spi%C5%A1_Castle"
+        "url": "https://en.wikipedia.org/wiki/Spi%C5%A1_Castle",
+        "coordinates": {
+          "lat": 49.00055556,
+          "lon": 20.76833333
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Slovak Paradise National Park is one of the nine national parks in Slovakia, situated in East Slovakia. The National Park protects the area of the Slovak Paradise mountain range, which is located in the north of the Slovenské rudohorie Mountains.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Slovensky_raj-Stratenska_pila.jpg",
-        "url": "https://en.wikipedia.org/wiki/Slovak_Paradise_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Slovak_Paradise_National_Park",
+        "coordinates": {
+          "lat": 48.90833333,
+          "lon": 20.4
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The High Tatras or High Tatra Mountains, are a mountain range along the border of northern Slovakia in the Prešov Region, and southern Poland in the Lesser Poland Voivodeship. They are a range of the Tatra Mountains chain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tatry_Panorama01xxx.jpg",
-        "url": "https://en.wikipedia.org/wiki/High_Tatras"
+        "url": "https://en.wikipedia.org/wiki/High_Tatras",
+        "coordinates": {
+          "lat": 49.16666667,
+          "lon": 20.13333333
+        }
       }
     }
   ],
@@ -79,5 +95,19 @@
     "Slovak Food Tour: Traditional Dishes You Must Try",
     "Exploring the High Tatras Mountains in Slovakia",
     "Slovakia Explained: Politics, People, and Places"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bratislava",
+      "capital": true,
+      "lat": 48.150018,
+      "lon": 17.116981
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/slovakia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASlovakia_CIA_map_PL.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

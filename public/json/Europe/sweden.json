@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "The Vasa Museum is a maritime museum in Stockholm, Sweden. Located on the island of Djurgården, the museum displays the only almost fully intact 17th-century ship that has ever been salvaged, the 64-gun warship Vasa that sank on her maiden voyage in 1628. The Vasa Museum opened in 1990. Together with other museums such as the Stockholm Maritime Museum, it belongs to the Swedish National Maritime-, Transport-, and Military Museums.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg/3840px-Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vasa_Museum"
+        "url": "https://en.wikipedia.org/wiki/Vasa_Museum",
+        "coordinates": {
+          "lat": 59.32794,
+          "lon": 18.09139
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Gamla Stan, until 1980 officially Staden mellan broarna, is the old town of Stockholm, Sweden. Gamla Stan consists primarily of the island Stadsholmen. Gamla Stan includes the surrounding islets Riddarholmen, Helgeandsholmen and Strömsborg. It has a population of approximately 3,000.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gamla_stan_September_2014_01.jpg/3840px-Gamla_stan_September_2014_01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gamla_Stan"
+        "url": "https://en.wikipedia.org/wiki/Gamla_Stan",
+        "coordinates": {
+          "lat": 59.325,
+          "lon": 18.07083333
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Drottningholm Palace, or Drottningholm, one of Sweden's royal palaces, situated near Sweden's capital Stockholm, is the private residence of the Swedish royal family.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Drottningholm_kollage_2011abc.jpg",
-        "url": "https://en.wikipedia.org/wiki/Drottningholm_Palace"
+        "url": "https://en.wikipedia.org/wiki/Drottningholm_Palace",
+        "coordinates": {
+          "lat": 59.32166667,
+          "lon": 17.88611111
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "The Icehotel is a hotel in northern Sweden, about 17 kilometers from Kiruna. It is rebuilt each year with snow and ice in the village of Jukkasjärvi and is the world's first ice hotel.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ICEHOTEL_Main_Hall_%282014%29_by_Alessandro_Falca_%26_AnnaSofia_M%C3%A5%C3%A5g.jpg",
-        "url": "https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)"
+        "url": "https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)",
+        "coordinates": {
+          "lat": 67.84972222,
+          "lon": 20.59444444
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "Abisko National Park is a National Park in Sweden, established in 1909.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lapporten_2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Abisko_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Abisko_National_Park",
+        "coordinates": {
+          "lat": 68.31666667,
+          "lon": 18.68333333
+        }
       }
     }
   ],
@@ -100,5 +120,37 @@
     "Swedish Culture and Traditions Explained",
     "The History of Sweden in 10 Minutes",
     "Swedish Food Tour - Traditional Dishes"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Stockholm",
+      "capital": true,
+      "lat": 59.352706,
+      "lon": 18.095389
+    },
+    {
+      "name": "Malmö",
+      "capital": false,
+      "lat": 55.583337,
+      "lon": 13.033302
+    },
+    {
+      "name": "Sundsvall",
+      "capital": false,
+      "lat": 62.400053,
+      "lon": 17.316659
+    },
+    {
+      "name": "Luleå",
+      "capital": false,
+      "lat": 65.596635,
+      "lon": 22.158378
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/sweden.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Sweden.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

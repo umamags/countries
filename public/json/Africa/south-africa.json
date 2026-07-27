@@ -24,7 +24,11 @@
       "wiki": {
         "extract": "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Cape Town in South Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Table_Mountain_DanieVDM.jpg",
-        "url": "https://en.wikipedia.org/wiki/Table_Mountain"
+        "url": "https://en.wikipedia.org/wiki/Table_Mountain",
+        "coordinates": {
+          "lat": -33.96218,
+          "lon": 18.409883
+        }
       }
     },
     {
@@ -33,7 +37,11 @@
       "wiki": {
         "extract": "Robben Island is an island in Table Bay, 6.9 kilometres (4.3 mi) west of the coast of Bloubergstrand, north of Cape Town, South Africa. It takes its name from the archaic Dutch word for seals (robben), hence the Dutch/Afrikaans name Robbeneiland, which translates to Seal(s) Island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Robben_Island"
+        "url": "https://en.wikipedia.org/wiki/Robben_Island",
+        "coordinates": {
+          "lat": -33.805,
+          "lon": 18.37
+        }
       }
     },
     {
@@ -42,7 +50,11 @@
       "wiki": {
         "extract": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 (7,576 sq mi) in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360 km (220 mi) from north to south and 65 km (40 mi) from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve. It is within the South Africa Standard Time Zone (GMT+2).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kruger_Zebra.JPG",
-        "url": "https://en.wikipedia.org/wiki/Kruger_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Kruger_National_Park",
+        "coordinates": {
+          "lat": -24,
+          "lon": 31.5
+        }
       }
     },
     {
@@ -51,7 +63,11 @@
       "wiki": {
         "extract": "The Apartheid Museum is a museum illustrating apartheid and the 20th-century history of South Africa. The museum, part of the Gold Reef City complex in Johannesburg, was opened in November 2001.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/South_Africa-Johannesburg-Apartheid_Museum001.jpg",
-        "url": "https://en.wikipedia.org/wiki/Apartheid_Museum"
+        "url": "https://en.wikipedia.org/wiki/Apartheid_Museum",
+        "coordinates": {
+          "lat": -26.2376,
+          "lon": 28.009
+        }
       }
     },
     {
@@ -60,7 +76,11 @@
       "wiki": {
         "extract": "The Drakensberg is the eastern portion of the Great Escarpment, which encloses the central Southern African plateau. The Great Escarpment reaches its greatest elevation – 2,000 to 3,482 metres within the border region of South Africa and Lesotho.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/South_Africa_-_Drakensberg_%2816261357780%29.jpg/3840px-South_Africa_-_Drakensberg_%2816261357780%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Drakensberg"
+        "url": "https://en.wikipedia.org/wiki/Drakensberg",
+        "coordinates": {
+          "lat": -29.38333333,
+          "lon": 29.45
+        }
       }
     }
   ],
@@ -116,5 +136,43 @@
     "South African Cuisine - Traditional Foods to Try",
     "Wildlife Safari in Kruger National Park, South Africa",
     "Cultural Festivals of South Africa Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Bloemfontein",
+      "capital": true,
+      "lat": -29.119994,
+      "lon": 26.229913
+    },
+    {
+      "name": "Johannesburg",
+      "capital": false,
+      "lat": -26.168099,
+      "lon": 28.028064
+    },
+    {
+      "name": "Cape Town",
+      "capital": true,
+      "lat": -33.918065,
+      "lon": 18.433042
+    },
+    {
+      "name": "Durban",
+      "capital": false,
+      "lat": -29.863067,
+      "lon": 30.978065
+    },
+    {
+      "name": "Pretoria",
+      "capital": true,
+      "lat": -25.704975,
+      "lon": 28.227483
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/south-africa.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Africa_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

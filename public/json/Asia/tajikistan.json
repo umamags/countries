@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Iskanderkul is a mountain lake of glacial origin in Tajikistan's Sughd Province. It lies at an altitude of 2,195 metres (7,201 ft) on the northern slopes of the Gissar Range in the Fann Mountains. Triangular in shape, it has a surface area of 3.4 square kilometres (1.3 sq mi) and is up to 72 metres (236 ft) deep. Formed by a landslide that blocks the Saratogh river, the outflow of the lake is called the Iskander Darya, which joins the Yaghnob River to form the Fan Darya, a major left tributary of the Zeravshan River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iskander-kul%2C_Tajikistan.JPG",
-        "url": "https://en.wikipedia.org/wiki/Iskanderkul"
+        "url": "https://en.wikipedia.org/wiki/Iskanderkul",
+        "coordinates": {
+          "lat": 39.0725,
+          "lon": 68.36638889
+        }
       }
     },
     {
@@ -30,7 +34,11 @@
       "wiki": {
         "extract": "The Pamir Mountains are a mountain range in Central Asia and South Asia. They are located at a junction with other notable mountain ranges, namely the Tian Shan, the Karakoram, the Kunlun, the Hindu Kush, and the Himalayas. They are among the world's highest mountains.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2_%D1%8E%D0%B6%D0%BD._-_panoramio_%283%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pamir_Mountains"
+        "url": "https://en.wikipedia.org/wiki/Pamir_Mountains",
+        "coordinates": {
+          "lat": 38.5,
+          "lon": 73.5
+        }
       }
     },
     {
@@ -39,7 +47,11 @@
       "wiki": {
         "extract": "Dushanbe is the capital and largest city of Tajikistan. As of February 2023, Dushanbe had a population of 1,228,400, with this population being largely Tajik. Until 1929, the city was known in Russian as Dyushambe, and from 1929 to 1961 as Stalinabad, after Joseph Stalin. Dushanbe is located in the Hisar Valley, bounded by the Hisar Range in the north and east and the Babatag, Aktau, Rangontau and Karatau mountains in the south, and has an elevation of 750–930 m. The city is divided into four districts: Ismail Samani, Avicenna, Ferdowsi, and Shah Mansur.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panorama_with_buildings%2C_Dushanbe.jpg/3840px-Panorama_with_buildings%2C_Dushanbe.jpg",
-        "url": "https://en.wikipedia.org/wiki/Dushanbe"
+        "url": "https://en.wikipedia.org/wiki/Dushanbe",
+        "coordinates": {
+          "lat": 38.53666667,
+          "lon": 68.78
+        }
       }
     },
     {
@@ -86,5 +98,19 @@
     "Culture and Traditions of Tajikistan",
     "Tajikistan's History and People Explained",
     "Exploring the Pamir Mountains in Tajikistan"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Dushanbe",
+      "capital": true,
+      "lat": 38.560035,
+      "lon": 68.773879
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/tajikistan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATajikistan_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

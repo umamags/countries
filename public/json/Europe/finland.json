@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Helsinki Cathedral is the Finnish Evangelical Lutheran cathedral of the Diocese of Helsinki, located in the neighborhood of Kruununhaka in the centre of Helsinki, Finland, at the Senate Square. The church was originally built from 1830 to 1852 as a tribute to the Grand Duke of Finland, Emperor Nicholas I of Russia. It was also known as St Nicholas's Church until Finland declared its full independence in 1917. It is a major landmark of the city, and one of the most famous historical structures in Finland as a whole when viewed globally.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kirkko3.png",
-        "url": "https://en.wikipedia.org/wiki/Helsinki_Cathedral"
+        "url": "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
+        "coordinates": {
+          "lat": 60.17027778,
+          "lon": 24.95222222
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Suomenlinna, or Sveaborg, is a sea fortress composed of eight islands, of which six have been fortified. Located about four kilometres (2.5 mi) southeast of the city center of Helsinki, Finland, Suomenlinna is a popular destination for both tourists and locals, who enjoy it as a picturesque picnic site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Suomenlinna_aerial.JPG",
-        "url": "https://en.wikipedia.org/wiki/Suomenlinna"
+        "url": "https://en.wikipedia.org/wiki/Suomenlinna",
+        "coordinates": {
+          "lat": 60.14361111,
+          "lon": 24.98444444
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Santa Claus Village is an amusement park in Rovaniemi, a city in the Lapland region of Finland. It was opened in 1985.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Claus_Village.jpg/3840px-Santa_Claus_Village.jpg",
-        "url": "https://en.wikipedia.org/wiki/Santa_Claus_Village"
+        "url": "https://en.wikipedia.org/wiki/Santa_Claus_Village",
+        "coordinates": {
+          "lat": 66.54333333,
+          "lon": 25.8475
+        }
       }
     },
     {
@@ -42,7 +54,11 @@
       "wiki": {
         "extract": "Olavinlinna, also known as St. Olaf's Castle, is a 15th-century three-tower castle located in Savonlinna, Finland. It is built on an island in the Kyrönsalmi strait that connects the lakes Haukivesi and Pihlajavesi. It is the northernmost medieval stone fortress still standing and also the best preserved of all the medieval castles in the Swedish realm.\nThe castle forms a spectacular stage for the Savonlinna Opera Festival, which was held for the first time in the summer of 1912.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olavinlinna_Savonlinna_Finland.jpg/3840px-Olavinlinna_Savonlinna_Finland.jpg",
-        "url": "https://en.wikipedia.org/wiki/Olavinlinna"
+        "url": "https://en.wikipedia.org/wiki/Olavinlinna",
+        "coordinates": {
+          "lat": 61.86388889,
+          "lon": 28.90111111
+        }
       }
     },
     {
@@ -51,7 +67,8 @@
       "wiki": {
         "extract": "An aurora is a natural light display in Earth's upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. These collisions excite oxygen and nitrogen, which then emit light of different colors such as green, red, and purple. When observed in high-latitude regions they are called polar lights and aurora polaris. In the Arctic they are called the northern lights or aurora borealis; in the Antarctic, the term southern lights or aurora australis is used. Auroras display dynamic patterns of radiant light that appear as curtains, rays, spirals or dynamic flickers covering the entire sky.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg",
-        "url": "https://en.wikipedia.org/wiki/Aurora"
+        "url": "https://en.wikipedia.org/wiki/Aurora",
+        "coordinates": null
       }
     }
   ],
@@ -109,5 +126,37 @@
     "Finnish Culture and Traditions Explained",
     "Why Finland is the Happiest Country in the World",
     "Exploring Helsinki: Finland's Capital City"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Helsinki",
+      "capital": true,
+      "lat": 60.177509,
+      "lon": 24.932181
+    },
+    {
+      "name": "Tampere",
+      "capital": false,
+      "lat": 61.500005,
+      "lon": 23.750013
+    },
+    {
+      "name": "Vaasa",
+      "capital": false,
+      "lat": 63.099984,
+      "lon": 21.600015
+    },
+    {
+      "name": "Rovaniemi",
+      "capital": false,
+      "lat": 66.500035,
+      "lon": 25.715939
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/finland.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFinland_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

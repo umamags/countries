@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Mlilwane Wildlife Sanctuary is Eswatini's oldest protected area, owned and managed by a non-profit trust.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Zabras_in_Mlilwane_Wildlife_Sanctuary.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mlilwane_Wildlife_Sanctuary"
+        "url": "https://en.wikipedia.org/wiki/Mlilwane_Wildlife_Sanctuary",
+        "coordinates": {
+          "lat": -26.46907778,
+          "lon": 31.16186111
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "Hhohho is a region of Eswatini, located in the north western part of the country. Hhohho was named after the capital of King Mswati II, who expanded the Swazi territory to the north and west, taking in the districts of Barberton, Nelspruit, Carolina and Piet Retief. These areas were later acquired by what was the Province of Transvaal and today they form part of the Mpumalanga Province of South Africa. It has an area of 3,625.17 km2, a population of 320,651 (2017), and is divided into 14 tinkhundla. The administrative center is the national capital of Mbabane. It borders Lubombo Region on the southeast and Manzini Region in the southwest.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hhohho_in_Eswatini.svg/960px-Hhohho_in_Eswatini.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Hhohho_Region"
+        "url": "https://en.wikipedia.org/wiki/Hhohho_Region",
+        "coordinates": {
+          "lat": -26,
+          "lon": 31.5
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "The Ngwenya Mine is located on Bomvu Ridge, northwest of Mbabane and near the northwestern border of Eswatini (Swaziland). This mine is considered to be the world's oldest. The haematite ore deposit was used in the Middle Stone Age to extract red ochre, while in later times the deposit was mined for iron smelting and iron ore export.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ngwenya_Mine.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ngwenya_Mine"
+        "url": "https://en.wikipedia.org/wiki/Ngwenya_Mine",
+        "coordinates": {
+          "lat": -26.19777778,
+          "lon": 31.03138889
+        }
       }
     }
   ],
@@ -77,5 +89,25 @@
     "Wildlife and Nature in Eswatini",
     "The Umhlanga Reed Dance Festival in Eswatini",
     "History and Politics of Eswatini"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Mbabane",
+      "capital": true,
+      "lat": -26.316651,
+      "lon": 31.133335
+    },
+    {
+      "name": "Lobamba",
+      "capital": false,
+      "lat": -26.466668,
+      "lon": 31.199997
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/eswatini.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEswatini_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

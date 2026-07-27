@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Taipei 101, formerly known as the Taipei World Financial Center, is a 508-meter, 101-story skyscraper in Taipei, Taiwan. It is owned by the Taipei Financial Center Corporation. It was officially classified as the world's tallest building from its opening on 31 December 2004, until it was surpassed by the Burj Khalifa in 2009. As of 2026, it is the tallest building in Taiwan and the eleventh tallest in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/960px-Taipei_101_logo.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+        "url": "https://en.wikipedia.org/wiki/Taipei_101",
+        "coordinates": {
+          "lat": 25.0336,
+          "lon": 121.5647
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Taroko National Park is one of the nine national parks in Taiwan and was named after the Taroko Gorge, the landmark gorge of the park carved by the Liwu River. The park spans Taichung Municipality, Nantou County, and Hualien County and is located in Xiulin Township. The Taroko Gorge forms one of only three river-carved gorges in the world cut entirely through pure marble, ranking alongside Bhedaghat Gorge in Jabalpur, India and Trigrad Gorge in Bulgaria.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Taroko_Gorge4.jpg/3840px-Taroko_Gorge4.jpg",
-        "url": "https://en.wikipedia.org/wiki/Taroko_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Taroko_National_Park",
+        "coordinates": {
+          "lat": 24.16666667,
+          "lon": 121.33333333
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Sun Moon Lake is a lake in Yuchi Township, Nantou County, Taiwan. It is the largest body of water in Taiwan. The area around the lake is home to the Thao people, one of Taiwan's indigenous ethnic groups. Sun Moon Lake surrounds a tiny island called Lalu. The east side of the lake resembles a sun while the west side resembles a moon, hence the name.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sun_Moon_Lake_Sentinel-2B_MSI_2024-04-04.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sun_Moon_Lake"
+        "url": "https://en.wikipedia.org/wiki/Sun_Moon_Lake",
+        "coordinates": {
+          "lat": 23.86666667,
+          "lon": 120.91666667
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "The Chiang Kai-shek Memorial Hall is a national monument and tourist attraction erected during Taiwan’s martial law period in memory of Chiang Kai-shek, former President of the Republic of China. In recent years, the site has also incorporated remembrance of Taiwan’s martial law period (1949–1987).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chiang_Kai-shek_memorial_amk.jpg",
-        "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall"
+        "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall",
+        "coordinates": {
+          "lat": 25.03444444,
+          "lon": 121.52166667
+        }
       }
     },
     {
@@ -53,7 +69,11 @@
       "wiki": {
         "extract": "The Alishan National Scenic Area is a mountain resort and nature reserve located in Alishan township, Chiayi County, Taiwan.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alishan%2C_Part_IV_-_Alishan5348.jpg/3840px-Alishan%2C_Part_IV_-_Alishan5348.jpg",
-        "url": "https://en.wikipedia.org/wiki/Alishan_National_Scenic_Area"
+        "url": "https://en.wikipedia.org/wiki/Alishan_National_Scenic_Area",
+        "coordinates": {
+          "lat": 23.51666667,
+          "lon": 120.8
+        }
       }
     }
   ],
@@ -111,5 +131,31 @@
     "Taiwanese Street Food Tour",
     "Understanding Taiwan-China Relations",
     "Taiwan's Culture and Traditions"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Taipei",
+      "capital": true,
+      "lat": 25.035833,
+      "lon": 121.568333
+    },
+    {
+      "name": "Kaohsiung",
+      "capital": false,
+      "lat": 22.633307,
+      "lon": 120.266602
+    },
+    {
+      "name": "Taichung",
+      "capital": false,
+      "lat": 24.152078,
+      "lon": 120.681667
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/taiwan.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATaiwan-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

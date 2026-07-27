@@ -15,7 +15,8 @@
       "wiki": {
         "extract": "The American Samoa men's national football team represents American Samoa in men's international association football and is controlled by the Football Federation American Samoa, the governing body of the sport in the territory. American Samoa's home ground is the Pago Park Soccer Stadium in Pago Pago.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
-        "url": "https://en.wikipedia.org/wiki/American_Samoa_national_football_team"
+        "url": "https://en.wikipedia.org/wiki/American_Samoa_national_football_team",
+        "coordinates": null
       }
     },
     {
@@ -24,7 +25,11 @@
       "wiki": {
         "extract": "Pago Pago is the capital of American Samoa. It is in Maoputasi County on Tutuila, the main island of American Samoa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/AmericanSamoaLegislatureBuilding.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa"
+        "url": "https://en.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa",
+        "coordinates": {
+          "lat": -14.27388889,
+          "lon": -170.70444444
+        }
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "The Jean P. Haydon Museum is a museum in Pago Pago dedicated to the culture and history of the United States territory of American Samoa. It contains a collection of canoes, coconut-shell combs, pigs’ tusk armlets and native pharmacopoeia. It also houses exhibits on natural history, tapa making, traditional tattooing, as well as a collection of war clubs, kava bowls, and historic photographs. Constructed in 1913 as U.S. Naval Station Tutuila Commissary, the building was home to Tutuila Island's Post Office from 1950 to 1971. The museum has displays of various aspects of the Samoan Islands’ culture and history. It is the official repository for collections of artifacts for American Samoa. Funded by the American Samoa Council on Arts, Culture and the Humanities, it is the venue used for numerous of the cultural resource activities in American Samoa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jean_p_haydon_museum.png",
-        "url": "https://en.wikipedia.org/wiki/Jean_P._Haydon_Museum"
+        "url": "https://en.wikipedia.org/wiki/Jean_P._Haydon_Museum",
+        "coordinates": {
+          "lat": -14.2778,
+          "lon": -170.6878
+        }
       }
     }
   ],
@@ -71,5 +80,19 @@
     "Cultural Traditions of American Samoa",
     "Life in American Samoa: Island Living",
     "American Samoa History and Facts"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Pago Pago",
+      "capital": false,
+      "lat": -14.276611,
+      "lon": -170.706645
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/american-samoa.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAmerican_Samoa-CIA_WFB_Map_%282023%29.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

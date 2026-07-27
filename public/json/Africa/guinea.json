@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Mount Nimba Strict Nature Reserve is a protected area and UNESCO World Heritage Site located in both Guinea and Côte d'Ivoire, extending over a total of area of 175.4 km2, with 125.4 km2 in Guinea, and 50 km2 in Côte d'Ivoire. The reserve covers significant portions of the Nimba Range, a geographically unique area with unusually rich flora and fauna, including exceptional numbers of single-site endemic species, such as Nimbaphrynoides, the Nimba otter shrew, and multiple species of horseshoe bats. Its highest peak is Mount Richard-Molard at 1,752 m (5,750 ft), which is the highest peak of both countries.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nimba_Range.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Nimba_Strict_Nature_Reserve"
+        "url": "https://en.wikipedia.org/wiki/Mount_Nimba_Strict_Nature_Reserve",
+        "coordinates": {
+          "lat": 7.6377578,
+          "lon": -8.4206111
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "The Grand Mosque of Conakry is a mosque in Conakry, Guinea, located east of the Conakry Botanical Garden and beside the Donka Hospital.",
         "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Mosqu%C3%A9e_Fay%C3%A7al_corrig%C3%A9e.jpg",
-        "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Conakry"
+        "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Conakry",
+        "coordinates": {
+          "lat": 9.533175,
+          "lon": -13.684129
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Fouta Djallon is a highland region in the center of Guinea, roughly corresponding with Middle Guinea, in West Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Guinea_Highlands_map.png",
-        "url": "https://en.wikipedia.org/wiki/Fouta_Djallon"
+        "url": "https://en.wikipedia.org/wiki/Fouta_Djallon",
+        "coordinates": {
+          "lat": 11.315,
+          "lon": -12.2975
+        }
       }
     }
   ],
@@ -79,5 +91,31 @@
     "Guinea Independence Day Celebrations",
     "Traditional Guinean Cuisine Explained",
     "Political Landscape of Guinea in 2024"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Conakry",
+      "capital": true,
+      "lat": 9.533469,
+      "lon": -13.682181
+    },
+    {
+      "name": "Nzérékoré",
+      "capital": false,
+      "lat": 7.760003,
+      "lon": -8.829988
+    },
+    {
+      "name": "Kankan",
+      "capital": false,
+      "lat": 10.389998,
+      "lon": -9.310011
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/guinea.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEquatorial_Guinea-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

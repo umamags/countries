@@ -15,7 +15,8 @@
       "wiki": {
         "extract": "The Itaipu Dam is a hydroelectric dam on the Paraná River located on the border between Brazil and Paraguay. It is the third-largest hydroelectric dam in the world in terms of produced energy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg",
-        "url": "https://en.wikipedia.org/wiki/Itaipu_Dam"
+        "url": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+        "coordinates": null
       }
     },
     {
@@ -24,7 +25,11 @@
       "wiki": {
         "extract": "The Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue are located in the Itapúa Department, Paraguay, and are religious missions that are still preserved and that were founded by the Jesuit missioners during the colonization of South America in the 17th century. These religious missions were created in 1609 and developed for 150 years. Both Jesuit missions were declared World Heritage Site by the UNESCO in 1993.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trinidad_%28Paraguay%29.JPG",
-        "url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue"
+        "url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue",
+        "coordinates": {
+          "lat": -27.13333333,
+          "lon": -55.7
+        }
       }
     },
     {
@@ -33,7 +38,11 @@
       "wiki": {
         "extract": "Palacio de los López, officially titled Palacio de Gobierno is a neoclassical manor in Asunción, Paraguay, that serves as a workplace for the President of Paraguay, and as the seat of the government of Paraguay. The president does not reside in the palace, and is instead housed at Mburuvicha Róga, some 2.5 km to the southeast.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg",
-        "url": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez"
+        "url": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez",
+        "coordinates": {
+          "lat": -25.27763611,
+          "lon": -57.63756944
+        }
       }
     }
   ],
@@ -75,5 +84,25 @@
     "Itaipu Dam - Engineering Marvel of Paraguay",
     "Paraguayan Traditions and Festivals Explained",
     "A Day in Asunción, Paraguay's Capital City"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Asunción",
+      "capital": true,
+      "lat": -25.294457,
+      "lon": -57.643451
+    },
+    {
+      "name": "Ciudad del Este",
+      "capital": false,
+      "lat": -25.5167,
+      "lon": -54.616057
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/South America/paraguay.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AParaguay-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

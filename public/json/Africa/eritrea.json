@@ -18,7 +18,11 @@
       "wiki": {
         "extract": "Asmara, or Asmera, is the capital and most populous city of Eritrea, in the country's Central Region. It sits at an elevation of 2,325 metres (7,628 ft), making it the sixth highest capital in the world by altitude and the second highest capital in Africa. The city is located at the tip of an escarpment that is both the northwestern edge of the Eritrean Highlands and the Great Rift Valley in neighbouring Ethiopia. In 2017, the city was declared as a UNESCO World Heritage Site for its well-preserved Italian colonial modernist architecture. According to local traditions, the city was founded after four separate villages unified to live together peacefully after long periods of conflict. Asmara existed as a major settlement for over half a millennium and enjoyed some importance as it stood on the trade route to Massawa. Asmara first rose to prominence during the 20th century, when it became capital of Italian Eritrea. Under Italian rule the city of Asmara experienced rapid urbanization and modernization, to the point that was called Piccola Roma.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Asmara_Montage.png",
-        "url": "https://en.wikipedia.org/wiki/Asmara"
+        "url": "https://en.wikipedia.org/wiki/Asmara",
+        "coordinates": {
+          "lat": 15.33583333,
+          "lon": 38.94111111
+        }
       }
     },
     {
@@ -27,7 +31,8 @@
       "wiki": {
         "extract": "Massawa or Mitsiwa is a port city in the Northern Red Sea region of Eritrea, located on the Red Sea at the northern end of the Gulf of Zula beside the Dahlak Archipelago. It has been a historically important port for many centuries. Massawa has been ruled or occupied by a succession of polities during its history, including the Dahlak Sultanate, the Ottoman Empire, the Khedivate of Egypt and the Kingdom of Italy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Massawa_harbour.JPG",
-        "url": "https://en.wikipedia.org/wiki/Massawa"
+        "url": "https://en.wikipedia.org/wiki/Massawa",
+        "coordinates": null
       }
     },
     {
@@ -36,7 +41,11 @@
       "wiki": {
         "extract": "The Dahlak Archipelago is an Eritrean island group located in the Red Sea, measuring around 643 square km and lying roughly 58 kilometers east of Massawa, the regional capital city.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ISS067-E-939_-_View_of_Earth.jpg/3840px-ISS067-E-939_-_View_of_Earth.jpg",
-        "url": "https://en.wikipedia.org/wiki/Dahlak_Archipelago"
+        "url": "https://en.wikipedia.org/wiki/Dahlak_Archipelago",
+        "coordinates": {
+          "lat": 15.83333333,
+          "lon": 40.2
+        }
       }
     },
     {
@@ -45,7 +54,11 @@
       "wiki": {
         "extract": "Keren, historically known as Sanhit, is the second-largest city in Eritrea. It is situated around 91 kilometres (57 mi) northwest of Asmara at an elevation of 1,590 metres (5,220 ft) above sea-level. The city sprawls on a wide basin surrounded by granitic mountains on all sides. It serves as the capital of the Anseba Region, and is home to a number of ethnic groups including the Bilen people and Tigre people.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Keren_-_2008-11-01.jpg",
-        "url": "https://en.wikipedia.org/wiki/Keren%2C_Eritrea"
+        "url": "https://en.wikipedia.org/wiki/Keren%2C_Eritrea",
+        "coordinates": {
+          "lat": 15.77777778,
+          "lon": 38.45805556
+        }
       }
     },
     {
@@ -54,7 +67,8 @@
       "wiki": {
         "extract": "The nakfa is the currency of Eritrea and was introduced on 15 November 1997 to replace the birr at par. The currency takes its name from the Eritrean town of Nakfa, site of the first major victory of the Eritrean War of Independence. The nakfa is divided into 100 cents.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Banknotes_of_Eritrea_02.JPG",
-        "url": "https://en.wikipedia.org/wiki/Eritrean_nakfa"
+        "url": "https://en.wikipedia.org/wiki/Eritrean_nakfa",
+        "coordinates": null
       }
     }
   ],
@@ -102,5 +116,25 @@
     "Exploring the Dahlak Archipelago - Eritrea's Red Sea Paradise",
     "Eritrea's Struggle for Independence and Nation Building",
     "Traditional Eritrean Food and Culture"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Asmara",
+      "capital": true,
+      "lat": 15.333339,
+      "lon": 38.933324
+    },
+    {
+      "name": "Assab",
+      "capital": false,
+      "lat": 13.010019,
+      "lon": 42.729991
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/eritrea.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEritrea_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

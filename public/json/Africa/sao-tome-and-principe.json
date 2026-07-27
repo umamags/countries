@@ -19,7 +19,11 @@
       "wiki": {
         "extract": "Sundy is a settlement in the northwestern part of Príncipe Island in São Tomé and Príncipe. Its population is 416. Sundy lies 5 km northwest of the island capital of Santo António. In 1822 the first cocoa plantation of the whole archipelago was established in Sundy. Several buildings of this plantation have been preserved.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/Sundy%2C_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+        "url": "https://en.wikipedia.org/wiki/Sundy%2C_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+        "coordinates": {
+          "lat": 1.6694,
+          "lon": 7.3842
+        }
       }
     },
     {
@@ -28,7 +32,11 @@
       "wiki": {
         "extract": "São Tomé is the capital and largest city of the Central African island country of São Tomé and Príncipe. Its name is Portuguese for \"Saint Thomas\". Founded in the 15th century, it is one of Africa's oldest colonial cities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2012SaoTome-8_%288042889363%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9",
+        "coordinates": {
+          "lat": 0.3375,
+          "lon": 6.72833333
+        }
       }
     }
   ],
@@ -72,5 +80,19 @@
     "History of São Tomé and Príncipe Explained",
     "Top 10 Things to Do in São Tomé and Príncipe",
     "São Tomé and Príncipe Culture and Traditions"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "São Tomé",
+      "capital": true,
+      "lat": 0.333402,
+      "lon": 6.733325
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/sao-tome-and-principe.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASao_Tome_and_Principe-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

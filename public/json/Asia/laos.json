@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "Pha That Luang is a gold-covered Buddhist stupa in Vientiane, the capital city of Laos. Since its initial establishment, suggested to be in the 3rd century AD, the stupa has undergone reconstructions, including in the 1930s, due to invasions of the area.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pha_That_Luang%2C_July_2023.jpg/3840px-Pha_That_Luang%2C_July_2023.jpg",
-        "url": "https://en.wikipedia.org/wiki/Pha_That_Luang"
+        "url": "https://en.wikipedia.org/wiki/Pha_That_Luang",
+        "coordinates": {
+          "lat": 17.97616667,
+          "lon": 102.63425
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "The Plain of Jars is a megalithic archaeological landscape in Laos. It consists of thousands of stone jars scattered around the upland valleys and the lower foothills of the central plain of the Xiangkhoang Plateau. The jars are arranged in clusters ranging in number from one to several hundred.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Plainofjars_2.jpg",
-        "url": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+        "url": "https://en.wikipedia.org/wiki/Plain_of_Jars",
+        "coordinates": {
+          "lat": 19.4311,
+          "lon": 103.1525
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "The Kuang Si Falls \n or Kuang Xi Falls, alternatively known as the Tat Kuang Si Waterfalls, is a multi-tiered waterfall in Laos about 29 kilometers (18 mi) south of the town of Luang Prabang. The journey takes 53 minutes from Luang Prabang Night Market downtown. The waterfalls are a favorite side trip for tourists in Luang Prabang, and begin in shallow pools atop a steep hillside. These lead to the main fall with a drop of 60 meters (200 ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_river_of_Kuang_si_waterfalls.jpg",
-        "url": "https://en.wikipedia.org/wiki/Kuang_Si_Falls"
+        "url": "https://en.wikipedia.org/wiki/Kuang_Si_Falls",
+        "coordinates": {
+          "lat": 19.74916667,
+          "lon": 101.99166667
+        }
       }
     },
     {
@@ -44,7 +56,11 @@
       "wiki": {
         "extract": "Wat Xieng Thong is a Buddhist temple on the northern tip of the peninsula of Luang Prabang, Laos. Built between 1559 and 1560 by King Setthathirath, Wat Xieng Thong is one of the most important of Lao monasteries and remains a significant monument to the spirit of religion, royalty and traditional art.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg/3840px-Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg",
-        "url": "https://en.wikipedia.org/wiki/Wat_Xieng_Thong"
+        "url": "https://en.wikipedia.org/wiki/Wat_Xieng_Thong",
+        "coordinates": {
+          "lat": 19.8975,
+          "lon": 102.14305556
+        }
       }
     }
   ],
@@ -88,5 +104,19 @@
     "Laos Travel Guide - What You Need to Know",
     "Laos Culture and Traditions Explained",
     "Exploring the Plain of Jars in Laos"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Vientiane",
+      "capital": true,
+      "lat": 17.966693,
+      "lon": 102.59998
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Asia/laos.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALaos-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

@@ -19,7 +19,11 @@
       "wiki": {
         "extract": "The eleven Rock-hewn Churches of Lalibela are monolithic churches located in the western Ethiopian Highlands near the town of Lalibela, named after the late-12th and early-13th century King Gebre Meskel Lalibela of the Zagwe dynasty, who commissioned the massive building project of 11 rock-hewn churches to recreate the holy city of Jerusalem in his own kingdom. The site remains in use by the Ethiopian Orthodox Christian Church to this day, and it remains an important place of pilgrimage for Ethiopian Orthodox worshipers. It took 24 years to build all the 11 rock hewn churches.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/3840px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg",
-        "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches%2C_Lalibela"
+        "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches%2C_Lalibela",
+        "coordinates": {
+          "lat": 12.0325,
+          "lon": 39.04333333
+        }
       }
     },
     {
@@ -28,7 +32,11 @@
       "wiki": {
         "extract": "Simien Mountains National Park is the largest national park in Ethiopia. Located in the North Gondar Zone of the Amhara Region, its territory covers the highest parts of the Simien Mountains and includes Ras Dashan, the highest point in Ethiopia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Semien_Mountains_9.jpg",
-        "url": "https://en.wikipedia.org/wiki/Simien_Mountains_National_Park"
+        "url": "https://en.wikipedia.org/wiki/Simien_Mountains_National_Park",
+        "coordinates": {
+          "lat": 13.18333333,
+          "lon": 38.06666667
+        }
       }
     },
     {
@@ -37,7 +45,11 @@
       "wiki": {
         "extract": "The Obelisk of Axum is a 4th-century CE, 24-metre (79 ft) tall phonolite stele, weighing 160 tonnes, in the city of Axum in Ethiopia. It is ornamented with two false doors at the base and features decorations resembling windows on all sides. The obelisk ends in a semi-circular top, which used to be enclosed by metal frames.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rome_Stele.jpg",
-        "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum"
+        "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+        "coordinates": {
+          "lat": 14.13222222,
+          "lon": 38.71972222
+        }
       }
     },
     {
@@ -46,7 +58,11 @@
       "wiki": {
         "extract": "The Blue Nile is a river originating at Lake Tana in Ethiopia. It travels for approximately 1,450 km (900 mi) through Ethiopia and Sudan. Along with the White Nile, it is one of the two major tributaries of the Nile and supplies about 85.6% of the water to the Nile during the rainy season.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg/3840px-ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg",
-        "url": "https://en.wikipedia.org/wiki/Blue_Nile"
+        "url": "https://en.wikipedia.org/wiki/Blue_Nile",
+        "coordinates": {
+          "lat": 12,
+          "lon": 37.25
+        }
       }
     }
   ],
@@ -98,5 +114,43 @@
     "Ethiopian Food and Culture Documentary",
     "Simien Mountains National Park - Ethiopia's Natural Wonder",
     "Understanding the Tigray Conflict in Ethiopia"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Addis Ababa",
+      "capital": true,
+      "lat": 9.035256,
+      "lon": 38.698059
+    },
+    {
+      "name": "Dire Dawa",
+      "capital": false,
+      "lat": 9.589995,
+      "lon": 41.860018
+    },
+    {
+      "name": "Bahir Dar",
+      "capital": false,
+      "lat": 11.600053,
+      "lon": 37.383289
+    },
+    {
+      "name": "Gondar",
+      "capital": false,
+      "lat": 12.610043,
+      "lon": 37.460028
+    },
+    {
+      "name": "Mekele",
+      "capital": false,
+      "lat": 13.499989,
+      "lon": 39.469983
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/ethiopia.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEthiopia-CIA_WFB_Map_%282004%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

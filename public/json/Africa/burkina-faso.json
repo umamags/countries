@@ -17,7 +17,11 @@
       "wiki": {
         "extract": "The ruins of Loropéni are a medieval heritage site near the town of Loropéni in southern Burkina Faso. They were added to the UNESCO World Heritage List in 2009. These ruins were the country's first World Heritage site. The site, which spans 1.113 hectares, includes an array of stone walls that comprised a medieval fortress, the best preserved of ten in the area. They date back at least a thousand years. The settlement was occupied by the Lohron or Kulango people and prospered from the trans-Saharan gold trade, reaching its height between the 14th and 17th centuries. It was abandoned in the early 19th century.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ruins_of_Lorop%C3%A9ni"
+        "url": "https://en.wikipedia.org/wiki/Ruins_of_Lorop%C3%A9ni",
+        "coordinates": {
+          "lat": 10.31027778,
+          "lon": -3.56277778
+        }
       }
     },
     {
@@ -26,7 +30,11 @@
       "wiki": {
         "extract": "Ouagadougou or Wagadugu is the capital and largest city of Burkina Faso, and the administrative, communications, cultural and economic centre of the nation. It has a population of 2,415,266 in 2019. The city's name is often shortened to Ouaga. The inhabitants are called ouagalais. The spelling of the name Ouagadougou is derived from the French orthography common in former French African colonies.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ouagadougou_Skyline.jpg",
-        "url": "https://en.wikipedia.org/wiki/Ouagadougou"
+        "url": "https://en.wikipedia.org/wiki/Ouagadougou",
+        "coordinates": {
+          "lat": 12.36861111,
+          "lon": -1.5275
+        }
       }
     },
     {
@@ -35,7 +43,11 @@
       "wiki": {
         "extract": "Sindou is a town located in the province of Léraba in Burkina Faso. It is the capital of Léraba Province and the Sindou Department.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burkina_20110120_164655.jpg/3840px-Burkina_20110120_164655.jpg",
-        "url": "https://en.wikipedia.org/wiki/Sindou"
+        "url": "https://en.wikipedia.org/wiki/Sindou",
+        "coordinates": {
+          "lat": 10.65,
+          "lon": -5.16666667
+        }
       }
     },
     {
@@ -44,7 +56,8 @@
       "wiki": {
         "extract": "The history of Burkina Faso includes the history of various kingdoms within the country, such as the Mossi kingdoms, as well as the later French colonisation of the territory and its independence as the Republic of Upper Volta in 1960.",
         "image": null,
-        "url": "https://en.wikipedia.org/wiki/History_of_Burkina_Faso"
+        "url": "https://en.wikipedia.org/wiki/History_of_Burkina_Faso",
+        "coordinates": null
       }
     }
   ],
@@ -88,5 +101,25 @@
     "FESPACO Film Festival Highlights",
     "Traditional Music and Dance of Burkina Faso",
     "Security Challenges in Burkina Faso Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Ouagadougou",
+      "capital": true,
+      "lat": 12.372262,
+      "lon": -1.52667
+    },
+    {
+      "name": "Bobo Dioulasso",
+      "capital": false,
+      "lat": 11.179975,
+      "lon": -4.289981
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/burkina-faso.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABurkina_Faso_map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

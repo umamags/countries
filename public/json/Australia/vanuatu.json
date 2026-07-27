@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Mount Yasur is an active volcano on Tanna Island, Vanuatu, 361 m (1,184 ft) high above sea level, on the coast near Sulphur Bay, northeast of the taller Mount Tukosmera, which was active in the Pleistocene. It has a largely unvegetated pyroclastic cone with a nearly circular summit crater 400 m in diameter.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mount_Yasur_eruption_2006%2C_Tanna_Island%2C_Vanuatu%2C_VAN_0516.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Yasur"
+        "url": "https://en.wikipedia.org/wiki/Mount_Yasur",
+        "coordinates": {
+          "lat": -19.52833333,
+          "lon": 169.44833333
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Efate, originally named Sandwich Island and also known as Île Vate or just Vate, is an island in the Pacific Ocean. It is part of the Shefa Province in Vanuatu, and the capital city, Port Vila, is located on the island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Map_of_Efate_Island_EN.png",
-        "url": "https://en.wikipedia.org/wiki/Efate"
+        "url": "https://en.wikipedia.org/wiki/Efate",
+        "coordinates": {
+          "lat": -17.66666667,
+          "lon": 168.41666667
+        }
       }
     },
     {
@@ -34,7 +42,11 @@
       "wiki": {
         "extract": "Roi Mata was a chiefly title in the central islands of Vanuatu. It was borne by a long dynasty of chiefs, from the 11th to the 17th century.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fele%27s_Cave.jpg",
-        "url": "https://en.wikipedia.org/wiki/Roi_Mata"
+        "url": "https://en.wikipedia.org/wiki/Roi_Mata",
+        "coordinates": {
+          "lat": -17.62806944,
+          "lon": 168.17771944
+        }
       }
     }
   ],
@@ -72,5 +84,19 @@
     "Vanuatu Cultural Festival - Naghol Land Diving",
     "Travel Guide to Vanuatu - What to See and Do",
     "Vanuatu History and Culture Explained"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Port Vila",
+      "capital": true,
+      "lat": -17.73335,
+      "lon": 168.316641
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/vanuatu.gif",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVanuatu_CIA_map.gif",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

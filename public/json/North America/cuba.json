@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Old Havana is the city-center (downtown) and one of the 15 municipalities forming Havana, Cuba. It has the second highest population density in the city and contains the core of the original city of Havana. The positions of the original Walls of Havana are the modern boundaries of Old Havana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Havana_Map_-_Habana_Vieja.png",
-        "url": "https://en.wikipedia.org/wiki/Old_Havana"
+        "url": "https://en.wikipedia.org/wiki/Old_Havana",
+        "coordinates": {
+          "lat": 23.13594444,
+          "lon": -82.35833333
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "The Castillo de los Tres Reyes del Morro, also known as Castillo del Morro, is a fortress guarding the entrance to the Havana harbor.\nThe design is by the Italian engineer Battista Antonelli (1547–1616). Originally under the control of Spain, the fortress was captured by the British in 1762 and returned to Spain under the Treaty of Paris (1763) a year later. The Morro Castle was the primary defence in the Havana harbor until La Cabaña was completed in 1774.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif/lossy-page1-1280px-Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif.jpg",
-        "url": "https://en.wikipedia.org/wiki/Castillo_de_los_Tres_Reyes_Del_Morro"
+        "url": "https://en.wikipedia.org/wiki/Castillo_de_los_Tres_Reyes_Del_Morro",
+        "coordinates": {
+          "lat": 23.15046389,
+          "lon": -82.35666389
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, Cárdenas, and the Península de Zapata.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aerial_photo_of_Varadero_16.JPG",
-        "url": "https://en.wikipedia.org/wiki/Varadero"
+        "url": "https://en.wikipedia.org/wiki/Varadero",
+        "coordinates": {
+          "lat": 23.13944444,
+          "lon": -81.28611111
+        }
       }
     },
     {
@@ -41,7 +53,11 @@
       "wiki": {
         "extract": "Trinidad is a town in the province of Sancti Spíritus, central Cuba. Together with the nearby Valle de los Ingenios, it has been a UNESCO World Heritage Site since 1988, because of its historical importance as a center of the sugar trade in the 18th and 19th centuries. Trinidad is one of the best-preserved cities in the Caribbean from the time when the sugar trade was the main industry in the region.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Trinidad_in_Kuba.jpg/3840px-Trinidad_in_Kuba.jpg",
-        "url": "https://en.wikipedia.org/wiki/Trinidad%2C_Cuba"
+        "url": "https://en.wikipedia.org/wiki/Trinidad%2C_Cuba",
+        "coordinates": {
+          "lat": 21.80416667,
+          "lon": -79.98305556
+        }
       }
     },
     {
@@ -50,7 +66,11 @@
       "wiki": {
         "extract": "The Che Guevara Mausoleum is a memorial in Santa Clara, Cuba, located in \"Plaza Che Guevara\". It houses the remains of the revolutionary Ernesto \"Che\" Guevara and 29 fellow combatants killed in 1967 during Guevara's attempt to spur an armed uprising in Bolivia. The full area, which contains a bronze 22-foot statue of Guevara, is referred to as the Ernesto Guevara Sculptural Complex.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Che_Guevara_-_Grab_in_Santa_Clara%2C_Kuba.jpg",
-        "url": "https://en.wikipedia.org/wiki/Che_Guevara_Mausoleum"
+        "url": "https://en.wikipedia.org/wiki/Che_Guevara_Mausoleum",
+        "coordinates": {
+          "lat": 22.40222222,
+          "lon": -79.97944444
+        }
       }
     }
   ],
@@ -96,5 +116,25 @@
     "History of Cuba: From Colonization to Revolution",
     "Top 10 Places to Visit in Cuba",
     "Cuban Cuisine: Traditional Dishes You Must Try"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Havana",
+      "capital": true,
+      "lat": 23.133905,
+      "lon": -82.366128
+    },
+    {
+      "name": "Santiago de Cuba",
+      "capital": false,
+      "lat": 20.025017,
+      "lon": -75.821326
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/cuba.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACuba_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

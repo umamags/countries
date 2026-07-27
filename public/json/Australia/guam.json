@@ -15,7 +15,11 @@
       "wiki": {
         "extract": "Two Lovers Point is a prominent cape and seaside cliff in Tamuning, Guam, that overlooks northern Tumon Bay and the Philippine Sea. One of four National Natural Landmarks on Guam, it is closely associated with the folktale of two doomed lovers and is a major tourist attraction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Two_Lovers_Point_from_Tumon_Bay.JPG",
-        "url": "https://en.wikipedia.org/wiki/Two_Lovers_Point"
+        "url": "https://en.wikipedia.org/wiki/Two_Lovers_Point",
+        "coordinates": {
+          "lat": 13.53499167,
+          "lon": 144.80245278
+        }
       }
     },
     {
@@ -24,7 +28,11 @@
       "wiki": {
         "extract": "The War in the Pacific National Historical Park is a multi-unit protected area in the United States territory of Guam, which was established in 1978 in honor of those who participated in the Pacific Theater of World War II. Uniquely among the National Park System, it honors the bravery and sacrifices of all those who participated in the Pacific Theater.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_Asan_Park_%28cropped%29.jpg/3840px-View_of_Asan_Park_%28cropped%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/War_in_the_Pacific_National_Historical_Park"
+        "url": "https://en.wikipedia.org/wiki/War_in_the_Pacific_National_Historical_Park",
+        "coordinates": {
+          "lat": 13.42250833,
+          "lon": 144.67566111
+        }
       }
     },
     {
@@ -33,7 +41,11 @@
       "wiki": {
         "extract": "Fort Nuestra Señora de la Soledad is a fortification near Umatac, Guam. Built by the Spanish probably between 1802 and 1819, it was the fourth of four fortifications that protected an anchorage for galleons transiting between Acapulco, Mexico and the Philippines, a route that fell out of use in 1815 with Mexican independence.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fort_Nuestra_Se%C3%B1ora_de_la_Soled%C3%A5d_-_Umatac%2C_Guam_-_DSC00948.JPG/3840px-Fort_Nuestra_Se%C3%B1ora_de_la_Soled%C3%A5d_-_Umatac%2C_Guam_-_DSC00948.JPG",
-        "url": "https://en.wikipedia.org/wiki/Fort_Nuestra_Se%C3%B1ora_de_la_Soledad"
+        "url": "https://en.wikipedia.org/wiki/Fort_Nuestra_Se%C3%B1ora_de_la_Soledad",
+        "coordinates": {
+          "lat": 13.29333333,
+          "lon": 144.6575
+        }
       }
     }
   ],
@@ -71,5 +83,19 @@
     "History of Guam: From Chamorro Origins to Modern Day",
     "Guam Travel Guide 2023",
     "Guam Liberation Day Celebration Highlights"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Agana",
+      "capital": false,
+      "lat": 13.470016,
+      "lon": 144.750017
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Australia/guam.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Guam.jpg",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

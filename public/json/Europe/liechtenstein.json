@@ -14,7 +14,11 @@
       "wiki": {
         "extract": "Vaduz Castle is the palace and official residence of the Prince of Liechtenstein. The castle gave its name to the town of Vaduz, the capital of Liechtenstein, which it overlooks from an adjacent hilltop.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg/3840px-Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg",
-        "url": "https://en.wikipedia.org/wiki/Vaduz_Castle"
+        "url": "https://en.wikipedia.org/wiki/Vaduz_Castle",
+        "coordinates": {
+          "lat": 47.13944444,
+          "lon": 9.52444444
+        }
       }
     },
     {
@@ -23,7 +27,11 @@
       "wiki": {
         "extract": "Liechtenstein, officially the Principality of Liechtenstein, is a doubly landlocked country in the Central European Alps. A microstate, It is located between Austria to the east and north-east and Switzerland to the north-west, west and south.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
-        "url": "https://en.wikipedia.org/wiki/Liechtenstein"
+        "url": "https://en.wikipedia.org/wiki/Liechtenstein",
+        "coordinates": {
+          "lat": 47.15,
+          "lon": 9.55
+        }
       }
     },
     {
@@ -32,7 +40,11 @@
       "wiki": {
         "extract": "Gutenberg Castle is an intact castle in the municipality of Balzers, Liechtenstein, the southern-most municipality in the country. Gutenberg is one of the five castles of the principality and one of two that have survived intact until the present day.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Liechtenstein_asv2022-10_img25_Balzers_Burg_Gutenberg.jpg/3840px-Liechtenstein_asv2022-10_img25_Balzers_Burg_Gutenberg.jpg",
-        "url": "https://en.wikipedia.org/wiki/Gutenberg_Castle"
+        "url": "https://en.wikipedia.org/wiki/Gutenberg_Castle",
+        "coordinates": {
+          "lat": 47.0652,
+          "lon": 9.5001
+        }
       }
     }
   ],
@@ -70,5 +82,19 @@
     "Liechtenstein Travel Guide 2023",
     "Vaduz Castle and Liechtenstein History",
     "Exploring Liechtenstein's Culture and Cuisine"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Vaduz",
+      "capital": true,
+      "lat": 47.133724,
+      "lon": 9.51667
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Europe/liechtenstein.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALiechtenstein_CIA_map_PL.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }

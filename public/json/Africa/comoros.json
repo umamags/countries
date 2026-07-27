@@ -16,7 +16,11 @@
       "wiki": {
         "extract": "Mount Karthala or Karthola is an active shield volcano and the highest point of the Comoros at 2,361 m (7,746 ft) above sea level. It is the southernmost and larger of the two volcanoes forming Grande Comore island, the largest island in the nation of Comoros. The Karthala volcano is very active, having erupted more than 20 times since the 19th century. Frequent eruptions have shaped the volcano's 3 km by 4 km summit caldera, but the island has largely escaped broad destruction. Eruptions on April 17, 2005 and May 29, 2006 ended a period of quiet.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mount_Karthala_%2811000398163%29.jpg",
-        "url": "https://en.wikipedia.org/wiki/Mount_Karthala"
+        "url": "https://en.wikipedia.org/wiki/Mount_Karthala",
+        "coordinates": {
+          "lat": -11.76028,
+          "lon": 43.35306
+        }
       }
     },
     {
@@ -25,7 +29,11 @@
       "wiki": {
         "extract": "Moroni is the largest city, national capital, and seat of the government of the Union of the Comoros, a sovereign archipelago nation in the Indian Ocean. Moroni means \"at the river\". Moroni is the capital of the semi-autonomous island of Ngazidja, the largest of the three main islands of the republic. The city's estimated population in 2003 was 41,557 residents. Moroni, which lies along the Route Nationale 1, has a port and several mosques such as the Badjanani Mosque.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Moroni-Harbour.jpg",
-        "url": "https://en.wikipedia.org/wiki/Moroni%2C_Comoros"
+        "url": "https://en.wikipedia.org/wiki/Moroni%2C_Comoros",
+        "coordinates": {
+          "lat": -11.699,
+          "lon": 43.256
+        }
       }
     },
     {
@@ -74,5 +82,19 @@
     "The Culture and Traditions of Comoros",
     "Mount Karthala Volcano Hike in Comoros",
     "Comorian Cuisine: Flavors of the Indian Ocean"
-  ]
+  ],
+  "cities": [
+    {
+      "name": "Moroni",
+      "capital": true,
+      "lat": -11.704158,
+      "lon": 43.240244
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/Africa/comoros.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AComoros-CIA_WFB_Map_%2809%29.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  }
 }
