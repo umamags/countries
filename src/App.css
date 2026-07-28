@@ -358,8 +358,33 @@
   stroke-width: 1;
 }
 
-.map-country.is-groupable {
+.map-country-color-0 {
+  fill: var(--map-color-0);
+}
+
+.map-country-color-1 {
+  fill: var(--map-color-1);
+}
+
+.map-country-color-2 {
+  fill: var(--map-color-2);
+}
+
+.map-country-color-3 {
+  fill: var(--map-color-3);
+}
+
+.map-country.is-current-continent {
+  stroke: var(--text-h);
+  stroke-width: 2.5;
+}
+
+.map-country.is-clickable {
   cursor: pointer;
+}
+
+.map-country.is-clickable:hover {
+  opacity: 0.85;
 }
 
 .map-city circle {

@@ -10,6 +10,15 @@
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
+  /* Political-map fills, assigned per-country via graph coloring (see
+     useWorldAtlas.js) so bordering countries never share a color. Validated
+     all-pairs colorblind-safe against this file's own surfaces - see
+     App.css's map-country-color-* rules for how they're applied. */
+  --map-color-0: #b947c0;
+  --map-color-1: #e7512c;
+  --map-color-2: #24a165;
+  --map-color-3: #279cf0;
+
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
 
   font: 16px/145% var(--sans);
@@ -34,6 +43,11 @@
     --accent-border: rgba(192, 132, 252, 0.5);
     --shadow:
       rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
+
+    --map-color-0: #b342ba;
+    --map-color-1: #e14b26;
+    --map-color-2: #2aa569;
+    --map-color-3: #1894e7;
   }
 }
 

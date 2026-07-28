@@ -10,11 +10,13 @@ export default function ContinentsPage() {
   const { favorites, toggleFavorite } = useFavorites()
   const navigate = useNavigate()
 
-  const groupByName = useMemo(() => {
+  const countryByName = useMemo(() => {
     const map = new Map()
     for (const continent of continents) {
       for (const country of continent.countries) {
-        if (country.map_name) map.set(country.map_name, { key: continent.slug, label: continent.name })
+        if (country.map_name) {
+          map.set(country.map_name, { slug: country.slug, continentSlug: continent.slug, name: country.name })
+        }
       }
     }
     return map
@@ -31,8 +33,8 @@ export default function ContinentsPage() {
       <div className="map-container">
         <WorldMap
           mode="explore"
-          groupByName={groupByName}
-          onGroupClick={(slug) => navigate(`/continent/${slug}`)}
+          countryByName={countryByName}
+          onCountryClick={(country) => navigate(`/continent/${country.continentSlug}/country/${country.slug}`)}
         />
       </div>
       <div className="grid grid-continents">

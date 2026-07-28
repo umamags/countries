@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { geoMercator, geoNaturalEarth1, geoPath } from 'd3-geo'
 import { useWorldAtlas } from '../data/useWorldAtlas'
 
@@ -9,15 +9,19 @@ const PIN_PADDING = 40
 /**
  * Renders countries from the shared world topology (see useWorldAtlas).
  * mode="country" zooms into a single country's own shape (`focusName`);
- * mode="continent" shows the whole world with a set of countries picked
- * out in the accent color (`highlightNames`); mode="explore" shows the
- * whole world and highlights whichever group (`groupByName`, a name ->
- * {key, label} map) the pointer is over, calling `onGroupClick` on click -
- * used for the homepage, where any of 7 continents can be moused over.
- * (A static 7-color choropleth was tried first and rejected: it fails the
- * dataviz skill's own CVD/normal-vision gates once every continent pair can
- * end up adjacent on the map, which caps safe simultaneous categorical
- * hues at 3. A single highlighted-vs-neutral state sidesteps that.)
+ * mode="continent" and mode="explore" both show the whole world with every
+ * country colored from a validated 4-color palette (see useWorldAtlas -
+ * DSATUR graph coloring guarantees no two bordering countries share a
+ * color, the same guarantee real political maps rely on). Hovering any
+ * country shows its name; clicking navigates straight to it via
+ * `countryByName` (map feature name -> {slug, continentSlug, name}) and
+ * `onCountryClick`. mode="continent" additionally outlines the current
+ * continent's countries with a heavier border via `highlightNames`.
+ * (An earlier per-country random-hue version was reverted: assigning each
+ * of ~240 countries an independent hash-based hue has no colorblind-safety
+ * guarantee, since any two could end up adjacent on the map. Graph coloring
+ * sidesteps that - only 4 colors are ever needed, and all 4 were validated
+ * all-pairs CVD-safe against this app's actual surfaces before use.)
  * `focusName` may be null/undefined for countries the 50m dataset has no
  * shape for (e.g. Tuvalu) - that's treated as "no map available", not
  * "show the whole world".
@@ -31,18 +35,17 @@ export default function WorldMap({
   mode,
   highlightNames,
   focusName,
-  groupByName,
-  onGroupClick,
+  countryByName,
+  onCountryClick,
   cities,
   landmarks,
   onLandmarkClick,
   height = 320,
 }) {
-  const { status, featureCollection } = useWorldAtlas()
-  const [hoveredGroup, setHoveredGroup] = useState(null)
+  const { status, featureCollection, colorByName } = useWorldAtlas()
   const highlightSet = useMemo(() => new Set(highlightNames ?? []), [highlightNames])
   const isCountryMode = mode === 'country'
-  const isExploreMode = mode === 'explore'
+  const isContinentMode = mode === 'continent'
 
   const { path, features, notFound, projection } = useMemo(() => {
     if (!featureCollection) return { path: null, features: [], notFound: false, projection: null }
@@ -102,23 +105,28 @@ export default function WorldMap({
     >
       {features.map((f) => {
         const name = f.properties?.name
-        const group = isExploreMode ? groupByName?.get(name) : undefined
-        const isHighlighted = isCountryMode
-          ? true
-          : isExploreMode
-            ? Boolean(group) && group.key === hoveredGroup
-            : highlightSet.has(name)
+        const country = !isCountryMode ? countryByName?.get(name) : undefined
+        const colorIndex = !isCountryMode ? colorByName?.get(name) : undefined
+        const isCurrentContinent = isContinentMode && highlightSet.has(name)
+
+        const className = [
+          'map-country',
+          isCountryMode && 'is-highlighted',
+          !isCountryMode && colorIndex != null && colorIndex >= 0 && `map-country-color-${colorIndex}`,
+          isCurrentContinent && 'is-current-continent',
+          country && 'is-clickable',
+        ]
+          .filter(Boolean)
+          .join(' ')
 
         return (
           <path
             key={name ?? f.id}
             d={path(f)}
-            className={`map-country${isHighlighted ? ' is-highlighted' : ''}${group ? ' is-groupable' : ''}`}
-            onMouseEnter={group ? () => setHoveredGroup(group.key) : undefined}
-            onMouseLeave={group ? () => setHoveredGroup(null) : undefined}
-            onClick={group && onGroupClick ? () => onGroupClick(group.key) : undefined}
+            className={className}
+            onClick={country && onCountryClick ? () => onCountryClick(country) : undefined}
           >
-            {group && <title>{`${name} — ${group.label}`}</title>}
+            {!isCountryMode && name && <title>{name}</title>}
           </path>
         )
       })}
