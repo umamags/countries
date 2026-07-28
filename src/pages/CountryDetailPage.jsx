@@ -4,6 +4,7 @@ import { useContinent } from '../data/IndexContext'
 import { useCountry } from '../data/useCountry'
 import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
+import StateMap from '../components/StateMap'
 import VideoModal from '../components/VideoModal'
 import Breadcrumb from '../components/Breadcrumb'
 import { slugify } from '../utils/slug'
@@ -163,6 +164,8 @@ export default function CountryDetailPage() {
           />
         </div>
       )}
+
+      <StateMap countryName={data.country} height={340} />
 
       <dl className="facts">
         <Fact label="Continent" value={data.continent} />

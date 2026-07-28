@@ -226,3 +226,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Saved Claude Code conversation transcripts
+claude_chat/
