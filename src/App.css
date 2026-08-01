@@ -570,15 +570,33 @@
 
 /* Footer */
 
-.site-footer {
+.footer {
   margin-top: 40px;
   padding: 16px 20px 24px;
   border-top: 1px solid var(--border);
-  text-align: center;
 }
 
-.site-footer p {
-  margin: 0;
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
   font-size: 13px;
   color: var(--text);
+}
+
+.footer-links {
+  display: flex;
+  gap: 24px;
+  margin: 0;
+}
+
+.footer-links a {
+  color: var(--accent);
+  font-size: 13px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
 }

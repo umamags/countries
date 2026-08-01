@@ -1,5 +1,6 @@
 import { Link, Outlet } from 'react-router-dom'
 import SearchBox from './SearchBox'
+import Footer from './Footer'
 
 export default function Layout() {
   return (
@@ -13,9 +14,7 @@ export default function Layout() {
       <main>
         <Outlet />
       </main>
-      <footer className="site-footer">
-        <p>© Mahesh Natarajan · v1.0 · July 2026</p>
-      </footer>
+      <Footer />
     </>
   )
 }
