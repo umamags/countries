@@ -70,8 +70,14 @@
   ],
   "current_conflicts": "Tonga is generally peaceful with no significant internal or external conflicts reported as of 2024.",
   "five_youtube_video_titles": [
-    "Discover Tonga: The Friendly Islands",
-    "Tonga Travel Guide - Top Things to Do",
+    {
+      "title": "Discover Tonga: The Friendly Islands",
+      "video_id": "JZwlY00GYSU"
+    },
+    {
+      "title": "Tonga Travel Guide - Top Things to Do",
+      "video_id": "NaZaJevnxAc"
+    },
     "The History and Culture of Tonga",
     "Tongan Food and Traditions Explained",
     "Exploring Tonga's Natural Wonders"

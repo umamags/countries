@@ -78,8 +78,14 @@
   ],
   "current_conflicts": "The Federated States of Micronesia is currently peaceful with no active conflicts.",
   "five_youtube_video_titles": [
-    "Discovering the Federated States of Micronesia",
-    "Nan Madol: The Lost City of Micronesia",
+    {
+      "title": "Discovering the Federated States of Micronesia",
+      "video_id": "aop1vTT1ONA"
+    },
+    {
+      "title": "Nan Madol: The Lost City of Micronesia",
+      "video_id": "0fdreKvuqgs"
+    },
     "Cultural Traditions of Yap Island",
     "Travel Guide to Pohnpei, Micronesia",
     "Micronesian Cuisine and Island Life"

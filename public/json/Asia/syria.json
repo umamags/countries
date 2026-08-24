@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Ongoing civil war since 2011 involving government forces, opposition groups, and extremist factions, leading to significant humanitarian crises and displacement.",
   "five_youtube_video_titles": [
-    "Syria: A Country in Conflict - Documentary",
-    "The History of Syria Explained",
+    {
+      "title": "Syria: A Country in Conflict - Documentary",
+      "video_id": "sXVAjOt17NQ"
+    },
+    {
+      "title": "The History of Syria Explained",
+      "video_id": "JFpanWNgfQY"
+    },
     "Exploring Ancient Palmyra, Syria",
     "Syrian Cuisine: Traditional Dishes and Recipes",
     "Life in Damascus Amidst the Conflict"

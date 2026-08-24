@@ -120,8 +120,14 @@
   ],
   "current_conflicts": "Tense relations with North Korea persist, including occasional military provocations and unresolved political disputes stemming from the Korean War armistice.",
   "five_youtube_video_titles": [
-    "South Korea Travel Guide - Top Things to Do in South Korea",
-    "History of South Korea in 10 Minutes",
+    {
+      "title": "South Korea Travel Guide - Top Things to Do in South Korea",
+      "video_id": "wVAJCv2xeyQ"
+    },
+    {
+      "title": "History of South Korea in 10 Minutes",
+      "video_id": "6llQB4p9NT4"
+    },
     "Korean Culture and Traditions Explained",
     "South Korean Cuisine: Must-Try Foods",
     "Understanding the Korean Peninsula Conflict"

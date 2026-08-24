@@ -78,8 +78,14 @@
   ],
   "current_conflicts": "Guam faces strategic military tensions due to its location in the Pacific, particularly concerning North Korean missile threats and regional security dynamics.",
   "five_youtube_video_titles": [
-    "Discover Guam: The Island of Chamorro Culture",
-    "Top 10 Things to Do in Guam",
+    {
+      "title": "Discover Guam: The Island of Chamorro Culture",
+      "video_id": "JlsZX6Lt8VE"
+    },
+    {
+      "title": "Top 10 Things to Do in Guam",
+      "video_id": "kdM9QHKl1LQ"
+    },
     "History of Guam: From Chamorro Origins to Modern Day",
     "Guam Travel Guide 2023",
     "Guam Liberation Day Celebration Highlights"

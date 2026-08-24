@@ -75,8 +75,14 @@
   ],
   "current_conflicts": "No active military conflicts; ongoing concerns include climate change impacts and nuclear legacy issues.",
   "five_youtube_video_titles": [
-    "Marshall Islands: Life on a Remote Pacific Atoll",
-    "The History and Culture of the Marshall Islands",
+    {
+      "title": "Marshall Islands: Life on a Remote Pacific Atoll",
+      "video_id": "DIA-QCHzMkM"
+    },
+    {
+      "title": "The History and Culture of the Marshall Islands",
+      "video_id": "cKqvbdBK98w"
+    },
     "Bikini Atoll Nuclear Test Site - Marshall Islands",
     "Traditional Navigation in the Marshall Islands",
     "Climate Change Threats to the Marshall Islands"

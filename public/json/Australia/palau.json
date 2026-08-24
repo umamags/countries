@@ -80,8 +80,14 @@
   ],
   "current_conflicts": "Palau maintains peaceful relations internationally with no significant current conflicts.",
   "five_youtube_video_titles": [
-    "Discover Palau: The Jewel of Micronesia",
-    "Jellyfish Lake Snorkeling Experience in Palau",
+    {
+      "title": "Discover Palau: The Jewel of Micronesia",
+      "video_id": "OTzXK8HExUo"
+    },
+    {
+      "title": "Jellyfish Lake Snorkeling Experience in Palau",
+      "video_id": "GPNUsDfp0kk"
+    },
     "Top 10 Things to Do in Palau",
     "Palau Travel Guide 2023",
     "The Unique Culture and History of Palau"

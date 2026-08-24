@@ -104,8 +104,14 @@
   ],
   "current_conflicts": "Albania is currently not involved in any active armed conflicts but faces challenges related to organized crime and political reforms.",
   "five_youtube_video_titles": [
-    "Discover Albania: Europe's Hidden Gem",
-    "Top 10 Places to Visit in Albania",
+    {
+      "title": "Discover Albania: Europe's Hidden Gem",
+      "video_id": "MHrE3SlmNGI"
+    },
+    {
+      "title": "Top 10 Places to Visit in Albania",
+      "video_id": "Yhohc-gQBfg"
+    },
     "Albanian Culture and Traditions Explained",
     "A Food Tour of Albania's Best Dishes",
     "History of Albania: From Ancient Times to Today"

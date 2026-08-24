@@ -93,8 +93,14 @@
   ],
   "current_conflicts": "Timor-Leste is generally peaceful but faces occasional political tensions and challenges related to economic development and resource management.",
   "five_youtube_video_titles": [
-    "Timor-Leste: Asia's Youngest Nation Explained",
-    "Exploring the Natural Beauty of Timor-Leste",
+    {
+      "title": "Timor-Leste: Asia's Youngest Nation Explained",
+      "video_id": "xsVPzgrGSKs"
+    },
+    {
+      "title": "Exploring the Natural Beauty of Timor-Leste",
+      "video_id": "oQHN752FMKk"
+    },
     "History and Culture of Timor-Leste",
     "Timor-Leste Travel Guide: What to See and Do",
     "Traditional Food and Festivals of Timor-Leste"

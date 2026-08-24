@@ -72,8 +72,14 @@
   ],
   "current_conflicts": "No significant current conflicts; ongoing environmental concerns focus on preserving native species and managing invasive species.",
   "five_youtube_video_titles": [
-    "Exploring Christmas Island: Australia's Remote Paradise",
-    "The Great Red Crab Migration on Christmas Island",
+    {
+      "title": "Exploring Christmas Island: Australia's Remote Paradise",
+      "video_id": "Rp3cC0HK0cU"
+    },
+    {
+      "title": "The Great Red Crab Migration on Christmas Island",
+      "video_id": "FOrQc3lxiBQ"
+    },
     "Christmas Island National Park Wildlife Tour",
     "Life on Christmas Island: Culture and Community",
     "Conservation Efforts on Christmas Island"

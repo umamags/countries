@@ -111,8 +111,14 @@
   ],
   "current_conflicts": "Tensions persist between pro-independence Kanak groups and those favoring remaining part of France, with ongoing political negotiations and referendums addressing the territory's future status.",
   "five_youtube_video_titles": [
-    "Discover New Caledonia: A Pacific Paradise",
-    "New Caledonia Travel Guide 2023",
+    {
+      "title": "Discover New Caledonia: A Pacific Paradise",
+      "video_id": "NS5QHhQibKM"
+    },
+    {
+      "title": "New Caledonia Travel Guide 2023",
+      "video_id": "7wIsiZ9GWaQ"
+    },
     "Kanak Culture and Traditions in New Caledonia",
     "Top 10 Things to Do in New Caledonia",
     "History and Politics of New Caledonia Explained"

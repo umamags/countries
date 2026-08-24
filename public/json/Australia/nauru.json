@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "Nauru faces environmental challenges due to phosphate mining and economic dependency issues but has no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Nauru: The Smallest Island Nation",
-    "Life and Culture in Nauru",
+    {
+      "title": "Discover Nauru: The Smallest Island Nation",
+      "video_id": "4w0BCdSdacw"
+    },
+    {
+      "title": "Life and Culture in Nauru",
+      "video_id": "7WKEZPF489U"
+    },
     "Nauru's Phosphate Mining History Explained",
     "Travel Guide to Nauru's Beaches and Landmarks",
     "Nauru: Challenges of a Tiny Island Country"

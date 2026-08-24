@@ -88,8 +88,14 @@
   ],
   "current_conflicts": "Niue is currently peaceful with no known internal or external conflicts.",
   "five_youtube_video_titles": [
-    "Discover Niue: The Rock of Polynesia",
-    "Niue Travel Guide - Exploring the Hidden Gem of the Pacific",
+    {
+      "title": "Discover Niue: The Rock of Polynesia",
+      "video_id": "bnXK188V7pM"
+    },
+    {
+      "title": "Niue Travel Guide - Exploring the Hidden Gem of the Pacific",
+      "video_id": "CzJw-EL0cuM"
+    },
     "Niue Island - A Remote Paradise in the South Pacific",
     "Culture and Traditions of Niue",
     "Niue's Natural Wonders and Adventure Activities"

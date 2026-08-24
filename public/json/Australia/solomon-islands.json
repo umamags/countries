@@ -86,8 +86,14 @@
   ],
   "current_conflicts": "The Solomon Islands face challenges related to ethnic tensions, political instability, and economic development, but there are no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discovering the Solomon Islands: Nature and Culture",
-    "Solomon Islands Travel Guide 2023",
+    {
+      "title": "Discovering the Solomon Islands: Nature and Culture",
+      "video_id": "AXLtvpsBg9Q"
+    },
+    {
+      "title": "Solomon Islands Travel Guide 2023",
+      "video_id": "vpmNckcM_y0"
+    },
     "History of the Solomon Islands - World War II Battles",
     "Traditional Life and Customs in the Solomon Islands",
     "Solomon Islands Marine Biodiversity and Conservation"

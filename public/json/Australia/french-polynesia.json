@@ -71,8 +71,14 @@
   ],
   "current_conflicts": "No significant internal or external conflicts reported; political discussions focus on autonomy and independence movements.",
   "five_youtube_video_titles": [
-    "Discovering French Polynesia: Islands of Paradise",
-    "Heiva Festival in Tahiti - Polynesian Culture Celebration",
+    {
+      "title": "Discovering French Polynesia: Islands of Paradise",
+      "video_id": "MJD2NcvYm4U"
+    },
+    {
+      "title": "Heiva Festival in Tahiti - Polynesian Culture Celebration",
+      "video_id": "lMelTnUw9s4"
+    },
     "Bora Bora Travel Guide - French Polynesia",
     "French Polynesia: History and Culture Overview",
     "Top 10 Things to Do in French Polynesia"

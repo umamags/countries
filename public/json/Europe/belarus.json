@@ -112,8 +112,14 @@
   ],
   "current_conflicts": "Belarus is not engaged in active armed conflicts but faces political tensions and international sanctions related to internal governance and human rights issues.",
   "five_youtube_video_titles": [
-    "Discover Belarus: History, Culture, and Landmarks",
-    "Top 10 Places to Visit in Belarus",
+    {
+      "title": "Discover Belarus: History, Culture, and Landmarks",
+      "video_id": "RzpBwiFTVF0"
+    },
+    {
+      "title": "Top 10 Places to Visit in Belarus",
+      "video_id": "yh_M7lsqEqM"
+    },
     "Belarusian Cuisine: Traditional Foods Explained",
     "The Political Landscape of Belarus in 2024",
     "Belovezhskaya Pushcha National Park - Europe's Ancient Forest"

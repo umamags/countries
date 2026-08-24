@@ -74,8 +74,14 @@
   ],
   "current_conflicts": "No significant current conflicts reported.",
   "five_youtube_video_titles": [
-    "Exploring the Remote Cocos (Keeling) Islands",
-    "Life on the Cocos (Keeling) Islands - Australian External Territory",
+    {
+      "title": "Exploring the Remote Cocos (Keeling) Islands",
+      "video_id": "kw7iKEBNhIU"
+    },
+    {
+      "title": "Life on the Cocos (Keeling) Islands - Australian External Territory",
+      "video_id": "kw7iKEBNhIU"
+    },
     "Cocos (Keeling) Islands Travel Guide",
     "The Unique Culture of the Cocos (Keeling) Islands",
     "Wildlife and Nature of the Cocos (Keeling) Islands"

@@ -113,8 +113,14 @@
   ],
   "current_conflicts": "Turkmenistan maintains a policy of neutrality and is not involved in any active conflicts.",
   "five_youtube_video_titles": [
-    "Discover Turkmenistan: The Land of the Eternal Fire",
-    "Turkmenistan Travel Guide: Top Places to Visit",
+    {
+      "title": "Discover Turkmenistan: The Land of the Eternal Fire",
+      "video_id": "cWUoAoeJb08"
+    },
+    {
+      "title": "Turkmenistan Travel Guide: Top Places to Visit",
+      "video_id": "jttRu1fXFB8"
+    },
     "Inside Ashgabat: The Marble City of Turkmenistan",
     "The Burning Gas Crater of Darvaza: Turkmenistan's Door to Hell",
     "Turkmen Culture and Traditions Explained"

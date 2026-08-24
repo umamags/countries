@@ -107,8 +107,14 @@
   ],
   "current_conflicts": "Fiji currently experiences no active armed conflicts but faces challenges related to political stability, climate change impacts, and economic development.",
   "five_youtube_video_titles": [
-    "Discover Fiji: Paradise Islands of the South Pacific",
-    "Fiji Travel Guide - Top Things to Do in Fiji",
+    {
+      "title": "Discover Fiji: Paradise Islands of the South Pacific",
+      "video_id": "WwM11PNX94M"
+    },
+    {
+      "title": "Fiji Travel Guide - Top Things to Do in Fiji",
+      "video_id": "6LIm6psH0m4"
+    },
     "Fijian Culture and Traditions Explained",
     "The History of Fiji: From Colonization to Independence",
     "Fiji Food Tour: Exploring Traditional Fijian Cuisine"

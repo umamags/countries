@@ -95,8 +95,14 @@
   ],
   "current_conflicts": "Bosnia and Herzegovina faces political tensions among its ethnic groups, particularly regarding governance and constitutional reforms, but no active armed conflict.",
   "five_youtube_video_titles": [
-    "Discover Bosnia and Herzegovina: A Journey Through History and Culture",
-    "Top 10 Places to Visit in Bosnia and Herzegovina",
+    {
+      "title": "Discover Bosnia and Herzegovina: A Journey Through History and Culture",
+      "video_id": "WxXmLqPGfgc"
+    },
+    {
+      "title": "Top 10 Places to Visit in Bosnia and Herzegovina",
+      "video_id": "1hqjbypxBPQ"
+    },
     "Bosnia and Herzegovina Travel Guide 2023",
     "The Story of the Stari Most Bridge in Mostar",
     "Bosnian Cuisine: Traditional Dishes You Must Try"

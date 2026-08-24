@@ -123,8 +123,14 @@
   ],
   "current_conflicts": "Austria is not involved in any active military conflicts. It maintains a policy of neutrality.",
   "five_youtube_video_titles": [
-    "Discover Austria: A Journey Through History and Culture",
-    "Top 10 Places to Visit in Austria",
+    {
+      "title": "Discover Austria: A Journey Through History and Culture",
+      "video_id": "EAJ3Dbl3Yss"
+    },
+    {
+      "title": "Top 10 Places to Visit in Austria",
+      "video_id": "FoyD8P-KtuQ"
+    },
     "Austrian Cuisine: Traditional Dishes Explained",
     "The Music of Austria: From Mozart to Modern Times",
     "Austria Travel Guide: What You Need to Know"

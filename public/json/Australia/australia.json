@@ -123,8 +123,14 @@
   ],
   "current_conflicts": "Australia is not involved in any active internal or external armed conflicts but participates in international peacekeeping and military alliances.",
   "five_youtube_video_titles": [
-    "Australia Travel Guide - Top Things to Do & See",
-    "The History of Australia in 10 Minutes",
+    {
+      "title": "Australia Travel Guide - Top Things to Do & See",
+      "video_id": "zsvZX0nZS04"
+    },
+    {
+      "title": "The History of Australia in 10 Minutes",
+      "video_id": "QIDDIDS2Tjk"
+    },
     "Australian Culture Explained",
     "Great Barrier Reef Documentary",
     "Sydney Opera House - Architecture & History"

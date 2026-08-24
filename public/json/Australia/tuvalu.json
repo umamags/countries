@@ -75,8 +75,14 @@
   ],
   "current_conflicts": "Tuvalu faces no active military conflicts but is significantly threatened by climate change and rising sea levels impacting its low-lying islands.",
   "five_youtube_video_titles": [
-    "Discover Tuvalu: The Tiny Island Nation",
-    "Tuvalu Climate Change Impact Documentary",
+    {
+      "title": "Discover Tuvalu: The Tiny Island Nation",
+      "video_id": "pFdgOQRPm4s"
+    },
+    {
+      "title": "Tuvalu Climate Change Impact Documentary",
+      "video_id": "H-ar5drhjzU"
+    },
     "Life in Tuvalu: Culture and Traditions",
     "Tuvalu's Fight Against Rising Sea Levels",
     "Exploring Tuvalu's Marine Biodiversity"

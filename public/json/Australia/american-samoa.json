@@ -75,8 +75,14 @@
   ],
   "current_conflicts": "No significant internal or external conflicts reported.",
   "five_youtube_video_titles": [
-    "Discovering American Samoa: A Tropical Paradise",
-    "American Samoa National Park Tour",
+    {
+      "title": "Discovering American Samoa: A Tropical Paradise",
+      "video_id": "bj2dJwKtiuY"
+    },
+    {
+      "title": "American Samoa National Park Tour",
+      "video_id": "mB4_KRMXLf0"
+    },
     "Cultural Traditions of American Samoa",
     "Life in American Samoa: Island Living",
     "American Samoa History and Facts"

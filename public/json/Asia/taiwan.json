@@ -126,8 +126,14 @@
   ],
   "current_conflicts": "Taiwan faces ongoing political and military tensions with the People's Republic of China, which claims Taiwan as part of its territory. Taiwan maintains de facto independence with its own government and military.",
   "five_youtube_video_titles": [
-    "Taiwan Travel Guide - Top Things to Do in Taiwan",
-    "History of Taiwan Explained",
+    {
+      "title": "Taiwan Travel Guide - Top Things to Do in Taiwan",
+      "video_id": "erWI7QTgSRY"
+    },
+    {
+      "title": "History of Taiwan Explained",
+      "video_id": "TZb_md9u6bk"
+    },
     "Taiwanese Street Food Tour",
     "Understanding Taiwan-China Relations",
     "Taiwan's Culture and Traditions"

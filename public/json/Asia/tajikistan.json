@@ -93,8 +93,14 @@
   ],
   "current_conflicts": "Tajikistan faces occasional border tensions with neighboring Kyrgyzstan and Uzbekistan, but no active large-scale conflicts.",
   "five_youtube_video_titles": [
-    "Discover Tajikistan: The Roof of the World",
-    "Tajikistan Travel Guide - Top Places to Visit",
+    {
+      "title": "Discover Tajikistan: The Roof of the World",
+      "video_id": "HKnxOWrDAFY"
+    },
+    {
+      "title": "Tajikistan Travel Guide - Top Places to Visit",
+      "video_id": "kOk-SZyvw5g"
+    },
     "Culture and Traditions of Tajikistan",
     "Tajikistan's History and People Explained",
     "Exploring the Pamir Mountains in Tajikistan"

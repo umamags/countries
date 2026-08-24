@@ -117,8 +117,14 @@
   ],
   "current_conflicts": "Sri Lanka is currently focused on post-war reconciliation and economic challenges; there are no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Sri Lanka: The Pearl of the Indian Ocean",
-    "Top 10 Places to Visit in Sri Lanka",
+    {
+      "title": "Discover Sri Lanka: The Pearl of the Indian Ocean",
+      "video_id": "loAQkpspZ-o"
+    },
+    {
+      "title": "Top 10 Places to Visit in Sri Lanka",
+      "video_id": "7h4wud3HMZQ"
+    },
     "Sri Lankan Culture and Traditions Explained",
     "Sri Lanka Travel Guide 2024",
     "The History and Heritage of Sri Lanka"

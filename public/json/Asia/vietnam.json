@@ -107,8 +107,14 @@
   ],
   "current_conflicts": "Vietnam maintains stable internal conditions with no active armed conflicts but has ongoing maritime disputes in the South China Sea.",
   "five_youtube_video_titles": [
-    "Vietnam Travel Guide - Top Things to Do in Vietnam",
-    "History of Vietnam - From Ancient Times to Modern Day",
+    {
+      "title": "Vietnam Travel Guide - Top Things to Do in Vietnam",
+      "video_id": "rbNZbC2IqLs"
+    },
+    {
+      "title": "History of Vietnam - From Ancient Times to Modern Day",
+      "video_id": "u8R9MtM42P8"
+    },
     "Vietnamese Cuisine Explained - Traditional Dishes You Must Try",
     "Exploring Ha Long Bay - Natural Wonder of Vietnam",
     "Vietnam War Documentary - Causes and Consequences"

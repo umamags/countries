@@ -75,8 +75,14 @@
   ],
   "current_conflicts": "Samoa is generally peaceful with no significant current conflicts.",
   "five_youtube_video_titles": [
-    "Discover Samoa: A Tropical Paradise in the Pacific",
-    "Samoa Travel Guide: Top Things to See and Do",
+    {
+      "title": "Discover Samoa: A Tropical Paradise in the Pacific",
+      "video_id": "W1Inwzf5sfI"
+    },
+    {
+      "title": "Samoa Travel Guide: Top Things to See and Do",
+      "video_id": "W0tQKUkuwnI"
+    },
     "Samoan Culture and Traditions Explained",
     "Exploring Samoa's Natural Wonders",
     "A Taste of Samoa: Traditional Samoan Food"

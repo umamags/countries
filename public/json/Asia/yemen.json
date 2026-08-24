@@ -119,8 +119,14 @@
   ],
   "current_conflicts": "Yemen is experiencing a complex civil war involving the Houthi movement, the internationally recognized government, southern separatists, and various militant groups, leading to a severe humanitarian crisis.",
   "five_youtube_video_titles": [
-    "Yemen: A Country in Crisis - BBC News",
-    "Exploring the Ancient City of Sana'a, Yemen",
+    {
+      "title": "Yemen: A Country in Crisis - BBC News",
+      "video_id": "1NY51OhGrw0"
+    },
+    {
+      "title": "Exploring the Ancient City of Sana'a, Yemen",
+      "video_id": "3DCnRshO9ms"
+    },
     "The Unique Biodiversity of Socotra Island, Yemen",
     "Yemeni Cuisine: Traditional Dishes and Flavors",
     "Understanding the Yemen Conflict - Al Jazeera Documentary"

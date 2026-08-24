@@ -79,8 +79,14 @@
   ],
   "current_conflicts": "Uzbekistan is generally stable with no active internal or external conflicts, focusing on regional cooperation and economic development.",
   "five_youtube_video_titles": [
-    "Discover Uzbekistan: The Heart of Central Asia",
-    "Top 10 Places to Visit in Uzbekistan",
+    {
+      "title": "Discover Uzbekistan: The Heart of Central Asia",
+      "video_id": "MB2UFDwlBdE"
+    },
+    {
+      "title": "Top 10 Places to Visit in Uzbekistan",
+      "video_id": "SQKLhOEvQjM"
+    },
     "Uzbekistan Travel Guide 2023",
     "The History and Culture of Uzbekistan",
     "Uzbek Cuisine: Traditional Dishes Explained"

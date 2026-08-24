@@ -104,8 +104,14 @@
   ],
   "current_conflicts": "The Cook Islands currently have no significant internal or external conflicts.",
   "five_youtube_video_titles": [
-    "Discovering the Cook Islands: Paradise in the Pacific",
-    "Cook Islands Travel Guide - Top Things to Do",
+    {
+      "title": "Discovering the Cook Islands: Paradise in the Pacific",
+      "video_id": "ktfQi3t_EWg"
+    },
+    {
+      "title": "Cook Islands Travel Guide - Top Things to Do",
+      "video_id": "4g1xmQ1UAtM"
+    },
     "Culture and Traditions of the Cook Islands",
     "Aitutaki Lagoon - The Jewel of the Cook Islands",
     "Cook Islands Food Tour: Traditional Polynesian Cuisine"

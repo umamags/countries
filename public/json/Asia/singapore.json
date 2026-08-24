@@ -126,8 +126,14 @@
   ],
   "current_conflicts": "Singapore maintains a stable political environment with no significant internal or external conflicts.",
   "five_youtube_video_titles": [
-    "Discover Singapore: A City of Innovation and Culture",
-    "Top 10 Things to Do in Singapore",
+    {
+      "title": "Discover Singapore: A City of Innovation and Culture",
+      "video_id": "dcvOAS62e3c"
+    },
+    {
+      "title": "Top 10 Things to Do in Singapore",
+      "video_id": "L8sPZIkKywA"
+    },
     "Singapore Travel Guide 2024",
     "The History of Singapore Explained",
     "Singapore Food Tour: Best Local Dishes"

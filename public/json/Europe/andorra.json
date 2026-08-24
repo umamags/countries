@@ -107,8 +107,14 @@
   ],
   "current_conflicts": "Andorra is not involved in any current conflicts.",
   "five_youtube_video_titles": [
-    "Discovering Andorra: Europe's Hidden Gem",
-    "Top 10 Things to Do in Andorra",
+    {
+      "title": "Discovering Andorra: Europe's Hidden Gem",
+      "video_id": "KoGCCb4-T7I"
+    },
+    {
+      "title": "Top 10 Things to Do in Andorra",
+      "video_id": "t6Du7EZ8160"
+    },
     "Andorra Travel Guide 2023",
     "Andorra: History, Culture, and Nature",
     "Exploring Andorra's Ski Resorts and Mountains"

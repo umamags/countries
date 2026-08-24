@@ -111,8 +111,14 @@
   ],
   "current_conflicts": "Thailand faces ongoing political tensions and occasional protests related to governance and monarchy reforms, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Thailand: Culture, Food & Travel Guide",
-    "Top 10 Places to Visit in Thailand",
+    {
+      "title": "Discover Thailand: Culture, Food & Travel Guide",
+      "video_id": "KK2GOiWTuss"
+    },
+    {
+      "title": "Top 10 Places to Visit in Thailand",
+      "video_id": "ts7c6v2mKBM"
+    },
     "Thai Festivals: Songkran and Loy Krathong Explained",
     "A Day in Bangkok: Exploring Thailand's Capital",
     "Thai Cuisine: Traditional Dishes You Must Try"

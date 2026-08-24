@@ -78,8 +78,14 @@
   ],
   "current_conflicts": "Kiribati faces no active military conflicts but is significantly impacted by climate change, leading to environmental and socio-economic challenges.",
   "five_youtube_video_titles": [
-    "Kiribati: Life on the Frontline of Climate Change",
-    "Exploring Kiribati's Unique Culture and Traditions",
+    {
+      "title": "Kiribati: Life on the Frontline of Climate Change",
+      "video_id": "-hcOurGoXUs"
+    },
+    {
+      "title": "Exploring Kiribati's Unique Culture and Traditions",
+      "video_id": "WZDzVt3XM6g"
+    },
     "The Phoenix Islands Protected Area - Kiribati's Marine Treasure",
     "Battle of Tarawa - World War II History in Kiribati",
     "Kiribati's Struggle Against Rising Sea Levels"

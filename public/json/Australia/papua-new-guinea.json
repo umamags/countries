@@ -111,8 +111,14 @@
   ],
   "current_conflicts": "Papua New Guinea faces internal challenges including tribal conflicts, land disputes, and occasional unrest in the Bougainville region related to autonomy and resource control.",
   "five_youtube_video_titles": [
-    "Discover Papua New Guinea: Culture and Nature",
-    "The Kokoda Track - History and Adventure",
+    {
+      "title": "Discover Papua New Guinea: Culture and Nature",
+      "video_id": "1oEHJ2nGRfk"
+    },
+    {
+      "title": "The Kokoda Track - History and Adventure",
+      "video_id": "aFF6Vb5e7O4"
+    },
     "Papua New Guinea: The Land of a Thousand Cultures",
     "Mount Hagen Cultural Show Highlights",
     "Exploring the Sepik River and its Traditions"

@@ -125,8 +125,14 @@
   ],
   "current_conflicts": "New Zealand currently has no significant internal or external conflicts; it maintains a peaceful foreign policy and active participation in international peacekeeping.",
   "five_youtube_video_titles": [
-    "Discover New Zealand: A Land of Natural Wonders",
-    "New Zealand Travel Guide 2024",
+    {
+      "title": "Discover New Zealand: A Land of Natural Wonders",
+      "video_id": "GOrwaPG_4E8"
+    },
+    {
+      "title": "New Zealand Travel Guide 2024",
+      "video_id": "XCsMvEMX11Y"
+    },
     "The Culture and Traditions of New Zealand",
     "Top 10 Places to Visit in New Zealand",
     "New Zealand History Explained"

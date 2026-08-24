@@ -79,8 +79,14 @@
   ],
   "current_conflicts": "Vanuatu is generally peaceful with no significant internal or external conflicts at present.",
   "five_youtube_video_titles": [
-    "Discover Vanuatu: A Pacific Island Paradise",
-    "Mount Yasur Volcano Eruption - Vanuatu",
+    {
+      "title": "Discover Vanuatu: A Pacific Island Paradise",
+      "video_id": "yE60bU1HJoQ"
+    },
+    {
+      "title": "Mount Yasur Volcano Eruption - Vanuatu",
+      "video_id": "DYsp_bICSew"
+    },
     "Vanuatu Cultural Festival - Naghol Land Diving",
     "Travel Guide to Vanuatu - What to See and Do",
     "Vanuatu History and Culture Explained"
