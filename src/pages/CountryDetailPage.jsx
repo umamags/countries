@@ -7,6 +7,7 @@ import WorldMap from '../components/WorldMap'
 import StateMap from '../components/StateMap'
 import VideoModal from '../components/VideoModal'
 import Breadcrumb from '../components/Breadcrumb'
+import NewsSection from '../components/NewsSection'
 import { slugify } from '../utils/slug'
 
 function Fact({ label, value }) {
@@ -192,6 +193,8 @@ export default function CountryDetailPage() {
           <p>{data.brief_history}</p>
         </section>
       )}
+
+      <NewsSection countryName={data.country} />
 
       <NamedList title="Important People" items={data.important_people} textKey="description" />
 
