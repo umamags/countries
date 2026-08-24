@@ -78,19 +78,39 @@
   "cultural_events": [
     {
       "name": "Durbar Festival",
-      "writeup": "A traditional festival celebrated mainly in Northern Nigeria featuring horse parades, music, and cultural displays."
+      "writeup": "A traditional festival celebrated mainly in Northern Nigeria featuring horse parades, music, and cultural displays.",
+      "wiki": {
+        "extract": "The Durbar festival is an annual cultural, religious and equestrian festival, celebrated as a core part of Hausa culture in Arewa. Durbar has existed for centuries in the Hausa Kingdoms, and is a paramount part of Hausa cultural rites, tradition, and history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Durbar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Durbar_festival"
+      }
     },
     {
       "name": "Eyo Festival",
-      "writeup": "A Lagos-based festival involving masquerades dressed in white, honoring the memory of important Lagos figures."
+      "writeup": "A Lagos-based festival involving masquerades dressed in white, honoring the memory of important Lagos figures.",
+      "wiki": {
+        "extract": "The Eyo Festival, otherwise known as the Adamu Orisha Play, is a Yoruba festival unique to Lagos, Nigeria and has a strong historical footing in Iperu-Remo, a town in Ikenne Local Government, Ogun State. In modern times, it is presented by the people of Lagos as a tourist event. Due to the history of its development, it is traditionally performed on Lagos Island. A notable festival date was in 2000 commemorating Justice G.B.A. Coker, a Lagos high chief, the Olori Adimu and the Olori Eyo of the Adimu Eyo cultural masquerade. Chief Kabiru Adeshina Oshodi, a high chief who is a member of the Eyo Laba is the Heads of all Eyo masquerades in Lagos making him the Olori Eleyo of Lagos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eyo_Olokun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Eyo_festival"
+      }
     },
     {
       "name": "New Yam Festival",
-      "writeup": "An annual celebration by the Igbo people marking the end of the farming season and the harvest of new yams."
+      "writeup": "An annual celebration by the Igbo people marking the end of the farming season and the harvest of new yams.",
+      "wiki": {
+        "extract": "Igbo Yam Festivals refers to the multiple annual cultural festival by the Igbo people, held at the end of the rainy season in early August to mark the first harvest of yams and to offer thanksgiving for a successful agricultural year.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/New_yam_festival_%28iri_ji_%E1%BB%8Dh%E1%BB%A5r%E1%BB%A5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Igbo_Yam_Festivals"
+      }
     },
     {
       "name": "Calabar Carnival",
-      "writeup": "Known as Africa's biggest street party, this December event features music, dance, and cultural exhibitions."
+      "writeup": "Known as Africa's biggest street party, this December event features music, dance, and cultural exhibitions.",
+      "wiki": {
+        "extract": "Calabar Carnival also known as \"Carnival Calabar\" is an annual carnival held in Cross River State, Nigeria. Colloquially entitled Africa's Biggest Street Party, the carnival holds every December and was declared by the then governor of Cross River State, Mr. Donald Duke as an activity to mark Christmas celebration yearly. He said his vision for creating the festival was to make Cross-River a home of tourism and hospitality in Nigeria and Africa. The quality of the festival has grown over the years making it Nigeria's biggest carnival and an internationally recognized festival. It used to be a month-long event that began on the 1st of December, until the former governor of the state, Benedict Ayade reduced it to two weeks after he was elected. During the 2017 carnival, Former governor Benedict Ayade said in his speech that the carnival is to showcase Africa as the richest continent and a blessed place where the young ones should be proud to belong. The carnival has always been entertaining and colourful as different competitions take place and huge cash prizes are won. Calabar which is also known by the name Canaan City, is a city in southern Nigeria. Calabar is actually the capital city of Cross River State. Calabar sits adjacent to the Calabar and Great Kwa Rivers and Falls as well as the creeks of the Cross River. according to Ojoi Ekpenyong, the managing director of the tourism bureau, disclosed that the event hosted over 248,000 visitors.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Carnival_Calabar_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Calabar_Carnival"
+      }
     }
   ],
   "food_writeup": "Nigerian cuisine is diverse and flavorful, featuring staples like jollof rice, pounded yam, egusi soup, suya (spiced grilled meat), and akara (bean cakes). Meals often combine rich spices, vegetables, and proteins reflecting the country's ethnic diversity.",

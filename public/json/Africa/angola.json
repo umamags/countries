@@ -68,11 +68,21 @@
   "cultural_events": [
     {
       "name": "Carnaval de Luanda",
-      "writeup": "An annual vibrant carnival featuring music, dance, and colorful parades reflecting Angolan culture."
+      "writeup": "An annual vibrant carnival featuring music, dance, and colorful parades reflecting Angolan culture.",
+      "wiki": {
+        "extract": "Ilha do Cabo typically known as Ilha de Luanda is a spit off the shore of Luanda, the capital of Angola, a country on the continents' southwestern coast. It consists of a low sandy strip formed by sedimentation. In administrative terms, the peninsula belongs to the municipality of Ingombota in the Luanda Province.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luanda_13.23266E_8.80761S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ilha_de_Luanda"
+      }
     },
     {
       "name": "Festa da Independência",
-      "writeup": "Celebrated on November 11th, marking Angola's independence from Portugal in 1975 with various cultural activities."
+      "writeup": "Celebrated on November 11th, marking Angola's independence from Portugal in 1975 with various cultural activities.",
+      "wiki": {
+        "extract": "The Independence Day of Brazil, commonly called Sete de Setembro, is a national holiday observed in Brazil on 7 September of every year. The date celebrates Brazil's Declaration of Independence from the United Kingdom of Portugal, Brazil and the Algarves on 7 September 1822.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/07_09_2022-_Bicenten%C3%A1rio_da_Independ%C3%AAncia_-_Hamilton_Garcia_%2852467825731%29.jpg/3840px-07_09_2022-_Bicenten%C3%A1rio_da_Independ%C3%AAncia_-_Hamilton_Garcia_%2852467825731%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Brazil)"
+      }
     }
   ],
   "food_writeup": "Angolan cuisine blends African, Portuguese, and Brazilian influences, featuring dishes like funge (a cassava or cornmeal porridge), moamba de galinha (chicken stew with palm oil), and fresh seafood.",

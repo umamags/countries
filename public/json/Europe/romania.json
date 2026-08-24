@@ -67,15 +67,30 @@
   "cultural_events": [
     {
       "name": "George Enescu Festival",
-      "writeup": "Romania's largest classical music festival held in Bucharest, celebrating the works of composer George Enescu."
+      "writeup": "Romania's largest classical music festival held in Bucharest, celebrating the works of composer George Enescu.",
+      "wiki": {
+        "extract": "The George Enescu Festival, held in honor of the celebrated Romanian composer George Enescu, is the biggest classical music festival and classical international competition held in Romania and one of the biggest in Eastern Europe. The festival proposal was authored by Andrei Tudor in 1955. Enescu's close associate George Georgescu organized the first festival in 1958; highlights included a performance of Bach's Concerto for Two Violins with Yehudi Menuhin and David Oistrakh as soloists and a staging of Enescu's sole opera, Œdipe, with Constantin Silvestri conducting.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Logo_for_George_Enescu_Festival.svg/500px-Logo_for_George_Enescu_Festival.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/George_Enescu_Festival"
+      }
     },
     {
       "name": "Untold Festival",
-      "writeup": "One of Europe's biggest electronic music festivals, held annually in Cluj-Napoca."
+      "writeup": "One of Europe's biggest electronic music festivals, held annually in Cluj-Napoca.",
+      "wiki": {
+        "extract": "Untold Festival is the largest electronic music festival held in Romania, taking place in Cluj-Napoca at the Cluj Arena. It is held annually and was designated Best Major Festival at the European Festival Awards 2015. Guests come from a vast range of European countries, as well as Asia and North America. Untold has other versions of the festival specially created for different locations: Neversea, a beach-dedicated festival which takes place in Constanța since 2017; Massif, a mountain-dedicated festival held in Poiana Brașov since 2023; Untold Dubai, an international version of the festival scheduled to take place in Dubai starting in 2024 and Kapital, a festival created for Bucharest, held on Arena Națională since 2025.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/06/Untold_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Untold_Festival"
+      }
     },
     {
       "name": "Sibiu International Theatre Festival",
-      "writeup": "A major performing arts festival attracting international theatre companies."
+      "writeup": "A major performing arts festival attracting international theatre companies.",
+      "wiki": {
+        "extract": "The Sibiu International Theatre Festival is one of the most important theatre and performing arts festivals in the world, and the third biggest, after the Festival d'Avignon and the Edinburgh International Festival. FITS takes place in the city of Sibiu, Romania, in June every year and lasts for ten days. Founded in 1993 by Constantin Chiriac, the festival programme features renowned names of the international stage, offering spectators a broad range of sections, with guests from around 73 countries per edition, performing approximately 550 events.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Sibiu_International_Theatre_Festival"
+      }
     }
   ],
   "food_writeup": "Romanian cuisine features a mix of Balkan, Hungarian, and Turkish influences, with popular dishes like mnmnlign (cornmeal porridge), sarmale (cabbage rolls), and mici (grilled sausages).",

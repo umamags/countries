@@ -81,15 +81,27 @@
   "cultural_events": [
     {
       "name": "Semana Santa (Holy Week)",
-      "writeup": "A major religious festival featuring elaborate processions, traditional carpets made of colored sawdust, and vibrant celebrations."
+      "writeup": "A major religious festival featuring elaborate processions, traditional carpets made of colored sawdust, and vibrant celebrations.",
+      "wiki": {
+        "extract": "Semana Santa is the Spanish for Holy Week, the final week of Lent leading to Easter. In Spanish speaking cultures as well as the Philippines this becomes an annual tribute of the Passion of Jesus Christ celebrated by Catholic religious brotherhoods and confraternities that process on the streets of many Spanish speaking towns and cities during Holy Week. In some parts of Latin America it became part of the acculturation of pre conquest beliefs into Catholic culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Semana_Santa_La_Laguna_52_%28cropped%29.jpg/3840px-Semana_Santa_La_Laguna_52_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Semana_Santa"
+      }
     },
     {
       "name": "Fiesta de Santiago",
-      "writeup": "A traditional festival in the town of Santiago Atitlán with indigenous dances, music, and rituals honoring Saint James."
+      "writeup": "A traditional festival in the town of Santiago Atitlán with indigenous dances, music, and rituals honoring Saint James.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Day of the Dead",
-      "writeup": "A cultural event where families honor deceased loved ones with altars, offerings, and visits to cemeteries."
+      "writeup": "A cultural event where families honor deceased loved ones with altars, offerings, and visits to cemeteries.",
+      "wiki": {
+        "extract": "The Day of the Dead is a holiday traditionally celebrated on November 1 and 2, though other days, such as October 31 or November 6, may be included depending on the locality. The multi-day holiday involves family and friends gathering to pay respects and remember friends and family members who have died. The celebrations can take a humorous tone, as celebrants remember amusing events and anecdotes about the departed. The festival is widely observed in Mexico and among people of Mexican heritage in other parts of the world. It falls during the Christian period of Allhallowtide. Some argue that there are Indigenous Mexican or ancient Aztec influences that account for the custom, though others see it as a local expression of the Allhallowtide season that was brought to the region by the Spanish; the Day of the Dead has become a way to remember those forebears of Mexican culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catrina_3.jpg/3840px-Catrina_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+      }
     }
   ],
   "food_writeup": "Guatemalan cuisine blends indigenous Mayan and Spanish influences, featuring staples like corn, beans, and chili peppers. Popular dishes include tamales, pepian (a spicy meat stew), and kak'ik (a traditional turkey soup).",

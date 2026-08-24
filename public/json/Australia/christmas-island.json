@@ -51,11 +51,21 @@
   "cultural_events": [
     {
       "name": "Red Crab Migration Festival",
-      "writeup": "Celebrates the annual migration of millions of red crabs from the forest to the sea."
+      "writeup": "Celebrates the annual migration of millions of red crabs from the forest to the sea.",
+      "wiki": {
+        "extract": "Crab fisheries are fisheries which capture or farm crabs. True crabs make up 20% of all crustaceans caught and farmed worldwide, with about 1.4 million tonnes being consumed annually. The horse crab, Portunus trituberculatus, accounts for one quarter of that total. Other important species include flower crabs, snow crabs (Chionoecetes), blue crabs, edible or brown crabs, Dungeness crab, and mud crabs, each of which provides more than 20,000 tonnes annually.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/A_Illa_de_Arousa.Galicia.35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Crab_fisheries"
+      }
     },
     {
       "name": "Chinese New Year",
-      "writeup": "Widely celebrated by the local Chinese community with traditional festivities."
+      "writeup": "Widely celebrated by the local Chinese community with traditional festivities.",
+      "wiki": {
+        "extract": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture. Marking the end of winter and the beginning of spring, this festival takes place from Chinese New Year's Eve to the Lantern Festival, held on the 15th day of the year. The first day of the Chinese New Year falls on the new moon that appears between 21 January and 20 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      }
     }
   ],
   "food_writeup": "Christmas Island cuisine reflects its multicultural population, featuring seafood, Malay, Chinese, and Western influences with dishes often incorporating fresh local ingredients like coconut and tropical fruits.",

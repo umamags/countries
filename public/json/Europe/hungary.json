@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Budapest Spring Festival",
-      "writeup": "An annual cultural festival showcasing classical music, opera, and dance performances."
+      "writeup": "An annual cultural festival showcasing classical music, opera, and dance performances.",
+      "wiki": {
+        "extract": "Budapest Spring Festival is the major arts festival of Budapest, Hungary, sponsored by the city government.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Budapesti_Tavaszi_Fesztiv%C3%A1l%2C_V%C3%B6r%C3%B6smarty_t%C3%A9r_%283%29.JPG/3840px-Budapesti_Tavaszi_Fesztiv%C3%A1l%2C_V%C3%B6r%C3%B6smarty_t%C3%A9r_%283%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Budapest_Spring_Festival"
+      }
     },
     {
       "name": "Busójárás",
-      "writeup": "A traditional carnival held in Mohács featuring masked celebrations to scare away winter."
+      "writeup": "A traditional carnival held in Mohács featuring masked celebrations to scare away winter.",
+      "wiki": {
+        "extract": "The busójárás is an annual celebration of the Šokci living in the town of Mohács, Hungary, held at the end of the Carnival season (\"farsang\"), ending the day before Ash Wednesday. The celebration features Busós and includes folk music, masquerading, parades and dancing. Busójárás lasts six days, usually during February. It starts on a Thursday, followed by the Kisfarsang carnival on Friday, with the biggest celebration, farsang vasárnap on the Sunday before Easter Sunday; the celebration then ends with farsangtemetés on the following Tuesday. These traditional festivities have been inscribed on the Representative List of the Intangible Cultural Heritage of Humanity of the UNESCO in 2009.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Busojaras-Buso_and_Son.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bus%C3%B3j%C3%A1r%C3%A1s"
+      }
     },
     {
       "name": "Sziget Festival",
-      "writeup": "One of Europe's largest music and cultural festivals held on Óbuda Island in Budapest."
+      "writeup": "One of Europe's largest music and cultural festivals held on Óbuda Island in Budapest.",
+      "wiki": {
+        "extract": "Sziget Festival is one of the largest music and cultural festivals in Europe. It is held every August in northern Budapest, Hungary, on Óbudai-sziget, a leafy 108-hectare (266-acre) island on the Danube. More than 1,000 performances take place each year.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sziget_2024_main_stage_day_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sziget_Festival"
+      }
     }
   ],
   "food_writeup": "Hungarian cuisine is known for its rich flavors and use of paprika, featuring dishes like goulash, langos, and chimney cake.",

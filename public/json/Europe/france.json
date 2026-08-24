@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Bastille Day",
-      "writeup": "National day on July 14th commemorating the French Revolution with parades and fireworks."
+      "writeup": "National day on July 14th commemorating the French Revolution with parades and fireworks.",
+      "wiki": {
+        "extract": "Bastille Day is the common name given in English-speaking countries to the national day of France, which is celebrated on 14 July each year. It is referred to, both legally and commonly, as le 14 juillet in French, though la fête nationale is also used in the press.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Feu_d%27artifice_du_14_juillet_2017_depuis_le_champ_de_Mars_%C3%A0_Paris%2C_devant_la_Tour_Eiffel%2C_Bastille_day_2017_%2835118978683%29.jpg/3840px-Feu_d%27artifice_du_14_juillet_2017_depuis_le_champ_de_Mars_%C3%A0_Paris%2C_devant_la_Tour_Eiffel%2C_Bastille_day_2017_%2835118978683%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bastille_Day"
+      }
     },
     {
       "name": "Cannes Film Festival",
-      "writeup": "An internationally acclaimed film festival showcasing new films from around the world."
+      "writeup": "An internationally acclaimed film festival showcasing new films from around the world.",
+      "wiki": {
+        "extract": "The Cannes Film Festival is considered the most prestigious film festival in the world. Held in Cannes, France, it previews new films of all genres, including documentaries. Founded in 1946, the invitation-only festival is held annually at the Palais des Festivals et des Congrès. The festival was formally accredited by the FIAPF in 1951. Cannes is considered one of the \"Big Three\" European film festivals, alongside Venice and Berlin, as well as one of the \"Big Five\" international film festivals, alongside Venice, Berlin, Toronto and Sundance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Patchwork-Cannes-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Cannes_Film_Festival"
+      }
     },
     {
       "name": "Tour de France",
-      "writeup": "The world's most famous cycling race held annually across various regions of France."
+      "writeup": "The world's most famous cycling race held annually across various regions of France.",
+      "wiki": {
+        "extract": "The Tour de France is an annual men's multiple-stage road cycling race held primarily in France. It is the oldest and most prestigious of the three Grand Tours, which include the Giro d'Italia and the Vuelta a España.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tour_de_France_logo_%28black_background%29.svg/120px-Tour_de_France_logo_%28black_background%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tour_de_France"
+      }
     },
     {
       "name": "Nice Carnival",
-      "writeup": "A vibrant winter festival featuring parades, floats, and street performances."
+      "writeup": "A vibrant winter festival featuring parades, floats, and street performances.",
+      "wiki": {
+        "extract": "The Nice Carnival is one of the world's major carnival events, alongside the Brazilian Carnival, Venetian Carnival, and Mardi Gras in New Orleans. It is held annually in February and sometimes early March in Nice on the French Riviera.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Floats_at_the_2010_Nice_carnaval.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Nice_Carnival"
+      }
     },
     {
       "name": "Fête de la Musique",
-      "writeup": "A nationwide music celebration held on June 21st promoting live music in public spaces."
+      "writeup": "A nationwide music celebration held on June 21st promoting live music in public spaces.",
+      "wiki": {
+        "extract": "The Fête de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Raga_du_soir_au_Coll%C3%A8ge_des_Bernardins_%284730079050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique"
+      }
     }
   ],
   "food_writeup": "French cuisine is renowned for its diversity and quality, featuring dishes like baguettes, cheese, wine, croissants, coq au vin, and ratatouille. It emphasizes fresh ingredients, regional specialties, and culinary techniques that have influenced global gastronomy.",

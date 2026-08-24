@@ -69,11 +69,21 @@
   "cultural_events": [
     {
       "name": "Fang Festival",
-      "writeup": "A traditional festival celebrating the Fang ethnic group's culture with music, dance, and rituals."
+      "writeup": "A traditional festival celebrating the Fang ethnic group's culture with music, dance, and rituals.",
+      "wiki": {
+        "extract": "White Fang is a 2018 animated film directed by Alexandre Espigares. Based on the 1906 book White Fang by Jack London, the film features the voices of Nick Offerman, Rashida Jones, Paul Giamatti, and Eddie Spears as natives of Alaska who, at different times, come to know White Fang, a free spirited and at times violent wolfdog who eventually bonds with Offerman's character, a gentle master named Weedon Scott. The film also features Dave Boat, Daniel Hagen, and Stephen Kramer Glickman in the original English version, and Virginie Efira, Raphaël Personnaz, and Dominique Pinon in the French dub.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/WhiteFang%282018film%29Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/White_Fang_(2018_film)"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on October 12, marking the country's independence from Spain in 1968 with parades and cultural displays."
+      "writeup": "Celebrated on October 12, marking the country's independence from Spain in 1968 with parades and cultural displays.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     }
   ],
   "food_writeup": "Equatorial Guinean cuisine features staples like cassava, plantains, and yams, often accompanied by fish, chicken, and spicy sauces influenced by Spanish and indigenous flavors.",

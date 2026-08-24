@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Nowruz",
-      "writeup": "Persian New Year celebrated at the spring equinox with family gatherings and traditional rituals."
+      "writeup": "Persian New Year celebrated at the spring equinox with family gatherings and traditional rituals.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Yalda Night",
-      "writeup": "Winter solstice celebration marking the longest night of the year with poetry and fruit."
+      "writeup": "Winter solstice celebration marking the longest night of the year with poetry and fruit.",
+      "wiki": {
+        "extract": "Yaldā Night or Chelle Night is an ancient festival in Iran, Kurdistan, Uzbekistan, Tajikistan, Afghanistan, Azerbaijan and Turkmenistan that is celebrated on the winter solstice of the Northern Hemisphere. This corresponds to the night of December 21 in the Gregorian calendar, and to the night between the last day of the ninth month (Azar) and the first day of the tenth month (Dey) of the Iranian solar calendar. The longest and darkest night of the year is a time when friends and family gather together to eat, drink and read poetry and Shahnameh until well after midnight. Fruits and nuts are eaten and pomegranates and watermelons are particularly significant. The red colour in these fruits symbolizes the crimson hues of dawn and the glow of life. The poems of Divan-e Hafez, which can be found in the bookcases of most Iranian families, are read or recited on various occasions such as this festival and Nowruz. According to Iranian researcher Zana Salehrad, the continued celebration of Yalda Night in Iranian-speaking cultures can be seen as a sign of the continuity of cultural memory and the adaptation of ancient traditions to new social structures. In his research, he points out that the celebration has its roots in solar rituals that were held in pre-Zoroastrian times to celebrate the rebirth of the sun on the longest night of the year. Shab-e Yalda was officially added to UNESCO Intangible Cultural Heritage Lists in December 2022.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/L04vb2pizbcs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Yalda_Night"
+      }
     },
     {
       "name": "Chaharshanbe Suri",
-      "writeup": "Festival of fire held on the eve of the last Wednesday before Nowruz to ward off evil spirits."
+      "writeup": "Festival of fire held on the eve of the last Wednesday before Nowruz to ward off evil spirits.",
+      "wiki": {
+        "extract": "Chaharshanbeh Suri or Charshanbeh Suri or Chahar-shanbe suri, is an Iranian festival of the fire dance celebrated on the eve of the last Wednesday of the year, of ancient Zoroastrian origin. Since the event takes place in the final week of the year, it can also be regarded as a prelude to the New Year celebration of Nowruz.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fire-festival-in-Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chaharshanbe_Suri"
+      }
     }
   ],
   "food_writeup": "Iranian cuisine features rice dishes like chelow kabab, stews such as ghormeh sabzi, and a variety of herbs, nuts, and fruits, reflecting regional diversity and rich culinary traditions.",

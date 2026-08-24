@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Thingyan Water Festival",
-      "writeup": "The Burmese New Year celebration involving water throwing to wash away sins and bad luck."
+      "writeup": "The Burmese New Year celebration involving water throwing to wash away sins and bad luck.",
+      "wiki": {
+        "extract": "Thingyan (သင်္ကြန်), also known as the Myanmar New Year, is a festival that usually occurs in the middle of April. Thingyan marks the transition from the old year to the new one, based on the traditional Myanmar lunisolar calendar. The festival usually spans four to five days, culminating in New Year’s Day, and is one of the most anticipated public holidays across the country. The highlight of the celebration is the symbolic throwing of water, representing the washing away of sins and bad luck from the previous year. People engage in water fights using buckets and water guns, especially during the first four days. Streets become lively with music, dance troupes, and temporary stages called pandal (မဏ္ဍပ်,mandat).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bagan_era_painting_of_Thingyan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Thingyan"
+      }
     },
     {
       "name": "Thadingyut Festival",
-      "writeup": "The Festival of Lights marking the end of Buddhist Lent with illuminated decorations and offerings."
+      "writeup": "The Festival of Lights marking the end of Buddhist Lent with illuminated decorations and offerings.",
+      "wiki": {
+        "extract": "The Thadingyut Festival, also known as the Lighting Festival of Myanmar, is held on the full moon day of the Burmese lunar month of Thadingyut. As a custom, it is held at the end of the Buddhist Rains Retreat (Vassa) and is the second most popular festival in Myanmar after Thingyan Festival. Thadingyut festival is the celebration to welcome the Buddha’s descent from the heaven after he preached the Abhidhamma to his mother, Maya, who was reborn in the heaven. Thadingyut is a traditional festival, which Burmese people celebrate every year.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lighting_Festival.jpg/3840px-Lighting_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Thadingyut_Festival"
+      }
     }
   ],
   "food_writeup": "Myanmar cuisine features a blend of flavors influenced by Chinese, Indian, and Thai cuisines, with staples like mohinga (fish noodle soup), laphet (fermented tea leaf salad), and various curries.",

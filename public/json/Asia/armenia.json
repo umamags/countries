@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Vardavar",
-      "writeup": "An ancient Armenian festival where people splash water on each other, celebrated in summer with roots in pagan traditions."
+      "writeup": "An ancient Armenian festival where people splash water on each other, celebrated in summer with roots in pagan traditions.",
+      "wiki": {
+        "extract": "Vardavar or Vartavar is a festival in Armenia where people drench each other with water. It is included in the intangible cultural heritage list of Armenia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Vardavar_011_Vartavar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vardavar"
+      }
     },
     {
       "name": "Armenian Genocide Remembrance Day",
-      "writeup": "Observed on April 24 to commemorate the victims of the 1915 Armenian Genocide."
+      "writeup": "Observed on April 24 to commemorate the victims of the 1915 Armenian Genocide.",
+      "wiki": {
+        "extract": "Armenian Genocide Remembrance Day, also known as Armenian Genocide Memorial Day, is a public holiday in Armenia and the former Republic of Artsakh and is observed by the Armenian diaspora on 24 April. It is held annually to commemorate the victims of the Armenian genocide of 1915, a series of massacres and starvation of 1.5 million Armenians by the Ottomans. In Yerevan, the capital of Armenia, hundreds of thousands of people walk to the Tsitsernakaberd Genocide Memorial to lay flowers at the eternal flame. This day is also called \"Armenian Martyrs Day\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tsitsernakaberd24.04.2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Armenian_Genocide_Remembrance_Day"
+      }
     },
     {
       "name": "Yerevan Wine Days",
-      "writeup": "An annual festival celebrating Armenia's ancient winemaking heritage with tastings and cultural events."
+      "writeup": "An annual festival celebrating Armenia's ancient winemaking heritage with tastings and cultural events.",
+      "wiki": {
+        "extract": "Yerevan Wine Days is an annual international street festival in Yerevan, Armenia dedicated to winemaking. The festival was launched in 2017 and is organized by the EventToura Company. It takes place every year on the first Friday, Saturday, and Sunday of June, on Yerevan's central streets — Saryan, Tumanyan, and Moskovyan. In 2026, the event will be held from June 5 to 7.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DreamShots_YWD25_D1_PH6_%28353%29.jpg/3840px-DreamShots_YWD25_D1_PH6_%28353%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Yerevan_Wine_Days"
+      }
     }
   ],
   "food_writeup": "Armenian cuisine features rich flavors with staples like lavash bread, khorovats (barbecue), dolma (stuffed grape leaves), and a variety of fresh herbs, nuts, and dried fruits reflecting its agricultural heritage.",

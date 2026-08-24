@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Guam Liberation Day",
-      "writeup": "Annual celebration on July 21 commemorating the liberation of Guam from Japanese occupation in 1944."
+      "writeup": "Annual celebration on July 21 commemorating the liberation of Guam from Japanese occupation in 1944.",
+      "wiki": {
+        "extract": "Liberation Day on the U.S. territory of Guam is an annual commemoration of the invasion by U.S. military forces on July 21, 1944, which ended the Japanese occupation that had begun in 1941. Begun in 1945, it is Guam's largest celebration. Festivities include a queen contest, summer carnival, fireworks display, and mile-long parade on Marine Corps Drive in Hagåtña from Adelup to Paseo de Susana, as well as solemn memorials and visits to massacre sites. It is organized by the Guam Island Fair Committee.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guam_Liberation_Day_2019_%28190721-F-XT896-1013%29_%28cropped%29.jpg/3840px-Guam_Liberation_Day_2019_%28190721-F-XT896-1013%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Liberation_Day_(Guam)"
+      }
     },
     {
       "name": "Chamorro Month",
-      "writeup": "Observed in March, this month celebrates Chamorro culture through festivals, dances, and traditional crafts."
+      "writeup": "Observed in March, this month celebrates Chamorro culture through festivals, dances, and traditional crafts.",
+      "wiki": {
+        "extract": "Chamorro is an Austronesian language spoken by about 58,000 people, numbering about 25,800 on Guam and about 32,200 in the Northern Mariana Islands and elsewhere.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mariana_Islands.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chamorro_language"
+      }
     }
   ],
   "food_writeup": "Guam's cuisine is a blend of indigenous Chamorro flavors with influences from Spanish, Filipino, and American cooking, featuring dishes like red rice, kelaguen, and barbequed meats.",

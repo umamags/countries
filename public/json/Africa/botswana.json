@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Dithubaruba Cultural Festival",
-      "writeup": "An annual event celebrating Tswana culture through traditional music, dance, and storytelling."
+      "writeup": "An annual event celebrating Tswana culture through traditional music, dance, and storytelling.",
+      "wiki": {
+        "extract": "The Dithubaruba Cultural Festival is one of the national events celebrated in Botswana and is also marked in the Botswana Calendar of Events. It aims to promote Kweneng cultural heritage and create leisure time for the community.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_dances_giving_it_all_in_the_stadium.jpg/3840px-The_dances_giving_it_all_in_the_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Dithubaruba_Cultural_Festival"
+      }
     },
     {
       "name": "Maun International Arts Festival",
-      "writeup": "Showcases local and regional arts, including music, dance, and theater performances."
+      "writeup": "Showcases local and regional arts, including music, dance, and theater performances.",
+      "wiki": {
+        "extract": "This page lists film festivals in Africa in addition to film festivals devoted to African film held outside the continent.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_African_film_festivals"
+      }
     }
   ],
   "food_writeup": "Botswana's cuisine features staple foods like sorghum and maize, with traditional dishes such as seswaa (slow-cooked shredded beef) and bogobe (millet porridge).",

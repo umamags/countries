@@ -66,11 +66,21 @@
   "cultural_events": [
     {
       "name": "Mwaka Kogwa",
-      "writeup": "A traditional Shirazi New Year celebration involving rituals and mock fights in Zanzibar."
+      "writeup": "A traditional Shirazi New Year celebration involving rituals and mock fights in Zanzibar.",
+      "wiki": {
+        "extract": "Makunduchi is a historic town and district capital in the Kusini District of the Unguja South Region in Tanzania. It is located inside the Kajengwa ward, and Mtegani ward, occupying Kiongoni neighborhood, Nganani neighborhood and Kijini neighborhood. The town comprises two distinct settlements, about 2 km from each other, \"Old Makunduchi\" on the east and \"New Makunduchi\". Old Makunduchi is a small fishermen's village on the shore of the Indian Ocean with the Nganani mtaa (neighborhood), while New Makunduchi has some modern buildings, shops, as well as some blocks of flats that were built in the 1970s with the aid of East Germans in return for Tanzanian political support internationally. The town is also the birthplace and resting place for the 4th president of Zanzibar Idris Abdul Wakil. Makunduchi is also the birthplace of Samia Suluhu Hassan, the president of Tanzania. Other famous politicians for Makunduchi include Mohamed Gharib Bilal. Also famous novelist Muhammed Said Abdulla.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Makunduchi_%2CZanzibar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Makunduchi"
+      }
     },
     {
       "name": "Sauti za Busara",
-      "writeup": "An annual music festival in Zanzibar showcasing East African music and culture."
+      "writeup": "An annual music festival in Zanzibar showcasing East African music and culture.",
+      "wiki": {
+        "extract": "Sauti za Busara is an African music festival, held every year in February in Zanzibar, Tanzania. It is centred in the Old Fort, with fringe events taking place at the same time around Stone Town - including a carnival street parade (Beni).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Zanzibar_concert_480_eng_11feb12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sauti_za_Busara"
+      }
     }
   ],
   "food_writeup": "Tanzanian cuisine features staples like ugali (maize porridge), nyama choma (grilled meat), and dishes flavored with coconut milk and spices, reflecting coastal and inland influences.",

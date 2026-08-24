@@ -63,11 +63,21 @@
   "cultural_events": [
     {
       "name": "Niue National Day",
-      "writeup": "Celebrated on October 19th, marking Niue's self-governing status in free association with New Zealand."
+      "writeup": "Celebrated on October 19th, marking Niue's self-governing status in free association with New Zealand.",
+      "wiki": {
+        "extract": "Niue is a self-governing island country in free association with New Zealand. It is situated in the South Pacific Ocean, is part of Polynesia, and is predominantly inhabited by Polynesians. As one of the world's largest coral islands, Niue is nicknamed \"The Rock\", which comes from the traditional name \"Rock of Polynesia\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/960px-Flag_of_Niue.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Niue"
+      }
     },
     {
       "name": "Village Fiafia Nights",
-      "writeup": "Weekly cultural events featuring traditional music, dance, and food."
+      "writeup": "Weekly cultural events featuring traditional music, dance, and food.",
+      "wiki": {
+        "extract": "Tafuna is a village in Tualauta County, Western District, American Samoa. It is the most populous village in American Samoa, with a population of 7,988 according to the 2020 U.S. census.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pago_Pago_International_Airport_from_A%27oloau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tafuna%2C_American_Samoa"
+      }
     }
   ],
   "food_writeup": "Niuean cuisine features seafood, taro, coconut, and tropical fruits, with traditional dishes like 'umu' (earth oven cooked food) being central to local meals.",

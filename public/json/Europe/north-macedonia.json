@@ -76,15 +76,27 @@
   "cultural_events": [
     {
       "name": "Ohrid Summer Festival",
-      "writeup": "Annual cultural festival featuring music, theater, and dance performances in the historic town of Ohrid."
+      "writeup": "Annual cultural festival featuring music, theater, and dance performances in the historic town of Ohrid.",
+      "wiki": {
+        "extract": "The Ohrid Summer Festival is a festival founded on 4 August 1961, always taking place between 12 July and 20 August in the city of Ohrid, North Macedonia. Originally, the event was initiated and it played an important role in efforts of the Socialist Republic of Macedonia to emancipate and promote Macedonian culture in SFR Yugoslavia and abroad after decades of underfunding, neglect by states that encompassed Macedonia or outright suppression.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Ohrid_Summer_Festival"
+      }
     },
     {
       "name": "Skopje Jazz Festival",
-      "writeup": "International jazz festival attracting artists from around the world."
+      "writeup": "International jazz festival attracting artists from around the world.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Vevchani Carnival",
-      "writeup": "Traditional pre-Lenten carnival known for its colorful masks and costumes."
+      "writeup": "Traditional pre-Lenten carnival known for its colorful masks and costumes.",
+      "wiki": {
+        "extract": "Vevčani is a village in North Macedonia. It is the only settlement and seat of Vevčani Municipality.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Vevcani-panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vev%C4%8Dani"
+      }
     }
   ],
   "food_writeup": "North Macedonian cuisine blends Mediterranean and Balkan influences, featuring dishes like tavne gravne (baked beans), ajvar (pepper spread), and various grilled meats.",

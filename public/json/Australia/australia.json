@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Australia Day",
-      "writeup": "National day celebrated on January 26, marking the arrival of the First Fleet in 1788."
+      "writeup": "National day celebrated on January 26, marking the arrival of the First Fleet in 1788.",
+      "wiki": {
+        "extract": "Australia Day is the official national day of Australia. Observed annually on 26 January, it marks the 1788 landing of the First Fleet and raising of the Union Flag of Great Britain by Arthur Phillip at Sydney Cove, a small bay on the southern shore of Sydney Harbour. The day is promoted by the Australia Day Council, an independent government owned company. Events are run to recognise the contributions of Australians to the nation, while also encouraging reflection on the country's history and reconciliation with Indigenous Australians, and respecting the diversity and achievements of Australian society. The presentation of community awards and citizenship ceremonies are also commonly held on the day. The holiday is marked by the presentation of the Australian of the Year Awards on Australia Day Eve, announcement of the Australia Day Honours list and addresses from the governor-general and prime minister. It is an official public holiday in every state and territory. With community festivals, concerts and citizenship ceremonies, the day is celebrated in large and small communities and cities around the nation. Australia Day has become the biggest annual civic event in Australia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Overexposed%5E_%28Australia_Day_2014%29_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Australia_Day"
+      }
     },
     {
       "name": "Melbourne Cup",
-      "writeup": "Annual horse racing event known as 'the race that stops a nation,' held in November."
+      "writeup": "Annual horse racing event known as 'the race that stops a nation,' held in November.",
+      "wiki": {
+        "extract": "The Melbourne Cup is an annual Group 1 Thoroughbred horse race held in Melbourne, Australia, at the Flemington Racecourse. It is a 3200-metre race for three-year-olds and older, conducted by the Victoria Racing Club that forms part of the Melbourne Spring Racing Carnival. It is the richest two-mile handicap in the world and one of the richest turf races. The event starts at 3:00 pm on the first Tuesday of November and is known locally as \"the race that stops the nation\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/2013_Melbourne_Cup_%2810705853945%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Melbourne_Cup"
+      }
     },
     {
       "name": "NAIDOC Week",
-      "writeup": "Celebration of the history, culture, and achievements of Aboriginal and Torres Strait Islander peoples."
+      "writeup": "Celebration of the history, culture, and achievements of Aboriginal and Torres Strait Islander peoples.",
+      "wiki": {
+        "extract": "NAIDOC Week is an Australian observance lasting from the first Sunday in July until the following Sunday, The acronym NAIDOC stands for National Aborigines and Islanders Day Observance Committee. NAIDOC Week has its roots in the 1938 Day of Mourning, becoming a week-long event in 1975.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/NAIDOC_Week"
+      }
     },
     {
       "name": "Sydney Festival",
-      "writeup": "A major arts festival featuring music, theater, and visual arts each January."
+      "writeup": "A major arts festival featuring music, theater, and visual arts each January.",
+      "wiki": {
+        "extract": "Sydney Festival is a major arts festival in Australia's largest city, Sydney, that runs for three weeks every January since it was established in 1977. The festival program features over 100 events from local and international artists and includes contemporary and classical music, dance, circus, drama, visual arts and artist talks. The festival attracts approximately 500,000 people to its large-scale free outdoor events and 150,000 to its ticketed events and contributes more than A$55 million to the economy of New South Wales.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Symphony_in_the_Domain_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sydney_Festival"
+      }
     },
     {
       "name": "Vivid Sydney",
-      "writeup": "An annual festival of light, music, and ideas held in Sydney."
+      "writeup": "An annual festival of light, music, and ideas held in Sydney.",
+      "wiki": {
+        "extract": "Vivid Sydney is an annual festival held in Sydney, New South Wales, Australia. It includes outdoor immersive light installations and projections, performances by local and international musicians, and an ideas exchange forum featuring public talks and debates with leading creative thinkers.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vivid_Sydney_2024_-_Bright_Lights_Big_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vivid_Sydney"
+      }
     }
   ],
   "food_writeup": "Australian cuisine is diverse, blending Indigenous ingredients like bush tomatoes and wattleseed with British and multicultural influences, featuring dishes such as meat pies, Vegemite, and seafood.",

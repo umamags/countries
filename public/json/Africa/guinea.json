@@ -55,11 +55,21 @@
   "cultural_events": [
     {
       "name": "Fête de la Tabaski",
-      "writeup": "An important Muslim festival celebrated with prayers, feasting, and community gatherings."
+      "writeup": "An important Muslim festival celebrated with prayers, feasting, and community gatherings.",
+      "wiki": {
+        "extract": "La Ruche was an artist's residence in the Montparnasse district of Paris. It now hosts around fifty artists and stages art exhibitions open to the public.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/La-ruche-montparnasse-paris-1918-amedeo-modigliani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/La_Ruche_(residence)"
+      }
     },
     {
       "name": "Guinea Independence Day",
-      "writeup": "Celebrated on October 2nd, marking Guinea's independence from France in 1958 with parades and cultural performances."
+      "writeup": "Celebrated on October 2nd, marking Guinea's independence from France in 1958 with parades and cultural performances.",
+      "wiki": {
+        "extract": "An Independence Day is an annual event commemorating the anniversary of a nation's independence or statehood, usually after ceasing to be a group or part of another nation or state, or after the end of a military occupation, or after a major change in government. Many countries commemorate their independence from a colonial empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/National_Days_map.svg/960px-National_Days_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_independence_days"
+      }
     }
   ],
   "food_writeup": "Guinean cuisine features staple foods like rice, millet, and cassava, often served with sauces made from peanuts, palm oil, and local vegetables. Popular dishes include 'Poulet Yassa' and 'Fufu'.",

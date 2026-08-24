@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Fête des Masques (Festival of Masks)",
-      "writeup": "A traditional festival celebrating the cultural heritage of various ethnic groups through masked dances and rituals."
+      "writeup": "A traditional festival celebrating the cultural heritage of various ethnic groups through masked dances and rituals.",
+      "wiki": {
+        "extract": "Slipknot is an American heavy metal band formed in Des Moines, Iowa, in 1995 by percussionist Shawn Crahan, vocalist Anders Colsefni and bassist Paul Gray. After several lineup changes in its early years, the band settled on nine members from 1999 until Gray's death in 2010: Crahan, Gray, Joey Jordison, Craig Jones, Mick Thomson, Corey Taylor, Sid Wilson, Chris Fehn, and Jim Root. Slipknot is well known for its attention-grabbing image, aggressive style of music, and energetic and chaotic live shows.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Slipknot_performing_live_in_the_O2_Arena_on_December_21%2C_2024_-_Pic_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Slipknot_(band)"
+      }
     },
     {
       "name": "Yam Festival",
-      "writeup": "An annual celebration marking the yam harvest, important in many Ivorian communities."
+      "writeup": "An annual celebration marking the yam harvest, important in many Ivorian communities.",
+      "wiki": {
+        "extract": "Igbo Yam Festivals refers to the multiple annual cultural festival by the Igbo people, held at the end of the rainy season in early August to mark the first harvest of yams and to offer thanksgiving for a successful agricultural year.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/New_yam_festival_%28iri_ji_%E1%BB%8Dh%E1%BB%A5r%E1%BB%A5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Igbo_Yam_Festivals"
+      }
     }
   ],
   "food_writeup": "Ivorian cuisine features staples like cassava, plantains, and rice, with popular dishes including attiéké (fermented cassava couscous) and kedjenou (slow-cooked chicken stew).",

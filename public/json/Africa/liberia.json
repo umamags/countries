@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Liberian Independence Day",
-      "writeup": "Celebrated on July 26th, marking Liberia's independence from the American Colonization Society in 1847."
+      "writeup": "Celebrated on July 26th, marking Liberia's independence from the American Colonization Society in 1847.",
+      "wiki": {
+        "extract": "The Liberian Declaration of Independence is a document adopted by the Liberian Constitutional Convention on 26 July 1847, to announce that the Commonwealth of Liberia, a colony founded and controlled by the private American Colonization Society, was an independent state known as the Republic of Liberia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Liberian_Declaration_of_Independence"
+      }
     },
     {
       "name": "Poro and Sande Societies Festivals",
-      "writeup": "Traditional secret society ceremonies important in Liberian cultural and social life."
+      "writeup": "Traditional secret society ceremonies important in Liberian cultural and social life.",
+      "wiki": {
+        "extract": "Traditional African masks are worn in ceremonies and rituals across West, Central, and Southern Africa. They are used in events such as harvest celebrations, funerals, rites of passage, weddings and coronations. Some societies also use masks to resolve disputes and conflicts",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Brooklyn_Museum_69.39.2_Helmet_Mask_ndoli_jowei_for_Sande_Society_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Traditional_African_masks"
+      }
     }
   ],
   "food_writeup": "Liberian cuisine features rice as a staple, often served with soups and stews made from cassava, palm nuts, fish, and meat, reflecting indigenous and West African influences.",

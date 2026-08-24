@@ -54,11 +54,21 @@
   "cultural_events": [
     {
       "name": "Naghol (Land Diving)",
-      "writeup": "A traditional ritual on Pentecost Island where men jump from tall wooden towers with vines tied to their ankles."
+      "writeup": "A traditional ritual on Pentecost Island where men jump from tall wooden towers with vines tied to their ankles.",
+      "wiki": {
+        "extract": "Land diving is a ritual performed by the men of the southern part of Pentecost Island, Vanuatu. Men jump off wooden towers around 20 to 30 meters high, with two tree vines wrapped around the ankles. The tradition has developed into a tourist attraction. According to the Guinness World Records, the g-force experienced by those at their lowest point in the dive is the greatest experienced in the non-industrialized world by humans.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Landdiving1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Land_diving"
+      }
     },
     {
       "name": "Fest'Napuan",
-      "writeup": "An annual music and cultural festival in Port Vila celebrating Vanuatu's diverse cultures and arts."
+      "writeup": "An annual music and cultural festival in Port Vila celebrating Vanuatu's diverse cultures and arts.",
+      "wiki": {
+        "extract": "Not Drowning, Waving are a musical group formed in Melbourne, Australia, in 1983 by David Bridie and John Phillips. Their music combines elements of rock, ambient music and world music; their lyrics deal with characteristically Australian topics: word-pictures of landscapes and people, the seasons, and some political issues – such as Indonesia's invasion of East Timor. The group have released six studio albums and two soundtracks before disbanding in 1994. They have briefly reformed in 2001, 2003, 2005–2006 and 2025–present. From 2005 to 2007, they issued three compilation albums. Not Drowning, Waving won the ARIA Award for Best Independent Release at the ARIA Music Awards of 1992 for Proof, their soundtrack for the 1991 film of the same name. In 1991, Bridie and fellow members of Not Drowning, Waving, formed a side-project, My Friend the Chocolate Cake, to play more acoustic-based material. In 2025, Not Drowning, Waving again reformed, with George Telek, to produce a series of live shows and a new studio album, Malira.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Not_Drowning%2C_Waving"
+      }
     }
   ],
   "food_writeup": "Vanuatu cuisine features root crops like taro and yam, fresh seafood, tropical fruits, and traditional dishes such as lap lap, a baked pudding made from grated root vegetables.",

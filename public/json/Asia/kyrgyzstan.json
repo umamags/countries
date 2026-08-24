@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Nowruz",
-      "writeup": "The Persian New Year celebrated on March 21, marking the arrival of spring with traditional music, food, and festivities."
+      "writeup": "The Persian New Year celebrated on March 21, marking the arrival of spring with traditional music, food, and festivities.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "World Nomad Games",
-      "writeup": "An international event held in Kyrgyzstan showcasing traditional nomadic sports, culture, and heritage."
+      "writeup": "An international event held in Kyrgyzstan showcasing traditional nomadic sports, culture, and heritage.",
+      "wiki": {
+        "extract": "World Nomad Games are an international sport competition dedicated to ethnic sports practiced in Central Asia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/World_Nomad_Games_athlete_and_falcon_%2829917694421%29.jpg/3840px-World_Nomad_Games_athlete_and_falcon_%2829917694421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/World_Nomad_Games"
+      }
     }
   ],
   "food_writeup": "Kyrgyz cuisine is rich in meat dishes, particularly mutton and horse meat, with staples like beshbarmak (boiled meat with noodles), laghman (noodle soup), and kumis (fermented mare's milk).",

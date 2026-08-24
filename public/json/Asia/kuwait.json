@@ -65,11 +65,21 @@
   "cultural_events": [
     {
       "name": "Hala February Festival",
-      "writeup": "Annual festival celebrating Kuwait's liberation with cultural shows, parades, and traditional activities."
+      "writeup": "Annual festival celebrating Kuwait's liberation with cultural shows, parades, and traditional activities.",
+      "wiki": {
+        "extract": "Eida Al Menhali is an Emirati singer. He is also referred to as Aida al-Menhali. Known for his hit single \"Motasoa,\" he headlined at the Mother of the Nation Festival in 2018 at the Abu Dhabi Corniche, Abu Dhabi.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Eida_Al_Menhali"
+      }
     },
     {
       "name": "Kuwait International Book Fair",
-      "writeup": "A major cultural event promoting literature and education with participation from international publishers."
+      "writeup": "A major cultural event promoting literature and education with participation from international publishers.",
+      "wiki": {
+        "extract": "The Riyadh International Book Fair (RIBF) is an annual book fair in Saudi Arabia. It lasts 11 days and regularly attracts over a half million visitors. The fair is used to showcase Saudi government policy, and it has been a locus of political power struggles with the government. Hundreds of publishers sell pre-approved books, and some black-market books. Writers take part in literary events. Invited speakers and the public discuss intellectual and social issues. Disagreements sometimes go beyond the bounds of debate, with speakers being shouted down and surrounded by protestors, and arrests of speakers and protestors; physical assaults are rare but not unknown. Contrary to some claims, it is not the largest fair in the MENA region.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Riyadh_International_Book_Fair_%2816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Riyadh_International_Book_Fair"
+      }
     }
   ],
   "food_writeup": "Kuwaiti cuisine features rich, flavorful dishes often centered around rice, meat, and seafood, with popular dishes like machboos (spiced rice with meat) and mutabbaq samak (fish with rice).",

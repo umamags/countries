@@ -76,15 +76,30 @@
   "cultural_events": [
     {
       "name": "Nowruz",
-      "writeup": "The Kurdish New Year celebrated on the spring equinox with traditional music, dancing, and festivities."
+      "writeup": "The Kurdish New Year celebrated on the spring equinox with traditional music, dancing, and festivities.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Ashura",
-      "writeup": "A significant religious observance for Shia Muslims commemorating the martyrdom of Imam Hussein."
+      "writeup": "A significant religious observance for Shia Muslims commemorating the martyrdom of Imam Hussein.",
+      "wiki": {
+        "extract": "Ashura, also more formally as the Day of Ashura, is a day of commemoration in Islam. It occurs annually on the tenth of Muharram, the first month of the Islamic calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tuwairij_run_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ashura"
+      }
     },
     {
       "name": "Baghdad International Film Festival",
-      "writeup": "An event showcasing regional and international films, promoting cultural exchange."
+      "writeup": "An event showcasing regional and international films, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Baghdad Messi is a 2023 drama film directed by Sahim Omar Kalifa, with a screenplay by Kobe Van Steenberghe from a story by Kobe Van Steenberghe and Ruth Mallaerts. It is about an Iraqi boy who, after losing his leg in a terrorist attack, fights to continue pursuing his passion for soccer. It is based on the 2012 short film of the same name by the same director. It is a co-production between Belgium, the Netherlands, Germany and Iraq.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Baghdad_Messi_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Baghdad_Messi"
+      }
     }
   ],
   "food_writeup": "Iraqi cuisine features rich flavors with staples like rice, lamb, and dates. Popular dishes include Masgouf (grilled fish), Dolma (stuffed vegetables), and Kebabs, reflecting a blend of Arab, Kurdish, and Mesopotamian culinary traditions.",

@@ -44,11 +44,18 @@
   "cultural_events": [
     {
       "name": "Latvian Song and Dance Festival",
-      "writeup": "A massive cultural event held every five years celebrating Latvian folk music and dance."
+      "writeup": "A massive cultural event held every five years celebrating Latvian folk music and dance.",
+      "wiki": {
+        "extract": "The Latvian Song and Dance Festival is one of the largest amateur choral and dancing events in the world, and an important event in Latvian culture and social life.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Riga._VII_Latvian_Song_Celebration._1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Latvian_Song_and_Dance_Festival"
+      }
     },
     {
       "name": "Jnni (Midsummer Festival)",
-      "writeup": "A traditional celebration marking the summer solstice with singing, dancing, and bonfires."
+      "writeup": "A traditional celebration marking the summer solstice with singing, dancing, and bonfires.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Latvian cuisine features hearty dishes with rye bread, potatoes, pork, and dairy products, emphasizing seasonal and locally sourced ingredients.",

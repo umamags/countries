@@ -50,11 +50,21 @@
   "cultural_events": [
     {
       "name": "Ava Ceremony",
-      "writeup": "A traditional Samoan ritual involving the preparation and drinking of ava (kava), symbolizing respect and social hierarchy."
+      "writeup": "A traditional Samoan ritual involving the preparation and drinking of ava (kava), symbolizing respect and social hierarchy.",
+      "wiki": {
+        "extract": "The ʻava ceremony is one of the most important customs of the Samoa Islands and Tonga to an extent. It is a solemn ritual in which a ceremonial beverage is shared to mark important occasions in Samoan society. The Samoan word ʻava is a cognate of the Polynesian word kava associated with the kava cultures in Oceania. Both terms are understood in Samoa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Samoan_%27ava_ceremony%2C_c._1900-1930_unknown_photographer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/%CA%BBAva_ceremony"
+      }
     },
     {
       "name": "Flag Day",
-      "writeup": "An annual celebration on April 17th commemorating the cession of the islands to the United States, featuring parades, cultural performances, and sports."
+      "writeup": "An annual celebration on April 17th commemorating the cession of the islands to the United States, featuring parades, cultural performances, and sports.",
+      "wiki": {
+        "extract": "A flag day is a flag-related holiday, a day designated for flying a certain flag or a day set aside to celebrate a historical event such as a nation's adoption of its flag.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Festa_del_Tricolore%2C_07-01-2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Flag_Day"
+      }
     }
   ],
   "food_writeup": "American Samoan cuisine blends Polynesian traditions with American influences, featuring dishes like palusami (taro leaves with coconut cream), oka i'a (raw fish salad), and various seafood prepared with local ingredients.",

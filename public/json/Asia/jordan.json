@@ -69,15 +69,30 @@
   "cultural_events": [
     {
       "name": "Jerash Festival",
-      "writeup": "An annual cultural festival showcasing traditional music, dance, and arts in the ancient city of Jerash."
+      "writeup": "An annual cultural festival showcasing traditional music, dance, and arts in the ancient city of Jerash.",
+      "wiki": {
+        "extract": "The Jerash Festival for Culture and Arts is an annual event held in Jerash, Jordan. It is part of the Jordan Festival, which aims to enrich cultural activities in Jordan. Founded in 1981 by Queen Noor, it features several shows performed by Jordanian, Arab and foreign artists.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jerash_Festival_2018_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jerash_Festival"
+      }
     },
     {
       "name": "Amman International Theatre Festival",
-      "writeup": "A festival promoting theatrical arts with performances from local and international groups."
+      "writeup": "A festival promoting theatrical arts with performances from local and international groups.",
+      "wiki": {
+        "extract": "Roman Theatre of Amman is a 6,000-seat, 2nd-century Roman theatre. A famous landmark in the Jordanian capital, it dates back to the Roman period when the city was known as Philadelphia. The theatre and the nearby Odeon are flanking the new Hashemite Plaza from the south and the east respectively, while the Roman Nymphaeum is just a short stroll away in north-westerly direction.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Roman_theater_of_Amman_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Roman_Theatre_(Amman)"
+      }
     },
     {
       "name": "Jordan Festival",
-      "writeup": "A multi-disciplinary arts festival held in Amman featuring music, dance, and visual arts."
+      "writeup": "A multi-disciplinary arts festival held in Amman featuring music, dance, and visual arts.",
+      "wiki": {
+        "extract": "The Jerash Festival for Culture and Arts is an annual event held in Jerash, Jordan. It is part of the Jordan Festival, which aims to enrich cultural activities in Jordan. Founded in 1981 by Queen Noor, it features several shows performed by Jordanian, Arab and foreign artists.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jerash_Festival_2018_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jerash_Festival"
+      }
     }
   ],
   "food_writeup": "Jordanian cuisine features dishes like mansaf (lamb cooked in fermented dried yogurt), falafel, hummus, and fresh bread, reflecting a rich Levantine culinary tradition.",

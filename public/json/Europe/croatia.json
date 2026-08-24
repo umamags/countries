@@ -75,23 +75,48 @@
   "cultural_events": [
     {
       "name": "Dubrovnik Summer Festival",
-      "writeup": "An annual event featuring theater, music, and dance performances in historic settings."
+      "writeup": "An annual event featuring theater, music, and dance performances in historic settings.",
+      "wiki": {
+        "extract": "The Dubrovnik Summer Festival is an annually-held summer festival instituted in 1950 in Dubrovnik, Croatia. It is held every year between 10 July and 25 August.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Novela_od_Stanca_DLjI_1008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dubrovnik_Summer_Festival"
+      }
     },
     {
       "name": "Ultra Europe Music Festival",
-      "writeup": "A major electronic music festival held in Split attracting international artists and visitors."
+      "writeup": "A major electronic music festival held in Split attracting international artists and visitors.",
+      "wiki": {
+        "extract": "The Ultra Music Festival (UMF) is an annual outdoor electronic music festival that takes place in March in Miami, Florida. The festival was founded in 1999 by Russell Faibisch and Alex Omes.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Ultra_Music_Festival"
+      }
     },
     {
       "name": "Sinjska Alka",
-      "writeup": "A traditional knights' tournament held annually in Sinj, celebrating Croatian heritage."
+      "writeup": "A traditional knights' tournament held annually in Sinj, celebrating Croatian heritage.",
+      "wiki": {
+        "extract": "The Sinjska alka is an equestrian competition held in the Croatian town of Sinj. It commemorates a Croatian–Venetian victory in the Ottoman–Venetian war in the night of 14 August 1715, in which around 700 professional Venetian soldiers and 100 locals defended Sinj against an Ottoman army led by Mehmed-paša Ćelić of at least 40,000. Because of this victory, the Venetians retained control over Sinj and integrated it into the Venetian Dalmatia in accordance to the terms of the Treaty of Passarowitz signed in 1718.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alkar_2_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sinjska_alka"
+      }
     },
     {
       "name": "Zagreb Film Festival",
-      "writeup": "An important cultural event showcasing regional and international films."
+      "writeup": "An important cultural event showcasing regional and international films.",
+      "wiki": {
+        "extract": "Zagreb Film Festival (ZFF) is an annual film festival held since 2003 in Zagreb, Croatia. Focusing on promoting young and upcoming filmmaker, the festival is widely considered to be one of the most important and influential cultural events in Croatia. It also regularly features several international programmes for the filmmaker's first or second films made.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Zagreb_Film_Festival_2007_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Zagreb_Film_Festival"
+      }
     },
     {
       "name": "Motovun Film Festival",
-      "writeup": "An independent film festival held in the hilltop town of Motovun, focusing on auteur cinema."
+      "writeup": "An independent film festival held in the hilltop town of Motovun, focusing on auteur cinema.",
+      "wiki": {
+        "extract": "The Motovun Film Festival is an annual film festival established in 1999 and held in the small town of Motovun, Croatia until 2023, when it moved to a new location, Petehovac in Gorski Kotar. It usually takes place over five or six days in late July or early August.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Motovun_film_festival_%28460066683%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Motovun_Film_Festival"
+      }
     }
   ],
   "food_writeup": "Croatian cuisine varies by region, featuring Mediterranean influences along the coast with seafood, olive oil, and fresh vegetables, while inland areas emphasize meats, stews, and hearty dishes. Popular foods include nevapi, peka, and fresh Adriatic fish.",

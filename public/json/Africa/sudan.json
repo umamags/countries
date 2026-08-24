@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Sufi Festivals",
-      "writeup": "Religious gatherings featuring traditional music and dance, celebrating Sudan's Sufi Islamic heritage."
+      "writeup": "Religious gatherings featuring traditional music and dance, celebrating Sudan's Sufi Islamic heritage.",
+      "wiki": {
+        "extract": "\n\nSufism or Sufi Islam is a mystic body of religious practice found within Islam that is characterized by a focus on Islamic purification, spirituality, ritualism, and asceticism.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Sufism"
+      }
     },
     {
       "name": "Khartoum International Book Fair",
-      "writeup": "Annual event promoting literature and cultural exchange in Sudan."
+      "writeup": "Annual event promoting literature and cultural exchange in Sudan.",
+      "wiki": {
+        "extract": "Muhammad Taha Al-Qaddal, also transcribed as Muhammad Al-Gaddal, was a Sudanese poet. Al-Qaddal began his literary career in the late 1960s; he wrote contemporary Arabic lyric poetry and became known in the early 1980s for expressing socio-political messages through his verses. Some of his poems were put to music by some Sudanese singers. His poetry was about the suffering of Sudanese during the late 1990s Islamist military government period.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Muhammad_Taha_Al-Qaddal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Muhammad_Taha_Al-Qaddal"
+      }
     }
   ],
   "food_writeup": "Sudanese cuisine blends Arab and African influences, featuring dishes like ful medames (stewed fava beans), kisra (fermented bread), and tagine-style stews with meat and vegetables.",

@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "King's Day",
-      "writeup": "National holiday celebrating the king's birthday with nationwide festivities and orange-themed events."
+      "writeup": "National holiday celebrating the king's birthday with nationwide festivities and orange-themed events.",
+      "wiki": {
+        "extract": "Koningsdag or King's day is a national holiday in the Kingdom of the Netherlands. Celebrated on 27 April, the date marks the birth of King Willem-Alexander. When the Dutch monarch is female, the holiday is known as Koninginnedag ( ) or Queensday and, under Queen Beatrix until 2013, was celebrated on 30 April. She prolonged the tradition that was born under her mother's reign: Queen Juliana's birthday was on 30 April.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Amsterdam%27s_Canals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Koningsdag"
+      }
     },
     {
       "name": "Tulip Festival",
-      "writeup": "Annual spring event showcasing the blooming tulips across various locations in the country."
+      "writeup": "Annual spring event showcasing the blooming tulips across various locations in the country.",
+      "wiki": {
+        "extract": "Tulip festivals are held in several cities around the world, mostly in North America, usually in cities with a Dutch heritage such as Albany, New York; Ottawa, Ontario; Gatineau, Quebec; Montreal, Quebec; Holland, Michigan; Lehi, Utah; Orange City, Iowa; Pella, Iowa; Mount Vernon, Washington; and Woodburn, Oregon, and in other countries such as New Zealand, Australia, India, and England. The tulips are considered a welcome harbinger of spring, and a tulip festival permits residents to see them at their best advantage. The festivals are also popular tourist attractions. The tulips are displayed throughout the cities. In certain years the peak of tulips does not coincide with the actual festival due to climatic conditions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2013_Tulip_Festival_%40_Agassiz%2C_BC%2C_Canada_%288671444216%29.jpg/3840px-2013_Tulip_Festival_%40_Agassiz%2C_BC%2C_Canada_%288671444216%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tulip_festival"
+      }
     },
     {
       "name": "Amsterdam Light Festival",
-      "writeup": "Winter festival featuring light art installations throughout Amsterdam's canals."
+      "writeup": "Winter festival featuring light art installations throughout Amsterdam's canals.",
+      "wiki": {
+        "extract": "Driton Selmani is a Kosovar contemporary visual artist whose practice spans across various media including installation, photography, text, and public art.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Driton_Selmani_portret.jpg/1920px-Driton_Selmani_portret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Driton_Selmani"
+      }
     },
     {
       "name": "Sinterklaas",
-      "writeup": "Traditional December festivity celebrating Saint Nicholas with gift-giving and parades."
+      "writeup": "Traditional December festivity celebrating Saint Nicholas with gift-giving and parades.",
+      "wiki": {
+        "extract": "Sinterklaas or Sint-Nicolaas is a legendary figure based on Saint Nicholas, patron saint of children. Other Dutch names for the figure include De Sint, De Goede Sint and De Goedheiligman.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sinterklaas_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sinterklaas"
+      }
     },
     {
       "name": "Carnival",
-      "writeup": "Pre-Lenten festival with parades, costumes, and parties, especially popular in southern provinces."
+      "writeup": "Pre-Lenten festival with parades, costumes, and parties, especially popular in southern provinces.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     }
   ],
   "food_writeup": "Dutch cuisine features hearty dishes such as stamppot (mashed potatoes with vegetables), herring, and stroopwafels (caramel waffle cookies). Cheese, especially Gouda and Edam, is internationally renowned.",

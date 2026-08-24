@@ -73,15 +73,30 @@
   "cultural_events": [
     {
       "name": "Carnival of Mindelo",
-      "writeup": "A colorful and lively carnival celebrated on São Vicente Island, featuring music, dance, and parades."
+      "writeup": "A colorful and lively carnival celebrated on São Vicente Island, featuring music, dance, and parades.",
+      "wiki": {
+        "extract": "Mindelo is a port city in the northern part of the island of São Vicente in Cape Verde. Mindelo is also the seat of the parish of Nossa Senhora da Luz, and the municipality of São Vicente. The city is home to 93% of the entire island's population and is Cape Verde's second most populous city and largest city in Barlavento Islands. Mindelo is also considered the cultural capital of Cape Verde, known for its colorful and animated carnival celebrations, with roots in Portuguese traditions later influenced by the Brazilian culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/2006.07.12.cv.sv.mindelo.palacio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mindelo"
+      }
     },
     {
       "name": "Baía das Gatas Music Festival",
-      "writeup": "An annual music festival held on São Vicente Island, attracting local and international artists."
+      "writeup": "An annual music festival held on São Vicente Island, attracting local and international artists.",
+      "wiki": {
+        "extract": "The Festival de Baía das Gatas or the Baía das Gatas Festival and the Baía das Gatas Music Festival takes place on a full moon weekend in August in Baía das Gatas, a village and a bay in the northeastern part of the island of São Vicente, Cape Verde. It is the most popular music festival in Cape Verde and are likely being the first, in its early years, it was the only music festival in the country until the Festival de Gamboa which was established in 1992 in Praia in the island of Santiago. It is nicknamed the Woodstock of Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Baia_das_gatas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festival_de_Ba%C3%ADa_das_Gatas"
+      }
     },
     {
       "name": "Festival de Grogue",
-      "writeup": "A festival celebrating grogue, a traditional Cape Verdean sugarcane liquor."
+      "writeup": "A festival celebrating grogue, a traditional Cape Verdean sugarcane liquor.",
+      "wiki": {
+        "extract": "Cape Verde, also referred to in English by its Portuguese name Cabo Verde, and known officially as the Republic of Cabo Verde, is an archipelagic country in the eastern Atlantic Ocean, off the coast of West Africa. It consists of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi). These islands lie between 600 and 850 kilometres west of Cap-Vert, the westernmost point of continental Africa, after which they are named. Cape Verde forms part of the Macaronesia ecoregion, along with the Azores, the Canary Islands, Madeira and the Savage Islands.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Cape_Verde_%283-2%29.svg/960px-Flag_of_Cape_Verde_%283-2%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Cape_Verde"
+      }
     }
   ],
   "food_writeup": "Cape Verdean cuisine blends African, Portuguese, and Brazilian influences, featuring dishes like cachupa (a slow-cooked stew of corn, beans, and fish or meat), fresh seafood, and tropical fruits.",

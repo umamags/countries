@@ -82,11 +82,21 @@
   "cultural_events": [
     {
       "name": "Maouloud",
-      "writeup": "A religious festival celebrating the birth of the Prophet Muhammad with prayers, music, and communal gatherings."
+      "writeup": "A religious festival celebrating the birth of the Prophet Muhammad with prayers, music, and communal gatherings.",
+      "wiki": {
+        "extract": "Mouloud is a town located in the southern Dikhil region of Djibouti. It is located around 102 kilometers south of the capital, Djibouti City.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mouloud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mouloud"
+      }
     },
     {
       "name": "Date Festival",
-      "writeup": "An annual event celebrating the date harvest with markets, cultural performances, and traditional food."
+      "writeup": "An annual event celebrating the date harvest with markets, cultural performances, and traditional food.",
+      "wiki": {
+        "extract": "Al Qassim Date Festival is the largest date festival in the world held annually in the central Al Qassim region of Saudi Arabia. It is estimated that about 300,000 tonnes of dates are sold annually. The festival is also accompanied by heritage activities that attract visitors from neighboring countries. Saudi Arabia has the highest number of palm trees in the world representing around 25% of the world's date production. Al Qassim region, where the festival is held, has more than 8 million palm trees.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Al_Qassim_Date_Festival"
+      }
     }
   ],
   "food_writeup": "Mauritanian cuisine blends Arab, Berber, and African influences, featuring dishes like thieboudienne (fish and rice), camel meat, and rich use of spices and dates.",

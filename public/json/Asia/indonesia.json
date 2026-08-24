@@ -83,23 +83,48 @@
   "cultural_events": [
     {
       "name": "Nyepi Day",
-      "writeup": "Balinese Day of Silence marking the Hindu New Year, observed with fasting, meditation, and silence."
+      "writeup": "Balinese Day of Silence marking the Hindu New Year, observed with fasting, meditation, and silence.",
+      "wiki": {
+        "extract": "Nyepi, also known as Day of Silence, is a Balinese holiday held every Isakawarsa according to the Balinese calendar, and it can be traced as far back as 78 A.D.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sanur_Beach.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Nyepi"
+      }
     },
     {
       "name": "Waisak",
-      "writeup": "Buddhist festival celebrating the birth, enlightenment, and death of Buddha, prominently observed at Borobudur."
+      "writeup": "Buddhist festival celebrating the birth, enlightenment, and death of Buddha, prominently observed at Borobudur.",
+      "wiki": {
+        "extract": "Vesak, also known as Buddha Jayanti, Buddha Purnima, Visak Bochea and Buddha Day, is a holiday traditionally observed by Buddhists in South Asia and Southeast Asia, as well as in Tibet and Mongolia. It is among the most important Buddhist festivals. The festival commemorates the birth, enlightenment, and death (Parinirvāna) of Gautama Buddha in Theravada, Tibetan Buddhism, and Navayana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/1_Wesak_Day_%28in_Thailand%29_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vesak"
+      }
     },
     {
       "name": "Jakarta Fair",
-      "writeup": "Annual event showcasing Indonesian culture, trade, and entertainment, held in the capital city."
+      "writeup": "Annual event showcasing Indonesian culture, trade, and entertainment, held in the capital city.",
+      "wiki": {
+        "extract": "Jakarta Fair is a fair held annually in Jakarta International Expo Kemayoran, Jakarta, Indonesia, in June and July. It features exhibitions, trade promotions, shopping, music performances, various shows, amusement rides and a food festival. Jakarta Fair is part of a series of events to held to celebrate the capital's anniversary, which falls on June 22. The Jakarta Fair sees exhibitors from across the country display a whole range of goods and products ranging from specialty food items to traditional handmade arts and crafts. In addition to the many exhibitors, there is also live entertainment including music, dance and cultural performances.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jakarta_Fair_Arena_Kemayoran_Jakarta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jakarta_Fair"
+      }
     },
     {
       "name": "Toraja Funeral Ceremony",
-      "writeup": "Traditional elaborate funeral rites in South Sulawesi involving rituals, dances, and buffalo sacrifices."
+      "writeup": "Traditional elaborate funeral rites in South Sulawesi involving rituals, dances, and buffalo sacrifices.",
+      "wiki": {
+        "extract": "The Torajan are an Austronesian ethnic group indigenous to a mountainous region of South Sulawesi, Indonesia. Their population is approximately 1,100,000, of whom 450,000 live in the regencies of Tana Toraja and Toraja Utara. Others live in adjacent regencies of South Selawesi, and in the Mamasa Regency of West Sulawesi Province to the west. Most of the population is Christian, and others are Muslim or have local animist beliefs known as aluk. The Indonesian government has recognised this animistic belief as Aluk To Dolo as well as Hindu Alukta, namely, a form of Hinduism in Indonesia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C%C3%A9l%C3%A8bes_6543a.jpg/3840px-C%C3%A9l%C3%A8bes_6543a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Torajan_people"
+      }
     },
     {
       "name": "Pasola Festival",
-      "writeup": "A traditional spear-fighting festival held by the Sumba people to celebrate the rice-planting season."
+      "writeup": "A traditional spear-fighting festival held by the Sumba people to celebrate the rice-planting season.",
+      "wiki": {
+        "extract": "Pasola is a mounted spear-fighting competition from western Sumba, Indonesia. It is played by throwing wooden spears at the opponent while riding a horse to celebrate the rice-planting season. The word pasola means spear in the local language and derives from the Sanskrit sula. According to legend, pasola originated with a woman from the village of Waiwuang. When her husband – a local leader – left home for an extended period, she believed him to be dead and eloped with a new lover from another village. After her husband returned, the woman still chose to stay with her new lover, and the two were married. To forget their leader's sadness, the people of Waiwuang held the festival of pasola. Originally the participants rode horses and threw spears at each other in an attempt to spill blood to the ground, as a way of thanking the ancestors for a successful harvest and ensuring another prosperous rice harvest. The ritual changed over time into more of a mock battle. The spear tips are now blunt and their metal tips removed. Whereas it was once considered an honour to die during pasola, only accidental deaths occasionally occur today. The human and horse blood which used to drench the field is now solely from sacrificed pigs, dogs, and chickens. Armed police are kept on guard to prevent fights from breaking out. Beginning in the 2010s, pasola has been promoted as a \"game\" for visiting spectators. The event traditionally begins when a certain kind of sea worm swims to shore, signifying the end of the wet season and the beginning of crop-planting. Today, the elders decide on the date in advance for the sake of tourists. Pasola is always held for four weeks in February and March.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Upacara_adat_Pasola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Pasola"
+      }
     }
   ],
   "food_writeup": "Indonesian cuisine is diverse, featuring rice as a staple accompanied by dishes like nasi goreng (fried rice), satay (grilled skewered meat), rendang (spicy beef stew), and sambal (chili paste). It reflects a blend of indigenous, Indian, Chinese, and European influences.",

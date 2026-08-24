@@ -48,11 +48,21 @@
   "cultural_events": [
     {
       "name": "Umuganuro Festival",
-      "writeup": "A traditional harvest festival celebrating the start of the agricultural season with music and dance."
+      "writeup": "A traditional harvest festival celebrating the start of the agricultural season with music and dance.",
+      "wiki": {
+        "extract": "The karyenda is a traditional African drum. It was the main symbol of Burundi and its Mwami (King) and had semi-divine status. The Mwami was said to interpret the beatings of the karyenda into rules for the kingdom.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gitega_drums.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Karyenda"
+      }
     },
     {
       "name": "National Drummers Festival",
-      "writeup": "An event showcasing Burundi's famous drumming culture, featuring performances from local and national groups."
+      "writeup": "An event showcasing Burundi's famous drumming culture, featuring performances from local and national groups.",
+      "wiki": {
+        "extract": "John Henry Bonham was an English musician who was the drummer of the rock band Led Zeppelin. Noted for his speed, power, fast single-footed kick drumming, distinctive sound, and feel for groove, he is regarded as one of the greatest and most influential drummers in history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/John_Bonham_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/John_Bonham"
+      }
     }
   ],
   "food_writeup": "Burundian cuisine is based on staple foods like beans, maize, sweet potatoes, and bananas, often accompanied by meat or fish. Ugali (a maize porridge) and isombe (cassava leaves) are popular dishes.",

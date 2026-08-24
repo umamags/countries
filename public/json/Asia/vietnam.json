@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Tet Nguyen Dan (Lunar New Year)",
-      "writeup": "The most important celebration marking the arrival of spring and the new lunar year with family reunions and traditional rituals."
+      "writeup": "The most important celebration marking the arrival of spring and the new lunar year with family reunions and traditional rituals.",
+      "wiki": {
+        "extract": "Tết, short for Tết Nguyên Đán, is the most important celebration in Vietnamese culture. Tết celebrates the arrival of spring, which is on the first day of the first Vietnamese lunisolar month, and usually falls between late January and 20 February in the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Xuan_2016_Binh_Than%2C_duong_nguyen_hue%2C_phuong_ben_nghe%2C_Qu%E1%BA%ADn_1%2C_TPHCM%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+      }
     },
     {
       "name": "Mid-Autumn Festival",
-      "writeup": "A festival celebrating the harvest with lantern parades, mooncakes, and cultural performances."
+      "writeup": "A festival celebrating the harvest with lantern parades, mooncakes, and cultural performances.",
+      "wiki": {
+        "extract": "The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a harvest festival celebrated in Chinese culture. It occurs on the 15th day of the 8th month of the Chinese lunisolar calendar and can fall between 7 September and 8 October (inclusive) of the Gregorian calendar. On this day, the Chinese believe that the moon is at its fullest and brightest, coinciding with the time of harvest in the middle of autumn.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mid-Autumn_Festival-beijing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mid-Autumn_Festival"
+      }
     },
     {
       "name": "Hue Festival",
-      "writeup": "A biennial cultural event showcasing traditional music, dance, and art in the ancient city of Hue."
+      "writeup": "A biennial cultural event showcasing traditional music, dance, and art in the ancient city of Hue.",
+      "wiki": {
+        "extract": "Hue and Cry are a Scottish pop duo formed in 1983 in Coatbridge by the brothers Pat Kane and Greg Kane. The duo are best known for their 1987 single \"Labour of Love\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hue_and_Cry_live_in_Concert_24_November_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Hue_and_Cry_(band)"
+      }
     }
   ],
   "food_writeup": "Vietnamese cuisine is known for its balance of five taste elements and fresh ingredients, featuring dishes like pho, banh mi, and spring rolls, emphasizing herbs, rice, and seafood.",

@@ -70,11 +70,21 @@
   "cultural_events": [
     {
       "name": "Kuomboka Ceremony",
-      "writeup": "An annual traditional ceremony of the Lozi people marking the movement of the king from the flooded plains to higher ground."
+      "writeup": "An annual traditional ceremony of the Lozi people marking the movement of the king from the flooded plains to higher ground.",
+      "wiki": {
+        "extract": "Kuomboka is a word in the Lozi language; it literally means 'to get out of water'. In today's Zambia it is applied to a traditional ceremony that takes place at the end of the rain season, when the upper Zambezi River floods the plains of the Western Province.\nThe festival celebrates the move of the Litunga, king of the Lozi people, from his compound at Lealui in the Barotse Floodplain of the Zambezi River to Limulunga on higher ground. The return trip is usually held in August with a less publicized journey called the Kufuluhela.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Nalikwanda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kuomboka"
+      }
     },
     {
       "name": "Nc'wala Ceremony",
-      "writeup": "A celebration by the Ngoni people to mark the first fruits harvest and honor their ancestors."
+      "writeup": "A celebration by the Ngoni people to mark the first fruits harvest and honor their ancestors.",
+      "wiki": {
+        "extract": "Chipata is a city and administrative centre of the Eastern Province of Zambia and Chipata District. It was declared the 5th city of the country, after Lusaka, Ndola, Kitwe and Livingstone, by President Edgar Lungu on 24 February 2017. The city has undergone rapid economic and infrastructure growth in the years, leading up to city status.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chipata_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chipata"
+      }
     }
   ],
   "food_writeup": "Zambian cuisine features staple foods such as nshima (a maize-based porridge), often served with vegetables, beans, and meats like fish or beef. Traditional dishes emphasize locally sourced ingredients and communal eating.",

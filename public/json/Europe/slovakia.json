@@ -65,11 +65,21 @@
   "cultural_events": [
     {
       "name": "Bratislava Music Festival",
-      "writeup": "An annual classical music festival featuring international and Slovak artists."
+      "writeup": "An annual classical music festival featuring international and Slovak artists.",
+      "wiki": {
+        "extract": "The Bratislava Music Festival is an international festival of classical music that takes place annually in the city of Bratislava, Slovakia. It is a major Slovak musical event. The festival is organised by the Slovak Philharmonic and its honorary president is Edita Gruberová.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Slovak_Philharmonic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bratislava_Music_Festival"
+      }
     },
     {
       "name": "Východná Folklore Festival",
-      "writeup": "The oldest and largest folklore festival in Slovakia, celebrating traditional music, dance, and costumes."
+      "writeup": "The oldest and largest folklore festival in Slovakia, celebrating traditional music, dance, and costumes.",
+      "wiki": {
+        "extract": "Východná is a village and municipality in Liptovský Mikuláš District in the Žilina Region of northern Slovakia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vychodna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/V%C3%BDchodn%C3%A1"
+      }
     }
   ],
   "food_writeup": "Slovak cuisine features hearty dishes such as bryndzové halušky (potato dumplings with sheep cheese), goulash, and various meat and potato-based meals reflecting Central European influences.",

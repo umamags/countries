@@ -76,19 +76,39 @@
   "cultural_events": [
     {
       "name": "Pohela Boishakh",
-      "writeup": "Bengali New Year celebrated with colorful processions, traditional music, and fairs."
+      "writeup": "Bengali New Year celebrated with colorful processions, traditional music, and fairs.",
+      "wiki": {
+        "extract": "Pohela Boishakh is the Bengali New Year celebrated by the Bengali people worldwide and as a holiday on 14 April in Bangladesh and 15 April or 14 April in the Indian states of West Bengal, Tripura, Jharkhand and Assam. It is a festival based on the spring harvest—which marks the first day of the new year in the Bengali calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mangal_Shobhajatra_in_Dhaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Pohela_Boishakh"
+      }
     },
     {
       "name": "Eid-ul-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and charity."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and charity.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Durga Puja",
-      "writeup": "A Hindu festival honoring the goddess Durga, featuring elaborate rituals and cultural programs."
+      "writeup": "A Hindu festival honoring the goddess Durga, featuring elaborate rituals and cultural programs.",
+      "wiki": {
+        "extract": "Durga Puja, also known as Durgotsava or Sharadotsava, is a major Hindu festival honouring the goddess Durga and commemorating her victory over Mahishasura. It is the biggest festival among Bengali Hindus living in India, and is also celebrated by the Hindus in Bangladesh, the Bhojpuriya and Maithili communities of eastern Uttar Pradesh and Bihar. In 2021, Durga Puja in Kolkata was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg/3840px-%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Durga_Puja"
+      }
     },
     {
       "name": "Bishwa Ijtema",
-      "writeup": "One of the largest Islamic congregations in the world, held annually near Dhaka."
+      "writeup": "One of the largest Islamic congregations in the world, held annually near Dhaka.",
+      "wiki": {
+        "extract": "\nThe Bishwa Ijtema is an annual gathering of Muslims in Tongi, by the banks of the River Turag, in the outskirts of Dhaka, Bangladesh. The Ijtema, organized by the Bangladeshi branch of the Tablighi Jamaat, is considered a demonstration of Muslim unity, solidarity, and mutual love and respect and an opportunity to reiterate their commitment to Islamic values. It is the biggest festival by population in Bengali culture, one of the largest peaceful gatherings in the world, and the second-largest Muslim gathering, with 5 million adherents, after the Arba'in pilgrimage's 15–20 million attendees in Iraq, both surpassing the 2–3 million worshipers who participate in the Hajj, considered to be one of the five pillars of Islam, in Saudi Arabia. Bishwa Ijtema is a modern event in which Muslim participation is voluntary.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Colors_of_Bishwa_Ijtema.jpg/3840px-Colors_of_Bishwa_Ijtema.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bishwa_Ijtema"
+      }
     }
   ],
   "food_writeup": "Bangladeshi cuisine is rich in flavors, featuring rice and fish as staples. Popular dishes include Hilsa fish curry, Bhuna Khichuri, and sweets like Rasgulla and Sandesh.",

@@ -71,23 +71,48 @@
   "cultural_events": [
     {
       "name": "Malta International Fireworks Festival",
-      "writeup": "An annual event showcasing spectacular fireworks displays from local and international teams."
+      "writeup": "An annual event showcasing spectacular fireworks displays from local and international teams.",
+      "wiki": {
+        "extract": "Mqabba is a town in the Western Region of Malta. It has a traditional Maltese village layout. The focal point is the Parish Church of the Assumption, found at the core of the village. It has two band clubs, a number of gardens and a list of national monuments. The motto of the village is 'Non Nisi Per Ardua' which translates into 'Only with Ability'. The population of Mqabba was 3,714 in July 2024. This included 1,922 males and 1,792 females; 3,420 Maltese nationals and 294 foreign nationals.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Church_in_Mqabba%2C_Malta.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mqabba"
+      }
     },
     {
       "name": "Carnival",
-      "writeup": "A vibrant pre-Lenten festival featuring colorful parades, costumes, and street parties."
+      "writeup": "A vibrant pre-Lenten festival featuring colorful parades, costumes, and street parties.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Isle of MTV Malta",
-      "writeup": "A large open-air music festival attracting international artists and thousands of attendees."
+      "writeup": "A large open-air music festival attracting international artists and thousands of attendees.",
+      "wiki": {
+        "extract": "Isle of MTV is an annual music festival organized by MTV, which is part of Paramount. A key fixture in Europe's festival calendar, it has been held in Malta since 2007 while previous editions were held in Portugal, France, Spain and Italy. Now in its 15th year, Isle of MTV is Europe's largest free festival and is annually attended by tens of thousands of people. Fans can register for tickets via isleofmtv.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/MTV_parlk_Malta.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Isle_of_MTV"
+      }
     },
     {
       "name": "Feast of St. Paul’s Shipwreck",
-      "writeup": "A religious celebration commemorating the shipwreck of St. Paul on Malta, featuring processions and festivities."
+      "writeup": "A religious celebration commemorating the shipwreck of St. Paul on Malta, featuring processions and festivities.",
+      "wiki": {
+        "extract": "Malta is the country with the most holidays in the European Union. Since 2020, any holidays falling on Saturdays or Sundays add an extra day to the workers' leave pool, reverting to the pre 2005 system.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Malta"
+      }
     },
     {
       "name": "Malta Jazz Festival",
-      "writeup": "An annual event featuring performances by renowned jazz musicians from around the world."
+      "writeup": "An annual event featuring performances by renowned jazz musicians from around the world.",
+      "wiki": {
+        "extract": "The Malta Jazz Festival is an annual musical event held every July in Malta, organised by Festivals Malta. It is held outside Our Lady of Liesse Church, on the Valletta waterfront.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Malta-jazz-logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Malta_Jazz_Festival"
+      }
     }
   ],
   "food_writeup": "Maltese cuisine blends Mediterranean flavors with influences from Italy and North Africa, featuring dishes like rabbit stew (fenek), pastizzi (flaky pastry filled with ricotta or peas), and lampuki pie (fish pie).",

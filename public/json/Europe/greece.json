@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Athens Epidaurus Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Athens – Epidaurus Festival is an annual arts festival that takes place in Athens and Epidaurus, from May to October. It is one of the most famous festivals in Greece.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Athens_Epidaurus_Festival"
+      }
     },
     {
       "name": "Greek Independence Day",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The celebration of the Greek Revolution of 1821, less commonly known as Independence Day, takes place in Greece, Cyprus, and Greek diaspora centres on 25 March every year, coinciding with the Feast of the Annunciation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%CE%95%CF%80%CE%B5%CF%84%CE%B5%CE%B9%CE%B1%CE%BA%CF%8C_%284463231938%29.jpg/3840px-%CE%95%CF%80%CE%B5%CF%84%CE%B5%CE%B9%CE%B1%CE%BA%CF%8C_%284463231938%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Celebration_of_the_Greek_Revolution"
+      }
     },
     {
       "name": "Carnival (Apokries)",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Easter",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Easter, also called Pasch or Pascha or Resurrection Sunday, is a Christian festival and cultural holiday commemorating the resurrection of Jesus from the dead, described in the Bible's New Testament as having occurred on the third day of his burial following his crucifixion by the Romans at Calvary c. 30 AD. It is the culmination of the Passion of Jesus, preceded by Lent, a 40-day period of fasting, prayer, and penance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chora_Anastasis2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Easter"
+      }
     },
     {
       "name": "Thessaloniki International Film Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Thessaloniki International Film Festival is a film festival held every November in Thessaloniki, Greece. It is organized by the Thessaloniki Film Festival under the auspices of the Greek Ministry of Culture. It features international competition sections, and its program includes tributes to major filmmakers and national cinemas, as well as sidebar events such as masterclasses, exhibitions, live concerts and workshops. In addition to TIFF, the Thessaloniki Film Festival holds the annual Thessaloniki Documentary Festival (TDF) in March.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Collage_of_Thessaloniki_International_Film_Festival_Stills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Thessaloniki_International_Film_Festival"
+      }
     }
   ],
   "food_writeup": "Greek cuisine emphasizes fresh ingredients like olive oil, vegetables, grains, fish, and meats. Popular dishes include moussaka, souvlaki, tzatziki, and baklava, reflecting Mediterranean flavors and traditions.",

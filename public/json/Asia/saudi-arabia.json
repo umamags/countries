@@ -72,15 +72,30 @@
   "cultural_events": [
     {
       "name": "Janadriyah Festival",
-      "writeup": "Annual cultural festival celebrating Saudi heritage, including traditional music, dance, and crafts."
+      "writeup": "Annual cultural festival celebrating Saudi heritage, including traditional music, dance, and crafts.",
+      "wiki": {
+        "extract": "Al-Jenadriyah is a cultural and heritage festival held in Jenadriyah near Riyadh in Saudi Arabia each year, lasting for two weeks.\"King Abdullah bin Abdul Aziz was the first to organize this festival. He fostered it and developed it to become the top Arab festival that showcases the local heritage of all Arabian Peninsula regions as well as the Saudi Arabian heritage.\"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jenadriyah_27_%2813%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jenadriyah"
+      }
     },
     {
       "name": "Riyadh Season",
-      "writeup": "A months-long entertainment festival featuring concerts, sports, and cultural events."
+      "writeup": "A months-long entertainment festival featuring concerts, sports, and cultural events.",
+      "wiki": {
+        "extract": "Riyadh Season is an annual series of entertainment, cultural, and sporting events held in Riyadh, the capital of Saudi Arabia. The season is organized by the General Entertainment Authority as part of the Saudi Seasons initiative supporting Saudi Vision 2030.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riyadh_Season_Logo.svg/330px-Riyadh_Season_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Riyadh_Season"
+      }
     },
     {
       "name": "Hajj",
-      "writeup": "The annual Islamic pilgrimage to Mecca, one of the Five Pillars of Islam, attracting millions of Muslims worldwide."
+      "writeup": "The annual Islamic pilgrimage to Mecca, one of the Five Pillars of Islam, attracting millions of Muslims worldwide.",
+      "wiki": {
+        "extract": "Hajj is an annual Islamic pilgrimage to Mecca, Saudi Arabia, the holiest city in Islam. Hajj is a one-time-required religious duty for all Muslims who are physically and financially capable of undertaking the journey and supporting their family during their absence from home.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Kaaba_during_Hajj.jpg/3840px-The_Kaaba_during_Hajj.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Hajj"
+      }
     }
   ],
   "food_writeup": "Saudi cuisine features dishes like Kabsa, a spiced rice and meat dish, and dates, which are culturally significant. Meals often include lamb, chicken, rice, and a variety of spices reflecting Arabian Peninsula flavors.",

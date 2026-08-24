@@ -80,19 +80,39 @@
   "cultural_events": [
     {
       "name": "Cavadee Festival",
-      "writeup": "A Tamil Hindu festival marked by acts of devotion and colorful processions."
+      "writeup": "A Tamil Hindu festival marked by acts of devotion and colorful processions.",
+      "wiki": {
+        "extract": "Kavadi Aattam is a ceremonial sacrifice and offering practiced by devotees during the worship of Murugan, the Hindu god of war. It is a central part of the festival of Thaipusam and emphasizes debt bondage. The Kavadi (\"burden\") itself is a physical burden, the bearing of which is used by the devotee to implore Murugan for assistance, usually on behalf of a loved one who is in need of healing, or as a means of balancing a spiritual debt. Devotees process and dance along a pilgrimage route while bearing these burdens.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Murugan_by_Raja_Ravi_Varma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kavadi_Aattam"
+      }
     },
     {
       "name": "Diwali",
-      "writeup": "The Hindu festival of lights celebrated with fireworks and family gatherings."
+      "writeup": "The Hindu festival of lights celebrated with fireworks and family gatherings.",
+      "wiki": {
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Diwali"
+      }
     },
     {
       "name": "Chinese Spring Festival",
-      "writeup": "Celebration of the Lunar New Year with traditional dances and food."
+      "writeup": "Celebration of the Lunar New Year with traditional dances and food.",
+      "wiki": {
+        "extract": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture. Marking the end of winter and the beginning of spring, this festival takes place from Chinese New Year's Eve to the Lantern Festival, held on the 15th day of the year. The first day of the Chinese New Year falls on the new moon that appears between 21 January and 20 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      }
     },
     {
       "name": "Mauritius Carnival",
-      "writeup": "An annual event featuring music, dance, and vibrant costumes."
+      "writeup": "An annual event featuring music, dance, and vibrant costumes.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     }
   ],
   "food_writeup": "Mauritian cuisine is a blend of Creole, Indian, Chinese, and French influences, featuring dishes like dholl puri, fish vindaye, and gateau piment.",

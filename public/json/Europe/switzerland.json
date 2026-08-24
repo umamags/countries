@@ -81,15 +81,30 @@
   "cultural_events": [
     {
       "name": "Montreux Jazz Festival",
-      "writeup": "One of the world's most renowned jazz festivals held annually on the shores of Lake Geneva."
+      "writeup": "One of the world's most renowned jazz festivals held annually on the shores of Lake Geneva.",
+      "wiki": {
+        "extract": "The Montreux Jazz Festival is a music festival in Switzerland, held annually in early July in Montreux on the Lake Geneva shoreline. It is the second-largest annual jazz festival in the world after Canada's Montreal International Jazz Festival.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Montreux_Jazz_2M2C_juillet_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Montreux_Jazz_Festival"
+      }
     },
     {
       "name": "Basel Fasnacht",
-      "writeup": "Largest carnival in Switzerland, featuring parades, masks, and traditional music."
+      "writeup": "Largest carnival in Switzerland, featuring parades, masks, and traditional music.",
+      "wiki": {
+        "extract": "The Carnival of Basel is the biggest carnival in Switzerland. Basler Fasnacht takes place annually between February and March in Basel. It has been listed as one of the top fifty local festivities in Europe.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Five_Gugge_at_Fasnacht_Basel_2024_on_Mittlere_Br%C3%BCcke_03.jpg/3840px-Five_Gugge_at_Fasnacht_Basel_2024_on_Mittlere_Br%C3%BCcke_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Carnival_of_Basel"
+      }
     },
     {
       "name": "Sechseläuten",
-      "writeup": "Spring festival in Zurich marked by the burning of the Böögg snowman to predict summer weather."
+      "writeup": "Spring festival in Zurich marked by the burning of the Böögg snowman to predict summer weather.",
+      "wiki": {
+        "extract": "The Sechseläuten is a traditional spring holiday in the Swiss city of Zurich celebrated in its current form, usually on the 3rd Monday of April, since the early 20th century.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2012_Sechsel%C3%A4uten_-_B%C3%B6%C3%B6g_2012-04-16_18-07-52_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sechsel%C3%A4uten"
+      }
     }
   ],
   "food_writeup": "Swiss cuisine is known for its cheese (such as Emmental and Gruyère), chocolate, fondue, and rösti, reflecting a blend of German, French, and Italian influences.",

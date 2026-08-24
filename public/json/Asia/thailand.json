@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Songkran Festival",
-      "writeup": "Thai New Year celebrated with water fights, religious rituals, and family gatherings in April."
+      "writeup": "Thai New Year celebrated with water fights, religious rituals, and family gatherings in April.",
+      "wiki": {
+        "extract": "Thai New Year, also known as Songkran, or the Songkran Festival, is the Thai New Year's national holiday. It is celebrated annually on 13 April, with the holiday period extending from 14 to 15 April.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Songkran_Day_%40_Chiangmai_Wall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Songkran_(Thailand)"
+      }
     },
     {
       "name": "Loy Krathong",
-      "writeup": "Festival of lights where people float decorated baskets on water to pay respects to the water spirits."
+      "writeup": "Festival of lights where people float decorated baskets on water to pay respects to the water spirits.",
+      "wiki": {
+        "extract": "Loy Krathong is a Thai festival celebrated annually throughout Thailand and in nearby countries with significant South Western Tai cultures. The name could be translated as \"to float ritual vessel or lamp,\" and comes from the tradition of making krathong or buoyant, decorated baskets, which are then floated on a river. Originally limited to Bangkok elites, Loy Krathong became an “invented tradition” in post-WWII Thailand in response to nationalism and to drive tourism. Many Thais use the krathong to thank the Goddess of Water and River, Goddess Khongkha This festival along with other Hindu/brahmanical beliefs and practices trace back to India and were first practiced during the 11th/12th century Angkorian period of the Khmer Empire, pre-dating Sukhothai.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Thai_people_setting_their_candle-lit_krathongs_in_the_Ping_river_at_night_during_Loy_Krathong_2015-10_%2822715933524%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Loy_Krathong"
+      }
     },
     {
       "name": "Yi Peng Lantern Festival",
-      "writeup": "Celebrated mainly in northern Thailand, releasing lanterns into the sky for good luck."
+      "writeup": "Celebrated mainly in northern Thailand, releasing lanterns into the sky for good luck.",
+      "wiki": {
+        "extract": "Yi Peng, also spelled Yee Peng, is a traditional Lan Na festival celebrated in Northern Thailand. It is a festival of lights, deeply rooted in Theravada Buddhism, and is celebrated for three days, culminating on the full moon of the second month of the Lanna lunar calendar, which typically falls in November.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/LK_03_loy_krathong_yi_peng_san_sai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Yi_Peng_festival"
+      }
     }
   ],
   "food_writeup": "Thai cuisine is known for its balance of sweet, sour, salty, and spicy flavors, featuring dishes like Pad Thai, Tom Yum soup, and green curry, often using fresh herbs and spices.",

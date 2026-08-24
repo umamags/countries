@@ -91,23 +91,45 @@
   "cultural_events": [
     {
       "name": "Diwali",
-      "writeup": "The festival of lights celebrated across India symbolizing the victory of light over darkness and good over evil."
+      "writeup": "The festival of lights celebrated across India symbolizing the victory of light over darkness and good over evil.",
+      "wiki": {
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Diwali"
+      }
     },
     {
       "name": "Holi",
-      "writeup": "Known as the festival of colors, it marks the arrival of spring and celebrates love and the triumph of good."
+      "writeup": "Known as the festival of colors, it marks the arrival of spring and celebrates love and the triumph of good.",
+      "wiki": {
+        "extract": "Holi is a major Hindu festival of colours, love and spring. It celebrates the love between the deities Radha and Krishna.\nAdditionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. \nHoli originated in ancient Indian subcontinent and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Holi"
+      }
     },
     {
       "name": "Durga Puja",
-      "writeup": "A major Hindu festival in eastern India honoring the goddess Durga with elaborate rituals and cultural performances."
+      "writeup": "A major Hindu festival in eastern India honoring the goddess Durga with elaborate rituals and cultural performances.",
+      "wiki": {
+        "extract": "Durga Puja, also known as Durgotsava or Sharadotsava, is a major Hindu festival honouring the goddess Durga and commemorating her victory over Mahishasura. It is the biggest festival among Bengali Hindus living in India, and is also celebrated by the Hindus in Bangladesh, the Bhojpuriya and Maithili communities of eastern Uttar Pradesh and Bihar. In 2021, Durga Puja in Kolkata was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg/3840px-%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Durga_Puja"
+      }
     },
     {
       "name": "Eid-ul-Fitr",
-      "writeup": "A significant Islamic festival marking the end of Ramadan, celebrated with prayers and feasting."
+      "writeup": "A significant Islamic festival marking the end of Ramadan, celebrated with prayers and feasting.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Pongal",
-      "writeup": "A harvest festival celebrated in Tamil Nadu, thanking the Sun God for agricultural abundance."
+      "writeup": "A harvest festival celebrated in Tamil Nadu, thanking the Sun God for agricultural abundance.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Indian cuisine is diverse and characterized by the use of various spices, herbs, and regional ingredients. Popular dishes include biryani, dosa, samosas, butter chicken, and a wide variety of vegetarian and non-vegetarian options reflecting cultural and religious diversity.",

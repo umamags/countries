@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Libyan Independence Day",
-      "writeup": "Celebrated on December 24th, marking Libya's independence from Italy in 1951."
+      "writeup": "Celebrated on December 24th, marking Libya's independence from Italy in 1951.",
+      "wiki": {
+        "extract": "An Independence Day is an annual event commemorating the anniversary of a nation's independence or statehood, usually after ceasing to be a group or part of another nation or state, or after the end of a military occupation, or after a major change in government. Many countries commemorate their independence from a colonial empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/National_Days_map.svg/960px-National_Days_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_independence_days"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with feasts and communal prayers."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with feasts and communal prayers.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Eid al-Adha",
-      "writeup": "An important Islamic holiday commemorating the willingness of Ibrahim to sacrifice his son, observed with prayers and animal sacrifice."
+      "writeup": "An important Islamic holiday commemorating the willingness of Ibrahim to sacrifice his son, observed with prayers and animal sacrifice.",
+      "wiki": {
+        "extract": "Eid al-Adha is the second of the two main festivals in Islam, alongside Eid al-Fitr. It falls on the 10th of Dhu'l-Hijja, the twelfth and final month of the Islamic calendar. Celebrations and observances are generally carried forward to the three following days, known as the Tashreeq days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eid_al_adha_compilation.jpg/3840px-Eid_al_adha_compilation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Adha"
+      }
     }
   ],
   "food_writeup": "Libyan cuisine features Mediterranean and North African influences, with staple dishes like couscous, bazin (a type of bread), and shakshouka. Meals often include lamb, dates, olives, and spices such as cumin and coriander.",

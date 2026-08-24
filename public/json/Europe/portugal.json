@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Festa de São João",
-      "writeup": "An annual June festival in Porto celebrating Saint John with music, dancing, and fireworks."
+      "writeup": "An annual June festival in Porto celebrating Saint John with music, dancing, and fireworks.",
+      "wiki": {
+        "extract": "Festa de São João do Porto is a festival during Midsummer, on the night of 23 June, in the city of Porto, in the north of Portugal, as thousands of people come to the city centre and more traditional neighborhoods to pay a tribute to Saint John the Baptist, in a party that mixes sacred and profane traditions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Festa_de_Sao_Joao_%28Porto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festa_de_S%C3%A3o_Jo%C3%A3o_do_Porto"
+      }
     },
     {
       "name": "Carnival",
-      "writeup": "A vibrant pre-Lenten festival featuring parades, costumes, and street parties."
+      "writeup": "A vibrant pre-Lenten festival featuring parades, costumes, and street parties.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Fado Music Festivals",
-      "writeup": "Events celebrating traditional Portuguese Fado music, characterized by melancholic tunes."
+      "writeup": "Events celebrating traditional Portuguese Fado music, characterized by melancholic tunes.",
+      "wiki": {
+        "extract": "This is a list of music genres and styles. Music can be described in terms of many genres and styles. Classifications are often arbitrary, and may be disputed and closely related forms often overlap. Larger genres and styles comprise more specific sub-categories.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_music_genres_and_styles"
+      }
     }
   ],
   "food_writeup": "Portuguese cuisine features seafood, olive oil, and spices, with iconic dishes like bacalhau (salted cod), pastel de nata (custard tart), and caldo verde (kale soup).",

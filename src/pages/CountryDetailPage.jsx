@@ -59,6 +59,34 @@ function LandmarkList({ items, continentSlug, countrySlug }) {
   )
 }
 
+function CulturalEventList({ items }) {
+  if (!items || items.length === 0) return null
+  return (
+    <section className="detail-section">
+      <h3>Main Cultural Events</h3>
+      <ul className="named-list">
+        {items.map((item, i) => (
+          <li key={i}>
+            {item.wiki?.url ? (
+              <a
+                className="named-list-name event-link"
+                href={item.wiki.url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {item.name}
+              </a>
+            ) : (
+              <span className="named-list-name">{item.name}</span>
+            )}
+            {item.writeup ? <span className="named-list-text"> — {item.writeup}</span> : null}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
 function VideoList({ items, onPlay }) {
   if (!items || items.length === 0) return null
   return (
@@ -178,7 +206,7 @@ export default function CountryDetailPage() {
       </dl>
 
       <LandmarkList items={data.landmarks} continentSlug={continent.slug} countrySlug={countrySlug} />
-      <NamedList title="Main Cultural Events" items={data.cultural_events} textKey="writeup" />
+      <CulturalEventList items={data.cultural_events} />
 
       {data.food_writeup && (
         <section className="detail-section">

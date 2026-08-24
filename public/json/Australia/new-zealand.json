@@ -80,23 +80,48 @@
   "cultural_events": [
     {
       "name": "Waitangi Day",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Waitangi Day, the national day of New Zealand, marks the anniversary of the initial signing of the Treaty of Waitangi on 6 February 1840. The Treaty of Waitangi was an agreement towards British sovereignty by representatives of the Crown and indigenous Māori chiefs, and so is regarded by many as the founding document of the nation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Waitangi_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Waitangi_Day"
+      }
     },
     {
       "name": "Matariki",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "In Māori culture, Matariki is the Pleiades star cluster and a celebration of its first rising in late June or early July. The rising marks the beginning of the new year in the Māori lunar calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/M45_Pleiades_Pbkwee_%28cropped_to_core_9_stars%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Matariki"
+      }
     },
     {
       "name": "Pasifika Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Pasifika Festival is a festival celebrating Pasifika New Zealanders and their pan-cultural identity, held annually in Western Springs Reserve, Auckland. Celebrated since 1993, it is the largest festival of its type in the world and attracts over 200,000 visitors every year.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cook_Islands_Village_at_Pasifika_Festival%2C_2016._%28PASF-D-2016-115%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Pasifika_Festival"
+      }
     },
     {
       "name": "New Zealand International Film Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The New Zealand International Film Festival (NZIFF) (Māori: Whānau Mārama) is a film festival held annually across New Zealand. The festival is operated by the New Zealand Film Festival Trust. It programmes international and New Zealand films.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/New_Zealand_International_Film_Festival"
+      }
     },
     {
       "name": "World of WearableArt",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "World of WearableArt (WOW) is an international design competition with a corresponding event each year. It attracts entries from more than 40 countries each year. The competition features wearable art entries. Around 60,000 people attend the event in Wellington, New Zealand.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Susan_Holmes_3_%2830932412153%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/World_of_Wearable_Art"
+      }
     }
   ],
   "food_writeup": "New Zealand cuisine reflects its diverse cultural heritage with a focus on fresh seafood, lamb, and dairy products. Traditional Mnori foods like hangi (earth-cooked meals) coexist with modern fusion dishes.",

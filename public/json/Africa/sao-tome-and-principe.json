@@ -44,11 +44,18 @@
   "cultural_events": [
     {
       "name": "São Tomé and Príncipe Independence Day",
-      "writeup": "Celebrated on July 12, marking independence from Portugal in 1975 with parades and cultural performances."
+      "writeup": "Celebrated on July 12, marking independence from Portugal in 1975 with parades and cultural performances.",
+      "wiki": {
+        "extract": "Portuguese São Tomé and Príncipe was a colony of the Portuguese Empire from the discovery of the São Tomé and Príncipe islands in 1470 until 1975, when independence was granted by Portugal.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/960px-Flag_of_Portugal_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Portuguese_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+      }
     },
     {
       "name": "Festival of the Black Christ",
-      "writeup": "A religious and cultural festival featuring processions and traditional music."
+      "writeup": "A religious and cultural festival featuring processions and traditional music.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "The cuisine features seafood, tropical fruits, and dishes like calulu, a stew made with fish or meat, vegetables, and palm oil, reflecting Portuguese and African influences.",

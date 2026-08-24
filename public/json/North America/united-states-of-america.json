@@ -75,23 +75,48 @@
   "cultural_events": [
     {
       "name": "Thanksgiving",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Thanksgiving or Thanksgiving Day is a national holiday celebrated on various dates in October and November in the United States, Canada, Saint Lucia, and Liberia. It is also observed in the Australian territory of Norfolk Island. It began as a day of giving thanks for the blessings of the harvest and of the preceding year. Various similarly named harvest festival holidays occur throughout the world during autumn. Although Thanksgiving has historical roots in religious and cultural traditions, it has long been celebrated as a secular holiday as well.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Our_%28Almost_Traditional%29_Thanksgiving_Dinner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Thanksgiving"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     },
     {
       "name": "Super Bowl",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Super Bowl is the league championship final game of the National Football League (NFL) of the United States. It has served as the final game of every NFL season since 1966 replacing the NFL Championship Game and also served as the final game of every American Football League season from 1966 to 1967 prior to the AFL–NFL merger replacing the AFL championship game. Since 2022, the game has been played on the second Sunday in February. Prior Super Bowls were played on Sundays in early to mid-January from 1967 to 1978, late January from 1979 to 2003, and the first Sunday of February from 2004 to 2021. Winning teams are awarded the Vince Lombardi Trophy, named after the coach who won the first two Super Bowls. Because the NFL restricts the use of its \"Super Bowl\" trademark, it is frequently referred to as the \"big game\" or other generic terms by non-sponsoring corporations. The day the game is held is commonly referred to as \"Super Bowl Sunday\" or \"Super Sunday\".",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Super_Bowl_logo.svg/250px-Super_Bowl_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Super_Bowl"
+      }
     },
     {
       "name": "Mardi Gras",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Mardi Gras, also known as Shrove Tuesday, is the final day of Carnival ; it thus falls on the day before the beginning of Lent on Ash Wednesday. Mardi Gras is French for \"Fat Tuesday\", referring to it being the last day of consuming rich, fatty foods, most notably red meat, in preparation for the Christian fasting season of Lent, during which such foods are avoided.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/KosmicFrenchmenPurpleFaceMardiGras2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mardi_Gras"
+      }
     },
     {
       "name": "Halloween",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Halloween, also known as All Hallows' Eve, or All Saints' Eve, is a celebration observed in many countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It is at the beginning of the observance of Allhallowtide, the time in the Christian liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed. In popular culture, Halloween has become a celebration of horror and is associated with the macabre and the supernatural.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jack-o%27-Lantern_2003-10-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Halloween"
+      }
     }
   ],
   "food_writeup": "American cuisine is diverse, influenced by various immigrant cultures, featuring iconic foods like hamburgers, hot dogs, barbecue, and regional specialties such as New England clam chowder and Southern fried chicken.",

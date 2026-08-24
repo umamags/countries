@@ -70,15 +70,30 @@
   "cultural_events": [
     {
       "name": "Wianki Festival",
-      "writeup": "A midsummer celebration in Kraków featuring music, traditional rituals, and floating wreaths on the river."
+      "writeup": "A midsummer celebration in Kraków featuring music, traditional rituals, and floating wreaths on the river.",
+      "wiki": {
+        "extract": "Wianki is a cyclical cultural event, taking place annually in Kraków at the bend of Wisła river, near the Wawel hill.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wreathes_in_cracow1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Wianki"
+      }
     },
     {
       "name": "Kraków Film Festival",
-      "writeup": "One of Europe's oldest film festivals, focusing on documentary, animation, and short films."
+      "writeup": "One of Europe's oldest film festivals, focusing on documentary, animation, and short films.",
+      "wiki": {
+        "extract": "The Krakow Film Festival is one of Europe's oldest events dedicated to documentary, animation and other short film forms.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Krakow_Film_Festival_2011%2C_banners%2C_Main_Market_Square%2C_Krakow%2C_Poland.jpg/3840px-Krakow_Film_Festival_2011%2C_banners%2C_Main_Market_Square%2C_Krakow%2C_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w_Film_Festival"
+      }
     },
     {
       "name": "Saint Dominic's Fair",
-      "writeup": "A historic trade and cultural fair held annually in Gdansk since the 13th century."
+      "writeup": "A historic trade and cultural fair held annually in Gdansk since the 13th century.",
+      "wiki": {
+        "extract": "St. Dominic's Fair, is an annual cultural and trade event organized between July and August in the port city of Gdańsk, Pomeranian Voivodeship, Poland. It was founded in 1260 and together with the Oktoberfest, it is considered one of the biggest cultural and trade open-air events in Europe attended by 5-8 million national and international visitors annually.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Brosen_jarmark_dominikanski_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/St._Dominic's_Fair"
+      }
     }
   ],
   "food_writeup": "Polish cuisine features hearty dishes such as pierogi (dumplings), bigos (hunter's stew), and kielbasa (sausage), reflecting a blend of Eastern and Central European culinary traditions.",

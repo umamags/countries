@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Vaduz Film Festival",
-      "writeup": "An annual event showcasing international and local films, promoting cultural exchange."
+      "writeup": "An annual event showcasing international and local films, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Dracula, Prisoner of Frankenstein is a 1972 horror film directed by Jesús Franco and starring Dennis Price, Howard Vernon, Alberto Dalbés, Carmen Yazalde and Luis Barboo.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Dracula-contra-frankenstein-spanish-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dracula%2C_Prisoner_of_Frankenstein"
+      }
     },
     {
       "name": "National Day",
-      "writeup": "Celebrated on August 15th with speeches, fireworks, and traditional festivities."
+      "writeup": "Celebrated on August 15th with speeches, fireworks, and traditional festivities.",
+      "wiki": {
+        "extract": "A national day is a day on which celebrations mark the statehood or nationhood of a state or its people. It may be the date of independence, of becoming a republic, of becoming a federation, or a significant date for a patron saint, a ruler or a date in that country's particular history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_Days_map_5_July_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/National_day"
+      }
     }
   ],
   "food_writeup": "Liechtenstein cuisine is influenced by Swiss and Austrian traditions, featuring dishes like Käsknöpfle (cheese noodles), Ribel (cornmeal dish), and various hearty meat and potato meals.",

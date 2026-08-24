@@ -75,19 +75,39 @@
   "cultural_events": [
     {
       "name": "Muscat Festival",
-      "writeup": "An annual event celebrating Omani culture, arts, and heritage with performances, crafts, and food."
+      "writeup": "An annual event celebrating Omani culture, arts, and heritage with performances, crafts, and food.",
+      "wiki": {
+        "extract": "Oman is a country on the Arabian Peninsula. Tourism in Oman grew considerably during the 2000s, and a 2013 report predicted that it would become one of the largest industries in the nation. In 2019, Oman attracted about 4.1 million visitors from around the world, a massive increase from 3.1 million in 2017 as per the 2019 Tourism Statistic Bulletin from the National Centre for Statistics and Information (NCSI), Oman.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Al-alamPalace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tourism_in_Oman"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and family gatherings."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and family gatherings.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Eid al-Adha",
-      "writeup": "An important religious festival commemorating the willingness of Ibrahim to sacrifice his son, observed with prayers and charity."
+      "writeup": "An important religious festival commemorating the willingness of Ibrahim to sacrifice his son, observed with prayers and charity.",
+      "wiki": {
+        "extract": "Eid al-Adha is the second of the two main festivals in Islam, alongside Eid al-Fitr. It falls on the 10th of Dhu'l-Hijja, the twelfth and final month of the Islamic calendar. Celebrations and observances are generally carried forward to the three following days, known as the Tashreeq days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eid_al_adha_compilation.jpg/3840px-Eid_al_adha_compilation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Adha"
+      }
     },
     {
       "name": "National Day",
-      "writeup": "Celebrated on November 18th, marking Oman's independence and unity with parades and cultural displays."
+      "writeup": "Celebrated on November 18th, marking Oman's independence and unity with parades and cultural displays.",
+      "wiki": {
+        "extract": "A national day is a day on which celebrations mark the statehood or nationhood of a state or its people. It may be the date of independence, of becoming a republic, of becoming a federation, or a significant date for a patron saint, a ruler or a date in that country's particular history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_Days_map_5_July_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/National_day"
+      }
     }
   ],
   "food_writeup": "Omani cuisine features a blend of Middle Eastern, Indian, and African influences, with staples like rice, lamb, chicken, and seafood. Popular dishes include Shuwa (slow-cooked lamb), Majboos (spiced rice with meat), and Halwa (a sweet dessert).",

@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Tbilisi International Film Festival",
-      "writeup": "An annual event showcasing international and Georgian cinema, promoting cultural exchange."
+      "writeup": "An annual event showcasing international and Georgian cinema, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Tbilisi is the capital and largest city of Georgia, located on the banks of the Kura River. With more than 1.3 million inhabitants, it contains almost one third of the country's population. Tbilisi was founded in the 5th century CE by Vakhtang I of Iberia and has since served as the capital of various Georgian kingdoms and republics. Between 1801 and 1917, then part of the Russian Empire, it was the seat of the Caucasus Viceroyalty, governing both the northern and southern sides of the Caucasus.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/3840px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tbilisi"
+      }
     },
     {
       "name": "Rtveli",
-      "writeup": "A traditional grape harvest festival celebrated with feasts, music, and wine-making rituals."
+      "writeup": "A traditional grape harvest festival celebrated with feasts, music, and wine-making rituals.",
+      "wiki": {
+        "extract": "Rtveli is a traditional vintage and rural harvest holiday in Georgia accompanied by feasts, musical events and other celebrations. It normally takes place in late September in eastern Georgia and in mid-October in western Georgia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Vendanges_en_Kakhetie_%28B%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Rtveli"
+      }
     },
     {
       "name": "Tbilisoba",
-      "writeup": "A festival celebrating the city of Tbilisi with music, food, and cultural performances."
+      "writeup": "A festival celebrating the city of Tbilisi with music, food, and cultural performances.",
+      "wiki": {
+        "extract": "Tbilisoba is an annual October festival which celebrates the diversity and history of Tbilisi, the capital of Georgia. It was first held on October 28, 1979, and has since become an established tradition. The festival features open-air concerts of traditional music and dancing and various cultural events, centered on Old Tbilisi, the historical part of the city. Beyond celebrating the city's past and present, people from all over Georgia represent their region at the fair of the harvest and Rtveli. Awarding honorary citizenship of Tbilisi by the city government also occurs in the framework of Tbilisoba.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%BE%D0%B1%D0%B06.jpg/3840px-%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%BE%D0%B1%D0%B06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tbilisoba"
+      }
     }
   ],
   "food_writeup": "Georgian cuisine is known for its diverse flavors and unique dishes such as khachapuri (cheese-filled bread), khinkali (dumplings), and various meat and vegetable stews, often accompanied by local wines.",

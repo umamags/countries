@@ -78,15 +78,27 @@
   "cultural_events": [
     {
       "name": "Carnaval",
-      "writeup": "A vibrant pre-Lenten festival featuring parades, music, and dancing across the country."
+      "writeup": "A vibrant pre-Lenten festival featuring parades, music, and dancing across the country.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Feria de la Chinita",
-      "writeup": "An annual festival in Maracaibo honoring the Virgin of Chiquinquirá with religious and cultural activities."
+      "writeup": "An annual festival in Maracaibo honoring the Virgin of Chiquinquirá with religious and cultural activities.",
+      "wiki": {
+        "extract": "\nThe table below shows a list of the most notable holidays in Venezuela. Popular and public holidays are included in the list.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Venezuela"
+      }
     },
     {
       "name": "Festival de Teatro de Caracas",
-      "writeup": "A major theater festival showcasing national and international performances."
+      "writeup": "A major theater festival showcasing national and international performances.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Venezuelan cuisine features arepas (cornmeal cakes), pabellón criollo (shredded beef with rice and beans), hallacas (corn dough stuffed with meat), and empanadas, reflecting indigenous, African, and Spanish influences.",

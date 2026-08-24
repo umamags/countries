@@ -78,15 +78,27 @@
   "cultural_events": [
     {
       "name": "Havana International Jazz Festival",
-      "writeup": "An annual event attracting international jazz musicians and enthusiasts."
+      "writeup": "An annual event attracting international jazz musicians and enthusiasts.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Carnival of Santiago de Cuba",
-      "writeup": "A vibrant festival featuring music, dance, and colorful parades celebrating Afro-Cuban culture."
+      "writeup": "A vibrant festival featuring music, dance, and colorful parades celebrating Afro-Cuban culture.",
+      "wiki": {
+        "extract": "Whether they are called carnavales, charangas or parrandas, large public celebrations dating at least as far back as the 17th century are common throughout Cuba. However, among Cubans, the Carnaval of Santiago de Cuba enjoys a special status.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Carnival_of_Santiago_de_Cuba"
+      }
     },
     {
       "name": "Havana Biennial",
-      "writeup": "A contemporary art exhibition showcasing Latin American and Caribbean artists."
+      "writeup": "A contemporary art exhibition showcasing Latin American and Caribbean artists.",
+      "wiki": {
+        "extract": "The Bienal de La Habana was a traditional Latin, Caribbean event, originated in Havana, Cuba, that aims to raise awareness to promote contemporary art and giving priority to Latin-American and Caribbean artists.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_bienal_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Havana_Biennial"
+      }
     }
   ],
   "food_writeup": "Cuban cuisine blends Spanish, African, and Caribbean influences, featuring dishes like ropa vieja (shredded beef), black beans and rice, and plantains.",

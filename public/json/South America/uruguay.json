@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Carnival",
-      "writeup": "A vibrant celebration featuring parades, music, and traditional candombe drumming lasting over 40 days."
+      "writeup": "A vibrant celebration featuring parades, music, and traditional candombe drumming lasting over 40 days.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Semana Criolla",
-      "writeup": "A festival celebrating rural traditions, including rodeos, folk music, and traditional food."
+      "writeup": "A festival celebrating rural traditions, including rodeos, folk music, and traditional food.",
+      "wiki": {
+        "extract": "In Hispanic America, criollo is a term used originally to describe people of full and near complete Spanish descent born in the New World viceroyalties, under the Spanish crown. In different Hispanic American countries, the word has come to have different meanings, mostly referring to the local-born majority. Beginning in the 16th century, especially in Mexico and Peru, they were a social class near the top of the casta hierarchy of the overseas realms, but below peninsular European-born Spaniards, for whom the top administrative, clerical and political positions were reserved. They were locally born people — almost always of Spanish ancestry, but also sometimes of other European ethnic backgrounds.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Folding_screen._Sarao_in_a_garden_of_Chapultepec._18th_century._Museo_Nacional_de_Historia._Castle_of_Chapultepec.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Criollo_people"
+      }
     },
     {
       "name": "Festival Internacional de Jazz de Punta del Este",
-      "writeup": "An annual jazz festival attracting international and local musicians."
+      "writeup": "An annual jazz festival attracting international and local musicians.",
+      "wiki": {
+        "extract": "David Feldman is a Brazilian-Israeli Jazz and Bossa Nova pianist, arranger, producer, composer, and sound engineer.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/24_Festival_Internacional_de_Jazz_de_Punta_del_Este_2020_-_DOMINGO_5_-_200105-1203-jikatu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/David_Feldman_(musician)"
+      }
     }
   ],
   "food_writeup": "Uruguayan cuisine is known for its beef, especially asado (barbecue), chivito (a steak sandwich), and mate, a traditional herbal tea widely consumed.",

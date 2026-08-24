@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Nowruz",
-      "writeup": "Persian New Year celebrated on the spring equinox with traditional music, dance, and family gatherings."
+      "writeup": "Persian New Year celebrated on the spring equinox with traditional music, dance, and family gatherings.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and charity."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and charity.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     }
   ],
   "food_writeup": "Afghan cuisine features rice dishes like Kabuli pulao, rich stews, flatbreads, and kebabs, reflecting Central Asian and Middle Eastern influences.",

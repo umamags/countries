@@ -72,23 +72,48 @@
   "cultural_events": [
     {
       "name": "Notting Hill Carnival",
-      "writeup": "Annual Caribbean festival held in London celebrating Caribbean culture and traditions."
+      "writeup": "Annual Caribbean festival held in London celebrating Caribbean culture and traditions.",
+      "wiki": {
+        "extract": "The Notting Hill Carnival is an annual Caribbean Carnival event that has taken place in London since 1966 on the streets of the Notting Hill area of Kensington, over the August Bank Holiday weekend.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notting_Hill_Carnival_2018_%283%29.jpg/3840px-Notting_Hill_Carnival_2018_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Notting_Hill_Carnival"
+      }
     },
     {
       "name": "Glastonbury Festival",
-      "writeup": "One of the world's largest music and performing arts festivals held in Somerset, England."
+      "writeup": "One of the world's largest music and performing arts festivals held in Somerset, England.",
+      "wiki": {
+        "extract": "The Glastonbury Festival of Contemporary Performing Arts is a five-day festival of contemporary performing arts held near Pilton, Somerset, England, in most summers.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Glastologo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Glastonbury_Festival"
+      }
     },
     {
       "name": "Edinburgh Festival Fringe",
-      "writeup": "Largest arts festival in the world, featuring theatre, comedy, dance, and music in Edinburgh."
+      "writeup": "Largest arts festival in the world, featuring theatre, comedy, dance, and music in Edinburgh.",
+      "wiki": {
+        "extract": "The Edinburgh Festival Fringe, often referred to as the Edinburgh Fringe or simply the Fringe, is the world's largest performing arts festival. In 2025, it ran for 25 days, selling more than 2.6 million tickets, and featured 53,942 performances of 3,893 shows across 301 venues, with participants from 68 countries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Edinburgh_Fringe_037.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe"
+      }
     },
     {
       "name": "Trooping the Colour",
-      "writeup": "Annual ceremony marking the official birthday of the British sovereign."
+      "writeup": "Annual ceremony marking the official birthday of the British sovereign.",
+      "wiki": {
+        "extract": "Trooping the Colour is a ceremonial event performed every year on Horse Guards Parade in London, United Kingdom by regiments of the Household Division, to celebrate the official birthday of the sovereign, though the event is not necessarily held on that day. It is officially known as the Sovereign's Birthday Parade, or the King's Birthday Parade. Similar events are held in other Commonwealth countries. In the UK, it is the biggest event of the ceremonial calendar, and is watched by millions on television, on the streets of London, and in the stands at Horse Guards Parade.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Trooping_the_Colour_MOD_45155754.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Trooping_the_Colour"
+      }
     },
     {
       "name": "Bonfire Night",
-      "writeup": "Commemorates the foiling of the Gunpowder Plot of 1605 with fireworks and bonfires across the UK."
+      "writeup": "Commemorates the foiling of the Gunpowder Plot of 1605 with fireworks and bonfires across the UK.",
+      "wiki": {
+        "extract": "Bonfire Night is a name given to various yearly events marked by bonfires and fireworks. These include Guy Fawkes Night in Great Britain; All Hallows' Eve ; May Eve ; Midsummer Eve/Saint John's Eve ; the Eleventh Night among Northern Ireland Protestants; and the Feast of the Assumption among Northern Ireland Catholics.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bonfire_on_Mississippi_River_levee_St._James_Parish_Louisiana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bonfire_Night"
+      }
     }
   ],
   "food_writeup": "British cuisine includes traditional dishes such as fish and chips, roast dinners, full English breakfast, and afternoon tea. It reflects a mix of historical influences and regional specialties.",

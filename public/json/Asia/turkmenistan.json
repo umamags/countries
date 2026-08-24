@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Nowruz",
-      "writeup": "Celebration of the Persian New Year marking the arrival of spring with traditional music, dance, and food."
+      "writeup": "Celebration of the Persian New Year marking the arrival of spring with traditional music, dance, and food.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Turkmen Horse Festival",
-      "writeup": "Event celebrating the Akhal-Teke horse breed, featuring horse races and cultural performances."
+      "writeup": "Event celebrating the Akhal-Teke horse breed, featuring horse races and cultural performances.",
+      "wiki": {
+        "extract": "Turkmens are a Turkic ethnic group native to Central Asia, living mainly in Turkmenistan, northern and northeastern regions of Iran and north-western Afghanistan. Sizeable groups of Turkmens are found also in Uzbekistan, Kazakhstan, and the North Caucasus. They speak the Turkmen language, which is classified as a part of the Eastern Oghuz branch of the Turkic languages.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Independence_Day_Parade_-_Flickr_-_Kerri-Jo_%28215%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Turkmens"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Commemorates Turkmenistan's independence from the Soviet Union on October 27, 1991."
+      "writeup": "Commemorates Turkmenistan's independence from the Soviet Union on October 27, 1991.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     }
   ],
   "food_writeup": "Turkmen cuisine features hearty dishes such as plov (rice pilaf), shashlyk (grilled meat), and various breads. Meals often include lamb, rice, and fresh vegetables, reflecting Central Asian culinary traditions.",

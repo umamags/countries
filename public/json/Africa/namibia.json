@@ -83,15 +83,30 @@
   "cultural_events": [
     {
       "name": "Himba Cultural Festival",
-      "writeup": "Celebrates the traditions and lifestyle of the Himba people, featuring traditional dress, music, and dance."
+      "writeup": "Celebrates the traditions and lifestyle of the Himba people, featuring traditional dress, music, and dance.",
+      "wiki": {
+        "extract": "Oshosheni Hiveluah was a Namibian writer, producer, and director. She is best known for the films Tjitji the Himba Girl and 100 Bucks.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Oshosheni_Hiveluah"
+      }
     },
     {
       "name": "Windhoek Carnival",
-      "writeup": "An annual event showcasing Namibian culture through music, dance, and colorful parades."
+      "writeup": "An annual event showcasing Namibian culture through music, dance, and colorful parades.",
+      "wiki": {
+        "extract": "Kristin Capp is an American photographer, author and educator. Capp's work has been exhibited both nationally and internationally. Her work is included in collections at the Whitney Museum in New York, the Lyman Allyn Art Museum in Connecticut, the International Center of Photography in New York and the Harvard Art Museum. She was one of sixty international artists selected for the Göteborg International Biennial for Contemporary Art in 2017. Her work has appeared in the Bursa International Photofest in Turkey, as well as in Switzerland, France, Belgium, Germany and the United States.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Kristin_Capp"
+      }
     },
     {
       "name": "Oshakati Trade Fair",
-      "writeup": "A major event promoting local businesses, crafts, and cultural performances."
+      "writeup": "A major event promoting local businesses, crafts, and cultural performances.",
+      "wiki": {
+        "extract": "This is a list of diplomatic missions in Namibia. At present, the capital city of Windhoek hosts 34 embassies/high commissions. Meanwhile, the northern towns of Oshakati and Rundu are host to career consulates-general.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coat_of_arms_of_Namibia.svg/960px-Coat_of_arms_of_Namibia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_diplomatic_missions_in_Namibia"
+      }
     }
   ],
   "food_writeup": "Namibian cuisine reflects indigenous traditions and German influences, featuring dishes like kapana (grilled meat), mahangu porridge, and game meats such as oryx and springbok.",

@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Mawazine Festival",
-      "writeup": "An annual music festival in Rabat showcasing international and Moroccan artists, promoting cultural exchange."
+      "writeup": "An annual music festival in Rabat showcasing international and Moroccan artists, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Mawazine is an international music festival held annually in Rabat, Morocco. The event features a wide range of international and local music artists across various genres. Mawazine is organized by Maroc Cultures.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Mawazine"
+      }
     },
     {
       "name": "Fes Festival of World Sacred Music",
-      "writeup": "Celebrates spiritual music from various cultures, held in the historic city of Fez."
+      "writeup": "Celebrates spiritual music from various cultures, held in the historic city of Fez.",
+      "wiki": {
+        "extract": "The Fez Festival of World Sacred Music is an annual music festival that is held for a week in Fez, Morocco. It was first held in 1994 and usually held over 10 days in early June. The festival includes concerts, debates, and joint performances of Muslim and Christian devotional music from artists from all over the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Sacredmusic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Fez_Festival_of_World_Sacred_Music"
+      }
     },
     {
       "name": "Imilchil Marriage Festival",
-      "writeup": "A traditional Berber festival in the Atlas Mountains where local tribes gather for matchmaking and celebrations."
+      "writeup": "A traditional Berber festival in the Atlas Mountains where local tribes gather for matchmaking and celebrations.",
+      "wiki": {
+        "extract": "Imilchil or Imilshil is a small town in Midelt Province of central Morocco, in the Atlas Mountains with a population of about 1,858.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Imilchil"
+      }
     }
   ],
   "food_writeup": "Moroccan cuisine is known for its rich flavors and use of spices such as cumin, saffron, and cinnamon. Signature dishes include tagine, couscous, and pastilla, often combining sweet and savory elements.",

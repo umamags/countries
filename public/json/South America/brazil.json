@@ -75,15 +75,30 @@
   "cultural_events": [
     {
       "name": "Carnival",
-      "writeup": "A world-famous festival featuring samba parades, music, dance, and vibrant costumes."
+      "writeup": "A world-famous festival featuring samba parades, music, dance, and vibrant costumes.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Festa Junina",
-      "writeup": "Traditional June festivals celebrating rural life with folk music, dance, and typical foods."
+      "writeup": "Traditional June festivals celebrating rural life with folk music, dance, and typical foods.",
+      "wiki": {
+        "extract": "Festas Juninas, also known as festas de São João for their part in celebrating the nativity of St. John the Baptist, are annual Brazilian midwinter celebrations. They were introduced by the Portuguese during the colonial period (1500–1822), and are celebrated nationwide in June. The festivals are mainly celebrated on the eves of the Catholic solemnities of Saint Anthony, Saint John the Baptist, and Saint Peter.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Festa_de_S%C3%A3o_Jo%C3%A3o_em_Bar%C3%A3o_Geraldo_2.jpg/3840px-Festa_de_S%C3%A3o_Jo%C3%A3o_em_Bar%C3%A3o_Geraldo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Festa_Junina"
+      }
     },
     {
       "name": "Parintins Folklore Festival",
-      "writeup": "An annual festival in Amazonas showcasing local folklore through music, dance, and theatrical performances."
+      "writeup": "An annual festival in Amazonas showcasing local folklore through music, dance, and theatrical performances.",
+      "wiki": {
+        "extract": "Parintins Folklore Festival, also known as the Parintins Festival, is an annual Brazilian folk festival held in Parintins, Amazonas in Brazil. Usually staged over three nights during the last weekend of June, it centres on competitive performances by the boi-bumbá associations Boi Garantido and Boi Caprichoso.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Parintinsoficial_20260821_130939874.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Parintins_Folklore_Festival"
+      }
     }
   ],
   "food_writeup": "Brazilian cuisine is diverse, featuring dishes like feijoada (black bean stew with pork), pão de queijo (cheese bread), and a variety of tropical fruits. Regional influences include indigenous, African, and Portuguese flavors.",

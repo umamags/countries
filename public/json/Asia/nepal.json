@@ -84,23 +84,45 @@
   "cultural_events": [
     {
       "name": "Dashain",
-      "writeup": "The longest and most significant Hindu festival in Nepal, celebrating the victory of good over evil."
+      "writeup": "The longest and most significant Hindu festival in Nepal, celebrating the victory of good over evil.",
+      "wiki": {
+        "extract": "Dashain or Bada'dashain, also known as Vijaya Dashami in Sanskrit, is a Hindu religious festival primarily in Nepal, Sri Lanka and the Indian regions of Sikkim, West Bengal, Assam, and South India. It is also celebrated by other religions in Nepal and elsewhere, including the Lhotshampa of Bhutan and the Burmese Gurkhas of Myanmar. The festival is also known as Nauratha, derived from the Sanskrit word for the festival: Navaratri.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Durga_as_Slayer_of_the_Buffalo_Demon_Mahishasura_MET_DT5236.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dashain"
+      }
     },
     {
       "name": "Tihar",
-      "writeup": "Also known as the Festival of Lights, it honors various animals and deities over five days."
+      "writeup": "Also known as the Festival of Lights, it honors various animals and deities over five days.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Holi",
-      "writeup": "The vibrant festival of colors marking the arrival of spring and the victory of good over evil."
+      "writeup": "The vibrant festival of colors marking the arrival of spring and the victory of good over evil.",
+      "wiki": {
+        "extract": "Holi is a major Hindu festival of colours, love and spring. It celebrates the love between the deities Radha and Krishna.\nAdditionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. \nHoli originated in ancient Indian subcontinent and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Holi"
+      }
     },
     {
       "name": "Teej",
-      "writeup": "A fasting festival celebrated by women for marital happiness and the well-being of their spouses."
+      "writeup": "A fasting festival celebrated by women for marital happiness and the well-being of their spouses.",
+      "wiki": {
+        "extract": "Teej is a collective term for three Hindu festivals dedicated to the goddess Parvati and her consort Shiva. It is mainly celebrated by married women and unmarried girls, to pray for the long life of their husband or future husband and to welcome the arrival of the monsoon through singing, swinging, dancing, joyous celebration, pūjā, and often fasting.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Teej.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Teej"
+      }
     },
     {
       "name": "Indra Jatra",
-      "writeup": "A festival in Kathmandu honoring the god Indra with masked dances and chariot processions."
+      "writeup": "A festival in Kathmandu honoring the god Indra with masked dances and chariot processions.",
+      "wiki": {
+        "extract": "Indra Jātrā, also known as Yenyā Punhi, is the biggest religious street festival in Kathmandu, Nepal. The celebrations consist of two events, Indra Jātrā and Kumāri Jātrā. Indra Jātrā is marked by masked dances of deities and demons, displays of sacred images, and tableaus in honor of the deity Indra, the king of heaven. Kumāri Jātrā is the chariot procession of the living goddess Kumari.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sweta_bhairava_krt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Indra_Jatra"
+      }
     }
   ],
   "food_writeup": "Nepalese cuisine is diverse, featuring staples like dal bhat (lentil soup with rice), momo (dumplings), and gundruk (fermented leafy greens). It reflects a blend of Tibetan, Indian, and indigenous flavors.",

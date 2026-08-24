@@ -72,23 +72,48 @@
   "cultural_events": [
     {
       "name": "Monaco Grand Prix",
-      "writeup": "An iconic Formula 1 race held annually on the streets of Monaco, attracting global motorsport fans."
+      "writeup": "An iconic Formula 1 race held annually on the streets of Monaco, attracting global motorsport fans.",
+      "wiki": {
+        "extract": "The Monaco Grand Prix is a Formula One motor racing event held annually on the Circuit de Monaco, in late May or early June. Run since 1929, it is widely considered to be one of the most important and prestigious automobile races in the world, and is one of the races—along with the Indianapolis 500 and the 24 Hours of Le Mans—that form the Triple Crown of Motorsport. It is the only Grand Prix that does not adhere to the FIA's mandated 305-kilometre (190-mile) minimum race distance for Formula One races.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/1920px-Monte_Carlo_Formula_1_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Monaco_Grand_Prix"
+      }
     },
     {
       "name": "Monte-Carlo Television Festival",
-      "writeup": "An international festival celebrating television productions, held every June with awards and screenings."
+      "writeup": "An international festival celebrating television productions, held every June with awards and screenings.",
+      "wiki": {
+        "extract": "The Monte-Carlo Television Festival is held every year in June in the Principality of Monaco at the Grimaldi Forum, under the Honorary Presidency of H.S.H. Prince Albert II of Monaco.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GoldenNymph.JPG/1920px-GoldenNymph.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Monte-Carlo_Television_Festival"
+      }
     },
     {
       "name": "Monaco Yacht Show",
-      "writeup": "A prestigious event showcasing luxury yachts and marine innovations, attracting industry professionals worldwide."
+      "writeup": "A prestigious event showcasing luxury yachts and marine innovations, attracting industry professionals worldwide.",
+      "wiki": {
+        "extract": "The Monaco Yacht Show (MYS) is an annual trade show in Monaco, organised by the British events and publishing company, Informa. It was launched in 1991 as a broker-oriented event focused on superyachts over 20 m (66 ft) in length. It is held in Port Hercules, and is Europe's biggest in-water display of large yachts.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Monaco_Yacht_Show"
+      }
     },
     {
       "name": "Rose Ball",
-      "writeup": "A glamorous charity ball featuring elegant costumes and dancing, supporting local philanthropic causes."
+      "writeup": "A glamorous charity ball featuring elegant costumes and dancing, supporting local philanthropic causes.",
+      "wiki": {
+        "extract": "The Ball of Roses is a established debutante ball in Birmingham, Alabama. It is sponsored by the Ballet Guild of Birmingham and a fund-raiser for the Alabama Ballet.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Ball_of_Roses"
+      }
     },
     {
       "name": "International Circus Festival of Monte-Carlo",
-      "writeup": "A renowned circus festival highlighting world-class performers and acts, promoting circus arts."
+      "writeup": "A renowned circus festival highlighting world-class performers and acts, promoting circus arts.",
+      "wiki": {
+        "extract": "The International Circus Festival of Monte-Carlo is an annual circus that takes place every January. The festival was created in 1974 by Prince Rainier III of Monaco to recognize and promote circus performers at the pinnacle of their profession. It was initially held in Monte Carlo until the festival's permanent venue in Monaco's Fontvieille district, the Chapiteau de Fontvieille, was completed.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Scott%26MurielinMonteCarlo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/International_Circus_Festival_of_Monte-Carlo"
+      }
     }
   ],
   "food_writeup": "Monaco's cuisine reflects Mediterranean influences with a focus on fresh seafood, Provençal herbs, and Italian flavors, featuring dishes like Barbagiuan (stuffed pastry) and Socca (chickpea pancake).",

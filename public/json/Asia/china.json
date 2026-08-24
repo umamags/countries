@@ -81,15 +81,30 @@
   "cultural_events": [
     {
       "name": "Chinese New Year",
-      "writeup": "Also known as Spring Festival, it marks the lunar new year with family reunions, fireworks, and traditional performances."
+      "writeup": "Also known as Spring Festival, it marks the lunar new year with family reunions, fireworks, and traditional performances.",
+      "wiki": {
+        "extract": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture. Marking the end of winter and the beginning of spring, this festival takes place from Chinese New Year's Eve to the Lantern Festival, held on the 15th day of the year. The first day of the Chinese New Year falls on the new moon that appears between 21 January and 20 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      }
     },
     {
       "name": "Mid-Autumn Festival",
-      "writeup": "Celebrated with mooncakes and lanterns, it honors the harvest and the full moon."
+      "writeup": "Celebrated with mooncakes and lanterns, it honors the harvest and the full moon.",
+      "wiki": {
+        "extract": "The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a harvest festival celebrated in Chinese culture. It occurs on the 15th day of the 8th month of the Chinese lunisolar calendar and can fall between 7 September and 8 October (inclusive) of the Gregorian calendar. On this day, the Chinese believe that the moon is at its fullest and brightest, coinciding with the time of harvest in the middle of autumn.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mid-Autumn_Festival-beijing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mid-Autumn_Festival"
+      }
     },
     {
       "name": "Dragon Boat Festival",
-      "writeup": "Commemorates the poet Qu Yuan with boat races and eating zongzi (sticky rice dumplings)."
+      "writeup": "Commemorates the poet Qu Yuan with boat races and eating zongzi (sticky rice dumplings).",
+      "wiki": {
+        "extract": "The Dragon Boat Festival, also known as the Duanwu Festival or Tuen Ng Festival, is a traditional Chinese holiday that occurs on the fifth day of the fifth month of the Chinese calendar, which corresponds to late May or early June in the Gregorian calendar. The holiday commemorates Qu Yuan who was the beloved prime minister of the southern Chinese state of Chu during the Warring States period, about 600 B.C. to 200 B.C., and is celebrated by holding dragon boat races and eating sticky rice dumplings called zongzi, which were southern Chinese traditions. The Dragon Boat Festival integrates praying for good luck and taking respite from the summer heat.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Qing_Dynasty_Dragon_Boat_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dragon_Boat_Festival"
+      }
     }
   ],
   "food_writeup": "Chinese cuisine is diverse, featuring regional styles such as Sichuan's spicy dishes, Cantonese dim sum, and northern wheat-based foods. Staple ingredients include rice, noodles, soy products, and a variety of meats and vegetables.",

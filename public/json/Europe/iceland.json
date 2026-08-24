@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Iceland Airwaves",
-      "writeup": "An annual music festival showcasing Icelandic and international artists."
+      "writeup": "An annual music festival showcasing Icelandic and international artists.",
+      "wiki": {
+        "extract": "Iceland Airwaves is a music festival held annually in November in Reykjavík, Iceland, since 1999. Its main focus is showcasing new music, both Icelandic and international.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jakob%C3%ADnar%C3%ADna_at_Iceland_Airwaves_%2706.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Iceland_Airwaves"
+      }
     },
     {
       "name": "Þorrablót",
-      "writeup": "A midwinter festival celebrating traditional Icelandic food and heritage."
+      "writeup": "A midwinter festival celebrating traditional Icelandic food and heritage.",
+      "wiki": {
+        "extract": "Þorrablót is an Icelandic midwinter festival, named for the month of Þorri of the historical Icelandic calendar, and blót, literally meaning sacrifice.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/%C3%9Eorrabl%C3%B3t"
+      }
     },
     {
       "name": "Reykjavik International Film Festival",
-      "writeup": "An event promoting independent films from around the world."
+      "writeup": "An event promoting independent films from around the world.",
+      "wiki": {
+        "extract": "Reykjavík International Film Festival is an international film festival held annually in Reykjavík, Iceland. The festival lasts 11 days each year and emphasizes young talents. One way of doing so is having a competitive category exclusively limited to a director's first or second feature-length film. At each festival, a number of awards are given out. The main award is the Discovery of the Year award, also called Golden Puffin, given by an international jury. The international federation of film critics FIPRESCI send a jury to RIFF from 2006. Also, the audience can vote for their favorite film from the whole programme. Lifetime achievement awards and creative excellence awards are given to well-known film directors who have achieved excellence in their work.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logoriff2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_International_Film_Festival"
+      }
     },
     {
       "name": "National Day",
-      "writeup": "Celebrated on June 17th, marking Iceland's independence from Denmark in 1944."
+      "writeup": "Celebrated on June 17th, marking Iceland's independence from Denmark in 1944.",
+      "wiki": {
+        "extract": "A national day is a day on which celebrations mark the statehood or nationhood of a state or its people. It may be the date of independence, of becoming a republic, of becoming a federation, or a significant date for a patron saint, a ruler or a date in that country's particular history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_Days_map_5_July_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/National_day"
+      }
     },
     {
       "name": "Winter Lights Festival",
-      "writeup": "A festival celebrating the return of light with art, culture, and outdoor activities."
+      "writeup": "A festival celebrating the return of light with art, culture, and outdoor activities.",
+      "wiki": {
+        "extract": "The Winter Festival of Lights in Niagara Falls, Ontario, is Canada's largest lights festival. It runs from mid-November to mid-January and attracts over one million visitors annually. The event has free admission while accepting voluntary donations. As of 2023, it features a decorated eight-kilometre route along the Niagara Parkway that extends into the tourist districts and the Dufferin Islands. The lights are installed and run by Ontario Power Generation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Niagara-Parkway-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Winter_Festival_of_Lights"
+      }
     }
   ],
   "food_writeup": "Icelandic cuisine features fresh seafood, lamb, and dairy products, with traditional dishes like skyr, hákarl (fermented shark), and rye bread. The cuisine reflects the island's Nordic heritage and reliance on local ingredients.",

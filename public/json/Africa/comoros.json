@@ -46,11 +46,18 @@
   "cultural_events": [
     {
       "name": "Mwaka Kogwa",
-      "writeup": "A traditional New Year celebration involving ritual fights and ceremonies to bring good fortune."
+      "writeup": "A traditional New Year celebration involving ritual fights and ceremonies to bring good fortune.",
+      "wiki": {
+        "extract": "Makunduchi is a historic town and district capital in the Kusini District of the Unguja South Region in Tanzania. It is located inside the Kajengwa ward, and Mtegani ward, occupying Kiongoni neighborhood, Nganani neighborhood and Kijini neighborhood. The town comprises two distinct settlements, about 2 km from each other, \"Old Makunduchi\" on the east and \"New Makunduchi\". Old Makunduchi is a small fishermen's village on the shore of the Indian Ocean with the Nganani mtaa (neighborhood), while New Makunduchi has some modern buildings, shops, as well as some blocks of flats that were built in the 1970s with the aid of East Germans in return for Tanzanian political support internationally. The town is also the birthplace and resting place for the 4th president of Zanzibar Idris Abdul Wakil. Makunduchi is also the birthplace of Samia Suluhu Hassan, the president of Tanzania. Other famous politicians for Makunduchi include Mohamed Gharib Bilal. Also famous novelist Muhammed Said Abdulla.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Makunduchi_%2CZanzibar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Makunduchi"
+      }
     },
     {
       "name": "Sultan's Festival",
-      "writeup": "An event celebrating the history and culture of the Comorian sultanates with music, dance, and parades."
+      "writeup": "An event celebrating the history and culture of the Comorian sultanates with music, dance, and parades.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Comorian cuisine blends African, Arabic, and French influences, featuring staples like rice, seafood, coconut, and spices such as vanilla and cloves.",

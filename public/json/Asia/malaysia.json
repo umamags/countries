@@ -81,23 +81,48 @@
   "cultural_events": [
     {
       "name": "Hari Raya Aidilfitri",
-      "writeup": "A major Muslim festival marking the end of Ramadan, celebrated with feasts and family gatherings."
+      "writeup": "A major Muslim festival marking the end of Ramadan, celebrated with feasts and family gatherings.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Chinese New Year",
-      "writeup": "Celebrated by the Chinese community with lion dances, fireworks, and family reunions."
+      "writeup": "Celebrated by the Chinese community with lion dances, fireworks, and family reunions.",
+      "wiki": {
+        "extract": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture. Marking the end of winter and the beginning of spring, this festival takes place from Chinese New Year's Eve to the Lantern Festival, held on the 15th day of the year. The first day of the Chinese New Year falls on the new moon that appears between 21 January and 20 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      }
     },
     {
       "name": "Deepavali",
-      "writeup": "The Hindu festival of lights, symbolizing the victory of light over darkness."
+      "writeup": "The Hindu festival of lights, symbolizing the victory of light over darkness.",
+      "wiki": {
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Diwali"
+      }
     },
     {
       "name": "Thaipusam",
-      "writeup": "A Hindu festival involving a pilgrimage and acts of devotion, notably at Batu Caves."
+      "writeup": "A Hindu festival involving a pilgrimage and acts of devotion, notably at Batu Caves.",
+      "wiki": {
+        "extract": "Thaipusam or Thaipoosam is a Tamil Hindu festival celebrated on the first full moon day of the Tamil month of Thai coinciding with Pusam star. The festival is celebrated to commemorate the victory of Hindu god Murugan over the demon Surapadman. During the battle, Murugan is believed to have wielded a vel, a divine spear granted by his mother, Parvati.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Penang_thaipusam_Kavadi_procceession.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Thaipusam"
+      }
     },
     {
       "name": "Malaysia Day",
-      "writeup": "Commemorates the formation of Malaysia on September 16, 1963."
+      "writeup": "Commemorates the formation of Malaysia on September 16, 1963.",
+      "wiki": {
+        "extract": "Malaysia Day is a public holiday observed nationwide on 16 September each year since 2010. It marks the anniversary of the signing of the Malaysia Agreement, which came into effect on that date in 1963 and led to the creation of Malaysia. The agreement brought together Malaya, North Borneo, Sarawak and Singapore into a single federation. Singapore later separated from the federation on 9 August 1965, and Malaysia Day is no longer observed there.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Malaysia_Day_Event_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Malaysia_Day"
+      }
     }
   ],
   "food_writeup": "Malaysian cuisine is a vibrant blend of Malay, Chinese, Indian, and indigenous influences, featuring dishes like nasi lemak, laksa, satay, and roti canai, known for its rich spices and diverse flavors.",

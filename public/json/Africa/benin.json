@@ -56,11 +56,21 @@
   "cultural_events": [
     {
       "name": "Voodoo Festival",
-      "writeup": "Annual celebration honoring the traditional Vodun religion with rituals, music, and dance."
+      "writeup": "Annual celebration honoring the traditional Vodun religion with rituals, music, and dance.",
+      "wiki": {
+        "extract": "The Voodoo Music + Arts Experience, commonly referred to as Voodoo or Voodoo Fest, was a multi-day music and arts festival held in City Park in New Orleans, Louisiana. First started in 1999, it was last held in October 2019, after being canceled in 2020 and 2021 due to the COVID-19 pandemic, and canceled in 2022 without explanation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Snoop_at_Voodoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Voodoo_Music_%2B_Arts_Experience"
+      }
     },
     {
       "name": "Ganvie Festival",
-      "writeup": "Festival in the lake village of Ganvie celebrating the unique stilt village culture."
+      "writeup": "Festival in the lake village of Ganvie celebrating the unique stilt village culture.",
+      "wiki": {
+        "extract": "Pascal Abikanlou \nwas a Beninese film maker, director and producer. He is considered the \"father of Beninese cinema\".",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Pascal_Abikanlou"
+      }
     }
   ],
   "food_writeup": "Beninese cuisine features staple foods like maize, rice, yams, and cassava, often served with spicy sauces and stews made from peanuts, tomatoes, and local vegetables.",

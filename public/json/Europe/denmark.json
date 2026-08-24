@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Copenhagen Jazz Festival",
-      "writeup": "An annual music festival attracting international jazz artists and audiences."
+      "writeup": "An annual music festival attracting international jazz artists and audiences.",
+      "wiki": {
+        "extract": "Copenhagen Jazz Festival is a jazz event every July in Copenhagen, the capital of Denmark. Copenhagen Jazz Festival was established in 1979, but beginning in 1964 Tivoli Gardens presented a series of concerts under the name Copenhagen Jazz Festival with Thelonious Monk, Miles Davis and many others.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Copenhagenjazzfestivallogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Copenhagen_Jazz_Festival"
+      }
     },
     {
       "name": "Roskilde Festival",
-      "writeup": "One of Europe's largest music festivals featuring diverse genres."
+      "writeup": "One of Europe's largest music festivals featuring diverse genres.",
+      "wiki": {
+        "extract": "The Roskilde Festival is a Danish music festival held annually south of Roskilde. It is one of the largest music festivals in Europe and the largest in the Nordic countries. It was created in 1971 by two high school students and a promoter. In 1972, the festival was taken over by the Roskilde Foundation, which has since run the festival as a non-profit organization for development and support of music, culture and humanism. In 2014, the Roskilde Foundation provided festival participants with the opportunity to nominate and vote upon which organizations should receive funds raised by the festival.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roskilde_Festival_-_Orange_Stage_-_Bruce_Springsteen.jpg/3840px-Roskilde_Festival_-_Orange_Stage_-_Bruce_Springsteen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Roskilde_Festival"
+      }
     },
     {
       "name": "Aarhus Festival",
-      "writeup": "A cultural festival showcasing music, theatre, and art in Denmark's second-largest city."
+      "writeup": "A cultural festival showcasing music, theatre, and art in Denmark's second-largest city.",
+      "wiki": {
+        "extract": "Aarhus is the second-largest city in Denmark and the seat of Aarhus Municipality. It is located on the eastern shore of Jutland in the Kattegat sea and approximately 187 kilometres (116 mi) northwest of Copenhagen. Its urban population was 305,227 in 2026.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg/3840px-Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Aarhus"
+      }
     },
     {
       "name": "Fastelavn",
-      "writeup": "A traditional Danish carnival celebrated before Lent with costumes and games."
+      "writeup": "A traditional Danish carnival celebrated before Lent with costumes and games.",
+      "wiki": {
+        "extract": "Fastelavn is a Carnival tradition in the Northern European, and historically Lutheran, nations of Denmark, Norway, Sweden, Latvia, Estonia, Iceland, Faroe Islands, as well as Greenland.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Boern_og_fastelavnstoende_1937_kgl_bib_billedsamling.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Fastelavn"
+      }
     },
     {
       "name": "Christmas Markets",
-      "writeup": "Festive markets held across Denmark featuring crafts, food, and holiday traditions."
+      "writeup": "Festive markets held across Denmark featuring crafts, food, and holiday traditions.",
+      "wiki": {
+        "extract": "A Christmas market is a street market associated with the celebration of Christmas during the four weeks of Advent. These markets originated in Germany, but are now held in many countries. Some in the U.S. have adapted the German name to quasi-English Christkindlmarket, swapping German Markt and market.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christkindlesmarkt_nuernberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Christmas_market"
+      }
     }
   ],
   "food_writeup": "Danish cuisine features open-faced sandwiches called smørrebrød, pastries like Danish wienerbrød, and hearty dishes including pork, potatoes, and rye bread. Seafood is also prominent due to Denmark's coastal geography.",

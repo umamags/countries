@@ -57,11 +57,21 @@
   "cultural_events": [
     {
       "name": "South Sudan Independence Day",
-      "writeup": "Celebrated on July 9th, marking the country's independence from Sudan in 2011."
+      "writeup": "Celebrated on July 9th, marking the country's independence from Sudan in 2011.",
+      "wiki": {
+        "extract": "South Sudan, officially the Republic of South Sudan, is a landlocked country in East Africa. It is bordered by Sudan to the north, Ethiopia to the east, Kenya to the southeast, Uganda to the south, the Democratic Republic of the Congo to the southwest, and the Central African Republic to the west. South Sudan's diverse landscape includes vast plains and plateaus, dry and tropical savannahs, inland floodplains, and forested mountains. The Nile River system is the defining physical feature of the country, running south to north across its center, which is dominated by a large swamp known as the Sudd. South Sudan has an estimated population of just over 12.7 million in 2024. Juba is the capital and largest city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1280px-Flag_of_South_Sudan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/South_Sudan"
+      }
     },
     {
       "name": "Traditional Dance Festivals",
-      "writeup": "Various ethnic groups celebrate with traditional dances and music, showcasing their cultural heritage."
+      "writeup": "Various ethnic groups celebrate with traditional dances and music, showcasing their cultural heritage.",
+      "wiki": {
+        "extract": "A folk dance is a dance that reflects the life of the people of a certain country or region. Not all ethnic dances are folk dances. For example, ritual dances or dances of ritual origin are not considered to be folk dances. Ritual dances are usually called \"religious dances\" because of their purpose.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dansa_tradicional_valenciana_-_Museu_Valenci%C3%A0_d%27Etnologia.jpg/3840px-Dansa_tradicional_valenciana_-_Museu_Valenci%C3%A0_d%27Etnologia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Folk_dance"
+      }
     }
   ],
   "food_writeup": "South Sudanese cuisine features staples like sorghum, millet, and maize, often served with stews made from meat, fish, and vegetables. Popular dishes include kisra (a type of bread) and asida (a porridge).",

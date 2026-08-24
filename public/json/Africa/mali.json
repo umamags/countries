@@ -55,11 +55,21 @@
   "cultural_events": [
     {
       "name": "Festival in the Desert",
-      "writeup": "A music festival celebrating Tuareg culture and Saharan music near Timbuktu."
+      "writeup": "A music festival celebrating Tuareg culture and Saharan music near Timbuktu.",
+      "wiki": {
+        "extract": "The Festival au désert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Audience_at_the_Festival_au_Desert_near_Timbuktu%2C_Mali_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festival_au_D%C3%A9sert"
+      }
     },
     {
       "name": "Mopti Cultural Festival",
-      "writeup": "An event showcasing the diverse ethnic groups and traditions of Mali."
+      "writeup": "An event showcasing the diverse ethnic groups and traditions of Mali.",
+      "wiki": {
+        "extract": "The Festival au désert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Audience_at_the_Festival_au_Desert_near_Timbuktu%2C_Mali_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festival_au_D%C3%A9sert"
+      }
     }
   ],
   "food_writeup": "Malian cuisine features staples like millet, rice, and sorghum, often accompanied by sauces made from peanuts, okra, and various vegetables. Popular dishes include tô (a millet porridge) and grilled meats.",

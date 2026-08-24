@@ -49,11 +49,21 @@
   "cultural_events": [
     {
       "name": "Novruz Bayram",
-      "writeup": "A traditional celebration of the Persian New Year marking the arrival of spring with various rituals and festivities."
+      "writeup": "A traditional celebration of the Persian New Year marking the arrival of spring with various rituals and festivities.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Baku International Jazz Festival",
-      "writeup": "An annual event attracting international jazz artists, celebrating Azerbaijan's jazz heritage."
+      "writeup": "An annual event attracting international jazz artists, celebrating Azerbaijan's jazz heritage.",
+      "wiki": {
+        "extract": "The Baku International Jazz Festival is an annual jazz event founded and organized by saxophonist and Baku resident Rain Sultanov. The festival aims to showcase Azerbaijan's long-running attachment to jazz, a connection established in the country during the 1950s and 1960s when jazz was outlawed by Soviet authorities. The festival has welcomed musicians from Georgia, Portugal, Italy, Israel, United States, Germany, Canada, and Russia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Stamps_of_Azerbaijan%2C_2014-1143-souvenir_sheet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Baku_International_Jazz_Festival"
+      }
     }
   ],
   "food_writeup": "Azerbaijani cuisine features diverse dishes with influences from Middle Eastern, Eastern European, and Mediterranean cuisines, known for kebabs, plov (rice pilaf), dolma, and rich use of herbs and spices.",

@@ -66,15 +66,30 @@
   "cultural_events": [
     {
       "name": "Easter Mass",
-      "writeup": "A significant religious event led by the Pope, attracting pilgrims worldwide."
+      "writeup": "A significant religious event led by the Pope, attracting pilgrims worldwide.",
+      "wiki": {
+        "extract": "Easter, also called Pasch or Pascha or Resurrection Sunday, is a Christian festival and cultural holiday commemorating the resurrection of Jesus from the dead, described in the Bible's New Testament as having occurred on the third day of his burial following his crucifixion by the Romans at Calvary c. 30 AD. It is the culmination of the Passion of Jesus, preceded by Lent, a 40-day period of fasting, prayer, and penance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chora_Anastasis2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Easter"
+      }
     },
     {
       "name": "Christmas Eve Mass",
-      "writeup": "A major liturgical celebration held in St. Peter's Basilica."
+      "writeup": "A major liturgical celebration held in St. Peter's Basilica.",
+      "wiki": {
+        "extract": "In many Western Christian traditions, Midnight Mass is the first liturgy of Christmastide that is celebrated on the night of Christmas Eve, traditionally beginning at midnight when Christmas Eve gives way to Christmas Day. This popular Christmas custom is a jubilant celebration of the Mass or service of worship in honour of the Nativity of Jesus; even many of those Christian denominations that do not regularly employ the word Mass uniquely use the term \"Midnight Mass\" for their Christmas Eve liturgy as it includes the celebration of Holy Communion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Evangelieprocession_med_r%C3%B6kelse_i_Sankt_Matteus.jpg/3840px-Evangelieprocession_med_r%C3%B6kelse_i_Sankt_Matteus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Midnight_Mass"
+      }
     },
     {
       "name": "Canonization Ceremonies",
-      "writeup": "Events where the Pope declares new saints, often held in St. Peter's Square."
+      "writeup": "Events where the Pope declares new saints, often held in St. Peter's Square.",
+      "wiki": {
+        "extract": "On 7 September 2025, two blessed candidates, Carlo Acutis and Pier Giorgio Frassati, were both canonized in the Vatican City by Pope Leo XIV, who had begun his papacy on 8 May 2025.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/Carlo_Acutis_%28born_1991%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Canonization_of_Carlo_Acutis_and_Pier_Giorgio_Frassati"
+      }
     }
   ],
   "food_writeup": "Vatican City does not have a distinct cuisine but shares culinary traditions with Rome, featuring Italian staples like pasta, pizza, and gelato.",

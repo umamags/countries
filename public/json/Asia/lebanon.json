@@ -77,15 +77,30 @@
   "cultural_events": [
     {
       "name": "Beirut International Film Festival",
-      "writeup": "Annual event showcasing regional and international films, promoting cultural exchange."
+      "writeup": "Annual event showcasing regional and international films, promoting cultural exchange.",
+      "wiki": {
+        "extract": "A growing number of film festivals are held in the Arab world to showcase films from the region as well as international standouts. In addition, institutions and organizations in other parts of the world are increasingly honoring the new generation of filmmakers in the Arab world with Arab film festivals.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Arab_film_festivals"
+      }
     },
     {
       "name": "Byblos International Festival",
-      "writeup": "Music and arts festival held in the ancient city of Byblos featuring global artists."
+      "writeup": "Music and arts festival held in the ancient city of Byblos featuring global artists.",
+      "wiki": {
+        "extract": "The Byblos International Festival is a Lebanese festival held in Byblos, believed to be the first Phoenician city, founded around 5000 BC. The festival is the biggest in Lebanon, and attracts thousands of tourists from all over the world.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Byblos_International_Festival"
+      }
     },
     {
       "name": "Mawazine Festival",
-      "writeup": "Celebrates Lebanese music and culture with performances across the country."
+      "writeup": "Celebrates Lebanese music and culture with performances across the country.",
+      "wiki": {
+        "extract": "Mawazine is an international music festival held annually in Rabat, Morocco. The event features a wide range of international and local music artists across various genres. Mawazine is organized by Maroc Cultures.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Mawazine"
+      }
     }
   ],
   "food_writeup": "Lebanese cuisine is known for its use of fresh ingredients, olive oil, herbs, and spices, featuring dishes like hummus, tabbouleh, kibbeh, and manakish.",

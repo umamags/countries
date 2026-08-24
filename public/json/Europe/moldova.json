@@ -49,11 +49,21 @@
   "cultural_events": [
     {
       "name": "Martisor",
-      "writeup": "A spring festival celebrated on March 1st, marking the beginning of spring with traditional crafts and customs."
+      "writeup": "A spring festival celebrated on March 1st, marking the beginning of spring with traditional crafts and customs.",
+      "wiki": {
+        "extract": "Mărțișor is a tradition celebrated at the beginning of Spring in March, involving an object made from two intertwined red and white strings with hanging tassels. It is practiced in Romania and Moldova, and very similar to Martenitsa tradition in Bulgaria, Martinka in North Macedonia and traditions of other populations from Southeastern Europe.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Martisor_simple.svg/960px-Martisor_simple.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/M%C4%83r%C8%9Bi%C8%99or"
+      }
     },
     {
       "name": "Wine Festival",
-      "writeup": "An annual event celebrating Moldova's rich winemaking tradition with tastings, music, and cultural performances."
+      "writeup": "An annual event celebrating Moldova's rich winemaking tradition with tastings, music, and cultural performances.",
+      "wiki": {
+        "extract": "Annual wine festivals celebrate viticulture and usually occur after the harvest of the grapes which, in the northern hemisphere, generally falls at the end of September and runs until well into October or later. They are common in most wine regions around the world and are to be considered in the tradition of other harvest festivals.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/%27The_Wine_Festival%27_by_Albert_Anker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Wine_festival"
+      }
     }
   ],
   "food_writeup": "Moldovan cuisine features hearty dishes with influences from Romanian, Ukrainian, and Russian traditions, including mamaliga (cornmeal porridge), placinta (filled pastries), and various meat stews.",

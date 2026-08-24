@@ -77,23 +77,48 @@
   "cultural_events": [
     {
       "name": "Schueberfouer",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Schueberfouer is the annual Luxembourg City funfair held on the Glacis square in the city district of Limpertsberg. The 681st edition of the largest amusement park in the wider region beyond national borders started on 23 August 2023 and ended on 11 September 2023.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schueberfouer_2025_2.jpg/3840px-Schueberfouer_2025_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Schueberfouer"
+      }
     },
     {
       "name": "National Day",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "A national day is a day on which celebrations mark the statehood or nationhood of a state or its people. It may be the date of independence, of becoming a republic, of becoming a federation, or a significant date for a patron saint, a ruler or a date in that country's particular history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_Days_map_5_July_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/National_day"
+      }
     },
     {
       "name": "Echternach Dancing Procession",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The hopping procession of Echternach, also known as the dancing procession of Echternach, is an annual Roman Catholic procession held at Echternach, in eastern Luxembourg. Echternach's is the last traditional dancing procession in Europe.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/EchternachDancingProcession.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dancing_procession_of_Echternach"
+      }
     },
     {
       "name": "Luxembourg City Film Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Luxembourg City Film Festival (LuxFilmFest) is an annual film festival in Luxembourg. Supported by the Ministry of Culture and the City of Luxembourg, the Luxembourg City Film Festival is the nation's official festival. The festival showcases contemporary international creations through a selection of fiction and documentaries, special screenings, national productions, and a segment for young audiences.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/2024_Luxembourg_City_Film_Festival_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Luxembourg_City_Film_Festival"
+      }
     },
     {
       "name": "Christmas Markets",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "A Christmas market is a street market associated with the celebration of Christmas during the four weeks of Advent. These markets originated in Germany, but are now held in many countries. Some in the U.S. have adapted the German name to quasi-English Christkindlmarket, swapping German Markt and market.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christkindlesmarkt_nuernberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Christmas_market"
+      }
     }
   ],
   "food_writeup": "Luxembourgish cuisine blends French and German influences, featuring dishes like Judd mat Gaardebounen (smoked pork with broad beans), Bouneschlupp (green bean soup), and Gromperekichelcher (potato pancakes).",

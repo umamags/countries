@@ -55,11 +55,21 @@
   "cultural_events": [
     {
       "name": "Sahrawi National Day",
-      "writeup": "Celebrated on February 27, marking the founding of the Polisario Front and the Sahrawi struggle for independence."
+      "writeup": "Celebrated on February 27, marking the founding of the Polisario Front and the Sahrawi struggle for independence.",
+      "wiki": {
+        "extract": "The Sahrawis, or Sahrawi people, are an ethnic group native to the western part of the Sahara desert, which includes the Western Sahara, southern Morocco, much of Mauritania, and along the southwestern border of Algeria. They are of mixed Hassani Arab and Sanhaji Berber descent, as well as West African and other indigenous populations.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Group_photo_of_the_Working_Group_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sahrawis"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival celebrated by Sahrawi people marking the end of Ramadan with communal prayers and feasts."
+      "writeup": "A major Islamic festival celebrated by Sahrawi people marking the end of Ramadan with communal prayers and feasts.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     }
   ],
   "food_writeup": "Sahrawi cuisine is influenced by Berber, Arab, and Spanish traditions, featuring dishes like mechoui (roasted lamb), couscous, and tea ceremonies with mint tea.",

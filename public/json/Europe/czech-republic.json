@@ -75,23 +75,48 @@
   "cultural_events": [
     {
       "name": "Prague Spring International Music Festival",
-      "writeup": "An annual classical music festival held in Prague featuring international artists."
+      "writeup": "An annual classical music festival held in Prague featuring international artists.",
+      "wiki": {
+        "extract": "The Prague Spring International Music Festival is a classical music festival held every year in Prague, Czech Republic, with symphony orchestras and chamber music ensembles from around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Prague_Municipal_Smetana_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Prague_Spring_International_Music_Festival"
+      }
     },
     {
       "name": "Karlovy Vary International Film Festival",
-      "writeup": "One of the oldest film festivals in the world, showcasing international cinema."
+      "writeup": "One of the oldest film festivals in the world, showcasing international cinema.",
+      "wiki": {
+        "extract": "The Karlovy Vary International Film Festival is an annual film festival held in Karlovy Vary, Czech Republic. The Karlovy Vary Festival is one of the oldest in the world and has become the leading film event in Central and Eastern Europe.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Karlovy_Vary_International_Film_Festival_logo.svg/330px-Karlovy_Vary_International_Film_Festival_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Karlovy_Vary_International_Film_Festival"
+      }
     },
     {
       "name": "Masopust",
-      "writeup": "Traditional Czech carnival celebrated before Lent with parades and folk customs."
+      "writeup": "Traditional Czech carnival celebrated before Lent with parades and folk customs.",
+      "wiki": {
+        "extract": "Josef Masopust was a Czech football player and coach. He played as midfielder and was a key player for Czechoslovakia, helping them reach the 1962 FIFA World Cup Final. He was capped 63 times, scoring ten goals for his national team.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Josef_Masopust_official_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Josef_Masopust"
+      }
     },
     {
       "name": "St. Wenceslas Celebrations",
-      "writeup": "Events commemorating the patron saint of the Czech lands, including parades and cultural programs."
+      "writeup": "Events commemorating the patron saint of the Czech lands, including parades and cultural programs.",
+      "wiki": {
+        "extract": "Wenceslaus I, Wenceslas I or Václav the Good was the Prince (kníže) of Bohemia from 921 until his death, probably in 935. According to the legend, he was assassinated by his younger brother, Boleslaus the Cruel.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Wolfenb%C3%BCttelsk%C3%BD_kodex_%E2%80%93_Gumpoldova_legenda_%E2%80%93_18v_cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Wenceslaus_I%2C_Duke_of_Bohemia"
+      }
     },
     {
       "name": "Bohemian Carnevale",
-      "writeup": "A colorful festival in Prague featuring masks, costumes, and street performances."
+      "writeup": "A colorful festival in Prague featuring masks, costumes, and street performances.",
+      "wiki": {
+        "extract": "This is a list of composers of 20th-century classical music, sortable by name, year of birth, year of death, nationality, notable works, and remarks. It includes only composers of significant fame and importance. The style of the composer's music is given where possible, bearing in mind that some defy simple classification. Names are listed first by year of birth, then in alphabetical order within each year. The 20th century is defined by the calendar rather than by any unifying characteristics of musical style or attitude, and is therefore not an era of the same order as the classical or romantic. However, the century can be divided into modern and postmodern eras that overlap and can be defined more by differences in attitude than style.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_20th-century_classical_composers"
+      }
     }
   ],
   "food_writeup": "Czech cuisine is hearty and rich, featuring dishes like svínková (marinated beef with creamy sauce), goulash, dumplings, and traditional pastries. Beer is a significant part of the culture, with the Czech Republic having one of the highest beer consumptions per capita worldwide.",

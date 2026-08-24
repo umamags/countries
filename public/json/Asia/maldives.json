@@ -73,19 +73,39 @@
   "cultural_events": [
     {
       "name": "Eid-ul-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and community gatherings."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and community gatherings.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on July 26th, commemorating Maldives' independence from British protection in 1965."
+      "writeup": "Celebrated on July 26th, commemorating Maldives' independence from British protection in 1965.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     },
     {
       "name": "Maldivian New Year",
-      "writeup": "Known as 'Raajje Reethi,' it marks the beginning of the new year according to the Islamic calendar with traditional music and dance."
+      "writeup": "Known as 'Raajje Reethi,' it marks the beginning of the new year according to the Islamic calendar with traditional music and dance.",
+      "wiki": {
+        "extract": "Maldivians are an Indo-Aryan ethnic group and nation native to the Maldive Islands, constituting the Republic of Maldives and the island of Minicoy. They share a common ancestry, history, culture and language.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Maldivian_style_-_Flickr_-_nattu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Maldivians"
+      }
     },
     {
       "name": "Fish Festival",
-      "writeup": "An annual event promoting the fishing industry, featuring seafood tastings and cultural performances."
+      "writeup": "An annual event promoting the fishing industry, featuring seafood tastings and cultural performances.",
+      "wiki": {
+        "extract": "The Flying Fish Festival is one of the traditional ceremonies of the Taiwanese indigenous Tao people, who live on a tiny island off the southeastern coast of Taiwan called Orchid Island. The Flying Fish Festival comes from the legends of the Tao people and constitutes the social norms of their society. During the festival period, the Tao people need to be very careful of their actions and words in order not to violate the norms. In addition to Tao cultural heritage, the Flying Fish Festival also emphasizes respect for the natural environment and sustainable ecology.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Flying_fish_festival_(Taiwan)"
+      }
     }
   ],
   "food_writeup": "Maldivian cuisine is rich in seafood, coconut, and starches like rice and breadfruit. Popular dishes include Mas Huni (tuna with coconut), Garudhiya (fish broth), and various curries flavored with local spices.",

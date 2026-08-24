@@ -70,15 +70,30 @@
   "cultural_events": [
     {
       "name": "Timkat",
-      "writeup": "Ethiopian Orthodox celebration of Epiphany, featuring colorful processions and religious ceremonies."
+      "writeup": "Ethiopian Orthodox celebration of Epiphany, featuring colorful processions and religious ceremonies.",
+      "wiki": {
+        "extract": "Timkat is an Ethiopian Orthodox Tewahedo Church and Eritrean Orthodox Tewahedo Church celebration of Epiphany. It is celebrated on 19 January, corresponding to the 11th day of Terr in the Ge'ez calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gondar_Fasiladas_Bath_Timket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Timkat"
+      }
     },
     {
       "name": "Meskel",
-      "writeup": "Festival commemorating the discovery of the True Cross, marked by bonfires and community gatherings."
+      "writeup": "Festival commemorating the discovery of the True Cross, marked by bonfires and community gatherings.",
+      "wiki": {
+        "extract": "Meskel is an Ethiopian and Eritrean Orthodox Tewahedo Church holiday that commemorates the discovery of the True Cross by the Roman Empress Saint Helena of Constantinople in the fourth century. Meskel is celebrated by Oriental Orthodox members of the Ethiopian Orthodox Tewahedo Church, the Eritrean Orthodox Tewahedo Church, and to a lesser extent Roman Catholic members of the Ethiopian Catholic Church, the Eritrean Catholic Church, and among Protestant members of P'ent'ay - Ethiopian-Eritrean Evangelicalism. It is a localized version of the Feast of the Cross and occurs on the 17 Meskerem in the Ethiopian calendar. \"Meskel\" is Amharic for \"cross\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Meskel_Celebration.jpg/3840px-Meskel_Celebration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Meskel"
+      }
     },
     {
       "name": "Enkutatash",
-      "writeup": "Ethiopian New Year celebrated with music, dancing, and gift-giving in September."
+      "writeup": "Ethiopian New Year celebrated with music, dancing, and gift-giving in September.",
+      "wiki": {
+        "extract": "Enkutatash is a New Year holiday in Ethiopia and Eritrea. It is celebrated on Meskerem 1 on the Ethiopian calendar, which is 11 September according to the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethiopian_New_Year.jpg/1920px-Ethiopian_New_Year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Enkutatash"
+      }
     }
   ],
   "food_writeup": "Ethiopian cuisine is known for injera, a sourdough flatbread, served with various spicy stews called wats, often featuring lentils, beef, chicken, or vegetables, reflecting the country's rich agricultural heritage and religious fasting traditions.",

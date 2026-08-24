@@ -83,15 +83,27 @@
   "cultural_events": [
     {
       "name": "Eid-ul-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers and feasts."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers and feasts.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Basant",
-      "writeup": "A traditional kite-flying festival celebrated mainly in Punjab to welcome spring."
+      "writeup": "A traditional kite-flying festival celebrated mainly in Punjab to welcome spring.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Pakistan Day",
-      "writeup": "Commemorates the Lahore Resolution of 1940, celebrated with parades and ceremonies."
+      "writeup": "Commemorates the Lahore Resolution of 1940, celebrated with parades and ceremonies.",
+      "wiki": {
+        "extract": "Pakistan Day is a national holiday in Pakistan celebrated annually on 23 March. It commemorates both the adoption of the first constitution, transitioning the country from a dominion to a republic in 1956; as well as the adoption of the Lahore Resolution by the Muslim League at the Minar-e-Pakistan in 1940, laying the foundations of the Pakistan Movement.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Minar-e-Pakistan-lhr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Pakistan_Day"
+      }
     }
   ],
   "food_writeup": "Pakistani cuisine is rich and diverse, featuring dishes like biryani, kebabs, nihari, and various breads such as naan and roti, reflecting regional flavors and spices.",

@@ -54,11 +54,21 @@
   "cultural_events": [
     {
       "name": "Harare International Festival of the Arts (HIFA)",
-      "writeup": "An annual arts festival showcasing music, theater, dance, and visual arts from Zimbabwe and around the world."
+      "writeup": "An annual arts festival showcasing music, theater, dance, and visual arts from Zimbabwe and around the world.",
+      "wiki": {
+        "extract": "\nThe Harare International Festival of the Arts (HIFA) is one of Africa's largest international arts festivals. Established in 1999 by Manuel Bagorro the festival takes place each year in late April or early May in Harare, the capital of Zimbabwe. The week-long festival encompasses five principal disciplines: theatre, music, dance, fine art, and poetry.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Harare_International_Festival_of_the_Arts"
+      }
     },
     {
       "name": "Zimbabwe International Film Festival",
-      "writeup": "A platform for local and international filmmakers to present their work and promote Zimbabwean cinema."
+      "writeup": "A platform for local and international filmmakers to present their work and promote Zimbabwean cinema.",
+      "wiki": {
+        "extract": "Zimbabwe International Film Festival  is an annual ten-day film festival held in Zimbabwe in August or September. Instituted in 1998, it is organised by the Zimbabwe International Film Festival Trust (ZIFFT), a non-profit organisation. The festival is a non-political competitive platform that provides a showcase of feature films, documentary films and short films, as well as providing workshops and other cultural events.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Zimbabwe_International_Film_Festival"
+      }
     }
   ],
   "food_writeup": "Zimbabwean cuisine features staple foods like sadza (a maize meal porridge), often served with meat, vegetables, and relishes. Traditional dishes include nyama (grilled meat) and mopane worms.",

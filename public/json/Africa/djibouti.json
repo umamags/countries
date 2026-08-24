@@ -55,11 +55,21 @@
   "cultural_events": [
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers and feasts."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers and feasts.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Djibouti Independence Day",
-      "writeup": "Celebrated on June 27, commemorating independence from France in 1977."
+      "writeup": "Celebrated on June 27, commemorating independence from France in 1977.",
+      "wiki": {
+        "extract": "Independence Day, observed annually on 27 June, is a national holiday in Djibouti. It marks the territory's declaration of independence from France. An independence referendum was held in the French Territory of the Afars and the Issas on 8 May 1977 alongside elections for a Constituent Assembly. Unlike previous plebiscites in 1958 and 1967, this time the territory became independent as Djibouti on 27 June 1977. Djibouti Independence Day is a national holiday, with workers given a day off. Independence Day is associated with military parades, fireworks, concerts, fairs, and political speeches and ceremonies, in addition to various other public and private events celebrating the history and culture of Djibouti.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Calanka_Jabuuti.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Djibouti)"
+      }
     }
   ],
   "food_writeup": "Djiboutian cuisine blends Somali, Afar, Yemeni, and French influences, featuring dishes like Skoudehkaris (spiced rice and meat) and grilled seafood.",

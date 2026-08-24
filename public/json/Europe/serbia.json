@@ -44,11 +44,21 @@
   "cultural_events": [
     {
       "name": "EXIT Festival",
-      "writeup": "One of Europe's largest music festivals held annually in Novi Sad, attracting international artists and visitors."
+      "writeup": "One of Europe's largest music festivals held annually in Novi Sad, attracting international artists and visitors.",
+      "wiki": {
+        "extract": "Exit was an annual music festival held in Serbia since 2000. Traditionally staged at the Petrovaradin Fortress in Novi Sad, it has grown into one of Europe’s largest music events, attracting around 200,000 visitors in recent editions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mind_Against%2C_Dance_Arena%2C_2023.jpg/3840px-Mind_Against%2C_Dance_Arena%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Exit_(festival)"
+      }
     },
     {
       "name": "Guna Trumpet Festival",
-      "writeup": "A traditional brass band festival celebrating Serbian folk music and culture in the town of Guna."
+      "writeup": "A traditional brass band festival celebrating Serbian folk music and culture in the town of Guna.",
+      "wiki": {
+        "extract": "The Ashtamangala is the sacred set of Eight Auspicious Signs featured in a number of Indian religions such as Hinduism, Jainism, and Buddhism. The symbols or \"symbolic attributes\" are yidam and teaching tools. Not only do these attributes point to qualities of enlightened mindstream, but they are the investiture that ornaments these enlightened \"qualities\". Many cultural enumerations and variations of the Ashtamangala are extant.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ashtamangala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ashtamangala"
+      }
     }
   ],
   "food_writeup": "Serbian cuisine features grilled meats, fresh bread, cheeses, and dishes like nevapi and sarma, reflecting Balkan and Mediterranean influences.",

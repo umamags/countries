@@ -68,11 +68,18 @@
   "cultural_events": [
     {
       "name": "Pi Mai (Lao New Year)",
-      "writeup": "Celebrated in April, it involves water pouring rituals, parades, and traditional music to mark the new year."
+      "writeup": "Celebrated in April, it involves water pouring rituals, parades, and traditional music to mark the new year.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Boun Bang Fai (Rocket Festival)",
-      "writeup": "A traditional festival where homemade rockets are launched to encourage rain for the rice planting season."
+      "writeup": "A traditional festival where homemade rockets are launched to encourage rain for the rice planting season.",
+      "wiki": {
+        "extract": "The Rocket Festival is a merit-making ceremony traditionally practiced by ethnic Lao people at the beginning of the wet season in various villages and municipalities in Northeastern Thailand and Laos. The festivities typically include music and dance performances, competitive processions of floats, dancers, and musicians on the second day, and the competitive firing of homemade rockets on the third day. Local participants and sponsors take advantage of the occasion to enhance their social prestige, as is customary at traditional Buddhist folk festivals throughout Southeast Asia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/2013_Yasothon_Rocket_Festival_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Rocket_Festival"
+      }
     }
   ],
   "food_writeup": "Lao cuisine emphasizes sticky rice, fresh herbs, and spicy flavors, with popular dishes like larb (minced meat salad) and tam mak hoong (green papaya salad).",

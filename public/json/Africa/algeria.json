@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Festival of Timgad",
-      "writeup": "An annual music and arts festival held near the Roman ruins of Timgad, celebrating Algerian and international culture."
+      "writeup": "An annual music and arts festival held near the Roman ruins of Timgad, celebrating Algerian and international culture.",
+      "wiki": {
+        "extract": "Salwa Al Katrib was a Lebanese singer and stage actress best known for her roles in Emerald Princess and Mountain Girl. She was the wife of Nahi Lahoud and the mother of aspiring Lebanese actress and singer Aline Lahoud. She enjoyed most of her fame in the theatrical circle in Lebanon and the Arab world between 1974 and 2005. She died of cerebral hemorrhage in 2009.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Salwa_Al_Katrib"
+      }
     },
     {
       "name": "Algiers International Film Festival",
-      "writeup": "A prominent film festival showcasing Arab and African cinema."
+      "writeup": "A prominent film festival showcasing Arab and African cinema.",
+      "wiki": {
+        "extract": "The Battle of Algiers is a 1966 Italian-Algerian war film co-written and directed by Gillo Pontecorvo. It is based on action undertaken by rebels during the Algerian War (1954–1962) against the French government in North Africa, the most prominent being the eponymous Battle of Algiers, the capital of Algeria. It was shot on location in a Roberto Rossellini-inspired newsreel style: in black and white with documentary-type editing to add to its sense of historical authenticity, with mostly non-professional actors who had lived through the real battle. The film's score was composed by Pontecorvo and Ennio Morricone. It is often associated with Italian neorealist cinema.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/The_Battle_of_Algiers_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_of_Algiers"
+      }
     },
     {
       "name": "National Amazigh (Berber) Cultural Festival",
-      "writeup": "Celebrates Berber heritage with traditional music, dance, and crafts."
+      "writeup": "Celebrates Berber heritage with traditional music, dance, and crafts.",
+      "wiki": {
+        "extract": "Berberism, also known as the Berber Cultural Movement, is a Berber cultural and political movement advocating for the recognition of Berber (Amazigh) identity, languages, and cultural rights in North Africa. It emerged in Algeria and Morocco in the face of state-led Arabization, pan-Arabism, and discrimination against Berber communities. While focused on cultural and linguistic rights, some Berberist movements, particularly among the diaspora, also advocate for separatism.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berber_flag.svg/960px-Berber_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Berberism"
+      }
     }
   ],
   "food_writeup": "Algerian cuisine blends Mediterranean and North African flavors, featuring dishes like couscous, tajine, and mechoui, often using spices such as cumin, coriander, and cinnamon.",

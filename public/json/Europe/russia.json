@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Maslenitsa",
-      "writeup": "Traditional Slavic festival marking the end of winter with pancakes and festivities."
+      "writeup": "Traditional Slavic festival marking the end of winter with pancakes and festivities.",
+      "wiki": {
+        "extract": "Maslenitsa, also known as Butter Lady, Butter Week, Crepe week, or Cheesefare Week, is an Eastern Slavic religious and folk holiday which has retained a number of elements of Slavic mythology in its ritual. It is celebrated during the last week before Great Lent; that is, the eighth week before Eastern Orthodox Pascha, equivalent to the West's Sexagesima.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Maslenitsa_kustodiev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Maslenitsa"
+      }
     },
     {
       "name": "Victory Day",
-      "writeup": "Commemoration of the victory over Nazi Germany in World War II, celebrated on May 9."
+      "writeup": "Commemoration of the victory over Nazi Germany in World War II, celebrated on May 9.",
+      "wiki": {
+        "extract": "Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders, commonly shortened to Victory Day, is a public holiday in Croatia that is celebrated annually on 5 August, commemorating the Croatian War of Independence. On that date in 1995 the Croatian Army took the city of Knin during Operation Storm, which effectively brought an end to the proto-state of Republic of Serbian Krajina. In 2008, the Croatian Parliament also assigned the name Day of Croatian Defenders to the holiday, which honors the current service members and veterans of the Armed Forces of Croatia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/16_obljetnica_vojnoredarstvene_operacije_Oluja_05082011_Kninska_tvrdjava_155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Victory_Day_(Croatia)"
+      }
     },
     {
       "name": "White Nights Festival",
-      "writeup": "Cultural festival in Saint Petersburg featuring music, ballet, and opera during the summer."
+      "writeup": "Cultural festival in Saint Petersburg featuring music, ballet, and opera during the summer.",
+      "wiki": {
+        "extract": "The White Nights Festival is an annual summer festival in St. Petersburg dedicated to the phenomenon of midnight twilight due to its location near the Arctic Circle: Every year, from about April 22 to August 21, the night sky only reaches twilight and never reaches complete darkness. Highlights of the festival include, Classical ballet, opera, music at the White Nights Festival, the secret sails and fireworks tradition, carnivals and star performances by international artists. The festival includes concerts by musicians and performers of various genres. International artists perform as headliners at the festival.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/White_Nights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/White_Nights_Festival"
+      }
     }
   ],
   "food_writeup": "Russian cuisine features hearty dishes like borscht, pelmeni, blini, and caviar, reflecting its diverse climate and cultural influences.",

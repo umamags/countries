@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Bahrain International Music Festival",
-      "writeup": "An annual event showcasing local and international musical talents, promoting cultural exchange."
+      "writeup": "An annual event showcasing local and international musical talents, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Bahrain, officially the Kingdom of Bahrain, is an island country in the eastern part of Arabian Peninsula in West Asia. Situated near the western shore of the Persian Gulf, the country comprises a small archipelago of 33 natural islands and an additional 50 artificial islands, centered on Bahrain Island, which makes up around 80 percent of the country's landmass. Bahrain is situated between Qatar and the northeastern coast of Saudi Arabia, to which it is connected by the King Fahd Causeway. The population is 1,588,670 as of 2024, of whom 739,736 are Bahraini nationals, and 848,934 are expatriates. Bahrain spans some 760 square kilometres (290 sq mi) and is the third-smallest nation in Asia after Maldives and Singapore. The capital and largest city is Manama.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1280px-Flag_of_Bahrain.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bahrain"
+      }
     },
     {
       "name": "Spring of Culture Festival",
-      "writeup": "A cultural festival featuring art, music, and performances celebrating Bahrain's heritage and diversity."
+      "writeup": "A cultural festival featuring art, music, and performances celebrating Bahrain's heritage and diversity.",
+      "wiki": {
+        "extract": "Bahrain, officially the Kingdom of Bahrain, is an island country in the eastern part of Arabian Peninsula in West Asia. Situated near the western shore of the Persian Gulf, the country comprises a small archipelago of 33 natural islands and an additional 50 artificial islands, centered on Bahrain Island, which makes up around 80 percent of the country's landmass. Bahrain is situated between Qatar and the northeastern coast of Saudi Arabia, to which it is connected by the King Fahd Causeway. The population is 1,588,670 as of 2024, of whom 739,736 are Bahraini nationals, and 848,934 are expatriates. Bahrain spans some 760 square kilometres (290 sq mi) and is the third-smallest nation in Asia after Maldives and Singapore. The capital and largest city is Manama.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1280px-Flag_of_Bahrain.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bahrain"
+      }
     }
   ],
   "food_writeup": "Bahraini cuisine blends Middle Eastern flavors with Persian and Indian influences, featuring dishes like machboos (spiced rice with meat), muhammar (sweet rice), and seafood specialties.",

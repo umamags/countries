@@ -83,23 +83,48 @@
   "cultural_events": [
     {
       "name": "Dakar Biennale (Dak'Art)",
-      "writeup": "A major contemporary African art exhibition held every two years in Dakar."
+      "writeup": "A major contemporary African art exhibition held every two years in Dakar.",
+      "wiki": {
+        "extract": "The Dakar Biennale, or Dak'Art - Biennale de l'Art Africain Contemporain, is a major contemporary art exhibition that takes place once every two years in Dakar, Senegal. Dak'Art's focus has been on Contemporary African Art since 1996.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Dakar_Biennale"
+      }
     },
     {
       "name": "Saint-Louis Jazz Festival",
-      "writeup": "An annual music festival celebrating jazz and African music traditions."
+      "writeup": "An annual music festival celebrating jazz and African music traditions.",
+      "wiki": {
+        "extract": "Saint-Louis or Saint Louis, is the capital of Senegal's Saint-Louis Region. Located in the northwest of Senegal, near the mouth of the Senegal River, and 320 kilometres (200 mi) north of Senegal's capital city Dakar. It had a population of 254,171 in 2023. Saint-Louis was the capital of the French colony of Senegal from 1673 until 1902 and French West Africa from 1895 until 1902, when the capital was moved to Dakar. From 1920 to 1957, it also served as the capital of the neighboring colony of Mauritania.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Island_of_Saint-Louis-113799.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Saint-Louis%2C_Senegal"
+      }
     },
     {
       "name": "Gambian Wrestling (Laamb)",
-      "writeup": "A traditional wrestling sport that is a popular cultural and social event."
+      "writeup": "A traditional wrestling sport that is a popular cultural and social event.",
+      "wiki": {
+        "extract": "Senegalese wrestling is a type of folk wrestling traditionally performed by the Serer people and now a national sport in Senegal and parts of The Gambia, and is part of a larger West African form of traditional wrestling. The Senegalese form traditionally allows blows with the hands (frappe), the only one of the West African traditions to do so. As a larger confederation and championship around Lutte Traditionnelle has developed since the 1990s, Senegalese fighters now practice both forms, called officially Lutte Traditionnelle sans frappe and Lutte Traditionnelle avec frappe for the striking version. This activity predates the modern-day countries of Senegal and Gambia, and Senegambian wrestling is perhaps more historically and geographically correct.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lutte_s%C3%A9n%C3%A9galaise_Bercy_2013_-_Mame_Balla-Pape_Mor_L%C3%B4_-_32.jpg/3840px-Lutte_s%C3%A9n%C3%A9galaise_Bercy_2013_-_Mame_Balla-Pape_Mor_L%C3%B4_-_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Senegalese_wrestling"
+      }
     },
     {
       "name": "Tabaski (Eid al-Adha)",
-      "writeup": "An important religious festival celebrated with communal prayers and feasts."
+      "writeup": "An important religious festival celebrated with communal prayers and feasts.",
+      "wiki": {
+        "extract": "Eid al-Adha is the second of the two main festivals in Islam, alongside Eid al-Fitr. It falls on the 10th of Dhu'l-Hijja, the twelfth and final month of the Islamic calendar. Celebrations and observances are generally carried forward to the three following days, known as the Tashreeq days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eid_al_adha_compilation.jpg/3840px-Eid_al_adha_compilation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Adha"
+      }
     },
     {
       "name": "Mbalax Music Festivals",
-      "writeup": "Events showcasing Senegal's popular music genre blending traditional rhythms with modern styles."
+      "writeup": "Events showcasing Senegal's popular music genre blending traditional rhythms with modern styles.",
+      "wiki": {
+        "extract": "The music of Barbados includes distinctive national styles of folk and popular music, including elements of Western classical and religious music. The culture of Barbados is a syncretic mix of African and British elements, and the island's music reflects this mix through song types and styles, instrumentation, dances, and aesthetic principles.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Music_of_Barbados"
+      }
     }
   ],
   "food_writeup": "Senegalese cuisine is rich and diverse, featuring dishes like Thieboudienne (fish and rice), Yassa (marinated chicken or fish with onions and lemon), and Mafé (peanut stew). Meals often combine rice, fish, meat, and vegetables, flavored with local spices and herbs.",

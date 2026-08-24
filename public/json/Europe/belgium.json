@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Carnival of Binche",
-      "writeup": "A UNESCO-recognized carnival featuring traditional Gilles costumes and lively parades."
+      "writeup": "A UNESCO-recognized carnival featuring traditional Gilles costumes and lively parades.",
+      "wiki": {
+        "extract": "The Carnival of Binche is an annual festival held in Binche, Hainaut, Belgium, during the Sunday, Monday, and Tuesday preceding Ash Wednesday.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Binche_-_Les_Gilles.jpg/3840px-Binche_-_Les_Gilles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Carnival_of_Binche"
+      }
     },
     {
       "name": "Ommegang Festival",
-      "writeup": "A historical reenactment festival in Brussels celebrating medieval traditions."
+      "writeup": "A historical reenactment festival in Brussels celebrating medieval traditions.",
+      "wiki": {
+        "extract": "Brewery Ommegang is a brewery located near Cooperstown, New York, United States, that specializes in Belgian-style ales.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ommeganglogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Brewery_Ommegang"
+      }
     },
     {
       "name": "Gentse Feesten",
-      "writeup": "A ten-day music and theatre festival held annually in Ghent."
+      "writeup": "A ten-day music and theatre festival held annually in Ghent.",
+      "wiki": {
+        "extract": "The Gentse Feesten is an annual music and theatre festival in Ghent, Belgium. Besides stage events, there are street acts such as mimes and buskers. It has been held for more than 50 years and is attended by about 1–1.5 million visitors.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gentse_Feesten_2014_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Gentse_Feesten"
+      }
     }
   ],
   "food_writeup": "Belgian cuisine is famous for its waffles, chocolates, fries, and a wide variety of beers. Traditional dishes include moules-frites and stoofvlees.",

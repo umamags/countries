@@ -50,11 +50,18 @@
   "cultural_events": [
     {
       "name": "Famadihana (Turning of the Bones)",
-      "writeup": "A traditional Malagasy funerary custom where families exhume ancestors' remains, rewrap them, and celebrate their memory."
+      "writeup": "A traditional Malagasy funerary custom where families exhume ancestors' remains, rewrap them, and celebrate their memory.",
+      "wiki": {
+        "extract": "Famadihana is a funerary tradition of the Malagasy peoples of Madagascar. During this ceremony, known as the turning of the bones, people bring forth the bodies of their ancestors from the family crypts, rewrap the corpses in fresh cloth, and rewrite their names on the cloth so they will always be remembered. Then they dance to live music while carrying the corpses over their heads and go around the tomb before returning the corpses to the family tomb. They believe in celebrating the life lived by the dead person.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Famadihana_reburial_razana_ancestor_Madagascar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Famadihana"
+      }
     },
     {
       "name": "Donia Festival",
-      "writeup": "An annual music and cultural festival held on Nosy Be island showcasing Malagasy and regional music."
+      "writeup": "An annual music and cultural festival held on Nosy Be island showcasing Malagasy and regional music.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Madagascar's cuisine blends African, Asian, and French influences, featuring rice as a staple, accompanied by dishes with zebu meat, seafood, and diverse spices.",

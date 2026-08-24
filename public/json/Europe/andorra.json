@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Andorra la Vella Fair",
-      "writeup": "Annual fair showcasing local crafts, food, and traditions."
+      "writeup": "Annual fair showcasing local crafts, food, and traditions.",
+      "wiki": {
+        "extract": "Andorra, officially the Principality of Andorra, is a landlocked country on the Iberian Peninsula, in the eastern Pyrenees in southwestern Europe, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Diocese of Urgell. Andorra was formed as a polity by a charter in 1278, being a lordship within the Principality of Catalonia until 1715. It is currently headed by two co-princes: the Bishop of Urgell in Catalonia, Spain, and the president of France. Its capital and largest city is Andorra la Vella.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Andorra"
+      }
     },
     {
       "name": "Festa Major",
-      "writeup": "Traditional festival with music, dance, and cultural activities celebrating local heritage."
+      "writeup": "Traditional festival with music, dance, and cultural activities celebrating local heritage.",
+      "wiki": {
+        "extract": "Matthew Joseph Festa is an American professional baseball pitcher for the Cleveland Guardians of Major League Baseball (MLB). He has previously played in MLB for the Seattle Mariners, New York Mets, and Texas Rangers. He has also played for the Italy national baseball team.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Matt_Festa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Matt_Festa"
+      }
     },
     {
       "name": "Sant Jordi Day",
-      "writeup": "Celebration of Catalan culture with book and rose exchanges."
+      "writeup": "Celebration of Catalan culture with book and rose exchanges.",
+      "wiki": {
+        "extract": "Saint George's Day, also known as the Day of Books and Roses, is celebrated annually in Catalonia (Spain) on 23 April. Saint George is the patron saint of Catalonia in a tradition established in the Middle Ages. Despite being a working day, it is one of Catalonia’s national holidays due to its overwhelming popularity and cultural significance. It is also celebrated, to a lesser extent, in Northern Catalonia (France), in Andorra, and in some other areas of Spain.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/BIG_184232912040411.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Saint_George's_Day_in_Catalonia"
+      }
     }
   ],
   "food_writeup": "Andorran cuisine blends Catalan and French influences, featuring dishes like escudella (a hearty stew), trinxat (potato and cabbage dish), and local cheeses. Mountain herbs and game meats are commonly used.",

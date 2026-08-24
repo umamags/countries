@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Tallinn Music Week",
-      "writeup": "An annual music festival showcasing local and international artists across various genres."
+      "writeup": "An annual music festival showcasing local and international artists across various genres.",
+      "wiki": {
+        "extract": "Tallinn Music Week (TMW) is an International new music showcase (INMS), city culture festival and networking event for music and creative industry professionals, held every spring in Tallinn, Estonia since 2009. Operated by Tallinn-based company Shiftworks OÜ, it showcases emerging artists from all over Europe and beyond, provides a networking platform for music and creative industry professionals, and introduces the city of Tallinn. The festival is attended by around 20,000 people and 1,000 music industry executives yearly. TMW has been acknowledged as an important industry event and attractive tourism destination by The Guardian, New York Times, Forbes, and Experty.by.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kristjan_J%C3%A4rvi_and_and_Glasperlenspiel_Sinfonietta_at_TMW_2016_opening_concert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tallinn_Music_Week"
+      }
     },
     {
       "name": "Song and Dance Festival",
-      "writeup": "A massive cultural event held every five years, celebrating Estonian choral and folk dance traditions."
+      "writeup": "A massive cultural event held every five years, celebrating Estonian choral and folk dance traditions.",
+      "wiki": {
+        "extract": "The Lithuanian Song and Dance Festival, colloquially known also as the Song Celebration is a Lithuanian massive traditional song and dance festival. It takes place roughly every four years. The event has been a national celebration throughout the interwar and upon Lithuania regaining its independence in 1990. The main event is traditionally hosted at Vingis Park in Vilnius.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dainu_svente_2014-07-06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_Song_and_Dance_Festival"
+      }
     },
     {
       "name": "St. John's Day (Jaanipäev)",
-      "writeup": "A midsummer celebration featuring bonfires, singing, and traditional rituals."
+      "writeup": "A midsummer celebration featuring bonfires, singing, and traditional rituals.",
+      "wiki": {
+        "extract": "Jaanipäev or leedopäev is the longest celebrated public holiday and one of the most important summer holidays in the Estonian folk calendar. It corresponds to English Midsummer Day.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jaanituli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jaanip%C3%A4ev"
+      }
     }
   ],
   "food_writeup": "Estonian cuisine features hearty dishes with rye bread, potatoes, pork, and dairy. Traditional foods include black bread, sauerkraut, smoked fish, and kama, a grain-based dessert.",

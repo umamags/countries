@@ -55,11 +55,18 @@
   "cultural_events": [
     {
       "name": "Ngasech Traditional Festival",
-      "writeup": "An annual event celebrating Palauan culture with traditional dances, music, and crafts."
+      "writeup": "An annual event celebrating Palauan culture with traditional dances, music, and crafts.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Palau Day",
-      "writeup": "A national holiday commemorating Palau's independence with parades and cultural performances."
+      "writeup": "A national holiday commemorating Palau's independence with parades and cultural performances.",
+      "wiki": {
+        "extract": "Palau, officially the Republic of Palau, is an island country located in the Micronesia subregion of Oceania in the western Pacific Ocean. The Republic of Palau consists of approximately 340 islands and is the western part of the Caroline Islands, while the eastern and central parts make up the Federated States of Micronesia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/960px-Flag_of_Palau.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Palau"
+      }
     }
   ],
   "food_writeup": "Palauan cuisine features seafood, taro, coconut, and tropical fruits, often prepared with traditional methods like grilling and boiling.",

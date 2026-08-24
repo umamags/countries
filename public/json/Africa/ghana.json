@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Homowo Festival",
-      "writeup": "Celebrated by the Ga people to mark the end of a historic famine with feasting and rituals."
+      "writeup": "Celebrated by the Ga people to mark the end of a historic famine with feasting and rituals.",
+      "wiki": {
+        "extract": "Homowo is a festival celebrated by the Ga people of Ghana in the Greater Accra Region. The festival starts at the end of April into May with the planting of crops before the rainy season starts. The Ga people celebrate Homowo in the remembrance of famine that once happened in their history in precolonial Ghana. The Ga Homowo or Harvest Custom is an annual tradition among the Accra people, with its origin tied to the Native Calendar and the Lante Dzan We people of the Asere Quarter. Asere is a sub-division of the Ga Division in the Accra District of the Gold Coast Colony.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Accra_Homowo_um1900_300dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Homowo"
+      }
     },
     {
       "name": "Panafest",
-      "writeup": "A cultural festival promoting Pan-Africanism and African heritage through music, dance, and art."
+      "writeup": "A cultural festival promoting Pan-Africanism and African heritage through music, dance, and art.",
+      "wiki": {
+        "extract": "The Pan African Historical Theatre Project now known as PANAFEST is a cultural event held in Ghana every two years for Africans and people of African descent. It was first held in 1992. The idea of this festival is to promote and enhance unity, Pan-Africanism, and the development of the continent of Africa itself. Activities that occur at this festival are performances and work in the areas of theatre, drama, music, and poetry, among other things. Also, there are viewing of the durbar of chiefs, and tours to various places of interest, such as slave castle dungeons.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Panafest"
+      }
     }
   ],
   "food_writeup": "Ghanaian cuisine features staples like jollof rice, fufu, banku, and dishes rich in spices and palm oil, reflecting diverse ethnic traditions.",

@@ -53,11 +53,18 @@
   "cultural_events": [
     {
       "name": "Angam Day",
-      "writeup": "A national holiday celebrating the survival and resilience of the Nauruan people."
+      "writeup": "A national holiday celebrating the survival and resilience of the Nauruan people.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Nauru Independence Day",
-      "writeup": "Commemorates Nauru's independence from Australia, New Zealand, and the United Kingdom on January 31, 1968."
+      "writeup": "Commemorates Nauru's independence from Australia, New Zealand, and the United Kingdom on January 31, 1968.",
+      "wiki": {
+        "extract": "The Nauru Independence Act 1967 is an act of the Parliament of Australia which resulted in the independence of Nauru and the end of its status as a UN trust territory administered by Australia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Coat_of_arms_of_the_Commonwealth_of_Australia.svg/960px-Coat_of_arms_of_the_Commonwealth_of_Australia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nauru_Independence_Act_1967"
+      }
     }
   ],
   "food_writeup": "Nauruan cuisine features seafood, coconut, and tropical fruits, with traditional dishes often incorporating fish, pandanus, and breadfruit.",

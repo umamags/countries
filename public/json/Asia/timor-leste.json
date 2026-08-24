@@ -68,11 +68,21 @@
   "cultural_events": [
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on May 20th, marking Timor-Leste's independence from Indonesia in 2002."
+      "writeup": "Celebrated on May 20th, marking Timor-Leste's independence from Indonesia in 2002.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     },
     {
       "name": "Giant Reed Dance",
-      "writeup": "A traditional dance event involving young women, symbolizing cultural identity and community."
+      "writeup": "A traditional dance event involving young women, symbolizing cultural identity and community.",
+      "wiki": {
+        "extract": "Lewis Allan Reed was an American musician, songwriter, and poet. He was the guitarist, lead singer, and principal songwriter for the rock band the Velvet Underground and had a solo career that spanned five decades. Although not commercially successful during its existence, the Velvet Underground came to be regarded as one of the most influential bands in the history of underground and alternative rock music. Reed's distinctive deadpan voice, poetic and transgressive lyrics, and experimental guitar playing were trademarks throughout his long career.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lou_Reed_1977.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lou_Reed"
+      }
     }
   ],
   "food_writeup": "Timorese cuisine features a blend of indigenous, Portuguese, and Indonesian influences, with staples like rice, corn, and root vegetables, often accompanied by spicy sambal and seafood.",

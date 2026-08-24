@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Carnaval",
-      "writeup": "A lively festival celebrated with parades, music, and dancing, especially vibrant in the northern provinces."
+      "writeup": "A lively festival celebrated with parades, music, and dancing, especially vibrant in the northern provinces.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Tango Festival",
-      "writeup": "An annual event in Buenos Aires celebrating the traditional Argentine dance and music."
+      "writeup": "An annual event in Buenos Aires celebrating the traditional Argentine dance and music.",
+      "wiki": {
+        "extract": "Argentine tango is a musical genre and accompanying social dance originating at the end of the 19th century in the suburbs of Buenos Aires. It typically has a 24 or 44 rhythmic time signature, and two or three parts repeating in patterns such as ABAB or ABCAC. Its lyrics are marked by nostalgia, sadness, and laments for lost love. The typical orchestra has several melodic instruments and is given a distinctive air by the bandoneon. It has continued to grow in popularity and spread internationally, adding modern elements without replacing the older ones. Among its leading figures are the singer and songwriter Carlos Gardel and composers/performers Francisco Canaro, Juan D'Arienzo, Carlos Di Sarli, Osvaldo Pugliese, Elvira Santamaría, and Ástor Piazzolla.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tango_Porte%C3%B1o.jpg/3840px-Tango_Porte%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Argentine_tango"
+      }
     },
     {
       "name": "Fiesta Nacional de la Vendimia",
-      "writeup": "The National Grape Harvest Festival held in Mendoza, celebrating the wine harvest with parades and performances."
+      "writeup": "The National Grape Harvest Festival held in Mendoza, celebrating the wine harvest with parades and performances.",
+      "wiki": {
+        "extract": "Fiesta Nacional de la Vendimia takes place annually in Mendoza City, Argentina. It is one of the most important festivals in the country, attracting large numbers of tourists to the region. It is a celebration of wine and the winemaking industry.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Reina_de_La_Paz_%282348694105%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Fiesta_Nacional_de_la_Vendimia"
+      }
     }
   ],
   "food_writeup": "Argentine cuisine is renowned for its beef, particularly asado (barbecue), empanadas, and mate, a traditional herbal tea. Italian and Spanish influences are prominent in the culinary landscape.",

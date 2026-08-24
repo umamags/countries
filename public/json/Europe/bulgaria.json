@@ -72,15 +72,30 @@
   "cultural_events": [
     {
       "name": "Kukeri Festival",
-      "writeup": "Traditional ritual involving costumed men performing dances to scare away evil spirits and ensure a good harvest."
+      "writeup": "Traditional ritual involving costumed men performing dances to scare away evil spirits and ensure a good harvest.",
+      "wiki": {
+        "extract": "Kukeri are elaborately costumed Bulgarian men who perform traditional rituals intended to scare away evil spirits.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kukeri_razlog.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kukeri"
+      }
     },
     {
       "name": "Rose Festival",
-      "writeup": "Celebrates the rose harvest in the Rose Valley, featuring folk music, dance, and rose-picking rituals."
+      "writeup": "Celebrates the rose harvest in the Rose Valley, featuring folk music, dance, and rose-picking rituals.",
+      "wiki": {
+        "extract": "The Rose of Tralee International Festival is an annual celebration held in Tralee in County Kerry of Irish women, featuring contestants from the island of Ireland or from the Irish diaspora.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Rose_of_Tralee_%28festival%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Rose_of_Tralee_(festival)"
+      }
     },
     {
       "name": "Nestinarstvo",
-      "writeup": "A fire-dancing ritual performed in some Bulgarian villages, blending Orthodox Christian and pagan traditions."
+      "writeup": "A fire-dancing ritual performed in some Bulgarian villages, blending Orthodox Christian and pagan traditions.",
+      "wiki": {
+        "extract": "The Anastenaria is a traditional barefoot firewalking ritual with ecstatic dance performed in some villages in Northern Greece and Southern Bulgaria. The communities which celebrate this ritual are descended from refugees who entered Greece from Eastern Thrace following the Balkan Wars of 1911–12 and the Population exchange between Greece and Turkey in 1923.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nestinar.bulgari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Anastenaria"
+      }
     }
   ],
   "food_writeup": "Bulgarian cuisine features a mix of Balkan, Mediterranean, and Slavic influences, known for dishes like banitsa (pastry with cheese), shopska salad, and yogurt-based meals.",

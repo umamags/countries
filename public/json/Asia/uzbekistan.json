@@ -54,11 +54,18 @@
   "cultural_events": [
     {
       "name": "Navruz",
-      "writeup": "The Persian New Year celebrated on March 21, marking the beginning of spring with traditional music, dance, and food."
+      "writeup": "The Persian New Year celebrated on March 21, marking the beginning of spring with traditional music, dance, and food.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Sharq Taronalari",
-      "writeup": "An international music festival held in Samarkand, celebrating traditional and contemporary music from Central Asia."
+      "writeup": "An international music festival held in Samarkand, celebrating traditional and contemporary music from Central Asia.",
+      "wiki": {
+        "extract": "Sharq taronalari is UNESCO listed international music festival that is held in every two years since 1997 in Registan square of ancient Samarkand. Vocalists from different nations and countries participate in the festival.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Sharq_Taronalari"
+      }
     }
   ],
   "food_writeup": "Uzbek cuisine features hearty dishes such as plov (rice pilaf with meat and vegetables), shashlik (grilled meat skewers), and samsa (savory pastries), reflecting a blend of Central Asian flavors.",

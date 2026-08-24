@@ -75,23 +75,48 @@
   "cultural_events": [
     {
       "name": "Qatar National Day",
-      "writeup": "Celebrated on December 18, it marks Qatar's unification and independence with parades and festivities."
+      "writeup": "Celebrated on December 18, it marks Qatar's unification and independence with parades and festivities.",
+      "wiki": {
+        "extract": "Qatar National Day is a national commemoration of Qatar's unification in 1878. It is celebrated annually on 18 December and is a national holiday by virtue of Law No. 11 of 2007, issued by the heir apparent and deputy emir Sheikh Tamim bin Hamad Al Thani. It is also known as Founder's Day.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/National_Day_(Qatar)"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan with prayers, feasts, and charity."
+      "writeup": "A major Islamic festival marking the end of Ramadan with prayers, feasts, and charity.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Qatar International Food Festival",
-      "writeup": "An annual event showcasing local and international cuisines."
+      "writeup": "An annual event showcasing local and international cuisines.",
+      "wiki": {
+        "extract": "A food festival is a festival, that features food, often produce, as its central theme. These festivals have been a means of uniting communities through celebrations of harvests and giving thanks for a plentiful growing season.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Food_festival"
+      }
     },
     {
       "name": "Doha Film Festival",
-      "writeup": "A platform promoting Arab and international cinema."
+      "writeup": "A platform promoting Arab and international cinema.",
+      "wiki": {
+        "extract": "The Doha Tribeca Film Festival (DTFF) was an annual five-day film festival that was organised from 2009 to 2012 to promote Arab and international films, and to develop a sustainable film industry in Qatar. One of Qatar's largest entertainment events, it attracted over 50,000 guests in 2010.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Doha_Tribeca_Film_Festival"
+      }
     },
     {
       "name": "Qatar MotoGP",
-      "writeup": "An international motorcycle racing event held at the Losail International Circuit."
+      "writeup": "An international motorcycle racing event held at the Losail International Circuit.",
+      "wiki": {
+        "extract": "The 2025 FIM MotoGP World Championship was the premier class of the 77th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/2025_MotoGP_World_Championship"
+      }
     }
   ],
   "food_writeup": "Qatari cuisine features traditional dishes such as machboos (spiced rice with meat), harees (wheat and meat porridge), and a variety of seafood, reflecting Bedouin and Gulf influences.",

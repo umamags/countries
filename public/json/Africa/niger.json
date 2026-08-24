@@ -69,11 +69,21 @@
   "cultural_events": [
     {
       "name": "Cure Salée Festival",
-      "writeup": "An annual gathering of Tuareg and Wodaabe nomads celebrating the end of the rainy season with music, dance, and camel races."
+      "writeup": "An annual gathering of Tuareg and Wodaabe nomads celebrating the end of the rainy season with music, dance, and camel races.",
+      "wiki": {
+        "extract": "The Guérewol is an annual courtship ritual competition among the Wodaabe Fula people of Niger. Young men dressed in elaborate ornamentation and made up in traditional face painting gather in lines to dance and sing, vying for the attentions of marriageable young women. The Guérewol occurs each year as the traditionally nomadic Wodaabe cattle herders gather at the southern edge of the Sahara before dispersing south on their dry season pastures.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Niger_Foudouk_Geerewol_der_Wodaabe_Sept._05-SD_%28extrait%29.webm/500px--Niger_Foudouk_Geerewol_der_Wodaabe_Sept._05-SD_%28extrait%29.webm.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gu%C3%A9rewol"
+      }
     },
     {
       "name": "Guérewol Festival",
-      "writeup": "A traditional Wodaabe festival featuring elaborate male beauty contests and courtship dances."
+      "writeup": "A traditional Wodaabe festival featuring elaborate male beauty contests and courtship dances.",
+      "wiki": {
+        "extract": "The Guérewol is an annual courtship ritual competition among the Wodaabe Fula people of Niger. Young men dressed in elaborate ornamentation and made up in traditional face painting gather in lines to dance and sing, vying for the attentions of marriageable young women. The Guérewol occurs each year as the traditionally nomadic Wodaabe cattle herders gather at the southern edge of the Sahara before dispersing south on their dry season pastures.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Niger_Foudouk_Geerewol_der_Wodaabe_Sept._05-SD_%28extrait%29.webm/500px--Niger_Foudouk_Geerewol_der_Wodaabe_Sept._05-SD_%28extrait%29.webm.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gu%C3%A9rewol"
+      }
     }
   ],
   "food_writeup": "Nigerien cuisine features staple foods like millet, sorghum, rice, and maize, often served with sauces made from peanuts, okra, or tomatoes. Popular dishes include 'Djerma' stew and grilled meats.",

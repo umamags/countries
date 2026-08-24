@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Inti Raymi",
-      "writeup": "A traditional Incan festival celebrating the winter solstice and the Sun God, held annually in Cusco."
+      "writeup": "A traditional Incan festival celebrating the winter solstice and the Sun God, held annually in Cusco.",
+      "wiki": {
+        "extract": "The Inti Raymi is a traditional religious ceremony of the Inca Empire in honor of the god Inti, the most venerated deity in Inca religion. It was the celebration of the winter solstice – the shortest day of the year in terms of the time between sunrise and sunset – and the Inca New Year, when the hours of light would begin to lengthen again. Celebrated on June 24, the Inti Raymi was the most important festival of the Inca Empire, as described by Inca Garcilaso de la Vega, and took place in the Haukaypata, the main square of Cusco.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Inti_Raymi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Inti_Raymi"
+      }
     },
     {
       "name": "Fiesta de la Candelaria",
-      "writeup": "A vibrant religious and cultural festival in Puno featuring music, dance, and colorful costumes."
+      "writeup": "A vibrant religious and cultural festival in Puno featuring music, dance, and colorful costumes.",
+      "wiki": {
+        "extract": "Candlemas, also known as the Feast of the Presentation of Jesus Christ, the Feast of the Purification of the Blessed Virgin Mary, or the Feast of the Holy Encounter, is a Christian feast day commemorating the presentation of Jesus at the Temple by Joseph and Mary. It is based upon the account of the presentation of Jesus in Luke 2:22–40.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2017Candlemas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Candlemas"
+      }
     },
     {
       "name": "Semana Santa",
-      "writeup": "Holy Week celebrations with processions and religious ceremonies across the country."
+      "writeup": "Holy Week celebrations with processions and religious ceremonies across the country.",
+      "wiki": {
+        "extract": "Semana Santa is the Spanish for Holy Week, the final week of Lent leading to Easter. In Spanish speaking cultures as well as the Philippines this becomes an annual tribute of the Passion of Jesus Christ celebrated by Catholic religious brotherhoods and confraternities that process on the streets of many Spanish speaking towns and cities during Holy Week. In some parts of Latin America it became part of the acculturation of pre conquest beliefs into Catholic culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Semana_Santa_La_Laguna_52_%28cropped%29.jpg/3840px-Semana_Santa_La_Laguna_52_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Semana_Santa"
+      }
     }
   ],
   "food_writeup": "Peruvian cuisine is diverse, blending indigenous ingredients with Spanish, African, and Asian influences. Signature dishes include ceviche, lomo saltado, and ají de gallina, showcasing fresh seafood, potatoes, and native spices.",

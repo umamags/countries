@@ -81,23 +81,48 @@
   "cultural_events": [
     {
       "name": "Lunar New Year",
-      "writeup": "The most important traditional festival, celebrated with family reunions, feasts, and various customs."
+      "writeup": "The most important traditional festival, celebrated with family reunions, feasts, and various customs.",
+      "wiki": {
+        "extract": "Lunar New Year marks the beginning of a new year according to lunar calendars or, informally but commonly, to lunisolar calendars. Because a year of twelve lunar months is about 11 days shorter than a solar year, lunar cycle-based calendars may have strategies to take this fact into account. Pure lunar calendars have twelve lunar months invariantly and consequently their New Year is not fixed relative to the solar year; no adjustments are made. In contrast, most lunisolar calendars also have twelve lunar months, but every few years, a thirteenth \"leap month\" is added to resynchronise with the solar year. Consequently, neither type of calendar begins on a fixed date in the international Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/A_crowd_of_nearly_1%2C000_celebrate_Islamic_New_Year_%284453840351%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+      }
     },
     {
       "name": "Dragon Boat Festival",
-      "writeup": "A festival featuring dragon boat races and eating zongzi (sticky rice dumplings) to commemorate poet Qu Yuan."
+      "writeup": "A festival featuring dragon boat races and eating zongzi (sticky rice dumplings) to commemorate poet Qu Yuan.",
+      "wiki": {
+        "extract": "The Dragon Boat Festival, also known as the Duanwu Festival or Tuen Ng Festival, is a traditional Chinese holiday that occurs on the fifth day of the fifth month of the Chinese calendar, which corresponds to late May or early June in the Gregorian calendar. The holiday commemorates Qu Yuan who was the beloved prime minister of the southern Chinese state of Chu during the Warring States period, about 600 B.C. to 200 B.C., and is celebrated by holding dragon boat races and eating sticky rice dumplings called zongzi, which were southern Chinese traditions. The Dragon Boat Festival integrates praying for good luck and taking respite from the summer heat.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Qing_Dynasty_Dragon_Boat_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Dragon_Boat_Festival"
+      }
     },
     {
       "name": "Mid-Autumn Festival",
-      "writeup": "A harvest festival celebrated with mooncakes, lanterns, and family gatherings."
+      "writeup": "A harvest festival celebrated with mooncakes, lanterns, and family gatherings.",
+      "wiki": {
+        "extract": "The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a harvest festival celebrated in Chinese culture. It occurs on the 15th day of the 8th month of the Chinese lunisolar calendar and can fall between 7 September and 8 October (inclusive) of the Gregorian calendar. On this day, the Chinese believe that the moon is at its fullest and brightest, coinciding with the time of harvest in the middle of autumn.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mid-Autumn_Festival-beijing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mid-Autumn_Festival"
+      }
     },
     {
       "name": "Taiwan Lantern Festival",
-      "writeup": "An annual event showcasing elaborate lantern displays and cultural performances."
+      "writeup": "An annual event showcasing elaborate lantern displays and cultural performances.",
+      "wiki": {
+        "extract": "The Taiwan Lantern Festival is an annual event hosted by the Tourism Bureau of the Ministry of Transportation and Communications in Taiwan to celebrate the Lantern Festival.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/ChiangKaiShek-MemorialHall-LanternFestival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Taiwan_Lantern_Festival"
+      }
     },
     {
       "name": "Ghost Festival",
-      "writeup": "A traditional Taoist and Buddhist festival honoring the spirits of the deceased."
+      "writeup": "A traditional Taoist and Buddhist festival honoring the spirits of the deceased.",
+      "wiki": {
+        "extract": "The Ghost Festival or Hungry Ghost Festival, also known as the Zhongyuan Festival in Taoism and the Yulanpen Festival in Buddhism, is a traditional festival held in certain East and Southeast Asian countries. According to the traditional Chinese lunisolar calendar, the Ghost Festival is on the 15th night of the seventh month.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HK_ShatinYuLanFestival_KingOfGhost.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ghost_Festival"
+      }
     }
   ],
   "food_writeup": "Taiwanese cuisine is known for its diverse street food, night markets, and dishes such as beef noodle soup, bubble tea, oyster omelette, and stinky tofu, reflecting a blend of Chinese, indigenous, and Japanese influences.",

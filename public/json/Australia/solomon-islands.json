@@ -61,11 +61,21 @@
   "cultural_events": [
     {
       "name": "Chiefs' Festival",
-      "writeup": "An annual event celebrating traditional leadership, customs, and cultural performances."
+      "writeup": "An annual event celebrating traditional leadership, customs, and cultural performances.",
+      "wiki": {
+        "extract": "The Kaiser Chiefs are an English indie rock band from Leeds who originally formed in 1996 as Runston Parva, before shortening their name to Parva in 2000, and releasing one studio album, 22, in 2003, before renaming and establishing themselves in their current name that same year. Since their formation, the band has consisted of lead vocalist Ricky Wilson, guitarist Andrew \"Whitey\" White, bassist Simon Rix, keyboardist Nick \"Peanut\" Baines and since 2013 drummer Vijay Mistry, who replaced founding drummer Nick Hodgson following his departure from the band in late 2012.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jaguar_XE_-_Arrival_in_London_%2814999312137%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kaiser_Chiefs"
+      }
     },
     {
       "name": "Te Rito Cultural Festival",
-      "writeup": "A festival showcasing indigenous music, dance, and arts from across the islands."
+      "writeup": "A festival showcasing indigenous music, dance, and arts from across the islands.",
+      "wiki": {
+        "extract": "Te Whakaruruhau o Ngā Reo Irirangi Māori is a New Zealand radio network consisting of radio stations that serve the country's indigenous Māori population. Most stations receive contestable government funding from Te Māngai Pāho, the Māori Broadcast Funding Agency, to operate on behalf of affiliated iwi (tribes) or hapū (sub-tribes). Under their funding agreement, the stations must produce programmes in the Māori language, and must actively promote Māori culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Iwi_Radio_Network_Logos_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Te_Whakaruruhau_o_Ng%C4%81_Reo_Irirangi_M%C4%81ori"
+      }
     }
   ],
   "food_writeup": "Solomon Islands cuisine is based on root crops like taro and sweet potato, seafood, tropical fruits, and coconut. Traditional dishes often include fish, shellfish, and locally grown vegetables, prepared with coconut milk and spices.",

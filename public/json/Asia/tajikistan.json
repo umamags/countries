@@ -64,15 +64,27 @@
   "cultural_events": [
     {
       "name": "Navruz",
-      "writeup": "The Persian New Year celebrated on March 21, marking the arrival of spring with traditional music, dance, and food."
+      "writeup": "The Persian New Year celebrated on March 21, marking the arrival of spring with traditional music, dance, and food.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Tajikistan Independence Day",
-      "writeup": "Celebrated on September 9, commemorating Tajikistan's independence from the Soviet Union in 1991."
+      "writeup": "Celebrated on September 9, commemorating Tajikistan's independence from the Soviet Union in 1991.",
+      "wiki": {
+        "extract": "The Independence Day of Tajikistan, officially known as the Day of State Independence of the Republic of Tajikistan, is the main national holiday of the Republic of Tajikistan.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Tajikistan)"
+      }
     },
     {
       "name": "Festival of Traditional Music",
-      "writeup": "An event showcasing Tajikistan's rich musical heritage, including traditional instruments and folk songs."
+      "writeup": "An event showcasing Tajikistan's rich musical heritage, including traditional instruments and folk songs.",
+      "wiki": {
+        "extract": "Folk music is a music genre that includes traditional folk music and the contemporary genre that evolved from the former during the 20th-century folk revival. Some types of folk music may be called world music. Traditional folk music has been defined in several ways: as music transmitted orally, music with unknown composers, music that is played on traditional instruments, music about cultural or national identity, music that changes between generations, music associated with a people's folklore, or music performed by custom over a long period of time. It has been contrasted with commercial and classical styles. The term originated in the 19th century, but folk music extends beyond that.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Folk_music"
+      }
     }
   ],
   "food_writeup": "Tajik cuisine features hearty dishes such as plov (rice pilaf with meat and vegetables), qurutob (bread salad with yogurt), and shashlik (grilled meat skewers), reflecting Central Asian culinary traditions with Persian influences.",

@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Mass Games",
-      "writeup": "A large-scale gymnastics and artistic festival showcasing synchronized performances that promote state ideology."
+      "writeup": "A large-scale gymnastics and artistic festival showcasing synchronized performances that promote state ideology.",
+      "wiki": {
+        "extract": "Mass games, or mass gymnastics, are a form of performing arts or gymnastics in which large numbers of performers take part in a highly regimented performance that emphasizes group dynamics rather than individual prowess.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bundesturnfest_Milwaukee_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mass_games"
+      }
     },
     {
       "name": "Day of the Sun",
-      "writeup": "Celebrates the birth of Kim Il-sung on April 15, marked by parades and cultural performances."
+      "writeup": "Celebrates the birth of Kim Il-sung on April 15, marked by parades and cultural performances.",
+      "wiki": {
+        "extract": "The Day of the Sun (Korean: 태양절) is an annual public holiday in North Korea on 15 April, the birth anniversary of Kim Il Sung, founder and Eternal President of North Korea. It is the most important national holiday in the country, and is considered the North Korean equivalent of the Western holiday season. Kim's birthday, which had been an official holiday since 1968, was renamed Day of the Sun in 1997, three years after his death. The name takes its significance from his name: Il-sung.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kim_Il_Sung_Birthday_Celebrations_April_15%2C_2014_%2814056865633%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Day_of_the_Sun"
+      }
     },
     {
       "name": "Arirang Festival",
-      "writeup": "A mass gymnastics and artistic festival held in Pyongyang, emphasizing unity and patriotism."
+      "writeup": "A mass gymnastics and artistic festival held in Pyongyang, emphasizing unity and patriotism.",
+      "wiki": {
+        "extract": "The Grand Mass Gymnastics and Artistic Performance Arirang, also known as the Arirang Mass Games, or the Arirang Festival is a mass gymnastics and artistic festival held in the Rungrado 1st of May Stadium in Pyongyang, North Korea. The games usually take place in August or September. The Arirang Mass Games were held annually from 2002 to 2013 and 2018 to 2020 with the exception of some sporadic hiatuses in 2006, 2014 to 2017 and 2021 to 2024.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/North_korea_mass_games.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Arirang_Mass_Games"
+      }
     }
   ],
   "food_writeup": "North Korean cuisine features staples like kimchi, cold noodles (naengmyeon), and rice dishes, often characterized by simple, hearty flavors with an emphasis on locally available ingredients.",

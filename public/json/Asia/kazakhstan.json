@@ -79,15 +79,27 @@
   "cultural_events": [
     {
       "name": "Nauryz",
-      "writeup": "The traditional Persian New Year celebrated on March 21, marking the arrival of spring with festivities and rituals."
+      "writeup": "The traditional Persian New Year celebrated on March 21, marking the arrival of spring with festivities and rituals.",
+      "wiki": {
+        "extract": "Nowruz is New Year's Day on the Iranian calendars, including the currently used Solar Hijri calendar. Historically, it has been observed by Iranian peoples, but is now celebrated by many Persianate cultures worldwide. It is a festival based on the Northern Hemisphere spring equinox, and thus usually coincides with a date between 19 March and 22 March on the Gregorian calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg/3840px-Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nowruz"
+      }
     },
     {
       "name": "Almaty Apple Festival",
-      "writeup": "Celebrates the region's historical connection to the origin of the apple, featuring local produce and cultural performances."
+      "writeup": "Celebrates the region's historical connection to the origin of the apple, featuring local produce and cultural performances.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Eurasian Film Festival",
-      "writeup": "An annual event showcasing films from Kazakhstan and neighboring countries, promoting regional cinema."
+      "writeup": "An annual event showcasing films from Kazakhstan and neighboring countries, promoting regional cinema.",
+      "wiki": {
+        "extract": "Heaven – my abode is a film by Ayub Shahobiddinov. It is awarded as \"the best director\" film by New York Eurasian Film Festival in 2013. The film is produced by the order of the Uzbekkino National Agency in the film studio of Uzbekfilm. The film received the Grand Prix of \"Golden Vine\" at Kinoshock Film Festival in Russia.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Heaven_%E2%80%93_My_Abode"
+      }
     }
   ],
   "food_writeup": "Kazakh cuisine is rich in meat dishes, especially lamb and horse meat, often prepared as beshbarmak, a traditional dish of boiled meat served with noodles. Dairy products like kumis (fermented mare's milk) are also popular.",

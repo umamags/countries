@@ -62,11 +62,21 @@
   "cultural_events": [
     {
       "name": "Kwita Izina",
-      "writeup": "An annual gorilla naming ceremony that celebrates conservation efforts and raises awareness about mountain gorillas."
+      "writeup": "An annual gorilla naming ceremony that celebrates conservation efforts and raises awareness about mountain gorillas.",
+      "wiki": {
+        "extract": "Kwita Izina is a Rwandan ceremony of giving a name to a newborn baby gorilla. It is named after the traditional baby naming ceremony that takes place after the birth of a newborn child in Rwandan culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kwita_Izina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kwita_Izina"
+      }
     },
     {
       "name": "Umuganura",
-      "writeup": "A traditional harvest festival marking the start of the new agricultural season, celebrating community and gratitude."
+      "writeup": "A traditional harvest festival marking the start of the new agricultural season, celebrating community and gratitude.",
+      "wiki": {
+        "extract": "\n \n\nThis is a list of public holidays in Rwanda. Rwanda observes fourteen regular public holidays, which reflects the civic, historical and religious landscape.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Rwanda"
+      }
     }
   ],
   "food_writeup": "Rwandan cuisine features staple foods like beans, bananas, sweet potatoes, and maize. Dishes often include grilled meats and stews, with a focus on locally sourced ingredients.",

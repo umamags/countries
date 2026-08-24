@@ -79,15 +79,27 @@
   "cultural_events": [
     {
       "name": "FESPAM (Pan-African Music Festival)",
-      "writeup": "A major music festival celebrating African music and culture held in Brazzaville, often involving artists from the DRC."
+      "writeup": "A major music festival celebrating African music and culture held in Brazzaville, often involving artists from the DRC.",
+      "wiki": {
+        "extract": "Ouagadougou or Wagadugu is the capital and largest city of Burkina Faso, and the administrative, communications, cultural and economic centre of the nation. It has a population of 2,415,266 in 2019. The city's name is often shortened to Ouaga. The inhabitants are called ouagalais. The spelling of the name Ouagadougou is derived from the French orthography common in former French African colonies.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ouagadougou_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ouagadougou"
+      }
     },
     {
       "name": "Kinshasa Jazz Festival",
-      "writeup": "An event promoting jazz music and local musicians in the capital city."
+      "writeup": "An event promoting jazz music and local musicians in the capital city.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "National Independence Day",
-      "writeup": "Celebrated on June 30th, marking independence from Belgium in 1960 with parades and cultural performances."
+      "writeup": "Celebrated on June 30th, marking independence from Belgium in 1960 with parades and cultural performances.",
+      "wiki": {
+        "extract": "The National Independence Day is a national day in Poland celebrated on 11 November to commemorate the anniversary of the restoration of Poland's sovereignty as the Second Polish Republic in 1918 from the German, Austro-Hungarian and Russian Empires. Following the partitions in the late 18th century, Poland ceased to exist as a sovereign and unified state for 123 years until the end of World War I, when the destruction of the neighbouring powers allowed the country to reemerge. It is a non-working day and a flag flying day in Poland.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Independence_Day_Warsaw_2013_MG_5572.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/National_Independence_Day_(Poland)"
+      }
     }
   ],
   "food_writeup": "Congolese cuisine features staples like cassava, plantains, rice, and fish, often prepared with rich sauces and spices. Popular dishes include Moambe chicken and Pondu (cassava leaves stew).",

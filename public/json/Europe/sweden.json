@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Midsummer",
-      "writeup": "A major Swedish celebration marking the summer solstice with dancing, singing, and traditional foods."
+      "writeup": "A major Swedish celebration marking the summer solstice with dancing, singing, and traditional foods.",
+      "wiki": {
+        "extract": "Midsummer or Midsommar is a celebration of the season of summer, taking place on or near the date of the summer solstice in the Northern Hemisphere, the longest day of the year. The name midsummer mainly refers to summer solstice festivals of European origin. These cultures traditionally regard it as the middle of summer, with the season beginning on May Day. Although the summer solstice falls on 20, 21 or 22 June in the Northern Hemisphere, it was traditionally reckoned to fall on 23–24 June in much of Europe. These dates were Christianized as Saint John's Eve and Saint John's Day. It is usually celebrated with outdoor gatherings that include bonfires, maypole dancing and feasting.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg/3840px-Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Midsummer"
+      }
     },
     {
       "name": "Walpurgis Night",
-      "writeup": "A spring festival celebrated with bonfires and singing to welcome the arrival of spring."
+      "writeup": "A spring festival celebrated with bonfires and singing to welcome the arrival of spring.",
+      "wiki": {
+        "extract": "Walpurgis Night, an abbreviation of Saint Walpurgis Night, also known as Saint Walpurga's Eve and Walpurgisnacht, is the eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, and is celebrated on the night of 30 April and the day of 1 May. This feast commemorates the canonization of Saint Walpurga and the movement of her relics to Eichstätt, both of which occurred on 1 May 870.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thingst%C3%A4tte_Heidelberg_Walpurgisnacht_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Walpurgis_Night"
+      }
     },
     {
       "name": "Lucia Day",
-      "writeup": "A festival of light celebrated on December 13th, featuring processions and singing to honor Saint Lucia."
+      "writeup": "A festival of light celebrated on December 13th, featuring processions and singing to honor Saint Lucia.",
+      "wiki": {
+        "extract": "Saint Lucy's Day, also called the Feast of Saint Lucy, is a Christian feast day observed on 13 December. The observance commemorates Lucia of Syracuse, an early-fourth-century virgin martyr under the Diocletianic Persecution. According to legend, she brought food and aid to persecuted Christians hiding in the Roman catacombs, wearing a candle-lit wreath on her head to light her way, leaving both hands free to carry as much food as possible. Because her name means \"light\" and her feast day had at one time coincided with the shortest day of the year prior to calendar reforms, it is now widely celebrated as a festival of light.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lucia-13.12.06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Saint_Lucy's_Day"
+      }
     }
   ],
   "food_writeup": "Swedish cuisine features dishes like meatballs, pickled herring, crispbread, and lingonberry jam, emphasizing fresh, local ingredients and traditional preservation methods.",

@@ -82,15 +82,30 @@
   "cultural_events": [
     {
       "name": "Melanesian Festival",
-      "writeup": "An annual event celebrating Melanesian culture through dance, music, and traditional ceremonies."
+      "writeup": "An annual event celebrating Melanesian culture through dance, music, and traditional ceremonies.",
+      "wiki": {
+        "extract": "The Melanesian Spearhead Group (MSG) is an intergovernmental organization, composed of the four Melanesian states of Fiji, Papua New Guinea, Solomon Islands and Vanuatu, and the Kanak and Socialist National Liberation Front of New Caledonia. In June 2015, Indonesia was recognized as an associate member.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Melanesian_Spearhead_Group.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Melanesian_Spearhead_Group"
+      }
     },
     {
       "name": "Nouméa Carnival",
-      "writeup": "A vibrant festival featuring parades, costumes, and performances reflecting the diverse cultural heritage."
+      "writeup": "A vibrant festival featuring parades, costumes, and performances reflecting the diverse cultural heritage.",
+      "wiki": {
+        "extract": "MS Jubilee was a cruise ship that was originally built for Carnival Cruise Line. She was the second of three ships to be built for Carnival's Holiday class. She was last owned by the Chinese company HNA Cruise Company, Limited, for service in the West Pacific region. The ship was retired and scrapped in 2017.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/CarnivalJubilee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/MS_Jubilee"
+      }
     },
     {
       "name": "Kaneka Music Festival",
-      "writeup": "A music festival highlighting Kanak and Pacific Islander artists and contemporary sounds."
+      "writeup": "A music festival highlighting Kanak and Pacific Islander artists and contemporary sounds.",
+      "wiki": {
+        "extract": "The music of New Caledonia is rooted in the Melanesian tradition. The Pacific Tempo is an important music festival, held every three years in [England]; the biennial equinox is also an important celebration.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Quatuor_de_guitares_-_Flickr_-_uphillblok.jpg/3840px-Quatuor_de_guitares_-_Flickr_-_uphillblok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Music_of_New_Caledonia"
+      }
     }
   ],
   "food_writeup": "New Caledonian cuisine blends French culinary techniques with local ingredients such as seafood, tropical fruits, and root vegetables. Popular dishes include bougna, a traditional Kanak meal cooked in banana leaves with meat, yams, and coconut milk.",

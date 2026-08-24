@@ -81,23 +81,48 @@
   "cultural_events": [
     {
       "name": "Chinese New Year",
-      "writeup": "A major festival celebrated with lion dances, family reunions, and vibrant street markets."
+      "writeup": "A major festival celebrated with lion dances, family reunions, and vibrant street markets.",
+      "wiki": {
+        "extract": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture. Marking the end of winter and the beginning of spring, this festival takes place from Chinese New Year's Eve to the Lantern Festival, held on the 15th day of the year. The first day of the Chinese New Year falls on the new moon that appears between 21 January and 20 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kung_Hei_Fat_Choi%21_%286834861529%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      }
     },
     {
       "name": "Hari Raya Puasa",
-      "writeup": "Marks the end of Ramadan, celebrated with feasts and prayers among the Malay Muslim community."
+      "writeup": "Marks the end of Ramadan, celebrated with feasts and prayers among the Malay Muslim community.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Deepavali",
-      "writeup": "The Hindu festival of lights, celebrated with colorful decorations and cultural performances."
+      "writeup": "The Hindu festival of lights, celebrated with colorful decorations and cultural performances.",
+      "wiki": {
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Diwali"
+      }
     },
     {
       "name": "Singapore National Day",
-      "writeup": "Celebrated on August 9th with parades, fireworks, and patriotic events."
+      "writeup": "Celebrated on August 9th with parades, fireworks, and patriotic events.",
+      "wiki": {
+        "extract": "National Day, sometimes known internationally as Singapore Independence Day, and formally as Singapore Day, is a major public holiday in Singapore commemorating the establishment of an independent and sovereign Singapore. Observed annually on 9 August since 1965, and originally on 3 June from 1959 to 1964, the current date marks when Singapore became fully sovereign following its separation from Malaysia, while the previous date marked when Singapore achieved internal self-governance from the United Kingdom. The day is a statutory public holiday and features the National Day Parade (NDP), a National Day Message by the Prime Minister of Singapore and fireworks celebrations, among other festivities.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/National_Day_Singapore_early_1960s_02.jpg/3840px-National_Day_Singapore_early_1960s_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/National_Day_(Singapore)"
+      }
     },
     {
       "name": "Thaipusam",
-      "writeup": "A Hindu festival involving a ceremonial procession and acts of devotion."
+      "writeup": "A Hindu festival involving a ceremonial procession and acts of devotion.",
+      "wiki": {
+        "extract": "Thaipusam or Thaipoosam is a Tamil Hindu festival celebrated on the first full moon day of the Tamil month of Thai coinciding with Pusam star. The festival is celebrated to commemorate the victory of Hindu god Murugan over the demon Surapadman. During the battle, Murugan is believed to have wielded a vel, a divine spear granted by his mother, Parvati.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Penang_thaipusam_Kavadi_procceession.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Thaipusam"
+      }
     }
   ],
   "food_writeup": "Singaporean cuisine is a vibrant blend of Malay, Chinese, Indian, and Western influences, famous for dishes like Hainanese chicken rice, chili crab, laksa, and satay, reflecting its multicultural heritage.",

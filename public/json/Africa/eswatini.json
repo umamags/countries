@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Umhlanga Reed Dance",
-      "writeup": "An annual ceremony where young women present reeds to the queen mother, celebrating chastity and unity."
+      "writeup": "An annual ceremony where young women present reeds to the queen mother, celebrating chastity and unity.",
+      "wiki": {
+        "extract": "Umhlanga, or Reed Dance ceremony, is an annual Swazi event that takes place at the end of August or at the beginning of September. In Eswatini, tens of thousands of unmarried and childless Swazi girls and women travel from the various chiefdoms to the Ludzidzini Royal Village to participate in the eight-day event.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Reed_Dance_Festival_2006-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Umhlanga_(ceremony)"
+      }
     },
     {
       "name": "Incwala Ceremony",
-      "writeup": "The 'Kingship Ceremony' marking the first fruits harvest and reaffirming the king's authority."
+      "writeup": "The 'Kingship Ceremony' marking the first fruits harvest and reaffirming the king's authority.",
+      "wiki": {
+        "extract": "Incwala is the main ritual of kingship in the Kingdom of Eswatini. This is a national event that takes place during the summer solstice. The main participant in incwala is the King of Eswatini; when there is no king there is no incwala. Incwala takes place over a period of time of about a month, starting with the small incwala, incwala lencane, and culminating in the big incwala, incwala lenkhulu. A number of activities - such as lusekwane, kuhlamahlama, and umdvutjulwa - mark the key events of this age old tradition. Unlike Ummemo which is convened by local chiefs, Incwala and Umhlanga are national events and are convened under the authority of the King and the Queen Mother.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Swazi_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Incwala"
+      }
     }
   ],
   "food_writeup": "Eswatini cuisine features staples like maize, sorghum, and meat dishes such as 'sidvudvu' (pumpkin stew) and 'emasi' (fermented milk). Traditional meals often accompany communal gatherings.",

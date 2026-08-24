@@ -50,11 +50,21 @@
   "cultural_events": [
     {
       "name": "Heiva i Tahiti",
-      "writeup": "An annual festival celebrating Polynesian culture with traditional dance, music, and sports competitions."
+      "writeup": "An annual festival celebrating Polynesian culture with traditional dance, music, and sports competitions.",
+      "wiki": {
+        "extract": "Tahiti is the largest island of the Windward group of the Society Islands in French Polynesia, an overseas collectivity of France. It is a tropical island located in the central part of the Pacific Ocean. Tahiti is composed of two roughly circular land masses joined by an isthmus: Tahiti Nui and Tahiti Iti. Both are the eroded remnants of now-extinct shield volcanoes. The terrain of Tahiti is mostly high and mountainous, with the beaches and coral reefs that surround the island supporting tourism and fishing industries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Tahiti.svg/960px-Flag_of_Tahiti.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tahiti"
+      }
     },
     {
       "name": "Hawaiki Nui Va'a",
-      "writeup": "A prestigious outrigger canoe race held annually between the islands of Huahine, Raiatea, and Tahaa."
+      "writeup": "A prestigious outrigger canoe race held annually between the islands of Huahine, Raiatea, and Tahaa.",
+      "wiki": {
+        "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200 mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359 sq mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/960px-Flag_of_French_Polynesia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/French_Polynesia"
+      }
     }
   ],
   "food_writeup": "French Polynesian cuisine blends French culinary techniques with local ingredients like seafood, tropical fruits, and taro, featuring dishes such as poisson cru (raw fish marinated in lime and coconut milk).",

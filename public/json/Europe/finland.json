@@ -76,23 +76,48 @@
   "cultural_events": [
     {
       "name": "Vappu",
-      "writeup": "A spring festival celebrated on May 1st, marking workers' day and student festivities with picnics and parties."
+      "writeup": "A spring festival celebrated on May 1st, marking workers' day and student festivities with picnics and parties.",
+      "wiki": {
+        "extract": "Walpurgis Night, an abbreviation of Saint Walpurgis Night, also known as Saint Walpurga's Eve and Walpurgisnacht, is the eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, and is celebrated on the night of 30 April and the day of 1 May. This feast commemorates the canonization of Saint Walpurga and the movement of her relics to Eichstätt, both of which occurred on 1 May 870.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thingst%C3%A4tte_Heidelberg_Walpurgisnacht_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Walpurgis_Night"
+      }
     },
     {
       "name": "Juhannus (Midsummer)",
-      "writeup": "A midsummer celebration involving bonfires, sauna, and gatherings to mark the longest day of the year."
+      "writeup": "A midsummer celebration involving bonfires, sauna, and gatherings to mark the longest day of the year.",
+      "wiki": {
+        "extract": "Midsummer or Midsommar is a celebration of the season of summer, taking place on or near the date of the summer solstice in the Northern Hemisphere, the longest day of the year. The name midsummer mainly refers to summer solstice festivals of European origin. These cultures traditionally regard it as the middle of summer, with the season beginning on May Day. Although the summer solstice falls on 20, 21 or 22 June in the Northern Hemisphere, it was traditionally reckoned to fall on 23–24 June in much of Europe. These dates were Christianized as Saint John's Eve and Saint John's Day. It is usually celebrated with outdoor gatherings that include bonfires, maypole dancing and feasting.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg/3840px-Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Midsummer"
+      }
     },
     {
       "name": "Helsinki Festival",
-      "writeup": "An annual arts festival featuring music, theater, and dance performances across Helsinki."
+      "writeup": "An annual arts festival featuring music, theater, and dance performances across Helsinki.",
+      "wiki": {
+        "extract": "The Helsinki Festival is the largest multi-arts festival in Finland. It is Finland's biggest cultural event in terms of visitors. In 2015, around 295,000 people visited the Helsinki Festival.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Helsinki_Festival"
+      }
     },
     {
       "name": "Savonlinna Opera Festival",
-      "writeup": "A prestigious summer opera festival held in the medieval Olavinlinna Castle."
+      "writeup": "A prestigious summer opera festival held in the medieval Olavinlinna Castle.",
+      "wiki": {
+        "extract": "Savonlinna Opera Festival is held annually in the city of Savonlinna in Finland. The Festival takes place at the medieval Olavinlinna, built in 1475. The castle is located amid spectacular lake scenery.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Savonlinna_Opera_Festival"
+      }
     },
     {
       "name": "Kaamos Festival",
-      "writeup": "A winter festival in Lapland celebrating the polar night with music and cultural events."
+      "writeup": "A winter festival in Lapland celebrating the polar night with music and cultural events.",
+      "wiki": {
+        "extract": "Repugnant was a Swedish death/thrash band from Stockholm active from 1998 to 2004. The band has been cited as one of the first revivalists of the Swedish death metal movement, along with Kaamos. They recorded their only studio album Epitome of Darkness in 2002, but it was left unreleased when the band broke up in 2004, only being published in 2006. Vocalist and guitarist Mary Goore recruited a new lineup of Repugnant to perform at the Hell's Pleasure festival in 2010, as well as several other shows, ending at the Maryland Deathfest in the United States on 29 May 2011. Following the break up of Repugnant, Forge went on to form and front the Swedish rock band Ghost, where he achieved a higher level of success and fame.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Repugnant"
+      }
     }
   ],
   "food_writeup": "Finnish cuisine emphasizes fresh, seasonal ingredients such as fish, rye bread, berries, and mushrooms. Traditional dishes include karjalanpiirakka (rice pies), kalakukko (fish pie), and reindeer meat, reflecting the country's Nordic heritage.",

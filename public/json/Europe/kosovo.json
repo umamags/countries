@@ -58,11 +58,21 @@
   "cultural_events": [
     {
       "name": "Dokufest",
-      "writeup": "An international documentary and short film festival held annually in Prizren."
+      "writeup": "An international documentary and short film festival held annually in Prizren.",
+      "wiki": {
+        "extract": "DokuFest is an international documentary and short film festival held in the Kosovo city of Prizren, held annually during early August. It was founded in 2002 by a group of friends. It has since grown into a cultural event that attracts international and regional artists and audiences. Films are screened throughout the eight-day festival and accompanied by programs, activities, and workshops.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DokuFest_logo.svg/960px-DokuFest_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Dokufest"
+      }
     },
     {
       "name": "Pristina Jazz Festival",
-      "writeup": "A yearly event attracting international jazz musicians to Kosovo's capital."
+      "writeup": "A yearly event attracting international jazz musicians to Kosovo's capital.",
+      "wiki": {
+        "extract": "This is a list of some of the major festivals and events held in Kosovo's capital city Pristina, which are common occurrences throughout the year in the city.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Events_and_festivals_in_Pristina"
+      }
     }
   ],
   "food_writeup": "Kosovar cuisine blends Balkan and Mediterranean influences, featuring dishes like flija (layered pancake), burek (filled pastry), and tavë kosi (baked lamb with yogurt).",

@@ -50,11 +50,21 @@
   "cultural_events": [
     {
       "name": "Lake of Stars Festival",
-      "writeup": "An annual music and arts festival held on the shores of Lake Malawi, attracting international artists."
+      "writeup": "An annual music and arts festival held on the shores of Lake Malawi, attracting international artists.",
+      "wiki": {
+        "extract": "Lake of Stars Festival is an annual three-day international festival held on the shores of Lake Malawi, the third largest lake in Africa. The first festival took place in 2004 and attracts over 4,000 attendees with musical acts mainly from Africa and Europe.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_of_Stars_festival_main_stage_at_night.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lake_of_Stars_Festival"
+      }
     },
     {
       "name": "Gule Wamkulu",
-      "writeup": "A traditional dance of the Chewa people, performed during important ceremonies and festivals."
+      "writeup": "A traditional dance of the Chewa people, performed during important ceremonies and festivals.",
+      "wiki": {
+        "extract": "Gule Wamkulu is a ritual masquerade and dance tradition of the Chewa people in Malawi, Zambia, and Mozambique. It is performed by initiated members of the Nyau society. The name is widely translated as \"the great dance\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Chewa_mask_-_Malawi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Gulewamkulu"
+      }
     }
   ],
   "food_writeup": "Malawian cuisine features staple foods like nsima (a maize porridge), often served with vegetables, beans, or fish from Lake Malawi.",

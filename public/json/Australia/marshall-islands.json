@@ -50,11 +50,18 @@
   "cultural_events": [
     {
       "name": "Marshall Islands Constitution Day",
-      "writeup": "Celebrates the adoption of the constitution on May 1, featuring traditional dances and ceremonies."
+      "writeup": "Celebrates the adoption of the constitution on May 1, featuring traditional dances and ceremonies.",
+      "wiki": {
+        "extract": "The Marshall Islands, officially the Republic of the Marshall Islands, is an archipelagic country in Oceania. The sovereign state lies west of the International Date Line and north of the equator in the Micronesia region of the Northwestern Pacific Ocean.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1280px-Flag_of_the_Marshall_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Marshall_Islands"
+      }
     },
     {
       "name": "Kajjuren Festival",
-      "writeup": "A cultural festival showcasing traditional music, dance, and crafts."
+      "writeup": "A cultural festival showcasing traditional music, dance, and crafts.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Marshallese cuisine features seafood, breadfruit, coconut, and pandanus, often prepared with traditional methods like steaming and baking in earth ovens.",

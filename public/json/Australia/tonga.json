@@ -45,11 +45,21 @@
   "cultural_events": [
     {
       "name": "Heiva Festival",
-      "writeup": "An annual cultural festival featuring traditional dance, music, and sports celebrating Tongan heritage."
+      "writeup": "An annual cultural festival featuring traditional dance, music, and sports celebrating Tongan heritage.",
+      "wiki": {
+        "extract": "Tommy Tihoni is a French Polynesian model and dancer. He won the Ori Tahiti Nui world championship in 2016.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Tommy_Tihoni"
+      }
     },
     {
       "name": "Tonga National Day",
-      "writeup": "Celebrated on November 4th, marking Tonga's independence from British protection in 1970."
+      "writeup": "Celebrated on November 4th, marking Tonga's independence from British protection in 1970.",
+      "wiki": {
+        "extract": "Tonga, officially known as the Kingdom of Tonga, is an island country in Polynesia, part of Oceania. The country has 171 islands, of which 45 are inhabited. Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean. As of 2021, according to Johnson's Tribune, Tonga has a population of 104,494, 70% of whom live on the main island, Tongatapu. The country stretches approximately 800 km north-south. It is surrounded by Fiji and Wallis and Futuna (France) to the northwest, Samoa to the northeast, New Caledonia (France) and Vanuatu to the west, Niue to the east and Kermadec to the southwest. Tonga is about 1,800 km from New Zealand's North Island.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/960px-Flag_of_Tonga.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tonga"
+      }
     }
   ],
   "food_writeup": "Tongan cuisine centers on root crops like taro and cassava, seafood, and tropical fruits, often cooked in an underground oven called an 'umu'. Popular dishes include 'ota ika' (raw fish in coconut milk) and lu pulu (taro leaves with coconut cream and meat).",

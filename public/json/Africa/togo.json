@@ -56,11 +56,18 @@
   "cultural_events": [
     {
       "name": "Evala Wrestling Festival",
-      "writeup": "A traditional wrestling event among the Kabye people symbolizing strength and initiation rites."
+      "writeup": "A traditional wrestling event among the Kabye people symbolizing strength and initiation rites.",
+      "wiki": {
+        "extract": "The Kabye, are a people living in the north central mountains and northern plains of Togo. They speak the Kabiye language. The Kabye are primarily known for farming and cultivation of harsh, dry, infertile lands of Togo. They grow cotton, millet and yams.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Kabye_people"
+      }
     },
     {
       "name": "Agbogboza Festival",
-      "writeup": "A cultural festival celebrated by the Ewe people featuring music, dance, and rituals honoring ancestors."
+      "writeup": "A cultural festival celebrated by the Ewe people featuring music, dance, and rituals honoring ancestors.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Togolese cuisine features staples like maize, cassava, and yams, often served with spicy sauces and stews made from local vegetables, fish, and meat.",

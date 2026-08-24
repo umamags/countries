@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Dubai Shopping Festival",
-      "writeup": "An annual event featuring shopping deals, entertainment, and cultural performances attracting global visitors."
+      "writeup": "An annual event featuring shopping deals, entertainment, and cultural performances attracting global visitors.",
+      "wiki": {
+        "extract": "\nDubai Shopping Festival is an annual month long event put together by the Dubai Festivals & Retail Establishment (DFRE), which is a part of Dubai's Department of Economy and Tourism. During the festival, shops offer discounts on their merchandise, daily car raffles and prize drawings are held to win items such as gold and cars, and there is a fireworks display. There are also a range of family activities and live shows that take place throughout Dubai.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coca-Cola_Arena_during_the_Dubai_Shopping_Festival_Closing_Celebrations.jpg/3840px-Coca-Cola_Arena_during_the_Dubai_Shopping_Festival_Closing_Celebrations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Dubai_Shopping_Festival"
+      }
     },
     {
       "name": "Abu Dhabi Festival",
-      "writeup": "A cultural festival showcasing music, art, and theatre from local and international artists."
+      "writeup": "A cultural festival showcasing music, art, and theatre from local and international artists.",
+      "wiki": {
+        "extract": "Abu Dhabi Festival is an annual cultural festival in Abu Dhabi, United Arab Emirates; established in 2004. The festival is presented by the Abu Dhabi Music & Arts Foundation. The event has been held under the patronage of Sheikh Mohamed bin Zayed, President of the United Arab Emirates, Ruler of Abu Dhabi and Commander-of-Chief of the United Arab Emirates Armed Forces. It was originally under the patronage of Sheikh Abdullah bin Zayed Al Nahyan, then Minister of Information and Culture. Abu Dhabi Festival is the largest classical arts event in the UAE.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_Festival"
+      }
     }
   ],
   "food_writeup": "Emirati cuisine features dishes like Al Harees, Machboos, and Luqaimat, emphasizing rice, meat, and dates with Middle Eastern spices.",

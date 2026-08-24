@@ -52,11 +52,18 @@
   "cultural_events": [
     {
       "name": "Roots Homecoming Festival",
-      "writeup": "An annual event celebrating Gambian culture and the African diaspora's heritage."
+      "writeup": "An annual event celebrating Gambian culture and the African diaspora's heritage.",
+      "wiki": {
+        "extract": "Celtic festivals celebrate Celtic culture, which in modern times may be via dance, Celtic music, food, Celtic art, or other mediums. Ancient Celtic festivals included religious and seasonal events such as bonfires, harvest festivals, storytelling and music festivals, and dance festivals. This list includes Celtic festivals held throughout the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Keltfest_2010_%284611122110%29.jpg/3840px-Keltfest_2010_%284611122110%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_Celtic_festivals"
+      }
     },
     {
       "name": "Gambia International Jazz Festival",
-      "writeup": "A music festival attracting international and local jazz artists."
+      "writeup": "A music festival attracting international and local jazz artists.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Gambian cuisine features rice, fish, and peanuts prominently, with dishes like domoda (peanut stew) and benachin (one-pot rice).",

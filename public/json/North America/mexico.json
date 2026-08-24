@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Día de los Muertos",
-      "writeup": "A traditional festival honoring deceased loved ones with altars, offerings, and celebrations."
+      "writeup": "A traditional festival honoring deceased loved ones with altars, offerings, and celebrations.",
+      "wiki": {
+        "extract": "The Day of the Dead is a holiday traditionally celebrated on November 1 and 2, though other days, such as October 31 or November 6, may be included depending on the locality. The multi-day holiday involves family and friends gathering to pay respects and remember friends and family members who have died. The celebrations can take a humorous tone, as celebrants remember amusing events and anecdotes about the departed. The festival is widely observed in Mexico and among people of Mexican heritage in other parts of the world. It falls during the Christian period of Allhallowtide. Some argue that there are Indigenous Mexican or ancient Aztec influences that account for the custom, though others see it as a local expression of the Allhallowtide season that was brought to the region by the Spanish; the Day of the Dead has become a way to remember those forebears of Mexican culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Catrina_3.jpg/3840px-Catrina_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+      }
     },
     {
       "name": "Guelaguetza",
-      "writeup": "An indigenous cultural event in Oaxaca featuring traditional dances, music, and costumes."
+      "writeup": "An indigenous cultural event in Oaxaca featuring traditional dances, music, and costumes.",
+      "wiki": {
+        "extract": "The Guelaguetza, also known as Los lunes del cerro, is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, and nearby villages. The celebration features traditional costumed dancing by gender-separated groups. It includes native food, and statewide artisanal crafts, such as pre-Hispanic style textiles. Each costume, or traje, and dance usually has a local indigenous historical and cultural meaning. While the celebration has attracted an increasing number of tourists, it is primarily one of deep cultural importance for the indigenous peoples of the state and is important for the survival of these cultures.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Guelaguetza_Festival_2019_%2849747768726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Guelaguetza"
+      }
     },
     {
       "name": "Cinco de Mayo",
-      "writeup": "Commemorates the Mexican army's victory over French forces at the Battle of Puebla."
+      "writeup": "Commemorates the Mexican army's victory over French forces at the Battle of Puebla.",
+      "wiki": {
+        "extract": "Cinco de Mayo is an annual celebration held on May 5 to celebrate Mexico's victory over the Second French Empire at the Battle of Puebla in 1862, led by General Ignacio Zaragoza. Zaragoza died months after the battle from an illness, however, and a larger French force ultimately defeated the Mexican army at the Second Battle of Puebla and then occupied Mexico City. Following the end of the American Civil War in 1865, the United States began lending money and guns to the Mexican Liberals, pushing France and Mexican Conservatives to the edge of defeat. At the opening of the French chambers in January 1866, Napoleon III announced that he would withdraw French troops from Mexico. In reply to a French request for American neutrality, the American secretary of state William H. Seward replied that French withdrawal from Mexico should be unconditional.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Batalla_de_Puebla.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Cinco_de_Mayo"
+      }
     },
     {
       "name": "Semana Santa",
-      "writeup": "Holy Week celebrations with religious processions and ceremonies across the country."
+      "writeup": "Holy Week celebrations with religious processions and ceremonies across the country.",
+      "wiki": {
+        "extract": "Semana Santa is the Spanish for Holy Week, the final week of Lent leading to Easter. In Spanish speaking cultures as well as the Philippines this becomes an annual tribute of the Passion of Jesus Christ celebrated by Catholic religious brotherhoods and confraternities that process on the streets of many Spanish speaking towns and cities during Holy Week. In some parts of Latin America it became part of the acculturation of pre conquest beliefs into Catholic culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Semana_Santa_La_Laguna_52_%28cropped%29.jpg/3840px-Semana_Santa_La_Laguna_52_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Semana_Santa"
+      }
     },
     {
       "name": "Festival Internacional Cervantino",
-      "writeup": "An annual arts festival in Guanajuato showcasing music, theater, and dance from around the world."
+      "writeup": "An annual arts festival in Guanajuato showcasing music, theater, and dance from around the world.",
+      "wiki": {
+        "extract": "The Festival Internacional Cervantino (FIC), popularly known as El Cervantino, is a festival which takes place each fall in the city of Guanajuato, located in central Mexico. The festival originates from the mid 20th century, when short plays by Miguel de Cervantes called entremeses were performed in the city's plazas.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logotipo_Festival_Internacional_Cervantino_-_%28Guanajuato%29_07.JPG/3840px-Logotipo_Festival_Internacional_Cervantino_-_%28Guanajuato%29_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Festival_Internacional_Cervantino"
+      }
     }
   ],
   "food_writeup": "Mexican cuisine is known for its bold flavors and diverse ingredients, including corn, beans, chili peppers, and avocados. Popular dishes include tacos, mole, tamales, and enchiladas, reflecting a blend of indigenous and Spanish influences.",

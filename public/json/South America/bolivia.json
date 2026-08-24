@@ -82,15 +82,30 @@
   "cultural_events": [
     {
       "name": "Carnaval de Oruro",
-      "writeup": "A UNESCO-recognized festival featuring traditional dances, music, and costumes."
+      "writeup": "A UNESCO-recognized festival featuring traditional dances, music, and costumes.",
+      "wiki": {
+        "extract": "The Carnival of Oruro is a religious and cultural festival in Oruro, Bolivia.\nOriginally an indigenous festival, the celebration later was transformed to incorporate a Christian ritual around the Virgin of Socavón.\nThe carnival is one of UNESCO's Masterpieces of the Oral and Intangible Heritage of Humanity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Carnaval_de_Oruro_dia_I_%2860%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnaval_de_Oruro"
+      }
     },
     {
       "name": "Alasitas Festival",
-      "writeup": "A fair where people buy miniature versions of items they wish to acquire."
+      "writeup": "A fair where people buy miniature versions of items they wish to acquire.",
+      "wiki": {
+        "extract": "The largest Alasitas fair is an annual month-long cultural event starting on 24 January in La Paz, Bolivia. It honours Ekeko, the Aymara god of abundance, and is noted for the giving of miniature items. Other fiestas and ferias throughout Bolivia incorporate alasitas into religious observances: The Fiesta of the Virgin of Copacabana and the Fiesta of the Virgin of Urkupiña, for example.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Alasitas_desde_el_telef%C3%A9rico.jpg/3840px-Alasitas_desde_el_telef%C3%A9rico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Alasitas"
+      }
     },
     {
       "name": "Fiesta de la Virgen de la Candelaria",
-      "writeup": "A religious festival celebrated with music, dance, and processions."
+      "writeup": "A religious festival celebrated with music, dance, and processions.",
+      "wiki": {
+        "extract": "The dance of the Tobas is a Bolivian folkoric dance created in the city of Oruro in the early 20th century. Currently, it is performed in important festivals such as the Carnaval de Oruro and the Fiesta del Gran Poder. Its origin is urban and it holds little relation to the Toba people, although this tribe was the main inspiration for its creation.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Tobas"
+      }
     }
   ],
   "food_writeup": "Bolivian cuisine features staples like potatoes, corn, and quinoa, with dishes such as salteñas (savory pastries), pique macho (spicy meat dish), and api (a traditional hot corn drink).",

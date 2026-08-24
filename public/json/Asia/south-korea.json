@@ -75,23 +75,48 @@
   "cultural_events": [
     {
       "name": "Chuseok",
-      "writeup": "A major harvest festival where families honor ancestors and share traditional food."
+      "writeup": "A major harvest festival where families honor ancestors and share traditional food.",
+      "wiki": {
+        "extract": "Chuseok, also known as Hangawi, is a major Korean mid-autumn harvest festival which occurs on the 15th day of the 8th month of the lunisolar calendar, on the full moon. In South Korea, the festival lasts for three days, including the days before and after the full moon. In North Korea, Chuseok is a single-day celebration on the full moon only.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Songpyeon.jpg/3840px-Songpyeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Chuseok"
+      }
     },
     {
       "name": "Seollal",
-      "writeup": "Korean Lunar New Year celebration involving ancestral rites, games, and traditional food."
+      "writeup": "Korean Lunar New Year celebration involving ancestral rites, games, and traditional food.",
+      "wiki": {
+        "extract": "Seollal (Korean: 설날) is a Korean traditional festival and national holiday commemorating the first day of the Korean lunisolar calendar. It is one of the most important traditional holidays for ethnic Koreans, being celebrated in both North Korea and South Korea as well as Korean diaspora all around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Korea_2013_Seollal_11.jpg/3840px-Korea_2013_Seollal_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Korean_New_Year"
+      }
     },
     {
       "name": "Boryeong Mud Festival",
-      "writeup": "An annual festival featuring mud-based activities promoting health and fun."
+      "writeup": "An annual festival featuring mud-based activities promoting health and fun.",
+      "wiki": {
+        "extract": "The Boryeong Mud Festival (Korean: 보령머드축제) is an annual festival which takes place during the summer on Daecheon Beach (대천해수욕장) near Boryeong, a town some 200 km south of Seoul, South Korea. The first Mud Festival was staged in 1998 and, by 2007, the festival attracted 2.2 million visitors to Boryeong.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mud_Fest_2008_%282679028799%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Boryeong_Mud_Festival"
+      }
     },
     {
       "name": "Jinhae Cherry Blossom Festival",
-      "writeup": "A spring festival celebrating cherry blossoms with parades and cultural performances."
+      "writeup": "A spring festival celebrating cherry blossoms with parades and cultural performances.",
+      "wiki": {
+        "extract": "The Jinhae Gunhangje Festival (Korean: 진해군항제), also called Jinhae Cherry Blossom Festival, is a cherry blossom festival held in Jinhae District, Changwon, South Korea. It began in 1963 and is held annually in early April. It is also called Beotkkotjang because markets similar to five-day markets are formed on roads with cherry blossom trees.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/2016_Jinhae_Naval_Port_Festival_040.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jinhae_Gunhangje_Festival"
+      }
     },
     {
       "name": "Andong Mask Dance Festival",
-      "writeup": "A cultural event showcasing traditional mask dances and folk performances."
+      "writeup": "A cultural event showcasing traditional mask dances and folk performances.",
+      "wiki": {
+        "extract": "Andong is a city in South Korea, and the capital of North Gyeongsang Province. It is the largest city in the northern part of the province with a population of 167,821 as of October 2010. The Nakdong River flows through the city. Andong is a market centre for the surrounding agricultural areas.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/A_bird%27s_eye_view_of_the_Hahoe_Folk_Village_%284458648859%29.jpg/3840px-A_bird%27s_eye_view_of_the_Hahoe_Folk_Village_%284458648859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Andong"
+      }
     }
   ],
   "food_writeup": "South Korean cuisine is characterized by bold flavors and diverse dishes such as kimchi, bibimbap, bulgogi, and Korean barbecue, emphasizing fermented foods and a balance of spicy, sour, and savory tastes.",

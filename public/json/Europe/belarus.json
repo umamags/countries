@@ -79,15 +79,30 @@
   "cultural_events": [
     {
       "name": "Kupala Night",
-      "writeup": "A traditional Slavic holiday celebrating the summer solstice with rituals, songs, and bonfires."
+      "writeup": "A traditional Slavic holiday celebrating the summer solstice with rituals, songs, and bonfires.",
+      "wiki": {
+        "extract": "Kupala Night is one of the major folk holidays in some Slavic countries. It coincides with the Christian feast of the Nativity of St. John the Baptist and the East Slavic feast of Saint John's Eve. In folk tradition, it is revered as the day of the summer solstice and was originally celebrated on the shortest night of the year, which is either on 21-22 or 23-24 of June in Czechia, Poland, Slovakia, Bulgaria. These dates were also adopted in Ukraine as of 2023. Following the Julian calendar, it is celebrated on the night between 6 and 7 July in Belarus, Russia, and parts of Ukraine. The name of the holiday is ultimately derived from the Proto-Slavic word *kǫpati, meaning \"to bathe\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0.%D0%93%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%B2%D0%B5%D0%BD%D0%BA%D0%B0%D1%85.2008.%D0%94%D0%BE%D1%81%D0%BA%D0%B0%2C%D0%BC%D0%B0%D1%81%D0%BB%D0%BE150%D1%8585_%D1%81%D0%BC.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kupala_Night"
+      }
     },
     {
       "name": "Slavianski Bazaar",
-      "writeup": "An international arts festival held in Vitebsk, featuring music, dance, and cultural performances."
+      "writeup": "An international arts festival held in Vitebsk, featuring music, dance, and cultural performances.",
+      "wiki": {
+        "extract": "The International Festival of Arts \"Slavianski Bazaar in Vitebsk\", also known as Slavic Bazaar, is an annual festival held in Vitebsk, Belarus, under the auspices of the Belarusian Government since 1992. Its main program is devoted to Slavic music. The majority of participants are artists from Slavic nations but there are also many non-Slavic guests, mostly from the countries of the former Eastern Bloc, Soviet Union and Yugoslavia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/2011._Stamp_of_Belarus_18-2011-06-29-m2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Slavianski_Bazaar_in_Vitebsk"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on July 3rd, marking the liberation of Minsk from Nazi occupation in 1944."
+      "writeup": "Celebrated on July 3rd, marking the liberation of Minsk from Nazi occupation in 1944.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     }
   ],
   "food_writeup": "Belarusian cuisine features hearty dishes such as draniki (potato pancakes), borscht (beet soup), and machanka (pork stew), reflecting its agricultural traditions and Eastern European influences.",

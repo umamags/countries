@@ -75,19 +75,39 @@
   "cultural_events": [
     {
       "name": "Cherry Blossom Festival (Hanami)",
-      "writeup": "A springtime celebration where people gather to view and appreciate the blooming cherry blossoms."
+      "writeup": "A springtime celebration where people gather to view and appreciate the blooming cherry blossoms.",
+      "wiki": {
+        "extract": "Hanami  is the Japanese traditional custom of enjoying the transient beauty of flowers; flowers  in this case almost always mean those of the cherry  or, less frequently, plum  trees. From the end of March to early May, cherry trees bloom all over Japan, and around the second week of January on the island of Okinawa. The blossom forecast \"cherry blossom front\" is announced each year by the Japan Meteorological Agency and watched carefully by those planning hanami, as the blossoms only last a week or two.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Castle_Himeji_sakura02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Hanami"
+      }
     },
     {
       "name": "Gion Matsuri",
-      "writeup": "One of Japan's most famous festivals held in Kyoto, featuring elaborate floats and traditional processions."
+      "writeup": "One of Japan's most famous festivals held in Kyoto, featuring elaborate floats and traditional processions.",
+      "wiki": {
+        "extract": "The Gion Festival  is one of the largest and most famous festivals in Japan, taking place annually during the month of July in Kyoto. Many events take place in central Kyoto and at the Yasaka Shrine, the festival's patron shrine, located in Kyoto's famous Gion district, which gives the festival its name. It is formally a Shinto festival, and its original purposes were purification and pacification of disease-causing entities. There are many ceremonies held during the festival, but it is best known for its two Yamaboko Junkō (山鉾巡行) processions of floats, which take place on July 17 and 24.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yoiyama_-_The_Gion_Festival_-_July_14%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Gion_Matsuri"
+      }
     },
     {
       "name": "Obon Festival",
-      "writeup": "A Buddhist event honoring the spirits of ancestors with dances, ceremonies, and family reunions."
+      "writeup": "A Buddhist event honoring the spirits of ancestors with dances, ceremonies, and family reunions.",
+      "wiki": {
+        "extract": "Obon  or just Bon  is a fusion of the ancient Japanese belief in ancestral spirits and a Japanese Buddhist custom to honor the spirits of one's ancestors. This syncretic folk Buddhist custom has evolved into a family reunion holiday during which people return to ancestral family places and visit and clean their ancestors' graves when the spirits of ancestors are supposed to revisit the household altars. It has been celebrated in Japan for more than 500 years and traditionally includes a dance, known as Bon Odori.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Osurasma%2C_or_praying_a_soul_out_of_purgatory-J._M._W._Silver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Obon"
+      }
     },
     {
       "name": "Tanabata",
-      "writeup": "A festival celebrating the meeting of two deities, marked by colorful decorations and wish writing."
+      "writeup": "A festival celebrating the meeting of two deities, marked by colorful decorations and wish writing.",
+      "wiki": {
+        "extract": "Tanabata , also known as the Star Festival , is a Japanese festival originating from the Chinese Qixi Festival. It celebrates the meeting of the deities Orihime and Hikoboshi. According to legend, the Milky Way separates these lovers, and they are allowed to meet only once a year on the seventh day of the seventh lunar month of the lunisolar calendar. The date of Tanabata varies by region of the country, but the first festivities begin on 7 July of the Gregorian calendar. The celebration is held at various days between July and August.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fussa_Tanabata_Festival-Tokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tanabata"
+      }
     }
   ],
   "food_writeup": "Japanese cuisine emphasizes seasonal ingredients, presentation, and balance, featuring dishes like sushi, ramen, tempura, and sashimi, reflecting a deep cultural appreciation for freshness and aesthetics.",

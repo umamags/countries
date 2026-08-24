@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Naadam Festival",
-      "writeup": "An annual festival featuring traditional sports: wrestling, horse racing, and archery."
+      "writeup": "An annual festival featuring traditional sports: wrestling, horse racing, and archery.",
+      "wiki": {
+        "extract": "Naadam is a traditional festival celebrated in Mongolia, Inner Mongolia and Tuva, involving Mongolian wrestling, horse racing and archery. The festival is also locally termed \"eriin gurvan naadam\", and is held during midsummer.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Naadam_Festival_2024_Opening_Ceremony.jpg/3840px-Naadam_Festival_2024_Opening_Ceremony.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Naadam"
+      }
     },
     {
       "name": "Tsagaan Sar",
-      "writeup": "Mongolian Lunar New Year celebration marked by family gatherings and traditional meals."
+      "writeup": "Mongolian Lunar New Year celebration marked by family gatherings and traditional meals.",
+      "wiki": {
+        "extract": "The Mongolian Lunar New Year, commonly known as Tsagaan Sar, is the first day of the year according to the Mongolian lunisolar calendar. The festival of the Lunar New Year is celebrated by Mongolic and some Turkic peoples. The holiday has shamanistic influences.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cagancar.jpg/3840px-Cagancar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Tsagaan_Sar"
+      }
     },
     {
       "name": "Golden Eagle Festival",
-      "writeup": "A festival showcasing the ancient tradition of eagle hunting in western Mongolia."
+      "writeup": "A festival showcasing the ancient tradition of eagle hunting in western Mongolia.",
+      "wiki": {
+        "extract": "The Golden Eagle Festival is an annual cultural festival held in Bayan-Ölgii Province, Mongolia. Organized by the Mongolian Eagle Hunter's Association, it celebrates the traditions of Kazakh eagle hunters (bürkitshi) who train and hunt with golden eagles. Competitions are held to showcase eagle handling skills, as well as traditional Kazakh dress and horsemanship. Events take place both in central Ölgii and on the nearby steppe, approximately 4 kilometres (2.5 mi) outside the town.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kazakh-Mongolian_Eagle_Hunter.JPG/3840px-Kazakh-Mongolian_Eagle_Hunter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Golden_Eagle_Festival"
+      }
     }
   ],
   "food_writeup": "Mongolian cuisine is centered on meat and dairy products, reflecting the nomadic lifestyle. Popular dishes include buuz (steamed dumplings), khuushuur (fried meat pies), and airag (fermented mare's milk).",

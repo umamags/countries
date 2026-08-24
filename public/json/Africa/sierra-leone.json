@@ -55,11 +55,21 @@
   "cultural_events": [
     {
       "name": "Freetown Music Festival",
-      "writeup": "An annual event showcasing local and international music, celebrating Sierra Leone's rich musical heritage."
+      "writeup": "An annual event showcasing local and international music, celebrating Sierra Leone's rich musical heritage.",
+      "wiki": {
+        "extract": "Freetown is the capital and largest city of Sierra Leone. It is a major port city on the Atlantic Ocean and is located in the Western Area of the country. Freetown is Sierra Leone's major urban, economic, financial, cultural, educational and political centre, as it is the seat of the Government of Sierra Leone. The population of Freetown was 1,347,559 as of the 2024 census.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Freetown-aerialview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Freetown"
+      }
     },
     {
       "name": "Krio Heritage Festival",
-      "writeup": "A festival celebrating the culture, language, and traditions of the Krio people."
+      "writeup": "A festival celebrating the culture, language, and traditions of the Krio people.",
+      "wiki": {
+        "extract": "KTFM is a commercial radio station licensed to Floresville, Texas, and serving Greater San Antonio. It broadcasts a sports radio format and is owned by Connoisseur Media. On weekdays it has local personalities hosting sports shows, with ESPN Radio heard nights and weekends. The studios are on Eisenhauer Road in San Antonio.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/KTFM"
+      }
     }
   ],
   "food_writeup": "Sierra Leonean cuisine features rice as a staple, often served with flavorful stews made from fish, meat, and vegetables, with popular dishes including groundnut stew and cassava leaves.",

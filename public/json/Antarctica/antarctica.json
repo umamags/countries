@@ -76,11 +76,21 @@
   "cultural_events": [
     {
       "name": "Antarctic Treaty Consultative Meetings",
-      "writeup": "Annual meetings where member countries discuss preservation and scientific cooperation."
+      "writeup": "Annual meetings where member countries discuss preservation and scientific cooperation.",
+      "wiki": {
+        "extract": "The Antarctic Treaty and related agreements, collectively known as the Antarctic Treaty System (ATS), regulate international relations with respect to Antarctica, Earth's only continent without a native human population. It was the first arms control agreement established during the Cold War, designating the continent as a scientific preserve, establishing freedom of scientific investigation, and banning military activity; for the purposes of the treaty system, Antarctica is defined as all the land and ice shelves south of 60°S latitude. Since September 2004, the Antarctic Treaty Secretariat, which implements the treaty system, is headquartered in Buenos Aires, Argentina.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_the_Antarctic_Treaty.svg/960px-Flag_of_the_Antarctic_Treaty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
+      }
     },
     {
       "name": "Midwinter Day",
-      "writeup": "Celebrated by researchers to mark the winter solstice with communal meals and festivities."
+      "writeup": "Celebrated by researchers to mark the winter solstice with communal meals and festivities.",
+      "wiki": {
+        "extract": "The winter solstice, or hibernal solstice, occurs when either of Earth's poles reaches its maximum tilt away from the Sun. This happens twice yearly, once in each hemisphere. For that hemisphere, the winter solstice is the day with the shortest period of daylight and longest night of the year, and when the Sun is at its lowest arc in the sky. In each polar region, there is continuous darkness or twilight around its winter solstice. The opposite event is the summer solstice, which happens at the same time in the opposite hemisphere.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Stonehege_%282148722919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Winter_solstice"
+      }
     }
   ],
   "food_writeup": "Food in Antarctica is primarily imported and consists of preserved and frozen goods. Fresh produce is limited, and meals focus on high-calorie content to sustain researchers in extreme conditions.",

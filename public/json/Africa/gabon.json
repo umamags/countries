@@ -79,15 +79,30 @@
   "cultural_events": [
     {
       "name": "Bwiti Festival",
-      "writeup": "A traditional spiritual ceremony involving music, dance, and the use of the iboga plant."
+      "writeup": "A traditional spiritual ceremony involving music, dance, and the use of the iboga plant.",
+      "wiki": {
+        "extract": "Music of Gabon encompasses the traditional, ritual, popular and urban musics of the Gabonese Republic. Scholarly literature describes Gabonese musical life as highly diverse, reflecting the country's ethnolinguistic plurality, especially Fang, Myènè, Teke, Punu, Njebi, Kota, Mitsogo and Babongo/Bongo communities, and the close historical connection between music, dance, healing, initiation and oral literature.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Harpa_-_Fang%2C_Gabon_-_Royal_Museum_for_Central_Africa_-_DSC06968.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Music_of_Gabon"
+      }
     },
     {
       "name": "Fang New Year",
-      "writeup": "Celebration marking the new year with traditional dances and rituals among the Fang people."
+      "writeup": "Celebration marking the new year with traditional dances and rituals among the Fang people.",
+      "wiki": {
+        "extract": "Fang Fang, pen name of Wang Fang, is a Chinese writer, known for her literary depictions of the working poor. She won the Lu Xun Literary Prize in 2010. Born in Nanjing, she attended Wuhan University in 1978 to study Chinese. In 1975, she began to write poetry and in 1982, her first novel was published. She has since written several novels, some of which have been honored by Chinese national-level literary prizes. Fang garnered international attention for her Wuhan Diary, documenting the early stages of the COVID-19 pandemic in China, and has used her platform to call for an end to internet censorship in China.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Fang_Fang"
+      }
     },
     {
       "name": "Gabon Independence Day",
-      "writeup": "National holiday on August 17 celebrating Gabon's independence from France in 1960."
+      "writeup": "National holiday on August 17 celebrating Gabon's independence from France in 1960.",
+      "wiki": {
+        "extract": "An Independence Day is an annual event commemorating the anniversary of a nation's independence or statehood, usually after ceasing to be a group or part of another nation or state, or after the end of a military occupation, or after a major change in government. Many countries commemorate their independence from a colonial empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/National_Days_map.svg/960px-National_Days_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_independence_days"
+      }
     }
   ],
   "food_writeup": "Gabonese cuisine features ingredients like cassava, plantains, fish, and bushmeat, with dishes often flavored with palm oil and spices reflecting Central African culinary traditions.",

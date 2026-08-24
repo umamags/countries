@@ -56,11 +56,21 @@
   "cultural_events": [
     {
       "name": "Maroon Festival",
-      "writeup": "Celebrates the culture and history of the Maroon communities with music, dance, and traditional rituals."
+      "writeup": "Celebrates the culture and history of the Maroon communities with music, dance, and traditional rituals.",
+      "wiki": {
+        "extract": "Maroon 5 is an American pop rock band formed in Los Angeles, California. It consists of lead vocalist and guitarist Adam Levine, rhythm guitarist and keyboardist Jesse Carmichael, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton, and bassist and keyboardist Sam Farrar. Original members Levine, Carmichael, bassist Mickey Madden, and drummer Ryan Dusick first came together as Kara's Flowers in February 1994, while they were in high school.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Maroon_5_Current_Lineup_Collage.jpg/3840px-Maroon_5_Current_Lineup_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Maroon_5"
+      }
     },
     {
       "name": "Keti Koti",
-      "writeup": "Commemorates the abolition of slavery in Suriname with festivities and remembrance events."
+      "writeup": "Commemorates the abolition of slavery in Suriname with festivities and remembrance events.",
+      "wiki": {
+        "extract": "Ketikoti, sometimes spelled as Keti Koti, or officially Dag der Vrijheden, is an annual celebration on 1 July that marks Emancipation Day in Suriname. The day is also known as Manspasi Dei or Prisiri Manspasi, meaning \"Emancipation\" or \"Emancipation Festival\", or Kettingsnijden.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kwakoe_statue%2C_Paramaribo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ketikoti"
+      }
     }
   ],
   "food_writeup": "Surinamese cuisine is a diverse blend of Indian, African, Indonesian, Chinese, and Dutch influences, featuring dishes like roti, pom, and peanut soup.",

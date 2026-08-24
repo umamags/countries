@@ -65,11 +65,21 @@
   "cultural_events": [
     {
       "name": "Hari Raya Aidilfitri",
-      "writeup": "A major Muslim festival marking the end of Ramadan, celebrated with prayers, feasts, and family gatherings."
+      "writeup": "A major Muslim festival marking the end of Ramadan, celebrated with prayers, feasts, and family gatherings.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Brunei National Day",
-      "writeup": "Celebrated on February 23rd, commemorating Brunei's independence from British protection in 1984."
+      "writeup": "Celebrated on February 23rd, commemorating Brunei's independence from British protection in 1984.",
+      "wiki": {
+        "extract": "National Day or Independence Day is the national day of Brunei, commemorating the anniversary of Brunei's proclamation of independence. It was made a national holiday by government decree in 1985. Although Brunei formally proclaimed independence from the United Kingdom on 1 January 1984, it did not celebrate its national day until 23 February.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Brunei_National_Day_2024_96.jpg/3840px-Brunei_National_Day_2024_96.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/National_Day_(Brunei)"
+      }
     }
   ],
   "food_writeup": "Bruneian cuisine features a blend of Malay, Chinese, and Indian influences, with popular dishes including Nasi Lemak, Ambuyat (a sago starch dish), and Satay.",

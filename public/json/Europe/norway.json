@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Norwegian Constitution Day",
-      "writeup": "Celebrated on May 17th, it marks Norway's independence with parades, traditional costumes, and festivities."
+      "writeup": "Celebrated on May 17th, it marks Norway's independence with parades, traditional costumes, and festivities.",
+      "wiki": {
+        "extract": "Constitution Day is the National Day of Norway, observed annually with an official public holiday on 17 May. Among Norwegians, the day is referred to as Syttende mai, Nasjonaldagen, or Grunnlovsdagen, although the latter is less frequent.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Oslo_17_mai_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Constitution_Day_(Norway)"
+      }
     },
     {
       "name": "Bergen International Festival",
-      "writeup": "Annual cultural festival featuring music, dance, theater, and visual arts."
+      "writeup": "Annual cultural festival featuring music, dance, theater, and visual arts.",
+      "wiki": {
+        "extract": "Bergen International Festival is an annual international music and cultural festival in Bergen, Norway.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Grieghallen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bergen_International_Festival"
+      }
     },
     {
       "name": "Sami National Day",
-      "writeup": "Celebrated on February 6th, honoring the indigenous Sami people's culture and heritage."
+      "writeup": "Celebrated on February 6th, honoring the indigenous Sami people's culture and heritage.",
+      "wiki": {
+        "extract": "The Sámi National Day is an ethnic national day for the Sámi (Saami) people that falls on February 6, the date when the first Sámi congress was held in 1917 in Trondheim, Norway. The congress was the first time that Norwegian and Swedish Sámi came together across national borders to work on finding solutions to common problems.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sami_flag.svg/960px-Sami_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A1mi_National_Day"
+      }
     }
   ],
   "food_writeup": "Norwegian cuisine emphasizes fresh seafood like salmon and cod, traditional dishes such as rakfisk and lutefisk, and hearty fare suited to its cold climate.",

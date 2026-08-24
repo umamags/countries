@@ -54,11 +54,21 @@
   "cultural_events": [
     {
       "name": "Festival Kreol",
-      "writeup": "Annual cultural festival celebrating Creole heritage with music, dance, food, and art."
+      "writeup": "Annual cultural festival celebrating Creole heritage with music, dance, food, and art.",
+      "wiki": {
+        "extract": "Seychelles, officially the Republic of Seychelles, is an archipelagic country consisting of 115 islands in the Indian Ocean. Its capital and largest city, Victoria, is 1,500 kilometres east of mainland Africa. Nearby island countries and territories include the Maldives, Comoros, Madagascar, Mauritius, and the French overseas departments of Mayotte and Réunion to the south; and the Chagos Archipelago to the east.\nSeychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated population of 100,600 in 2022.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Seychelles"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on June 29th, marking Seychelles' independence from the United Kingdom in 1976."
+      "writeup": "Celebrated on June 29th, marking Seychelles' independence from the United Kingdom in 1976.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     }
   ],
   "food_writeup": "Seychellois cuisine is a blend of African, French, Indian, and Chinese influences, featuring seafood, tropical fruits, and spices. Popular dishes include grilled fish, octopus curry, and ladob, a dessert made from plantains or breadfruit.",

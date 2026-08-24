@@ -79,23 +79,45 @@
   "cultural_events": [
     {
       "name": "Canada Day",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Canada Day is the national day of Canada. A federal statutory holiday, it celebrates the anniversary of Canadian Confederation which occurred on July 1, 1867, when the three separate colonies of the United Canadas, Nova Scotia, and New Brunswick were united into a single dominion within the British Empire called Canada.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ottawa_fireworks_49_%2827768773120%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Canada_Day"
+      }
     },
     {
       "name": "Calgary Stampede",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Calgary Stampede is an annual rodeo, exhibition, and festival held every July in Calgary, Alberta, Canada. The ten-day event, which bills itself as \"The Greatest Outdoor Show on Earth\", attracts over one million visitors per year and features one of the world's largest rodeos, a parade, midway, stage shows, concerts, agricultural competitions, chuckwagon racing, and First Nations exhibitions. In 2008, the Calgary Stampede was inducted into the ProRodeo Hall of Fame.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Calgary_Stampede_Logo.svg/960px-Calgary_Stampede_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Calgary_Stampede"
+      }
     },
     {
       "name": "Toronto International Film Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Toronto International Film Festival is one of the most prestigious and largest publicly attended film festivals in the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Toronto_International_Film_Festival_logo.svg/960px-Toronto_International_Film_Festival_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Toronto_International_Film_Festival"
+      }
     },
     {
       "name": "Winterlude",
-      "writeup": ""
+      "writeup": "",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Pow Wows",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "A powwow is a gathering with dances held by many Native American and Canadian First Nations communities. Inaugurated in 1923, powwows today are an opportunity for Indigenous people to socialize, dance, sing, and honor their cultures. Powwows may be private or public, indoors or outdoors. Dancing events can be competitive with monetary prizes. Powwows vary in length from single-day to weeklong events.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grand_Entry_Omaha.jpg/3840px-Grand_Entry_Omaha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Powwow"
+      }
     }
   ],
   "food_writeup": "Canadian cuisine reflects its multicultural population and regional diversity, featuring dishes like poutine, butter tarts, maple syrup, and seafood from coastal regions.",

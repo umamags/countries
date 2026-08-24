@@ -76,23 +76,48 @@
   "cultural_events": [
     {
       "name": "Yom Ha'atzmaut",
-      "writeup": "Israel's Independence Day, celebrating the establishment of the state in 1948 with nationwide festivities."
+      "writeup": "Israel's Independence Day, celebrating the establishment of the state in 1948 with nationwide festivities.",
+      "wiki": {
+        "extract": "Yom Ha'atzmaut is Israel's national day, commemorating the Israeli Declaration of Independence on 14 May 1948. It is marked by a variety of official and unofficial ceremonies and observances.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PikiWiki_Israel_2482_independence_day_aerial_demonstration_%D7%9E%D7%98%D7%A1_%D7%99%D7%95%D7%9D_%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Israel)"
+      }
     },
     {
       "name": "Jerusalem Film Festival",
-      "writeup": "An annual event showcasing Israeli and international films, promoting cultural exchange."
+      "writeup": "An annual event showcasing Israeli and international films, promoting cultural exchange.",
+      "wiki": {
+        "extract": "The Jerusalem Film Festival is an international film festival held annually in Jerusalem, It was established in 1984 by the Director of the Jerusalem Cinematheque and Israeli Film Archive, Lia Van Leer, and has since become the main Israeli event for filmmakers and enthusiasts. Over the course of ten days every summer, over 200 films from 60 countries are screened at the Festival, along with a variety of special events, panels, and meetings with prominent local and international filmmakers, as well as professional industry workshops and events.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Filmfestival2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Jerusalem_Film_Festival"
+      }
     },
     {
       "name": "Purim",
-      "writeup": "A Jewish holiday marked by costumes, feasting, and public celebrations commemorating the story of Esther."
+      "writeup": "A Jewish holiday marked by costumes, feasting, and public celebrations commemorating the story of Esther.",
+      "wiki": {
+        "extract": "Purim is a Jewish holiday that commemorates the saving of the Jewish people by Queen Esther from annihilation at the hands of an official of the Achaemenid Empire named Haman, as it is recounted in the Book of Esther.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Purim_by_Arthur_Szyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Purim"
+      }
     },
     {
       "name": "Tel Aviv Pride",
-      "writeup": "One of the largest LGBTQ+ pride events in the Middle East, promoting diversity and inclusion."
+      "writeup": "One of the largest LGBTQ+ pride events in the Middle East, promoting diversity and inclusion.",
+      "wiki": {
+        "extract": "Tel Aviv Pride is a week-long series of events in Tel Aviv which takes place on the second week of June, as part of the international observance of LGBTQIA+ Pride Month. The key event, taking place on the Friday, is the Pride Parade itself which attracts over 250,000 attendees. As of June 2019, it is the largest LGBT Parade in Asia.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tel_Aviv_Gay_Pride_Parade_2015_%2818549971060%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tel_Aviv_Pride"
+      }
     },
     {
       "name": "Sukkot",
-      "writeup": "A week-long Jewish festival celebrating the harvest and commemorating the Israelites' desert wanderings."
+      "writeup": "A week-long Jewish festival celebrating the harvest and commemorating the Israelites' desert wanderings.",
+      "wiki": {
+        "extract": "Sukkot, also known as the Feast of Tabernacles or Feast of Booths, is a Torah-commanded Jewish holiday celebrated for seven days, beginning on the 15th day of the month of Tishrei. It is one of the Three Pilgrimage Festivals on which Israelites were commanded to make a pilgrimage to the Temple in Jerusalem. Biblically an autumn harvest festival and a commemoration of the Exodus from Egypt, Sukkot's modern observance is characterized by festive meals in a sukkah, a temporary wood-covered hut, and the taking of the four species.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sukkoth_-_IZE10160.jpg/3840px-Sukkoth_-_IZE10160.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Sukkot"
+      }
     }
   ],
   "food_writeup": "Israeli cuisine is a diverse blend of Middle Eastern, Mediterranean, and Jewish culinary traditions, featuring dishes like falafel, hummus, shakshuka, and fresh salads, often emphasizing fresh vegetables, olive oil, and spices.",

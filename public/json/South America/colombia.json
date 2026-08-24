@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Carnaval de Barranquilla",
-      "writeup": "One of the biggest carnivals in Colombia, showcasing traditional music, dance, and colorful parades."
+      "writeup": "One of the biggest carnivals in Colombia, showcasing traditional music, dance, and colorful parades.",
+      "wiki": {
+        "extract": "The Barranquilla Carnival is one of Colombia's most important folkloric celebrations, and one of the biggest carnivals in the world. The carnival has traditions that date back to the 19th century. Four days before Lent, Barranquilla decks itself out to receive national and foreign tourists to join together with the city's inhabitants to enjoy four days of intense festivities. During the carnival, Barranquilla's normal activities are put aside as the city gets busy with street dances, musical and masquerade parades. The Carnival Of Barranquilla includes dances such as the Spanish paloteo, African Congo, and indigenous mice y mica's. Many styles of Colombian music are also performed, most prominently cumbia, and instruments include drums and wind ensembles. \nThe Carnival of Barranquilla was proclaimed a Cultural Masterpiece of the Nation by Colombia's National Congress in 2002.\nAlso the UNESCO, in Paris on November 7, 2003, declared it one of the Masterpieces of the Oral and Intangible Heritage of Humanity.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Carnaval_de_barranquilla.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Barranquilla_Carnival"
+      }
     },
     {
       "name": "Festival Vallenato",
-      "writeup": "A festival celebrating vallenato music, a traditional Colombian genre originating from the Caribbean region."
+      "writeup": "A festival celebrating vallenato music, a traditional Colombian genre originating from the Caribbean region.",
+      "wiki": {
+        "extract": "The Vallenato Legend Festival is one of the most important musical festivals in Colombia. The festival features a vallenato music contests for best performer of accordion, caja vallenata and guacharaca, as well as piqueria and best song. It is celebrated every year in April in the city of Valledupar, Department of Cesar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Festival_vallenato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vallenato_Legend_Festival"
+      }
     },
     {
       "name": "Feria de las Flores",
-      "writeup": "An annual flower festival in Medellín featuring parades, concerts, and cultural exhibitions."
+      "writeup": "An annual flower festival in Medellín featuring parades, concerts, and cultural exhibitions.",
+      "wiki": {
+        "extract": "The Flowers Festival is a festival that takes place in Medellín, Colombia. The annual festival is a significant driver of tourism and holds importance to the cultural fabric of the city. In addition to various flower display-oriented events and contests, the festival includes musical performances, an antique car parade, and an 11km bike ride. It is estimated that the Flowers Festival annually attracts more than two million people to the city, and the event cost the city around $3.6 million to organize in 2019.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/FestivaloftheFlowerslogo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festival_of_the_Flowers"
+      }
     }
   ],
   "food_writeup": "Colombian cuisine is diverse, featuring dishes like arepas, bandeja paisa, empanadas, and a variety of tropical fruits, reflecting its regional diversity and indigenous, Spanish, and African influences.",

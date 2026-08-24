@@ -88,15 +88,27 @@
   "cultural_events": [
     {
       "name": "Cape Town Minstrel Carnival",
-      "writeup": "Annual festival featuring colorful parades, music, and dance celebrating Cape Town's diverse heritage."
+      "writeup": "Annual festival featuring colorful parades, music, and dance celebrating Cape Town's diverse heritage.",
+      "wiki": {
+        "extract": "The Kaapse Klopse, officially named the Cape Town Minstrel Carnival, is a traditionally Cape Coloured minstrel festival that takes place annually on 2 January in Cape Town, South Africa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cape_Minstrel_at_Cape_Town_Minstrel_Carnival_%282017%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kaapse_Klopse"
+      }
     },
     {
       "name": "National Arts Festival",
-      "writeup": "One of Africa's largest arts festivals held in Grahamstown, showcasing theatre, music, and visual arts."
+      "writeup": "One of Africa's largest arts festivals held in Grahamstown, showcasing theatre, music, and visual arts.",
+      "wiki": {
+        "extract": "The National Arts Festival (NAF) is an annual festival of performing arts in Makhanda, South Africa. It is the largest arts festival on the African continent and one of the largest performing arts festivals in the world by visitor numbers.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/National_Arts_Festival"
+      }
     },
     {
       "name": "Heritage Day",
-      "writeup": "Public holiday celebrating South Africa's cultural diversity and heritage."
+      "writeup": "Public holiday celebrating South Africa's cultural diversity and heritage.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "South African cuisine is diverse, featuring dishes like braai (barbecue), bobotie (spiced minced meat), biltong (dried cured meat), and chakalaka (spicy vegetable relish), reflecting its multicultural society.",

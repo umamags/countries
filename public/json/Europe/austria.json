@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Vienna Opera Ball",
-      "writeup": "An annual high-society event held at the Vienna State Opera, featuring classical music and traditional dance."
+      "writeup": "An annual high-society event held at the Vienna State Opera, featuring classical music and traditional dance.",
+      "wiki": {
+        "extract": "The Vienna Opera Ball is an annual Austrian society event which takes place in the building of the Vienna State Opera in Vienna, Austria on the Thursday preceding Ash Wednesday. Together with the New Year Concert, the ball is one of the highlights of the Viennese carnival season.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wiener_Staatsoper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vienna_Opera_Ball"
+      }
     },
     {
       "name": "Salzburg Festival",
-      "writeup": "A prominent festival of music and drama held every summer in Salzburg."
+      "writeup": "A prominent festival of music and drama held every summer in Salzburg.",
+      "wiki": {
+        "extract": "The Salzburg Festival is a prominent festival of music and drama established in 1920. It is held each summer, for five weeks starting in late July, in Salzburg, Austria, the birthplace of Wolfgang Amadeus Mozart. Mozart's operas are a focus of the festival; one highlight is the annual performance of Hofmannsthal's play Jedermann (Everyman).",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Logo_for_Salzburger_Festspiele.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Salzburg_Festival"
+      }
     },
     {
       "name": "Krampusnacht",
-      "writeup": "A traditional event in early December where people dress as Krampus, a folkloric figure who punishes misbehaving children."
+      "writeup": "A traditional event in early December where people dress as Krampus, a folkloric figure who punishes misbehaving children.",
+      "wiki": {
+        "extract": "The Krampus is a horned anthropomorphic figure who, in the Central and Eastern Alpine folkloric tradition, is said to accompany Saint Nicholas on visits to children during the night of 5 December, immediately before the Feast of St. Nicholas on 6 December. In this tradition, Saint Nicholas rewards well-behaved children with small gifts, while Krampus punishes badly behaved ones with birch rods.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hl._Nikolaus_in_Begleitung_des_Krampus_und_Engeln.jpg/3840px-Hl._Nikolaus_in_Begleitung_des_Krampus_und_Engeln.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Krampus"
+      }
     },
     {
       "name": "Vienna Film Festival",
-      "writeup": "An annual event showcasing international and Austrian films."
+      "writeup": "An annual event showcasing international and Austrian films.",
+      "wiki": {
+        "extract": "The Vienna International Film Festival, or Viennale, is a film festival taking place every October since 1960 in Vienna, Austria.\nThe average number of visitors is about 75,000. Traditional cinema venues are Gartenbaukino, Urania, Metro-Kino, Filmmuseum and Stadtkino. At the end of the festival, the Vienna Film Prize is awarded.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Vienna_International_Film_Festival_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vienna_International_Film_Festival"
+      }
     },
     {
       "name": "Advent Markets",
-      "writeup": "Traditional Christmas markets held throughout Austria during the Advent season."
+      "writeup": "Traditional Christmas markets held throughout Austria during the Advent season.",
+      "wiki": {
+        "extract": "A Christmas market is a street market associated with the celebration of Christmas during the four weeks of Advent. These markets originated in Germany, but are now held in many countries. Some in the U.S. have adapted the German name to quasi-English Christkindlmarket, swapping German Markt and market.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christkindlesmarkt_nuernberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Christmas_market"
+      }
     }
   ],
   "food_writeup": "Austrian cuisine features hearty dishes such as Wiener Schnitzel, Tafelspitz, and Sachertorte, reflecting Central European influences with an emphasis on meats, pastries, and coffee culture.",

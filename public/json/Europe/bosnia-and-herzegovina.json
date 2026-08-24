@@ -58,15 +58,27 @@
   "cultural_events": [
     {
       "name": "Sarajevo Film Festival",
-      "writeup": "The largest film festival in Southeast Europe, showcasing regional and international cinema."
+      "writeup": "The largest film festival in Southeast Europe, showcasing regional and international cinema.",
+      "wiki": {
+        "extract": "The Sarajevo Film Festival is an annual film festival held in Sarajevo, Bosnia and Herzegovina. The premier and largest film festival in Southeastern Europe, it is also one of the largest film festivals in Europe. It was founded in Sarajevo in 1995 during the siege of Sarajevo in the Bosnian War, and brings international and local celebrities to Sarajevo every year. It is held in August and showcases an extensive variety of feature and short films from around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Open_Air_Drone-4_%281%29_2_%28cropped%29.jpg/3840px-Open_Air_Drone-4_%281%29_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Sarajevo_Film_Festival"
+      }
     },
     {
       "name": "Bašnaršija Nights",
-      "writeup": "A summer cultural festival in Sarajevo featuring music, theater, and traditional crafts."
+      "writeup": "A summer cultural festival in Sarajevo featuring music, theater, and traditional crafts.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Mostar Summer Festival",
-      "writeup": "An event celebrating local music, dance, and cultural traditions in Mostar."
+      "writeup": "An event celebrating local music, dance, and cultural traditions in Mostar.",
+      "wiki": {
+        "extract": "Mostar is a city and the administrative centre of Herzegovina-Neretva Canton of the Federation of Bosnia and Herzegovina, an entity of Bosnia and Herzegovina, and the historical capital of Herzegovina.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stari_Most_viewed_from_North.jpg/3840px-Stari_Most_viewed_from_North.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Mostar"
+      }
     }
   ],
   "food_writeup": "Bosnian cuisine blends Ottoman, Mediterranean, and Central European influences, featuring dishes like nevapi (grilled minced meat), burek (filled pastry), and Bosanski lonac (meat and vegetable stew).",

@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Te Kaimatoa",
-      "writeup": "A traditional dance festival celebrating Kiribati culture, featuring music, dance, and storytelling."
+      "writeup": "A traditional dance festival celebrating Kiribati culture, featuring music, dance, and storytelling.",
+      "wiki": {
+        "extract": "Kiribati, officially the Republic of Kiribati, is an archipelagic country spanning the Micronesia and Polynesia sub-regions of Oceania in the central Pacific Ocean. The state comprises 32 atolls and other islands and one remote raised coral island, Banaba. Its total land area is 811 km2 (313 sq mi) dispersed over 3,441,810 km2 (1,328,890 sq mi) of ocean. The spread of the country's islands, from Banaba in the west to Kiritimati in the east straddles the equator and the 180th meridian. The International Date Line goes around Kiribati and swings far to the east, almost reaching 150°W. This brings Kiribati's easternmost islands, the southern Line Islands south of Hawaii, into the same day as the Gilbert Islands and places them in the most advanced time zone on Earth: UTC+14.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/960px-Flag_of_Kiribati.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Kiribati"
+      }
     },
     {
       "name": "Independence Day",
-      "writeup": "Celebrated on July 12th, marking Kiribati's independence from the United Kingdom in 1979."
+      "writeup": "Celebrated on July 12th, marking Kiribati's independence from the United Kingdom in 1979.",
+      "wiki": {
+        "extract": "Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947. On this day the Indian Independence Act 1947 came into effect, transferring legislative sovereignty to the Indian Constituent Assembly. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by the Indian National Congress under the leadership of Mahatma Gandhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+      }
     }
   ],
   "food_writeup": "Kiribati cuisine primarily consists of seafood, coconut, breadfruit, and pandanus. Traditional dishes often include fish prepared with coconut milk and root crops.",

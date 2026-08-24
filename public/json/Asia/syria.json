@@ -49,11 +49,21 @@
   "cultural_events": [
     {
       "name": "Damascus International Film Festival",
-      "writeup": "An event showcasing Arab and international cinema, promoting cultural exchange."
+      "writeup": "An event showcasing Arab and international cinema, promoting cultural exchange.",
+      "wiki": {
+        "extract": "The Damascus International Film Festival is a biennial November film festival hosted by the government of Syria since 1979.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Damascus_International_Film_Festival"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major religious festival marking the end of Ramadan, celebrated with communal prayers and feasts."
+      "writeup": "A major religious festival marking the end of Ramadan, celebrated with communal prayers and feasts.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     }
   ],
   "food_writeup": "Syrian cuisine features a rich variety of dishes including kibbeh, hummus, falafel, and baklava, reflecting Levantine culinary traditions with an emphasis on fresh ingredients and spices.",

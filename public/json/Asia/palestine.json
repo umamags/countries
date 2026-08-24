@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Palestinian Heritage Day",
-      "writeup": "An annual event celebrating Palestinian culture, traditional crafts, music, and dance."
+      "writeup": "An annual event celebrating Palestinian culture, traditional crafts, music, and dance.",
+      "wiki": {
+        "extract": "The Nakba is the ethnic cleansing of Palestinian Arabs by Zionists through their violent displacement and dispossession of land, property, and belongings, along with the destruction of their society and the suppression of their culture, identity, political rights, and national aspirations. The term is used to describe the events of the 1948 Palestine war, during which Zionists depopulated territories in Mandatory Palestine and declared the establishment of the State of Israel, as well as to describe Israel's ongoing persecution and displacement of Palestinians. As a whole, it covers the fracturing of Palestinian society and the longstanding rejection of the right of return for Palestinian refugees and their descendants.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Haifa_1948_expulsion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Nakba"
+      }
     },
     {
       "name": "Olive Harvest Festival",
-      "writeup": "A seasonal event marking the olive harvest, significant for its cultural and economic importance."
+      "writeup": "A seasonal event marking the olive harvest, significant for its cultural and economic importance.",
+      "wiki": {
+        "extract": "A harvest festival is an annual celebration which occurs around the time of the main harvest of a given region. Given regional differences in climates and crops, harvest festivals can be found at various times throughout the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mid-Autumn_Festival1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/List_of_harvest_festivals"
+      }
     }
   ],
   "food_writeup": "Palestinian cuisine features dishes like musakhan (roasted chicken with onions and sumac on flatbread), maqluba (upside-down rice and vegetable dish), and knafeh (sweet cheese pastry), reflecting Levantine culinary traditions.",

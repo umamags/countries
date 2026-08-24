@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Kurentovanje",
-      "writeup": "A traditional carnival festival featuring the Kurent figure to chase away winter and welcome spring."
+      "writeup": "A traditional carnival festival featuring the Kurent figure to chase away winter and welcome spring.",
+      "wiki": {
+        "extract": "Kurentovanje is Slovenia's most popular and ethnologically significant carnival event first organised in 1960 by Drago Hasl and his associates from cultural and educational organizations. This 11-day rite of spring and fertility highlight event is celebrated on Shrove Sunday in Ptuj, the oldest documented city in the region, and draws around 100,000 participants in total each year. In 2016 proclaimed as the 7th largest carnival in the world by Lonely Planet.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ale%C5%A1_Kravos_Kurentovanje_Ptuj_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kurentovanje"
+      }
     },
     {
       "name": "Ljubljana Festival",
-      "writeup": "A summer festival showcasing music, theater, and dance performances in the capital city."
+      "writeup": "A summer festival showcasing music, theater, and dance performances in the capital city.",
+      "wiki": {
+        "extract": "The Ljubljana Festival is an annual international arts festival held in Ljubljana, the capital of Slovenia. Founded in 1953, it is the oldest festival in the country and one of the long-established summer festivals in Europe.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Ljubljana_Summer_Festival"
+      }
     },
     {
       "name": "Ptuj Carnival",
-      "writeup": "One of the oldest carnivals in Europe, known for its colorful masks and traditional rituals."
+      "writeup": "One of the oldest carnivals in Europe, known for its colorful masks and traditional rituals.",
+      "wiki": {
+        "extract": "Ptuj is the eighth-largest town of Slovenia, located in the traditional region of Styria. It is the seat of the Municipality of Ptuj. Being the oldest recorded city in Slovenia, it has been inhabited since the late Stone Age and developed from a Roman military fort, located at a strategically important crossing of the Drava River along a prehistoric trade route between the Baltic Sea and the Adriatic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ptuj_Town_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ptuj"
+      }
     }
   ],
   "food_writeup": "Slovenian cuisine is diverse, influenced by Mediterranean, Alpine, and Pannonian traditions, featuring dishes like potica (nut roll), jota (sauerkraut stew), and various fresh dairy and meat products.",

@@ -78,23 +78,48 @@
   "cultural_events": [
     {
       "name": "Venice Carnival",
-      "writeup": "A historic festival known for elaborate masks and costumes, celebrating Venetian culture."
+      "writeup": "A historic festival known for elaborate masks and costumes, celebrating Venetian culture.",
+      "wiki": {
+        "extract": "The Carnival of Venice is an annual festival held in Venice, Italy, famous for its elaborate costumes and masks. The Carnival ends on Shrove Tuesday, which is the day before the start of Lent on Ash Wednesday.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Venice_Carnival_-_Masked_Lovers_%282010%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+      }
     },
     {
       "name": "Palio di Siena",
-      "writeup": "A traditional horse race held twice a year in Siena, showcasing medieval pageantry."
+      "writeup": "A traditional horse race held twice a year in Siena, showcasing medieval pageantry.",
+      "wiki": {
+        "extract": "The Palio di Siena is a horse race held twice each year, on 2 July and 16 August, in Siena, Italy. Ten horses and riders, bareback and dressed in the appropriate colours, represent ten of the seventeen contrade, or city wards, in a tradition dating back to the 17th century. The Palio held on 2 July is named Palio di Provenzano, in honour of the Madonna of Provenzano, a Marian devotion particular to Siena which developed around an icon from the Terzo Camollia area of the city. The Palio held on 16 August is named Palio dell'Assunta, in honour of the Assumption of Mary.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Palio_di_Siena_2008_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+      }
     },
     {
       "name": "Eurochocolate Festival",
-      "writeup": "An annual event in Perugia celebrating chocolate with tastings and exhibitions."
+      "writeup": "An annual event in Perugia celebrating chocolate with tastings and exhibitions.",
+      "wiki": {
+        "extract": "EuroChocolate is an annual chocolate festival that takes place in Perugia, in the Umbria region of central Italy. The festival has been held since 1993, and is one of the largest chocolate festivals in Europe. EuroChocolate draws nearly one million tourists and Italian natives each year. It lasts for nine days and is located in the squares and areas of Piazza Italia, Piazza Della Repubblica, Corso Vannucci, Via Mazzini, Via Fani, The Terrace of the Covered Market, and Piazza IV Novembre.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eurochocolate_2008.jpg/3840px-Eurochocolate_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/EuroChocolate"
+      }
     },
     {
       "name": "Milan Fashion Week",
-      "writeup": "A major global fashion event highlighting Italian and international designers."
+      "writeup": "A major global fashion event highlighting Italian and international designers.",
+      "wiki": {
+        "extract": "Milan Fashion Week is a clothing trade show held semi-annually in Milan, Italy. Upcoming autumn/winter fashions are showcased in February/March of each year, and upcoming spring/summer fashions are showcased in September/October of each year. Many designers showcase new designs and upcoming collections. Milan Fashion Week is one of the \"Big Four\" global fashion weeks alongside New York, Paris, and London.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/John_Varvatos_Fall_2010_04.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Milan_Fashion_Week"
+      }
     },
     {
       "name": "La Quintana",
-      "writeup": "A historic jousting tournament held in Ascoli Piceno, reflecting medieval traditions."
+      "writeup": "A historic jousting tournament held in Ascoli Piceno, reflecting medieval traditions.",
+      "wiki": {
+        "extract": "La Quintana, also known as the Parque Biblioteca Tomás Carrasquilla, is a culturally significant library park in Medellín, Colombia. The library was designed by Ricardo La Rotta Caballero and named after Colombian writer Tomás Carrasquilla. The building is 14,800 square feet and includes reading rooms, ludotecas, computers with internet, and terraced architecture with views overlooking Medellín.\nIt is located in the Aures neighborhood in the northwestern quarter of the city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Biblioteca_Tom%C3%A1s_Carrasquilla%2813%29-Medellin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/La_Quintana"
+      }
     }
   ],
   "food_writeup": "Italian cuisine is renowned for its regional diversity, emphasizing fresh ingredients, olive oil, pasta, and cheeses. Signature dishes include pizza, risotto, and gelato, reflecting a rich culinary heritage.",

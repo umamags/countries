@@ -75,15 +75,30 @@
   "cultural_events": [
     {
       "name": "Dita e Verës (Summer Day)",
-      "writeup": "A traditional festival celebrated on March 14th marking the end of winter and the arrival of spring."
+      "writeup": "A traditional festival celebrated on March 14th marking the end of winter and the arrival of spring.",
+      "wiki": {
+        "extract": "Dita e Verës or Verëza is an Albanian spring festival and pagan holiday celebrated on March 14 of the Gregorian calendar, for the beginning of the spring-summer period.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Dita_e_Ver%C3%ABs"
+      }
     },
     {
       "name": "National Folk Festival",
-      "writeup": "A biennial event showcasing Albanian folk music, dance, and costumes from various regions."
+      "writeup": "A biennial event showcasing Albanian folk music, dance, and costumes from various regions.",
+      "wiki": {
+        "extract": "A folk festival celebrates traditional folk crafts and folk music. This list includes folk festivals worldwide, except those with only a partial focus on folk music or arts. Folk festivals may also feature folk dance or ethnic foods.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Inuit_dance_near_Nome_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/List_of_folk_festivals"
+      }
     },
     {
       "name": "Tirana International Film Festival",
-      "writeup": "An annual event promoting Albanian and international cinema."
+      "writeup": "An annual event promoting Albanian and international cinema.",
+      "wiki": {
+        "extract": "The Tirana International Film Festival is an Academy Awards qualifying film festival and one of the major annual events taking place in Tirana each year. It was the first international cinema festival in Albania. This cultural event was created in 2003 and is currently the most important cinematic event in Albania.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Tirana_International_Film_Festival_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Tirana_International_Film_Festival"
+      }
     }
   ],
   "food_writeup": "Albanian cuisine features Mediterranean influences with staples like fresh vegetables, lamb, seafood, and traditional dishes such as byrek (savory pastry), tavë kosi (baked lamb with yogurt), and fërgesë (pepper and cheese stew).",

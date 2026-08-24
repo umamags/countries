@@ -53,11 +53,18 @@
   "cultural_events": [
     {
       "name": "Carnival of Bissau",
-      "writeup": "An annual event featuring vibrant parades, music, and dance celebrating local culture and traditions."
+      "writeup": "An annual event featuring vibrant parades, music, and dance celebrating local culture and traditions.",
+      "wiki": {
+        "extract": "Bissau-Guinean cuisine is the traditional cuisine of Guinea-Bissau, a West African country located on the Atlantic Ocean. It reflects the country’s diverse ethnic groups, while millet and other grains are more common in inland areas. Seafood, including fish, shrimp, and shellfish, plays an important role in the diet, alongside locally grown crops such as cassava, sweet potatoes, yams, peanuts, beans, and tropical fruits.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Guinea_Bissau_AU_Africa.svg/1920px-Location_Guinea_Bissau_AU_Africa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bissau-Guinean_cuisine"
+      }
     },
     {
       "name": "Tabanka Festival",
-      "writeup": "A traditional festival involving music, dance, and rituals that reflect the cultural identity of coastal communities."
+      "writeup": "A traditional festival involving music, dance, and rituals that reflect the cultural identity of coastal communities.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Guinea-Bissau's cuisine is characterized by the use of rice, fish, and palm oil, with dishes such as 'Caldo' (a spicy fish soup) and 'Jollof rice' being popular. Local ingredients and Portuguese influences shape the culinary traditions.",

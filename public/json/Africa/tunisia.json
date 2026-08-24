@@ -79,15 +79,27 @@
   "cultural_events": [
     {
       "name": "Carthage Film Festival",
-      "writeup": "One of the oldest film festivals in Africa and the Arab world, showcasing African and Arab cinema."
+      "writeup": "One of the oldest film festivals in Africa and the Arab world, showcasing African and Arab cinema.",
+      "wiki": {
+        "extract": "Carthage Film Festival is an annual film festival that takes place in Tunis, founded in 1966. It is also known by its Arabic title, أيام قرطاج السينمائية. Initially biennial alternating with the Carthage Theatre Festival, the festival became an annual event in 2014.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/JCC_2018_opening_ceremony_32.jpg/3840px-JCC_2018_opening_ceremony_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Carthage_Film_Festival"
+      }
     },
     {
       "name": "International Festival of the Sahara",
-      "writeup": "Annual festival celebrating desert culture with music, camel races, and traditional crafts in Douz."
+      "writeup": "Annual festival celebrating desert culture with music, camel races, and traditional crafts in Douz.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Festival of the Medina",
-      "writeup": "Cultural event in Tunis featuring music, dance, and art within the historic Medina."
+      "writeup": "Cultural event in Tunis featuring music, dance, and art within the historic Medina.",
+      "wiki": {
+        "extract": "Marrakesh or Marrakech is the fourth-largest city in Morocco. It is one of the four imperial cities of Morocco and is the capital of the Marrakesh-Safi region. The city lies west of the foothills of the Atlas Mountains.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Marrakesh"
+      }
     }
   ],
   "food_writeup": "Tunisian cuisine is a blend of Mediterranean and North African flavors, featuring dishes like couscous, brik (fried pastry), and harissa (spicy chili paste). Seafood, lamb, and fresh vegetables are staples, often seasoned with aromatic spices.",

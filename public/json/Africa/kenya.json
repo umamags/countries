@@ -79,15 +79,27 @@
   "cultural_events": [
     {
       "name": "Maasai Mara Wildebeest Migration",
-      "writeup": "An annual natural event where millions of wildebeest migrate across the Mara River, attracting tourists worldwide."
+      "writeup": "An annual natural event where millions of wildebeest migrate across the Mara River, attracting tourists worldwide.",
+      "wiki": {
+        "extract": "Maasai Mara, sometimes also spelt Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok County, Kenya, contiguous with the Serengeti National Park in Tanzania. It is named in honour of the Maasai people, the ancestral inhabitants of the area, who migrated to the area from the Nile Basin. Their description of the area when looked at from afar: \"Mara\" means \"spotted\" in the Maa language because of the short bushy trees which dot the landscape.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Maasai_Mara"
+      }
     },
     {
       "name": "Lamu Cultural Festival",
-      "writeup": "A celebration of Swahili culture featuring traditional music, dance, dhow races, and crafts."
+      "writeup": "A celebration of Swahili culture featuring traditional music, dance, dhow races, and crafts.",
+      "wiki": {
+        "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212 mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lamu_Old_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lamu"
+      }
     },
     {
       "name": "Mombasa Carnival",
-      "writeup": "A vibrant festival showcasing coastal culture, music, and dance."
+      "writeup": "A vibrant festival showcasing coastal culture, music, and dance.",
+      "wiki": null,
+      "resolution_failed": true
     }
   ],
   "food_writeup": "Kenyan cuisine features staples like ugali (maize porridge), sukuma wiki (collard greens), nyama choma (grilled meat), and a variety of stews and fresh vegetables reflecting diverse ethnic influences.",

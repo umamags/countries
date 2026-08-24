@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Khmer New Year",
-      "writeup": "Celebrated in April, marking the traditional solar new year with games, dances, and religious ceremonies."
+      "writeup": "Celebrated in April, marking the traditional solar new year with games, dances, and religious ceremonies.",
+      "wiki": {
+        "extract": "Cambodian New Year, also known as Choul Chnam Thmey, Moha Sangkran or Sangkran, is the traditional celebration of the solar new year in Cambodia. A three-day public holiday in the country, the observance begins on New Year's Day, which usually falls on 13 April or 14 April, which is the end of the harvesting season, when farmers enjoy the fruits of their labor before the rainy season begins. Khmers living abroad may choose to celebrate during a weekend rather than just specifically 13 April through 16 April. The Khmer New Year coincides with the traditional solar new year in several parts of India, Bangladesh, Nepal, Sri Lanka, Myanmar, Laos and Thailand.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Khmer_New_Year_GA2010-146.jpg/3840px-Khmer_New_Year_GA2010-146.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Cambodian_New_Year"
+      }
     },
     {
       "name": "Pchum Ben",
-      "writeup": "A 15-day religious festival honoring deceased ancestors with offerings at pagodas."
+      "writeup": "A 15-day religious festival honoring deceased ancestors with offerings at pagodas.",
+      "wiki": {
+        "extract": "Pchum Ben is a Cambodian 15-day religious festival, culminating in celebrations on the 15th day of the tenth month in the Khmer calendar, at the end of the Buddhist Lent, Vassa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Neary_Khmer%2C_2018-01-02_%28002%29.jpg/3840px-Neary_Khmer%2C_2018-01-02_%28002%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Pchum_Ben"
+      }
     },
     {
       "name": "Water Festival (Bon Om Touk)",
-      "writeup": "A November festival celebrating the end of the rainy season with boat races and illuminated floats."
+      "writeup": "A November festival celebrating the end of the rainy season with boat races and illuminated floats.",
+      "wiki": {
+        "extract": "Bon Om Touk, also known as the Cambodian Water and Moon Festival, is celebrated in late October or early November, often corresponding with the lunar Mid-Autumn Festival. It marks the end of the monsoon season. The festivities are accompanied by dragon boat races, similar to those seen in the Lao Boun Suang Huea festival.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cambodia_Water_Festival_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bon_Om_Touk"
+      }
     }
   ],
   "food_writeup": "Cambodian cuisine features a balance of sweet, sour, salty, and bitter flavors, with staples like rice, freshwater fish, and herbs. Popular dishes include Amok (steamed fish curry) and Kuy Teav (noodle soup).",

@@ -83,19 +83,39 @@
   "cultural_events": [
     {
       "name": "Imbalu Ceremony",
-      "writeup": "A traditional circumcision ceremony of the Bagisu people marking the transition to adulthood."
+      "writeup": "A traditional circumcision ceremony of the Bagisu people marking the transition to adulthood.",
+      "wiki": {
+        "extract": "Imbalu is a public circumcision ceremony practiced by the Bamasaba people of Uganda. It takes place at the Mutoto cultural site near Mbale in eastern Uganda. It is mostly active in the 8th month of every even year. According to Bamasaaba cultural tradition, the site is associated with the circumcision of the first Mugisu. This community affair is characterized by dance and food. The ceremony has been heavily promoted as a tourist attraction, and tens of thousands of people attend. Imbalu marks the initiation of boys into manhood and every year, hundreds of boys aged 16 and above qualify for the Imbalu. In 2022, about 6,000 boys were initiated into manhood during the cultural ceremony that happens every year. This is because the ceremony had not happened ever since 2020 when Uganda was locked down due to the outbreak of COVID-19 pandemic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mutoto3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Imbalu"
+      }
     },
     {
       "name": "Nyamwezi Dance Festival",
-      "writeup": "A vibrant cultural festival showcasing traditional dances and music from various Ugandan ethnic groups."
+      "writeup": "A vibrant cultural festival showcasing traditional dances and music from various Ugandan ethnic groups.",
+      "wiki": {
+        "extract": "Nyungu Yamawe Forest Park is a forest park which was started in 2019 by Workspaces Ltd, a conservation social enterprise in Uganda.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Nyungu_Yamawe_Forest_Park"
+      }
     },
     {
       "name": "Eid al-Fitr",
-      "writeup": "Celebrated by the Muslim community marking the end of Ramadan with prayers and feasting."
+      "writeup": "Celebrated by the Muslim community marking the end of Ramadan with prayers and feasting.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Buganda Kingdom Coronation",
-      "writeup": "Ceremonial events related to the Buganda monarchy, reflecting the kingdom's rich heritage."
+      "writeup": "Ceremonial events related to the Buganda monarchy, reflecting the kingdom's rich heritage.",
+      "wiki": {
+        "extract": "Kabaka is the title of the king of the Kingdom of Buganda. According to the traditions of the Baganda, they are ruled by two kings, one spiritual and the other secular.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kabaka_Mutebi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kabaka_of_Buganda"
+      }
     }
   ],
   "food_writeup": "Ugandan cuisine features staple foods like matoke (steamed plantains), posho (maize porridge), and groundnut sauce. Fish from Lake Victoria and various meats are commonly consumed, often accompanied by vegetables and beans.",

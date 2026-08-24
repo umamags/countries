@@ -79,15 +79,30 @@
   "cultural_events": [
     {
       "name": "Sinulog Festival",
-      "writeup": "An annual cultural and religious festival in Cebu honoring the Santo Niño with street dancing and parades."
+      "writeup": "An annual cultural and religious festival in Cebu honoring the Santo Niño with street dancing and parades.",
+      "wiki": {
+        "extract": "The Sinulog Festival is an annual Filipino cultural and religious festival held on the third Sunday of January in Cebu, with the center of the activities being in Cebu City; and is the core of Santo Niño Christian celebrations in the country.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Viva_for_Ni%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sinulog"
+      }
     },
     {
       "name": "Ati-Atihan Festival",
-      "writeup": "A week-long festival in Kalibo featuring tribal dances and music to honor the Santo Niño."
+      "writeup": "A week-long festival in Kalibo featuring tribal dances and music to honor the Santo Niño.",
+      "wiki": {
+        "extract": "The Kalibo Santo Niño–Ati-Atihan Festival, also simply called Ati-Atihan Festival, is a Philippine festival held annually in January in honor of the Santo Niño in several towns of the province of Aklan, Panay Island. The biggest celebration is held during the third Sunday of January in the town of Kalibo, the province's capital. The name Ati-Atihan means \"to imitate the Ati people\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/A_Woman_At_The_Kalibo_Ati-Atihan_Festival%2C_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Ati-Atihan"
+      }
     },
     {
       "name": "Pahiyas Festival",
-      "writeup": "A colorful harvest festival in Lucban where houses are decorated with agricultural produce."
+      "writeup": "A colorful harvest festival in Lucban where houses are decorated with agricultural produce.",
+      "wiki": {
+        "extract": "Lucban, officially the Municipality of Lucban, is a municipality in the province of Quezon, Philippines. According to the 2024 census, it has a population of 54,134 people.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lucban_Poblacion_Quezon_Avenue_top_view_%28Lucban%2C_Quezon%3B_05-15-2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Lucban"
+      }
     }
   ],
   "food_writeup": "Filipino cuisine is characterized by bold flavors and a mix of indigenous, Spanish, Chinese, and American influences, featuring dishes like adobo, sinigang, lechon, and pancit.",

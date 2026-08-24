@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Mashramani",
-      "writeup": "An annual festival celebrating Guyana's Republic Day with music, dance, and colorful parades."
+      "writeup": "An annual festival celebrating Guyana's Republic Day with music, dance, and colorful parades.",
+      "wiki": {
+        "extract": "Mashramani, often abbreviated to \"Mash\", is an annual festival that celebrates Guyana becoming a Republic in 1970.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mashramani-in-Guyana-2007-by-GuyaneseTavern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mashramani"
+      }
     },
     {
       "name": "Phagwah",
-      "writeup": "A Hindu spring festival also known as Holi, celebrated with vibrant colors and community gatherings."
+      "writeup": "A Hindu spring festival also known as Holi, celebrated with vibrant colors and community gatherings.",
+      "wiki": {
+        "extract": "Holi is a major Hindu festival of colours, love and spring. It celebrates the love between the deities Radha and Krishna.\nAdditionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. \nHoli originated in ancient Indian subcontinent and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Holi"
+      }
     }
   ],
   "food_writeup": "Guyanese cuisine is a blend of African, Indian, Amerindian, and European influences, featuring dishes like pepperpot, roti, and cook-up rice.",

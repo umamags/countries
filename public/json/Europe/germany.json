@@ -75,23 +75,45 @@
   "cultural_events": [
     {
       "name": "Oktoberfest",
-      "writeup": "The world's largest beer festival held annually in Munich, celebrating Bavarian culture."
+      "writeup": "The world's largest beer festival held annually in Munich, celebrating Bavarian culture.",
+      "wiki": {
+        "extract": "Oktoberfest is the world's largest Volksfest. It combines a beer festival with a fun fair and is held annually in Munich on the Theresienwiese from mid-September to the first Sunday in October.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg/3840px-O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Oktoberfest"
+      }
     },
     {
       "name": "Karneval (Carnival)",
-      "writeup": "A festive season with parades and costumes, especially prominent in Cologne and Mainz."
+      "writeup": "A festive season with parades and costumes, especially prominent in Cologne and Mainz.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Christmas Markets",
-      "writeup": "Traditional markets held across Germany during Advent, featuring crafts and seasonal foods."
+      "writeup": "Traditional markets held across Germany during Advent, featuring crafts and seasonal foods.",
+      "wiki": {
+        "extract": "A Christmas market is a street market associated with the celebration of Christmas during the four weeks of Advent. These markets originated in Germany, but are now held in many countries. Some in the U.S. have adapted the German name to quasi-English Christkindlmarket, swapping German Markt and market.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christkindlesmarkt_nuernberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Christmas_market"
+      }
     },
     {
       "name": "Berlin International Film Festival",
-      "writeup": "One of the world's leading film festivals showcasing international cinema."
+      "writeup": "One of the world's leading film festivals showcasing international cinema.",
+      "wiki": {
+        "extract": "The Berlin International Film Festival, usually called the Berlinale, is an annual film festival held in Berlin, Germany. Founded in 1951 and originally run in June, the festival has been held every February since 1978 and is one of Europe's \"Big Three\" film festivals alongside the Venice Film Festival held in Italy and the Cannes Film Festival held in France. Furthermore, it is one of the \"Big Five\", the most prestigious film festivals in the world. The festival regularly draws tens of thousands of visitors each year.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Berlin_International_Film_Festival_logo.svg/330px-Berlin_International_Film_Festival_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Berlin_International_Film_Festival"
+      }
     },
     {
       "name": "Wagner Festival",
-      "writeup": "An annual music festival in Bayreuth dedicated to the works of composer Richard Wagner."
+      "writeup": "An annual music festival in Bayreuth dedicated to the works of composer Richard Wagner.",
+      "wiki": {
+        "extract": "The Bayreuth Festival is a music festival held annually in Bayreuth, Germany, at which performances of stage works by the 19th-century German composer Richard Wagner are presented. Wagner himself conceived and promoted the idea of a special festival to showcase his own works, in particular his monumental cycle Der Ring des Nibelungen and Parsifal.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bayreuth_Festspielhaus_2006-07-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Bayreuth_Festival"
+      }
     }
   ],
   "food_writeup": "German cuisine features hearty dishes such as sausages, sauerkraut, pretzels, and regional specialties like Bavarian roast pork and Black Forest cake.",

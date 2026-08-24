@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Inti Raymi",
-      "writeup": "An indigenous festival celebrating the sun god, held around the June solstice."
+      "writeup": "An indigenous festival celebrating the sun god, held around the June solstice.",
+      "wiki": {
+        "extract": "The Inti Raymi is a traditional religious ceremony of the Inca Empire in honor of the god Inti, the most venerated deity in Inca religion. It was the celebration of the winter solstice – the shortest day of the year in terms of the time between sunrise and sunset – and the Inca New Year, when the hours of light would begin to lengthen again. Celebrated on June 24, the Inti Raymi was the most important festival of the Inca Empire, as described by Inca Garcilaso de la Vega, and took place in the Haukaypata, the main square of Cusco.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Inti_Raymi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Inti_Raymi"
+      }
     },
     {
       "name": "Fiestas de Quito",
-      "writeup": "Annual celebrations in December commemorating the founding of Quito with parades and music."
+      "writeup": "Annual celebrations in December commemorating the founding of Quito with parades and music.",
+      "wiki": {
+        "extract": "\nThe Fiestas de Quito traditionally celebrate the foundation of Quito, capital city of Ecuador, and take place over the course of a week from the end of November to 6 December. During this period, bullfighting at the Plaza de Toros, flamenco dancing, opera and theater shows are presented. Parades feature the newly chosen Reina de Quito, marching school war bands, and other events can be enjoyed. In addition to marking the founding of Quito, some neighborhoods celebrate their favorite saint and there are processions and block parties with live music and bands. People can also take a ride around the city on a chiva, which is an open party bus with live bands. Plaza Foch is another destination for the people because of its vast space with restaurants, bars, clubs, hotels, shops and special events.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Fiestas_de_Quito"
+      }
     },
     {
       "name": "Carnaval",
-      "writeup": "A lively pre-Lenten festival featuring water fights, music, and dancing."
+      "writeup": "A lively pre-Lenten festival featuring water fights, music, and dancing.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     }
   ],
   "food_writeup": "Ecuadorian cuisine is diverse, featuring dishes like ceviche, llapingachos (potato patties), and guinea pig in the highlands, with a strong emphasis on fresh seafood along the coast.",

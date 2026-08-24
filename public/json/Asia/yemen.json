@@ -78,19 +78,39 @@
   "cultural_events": [
     {
       "name": "Eid al-Fitr",
-      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and social gatherings."
+      "writeup": "A major Islamic festival marking the end of Ramadan, celebrated with prayers, feasts, and social gatherings.",
+      "wiki": {
+        "extract": "Eid al-Fitr is the first of the two main festivals in Islam, the other being Eid al-Adha. The holiday falls on the first day of Shawwal, the tenth month of the Islamic calendar. One of the most important Islamic celebrations, Eid al-Fitr is celebrated by Muslims worldwide as it marks the end of the month-long, dawn-to-dusk fasting (sawm) during Ramadan. The holiday is known under various other names in different languages and countries around the world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/3840px-Eid_al_fitr_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+      }
     },
     {
       "name": "Eid al-Adha",
-      "writeup": "An important Islamic festival commemorating the willingness of Ibrahim to sacrifice his son, involving prayers and animal sacrifices."
+      "writeup": "An important Islamic festival commemorating the willingness of Ibrahim to sacrifice his son, involving prayers and animal sacrifices.",
+      "wiki": {
+        "extract": "Eid al-Adha is the second of the two main festivals in Islam, alongside Eid al-Fitr. It falls on the 10th of Dhu'l-Hijja, the twelfth and final month of the Islamic calendar. Celebrations and observances are generally carried forward to the three following days, known as the Tashreeq days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eid_al_adha_compilation.jpg/3840px-Eid_al_adha_compilation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Eid_al-Adha"
+      }
     },
     {
       "name": "Mawlid al-Nabi",
-      "writeup": "The celebration of the Prophet Muhammad's birthday, observed with religious lectures and communal meals."
+      "writeup": "The celebration of the Prophet Muhammad's birthday, observed with religious lectures and communal meals.",
+      "wiki": {
+        "extract": "The Mawlid is an annual festival commemorating the birthday of the Islamic prophet Muhammad on the traditional date of 12 or 17 Rabi I, the third month of the Islamic calendar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maulidur_Rasul_%288413657269%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mawlid"
+      }
     },
     {
       "name": "Al-Mahra Festival",
-      "writeup": "A cultural festival showcasing traditional music, dance, and poetry from the Al-Mahra region."
+      "writeup": "A cultural festival showcasing traditional music, dance, and poetry from the Al-Mahra region.",
+      "wiki": {
+        "extract": "The United Arab Emirates (UAE), also known simply as the Emirates, is a country in West Asia, situated at the eastern end of the Arabian Peninsula. It is a federal semi-constitutional monarchy made up of seven emirates, with Abu Dhabi serving as its national capital. The UAE borders Oman to the east and northeast, and Saudi Arabia to the south and southwest. It shares maritime borders with Saudi Arabia, Qatar, and Iran in the Persian Gulf, and with Oman in the Gulf of Oman. In 2024, the UAE had an estimated population of over 11 million. Dubai is the country's largest city. Islam is the state religion. Arabic is the official language while English remains the most spoken language and the language of business.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+      }
     }
   ],
   "food_writeup": "Yemeni cuisine features staple dishes like saltah (a meat stew with fenugreek), fahsa, and mandi (spiced rice with meat). Bread such as khubz and a variety of spices are integral to Yemeni meals.",

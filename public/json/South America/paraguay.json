@@ -50,11 +50,21 @@
   "cultural_events": [
     {
       "name": "Festival del Lago Ypacaraí",
-      "writeup": "An annual music and cultural festival celebrating Paraguayan folklore and traditions near Lake Ypacaraí."
+      "writeup": "An annual music and cultural festival celebrating Paraguayan folklore and traditions near Lake Ypacaraí.",
+      "wiki": {
+        "extract": "The Festival of the Lake Ypacaraí, also known as the Ypacaraí Festival, is a folk festival held in the city of Ypacaraí, Paraguay.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Costa_del_Lago_Ypacarai_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Festival_of_the_Lake"
+      }
     },
     {
       "name": "Ñandutí Festival",
-      "writeup": "A festival honoring the traditional Paraguayan lace-making craft called Ñandutí."
+      "writeup": "A festival honoring the traditional Paraguayan lace-making craft called Ñandutí.",
+      "wiki": {
+        "extract": "\nThe following is a list of festivals in Paraguay, including arts, music, folk, and cultural festivals, among other types. This list does not include patronal festivals.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/List_of_festivals_in_Paraguay"
+      }
     }
   ],
   "food_writeup": "Paraguayan cuisine features staples like mandioca (cassava), corn, and beef, with popular dishes including sopa paraguaya (cornbread), chipa (cheese bread), and mbejú (starch pancake).",

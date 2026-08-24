@@ -56,11 +56,18 @@
   "cultural_events": [
     {
       "name": "Mozambique Independence Day",
-      "writeup": "Celebrated on June 25th, marking independence from Portugal in 1975 with parades and cultural performances."
+      "writeup": "Celebrated on June 25th, marking independence from Portugal in 1975 with parades and cultural performances.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "Maputo International Music Festival",
-      "writeup": "An annual event showcasing local and international music, promoting cultural exchange."
+      "writeup": "An annual event showcasing local and international music, promoting cultural exchange.",
+      "wiki": {
+        "extract": "Maputo is the capital and largest city of Mozambique. Located near the southern end of the country, it is within 120 kilometres of the borders with Eswatini and South Africa. The city has a population of 1,088,449 distributed over a land area of 347.69 km2 (134.24 sq mi). The Maputo metropolitan area includes the neighbouring city of Matola, and has a total population of 2,717,437. Maputo is a port city, with an economy centered on commerce. It is noted for its vibrant cultural scene and distinctive, eclectic architecture. Maputo was formerly named Lourenço Marques.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Maputo"
+      }
     }
   ],
   "food_writeup": "Mozambican cuisine blends African, Portuguese, and Arab influences, featuring dishes like peri-peri chicken, seafood, cassava, and matapa, a stew made with cassava leaves and peanuts.",

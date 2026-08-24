@@ -75,15 +75,30 @@
   "cultural_events": [
     {
       "name": "Junkanoo Festival",
-      "writeup": "A vibrant street parade held on Boxing Day and New Year's Day featuring music, dance, and colorful costumes."
+      "writeup": "A vibrant street parade held on Boxing Day and New Year's Day featuring music, dance, and colorful costumes.",
+      "wiki": {
+        "extract": "Junkanoo is a festival that originated during the period of African chattel slavery in British American colonies. It is practiced most notably today in the Bahamas, Jamaica and Belize, and historically in North Carolina and Miami, where there have been significant settlements of West Indian people during the post-emancipation era. In the present day, there are considerable variations in performance and spelling of the festival, but the shared elements of masquerade, drumming, dance, and parading continue.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Canoe_Dancers_Jamaica_1975_Dec_ver06.jpg/3840px-John_Canoe_Dancers_Jamaica_1975_Dec_ver06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Junkanoo"
+      }
     },
     {
       "name": "Bahamas Carnival",
-      "writeup": "An annual event celebrating Caribbean culture with music, dance, and elaborate costumes."
+      "writeup": "An annual event celebrating Caribbean culture with music, dance, and elaborate costumes.",
+      "wiki": {
+        "extract": "Carnival Miracle is a Spirit-class cruise ship operated by Carnival Cruise Line. Built by Kværner Masa-Yards at its Helsinki New Shipyard in Helsinki, Finland, she was floated out on June 5, 2003, and christened by United States Army soldier Jessica Lynch in Jacksonville, Florida, on February 27, 2004. Soon after the conclusion of the christening ceremony, she departed on her maiden voyage, a three-day cruise to the Bahamas.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carnival_Miracle.jpg/3840px-Carnival_Miracle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Carnival_Miracle"
+      }
     },
     {
       "name": "Regatta",
-      "writeup": "A traditional sailing event showcasing Bahamian boat racing and maritime heritage."
+      "writeup": "A traditional sailing event showcasing Bahamian boat racing and maritime heritage.",
+      "wiki": {
+        "extract": "Boat racing (Regatta) is a sport in which boats, or other types of watercraft, race on water. Boat racing powered by oars is recorded as having occurred in ancient Egypt, and it is likely that people have engaged in races involving boats and other water-borne craft for as long as such watercraft have existed.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Boat_racing"
+      }
     }
   ],
   "food_writeup": "Bahamian cuisine features seafood prominently, with dishes like conch salad, cracked conch, and rock lobster, often seasoned with tropical spices and served with rice and peas.",

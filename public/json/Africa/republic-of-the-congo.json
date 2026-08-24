@@ -52,11 +52,21 @@
   "cultural_events": [
     {
       "name": "Fête de la Musique",
-      "writeup": "An annual music festival celebrated nationwide, showcasing local and international musical talents."
+      "writeup": "An annual music festival celebrated nationwide, showcasing local and international musical talents.",
+      "wiki": {
+        "extract": "The Fête de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Raga_du_soir_au_Coll%C3%A8ge_des_Bernardins_%284730079050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique"
+      }
     },
     {
       "name": "Carnival of Brazzaville",
-      "writeup": "A colorful cultural festival featuring traditional dances, music, and parades reflecting the country's diverse heritage."
+      "writeup": "A colorful cultural festival featuring traditional dances, music, and parades reflecting the country's diverse heritage.",
+      "wiki": {
+        "extract": "Eduardo Paím is an Angolan singer who is considered to be one of the creators of the Kizomba genre, having described himself as the precursor to the genre. First popular in Angola during the 1980s, and later in the 1980s and 1990s in Portugal, he has released several albums both solo and with his band SOS.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Eduardo_Pa%C3%ADm"
+      }
     }
   ],
   "food_writeup": "The cuisine of the Republic of the Congo features staples like cassava, plantains, and fish, often prepared with spicy sauces and palm oil, reflecting Central African culinary traditions.",

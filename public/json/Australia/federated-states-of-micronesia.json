@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Yap Day",
-      "writeup": "An annual celebration featuring traditional dances, canoe races, and cultural displays to honor Yapese heritage."
+      "writeup": "An annual celebration featuring traditional dances, canoe races, and cultural displays to honor Yapese heritage.",
+      "wiki": {
+        "extract": "Yap Day is a legal holiday in Yap State, one of the four states of the Federated States of Micronesia (FSM), held annually on March 1. It is a celebration of traditional Yapese culture. Common activities held during this time include competitions and traditional dances.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Yapese_women_dancers_in_traditional_dress_celebrating_Yap_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Yap_Day"
+      }
     },
     {
       "name": "Pohnpei Cultural Festival",
-      "writeup": "A festival showcasing traditional music, dance, and crafts from Pohnpei and surrounding islands."
+      "writeup": "A festival showcasing traditional music, dance, and crafts from Pohnpei and surrounding islands.",
+      "wiki": {
+        "extract": "The Vintage Photo Festival – International Festival of Analog Photography Enthusiasts is an annual cultural even organized in Bydgoszcz by the Fotografistka Foundation. It was created in 2015 out of passion for analog photography and the belief that old techniques in photography were experiencing a renaissance. Despite great revolution and evolution in digital photography, the return or even the rebirth of so-called traditional photography is visible. Film cameras are back in use, which can be proven by photographic film manufacturers such as Kodak who in recent years has got back to manufacturing several types of negative film which were taken off the market in the past. As a result, younger and younger creators are using analog photography as their medium of expression.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Vintage_Photo_Festival"
+      }
     }
   ],
   "food_writeup": "Micronesian cuisine features seafood, taro, breadfruit, and coconut, often prepared in traditional methods like steaming in earth ovens.",

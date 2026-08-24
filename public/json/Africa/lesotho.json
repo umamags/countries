@@ -50,11 +50,21 @@
   "cultural_events": [
     {
       "name": "Morija Arts & Cultural Festival",
-      "writeup": "An annual event celebrating Basotho culture, music, dance, and crafts."
+      "writeup": "An annual event celebrating Basotho culture, music, dance, and crafts.",
+      "wiki": {
+        "extract": "Morija Arts & Cultural Festival, also known as Morija Festival, is an annual event held in Morija, a large village in the Maseru District of Lesotho. This hugely successful event is coordinated by the Morija Museum & Archives, with support from many groups including, the Royal Family and the Government of Lesotho.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Basotho_Men%27s_Stick_Dance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Morija_Arts_%26_Cultural_Festival"
+      }
     },
     {
       "name": "Lesotho Independence Day",
-      "writeup": "Celebrated on October 4th, marking Lesotho's independence from Britain in 1966."
+      "writeup": "Celebrated on October 4th, marking Lesotho's independence from Britain in 1966.",
+      "wiki": {
+        "extract": "An Independence Day is an annual event commemorating the anniversary of a nation's independence or statehood, usually after ceasing to be a group or part of another nation or state, or after the end of a military occupation, or after a major change in government. Many countries commemorate their independence from a colonial empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/National_Days_map.svg/960px-National_Days_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_independence_days"
+      }
     }
   ],
   "food_writeup": "Lesotho's cuisine features staple foods like maize porridge (pap), sorghum, and vegetables, often accompanied by meat stews and traditional dishes such as 'papa' and 'moroho' (wild spinach).",

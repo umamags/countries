@@ -66,19 +66,39 @@
   "cultural_events": [
     {
       "name": "Fiji Day",
-      "writeup": "Celebrated on October 10th, marking Fiji's independence from British colonial rule in 1970."
+      "writeup": "Celebrated on October 10th, marking Fiji's independence from British colonial rule in 1970.",
+      "wiki": {
+        "extract": "Fiji Week is a week of festivities culminating in Fiji Day on 10 October annually. A different theme is chosen every year, but common elements include religious ceremonies and cultural performances.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Fiji_Week"
+      }
     },
     {
       "name": "Hibiscus Festival",
-      "writeup": "An annual event in Suva featuring music, food, and cultural performances."
+      "writeup": "An annual event in Suva featuring music, food, and cultural performances.",
+      "wiki": {
+        "extract": "Hibiscus is a genus of common flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world. Member species are renowned for their large, showy flowers and those species are commonly known simply as \"hibiscus\", or less widely known as rose mallow. The genus includes both annual and perennial herbaceous plants, as well as woody shrubs and small trees.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hibiscus_flower_TZ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Hibiscus"
+      }
     },
     {
       "name": "Diwali",
-      "writeup": "The Hindu festival of lights celebrated by Fiji's Indian community with prayers, feasts, and fireworks."
+      "writeup": "The Hindu festival of lights celebrated by Fiji's Indian community with prayers, feasts, and fireworks.",
+      "wiki": {
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Diwali"
+      }
     },
     {
       "name": "Bula Festival",
-      "writeup": "A cultural festival showcasing traditional Fijian dance, music, and crafts."
+      "writeup": "A cultural festival showcasing traditional Fijian dance, music, and crafts.",
+      "wiki": {
+        "extract": "Bula (1965–1977) was a British National Hunt horse who won the Champion Hurdle twice and many other top races over hurdles and later over fences. One of the greatest hurdlers ever, he ran during what is considered a golden period for two-mile hurdlers in the 1970s. Bula was \"a remarkably consistent, versatile and durable jumper\" and was known for his come-from-behind style. At one stage Bula had an unbeaten run of 13 races.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Bula_(horse)"
+      }
     }
   ],
   "food_writeup": "Fijian cuisine is a blend of indigenous Fijian, Indian, and other influences, featuring dishes like kokoda (marinated raw fish), lovo (food cooked in an earth oven), and curries. Root crops, seafood, and tropical fruits are staples.",

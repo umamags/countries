@@ -78,15 +78,30 @@
   "cultural_events": [
     {
       "name": "Mount Hagen Cultural Show",
-      "writeup": "An annual festival showcasing traditional dances, costumes, and rituals from various tribes across Papua New Guinea."
+      "writeup": "An annual festival showcasing traditional dances, costumes, and rituals from various tribes across Papua New Guinea.",
+      "wiki": {
+        "extract": "Mount Hagen is the third largest city in Papua New Guinea, with a population of 46,250. It is the capital of the Western Highlands Province and is located in the large fertile Wahgi Valley in central mainland Papua New Guinea, at an elevation of 1,677 m (5,502 ft).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mt_Hagen_Cultural_Show_PNG_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Mount_Hagen"
+      }
     },
     {
       "name": "Goroka Show",
-      "writeup": "A major cultural event featuring tribal sing-sings, where different groups display their unique cultural heritage."
+      "writeup": "A major cultural event featuring tribal sing-sings, where different groups display their unique cultural heritage.",
+      "wiki": {
+        "extract": "The Goroka Show, also the Eastern Highlands Agricultural Show, is a well-known tribal gathering and cultural event in Papua New Guinea. It is a sing-sing held every year close to the country's Independence Day in the town of Goroka, the capital of the Eastern Highlands Province. About 100 tribes arrive to show their music, dance and culture. The festival started in 1956 as an initiative of Australian Kiaps. The first festival was attended by around 10,000 natives and by tourists from around Papua New Guinea and Australia. In recent years it has become a major attraction for both national and international tourists and remains the largest cultural event in Papua New Guinea despite similar shows now being organised in Mount Hagen and other cities around the country.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Goroka_Show"
+      }
     },
     {
       "name": "Hiri Moale Festival",
-      "writeup": "Celebrates the traditional Hiri trade voyages of the Motu people with canoe races and cultural performances."
+      "writeup": "Celebrates the traditional Hiri trade voyages of the Motu people with canoe races and cultural performances.",
+      "wiki": {
+        "extract": "\nHiri is the name for the traditional trade voyages that formed an important part of the culture of the Motu people of Papua New Guinea.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hiri_Moale_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Hiri_trade_cycle"
+      }
     }
   ],
   "food_writeup": "Papua New Guinea's cuisine is diverse, featuring staples like sago, sweet potatoes, taro, and seafood. Traditional dishes often include root vegetables, fresh fish, and bush meats, prepared using methods such as roasting and steaming in earth ovens.",

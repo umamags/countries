@@ -75,19 +75,39 @@
   "cultural_events": [
     {
       "name": "Cairo International Film Festival",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "The Cairo International Film Festival is an annual internationally accredited film festival held in Cairo, Egypt. Founded in 1976, the festival is the only international competitive feature film festival recognized by the FIAPF in Africa and the Arab world as well as the oldest in this category. The festival regularly draws tens of thousands of visitors each year. Cairo is held annually at the Cairo Opera House and under the auspices of the Egyptian Ministry of Culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/Cairo_International_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Cairo_International_Film_Festival"
+      }
     },
     {
       "name": "Sham El-Nessim",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Sham Ennessim is a festival marking the beginning of spring, celebrated by Egyptians of all religions. It is an official public holiday in Egypt. Sham Ennessim always falls on Easter Monday, which is the day after Easter, in accordance with the Orthodox Church. The Arabic name Sham Ennesim translates into \"Smelling in the Zephyrs\".",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bg-easter-eggs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sham_Ennessim"
+      }
     },
     {
       "name": "Ramadan",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "Ramadan is the ninth month of the Islamic calendar. It is observed by Muslims worldwide as a month of fasting (sawm), communal prayer (salah), reflection, study of the Quran, charity, and strengthening community ties. It is also the month in which the Quran is believed to have been revealed to the Islamic prophet Muhammad, known as Laylat al-Qadr. The annual observance of Ramadan is regarded as one of the five pillars of Islam and lasts 29 to 30 days, from one sighting of the crescent moon to the next.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breaking_the_Fast_%282%29_%2827351979537%29.jpg/3840px-Breaking_the_Fast_%282%29_%2827351979537%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Ramadan"
+      }
     },
     {
       "name": "Wafaa El-Nil",
-      "writeup": ""
+      "writeup": "",
+      "wiki": {
+        "extract": "August is the eighth month of the year in the Julian and Gregorian calendars. Its length is 31 days.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Reeve_and_Serfs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/August"
+      }
     }
   ],
   "food_writeup": "Egyptian cuisine features staples like ful medames (fava beans), koshari (a lentil and rice dish), and molokhia (a leafy green soup), reflecting a blend of Mediterranean and Middle Eastern flavors.",

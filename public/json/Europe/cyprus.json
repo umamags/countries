@@ -77,19 +77,39 @@
   "cultural_events": [
     {
       "name": "Carnival",
-      "writeup": "A lively pre-Lenten festival with parades, costumes, and traditional music celebrated across the island."
+      "writeup": "A lively pre-Lenten festival with parades, costumes, and traditional music celebrated across the island.",
+      "wiki": {
+        "extract": "Carnival is a festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lingelbach_Karneval_in_Rom_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Carnival"
+      }
     },
     {
       "name": "Kataklysmos (Festival of the Flood)",
-      "writeup": "A unique festival celebrating the biblical flood with water-based activities and cultural performances."
+      "writeup": "A unique festival celebrating the biblical flood with water-based activities and cultural performances.",
+      "wiki": {
+        "extract": "Larnaca, also spelled Larnaka, is a city on the southeast coast of Cyprus and the capital of the Larnaca District. With a district population of 155,000 in 2021, it is the third largest city in the country after Nicosia and Limassol.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Larnaca_01-2017_img27_Finikoudes.jpg/3840px-Larnaca_01-2017_img27_Finikoudes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Larnaca"
+      }
     },
     {
       "name": "Wine Festival",
-      "writeup": "Held in Limassol, this festival celebrates Cyprus's ancient winemaking tradition with tastings and folk music."
+      "writeup": "Held in Limassol, this festival celebrates Cyprus's ancient winemaking tradition with tastings and folk music.",
+      "wiki": {
+        "extract": "Annual wine festivals celebrate viticulture and usually occur after the harvest of the grapes which, in the northern hemisphere, generally falls at the end of September and runs until well into October or later. They are common in most wine regions around the world and are to be considered in the tradition of other harvest festivals.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/%27The_Wine_Festival%27_by_Albert_Anker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Wine_festival"
+      }
     },
     {
       "name": "Anthestiria",
-      "writeup": "An ancient flower festival marking the arrival of spring with floral decorations and rituals."
+      "writeup": "An ancient flower festival marking the arrival of spring with floral decorations and rituals.",
+      "wiki": {
+        "extract": "Limassol, also known as Lemesos, is a city on the southern coast of Cyprus. Limassol is the most populated municipality in Cyprus, with a population of 108,105 and is the second-largest urban area in Cyprus, after Nicosia, with an urban population of 198,558. It is the capital of the Limassol District with a population of 262,238.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skyscrapers_in_Limassol.jpg/3840px-Skyscrapers_in_Limassol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Limassol"
+      }
     }
   ],
   "food_writeup": "Cypriot cuisine blends Greek, Turkish, and Middle Eastern influences, featuring dishes like halloumi cheese, souvlaki, meze platters, and fresh seafood, often accompanied by local wines and olive oil.",

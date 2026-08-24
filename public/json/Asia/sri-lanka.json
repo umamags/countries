@@ -80,15 +80,30 @@
   "cultural_events": [
     {
       "name": "Sinhala and Tamil New Year",
-      "writeup": "Celebrated in April, marking the traditional new year with rituals, games, and feasts."
+      "writeup": "Celebrated in April, marking the traditional new year with rituals, games, and feasts.",
+      "wiki": {
+        "extract": "Sinhala New Year, known as Aluth Awurudda in Sinhala, is a Sri Lankan holiday that celebrates the traditional New Year of the Sinhalese people. The timing of the Sinhala New Year coincides with the new year celebrations of many traditional calendars of South and Southeast Asia; thus, the festival has close semblance to other South and Southeast Asian New Years. The event is marked by two official public holidays. It is generally celebrated on the 13th or 14 April and traditionally begins at the sighting of the new moon. Following the holidays, most shops and businesses close for about a week as families and communities come together to celebrate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/A_food_treats_arrangement_for_Puthandu_%28Vaisakhi%29_Tamil_Hindu_New_Year.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Sinhalese_New_Year"
+      }
     },
     {
       "name": "Vesak",
-      "writeup": "A Buddhist festival commemorating the birth, enlightenment, and death of Buddha, celebrated with lanterns and religious observances."
+      "writeup": "A Buddhist festival commemorating the birth, enlightenment, and death of Buddha, celebrated with lanterns and religious observances.",
+      "wiki": {
+        "extract": "Vesak, also known as Buddha Jayanti, Buddha Purnima, Visak Bochea and Buddha Day, is a holiday traditionally observed by Buddhists in South Asia and Southeast Asia, as well as in Tibet and Mongolia. It is among the most important Buddhist festivals. The festival commemorates the birth, enlightenment, and death (Parinirvāna) of Gautama Buddha in Theravada, Tibetan Buddhism, and Navayana.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/1_Wesak_Day_%28in_Thailand%29_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Vesak"
+      }
     },
     {
       "name": "Kandy Esala Perahera",
-      "writeup": "A grand procession in Kandy featuring dancers, drummers, and elephants, honoring the Sacred Tooth Relic."
+      "writeup": "A grand procession in Kandy featuring dancers, drummers, and elephants, honoring the Sacred Tooth Relic.",
+      "wiki": {
+        "extract": "The Kandy Esala Perahera also known as The Festival of the Tooth, is an annual religious and cultural festival held in the months of July and August in Kandy, Sri Lanka. This historic procession is conducted to pay homage to the Sacred Tooth Relic of the Buddha, which is enshrined at the Sri Dalada Maligawa in Kandy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Perahara2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Kandy_Esala_Perahera"
+      }
     }
   ],
   "food_writeup": "Sri Lankan cuisine is known for its use of spices, coconut, and rice. Popular dishes include rice and curry, hoppers, string hoppers, and seafood, reflecting a blend of South Indian and indigenous influences.",

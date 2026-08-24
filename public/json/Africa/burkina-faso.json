@@ -65,11 +65,21 @@
   "cultural_events": [
     {
       "name": "FESPACO (Panafrican Film and Television Festival of Ouagadougou)",
-      "writeup": "The largest African film festival held biennially, celebrating African cinema and culture."
+      "writeup": "The largest African film festival held biennially, celebrating African cinema and culture.",
+      "wiki": {
+        "extract": "The Panafrican Film and Television Festival of Ouagadougou is a film festival in Burkina Faso, held biennially in Ouagadougou, where the organization is based. It accepts for competition only films by African filmmakers and chiefly produced in Africa. FESPACO is scheduled in March every second year, two weeks after the last Saturday of February. Its opening night is held in the Stade du 4-Août, the national stadium.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_du_FESPACO.jpg/3840px-Logo_du_FESPACO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Panafrican_Film_and_Television_Festival_of_Ouagadougou"
+      }
     },
     {
       "name": "Festival International des Masques et des Arts (FESTIMA)",
-      "writeup": "A festival dedicated to traditional masks and cultural performances from various ethnic groups."
+      "writeup": "A festival dedicated to traditional masks and cultural performances from various ethnic groups.",
+      "wiki": {
+        "extract": "The Festival International des Masques et des Arts, or FESTIMA, is a cultural festival celebrating traditional African masks held in Dédougou, Burkina Faso. Founded to help preserve traditional cultural practices in the modern age, FESTIMA features masks and traditions from several West African countries. It is currently held biennially in even-numbered years. The most recent edition, the fifteenth, was held from February 29 to March 7, 2020, in Bankuy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Masque_de_Fibre_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/FESTIMA"
+      }
     }
   ],
   "food_writeup": "Burkinabé cuisine features staple foods like millet, sorghum, rice, and maize, often served with sauces made from peanuts, okra, or leafy greens. Popular dishes include tô (a millet porridge) and riz gras (a flavorful rice dish).",

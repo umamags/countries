@@ -53,11 +53,21 @@
   "cultural_events": [
     {
       "name": "Gerewol Festival",
-      "writeup": "A traditional Wodaabe festival featuring elaborate dances and beauty contests among men."
+      "writeup": "A traditional Wodaabe festival featuring elaborate dances and beauty contests among men.",
+      "wiki": {
+        "extract": "The Wodaabe is a name that is used to designate a subgroup of the Fula ethnic group who are traditionally nomadic and found primarily in Niger and Chad. All Wodaabe people should not be mistaken as Mbororo as these are two separate subgroups of the Fulani people. It is translated into English as \"Cattle Fulani\", and meaning \"those who dwell in cattle camps\". The Wodaabe culture is one of the 186 cultures of the standard cross-cultural sample used by anthropologists to compare cultural traits. A Wodaabe woman, Hindou Oumarou Ibrahim, was also chosen to represent civil society of the world on the signing of Paris Protocol on 22 April 2016.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/1997_275-15_young_Wodaabe_women.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Wodaabe"
+      }
     },
     {
       "name": "Chad Independence Day",
-      "writeup": "Celebrated on August 11, marking Chad's independence from France in 1960."
+      "writeup": "Celebrated on August 11, marking Chad's independence from France in 1960.",
+      "wiki": {
+        "extract": "An Independence Day is an annual event commemorating the anniversary of a nation's independence or statehood, usually after ceasing to be a group or part of another nation or state, or after the end of a military occupation, or after a major change in government. Many countries commemorate their independence from a colonial empire.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/National_Days_map.svg/960px-National_Days_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_independence_days"
+      }
     }
   ],
   "food_writeup": "Chadian cuisine features staples like millet, sorghum, and rice, often accompanied by sauces made from peanuts, okra, or tomatoes, with meat such as goat, beef, or fish commonly used.",

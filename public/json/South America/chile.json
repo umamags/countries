@@ -78,15 +78,27 @@
   "cultural_events": [
     {
       "name": "Fiestas Patrias",
-      "writeup": "National celebrations in September marking Chile's independence with traditional music, dance, and food."
+      "writeup": "National celebrations in September marking Chile's independence with traditional music, dance, and food.",
+      "wiki": null,
+      "resolution_failed": true
     },
     {
       "name": "La Tirana Festival",
-      "writeup": "A religious and cultural festival in northern Chile featuring traditional dances and colorful costumes."
+      "writeup": "A religious and cultural festival in northern Chile featuring traditional dances and colorful costumes.",
+      "wiki": {
+        "extract": "Fiesta de la Tirana is an annual festival held in the locality of La Tirana in the Tarapacá Region of northern Chile. The celebration takes place on July 16 in honor of the Virgen del Carmen. La Tirana is the biggest geographically localized religious festivity in Chile and attracts between 200,000 and 250,000 visitors during the week of celebrations, while the village's permanent population normally numbers 5,000 inhabitants.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Fiesta_de_La_Tirana"
+      }
     },
     {
       "name": "Valparaíso Carnival",
-      "writeup": "An annual event with parades, music, and street performances celebrating local culture."
+      "writeup": "An annual event with parades, music, and street performances celebrating local culture.",
+      "wiki": {
+        "extract": "Valparaiso, colloquially Valpo, is a city in and the county seat of Porter County, Indiana, United States. The population was 34,151 at the 2020 census. It is part of the Chicago metropolitan area.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lincolnway_in_downtown_Valparaiso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "url": "https://en.wikipedia.org/wiki/Valparaiso%2C_Indiana"
+      }
     }
   ],
   "food_writeup": "Chilean cuisine features seafood, beef, and fresh produce, with popular dishes like empanadas, pastel de choclo (corn pie), and cazuela (stew). Wine is also a significant part of the culinary culture.",
