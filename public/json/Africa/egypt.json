@@ -12,7 +12,7 @@
       "name": "Pyramids of Giza",
       "writeup": "",
       "wiki": {
-        "extract": "The Giza pyramid complex in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
+        "extract": "The Giza pyramid complex in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c.\u20092600\u00a0\u2013 c.\u20092500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg",
         "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
         "coordinates": {
@@ -61,7 +61,7 @@
       "name": "Abu Simbel Temples",
       "writeup": "",
       "wiki": {
-        "extract": "Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel, Aswan Governorate, Upper Egypt, near the border with Sudan. It is located on the western bank of Lake Nasser, about 230 km (140 mi) southwest of Aswan. Its latitude of 22° 20′ 13″ N is 1.0978°, which are 122 km, south of the tropic of Cancer.",
+        "extract": "Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel, Aswan Governorate, Upper Egypt, near the border with Sudan. It is located on the western bank of Lake Nasser, about 230\u00a0km (140\u00a0mi) southwest of Aswan. Its latitude of 22\u00b0 20\u2032 13\u2033 N is 1.0978\u00b0, which are 122 km, south of the tropic of Cancer.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
         "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
         "coordinates": {
@@ -185,5 +185,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Egypt.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 112.9,
+      "gross_debt_pct_gdp": 85.9,
+      "gross_debt_usd_billion": 96.98,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 137.06,
+      "gross_debt_pct_gdp": 76.3,
+      "gross_debt_usd_billion": 104.57,
+      "inflation_cpi_pct": 10.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 170.8,
+      "gross_debt_pct_gdp": 66.8,
+      "gross_debt_usd_billion": 114.09,
+      "inflation_cpi_pct": 11.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 198.32,
+      "gross_debt_pct_gdp": 69.5,
+      "gross_debt_usd_billion": 137.83,
+      "inflation_cpi_pct": 16.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 230.02,
+      "gross_debt_pct_gdp": 69.6,
+      "gross_debt_usd_billion": 160.1,
+      "inflation_cpi_pct": 11.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 247.73,
+      "gross_debt_pct_gdp": 72.8,
+      "gross_debt_usd_billion": 180.34,
+      "inflation_cpi_pct": 11.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 294.48,
+      "gross_debt_pct_gdp": 69.9,
+      "gross_debt_usd_billion": 205.84,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 303.19,
+      "gross_debt_pct_gdp": 79.8,
+      "gross_debt_usd_billion": 241.95,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 321.63,
+      "gross_debt_pct_gdp": 80.9,
+      "gross_debt_usd_billion": 260.2,
+      "inflation_cpi_pct": 10.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 350.12,
+      "gross_debt_pct_gdp": 83.8,
+      "gross_debt_usd_billion": 293.4,
+      "inflation_cpi_pct": 11,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 351.44,
+      "gross_debt_pct_gdp": 91.6,
+      "gross_debt_usd_billion": 321.92,
+      "inflation_cpi_pct": 10.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 246.83,
+      "gross_debt_pct_gdp": 97.8,
+      "gross_debt_usd_billion": 241.4,
+      "inflation_cpi_pct": 23.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 263.16,
+      "gross_debt_pct_gdp": 87.9,
+      "gross_debt_usd_billion": 231.31,
+      "inflation_cpi_pct": 20.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 317.89,
+      "gross_debt_pct_gdp": 80.1,
+      "gross_debt_usd_billion": 254.63,
+      "inflation_cpi_pct": 13.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 382.52,
+      "gross_debt_pct_gdp": 86.2,
+      "gross_debt_usd_billion": 329.74,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 423.3,
+      "gross_debt_pct_gdp": 89.9,
+      "gross_debt_usd_billion": 380.55,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 475.23,
+      "gross_debt_pct_gdp": 88.5,
+      "gross_debt_usd_billion": 420.58,
+      "inflation_cpi_pct": 8.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 393.83,
+      "gross_debt_pct_gdp": 95.9,
+      "gross_debt_usd_billion": 377.68,
+      "inflation_cpi_pct": 24.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 383.11,
+      "gross_debt_pct_gdp": 90.9,
+      "gross_debt_usd_billion": 348.24,
+      "inflation_cpi_pct": 33.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 364.64,
+      "gross_debt_pct_gdp": 86.8,
+      "gross_debt_usd_billion": 316.51,
+      "inflation_cpi_pct": 20.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
   "landmarks": [
     {
       "name": "Wawel Castle",
-      "writeup": "A historic castle residency in Kraków, symbolizing Polish national identity and royal heritage.",
+      "writeup": "A historic castle residency in Krak\u00f3w, symbolizing Polish national identity and royal heritage.",
       "wiki": {
-        "extract": "The Wawel Royal Castle and the Wawel Hill on which it sits constitute the most historically and culturally significant site in Poland. A fortified residency on the Vistula River in Kraków, it was established on the orders of King Casimir III the Great and enlarged over the centuries into a number of structures around a Polish Renaissance courtyard. It represents nearly all European architectural styles of the Medieval, Renaissance and Baroque periods. With over 3.47 million visitors in 2025, Wawel Castle is the most visited art museum in Poland and the 14th most visited art museum in the world.",
+        "extract": "The Wawel Royal Castle and the Wawel Hill on which it sits constitute the most historically and culturally significant site in Poland. A fortified residency on the Vistula River in Krak\u00f3w, it was established on the orders of King Casimir III the Great and enlarged over the centuries into a number of structures around a Polish Renaissance courtyard. It represents nearly all European architectural styles of the Medieval, Renaissance and Baroque periods. With over 3.47 million visitors in 2025, Wawel Castle is the most visited art museum in Poland and the 14th most visited art museum in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wawel_%284%29.jpg/3840px-Wawel_%284%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Wawel_Castle",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Auschwitz-Birkenau",
       "writeup": "The largest Nazi concentration and extermination camp, now a museum and memorial site.",
       "wiki": {
-        "extract": "The Auschwitz-Birkenau State Museum is a museum on the site of the Auschwitz concentration camp in Oświęcim, Poland, which was operated by Nazi Germany.",
+        "extract": "The Auschwitz-Birkenau State Museum is a museum on the site of the Auschwitz concentration camp in O\u015bwi\u0119cim, Poland, which was operated by Nazi Germany.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/3840px-Auschwitz_I_%2822_May_2010%29_b.jpg",
         "url": "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Old Town Warsaw",
       "writeup": "Reconstructed historic center of Warsaw, showcasing Polish resilience and architectural heritage.",
       "wiki": {
-        "extract": "Warsaw Old Town, also known as Old Town, and historically known as Old Warsaw, is a neighbourhood, and an area of the City Information System, in the city of Warsaw, Poland, located within the district of Śródmieście. It is the oldest portion of the city, and contains numerous historic buildings, mostly from 17th and 18th centuries, such as the Royal Castle, city walls, St. John's Cathedral, and the Barbican, the Old Town Market Square and the Warsaw Mermaid Statue. The settlement itself dates back to between the 13th and 14th centuries, and was granted town privileges c. 1300.",
+        "extract": "Warsaw Old Town, also known as Old Town, and historically known as Old Warsaw, is a neighbourhood, and an area of the City Information System, in the city of Warsaw, Poland, located within the district of \u015ar\u00f3dmie\u015bcie. It is the oldest portion of the city, and contains numerous historic buildings, mostly from 17th and 18th centuries, such as the Royal Castle, city walls, St. John's Cathedral, and the Barbican, the Old Town Market Square and the Warsaw Mermaid Statue. The settlement itself dates back to between the 13th and 14th centuries, and was granted town privileges c.\u20091300.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/PL_Warsaw_stare_miasto_location.svg/960px-PL_Warsaw_stare_miasto_location.svg.png",
         "url": "https://en.wikipedia.org/wiki/Old_Town%2C_Warsaw",
         "coordinates": {
@@ -70,15 +70,15 @@
   "cultural_events": [
     {
       "name": "Wianki Festival",
-      "writeup": "A midsummer celebration in Kraków featuring music, traditional rituals, and floating wreaths on the river.",
+      "writeup": "A midsummer celebration in Krak\u00f3w featuring music, traditional rituals, and floating wreaths on the river.",
       "wiki": {
-        "extract": "Wianki is a cyclical cultural event, taking place annually in Kraków at the bend of Wisła river, near the Wawel hill.",
+        "extract": "Wianki is a cyclical cultural event, taking place annually in Krak\u00f3w at the bend of Wis\u0142a river, near the Wawel hill.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wreathes_in_cracow1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Wianki"
       }
     },
     {
-      "name": "Kraków Film Festival",
+      "name": "Krak\u00f3w Film Festival",
       "writeup": "One of Europe's oldest film festivals, focusing on documentary, animation, and short films.",
       "wiki": {
         "extract": "The Krakow Film Festival is one of Europe's oldest events dedicated to documentary, animation and other short film forms.",
@@ -90,7 +90,7 @@
       "name": "Saint Dominic's Fair",
       "writeup": "A historic trade and cultural fair held annually in Gdansk since the 13th century.",
       "wiki": {
-        "extract": "St. Dominic's Fair, is an annual cultural and trade event organized between July and August in the port city of Gdańsk, Pomeranian Voivodeship, Poland. It was founded in 1260 and together with the Oktoberfest, it is considered one of the biggest cultural and trade open-air events in Europe attended by 5-8 million national and international visitors annually.",
+        "extract": "St. Dominic's Fair, is an annual cultural and trade event organized between July and August in the port city of Gda\u0144sk, Pomeranian Voivodeship, Poland. It was founded in 1260 and together with the Oktoberfest, it is considered one of the biggest cultural and trade open-air events in Europe attended by 5-8 million national and international visitors annually.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Brosen_jarmark_dominikanski_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/St._Dominic's_Fair"
       }
@@ -136,13 +136,13 @@
       "lon": 20.998054
     },
     {
-      "name": "Kraków",
+      "name": "Krak\u00f3w",
       "capital": false,
       "lat": 50.061925,
       "lon": 19.958066
     },
     {
-      "name": "Gdańsk",
+      "name": "Gda\u0144sk",
       "capital": false,
       "lat": 54.359975,
       "lon": 18.64004
@@ -153,5 +153,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3APoland-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 345.9,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 162.92,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 429.71,
+      "gross_debt_pct_gdp": 44.4,
+      "gross_debt_usd_billion": 190.79,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 535.61,
+      "gross_debt_pct_gdp": 46.6,
+      "gross_debt_usd_billion": 249.6,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 440.95,
+      "gross_debt_pct_gdp": 49.7,
+      "gross_debt_usd_billion": 219.15,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 478.11,
+      "gross_debt_pct_gdp": 53.7,
+      "gross_debt_usd_billion": 256.75,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 527.85,
+      "gross_debt_pct_gdp": 54.8,
+      "gross_debt_usd_billion": 289.26,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 498.15,
+      "gross_debt_pct_gdp": 54.5,
+      "gross_debt_usd_billion": 271.49,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 518.18,
+      "gross_debt_pct_gdp": 56.9,
+      "gross_debt_usd_billion": 294.84,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 542.27,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 277.1,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 479.73,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 245.14,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 472.88,
+      "gross_debt_pct_gdp": 54.1,
+      "gross_debt_usd_billion": 255.83,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 528.5,
+      "gross_debt_pct_gdp": 50.4,
+      "gross_debt_usd_billion": 266.36,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 594.64,
+      "gross_debt_pct_gdp": 48.2,
+      "gross_debt_usd_billion": 286.62,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 602.59,
+      "gross_debt_pct_gdp": 45.2,
+      "gross_debt_usd_billion": 272.37,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 605.93,
+      "gross_debt_pct_gdp": 56.6,
+      "gross_debt_usd_billion": 342.96,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 689.25,
+      "gross_debt_pct_gdp": 53,
+      "gross_debt_usd_billion": 365.3,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 695.73,
+      "gross_debt_pct_gdp": 48.8,
+      "gross_debt_usd_billion": 339.52,
+      "inflation_cpi_pct": 14.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 812.96,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 402.41,
+      "inflation_cpi_pct": 11.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 917.62,
+      "gross_debt_pct_gdp": 55.1,
+      "gross_debt_usd_billion": 505.61,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1035.59,
+      "gross_debt_pct_gdp": 58.8,
+      "gross_debt_usd_billion": 608.92,
+      "inflation_cpi_pct": 3.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

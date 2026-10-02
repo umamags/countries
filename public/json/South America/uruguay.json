@@ -10,7 +10,7 @@
   "landmarks": [
     {
       "name": "Plaza Independencia",
-      "writeup": "The main square in Montevideo, featuring the statue of national hero José Artigas and surrounded by historic buildings.",
+      "writeup": "The main square in Montevideo, featuring the statue of national hero Jos\u00e9 Artigas and surrounded by historic buildings.",
       "wiki": {
         "extract": "Plaza Independencia is the main public square of Montevideo, Uruguay. It was laid out in the 19th century on the site formerly occupied by the Citadel of Montevideo, marking the transition between the old fortified city and the modern urban expansion.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/PlazaIndependencia.jpg",
@@ -23,9 +23,9 @@
     },
     {
       "name": "Casapueblo",
-      "writeup": "A building near Punta del Este designed by artist Carlos Páez Vilaró, serving as a museum, art gallery, and hotel.",
+      "writeup": "A building near Punta del Este designed by artist Carlos P\u00e1ez Vilar\u00f3, serving as a museum, art gallery, and hotel.",
       "wiki": {
-        "extract": "Casapueblo is a building constructed by the Uruguayan artist Carlos Páez Vilaró. It is located in Punta Ballena, 13 kilometres (8 mi) from Punta del Este, Uruguay. Initially, it was the artist's summer home and workshop, and includes a museum, an art gallery, a cafeteria and a hotel in its facilities. It was the permanent residence of its creator, who worked and spent his last days there.",
+        "extract": "Casapueblo is a building constructed by the Uruguayan artist Carlos P\u00e1ez Vilar\u00f3. It is located in Punta Ballena, 13 kilometres (8\u00a0mi) from Punta del Este, Uruguay. Initially, it was the artist's summer home and workshop, and includes a museum, an art gallery, a cafeteria and a hotel in its facilities. It was the permanent residence of its creator, who worked and spent his last days there.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Casapueblo.JPG",
         "url": "https://en.wikipedia.org/wiki/Casapueblo",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Colonia del Sacramento",
       "writeup": "A UNESCO World Heritage site known for its well-preserved colonial architecture and cobblestone streets.",
       "wiki": {
-        "extract": "Colonia del Sacramento is a city in southwestern Uruguay, by the Río de la Plata, facing Buenos Aires, Argentina. It is one of the oldest towns in Uruguay and the capital of the Colonia Department. As of the 2023 census, it has a population of around 32,174.",
+        "extract": "Colonia del Sacramento is a city in southwestern Uruguay, by the R\u00edo de la Plata, facing Buenos Aires, Argentina. It is one of the oldest towns in Uruguay and the capital of the Colonia Department. As of the 2023 census, it has a population of around 32,174.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg",
         "url": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Palacio Salvo",
       "writeup": "An iconic skyscraper in Montevideo that was once the tallest building in South America.",
       "wiki": {
-        "extract": "The Palacio Salvo is an eclectic skyscraper at the intersection of 18 de Julio Avenue and Plaza Independencia in the Centro neighbourhood of Montevideo, Uruguay. Finished in 1928, It was built thanks to the initiative of the business brothers Ángel, José and Lorenzo Salvo, the 27-story Palacio Salvo stands 105 m (344 ft) high. It was the tallest building in Latin America for a brief period, at its completion it was the tallest reinforced concrete structure in the world. It was designed by the architect Mario Palanti, an Italian immigrant living in Buenos Aires, who used a similar design for his Palacio Barolo in Buenos Aires, Argentina.",
+        "extract": "The Palacio Salvo is an eclectic skyscraper at the intersection of 18 de Julio Avenue and Plaza Independencia in the Centro neighbourhood of Montevideo, Uruguay. Finished in 1928, It was built thanks to the initiative of the business brothers \u00c1ngel, Jos\u00e9 and Lorenzo Salvo, the 27-story Palacio Salvo stands 105\u00a0m (344\u00a0ft) high. It was the tallest building in Latin America for a brief period, at its completion it was the tallest reinforced concrete structure in the world. It was designed by the architect Mario Palanti, an Italian immigrant living in Buenos Aires, who used a similar design for his Palacio Barolo in Buenos Aires, Argentina.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Palacio_Salvo_Logo.jpg",
         "url": "https://en.wikipedia.org/wiki/Palacio_Salvo",
         "coordinates": {
@@ -89,7 +89,7 @@
       "name": "Semana Criolla",
       "writeup": "A festival celebrating rural traditions, including rodeos, folk music, and traditional food.",
       "wiki": {
-        "extract": "In Hispanic America, criollo is a term used originally to describe people of full and near complete Spanish descent born in the New World viceroyalties, under the Spanish crown. In different Hispanic American countries, the word has come to have different meanings, mostly referring to the local-born majority. Beginning in the 16th century, especially in Mexico and Peru, they were a social class near the top of the casta hierarchy of the overseas realms, but below peninsular European-born Spaniards, for whom the top administrative, clerical and political positions were reserved. They were locally born people — almost always of Spanish ancestry, but also sometimes of other European ethnic backgrounds.",
+        "extract": "In Hispanic America, criollo is a term used originally to describe people of full and near complete Spanish descent born in the New World viceroyalties, under the Spanish crown. In different Hispanic American countries, the word has come to have different meanings, mostly referring to the local-born majority. Beginning in the 16th century, especially in Mexico and Peru, they were a social class near the top of the casta hierarchy of the overseas realms, but below peninsular European-born Spaniards, for whom the top administrative, clerical and political positions were reserved. They were locally born people \u2014 almost always of Spanish ancestry, but also sometimes of other European ethnic backgrounds.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Folding_screen._Sarao_in_a_garden_of_Chapultepec._18th_century._Museo_Nacional_de_Historia._Castle_of_Chapultepec.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Criollo_people"
       }
@@ -108,7 +108,7 @@
   "brief_history": "Uruguay gained independence in 1828 after conflicts involving Spain, Portugal, Brazil, and Argentina. It developed as a democratic nation with a strong welfare state and progressive social policies.",
   "important_people": [
     {
-      "name": "José Artigas",
+      "name": "Jos\u00e9 Artigas",
       "description": "National hero and leader of the independence movement"
     },
     {
@@ -116,7 +116,7 @@
       "description": "Renowned poet"
     },
     {
-      "name": "Luis Suárez",
+      "name": "Luis Su\u00e1rez",
       "description": "Internationally famous footballer"
     },
     {
@@ -151,5 +151,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AUruguay_CIA_map-DE.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 21.42,
+      "gross_debt_pct_gdp": 61.1,
+      "gross_debt_usd_billion": 13.09,
+      "inflation_cpi_pct": 6.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 25.6,
+      "gross_debt_pct_gdp": 52.8,
+      "gross_debt_usd_billion": 13.52,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 33.15,
+      "gross_debt_pct_gdp": 46.2,
+      "gross_debt_usd_billion": 15.32,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 34.56,
+      "gross_debt_pct_gdp": 46.2,
+      "gross_debt_usd_billion": 15.97,
+      "inflation_cpi_pct": 7.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 43.97,
+      "gross_debt_pct_gdp": 40.9,
+      "gross_debt_usd_billion": 17.98,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 52.35,
+      "gross_debt_pct_gdp": 41.3,
+      "gross_debt_usd_billion": 21.62,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 55.94,
+      "gross_debt_pct_gdp": 49.8,
+      "gross_debt_usd_billion": 27.86,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 62.86,
+      "gross_debt_pct_gdp": 50,
+      "gross_debt_usd_billion": 31.43,
+      "inflation_cpi_pct": 8.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 62.55,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 31.96,
+      "inflation_cpi_pct": 8.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 58.22,
+      "gross_debt_pct_gdp": 57.8,
+      "gross_debt_usd_billion": 33.65,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 57.58,
+      "gross_debt_pct_gdp": 56.4,
+      "gross_debt_usd_billion": 32.48,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 65.07,
+      "gross_debt_pct_gdp": 55.8,
+      "gross_debt_usd_billion": 36.31,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 65.37,
+      "gross_debt_pct_gdp": 57.9,
+      "gross_debt_usd_billion": 37.85,
+      "inflation_cpi_pct": 7.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 62.23,
+      "gross_debt_pct_gdp": 59.6,
+      "gross_debt_usd_billion": 37.09,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 53.56,
+      "gross_debt_pct_gdp": 68.2,
+      "gross_debt_usd_billion": 36.53,
+      "inflation_cpi_pct": 9.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 60.74,
+      "gross_debt_pct_gdp": 64.1,
+      "gross_debt_usd_billion": 38.94,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 71.25,
+      "gross_debt_pct_gdp": 59.4,
+      "gross_debt_usd_billion": 42.32,
+      "inflation_cpi_pct": 9.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 79.21,
+      "gross_debt_pct_gdp": 63,
+      "gross_debt_usd_billion": 49.9,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 82.32,
+      "gross_debt_pct_gdp": 67.6,
+      "gross_debt_usd_billion": 55.65,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 85.58,
+      "gross_debt_pct_gdp": 65.7,
+      "gross_debt_usd_billion": 56.22,
+      "inflation_cpi_pct": 4.7,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

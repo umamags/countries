@@ -26,7 +26,7 @@
       "name": "Te Rua Manga (The Needle)",
       "writeup": "A distinctive rock formation and popular hiking destination on Rarotonga.",
       "wiki": {
-        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39 km2 (26.02 sq mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
+        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39\u00a0km2 (26.02\u00a0sq\u00a0mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rarotonga_Island.jpg",
         "url": "https://en.wikipedia.org/wiki/Rarotonga",
         "coordinates": {
@@ -52,7 +52,7 @@
       "name": "Aitutaki Lagoon",
       "writeup": "Famous for its stunning turquoise waters and coral reefs, a top tourist attraction.",
       "wiki": {
-        "extract": "Aitutaki, also traditionally known as Araʻura and Utataki, is the second most-populated island in the Cook Islands, after Rarotonga. It is an \"almost atoll\", with fifteen islets in a lagoon adjacent to the main island. Total land area is 18.05 km2 (6.97 sq mi), and the lagoon has an area of between 50 and 74 km2. A major tourist destination, Aitutaki is the second most visited island of the Cook Islands archipelago.",
+        "extract": "Aitutaki, also traditionally known as Ara\u02bbura and Utataki, is the second most-populated island in the Cook Islands, after Rarotonga. It is an \"almost atoll\", with fifteen islets in a lagoon adjacent to the main island. Total land area is 18.05\u00a0km2 (6.97\u00a0sq\u00a0mi), and the lagoon has an area of between 50 and 74\u00a0km2. A major tourist destination, Aitutaki is the second most visited island of the Cook Islands archipelago.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/AST-01-039_Aituctaki_Atoll.jpg",
         "url": "https://en.wikipedia.org/wiki/Aitutaki",
         "coordinates": {
@@ -65,7 +65,7 @@
       "name": "Titikaveka Beach",
       "writeup": "A scenic beach known for its white sand and calm waters.",
       "wiki": {
-        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39 km2 (26.02 sq mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
+        "extract": "Rarotonga is the largest and most populous island of the country of the Cook Islands. The island is volcanic, with an area of 67.39\u00a0km2 (26.02\u00a0sq\u00a0mi), and is home to 72% of the country's population, with 10,898 of a total population of 15,040. Avarua, on the north coast, is the location of the Parliament buildings and the capital of the Cook Islands. The country's international airport is also in Avarua, and Rarotonga is a popular tourist destination, with many resorts, hotels and motels.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rarotonga_Island.jpg",
         "url": "https://en.wikipedia.org/wiki/Rarotonga",
         "coordinates": {
@@ -87,7 +87,7 @@
       "name": "Marae Day",
       "writeup": "A day dedicated to traditional ceremonies and community gatherings at sacred sites.",
       "wiki": {
-        "extract": "A marae, malaʻe, meʻae or malae is a communal or sacred place that serves religious and social purposes in Polynesian societies. In all these languages, the term also means cleared and free of weeds or trees. Marae generally consist of an area of cleared land, roughly rectangular, bordered with stones or wooden posts, and perhaps with paepae (terraces) which were traditionally used for ceremonial purposes; in some cases, such as Easter Island, a central stone ahu or a'u is placed. In the Easter Island’s Rapa Nui culture, the term ahu or a'u has become metonymic for the whole marae complex itself.",
+        "extract": "A marae, mala\u02bbe, me\u02bbae or malae is a communal or sacred place that serves religious and social purposes in Polynesian societies. In all these languages, the term also means cleared and free of weeds or trees. Marae generally consist of an area of cleared land, roughly rectangular, bordered with stones or wooden posts, and perhaps with paepae (terraces) which were traditionally used for ceremonial purposes; in some cases, such as Easter Island, a central stone ahu or a'u is placed. In the Easter Island\u2019s Rapa Nui culture, the term ahu or a'u has become metonymic for the whole marae complex itself.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Marae%2C_Raiatea_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Marae"
       }
@@ -128,5 +128,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Cook_Islands.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

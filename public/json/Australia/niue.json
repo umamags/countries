@@ -26,7 +26,7 @@
       "name": "Talava Arches",
       "writeup": "Natural limestone arches located on the southeastern coast, popular for scenic views.",
       "wiki": {
-        "extract": "Niue is a small, oval island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64 km. It claims an exclusive economic zone of 200 nautical miles, and a territorial sea of 12 nautical miles. It is one of world's largest coral islands.",
+        "extract": "Niue is a small, oval island in the South Pacific Ocean, to the east of Tonga. It has an area of 260 square kilometres, and a coastline of 64\u00a0km. It claims an exclusive economic zone of 200\u00a0nautical miles, and a territorial sea of 12\u00a0nautical miles. It is one of world's largest coral islands.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Avatele_Niue.jpg",
         "url": "https://en.wikipedia.org/wiki/Geography_of_Niue",
         "coordinates": {
@@ -52,7 +52,7 @@
       "name": "Hikulagi Sculpture Park",
       "writeup": "An outdoor park featuring sculptures made from recycled materials, promoting environmental awareness.",
       "wiki": {
-        "extract": "Museums in Niue include:Hikulagi Sculpture Park\nTāoga Niue Museum, in the capital, Alofi, which replaced the Huanaki Cultural Centre & Museum, which was destroyed by Cyclone Heta in 2004.\nTahiono Gallery",
+        "extract": "Museums in Niue include:Hikulagi Sculpture Park\nT\u0101oga Niue Museum, in the capital, Alofi, which replaced the Huanaki Cultural Centre & Museum, which was destroyed by Cyclone Heta in 2004.\nTahiono Gallery",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Niue",
         "coordinates": null
@@ -115,5 +115,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Niue.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

@@ -4,7 +4,7 @@
   "languages": [
     "Spanish",
     "21 Mayan languages",
-    "Garífuna",
+    "Gar\u00edfuna",
     "Xinca"
   ],
   "population": "18,300,000",
@@ -15,7 +15,7 @@
       "name": "Tikal",
       "writeup": "An ancient Mayan city in the rainforests of northern Guatemala, known for its towering pyramids and rich archaeological significance.",
       "wiki": {
-        "extract": "Tikal is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization. It is located in the archaeological region of the Petén Basin in what is now the Petén Department in northern Guatemala. The site is part of Guatemala's Tikal National Park, which was declared a UNESCO World Heritage Site in 1979.",
+        "extract": "Tikal is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization. It is located in the archaeological region of the Pet\u00e9n Basin in what is now the Pet\u00e9n Department in northern Guatemala. The site is part of Guatemala's Tikal National Park, which was declared a UNESCO World Heritage Site in 1979.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tikal_3.jpg",
         "url": "https://en.wikipedia.org/wiki/Tikal",
         "coordinates": {
@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "Lake Atitlán",
+      "name": "Lake Atitl\u00e1n",
       "writeup": "A scenic volcanic lake surrounded by traditional Mayan villages and volcanoes, popular for its natural beauty and cultural experiences.",
       "wiki": {
-        "extract": "Lake Atitlán is a large natural lake in the Guatemalan Highlands of the Sierra Madre mountain range. The lake is located in the Sololá Department of southwestern Guatemala. With a maximum depth of 340 metres (1,120 ft), it is the deepest lake in Central America.",
+        "extract": "Lake Atitl\u00e1n is a large natural lake in the Guatemalan Highlands of the Sierra Madre mountain range. The lake is located in the Solol\u00e1 Department of southwestern Guatemala. With a maximum depth of 340 metres (1,120\u00a0ft), it is the deepest lake in Central America.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lago_de_Atitlan_seen_from_orbit.jpg",
         "url": "https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n",
         "coordinates": {
@@ -54,7 +54,7 @@
       "name": "Semuc Champey",
       "writeup": "A natural limestone bridge with turquoise pools, located in a lush jungle setting, ideal for swimming and hiking.",
       "wiki": {
-        "extract": "Semuc Champey is a natural enclave in the department of Alta Verapaz, Guatemala, near the Q'eqchi' Maya town of Lanquín. It consists of a natural 300 metres (980 ft) limestone bridge, under which passes the Cahabón River. Atop the bridge is a series of stepped, turquoise pools, a popular swimming attraction.",
+        "extract": "Semuc Champey is a natural enclave in the department of Alta Verapaz, Guatemala, near the Q'eqchi' Maya town of Lanqu\u00edn. It consists of a natural 300 metres (980\u00a0ft) limestone bridge, under which passes the Cahab\u00f3n River. Atop the bridge is a series of stepped, turquoise pools, a popular swimming attraction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Semuc_Champey%2C_Guatemala.jpg/3840px-Semuc_Champey%2C_Guatemala.jpg",
         "url": "https://en.wikipedia.org/wiki/Semuc_Champey",
         "coordinates": {
@@ -67,7 +67,7 @@
       "name": "Pacaya Volcano",
       "writeup": "An active volcano near Guatemala City, offering hiking opportunities and views of lava flows.",
       "wiki": {
-        "extract": "Pacaya is an active complex volcano in Guatemala, which first erupted approximately 23,000 years ago and has erupted at least 23 times since the Spanish conquest of Guatemala. It rises to an elevation of 2,552 metres (8,373 ft). After being dormant for over 70 years, it began erupting vigorously in 1961 and has been erupting frequently since then. Much of its activity is Strombolian, but occasionally Plinian eruptions also occur, sometimes showering the area of the nearby Departments with ash.",
+        "extract": "Pacaya is an active complex volcano in Guatemala, which first erupted approximately 23,000\u00a0years ago and has erupted at least 23 times since the Spanish conquest of Guatemala. It rises to an elevation of 2,552 metres (8,373\u00a0ft). After being dormant for over 70 years, it began erupting vigorously in 1961 and has been erupting frequently since then. Much of its activity is Strombolian, but occasionally Plinian eruptions also occur, sometimes showering the area of the nearby Departments with ash.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Pacaya_erupting_in_1976.jpg",
         "url": "https://en.wikipedia.org/wiki/Pacaya",
         "coordinates": {
@@ -90,7 +90,7 @@
     },
     {
       "name": "Fiesta de Santiago",
-      "writeup": "A traditional festival in the town of Santiago Atitlán with indigenous dances, music, and rituals honoring Saint James.",
+      "writeup": "A traditional festival in the town of Santiago Atitl\u00e1n with indigenous dances, music, and rituals honoring Saint James.",
       "wiki": null,
       "resolution_failed": true
     },
@@ -108,19 +108,19 @@
   "brief_history": "Guatemala was home to the ancient Maya civilization before Spanish conquest in the 16th century. It gained independence from Spain in 1821. The 20th century saw political instability and civil war, ending in 1996 with peace accords. Today, Guatemala is a democratic republic with a diverse cultural heritage.",
   "important_people": [
     {
-      "name": "Rigoberta Menchú",
+      "name": "Rigoberta Mench\u00fa",
       "description": "Indigenous rights activist and Nobel Peace Prize laureate"
     },
     {
-      "name": "Miguel Ángel Asturias",
+      "name": "Miguel \u00c1ngel Asturias",
       "description": "Nobel Prize-winning writer"
     },
     {
-      "name": "Efraín Ríos Montt",
+      "name": "Efra\u00edn R\u00edos Montt",
       "description": "Former military dictator"
     },
     {
-      "name": "Otto Pérez Molina",
+      "name": "Otto P\u00e9rez Molina",
       "description": "Former president"
     },
     {
@@ -155,5 +155,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Guatemala.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 31.31,
+      "gross_debt_pct_gdp": 20.9,
+      "gross_debt_usd_billion": 6.54,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 35.03,
+      "gross_debt_pct_gdp": 20.8,
+      "gross_debt_usd_billion": 7.29,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 40.24,
+      "gross_debt_pct_gdp": 19.6,
+      "gross_debt_usd_billion": 7.89,
+      "inflation_cpi_pct": 11.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 38.0,
+      "gross_debt_pct_gdp": 22.8,
+      "gross_debt_usd_billion": 8.66,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 41.49,
+      "gross_debt_pct_gdp": 24,
+      "gross_debt_usd_billion": 9.96,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 47.42,
+      "gross_debt_pct_gdp": 23.8,
+      "gross_debt_usd_billion": 11.29,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 49.9,
+      "gross_debt_pct_gdp": 24.6,
+      "gross_debt_usd_billion": 12.28,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 52.99,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 13.25,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 57.84,
+      "gross_debt_pct_gdp": 24.7,
+      "gross_debt_usd_billion": 14.29,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 62.18,
+      "gross_debt_pct_gdp": 24.8,
+      "gross_debt_usd_billion": 15.42,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 66.03,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 16.44,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 71.62,
+      "gross_debt_pct_gdp": 25.1,
+      "gross_debt_usd_billion": 17.98,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 73.33,
+      "gross_debt_pct_gdp": 26.4,
+      "gross_debt_usd_billion": 19.36,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 77.16,
+      "gross_debt_pct_gdp": 26.4,
+      "gross_debt_usd_billion": 20.37,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 77.72,
+      "gross_debt_pct_gdp": 31.5,
+      "gross_debt_usd_billion": 24.48,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 86.44,
+      "gross_debt_pct_gdp": 30.6,
+      "gross_debt_usd_billion": 26.45,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 95.64,
+      "gross_debt_pct_gdp": 29,
+      "gross_debt_usd_billion": 27.74,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 104.35,
+      "gross_debt_pct_gdp": 27.2,
+      "gross_debt_usd_billion": 28.38,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 113.19,
+      "gross_debt_pct_gdp": 26.3,
+      "gross_debt_usd_billion": 29.77,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 121.11,
+      "gross_debt_pct_gdp": 27.2,
+      "gross_debt_usd_billion": 32.94,
+      "inflation_cpi_pct": 1.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

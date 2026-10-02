@@ -13,7 +13,7 @@
       "name": "Ancient City of Babylon",
       "writeup": "A historic city famous for its ancient ruins and the Hanging Gardens, one of the Seven Wonders of the Ancient World.",
       "wiki": {
-        "extract": "Babylon is an ancient city located on the lower Euphrates river in southern Mesopotamia, within modern-day Hillah, Iraq, about 85 kilometres south of modern-day Baghdad. Babylon functioned as the main cultural and political centre of the Akkadian-speaking region of Babylonia. Its rulers established two important empires in antiquity, the 19th–16th century BC Old Babylonian Empire, and the 7th–6th century BC Neo-Babylonian Empire. Babylon was also used as a regional capital of other empires, such as the Achaemenid Empire. Babylon was one of the most important urban centres of the ancient Near East, until its decline during the Hellenistic period. Nearby ancient sites include Kish, Borsippa, Dilbat, and Kutha.",
+        "extract": "Babylon is an ancient city located on the lower Euphrates river in southern Mesopotamia, within modern-day Hillah, Iraq, about 85 kilometres south of modern-day Baghdad. Babylon functioned as the main cultural and political centre of the Akkadian-speaking region of Babylonia. Its rulers established two important empires in antiquity, the 19th\u201316th century BC Old Babylonian Empire, and the 7th\u20136th century BC Neo-Babylonian Empire. Babylon was also used as a regional capital of other empires, such as the Achaemenid Empire. Babylon was one of the most important urban centres of the ancient Near East, until its decline during the Hellenistic period. Nearby ancient sites include Kish, Borsippa, Dilbat, and Kutha.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ishtar_Gate.jpg",
         "url": "https://en.wikipedia.org/wiki/Babylon",
         "coordinates": {
@@ -49,7 +49,7 @@
       "name": "Great Mosque of Samarra",
       "writeup": "Known for its unique spiral minaret, it was once the largest mosque in the world.",
       "wiki": {
-        "extract": "The Great Mosque of Samarra or Al-Malwiya Mosque is a former congregational mosque, now in partial ruins, in Samarra, in the Saladin Governorate of Iraq. The mosque was commissioned in 848 CE and completed in 851 by the Abbasid caliph Al-Mutawakkil. At the time of construction it was the world's largest mosque. It is known for its 52-metre-high (171 ft) minaret encircled by a spiral ramp. The former mosque is within the 15,058-hectare (37,210-acre) Samarra Archaeological City UNESCO World Heritage Site, listed in 2007.",
+        "extract": "The Great Mosque of Samarra or Al-Malwiya Mosque is a former congregational mosque, now in partial ruins, in Samarra, in the Saladin Governorate of Iraq. The mosque was commissioned in 848 CE and completed in 851 by the Abbasid caliph Al-Mutawakkil. At the time of construction it was the world's largest mosque. It is known for its 52-metre-high (171\u00a0ft) minaret encircled by a spiral ramp. The former mosque is within the 15,058-hectare (37,210-acre) Samarra Archaeological City UNESCO World Heritage Site, listed in 2007.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Samrraa_05.jpg/3840px-Samrraa_05.jpg",
         "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Samarra",
         "coordinates": {
@@ -177,5 +177,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AIraq-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 65.14,
+      "gross_debt_pct_gdp": 143.2,
+      "gross_debt_usd_billion": 93.29,
+      "inflation_cpi_pct": 53.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 88.83,
+      "gross_debt_pct_gdp": 117.1,
+      "gross_debt_usd_billion": 104.02,
+      "inflation_cpi_pct": 30.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 131.61,
+      "gross_debt_pct_gdp": 74.2,
+      "gross_debt_usd_billion": 97.66,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 111.66,
+      "gross_debt_pct_gdp": 87.4,
+      "gross_debt_usd_billion": 97.59,
+      "inflation_cpi_pct": -2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 138.52,
+      "gross_debt_pct_gdp": 53.5,
+      "gross_debt_usd_billion": 74.11,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 185.75,
+      "gross_debt_pct_gdp": 40.7,
+      "gross_debt_usd_billion": 75.6,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 218.03,
+      "gross_debt_pct_gdp": 34.8,
+      "gross_debt_usd_billion": 75.88,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 234.64,
+      "gross_debt_pct_gdp": 32,
+      "gross_debt_usd_billion": 75.08,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 234.65,
+      "gross_debt_pct_gdp": 27.6,
+      "gross_debt_usd_billion": 64.76,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 177.63,
+      "gross_debt_pct_gdp": 48.3,
+      "gross_debt_usd_billion": 85.8,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 168.43,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 101.56,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 190.05,
+      "gross_debt_pct_gdp": 55.9,
+      "gross_debt_usd_billion": 106.24,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 230.19,
+      "gross_debt_pct_gdp": 44.4,
+      "gross_debt_usd_billion": 102.2,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 236.68,
+      "gross_debt_pct_gdp": 41.7,
+      "gross_debt_usd_billion": 98.7,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 182.58,
+      "gross_debt_pct_gdp": 72.5,
+      "gross_debt_usd_billion": 132.37,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 210.75,
+      "gross_debt_pct_gdp": 54.7,
+      "gross_debt_usd_billion": 115.28,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 288.06,
+      "gross_debt_pct_gdp": 39,
+      "gross_debt_usd_billion": 112.34,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 270.8,
+      "gross_debt_pct_gdp": 42.1,
+      "gross_debt_usd_billion": 114.01,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 286.52,
+      "gross_debt_pct_gdp": 45.2,
+      "gross_debt_usd_billion": 129.51,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 264.17,
+      "gross_debt_pct_gdp": 53.9,
+      "gross_debt_usd_billion": 142.39,
+      "inflation_cpi_pct": 0.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

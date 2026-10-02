@@ -25,10 +25,10 @@
       }
     },
     {
-      "name": "Djenné Mosque",
+      "name": "Djenn\u00e9 Mosque",
       "writeup": "The largest mud-brick building in the world and a UNESCO World Heritage site.",
       "wiki": {
-        "extract": "The Great Mosque of Djenné in the Sudano-Sahelian architectural style is the largest adobe brick building in the world. The mosque is located in the city of Djenné, Mali, on the flood plain of the Bani River. The first mosque on the site was built around the 13th century, but the current structure dates from 1907. As well as being the centre of the community of Djenné, it is one of the most famous landmarks in Africa. Along with the \"Old Towns of Djenné\", it was designated a World Heritage Site by UNESCO in 1988.",
+        "extract": "The Great Mosque of Djenn\u00e9 in the Sudano-Sahelian architectural style is the largest adobe brick building in the world. The mosque is located in the city of Djenn\u00e9, Mali, on the flood plain of the Bani River. The first mosque on the site was built around the 13th century, but the current structure dates from 1907. As well as being the centre of the community of Djenn\u00e9, it is one of the most famous landmarks in Africa. Along with the \"Old Towns of Djenn\u00e9\", it was designated a World Heritage Site by UNESCO in 1988.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Djenne_great_mud_mosque.jpg",
         "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
         "coordinates": {
@@ -41,7 +41,7 @@
       "name": "Bandiagara Escarpment",
       "writeup": "A sandstone cliff region home to the Dogon people and known for its unique cultural heritage.",
       "wiki": {
-        "extract": "The Bandiagara Escarpment is a sandstone cliff in the Dogon country of Mali. It rises about 500 m (1,600 ft) above the lower sandy flats to the south, and has a length of approximately 150 km (90 mi).",
+        "extract": "The Bandiagara Escarpment is a sandstone cliff in the Dogon country of Mali. It rises about 500\u00a0m (1,600\u00a0ft) above the lower sandy flats to the south, and has a length of approximately 150\u00a0km (90\u00a0mi).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Les_Falaises_de_Bandiagara.jpg",
         "url": "https://en.wikipedia.org/wiki/Bandiagara_Escarpment",
         "coordinates": {
@@ -51,13 +51,13 @@
       }
     }
   ],
-  "head_of_state": "Assimi Goïta (Interim President as of 2024)",
+  "head_of_state": "Assimi Go\u00efta (Interim President as of 2024)",
   "cultural_events": [
     {
       "name": "Festival in the Desert",
       "writeup": "A music festival celebrating Tuareg culture and Saharan music near Timbuktu.",
       "wiki": {
-        "extract": "The Festival au désert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
+        "extract": "The Festival au d\u00e9sert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Audience_at_the_Festival_au_Desert_near_Timbuktu%2C_Mali_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Festival_au_D%C3%A9sert"
       }
@@ -66,17 +66,17 @@
       "name": "Mopti Cultural Festival",
       "writeup": "An event showcasing the diverse ethnic groups and traditions of Mali.",
       "wiki": {
-        "extract": "The Festival au désert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
+        "extract": "The Festival au d\u00e9sert was an annual concert in Mali, showcasing traditional Tuareg music as well as music from around the world between 2001 and 2012. It was founded and directed by Manny Ansar, and attracted thousands of visitors, bringing a huge boost to the economy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Audience_at_the_Festival_au_Desert_near_Timbuktu%2C_Mali_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Festival_au_D%C3%A9sert"
       }
     }
   ],
-  "food_writeup": "Malian cuisine features staples like millet, rice, and sorghum, often accompanied by sauces made from peanuts, okra, and various vegetables. Popular dishes include tô (a millet porridge) and grilled meats.",
+  "food_writeup": "Malian cuisine features staples like millet, rice, and sorghum, often accompanied by sauces made from peanuts, okra, and various vegetables. Popular dishes include t\u00f4 (a millet porridge) and grilled meats.",
   "brief_history": "Mali was home to powerful empires such as the Ghana, Mali, and Songhai empires. It became a French colony in the late 19th century and gained independence in 1960. The country has faced political instability and conflicts, especially in the northern regions.",
   "important_people": [
     {
-      "name": "Modibo Keïta",
+      "name": "Modibo Ke\u00efta",
       "description": "First President of Mali"
     },
     {
@@ -110,7 +110,7 @@
       "lon": -8.001985
     },
     {
-      "name": "Ségou",
+      "name": "S\u00e9gou",
       "capital": false,
       "lat": 13.439992,
       "lon": -6.260016
@@ -139,5 +139,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AMali_map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 8.09,
+      "gross_debt_pct_gdp": 15.4,
+      "gross_debt_usd_billion": 1.25,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 9.67,
+      "gross_debt_pct_gdp": 15.6,
+      "gross_debt_usd_billion": 1.51,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 11.47,
+      "gross_debt_pct_gdp": 17.3,
+      "gross_debt_usd_billion": 1.99,
+      "inflation_cpi_pct": 9.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 11.91,
+      "gross_debt_pct_gdp": 18.8,
+      "gross_debt_usd_billion": 2.24,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 12.44,
+      "gross_debt_pct_gdp": 21.8,
+      "gross_debt_usd_billion": 2.71,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 15.46,
+      "gross_debt_pct_gdp": 20.1,
+      "gross_debt_usd_billion": 3.11,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 14.82,
+      "gross_debt_pct_gdp": 21.3,
+      "gross_debt_usd_billion": 3.16,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 15.75,
+      "gross_debt_pct_gdp": 22.2,
+      "gross_debt_usd_billion": 3.5,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 17.1,
+      "gross_debt_pct_gdp": 22.6,
+      "gross_debt_usd_billion": 3.86,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 15.59,
+      "gross_debt_pct_gdp": 25.8,
+      "gross_debt_usd_billion": 4.02,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 16.77,
+      "gross_debt_pct_gdp": 30.1,
+      "gross_debt_usd_billion": 5.05,
+      "inflation_cpi_pct": -1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 18.33,
+      "gross_debt_pct_gdp": 30.1,
+      "gross_debt_usd_billion": 5.52,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 20.42,
+      "gross_debt_pct_gdp": 31.4,
+      "gross_debt_usd_billion": 6.41,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 20.52,
+      "gross_debt_pct_gdp": 34.3,
+      "gross_debt_usd_billion": 7.04,
+      "inflation_cpi_pct": -3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 20.78,
+      "gross_debt_pct_gdp": 39.8,
+      "gross_debt_usd_billion": 8.27,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 23.06,
+      "gross_debt_pct_gdp": 43.2,
+      "gross_debt_usd_billion": 9.96,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 22.66,
+      "gross_debt_pct_gdp": 42.9,
+      "gross_debt_usd_billion": 9.72,
+      "inflation_cpi_pct": 9.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 24.82,
+      "gross_debt_pct_gdp": 44.3,
+      "gross_debt_usd_billion": 10.99,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 26.78,
+      "gross_debt_pct_gdp": 44,
+      "gross_debt_usd_billion": 11.78,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 30.05,
+      "gross_debt_pct_gdp": 41.9,
+      "gross_debt_usd_billion": 12.59,
+      "inflation_cpi_pct": 2.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

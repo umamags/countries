@@ -12,7 +12,7 @@
       "name": "Kaieteur Falls",
       "writeup": "One of the world's most powerful waterfalls, located on the Potaro River in the Kaieteur National Park.",
       "wiki": {
-        "extract": "Kaieteur Falls is one of the most powerful single-drop waterfalls in the world. It is located on the Potaro River in Kaieteur National Park, central Essequibo Territory, Guyana. It is 226 metres (741 ft) high when measured from its plunge over a sandstone and conglomerate cliff to the first break. It then flows over a series of steep cascades that, when included in the measurements, bring the total height to 251 metres (822 ft). While many falls have greater height or greater flow, few have the combination of height and water volume, and Kaieteur is among the most powerful waterfalls in the world with an average flow rate of 663 cubic meters per second. Kaieteur Falls is about four and a half times the height of Niagara Falls, on the border between Canada and the United States, and about twice the height of Victoria Falls, on the border of Zambia and Zimbabwe in Africa.",
+        "extract": "Kaieteur Falls is one of the most powerful single-drop waterfalls in the world. It is located on the Potaro River in Kaieteur National Park, central Essequibo Territory, Guyana. It is 226 metres (741\u00a0ft) high when measured from its plunge over a sandstone and conglomerate cliff to the first break. It then flows over a series of steep cascades that, when included in the measurements, bring the total height to 251 metres (822\u00a0ft). While many falls have greater height or greater flow, few have the combination of height and water volume, and Kaieteur is among the most powerful waterfalls in the world with an average flow rate of 663 cubic meters per second. Kaieteur Falls is about four and a half times the height of Niagara Falls, on the border between Canada and the United States, and about twice the height of Victoria Falls, on the border of Zambia and Zimbabwe in Africa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GuyanaKaieteurFalls2004.jpg",
         "url": "https://en.wikipedia.org/wiki/Kaieteur_Falls",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "St. George's Cathedral",
       "writeup": "An Anglican cathedral in Georgetown, known as one of the tallest wooden churches in the world.",
       "wiki": {
-        "extract": "St. George's Cathedral is an Anglican cathedral in Georgetown, Guyana. The church is of Gothic Revival timber construction and reaches a height of 43.5 metres (143 ft). It is the seat of the Bishop of Guyana.",
+        "extract": "St. George's Cathedral is an Anglican cathedral in Georgetown, Guyana. The church is of Gothic Revival timber construction and reaches a height of 43.5 metres (143\u00a0ft). It is the seat of the Bishop of Guyana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20191121_Guyana_0048_Georgetown_sRGB_%2849295795336%29.jpg/3840px-20191121_Guyana_0048_Georgetown_sRGB_%2849295795336%29.jpg",
         "url": "https://en.wikipedia.org/wiki/St._George's_Cathedral%2C_Georgetown",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Iwokrama Forest",
       "writeup": "A protected rainforest reserve known for biodiversity and conservation efforts.",
       "wiki": {
-        "extract": "The Iwokrama Forest is a 3,716 square kilometres (1,435 sq mi) nature reserve of central Guyana located in the Guiana Shield, The area is 85 km (53 mi) at its widest point east to west and 80 km (50 mi) north to south. It is bisected by the Georgetown–Lethem Road. The forest lies between 4° and 5° north latitude and 58.5 and 59.5 degrees west longitude and is bordered by the Pakaraima Mountains on the west, isolated highlands on the east, savannahs on the southwest and northwest. The Essequibo River forms the eastern boundary. The northern boundary is the Siparuni River. The Burro-Burro River runs through the centre, and most of its watershed is within the forest.",
+        "extract": "The Iwokrama Forest is a 3,716 square kilometres (1,435\u00a0sq\u00a0mi) nature reserve of central Guyana located in the Guiana Shield, The area is 85\u00a0km (53\u00a0mi) at its widest point east to west and 80\u00a0km (50\u00a0mi) north to south. It is bisected by the Georgetown\u2013Lethem Road. The forest lies between 4\u00b0 and 5\u00b0 north latitude and 58.5 and 59.5 degrees west longitude and is bordered by the Pakaraima Mountains on the west, isolated highlands on the east, savannahs on the southwest and northwest. The Essequibo River forms the eastern boundary. The northern boundary is the Siparuni River. The Burro-Burro River runs through the centre, and most of its watershed is within the forest.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg/3840px-Iwokrama_Rainforest%2C_Guyana_%2812179378186%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Iwokrama_Forest",
         "coordinates": {
@@ -106,5 +106,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AGuyana-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1.9,
+      "gross_debt_pct_gdp": 74.5,
+      "gross_debt_usd_billion": 1.41,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 2.23,
+      "gross_debt_pct_gdp": 47.7,
+      "gross_debt_usd_billion": 1.06,
+      "inflation_cpi_pct": 12.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 2.49,
+      "gross_debt_pct_gdp": 48.2,
+      "gross_debt_usd_billion": 1.2,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 2.6,
+      "gross_debt_pct_gdp": 52.3,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 2.89,
+      "gross_debt_pct_gdp": 53.1,
+      "gross_debt_usd_billion": 1.53,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 3.33,
+      "gross_debt_pct_gdp": 51.7,
+      "gross_debt_usd_billion": 1.72,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 4.06,
+      "gross_debt_pct_gdp": 44.7,
+      "gross_debt_usd_billion": 1.82,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 4.17,
+      "gross_debt_pct_gdp": 41.4,
+      "gross_debt_usd_billion": 1.73,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 4.13,
+      "gross_debt_pct_gdp": 38.7,
+      "gross_debt_usd_billion": 1.6,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 4.28,
+      "gross_debt_pct_gdp": 42.2,
+      "gross_debt_usd_billion": 1.81,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 4.48,
+      "gross_debt_pct_gdp": 35.7,
+      "gross_debt_usd_billion": 1.6,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 4.75,
+      "gross_debt_pct_gdp": 35.2,
+      "gross_debt_usd_billion": 1.67,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 4.79,
+      "gross_debt_pct_gdp": 37.4,
+      "gross_debt_usd_billion": 1.79,
+      "inflation_cpi_pct": 1.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 5.17,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 1.77,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 5.47,
+      "gross_debt_pct_gdp": 47.4,
+      "gross_debt_usd_billion": 2.59,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 8.04,
+      "gross_debt_pct_gdp": 38.9,
+      "gross_debt_usd_billion": 3.13,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 14.72,
+      "gross_debt_pct_gdp": 24.8,
+      "gross_debt_usd_billion": 3.65,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 16.92,
+      "gross_debt_pct_gdp": 26.7,
+      "gross_debt_usd_billion": 4.52,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 24.66,
+      "gross_debt_pct_gdp": 24.3,
+      "gross_debt_usd_billion": 5.99,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 27.1,
+      "gross_debt_pct_gdp": 28.6,
+      "gross_debt_usd_billion": 7.75,
+      "inflation_cpi_pct": 3.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

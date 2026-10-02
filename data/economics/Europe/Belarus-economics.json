@@ -1,0 +1,170 @@
+{
+  "country": "Belarus",
+  "iso3": "BLR",
+  "period": "2006-2025",
+  "source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "debt_definition": "General government gross debt; USD debt amounts are approximations (GDP x debt ratio)",
+  "note": "2025 figures are IMF estimates/projections; earlier values may include IMF estimates.",
+  "data": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 38.22,
+      "gross_debt_pct_gdp": 12.3,
+      "gross_debt_usd_billion": 4.7,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 46.81,
+      "gross_debt_pct_gdp": 15.8,
+      "gross_debt_usd_billion": 7.4,
+      "inflation_cpi_pct": 8.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 62.8,
+      "gross_debt_pct_gdp": 20.3,
+      "gross_debt_usd_billion": 12.75,
+      "inflation_cpi_pct": 14.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 50.85,
+      "gross_debt_pct_gdp": 32.5,
+      "gross_debt_usd_billion": 16.53,
+      "inflation_cpi_pct": 13,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 57.22,
+      "gross_debt_pct_gdp": 36.8,
+      "gross_debt_usd_billion": 21.06,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 61.37,
+      "gross_debt_pct_gdp": 58.2,
+      "gross_debt_usd_billion": 35.72,
+      "inflation_cpi_pct": 53.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 65.67,
+      "gross_debt_pct_gdp": 36.9,
+      "gross_debt_usd_billion": 24.23,
+      "inflation_cpi_pct": 59.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 75.5,
+      "gross_debt_pct_gdp": 36.9,
+      "gross_debt_usd_billion": 27.86,
+      "inflation_cpi_pct": 18.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 78.74,
+      "gross_debt_pct_gdp": 38.8,
+      "gross_debt_usd_billion": 30.55,
+      "inflation_cpi_pct": 18.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 56.33,
+      "gross_debt_pct_gdp": 53,
+      "gross_debt_usd_billion": 29.85,
+      "inflation_cpi_pct": 13.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 47.7,
+      "gross_debt_pct_gdp": 53.5,
+      "gross_debt_usd_billion": 25.52,
+      "inflation_cpi_pct": 11.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 54.72,
+      "gross_debt_pct_gdp": 53.2,
+      "gross_debt_usd_billion": 29.11,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 60.01,
+      "gross_debt_pct_gdp": 47.5,
+      "gross_debt_usd_billion": 28.51,
+      "inflation_cpi_pct": 4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 64.41,
+      "gross_debt_pct_gdp": 41,
+      "gross_debt_usd_billion": 26.41,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 61.31,
+      "gross_debt_pct_gdp": 47.5,
+      "gross_debt_usd_billion": 29.12,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 68.21,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 28.1,
+      "inflation_cpi_pct": 9.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 73.73,
+      "gross_debt_pct_gdp": 40.8,
+      "gross_debt_usd_billion": 30.08,
+      "inflation_cpi_pct": 15.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 71.79,
+      "gross_debt_pct_gdp": 40.7,
+      "gross_debt_usd_billion": 29.22,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 78.85,
+      "gross_debt_pct_gdp": 38.7,
+      "gross_debt_usd_billion": 30.51,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 92.77,
+      "gross_debt_pct_gdp": 33.1,
+      "gross_debt_usd_billion": 30.71,
+      "inflation_cpi_pct": 6.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "Sarajevo Old Town (Bašnaršija)",
+      "name": "Sarajevo Old Town (Ba\u0161nar\u0161ija)",
       "writeup": "Historic bazaar and cultural center of Sarajevo, reflecting Ottoman and Austro-Hungarian influences.",
       "wiki": null
     },
@@ -34,7 +34,7 @@
       "name": "Vrelo Bosne",
       "writeup": "A natural park featuring the spring of the River Bosna, known for its scenic beauty and walking trails.",
       "wiki": {
-        "extract": "Vrelo Bosne is a public park and a protected Nature Monument established around the source of the Bosna river, featuring the system of numerous springs at the foothills of Mount Igman, in the municipality of Ilidža, on the outskirts of Sarajevo, capital of Bosnia and Herzegovina. Vrelo Bosne is one of the country's popular natural landmarks and provides a quiet escape from city life.",
+        "extract": "Vrelo Bosne is a public park and a protected Nature Monument established around the source of the Bosna river, featuring the system of numerous springs at the foothills of Mount Igman, in the municipality of Ilid\u017ea, on the outskirts of Sarajevo, capital of Bosnia and Herzegovina. Vrelo Bosne is one of the country's popular natural landmarks and provides a quiet escape from city life.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bridge_on_Vrelo_Bosne.jpg/3840px-Bridge_on_Vrelo_Bosne.jpg",
         "url": "https://en.wikipedia.org/wiki/Vrelo_Bosne",
         "coordinates": {
@@ -66,7 +66,7 @@
       }
     },
     {
-      "name": "Bašnaršija Nights",
+      "name": "Ba\u0161nar\u0161ija Nights",
       "writeup": "A summer cultural festival in Sarajevo featuring music, theater, and traditional crafts.",
       "wiki": null,
       "resolution_failed": true
@@ -138,5 +138,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ABosnia_and_Herzegovina_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 12.88,
+      "gross_debt_pct_gdp": 20.6,
+      "gross_debt_usd_billion": 2.65,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 15.8,
+      "gross_debt_pct_gdp": 18.2,
+      "gross_debt_usd_billion": 2.88,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 19.19,
+      "gross_debt_pct_gdp": 30.3,
+      "gross_debt_usd_billion": 5.81,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 17.67,
+      "gross_debt_pct_gdp": 36.4,
+      "gross_debt_usd_billion": 6.43,
+      "inflation_cpi_pct": -0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 17.21,
+      "gross_debt_pct_gdp": 42.2,
+      "gross_debt_usd_billion": 7.26,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 18.66,
+      "gross_debt_pct_gdp": 40.9,
+      "gross_debt_usd_billion": 7.63,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 17.24,
+      "gross_debt_pct_gdp": 43.6,
+      "gross_debt_usd_billion": 7.52,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 18.18,
+      "gross_debt_pct_gdp": 43.8,
+      "gross_debt_usd_billion": 7.96,
+      "inflation_cpi_pct": -0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 18.59,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 8.75,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 16.41,
+      "gross_debt_pct_gdp": 46.4,
+      "gross_debt_usd_billion": 7.62,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 17.12,
+      "gross_debt_pct_gdp": 44.9,
+      "gross_debt_usd_billion": 7.69,
+      "inflation_cpi_pct": -1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 18.36,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 7.09,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 20.5,
+      "gross_debt_pct_gdp": 34.5,
+      "gross_debt_usd_billion": 7.07,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 20.48,
+      "gross_debt_pct_gdp": 32.8,
+      "gross_debt_usd_billion": 6.72,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 20.26,
+      "gross_debt_pct_gdp": 37.2,
+      "gross_debt_usd_billion": 7.54,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 23.69,
+      "gross_debt_pct_gdp": 35.8,
+      "gross_debt_usd_billion": 8.48,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 24.58,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 7.67,
+      "inflation_cpi_pct": 14,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 27.61,
+      "gross_debt_pct_gdp": 29,
+      "gross_debt_usd_billion": 8.01,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 29.74,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 8.74,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 32.96,
+      "gross_debt_pct_gdp": 29.9,
+      "gross_debt_usd_billion": 9.86,
+      "inflation_cpi_pct": 4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

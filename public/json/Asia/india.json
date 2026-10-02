@@ -93,7 +93,7 @@
       "name": "Diwali",
       "writeup": "The festival of lights celebrated across India symbolizing the victory of light over darkness and good over evil.",
       "wiki": {
-        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and K\u0101rtika \u2013 between around mid-October and mid-November. The celebrations generally last five or six days.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Diwali"
       }
@@ -207,5 +207,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AIndia-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 940.26,
+      "gross_debt_pct_gdp": 77.89,
+      "gross_debt_usd_billion": 732.4,
+      "inflation_cpi_pct": 6.74,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1216.74,
+      "gross_debt_pct_gdp": 75.41,
+      "gross_debt_usd_billion": 917.59,
+      "inflation_cpi_pct": 5.92,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1198.89,
+      "gross_debt_pct_gdp": 74.34,
+      "gross_debt_usd_billion": 891.27,
+      "inflation_cpi_pct": 9.21,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1341.89,
+      "gross_debt_pct_gdp": 72.73,
+      "gross_debt_usd_billion": 976.02,
+      "inflation_cpi_pct": 10.61,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1675.62,
+      "gross_debt_pct_gdp": 67.67,
+      "gross_debt_usd_billion": 1133.97,
+      "inflation_cpi_pct": 9.37,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1823.05,
+      "gross_debt_pct_gdp": 68.7,
+      "gross_debt_usd_billion": 1252.42,
+      "inflation_cpi_pct": 8.11,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1827.64,
+      "gross_debt_pct_gdp": 67.97,
+      "gross_debt_usd_billion": 1242.21,
+      "inflation_cpi_pct": 10.05,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1856.72,
+      "gross_debt_pct_gdp": 67.66,
+      "gross_debt_usd_billion": 1256.31,
+      "inflation_cpi_pct": 9.38,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 2039.13,
+      "gross_debt_pct_gdp": 67.11,
+      "gross_debt_usd_billion": 1368.48,
+      "inflation_cpi_pct": 5.83,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 2103.59,
+      "gross_debt_pct_gdp": 69.03,
+      "gross_debt_usd_billion": 1452.02,
+      "inflation_cpi_pct": 4.91,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2294.8,
+      "gross_debt_pct_gdp": 68.9,
+      "gross_debt_usd_billion": 1581.18,
+      "inflation_cpi_pct": 4.53,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2651.47,
+      "gross_debt_pct_gdp": 69.67,
+      "gross_debt_usd_billion": 1847.2,
+      "inflation_cpi_pct": 3.59,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 2702.93,
+      "gross_debt_pct_gdp": 70.37,
+      "gross_debt_usd_billion": 1902.11,
+      "inflation_cpi_pct": 3.41,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 2835.61,
+      "gross_debt_pct_gdp": 75.06,
+      "gross_debt_usd_billion": 2128.49,
+      "inflation_cpi_pct": 4.77,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 2674.85,
+      "gross_debt_pct_gdp": 88.43,
+      "gross_debt_usd_billion": 2365.43,
+      "inflation_cpi_pct": 6.17,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3167.27,
+      "gross_debt_pct_gdp": 83.47,
+      "gross_debt_usd_billion": 2643.82,
+      "inflation_cpi_pct": 5.51,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3346.11,
+      "gross_debt_pct_gdp": 82.17,
+      "gross_debt_usd_billion": 2749.36,
+      "inflation_cpi_pct": 6.65,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 3638.49,
+      "gross_debt_pct_gdp": 80.72,
+      "gross_debt_usd_billion": 2937.1,
+      "inflation_cpi_pct": 5.36,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 3909.89,
+      "gross_debt_pct_gdp": 81.64,
+      "gross_debt_usd_billion": 3192.19,
+      "inflation_cpi_pct": 4.63,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 4125.21,
+      "gross_debt_pct_gdp": 81.36,
+      "gross_debt_usd_billion": 3356.31,
+      "inflation_cpi_pct": 2.82,
+      "status": "IMF projection"
+    }
+  ]
 }

@@ -12,7 +12,7 @@
       "name": "Kuwait Towers",
       "writeup": "Iconic water towers and a symbol of modern Kuwait, featuring observation decks with panoramic views.",
       "wiki": {
-        "extract": "Kuwait, officially the State of Kuwait, is a country in West Asia. With a coastline of approximately 500 km (311 mi), it is situated at the head of the Persian Gulf in the northeastern edge of the Arabian Peninsula, bordering Iraq to the north and Saudi Arabia to the south. Kuwait is geographically the closest Gulf country to mainland Iran. The country is a small city-state; most of the population reside in the urban agglomeration of Kuwait City, the capital and largest city. As of 2024, Kuwait has a population of 4.82 million, of which 1.53 million are Kuwaiti citizens while the remaining 3.29 million are foreign nationals from over 100 countries. In 2024, Kuwait had the world's seventh largest number of foreign nationals as a percentage of the population, where its citizens make up fewer than 30% of the overall population.",
+        "extract": "Kuwait, officially the State of Kuwait, is a country in West Asia. With a coastline of approximately 500\u00a0km (311\u00a0mi), it is situated at the head of the Persian Gulf in the northeastern edge of the Arabian Peninsula, bordering Iraq to the north and Saudi Arabia to the south. Kuwait is geographically the closest Gulf country to mainland Iran. The country is a small city-state; most of the population reside in the urban agglomeration of Kuwait City, the capital and largest city. As of 2024, Kuwait has a population of 4.82 million, of which 1.53 million are Kuwaiti citizens while the remaining 3.29 million are foreign nationals from over 100 countries. In 2024, Kuwait had the world's seventh largest number of foreign nationals as a percentage of the population, where its citizens make up fewer than 30% of the overall population.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
         "url": "https://en.wikipedia.org/wiki/Kuwait",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Grand Mosque",
       "writeup": "The largest mosque in Kuwait, known for its impressive Islamic architecture and cultural significance.",
       "wiki": {
-        "extract": "The Grand Mosque, located in Kuwait City, is the largest mosque in Kuwait. Its area spans 45,000 square metres (480,000 sq ft), out of which the building itself covers 20,000 square metres (220,000 sq ft). The main prayer hall is 72 metres (236 ft) wide on all sides, and has teakwood doors. Natural lighting is provided by 144 windows.",
+        "extract": "The Grand Mosque, located in Kuwait City, is the largest mosque in Kuwait. Its area spans 45,000 square metres (480,000\u00a0sq\u00a0ft), out of which the building itself covers 20,000 square metres (220,000\u00a0sq\u00a0ft). The main prayer hall is 72 metres (236\u00a0ft) wide on all sides, and has teakwood doors. Natural lighting is provided by 144 windows.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kuwait_City_Grand_Mosque_Exterior_South_Facade_5.jpg/3840px-Kuwait_City_Grand_Mosque_Exterior_South_Facade_5.jpg",
         "url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Kuwait",
         "coordinates": {
@@ -125,5 +125,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AKuwait-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 101.55,
+      "gross_debt_pct_gdp": 7.8,
+      "gross_debt_usd_billion": 7.92,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 114.61,
+      "gross_debt_pct_gdp": 7,
+      "gross_debt_usd_billion": 8.02,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 147.39,
+      "gross_debt_pct_gdp": 5.4,
+      "gross_debt_usd_billion": 7.96,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 105.99,
+      "gross_debt_pct_gdp": 6.7,
+      "gross_debt_usd_billion": 7.1,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 115.4,
+      "gross_debt_pct_gdp": 6.2,
+      "gross_debt_usd_billion": 7.15,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 154.02,
+      "gross_debt_pct_gdp": 4.6,
+      "gross_debt_usd_billion": 7.08,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 174.07,
+      "gross_debt_pct_gdp": 3.6,
+      "gross_debt_usd_billion": 6.27,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 174.18,
+      "gross_debt_pct_gdp": 3.1,
+      "gross_debt_usd_billion": 5.4,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 162.69,
+      "gross_debt_pct_gdp": 3.4,
+      "gross_debt_usd_billion": 5.53,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 114.61,
+      "gross_debt_pct_gdp": 4.6,
+      "gross_debt_usd_billion": 5.27,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 109.4,
+      "gross_debt_pct_gdp": 9.9,
+      "gross_debt_usd_billion": 10.83,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 120.69,
+      "gross_debt_pct_gdp": 19.6,
+      "gross_debt_usd_billion": 23.65,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 138.66,
+      "gross_debt_pct_gdp": 14.3,
+      "gross_debt_usd_billion": 19.83,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 140.85,
+      "gross_debt_pct_gdp": 10.5,
+      "gross_debt_usd_billion": 14.79,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 111.05,
+      "gross_debt_pct_gdp": 10.2,
+      "gross_debt_usd_billion": 11.33,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 148.35,
+      "gross_debt_pct_gdp": 7.2,
+      "gross_debt_usd_billion": 10.68,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 183.54,
+      "gross_debt_pct_gdp": 3,
+      "gross_debt_usd_billion": 5.51,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 165.47,
+      "gross_debt_pct_gdp": 3.1,
+      "gross_debt_usd_billion": 5.13,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 160.9,
+      "gross_debt_pct_gdp": 2.9,
+      "gross_debt_usd_billion": 4.67,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 157.84,
+      "gross_debt_pct_gdp": 14.6,
+      "gross_debt_usd_billion": 23.04,
+      "inflation_cpi_pct": 2.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

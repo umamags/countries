@@ -13,7 +13,7 @@
       "name": "St. Peter's Basilica",
       "writeup": "A Renaissance-era church and one of the largest in the world, it is a major pilgrimage site and the papal enclave's centerpiece.",
       "wiki": {
-        "extract": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+        "extract": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius\u00a0II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18\u00a0April 1506 and was completed on 18\u00a0November 1626.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
         "url": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
         "coordinates": {
@@ -68,7 +68,7 @@
       "name": "Easter Mass",
       "writeup": "A significant religious event led by the Pope, attracting pilgrims worldwide.",
       "wiki": {
-        "extract": "Easter, also called Pasch or Pascha or Resurrection Sunday, is a Christian festival and cultural holiday commemorating the resurrection of Jesus from the dead, described in the Bible's New Testament as having occurred on the third day of his burial following his crucifixion by the Romans at Calvary c. 30 AD. It is the culmination of the Passion of Jesus, preceded by Lent, a 40-day period of fasting, prayer, and penance.",
+        "extract": "Easter, also called Pasch or Pascha or Resurrection Sunday, is a Christian festival and cultural holiday commemorating the resurrection of Jesus from the dead, described in the Bible's New Testament as having occurred on the third day of his burial following his crucifixion by the Romans at Calvary c.\u200930 AD. It is the culmination of the Passion of Jesus, preceded by Lent, a 40-day period of fasting, prayer, and penance.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chora_Anastasis2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Easter"
       }
@@ -133,5 +133,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Vatican_City.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

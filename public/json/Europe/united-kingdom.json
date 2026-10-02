@@ -32,7 +32,7 @@
       "name": "Tower of London",
       "writeup": "Historic castle on the north bank of the River Thames, known for its role in British history and housing the Crown Jewels.",
       "wiki": {
-        "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.1 million people in 2024. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
+        "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.1 million people in 2024. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4\u00a0million. London stands on the River Thames in southeast England, at the head of a 50-mile (80\u00a0km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000\u00a0years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
         "url": "https://en.wikipedia.org/wiki/London",
         "coordinates": {
@@ -185,5 +185,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_United_Kingdom.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 2723.39,
+      "gross_debt_pct_gdp": 41.9,
+      "gross_debt_usd_billion": 1141.1,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 3105.89,
+      "gross_debt_pct_gdp": 43,
+      "gross_debt_usd_billion": 1335.53,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 2976.4,
+      "gross_debt_pct_gdp": 50.6,
+      "gross_debt_usd_billion": 1506.06,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 2438.05,
+      "gross_debt_pct_gdp": 64.5,
+      "gross_debt_usd_billion": 1572.54,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 2499.19,
+      "gross_debt_pct_gdp": 75.5,
+      "gross_debt_usd_billion": 1886.89,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 2676.51,
+      "gross_debt_pct_gdp": 81.1,
+      "gross_debt_usd_billion": 2170.65,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 2720.2,
+      "gross_debt_pct_gdp": 84.1,
+      "gross_debt_usd_billion": 2287.69,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 2798.73,
+      "gross_debt_pct_gdp": 84.9,
+      "gross_debt_usd_billion": 2376.12,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 3086.97,
+      "gross_debt_pct_gdp": 86.5,
+      "gross_debt_usd_billion": 2670.23,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 2946.23,
+      "gross_debt_pct_gdp": 87.3,
+      "gross_debt_usd_billion": 2572.06,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2716.85,
+      "gross_debt_pct_gdp": 87.3,
+      "gross_debt_usd_billion": 2371.81,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2701.37,
+      "gross_debt_pct_gdp": 86.1,
+      "gross_debt_usd_billion": 2325.88,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 2900.74,
+      "gross_debt_pct_gdp": 85.6,
+      "gross_debt_usd_billion": 2483.04,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 2877.39,
+      "gross_debt_pct_gdp": 84.9,
+      "gross_debt_usd_billion": 2442.91,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 2725.95,
+      "gross_debt_pct_gdp": 104.8,
+      "gross_debt_usd_billion": 2856.79,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3195.33,
+      "gross_debt_pct_gdp": 103.4,
+      "gross_debt_usd_billion": 3303.97,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3192.85,
+      "gross_debt_pct_gdp": 97.5,
+      "gross_debt_usd_billion": 3113.03,
+      "inflation_cpi_pct": 9.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 3422.07,
+      "gross_debt_pct_gdp": 98.9,
+      "gross_debt_usd_billion": 3384.43,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 3695.36,
+      "gross_debt_pct_gdp": 99.9,
+      "gross_debt_usd_billion": 3691.66,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 4003.02,
+      "gross_debt_pct_gdp": 102.3,
+      "gross_debt_usd_billion": 4095.09,
+      "inflation_cpi_pct": 3.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

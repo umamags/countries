@@ -13,7 +13,7 @@
       "name": "Issyk-Kul Lake",
       "writeup": "A large saline lake in the northern Tian Shan mountains, known for its stunning alpine scenery and being one of the largest high-altitude lakes in the world.",
       "wiki": {
-        "extract": "Issyk-Kul or Ysyk-Köl is an endorheic saline lake in the western Tian Shan mountains in eastern Kyrgyzstan—just south of a dividing range separating Kyrgyzstan from Kazakhstan. It is the eighth-deepest lake in the world, the eleventh-largest lake in the world by volume, and the second-largest saline lake. It is located at an elevation of 1,607 metres (5,272 ft). Despite the elevation and low temperatures during winter, it rarely freezes due to its high salinity.",
+        "extract": "Issyk-Kul or Ysyk-K\u00f6l is an endorheic saline lake in the western Tian Shan mountains in eastern Kyrgyzstan\u2014just south of a dividing range separating Kyrgyzstan from Kazakhstan. It is the eighth-deepest lake in the world, the eleventh-largest lake in the world by volume, and the second-largest saline lake. It is located at an elevation of 1,607 metres (5,272\u00a0ft). Despite the elevation and low temperatures during winter, it rarely freezes due to its high salinity.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Issykkul_plyag.jpg",
         "url": "https://en.wikipedia.org/wiki/Issyk-Kul",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Ala Archa National Park",
       "writeup": "A mountainous national park near Bishkek, popular for hiking, climbing, and showcasing diverse flora and fauna.",
       "wiki": {
-        "extract": "The Ala-Archa Nature Park is an alpine national park in the Tian Shan mountains of Kyrgyzstan, located approximately 35 km south of the capital city of Bishkek. Established in 1976, it currently covers 16,485 hectares.",
+        "extract": "The Ala-Archa Nature Park is an alpine national park in the Tian Shan mountains of Kyrgyzstan, located approximately 35\u00a0km south of the capital city of Bishkek. Established in 1976, it currently covers 16,485 hectares.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ala_archa.JPG",
         "url": "https://en.wikipedia.org/wiki/Ala-Archa_Nature_Park",
         "coordinates": {
@@ -39,7 +39,7 @@
       "name": "Burana Tower",
       "writeup": "An ancient minaret from the 11th century located near Tokmok, part of the ruins of the medieval town of Balasagun.",
       "wiki": {
-        "extract": "The Burana Tower is a large minaret in the Chüy Valley in northern Kyrgyzstan. It is located about 80 km east of the country's capital Bishkek, near the town of Tokmok. The tower, along with grave markers, some earthworks and the remnants of a castle and three mausoleums, is all that remains of the ancient city of Balasagun, which was established by the Karakhanids at the end of the 9th century. The tower was built in the 11th century and was used as a template for other minarets. An external staircase and steep, winding stairway inside the tower enables visitors to climb to the top. It is one of the oldest architectural constructions in Central Asia.",
+        "extract": "The Burana Tower is a large minaret in the Ch\u00fcy Valley in northern Kyrgyzstan. It is located about 80\u00a0km east of the country's capital Bishkek, near the town of Tokmok. The tower, along with grave markers, some earthworks and the remnants of a castle and three mausoleums, is all that remains of the ancient city of Balasagun, which was established by the Karakhanids at the end of the 9th century. The tower was built in the 11th century and was used as a template for other minarets. An external staircase and steep, winding stairway inside the tower enables visitors to climb to the top. It is one of the oldest architectural constructions in Central Asia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Burana_Tower%2C_Kyrgyzstan.jpg",
         "url": "https://en.wikipedia.org/wiki/Burana_Tower",
         "coordinates": {
@@ -113,5 +113,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AKyrgyzstan_Transportation.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 2.84,
+      "gross_debt_pct_gdp": 73.4,
+      "gross_debt_usd_billion": 2.08,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 3.81,
+      "gross_debt_pct_gdp": 57.7,
+      "gross_debt_usd_billion": 2.2,
+      "inflation_cpi_pct": 10.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 5.14,
+      "gross_debt_pct_gdp": 49,
+      "gross_debt_usd_billion": 2.52,
+      "inflation_cpi_pct": 24.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 4.69,
+      "gross_debt_pct_gdp": 58.5,
+      "gross_debt_usd_billion": 2.74,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 4.79,
+      "gross_debt_pct_gdp": 59.7,
+      "gross_debt_usd_billion": 2.86,
+      "inflation_cpi_pct": 8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 6.2,
+      "gross_debt_pct_gdp": 50.1,
+      "gross_debt_usd_billion": 3.11,
+      "inflation_cpi_pct": 16.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 6.6,
+      "gross_debt_pct_gdp": 50.5,
+      "gross_debt_usd_billion": 3.34,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 7.33,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 3.45,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 7.47,
+      "gross_debt_pct_gdp": 53.6,
+      "gross_debt_usd_billion": 4.0,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 6.68,
+      "gross_debt_pct_gdp": 67.1,
+      "gross_debt_usd_billion": 4.48,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 6.81,
+      "gross_debt_pct_gdp": 59.1,
+      "gross_debt_usd_billion": 4.03,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 7.7,
+      "gross_debt_pct_gdp": 58.8,
+      "gross_debt_usd_billion": 4.53,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 8.27,
+      "gross_debt_pct_gdp": 54.8,
+      "gross_debt_usd_billion": 4.53,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 9.37,
+      "gross_debt_pct_gdp": 48.8,
+      "gross_debt_usd_billion": 4.57,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 8.28,
+      "gross_debt_pct_gdp": 63.6,
+      "gross_debt_usd_billion": 5.27,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 9.26,
+      "gross_debt_pct_gdp": 56.2,
+      "gross_debt_usd_billion": 5.2,
+      "inflation_cpi_pct": 11.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 12.27,
+      "gross_debt_pct_gdp": 46.8,
+      "gross_debt_usd_billion": 5.74,
+      "inflation_cpi_pct": 13.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 15.19,
+      "gross_debt_pct_gdp": 42,
+      "gross_debt_usd_billion": 6.38,
+      "inflation_cpi_pct": 10.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 18.18,
+      "gross_debt_pct_gdp": 36.2,
+      "gross_debt_usd_billion": 6.58,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 21.57,
+      "gross_debt_pct_gdp": 36,
+      "gross_debt_usd_billion": 7.76,
+      "inflation_cpi_pct": 8.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

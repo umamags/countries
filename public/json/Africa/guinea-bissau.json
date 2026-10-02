@@ -14,9 +14,9 @@
   "landmarks": [
     {
       "name": "Orango Islands National Park",
-      "writeup": "A protected area known for its diverse wildlife, including saltwater hippos and rich birdlife, located in the Bijagós Archipelago.",
+      "writeup": "A protected area known for its diverse wildlife, including saltwater hippos and rich birdlife, located in the Bijag\u00f3s Archipelago.",
       "wiki": {
-        "extract": "Orango is one of the Bijagós Islands, located 60 kilometres off the coast of mainland Guinea-Bissau. At 272.5 km2, it is the largest island in the archipelago. The island has a population of 1,250 ; the largest village is Eticoga. With the neighbouring islands Imbone, Canongo, Meneque and Orangozinho, it forms the Orango National Park. It belongs to the Uno Sector.",
+        "extract": "Orango is one of the Bijag\u00f3s Islands, located 60 kilometres off the coast of mainland Guinea-Bissau. At 272.5\u00a0km2, it is the largest island in the archipelago. The island has a population of 1,250 ; the largest village is Eticoga. With the neighbouring islands Imbone, Canongo, Meneque and Orangozinho, it forms the Orango National Park. It belongs to the Uno Sector.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Map_of_the_sectors_of_the_Bolama_Region%2C_Guinea-Bissau.png",
         "url": "https://en.wikipedia.org/wiki/Orango",
         "coordinates": {
@@ -29,7 +29,7 @@
       "name": "Bissau Velho",
       "writeup": "The historic old town of the capital city Bissau, featuring colonial Portuguese architecture and cultural heritage sites.",
       "wiki": {
-        "extract": "José Luís Mendes Lopes, known as Zezinho, is a Bissau-Guinean professional footballer who plays as a midfielder for Cypriot club Omonia Aradippou and the Guinea-Bissau national team.",
+        "extract": "Jos\u00e9 Lu\u00eds Mendes Lopes, known as Zezinho, is a Bissau-Guinean professional footballer who plays as a midfielder for Cypriot club Omonia Aradippou and the Guinea-Bissau national team.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Zezinho_(Bissau-Guinean_footballer)",
         "coordinates": null
@@ -49,13 +49,13 @@
       }
     }
   ],
-  "head_of_state": "President Umaro Sissoco Embaló",
+  "head_of_state": "President Umaro Sissoco Embal\u00f3",
   "cultural_events": [
     {
       "name": "Carnival of Bissau",
       "writeup": "An annual event featuring vibrant parades, music, and dance celebrating local culture and traditions.",
       "wiki": {
-        "extract": "Bissau-Guinean cuisine is the traditional cuisine of Guinea-Bissau, a West African country located on the Atlantic Ocean. It reflects the country’s diverse ethnic groups, while millet and other grains are more common in inland areas. Seafood, including fish, shrimp, and shellfish, plays an important role in the diet, alongside locally grown crops such as cassava, sweet potatoes, yams, peanuts, beans, and tropical fruits.",
+        "extract": "Bissau-Guinean cuisine is the traditional cuisine of Guinea-Bissau, a West African country located on the Atlantic Ocean. It reflects the country\u2019s diverse ethnic groups, while millet and other grains are more common in inland areas. Seafood, including fish, shrimp, and shellfish, plays an important role in the diet, alongside locally grown crops such as cassava, sweet potatoes, yams, peanuts, beans, and tropical fruits.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Guinea_Bissau_AU_Africa.svg/1920px-Location_Guinea_Bissau_AU_Africa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Bissau-Guinean_cuisine"
       }
@@ -71,15 +71,15 @@
   "brief_history": "Guinea-Bissau was a Portuguese colony until it declared independence in 1973, recognized in 1974 after a protracted liberation war. The country has experienced political instability and military coups since independence.",
   "important_people": [
     {
-      "name": "Amílcar Cabral",
+      "name": "Am\u00edlcar Cabral",
       "description": "Leader of the independence movement"
     },
     {
-      "name": "Kumba Ialá",
+      "name": "Kumba Ial\u00e1",
       "description": "Former president"
     },
     {
-      "name": "Umaro Sissoco Embaló",
+      "name": "Umaro Sissoco Embal\u00f3",
       "description": "Current president"
     }
   ],
@@ -90,7 +90,7 @@
       "video_id": "gFEpaDilLkI"
     },
     {
-      "title": "Exploring the Bijagós Archipelago in Guinea-Bissau",
+      "title": "Exploring the Bijag\u00f3s Archipelago in Guinea-Bissau",
       "video_id": "CX4n8wj72Is"
     },
     "A Day in Bissau, Guinea-Bissau's Capital City",
@@ -110,5 +110,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AGuinea-Bissau_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.64,
+      "gross_debt_pct_gdp": 190.4,
+      "gross_debt_usd_billion": 1.21,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.75,
+      "gross_debt_pct_gdp": 164,
+      "gross_debt_usd_billion": 1.23,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.95,
+      "gross_debt_pct_gdp": 148.8,
+      "gross_debt_usd_billion": 1.42,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.89,
+      "gross_debt_pct_gdp": 148.3,
+      "gross_debt_usd_billion": 1.32,
+      "inflation_cpi_pct": -1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.94,
+      "gross_debt_pct_gdp": 61.7,
+      "gross_debt_usd_billion": 0.58,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.16,
+      "gross_debt_pct_gdp": 45.6,
+      "gross_debt_usd_billion": 0.53,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.05,
+      "gross_debt_pct_gdp": 47.4,
+      "gross_debt_usd_billion": 0.5,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1.11,
+      "gross_debt_pct_gdp": 49.6,
+      "gross_debt_usd_billion": 0.55,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1.14,
+      "gross_debt_pct_gdp": 60.1,
+      "gross_debt_usd_billion": 0.68,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1.15,
+      "gross_debt_pct_gdp": 56.3,
+      "gross_debt_usd_billion": 0.65,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1.25,
+      "gross_debt_pct_gdp": 59.1,
+      "gross_debt_usd_billion": 0.74,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1.47,
+      "gross_debt_pct_gdp": 51.8,
+      "gross_debt_usd_billion": 0.76,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1.55,
+      "gross_debt_pct_gdp": 59.1,
+      "gross_debt_usd_billion": 0.92,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1.49,
+      "gross_debt_pct_gdp": 65.1,
+      "gross_debt_usd_billion": 0.97,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1.52,
+      "gross_debt_pct_gdp": 77.6,
+      "gross_debt_usd_billion": 1.18,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1.72,
+      "gross_debt_pct_gdp": 78.8,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1.72,
+      "gross_debt_pct_gdp": 80.7,
+      "gross_debt_usd_billion": 1.39,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2.0,
+      "gross_debt_pct_gdp": 79.4,
+      "gross_debt_usd_billion": 1.59,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 2.19,
+      "gross_debt_pct_gdp": 82.4,
+      "gross_debt_usd_billion": 1.8,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2.65,
+      "gross_debt_pct_gdp": 75.3,
+      "gross_debt_usd_billion": 1.99,
+      "inflation_cpi_pct": 0.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

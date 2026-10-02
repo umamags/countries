@@ -12,7 +12,7 @@
       "name": "Christ the Redeemer",
       "writeup": "An iconic statue of Jesus Christ in Rio de Janeiro, symbolizing peace and welcoming visitors.",
       "wiki": {
-        "extract": "Christ the Redeemer is an Art Deco statue of Jesus in Rio de Janeiro, Brazil, created by French-Polish sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot and Romanian sculptor Gheorghe Leonida who sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal, and faces east. The arms stretch 28 metres (92 ft) wide. It is made of reinforced concrete and soapstone. Christ the Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organizers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.",
+        "extract": "Christ the Redeemer is an Art Deco statue of Jesus in Rio de Janeiro, Brazil, created by French-Polish sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot and Romanian sculptor Gheorghe Leonida who sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres (98\u00a0ft) high, excluding its 8-metre (26\u00a0ft) pedestal, and faces east. The arms stretch 28 metres (92\u00a0ft) wide. It is made of reinforced concrete and soapstone. Christ the Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organizers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
         "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
         "coordinates": {
@@ -25,17 +25,17 @@
       "name": "Amazon Rainforest",
       "writeup": "The largest tropical rainforest in the world, crucial for biodiversity and climate regulation.",
       "wiki": {
-        "extract": "The Amazon rainforest, also called the Amazon jungle, Amazonia, or simply the Amazon, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest. This region includes territory belonging to nine nations and 3,344 indigenous territories.",
+        "extract": "The Amazon rainforest, also called the Amazon jungle, Amazonia, or simply the Amazon, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7\u00a0million\u00a0km2 (2.7\u00a0million\u00a0sq\u00a0mi), of which 6\u00a0million\u00a0km2 (2.3\u00a0million\u00a0sq\u00a0mi) are covered by the rainforest. This region includes territory belonging to nine nations and 3,344 indigenous territories.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/3840px-Amazon17_%285641020319%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Amazon_rainforest",
         "coordinates": null
       }
     },
     {
-      "name": "Iguaçu Falls",
+      "name": "Igua\u00e7u Falls",
       "writeup": "A massive waterfall system on the border with Argentina, known for its stunning natural beauty.",
       "wiki": {
-        "extract": "Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
+        "extract": "Iguaz\u00fa Falls or Igua\u00e7u Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paran\u00e1. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the heart of the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the border between Argentina and Brazil.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
         "url": "https://en.wikipedia.org/wiki/Iguazu_Falls",
         "coordinates": {
@@ -48,7 +48,7 @@
       "name": "Copacabana Beach",
       "writeup": "Famous urban beach in Rio de Janeiro, popular for tourism and cultural events.",
       "wiki": {
-        "extract": "Copacabana is a Brazilian bairro (neighbourhood) located in the South Zone of the city of Rio de Janeiro, Brazil. It is most prominently known for its 4 km (2.5 mile) balneario beach, which is one of the most famous in the world.",
+        "extract": "Copacabana is a Brazilian bairro (neighbourhood) located in the South Zone of the city of Rio de Janeiro, Brazil. It is most prominently known for its 4\u00a0km (2.5\u00a0mile) balneario beach, which is one of the most famous in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Praia_de_Copacabana_-_Rio_de_Janeiro%2C_Brasil.jpg",
         "url": "https://en.wikipedia.org/wiki/Copacabana%2C_Rio_de_Janeiro",
         "coordinates": {
@@ -58,10 +58,10 @@
       }
     },
     {
-      "name": "Brasília",
+      "name": "Bras\u00edlia",
       "writeup": "The modernist capital city designed by Oscar Niemeyer, known for its unique architecture.",
       "wiki": {
-        "extract": "Brasília is the capital city of Brazil and the Federal District. Located in the Brazilian Highlands in the country's Central-West region, it was founded by President Juscelino Kubitschek on 21 April 1960, to replace Rio de Janeiro as the national capital. Brasília is Brazil's third-most populous city after São Paulo and Rio de Janeiro, with a population of 2.8 million. Among major Latin American cities, it has the highest GDP per capita.",
+        "extract": "Bras\u00edlia is the capital city of Brazil and the Federal District. Located in the Brazilian Highlands in the country's Central-West region, it was founded by President Juscelino Kubitschek on 21 April 1960, to replace Rio de Janeiro as the national capital. Bras\u00edlia is Brazil's third-most populous city after S\u00e3o Paulo and Rio de Janeiro, with a population of 2.8 million. Among major Latin American cities, it has the highest GDP per capita.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Planalto_Central_%28cropped%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
         "coordinates": {
@@ -71,7 +71,7 @@
       }
     }
   ],
-  "head_of_state": "President Luiz Inácio Lula da Silva",
+  "head_of_state": "President Luiz In\u00e1cio Lula da Silva",
   "cultural_events": [
     {
       "name": "Carnival",
@@ -86,7 +86,7 @@
       "name": "Festa Junina",
       "writeup": "Traditional June festivals celebrating rural life with folk music, dance, and typical foods.",
       "wiki": {
-        "extract": "Festas Juninas, also known as festas de São João for their part in celebrating the nativity of St. John the Baptist, are annual Brazilian midwinter celebrations. They were introduced by the Portuguese during the colonial period (1500–1822), and are celebrated nationwide in June. The festivals are mainly celebrated on the eves of the Catholic solemnities of Saint Anthony, Saint John the Baptist, and Saint Peter.",
+        "extract": "Festas Juninas, also known as festas de S\u00e3o Jo\u00e3o for their part in celebrating the nativity of St. John the Baptist, are annual Brazilian midwinter celebrations. They were introduced by the Portuguese during the colonial period (1500\u20131822), and are celebrated nationwide in June. The festivals are mainly celebrated on the eves of the Catholic solemnities of Saint Anthony, Saint John the Baptist, and Saint Peter.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Festa_de_S%C3%A3o_Jo%C3%A3o_em_Bar%C3%A3o_Geraldo_2.jpg/3840px-Festa_de_S%C3%A3o_Jo%C3%A3o_em_Bar%C3%A3o_Geraldo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Festa_Junina"
       }
@@ -95,17 +95,17 @@
       "name": "Parintins Folklore Festival",
       "writeup": "An annual festival in Amazonas showcasing local folklore through music, dance, and theatrical performances.",
       "wiki": {
-        "extract": "Parintins Folklore Festival, also known as the Parintins Festival, is an annual Brazilian folk festival held in Parintins, Amazonas in Brazil. Usually staged over three nights during the last weekend of June, it centres on competitive performances by the boi-bumbá associations Boi Garantido and Boi Caprichoso.",
+        "extract": "Parintins Folklore Festival, also known as the Parintins Festival, is an annual Brazilian folk festival held in Parintins, Amazonas in Brazil. Usually staged over three nights during the last weekend of June, it centres on competitive performances by the boi-bumb\u00e1 associations Boi Garantido and Boi Caprichoso.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Parintinsoficial_20260821_130939874.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Parintins_Folklore_Festival"
       }
     }
   ],
-  "food_writeup": "Brazilian cuisine is diverse, featuring dishes like feijoada (black bean stew with pork), pão de queijo (cheese bread), and a variety of tropical fruits. Regional influences include indigenous, African, and Portuguese flavors.",
+  "food_writeup": "Brazilian cuisine is diverse, featuring dishes like feijoada (black bean stew with pork), p\u00e3o de queijo (cheese bread), and a variety of tropical fruits. Regional influences include indigenous, African, and Portuguese flavors.",
   "brief_history": "Brazil was colonized by Portugal in 1500, gaining independence in 1822. It transitioned from an empire to a republic in 1889 and has since developed into the largest economy in South America with a diverse cultural heritage.",
   "important_people": [
     {
-      "name": "Pelé",
+      "name": "Pel\u00e9",
       "description": "Legendary footballer"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "name": "Juscelino Kubitschek",
-      "description": "Former president and founder of Brasília"
+      "description": "Former president and founder of Bras\u00edlia"
     },
     {
       "name": "Carmen Miranda",
@@ -141,13 +141,13 @@
   },
   "cities": [
     {
-      "name": "Brasília",
+      "name": "Bras\u00edlia",
       "capital": true,
       "lat": -15.781394,
       "lon": -47.917998
     },
     {
-      "name": "São Paulo",
+      "name": "S\u00e3o Paulo",
       "capital": false,
       "lat": -23.556734,
       "lon": -46.626966
@@ -169,6 +169,168 @@
       "capital": false,
       "lat": -30.048069,
       "lon": -51.201958
+    }
+  ],
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1107.63,
+      "gross_debt_pct_gdp": 64.6,
+      "gross_debt_usd_billion": 715.53,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1397.11,
+      "gross_debt_pct_gdp": 63,
+      "gross_debt_usd_billion": 880.18,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1695.86,
+      "gross_debt_pct_gdp": 61.4,
+      "gross_debt_usd_billion": 1041.25,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1669.2,
+      "gross_debt_pct_gdp": 64.7,
+      "gross_debt_usd_billion": 1079.97,
+      "inflation_cpi_pct": 4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 2208.7,
+      "gross_debt_pct_gdp": 62.4,
+      "gross_debt_usd_billion": 1378.23,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 2614.03,
+      "gross_debt_pct_gdp": 60.6,
+      "gross_debt_usd_billion": 1584.1,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 2464.05,
+      "gross_debt_pct_gdp": 61.6,
+      "gross_debt_usd_billion": 1517.86,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 2471.72,
+      "gross_debt_pct_gdp": 59.6,
+      "gross_debt_usd_billion": 1473.14,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 2456.05,
+      "gross_debt_pct_gdp": 61.6,
+      "gross_debt_usd_billion": 1512.93,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1800.05,
+      "gross_debt_pct_gdp": 71.7,
+      "gross_debt_usd_billion": 1290.63,
+      "inflation_cpi_pct": 9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1796.62,
+      "gross_debt_pct_gdp": 77.4,
+      "gross_debt_usd_billion": 1390.59,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2063.52,
+      "gross_debt_pct_gdp": 82.7,
+      "gross_debt_usd_billion": 1706.53,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1916.93,
+      "gross_debt_pct_gdp": 84.8,
+      "gross_debt_usd_billion": 1625.56,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1873.29,
+      "gross_debt_pct_gdp": 87.1,
+      "gross_debt_usd_billion": 1631.63,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1476.09,
+      "gross_debt_pct_gdp": 96,
+      "gross_debt_usd_billion": 1417.05,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1670.65,
+      "gross_debt_pct_gdp": 88.9,
+      "gross_debt_usd_billion": 1485.21,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1951.85,
+      "gross_debt_pct_gdp": 83.9,
+      "gross_debt_usd_billion": 1637.6,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2191.14,
+      "gross_debt_pct_gdp": 84,
+      "gross_debt_usd_billion": 1840.56,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 2185.82,
+      "gross_debt_pct_gdp": 87,
+      "gross_debt_usd_billion": 1901.67,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2279.92,
+      "gross_debt_pct_gdp": 93.3,
+      "gross_debt_usd_billion": 2127.16,
+      "inflation_cpi_pct": 5,
+      "status": "IMF estimate / projection"
     }
   ]
 }

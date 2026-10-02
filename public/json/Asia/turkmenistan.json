@@ -27,7 +27,7 @@
       "name": "Ruhyyet Palace",
       "writeup": "A grand government building in Ashgabat used for official ceremonies and events.",
       "wiki": {
-        "extract": "Ruhyýet Palace, also known as the Palace of Congresses and Arts, is the seat of government in Ashgabat, the capital of Turkmenistan. The palace serves as a venue for official state events, international forums, meetings, and presidential inaugurations.",
+        "extract": "Ruhy\u00fdet Palace, also known as the Palace of Congresses and Arts, is the seat of government in Ashgabat, the capital of Turkmenistan. The palace serves as a venue for official state events, international forums, meetings, and presidential inaugurations.",
         "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Independence_Day_Parade_-_Flickr_-_Kerri-Jo_%28160%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Ruhy%C3%BDet_Palace",
         "coordinates": {
@@ -40,7 +40,7 @@
       "name": "Nisa",
       "writeup": "Ancient Parthian city ruins near Ashgabat, a UNESCO World Heritage site.",
       "wiki": {
-        "extract": "Nisa was an ancient settlement of the Parthians, located near the Bagyr neighborhood of Ashgabat, Turkmenistan, 18 km west of the city center. Nisa is described by some as the first seat of the Arsacid Empire. It is traditionally assumed to have been founded by Arsaces I and was reputedly the royal residence of the Parthian kings, although it has not been established that the fortress at Nisa was either a royal residence or a mausoleum.",
+        "extract": "Nisa was an ancient settlement of the Parthians, located near the Bagyr neighborhood of Ashgabat, Turkmenistan, 18\u00a0km west of the city center. Nisa is described by some as the first seat of the Arsacid Empire. It is traditionally assumed to have been founded by Arsaces I and was reputedly the royal residence of the Parthian kings, although it has not been established that the fortress at Nisa was either a royal residence or a mausoleum.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nisa-Entrance-2015.JPG/3840px-Nisa-Entrance-2015.JPG",
         "url": "https://en.wikipedia.org/wiki/Nisa%2C_Turkmenistan",
         "coordinates": {
@@ -53,7 +53,7 @@
       "name": "Kunya-Urgench",
       "writeup": "Historic town with medieval monuments, including mausoleums and a minaret.",
       "wiki": {
-        "extract": "Konye-Urgench, also known as Köneürgenç, Old Urgench or Urganj, is a city in north Turkmenistan, just south from its border with Uzbekistan. In 2022, it had a total population of 37,176 people.",
+        "extract": "Konye-Urgench, also known as K\u00f6ne\u00fcrgen\u00e7, Old Urgench or Urganj, is a city in north Turkmenistan, just south from its border with Uzbekistan. In 2022, it had a total population of 37,176 people.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Urgench.jpg",
         "url": "https://en.wikipedia.org/wiki/Konye-Urgench",
         "coordinates": {
@@ -66,7 +66,7 @@
       "name": "Ashgabat",
       "writeup": "The capital city known for its white marble buildings and modern architecture.",
       "wiki": {
-        "extract": "Ashgabat is the capital and largest city of Turkmenistan. It lies between the Karakum Desert and the Köpetdag mountain range in Central Asia, approximately 50 km (30 mi) away from the Iran-Turkmenistan border. The city has a population of 1,030,063.",
+        "extract": "Ashgabat is the capital and largest city of Turkmenistan. It lies between the Karakum Desert and the K\u00f6petdag mountain range in Central Asia, approximately 50\u00a0km (30\u00a0mi) away from the Iran-Turkmenistan border. The city has a population of 1,030,063.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Ashgabat_%2842376779291%29.jpg/3840px-View_of_Ashgabat_%2842376779291%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Ashgabat",
         "coordinates": {
@@ -118,7 +118,7 @@
       "description": "Current President"
     },
     {
-      "name": "Mämmetmyrat Nyýazow",
+      "name": "M\u00e4mmetmyrat Ny\u00fdazow",
       "description": "Noted Turkmen poet"
     },
     {
@@ -148,7 +148,7 @@
       "lon": 58.383299
     },
     {
-      "name": "Türkmenabat",
+      "name": "T\u00fcrkmenabat",
       "capital": false,
       "lat": 39.110002,
       "lon": 63.580036
@@ -160,7 +160,7 @@
       "lon": 61.833321
     },
     {
-      "name": "Türkmenbaşy",
+      "name": "T\u00fcrkmenba\u015fy",
       "capital": false,
       "lat": 40.023047,
       "lon": 52.969676
@@ -171,5 +171,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ATurkmenistan-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 19.93,
+      "gross_debt_pct_gdp": 4.2,
+      "gross_debt_usd_billion": 0.84,
+      "inflation_cpi_pct": 8.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 24.19,
+      "gross_debt_pct_gdp": 3.1,
+      "gross_debt_usd_billion": 0.75,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 20.05,
+      "gross_debt_pct_gdp": 3.6,
+      "gross_debt_usd_billion": 0.72,
+      "inflation_cpi_pct": 14.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 18.84,
+      "gross_debt_pct_gdp": 3.1,
+      "gross_debt_usd_billion": 0.58,
+      "inflation_cpi_pct": -2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 21.32,
+      "gross_debt_pct_gdp": 7,
+      "gross_debt_usd_billion": 1.49,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 27.78,
+      "gross_debt_pct_gdp": 14.8,
+      "gross_debt_usd_billion": 4.11,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 35.16,
+      "gross_debt_pct_gdp": 17.9,
+      "gross_debt_usd_billion": 6.29,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 39.2,
+      "gross_debt_pct_gdp": 20.4,
+      "gross_debt_usd_billion": 8.0,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 43.52,
+      "gross_debt_pct_gdp": 16,
+      "gross_debt_usd_billion": 6.96,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 35.8,
+      "gross_debt_pct_gdp": 19,
+      "gross_debt_usd_billion": 6.8,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 36.18,
+      "gross_debt_pct_gdp": 21.1,
+      "gross_debt_usd_billion": 7.63,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 37.93,
+      "gross_debt_pct_gdp": 24.7,
+      "gross_debt_usd_billion": 9.37,
+      "inflation_cpi_pct": 8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 40.76,
+      "gross_debt_pct_gdp": 22.5,
+      "gross_debt_usd_billion": 9.17,
+      "inflation_cpi_pct": 13.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 44.97,
+      "gross_debt_pct_gdp": 17.7,
+      "gross_debt_usd_billion": 7.96,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 45.45,
+      "gross_debt_pct_gdp": 15.4,
+      "gross_debt_usd_billion": 7.0,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 49.48,
+      "gross_debt_pct_gdp": 12.3,
+      "gross_debt_usd_billion": 6.09,
+      "inflation_cpi_pct": 19.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 56.68,
+      "gross_debt_pct_gdp": 7.1,
+      "gross_debt_usd_billion": 4.02,
+      "inflation_cpi_pct": 11.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 62.81,
+      "gross_debt_pct_gdp": 5.5,
+      "gross_debt_usd_billion": 3.45,
+      "inflation_cpi_pct": -1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 68.67,
+      "gross_debt_pct_gdp": 4.1,
+      "gross_debt_usd_billion": 2.82,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 77.4,
+      "gross_debt_pct_gdp": 3.8,
+      "gross_debt_usd_billion": 2.94,
+      "inflation_cpi_pct": 2.7,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

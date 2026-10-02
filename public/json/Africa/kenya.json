@@ -39,7 +39,7 @@
       "name": "Lake Nakuru",
       "writeup": "A soda lake known for its large populations of flamingos and diverse bird species.",
       "wiki": {
-        "extract": "Nakuru, sometimes referred to as Nakuru City, is the capital city of Nakuru County, Kenya. As of 2019, Nakuru had an urban population of 570,674. The city lies along the Nairobi–Nakuru Highway, 160 kilometres (99 mi) from Nairobi, the capital city of Kenya. In December 2021, Nakuru City became the fourth urban area in Kenya to be assigned the status of \"city\".",
+        "extract": "Nakuru, sometimes referred to as Nakuru City, is the capital city of Nakuru County, Kenya. As of 2019, Nakuru had an urban population of 570,674. The city lies along the Nairobi\u2013Nakuru Highway, 160 kilometres (99\u00a0mi) from Nairobi, the capital city of Kenya. In December 2021, Nakuru City became the fourth urban area in Kenya to be assigned the status of \"city\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Golden_life_mall%2C_Nakuru.jpg",
         "url": "https://en.wikipedia.org/wiki/Nakuru",
         "coordinates": {
@@ -52,7 +52,7 @@
       "name": "Lamu Old Town",
       "writeup": "A UNESCO World Heritage site, this historic Swahili settlement features traditional architecture and rich cultural heritage.",
       "wiki": {
-        "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212 mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
+        "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212\u00a0mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lamu_Old_Town.jpg",
         "url": "https://en.wikipedia.org/wiki/Lamu",
         "coordinates": {
@@ -65,7 +65,7 @@
       "name": "Nairobi National Park",
       "writeup": "A unique wildlife park located just outside Nairobi, home to lions, rhinos, and giraffes.",
       "wiki": {
-        "extract": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km (4.3 mi) south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife.\nDespite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries.",
+        "extract": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7\u00a0km (4.3\u00a0mi) south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife.\nDespite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lions_of_Kenya_02.jpg/3840px-Lions_of_Kenya_02.jpg",
         "url": "https://en.wikipedia.org/wiki/Nairobi_National_Park",
         "coordinates": {
@@ -90,7 +90,7 @@
       "name": "Lamu Cultural Festival",
       "writeup": "A celebration of Swahili culture featuring traditional music, dance, dhow races, and crafts.",
       "wiki": {
-        "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212 mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
+        "extract": "Lamu or Lamu Town is a small town on Lamu Island, which in turn is a part of the Lamu Archipelago in Kenya on the continent of Africa. Situated 341 kilometres (212\u00a0mi) by road northeast of Mombasa that ends at Mokowe Jetty, from where the sea channel has to be crossed to reach Lamu Island, it is the headquarter of Lamu County and a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lamu_Old_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Lamu"
       }
@@ -163,5 +163,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AKenya-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 29.67,
+      "gross_debt_pct_gdp": 37.1,
+      "gross_debt_usd_billion": 11.01,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 36.71,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 12.55,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 41.06,
+      "gross_debt_pct_gdp": 34.3,
+      "gross_debt_usd_billion": 14.08,
+      "inflation_cpi_pct": 15.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 42.35,
+      "gross_debt_pct_gdp": 36,
+      "gross_debt_usd_billion": 15.24,
+      "inflation_cpi_pct": 10.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 45.41,
+      "gross_debt_pct_gdp": 36.7,
+      "gross_debt_usd_billion": 16.66,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 46.55,
+      "gross_debt_pct_gdp": 35.7,
+      "gross_debt_usd_billion": 16.62,
+      "inflation_cpi_pct": 14,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 56.41,
+      "gross_debt_pct_gdp": 37.6,
+      "gross_debt_usd_billion": 21.21,
+      "inflation_cpi_pct": 9.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 61.7,
+      "gross_debt_pct_gdp": 39.8,
+      "gross_debt_usd_billion": 24.56,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 68.39,
+      "gross_debt_pct_gdp": 41.3,
+      "gross_debt_usd_billion": 28.25,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 70.37,
+      "gross_debt_pct_gdp": 45.8,
+      "gross_debt_usd_billion": 32.23,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 74.82,
+      "gross_debt_pct_gdp": 50.4,
+      "gross_debt_usd_billion": 37.71,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 81.97,
+      "gross_debt_pct_gdp": 53.9,
+      "gross_debt_usd_billion": 44.18,
+      "inflation_cpi_pct": 8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 92.21,
+      "gross_debt_pct_gdp": 56.4,
+      "gross_debt_usd_billion": 52.01,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 100.33,
+      "gross_debt_pct_gdp": 59.1,
+      "gross_debt_usd_billion": 59.29,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 100.92,
+      "gross_debt_pct_gdp": 68,
+      "gross_debt_usd_billion": 68.63,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 109.88,
+      "gross_debt_pct_gdp": 68.2,
+      "gross_debt_usd_billion": 74.93,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 114.73,
+      "gross_debt_pct_gdp": 67.8,
+      "gross_debt_usd_billion": 77.79,
+      "inflation_cpi_pct": 7.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 108.21,
+      "gross_debt_pct_gdp": 73.4,
+      "gross_debt_usd_billion": 79.42,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 119.31,
+      "gross_debt_pct_gdp": 67.3,
+      "gross_debt_usd_billion": 80.29,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 136.46,
+      "gross_debt_pct_gdp": 69.3,
+      "gross_debt_usd_billion": 94.56,
+      "inflation_cpi_pct": 4.1,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

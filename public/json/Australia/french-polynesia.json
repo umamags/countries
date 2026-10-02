@@ -13,7 +13,7 @@
       "name": "Bora Bora",
       "writeup": "A famous island known for its turquoise lagoon protected by a coral reef, luxury resorts, and stunning volcanic peaks.",
       "wiki": {
-        "extract": "Bora Bora is a French island group in the Leeward Islands, comprising the western part of the Society Islands of French Polynesia, an overseas collectivity of the French Republic in the South Pacific. Bora Bora has a total land area of 30.55 km2 (12 sq mi). The main island, located about 230 kilometres northwest of Papeete, is surrounded by a lagoon and a barrier reef. In the center of the island are the remnants of an extinct volcano, rising to two peaks, Mount Pahia and Mount Otemanu; the highest point is at 727 m (2,385 ft).",
+        "extract": "Bora Bora is a French island group in the Leeward Islands, comprising the western part of the Society Islands of French Polynesia, an overseas collectivity of the French Republic in the South Pacific. Bora Bora has a total land area of 30.55\u00a0km2 (12\u00a0sq\u00a0mi). The main island, located about 230 kilometres northwest of Papeete, is surrounded by a lagoon and a barrier reef. In the center of the island are the remnants of an extinct volcano, rising to two peaks, Mount Pahia and Mount Otemanu; the highest point is at 727\u00a0m (2,385\u00a0ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bora_Bora_ISS006.jpg",
         "url": "https://en.wikipedia.org/wiki/Bora_Bora",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Mount Orohena",
       "writeup": "The highest peak in French Polynesia, located on Tahiti, offering challenging hikes and panoramic views.",
       "wiki": {
-        "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200 mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359 sq mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
+        "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200\u00a0mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359\u00a0sq\u00a0mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/960px-Flag_of_French_Polynesia.svg.png",
         "url": "https://en.wikipedia.org/wiki/French_Polynesia",
         "coordinates": {
@@ -61,7 +61,7 @@
       "name": "Hawaiki Nui Va'a",
       "writeup": "A prestigious outrigger canoe race held annually between the islands of Huahine, Raiatea, and Tahaa.",
       "wiki": {
-        "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200 mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359 sq mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
+        "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200\u00a0mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359\u00a0sq\u00a0mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/960px-Flag_of_French_Polynesia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/French_Polynesia"
       }
@@ -106,5 +106,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_French_Polynesia.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

@@ -25,7 +25,7 @@
       "name": "El Morro Castle",
       "writeup": "A historic fortress guarding the entrance to Havana Bay, built in the 16th century.",
       "wiki": {
-        "extract": "The Castillo de los Tres Reyes del Morro, also known as Castillo del Morro, is a fortress guarding the entrance to the Havana harbor.\nThe design is by the Italian engineer Battista Antonelli (1547–1616). Originally under the control of Spain, the fortress was captured by the British in 1762 and returned to Spain under the Treaty of Paris (1763) a year later. The Morro Castle was the primary defence in the Havana harbor until La Cabaña was completed in 1774.",
+        "extract": "The Castillo de los Tres Reyes del Morro, also known as Castillo del Morro, is a fortress guarding the entrance to the Havana harbor.\nThe design is by the Italian engineer Battista Antonelli (1547\u20131616). Originally under the control of Spain, the fortress was captured by the British in 1762 and returned to Spain under the Treaty of Paris (1763) a year later. The Morro Castle was the primary defence in the Havana harbor until La Caba\u00f1a was completed in 1774.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif/lossy-page1-1280px-Cuba_-_Morro_Castle%2C_near_view_LCCN2001706155_%28cropped%29.tif.jpg",
         "url": "https://en.wikipedia.org/wiki/Castillo_de_los_Tres_Reyes_Del_Morro",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Varadero Beach",
       "writeup": "One of the largest resort areas in the Caribbean, famous for its white sandy beaches and clear waters.",
       "wiki": {
-        "extract": "Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, Cárdenas, and the Península de Zapata.",
+        "extract": "Varadero, also referred to as Playa Azul, is a resort town in the province of Matanzas, Cuba, and one of the largest resort areas in the Caribbean. Varadero Beach is rated one of the world's best beaches in TripAdvisor's Traveler's Choice Awards since 2019, ranking at number 9 as of January 2024. Common activities include fishing and excursions to Matanzas, C\u00e1rdenas, and the Pen\u00ednsula de Zapata.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aerial_photo_of_Varadero_16.JPG",
         "url": "https://en.wikipedia.org/wiki/Varadero",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Trinidad",
       "writeup": "A colonial town with cobblestone streets and colorful buildings, also a UNESCO World Heritage site.",
       "wiki": {
-        "extract": "Trinidad is a town in the province of Sancti Spíritus, central Cuba. Together with the nearby Valle de los Ingenios, it has been a UNESCO World Heritage Site since 1988, because of its historical importance as a center of the sugar trade in the 18th and 19th centuries. Trinidad is one of the best-preserved cities in the Caribbean from the time when the sugar trade was the main industry in the region.",
+        "extract": "Trinidad is a town in the province of Sancti Sp\u00edritus, central Cuba. Together with the nearby Valle de los Ingenios, it has been a UNESCO World Heritage Site since 1988, because of its historical importance as a center of the sugar trade in the 18th and 19th centuries. Trinidad is one of the best-preserved cities in the Caribbean from the time when the sugar trade was the main industry in the region.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Trinidad_in_Kuba.jpg/3840px-Trinidad_in_Kuba.jpg",
         "url": "https://en.wikipedia.org/wiki/Trinidad%2C_Cuba",
         "coordinates": {
@@ -74,7 +74,7 @@
       }
     }
   ],
-  "head_of_state": "Miguel Díaz-Canel (President)",
+  "head_of_state": "Miguel D\u00edaz-Canel (President)",
   "cultural_events": [
     {
       "name": "Havana International Jazz Festival",
@@ -113,11 +113,11 @@
       "description": "Revolutionary figure"
     },
     {
-      "name": "José Martí",
+      "name": "Jos\u00e9 Mart\u00ed",
       "description": "National hero and poet"
     },
     {
-      "name": "Miguel Díaz-Canel",
+      "name": "Miguel D\u00edaz-Canel",
       "description": "Current president"
     }
   ],
@@ -148,5 +148,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ACuba_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

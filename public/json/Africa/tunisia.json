@@ -65,7 +65,7 @@
       "name": "Sahara Desert",
       "writeup": "The southern part of Tunisia extends into the Sahara, offering unique desert landscapes and cultural experiences.",
       "wiki": {
-        "extract": "The Sahara is a desert spanning North Africa. With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world and the third-largest desert overall, smaller only than the deserts of Antarctica and the northern Arctic.",
+        "extract": "The Sahara is a desert spanning North Africa. With an area of 9,200,000 square kilometres (3,600,000\u00a0sq\u00a0mi), it is the largest hot desert in the world and the third-largest desert overall, smaller only than the deserts of Antarctica and the northern Arctic.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sahara_real_color.jpg",
         "url": "https://en.wikipedia.org/wiki/Sahara",
         "coordinates": {
@@ -81,7 +81,7 @@
       "name": "Carthage Film Festival",
       "writeup": "One of the oldest film festivals in Africa and the Arab world, showcasing African and Arab cinema.",
       "wiki": {
-        "extract": "Carthage Film Festival is an annual film festival that takes place in Tunis, founded in 1966. It is also known by its Arabic title, أيام قرطاج السينمائية. Initially biennial alternating with the Carthage Theatre Festival, the festival became an annual event in 2014.",
+        "extract": "Carthage Film Festival is an annual film festival that takes place in Tunis, founded in 1966. It is also known by its Arabic title, \u0623\u064a\u0627\u0645 \u0642\u0631\u0637\u0627\u062c \u0627\u0644\u0633\u064a\u0646\u0645\u0627\u0626\u064a\u0629. Initially biennial alternating with the Carthage Theatre Festival, the festival became an annual event in 2014.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/JCC_2018_opening_ceremony_32.jpg/3840px-JCC_2018_opening_ceremony_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Carthage_Film_Festival"
       }
@@ -155,5 +155,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ATunisia_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 36.06,
+      "gross_debt_pct_gdp": 45.7,
+      "gross_debt_usd_billion": 16.48,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 40.82,
+      "gross_debt_pct_gdp": 42.7,
+      "gross_debt_usd_billion": 17.43,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 47.04,
+      "gross_debt_pct_gdp": 41.4,
+      "gross_debt_usd_billion": 19.47,
+      "inflation_cpi_pct": 4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 45.59,
+      "gross_debt_pct_gdp": 40.3,
+      "gross_debt_usd_billion": 18.37,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 46.21,
+      "gross_debt_pct_gdp": 38.8,
+      "gross_debt_usd_billion": 17.93,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 48.12,
+      "gross_debt_pct_gdp": 43.3,
+      "gross_debt_usd_billion": 20.84,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 47.31,
+      "gross_debt_pct_gdp": 49,
+      "gross_debt_usd_billion": 23.18,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 48.68,
+      "gross_debt_pct_gdp": 45.6,
+      "gross_debt_usd_billion": 22.2,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 50.27,
+      "gross_debt_pct_gdp": 50.7,
+      "gross_debt_usd_billion": 25.49,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 45.78,
+      "gross_debt_pct_gdp": 52.4,
+      "gross_debt_usd_billion": 23.99,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 44.36,
+      "gross_debt_pct_gdp": 58.9,
+      "gross_debt_usd_billion": 26.13,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 42.17,
+      "gross_debt_pct_gdp": 67.1,
+      "gross_debt_usd_billion": 28.29,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 42.69,
+      "gross_debt_pct_gdp": 72.9,
+      "gross_debt_usd_billion": 31.12,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 41.91,
+      "gross_debt_pct_gdp": 67.3,
+      "gross_debt_usd_billion": 28.2,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 42.49,
+      "gross_debt_pct_gdp": 77.7,
+      "gross_debt_usd_billion": 33.02,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 46.81,
+      "gross_debt_pct_gdp": 79.7,
+      "gross_debt_usd_billion": 37.31,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 44.6,
+      "gross_debt_pct_gdp": 83,
+      "gross_debt_usd_billion": 37.01,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 48.54,
+      "gross_debt_pct_gdp": 84,
+      "gross_debt_usd_billion": 40.77,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 51.33,
+      "gross_debt_pct_gdp": 85.7,
+      "gross_debt_usd_billion": 43.99,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 57.59,
+      "gross_debt_pct_gdp": 81.3,
+      "gross_debt_usd_billion": 46.82,
+      "inflation_cpi_pct": 5.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

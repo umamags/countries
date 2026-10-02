@@ -14,7 +14,7 @@
       "name": "Marovo Lagoon",
       "writeup": "One of the largest saltwater lagoons in the world, known for its rich marine biodiversity and traditional island villages.",
       "wiki": {
-        "extract": "Marovo Lagoon is the largest double-barrier enclosed lagoon in the world. Located in the New Georgia Islands, Western Province, Solomon Islands, between Vangunu and Nggatokae islands, both extinct volcanic islands, at 8.48°S 158.07°E. It covers 700 km2 (270 mi2) and is protected by a double barrier reef system. The Marovo Lagoon World Heritage Area is considered an area of high biodiversity and conservation value. The name Marovo is derived from the island of Marovo in the centre of the lagoon.",
+        "extract": "Marovo Lagoon is the largest double-barrier enclosed lagoon in the world. Located in the New Georgia Islands, Western Province, Solomon Islands, between Vangunu and Nggatokae islands, both extinct volcanic islands, at 8.48\u00b0S 158.07\u00b0E. It covers 700\u00a0km2 (270\u00a0mi2) and is protected by a double barrier reef system. The Marovo Lagoon World Heritage Area is considered an area of high biodiversity and conservation value. The name Marovo is derived from the island of Marovo in the centre of the lagoon.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vangunu_Island_NASA.jpg",
         "url": "https://en.wikipedia.org/wiki/Marovo_Lagoon",
         "coordinates": null
@@ -47,7 +47,7 @@
       "name": "Honiara Central Market",
       "writeup": "A vibrant market in the capital city offering local crafts, fresh produce, and traditional foods.",
       "wiki": {
-        "extract": "Honiara is the capital and largest city of Solomon Islands, situated on the northwestern coast of Guadalcanal. As of 2019, it had a population of 129,569 people. The city is served by Honiara International Airport and the seaport of Point Cruz, and lies along the Kukum Highway. In 1983, a capital territory – comprising the 22 square-kilometre metropolitan area of Honiara – was proclaimed, with a self-governing status akin to a province, although the city also retained its older role as capital of Guadalcanal Province.",
+        "extract": "Honiara is the capital and largest city of Solomon Islands, situated on the northwestern coast of Guadalcanal. As of 2019, it had a population of 129,569 people. The city is served by Honiara International Airport and the seaport of Point Cruz, and lies along the Kukum Highway. In 1983, a capital territory \u2013 comprising the 22 square-kilometre metropolitan area of Honiara \u2013 was proclaimed, with a self-governing status akin to a province, although the city also retained its older role as capital of Guadalcanal Province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honiara_View.jpg/3840px-Honiara_View.jpg",
         "url": "https://en.wikipedia.org/wiki/Honiara",
         "coordinates": {
@@ -72,7 +72,7 @@
       "name": "Te Rito Cultural Festival",
       "writeup": "A festival showcasing indigenous music, dance, and arts from across the islands.",
       "wiki": {
-        "extract": "Te Whakaruruhau o Ngā Reo Irirangi Māori is a New Zealand radio network consisting of radio stations that serve the country's indigenous Māori population. Most stations receive contestable government funding from Te Māngai Pāho, the Māori Broadcast Funding Agency, to operate on behalf of affiliated iwi (tribes) or hapū (sub-tribes). Under their funding agreement, the stations must produce programmes in the Māori language, and must actively promote Māori culture.",
+        "extract": "Te Whakaruruhau o Ng\u0101 Reo Irirangi M\u0101ori is a New Zealand radio network consisting of radio stations that serve the country's indigenous M\u0101ori population. Most stations receive contestable government funding from Te M\u0101ngai P\u0101ho, the M\u0101ori Broadcast Funding Agency, to operate on behalf of affiliated iwi (tribes) or hap\u016b (sub-tribes). Under their funding agreement, the stations must produce programmes in the M\u0101ori language, and must actively promote M\u0101ori culture.",
         "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Iwi_Radio_Network_Logos_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Te_Whakaruruhau_o_Ng%C4%81_Reo_Irirangi_M%C4%81ori"
       }
@@ -121,5 +121,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASolomon_Islands-CIA-WFB-map-thai.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.62,
+      "gross_debt_pct_gdp": 36.9,
+      "gross_debt_usd_billion": 0.23,
+      "inflation_cpi_pct": 11.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.69,
+      "gross_debt_pct_gdp": 29.5,
+      "gross_debt_usd_billion": 0.21,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.78,
+      "gross_debt_pct_gdp": 26.1,
+      "gross_debt_usd_billion": 0.2,
+      "inflation_cpi_pct": 17.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.81,
+      "gross_debt_pct_gdp": 17.2,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.9,
+      "gross_debt_pct_gdp": 21.6,
+      "gross_debt_usd_billion": 0.19,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.06,
+      "gross_debt_pct_gdp": 18.1,
+      "gross_debt_usd_billion": 0.19,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.19,
+      "gross_debt_pct_gdp": 13.3,
+      "gross_debt_usd_billion": 0.16,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1.29,
+      "gross_debt_pct_gdp": 11.6,
+      "gross_debt_usd_billion": 0.15,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1.34,
+      "gross_debt_pct_gdp": 10.1,
+      "gross_debt_usd_billion": 0.13,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1.31,
+      "gross_debt_pct_gdp": 7.9,
+      "gross_debt_usd_billion": 0.1,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1.38,
+      "gross_debt_pct_gdp": 7.5,
+      "gross_debt_usd_billion": 0.1,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1.47,
+      "gross_debt_pct_gdp": 8.8,
+      "gross_debt_usd_billion": 0.13,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1.61,
+      "gross_debt_pct_gdp": 7.9,
+      "gross_debt_usd_billion": 0.13,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1.62,
+      "gross_debt_pct_gdp": 7.8,
+      "gross_debt_usd_billion": 0.13,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1.54,
+      "gross_debt_pct_gdp": 9.1,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1.56,
+      "gross_debt_pct_gdp": 16.1,
+      "gross_debt_usd_billion": 0.25,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1.47,
+      "gross_debt_pct_gdp": 16.5,
+      "gross_debt_usd_billion": 0.24,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1.51,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 0.34,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1.58,
+      "gross_debt_pct_gdp": 26.1,
+      "gross_debt_usd_billion": 0.41,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1.7,
+      "gross_debt_pct_gdp": 28.7,
+      "gross_debt_usd_billion": 0.49,
+      "inflation_cpi_pct": 3.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

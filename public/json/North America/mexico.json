@@ -12,7 +12,7 @@
       "name": "Chichen Itza",
       "writeup": "A large pre-Columbian archaeological site built by the Maya civilization, famous for the pyramid of Kukulkan.",
       "wiki": {
-        "extract": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán, Mexico.",
+        "extract": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tin\u00fam Municipality, Yucat\u00e1n, Mexico.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/3840px-Chichen_Itza_3.jpg",
         "url": "https://en.wikipedia.org/wiki/Chichen_Itza",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Teotihuacan",
       "writeup": "An ancient Mesoamerican city known for its massive Pyramids of the Sun and Moon.",
       "wiki": {
-        "extract": "Teotihuacan is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, which is located in the State of Mexico, 40 kilometers (25 mi) northeast of modern-day Mexico City.",
+        "extract": "Teotihuacan is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, which is located in the State of Mexico, 40 kilometers (25\u00a0mi) northeast of modern-day Mexico City.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
         "url": "https://en.wikipedia.org/wiki/Teotihuacan",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Copper Canyon",
       "writeup": "A group of six canyons in the Sierra Madre Occidental, larger and deeper than the Grand Canyon.",
       "wiki": {
-        "extract": "Copper Canyon is a group of six distinct canyons in the Sierra Madre Occidental in the southwestern part of the state of Chihuahua in northwestern Mexico that is 65,000 square kilometres (25,000 sq mi) in size. The canyons were formed by six rivers that drain the western side of the Sierra Tarahumara. All six rivers merge into the Rio Fuerte and empty into the Gulf of California. The walls of the canyon are a copper/green color, which is the origin of the name.",
+        "extract": "Copper Canyon is a group of six distinct canyons in the Sierra Madre Occidental in the southwestern part of the state of Chihuahua in northwestern Mexico that is 65,000 square kilometres (25,000\u00a0sq\u00a0mi) in size. The canyons were formed by six rivers that drain the western side of the Sierra Tarahumara. All six rivers merge into the Rio Fuerte and empty into the Gulf of California. The walls of the canyon are a copper/green color, which is the origin of the name.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Barranca_del_cobre_2.jpg",
         "url": "https://en.wikipedia.org/wiki/Copper_Canyon",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Frida Kahlo Museum",
       "writeup": "Also known as La Casa Azul, it is the former home of the famous Mexican artist Frida Kahlo.",
       "wiki": {
-        "extract": "The Frida Kahlo Museum, also known as The Blue House for the structure's cobalt-blue walls, is a historic house museum and art museum dedicated to the life and work of Mexican artist Frida Kahlo. It is in the Colonia del Carmen neighborhood of Coyoacán in Mexico City. The building was Kahlo's birthplace, the home where she grew up, lived with her husband Diego Rivera for a number of years, and where she later died in a room on the upper floor. In 1957, Rivera donated the home and its contents to turn it into a museum in Kahlo's honor.",
+        "extract": "The Frida Kahlo Museum, also known as The Blue House for the structure's cobalt-blue walls, is a historic house museum and art museum dedicated to the life and work of Mexican artist Frida Kahlo. It is in the Colonia del Carmen neighborhood of Coyoac\u00e1n in Mexico City. The building was Kahlo's birthplace, the home where she grew up, lived with her husband Diego Rivera for a number of years, and where she later died in a room on the upper floor. In 1957, Rivera donated the home and its contents to turn it into a museum in Kahlo's honor.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Museo_Frida_Kahlo.JPG",
         "url": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum",
         "coordinates": {
@@ -74,10 +74,10 @@
       }
     }
   ],
-  "head_of_state": "President Andrés Manuel López Obrador",
+  "head_of_state": "President Andr\u00e9s Manuel L\u00f3pez Obrador",
   "cultural_events": [
     {
-      "name": "Día de los Muertos",
+      "name": "D\u00eda de los Muertos",
       "writeup": "A traditional festival honoring deceased loved ones with altars, offerings, and celebrations.",
       "wiki": {
         "extract": "The Day of the Dead is a holiday traditionally celebrated on November 1 and 2, though other days, such as October 31 or November 6, may be included depending on the locality. The multi-day holiday involves family and friends gathering to pay respects and remember friends and family members who have died. The celebrations can take a humorous tone, as celebrants remember amusing events and anecdotes about the departed. The festival is widely observed in Mexico and among people of Mexican heritage in other parts of the world. It falls during the Christian period of Allhallowtide. Some argue that there are Indigenous Mexican or ancient Aztec influences that account for the custom, though others see it as a local expression of the Allhallowtide season that was brought to the region by the Spanish; the Day of the Dead has become a way to remember those forebears of Mexican culture.",
@@ -126,7 +126,7 @@
   "brief_history": "Mexico has a rich history dating back to advanced pre-Columbian civilizations like the Maya and Aztec. It was colonized by Spain in the 16th century and gained independence in 1821. The country has since undergone political and social transformations, becoming a federal republic with a diverse cultural heritage.",
   "important_people": [
     {
-      "name": "Benito Juárez",
+      "name": "Benito Ju\u00e1rez",
       "description": "Former president and national hero known for liberal reforms."
     },
     {
@@ -142,7 +142,7 @@
       "description": "Nobel Prize-winning poet and writer."
     },
     {
-      "name": "Sor Juana Inés de la Cruz",
+      "name": "Sor Juana In\u00e9s de la Cruz",
       "description": "17th-century writer and philosopher."
     }
   ],
@@ -191,5 +191,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Mexico.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1020.26,
+      "gross_debt_pct_gdp": 35.8,
+      "gross_debt_usd_billion": 365.25,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1102.36,
+      "gross_debt_pct_gdp": 35.5,
+      "gross_debt_usd_billion": 391.34,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1161.55,
+      "gross_debt_pct_gdp": 40.6,
+      "gross_debt_usd_billion": 471.59,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 943.44,
+      "gross_debt_pct_gdp": 41.7,
+      "gross_debt_usd_billion": 393.41,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1105.42,
+      "gross_debt_pct_gdp": 40.2,
+      "gross_debt_usd_billion": 444.38,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1229.01,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 506.35,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1255.11,
+      "gross_debt_pct_gdp": 40.8,
+      "gross_debt_usd_billion": 512.08,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1327.44,
+      "gross_debt_pct_gdp": 44.1,
+      "gross_debt_usd_billion": 585.4,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1364.51,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 642.68,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1213.29,
+      "gross_debt_pct_gdp": 51,
+      "gross_debt_usd_billion": 618.78,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1112.23,
+      "gross_debt_pct_gdp": 55,
+      "gross_debt_usd_billion": 611.73,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1190.72,
+      "gross_debt_pct_gdp": 52.5,
+      "gross_debt_usd_billion": 625.13,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1256.3,
+      "gross_debt_pct_gdp": 52.2,
+      "gross_debt_usd_billion": 655.79,
+      "inflation_cpi_pct": 4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1304.11,
+      "gross_debt_pct_gdp": 51.9,
+      "gross_debt_usd_billion": 676.83,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1121.07,
+      "gross_debt_pct_gdp": 58.5,
+      "gross_debt_usd_billion": 655.82,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1316.57,
+      "gross_debt_pct_gdp": 56.7,
+      "gross_debt_usd_billion": 746.49,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1466.93,
+      "gross_debt_pct_gdp": 53.8,
+      "gross_debt_usd_billion": 789.21,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1794.41,
+      "gross_debt_pct_gdp": 52.8,
+      "gross_debt_usd_billion": 947.45,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1830.49,
+      "gross_debt_pct_gdp": 59.1,
+      "gross_debt_usd_billion": 1081.82,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1832.64,
+      "gross_debt_pct_gdp": 61.8,
+      "gross_debt_usd_billion": 1132.57,
+      "inflation_cpi_pct": 3.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

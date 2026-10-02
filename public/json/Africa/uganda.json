@@ -17,7 +17,7 @@
       "name": "Bwindi Impenetrable National Park",
       "writeup": "A UNESCO World Heritage site known for its mountain gorilla population and rich biodiversity.",
       "wiki": {
-        "extract": "Bwindi Impenetrable National Park is a national park in southwestern Uganda. It is part of the Bwindi Impenetrable Forest and is situated along the Democratic Republic of the Congo border next to the Virunga National Park and on the edge of the Albertine Rift. Composed of 321 km2 (124 sq mi) of both lowland and montane forest, it is accessible only on foot. It is a United Nations Educational, Scientific and Cultural Organization-designated World Heritage Site.",
+        "extract": "Bwindi Impenetrable National Park is a national park in southwestern Uganda. It is part of the Bwindi Impenetrable Forest and is situated along the Democratic Republic of the Congo border next to the Virunga National Park and on the edge of the Albertine Rift. Composed of 321\u00a0km2 (124\u00a0sq\u00a0mi) of both lowland and montane forest, it is accessible only on foot. It is a United Nations Educational, Scientific and Cultural Organization-designated World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bwindi.JPG",
         "url": "https://en.wikipedia.org/wiki/Bwindi_Impenetrable_National_Park",
         "coordinates": {
@@ -43,7 +43,7 @@
       "name": "Lake Victoria",
       "writeup": "The largest lake in Africa and the source of the White Nile, shared by Uganda, Kenya, and Tanzania.",
       "wiki": {
-        "extract": "Lake Victoria is one of the African Great Lakes. With a surface area of approximately 59,947 km2 (23,146 sq mi), Lake Victoria is Africa's largest lake by area, the world's largest tropical lake, and the world's second-largest fresh water lake by surface area after Lake Superior in North America. In terms of volume, Lake Victoria is the world's ninth-largest continental lake, containing about 2,424 km3 (1.965×109 acre⋅ft) of water. Lake Victoria occupies a shallow depression in Africa. The lake has an average depth of 40 m (130 ft) and a maximum depth of 80–81 m (262–266 ft). Its catchment area covers 169,858 km2 (65,583 sq mi). The lake has a shoreline of 7,142 km (4,438 mi) when digitized at the 1:25,000 level, with islands constituting 3.7% of this length.",
+        "extract": "Lake Victoria is one of the African Great Lakes. With a surface area of approximately 59,947\u00a0km2 (23,146\u00a0sq\u00a0mi), Lake Victoria is Africa's largest lake by area, the world's largest tropical lake, and the world's second-largest fresh water lake by surface area after Lake Superior in North America. In terms of volume, Lake Victoria is the world's ninth-largest continental lake, containing about 2,424\u00a0km3 (1.965\u00d7109\u00a0acre\u22c5ft) of water. Lake Victoria occupies a shallow depression in Africa. The lake has an average depth of 40\u00a0m (130\u00a0ft) and a maximum depth of 80\u201381\u00a0m (262\u2013266\u00a0ft). Its catchment area covers 169,858\u00a0km2 (65,583\u00a0sq\u00a0mi). The lake has a shoreline of 7,142\u00a0km (4,438\u00a0mi) when digitized at the 1:25,000 level, with islands constituting 3.7% of this length.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ISS042-E-263206_-_View_of_Earth.jpg/3840px-ISS042-E-263206_-_View_of_Earth.jpg",
         "url": "https://en.wikipedia.org/wiki/Lake_Victoria",
         "coordinates": {
@@ -69,7 +69,7 @@
       "name": "Rwenzori Mountains",
       "writeup": "Also called the Mountains of the Moon, known for their snow-capped peaks and unique flora.",
       "wiki": {
-        "extract": "The Rwenzori are a range of mountains in eastern equatorial Africa, located on the border between Uganda and the Democratic Republic of the Congo. The highest peak of the Ruwenzori reaches 5,109 metres (16,762 ft), and the range's upper regions are permanently snow-capped and glaciated. Rivers fed by mountain streams form one of the sources of the Nile. Because of this, European explorers linked the Ruwenzori with the legendary Mountains of the Moon, claimed by the Greek scholar Ptolemy as the source of the Nile. Virunga National Park in eastern DR Congo and Rwenzori Mountains National Park in southwestern Uganda are located within the range.",
+        "extract": "The Rwenzori are a range of mountains in eastern equatorial Africa, located on the border between Uganda and the Democratic Republic of the Congo. The highest peak of the Ruwenzori reaches 5,109 metres (16,762\u00a0ft), and the range's upper regions are permanently snow-capped and glaciated. Rivers fed by mountain streams form one of the sources of the Nile. Because of this, European explorers linked the Ruwenzori with the legendary Mountains of the Moon, claimed by the Greek scholar Ptolemy as the source of the Nile. Virunga National Park in eastern DR Congo and Rwenzori Mountains National Park in southwestern Uganda are located within the range.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/1172_ruwenzori.jpg",
         "url": "https://en.wikipedia.org/wiki/Rwenzori_Mountains",
         "coordinates": {
@@ -193,5 +193,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AUganda_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 14.08,
+      "gross_debt_pct_gdp": 27.8,
+      "gross_debt_usd_billion": 3.91,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 17.51,
+      "gross_debt_pct_gdp": 17,
+      "gross_debt_usd_billion": 2.98,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 22.42,
+      "gross_debt_pct_gdp": 15.7,
+      "gross_debt_usd_billion": 3.52,
+      "inflation_cpi_pct": 12,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 24.11,
+      "gross_debt_pct_gdp": 14.8,
+      "gross_debt_usd_billion": 3.57,
+      "inflation_cpi_pct": 13,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 24.68,
+      "gross_debt_pct_gdp": 18.4,
+      "gross_debt_usd_billion": 4.54,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 27.5,
+      "gross_debt_pct_gdp": 18,
+      "gross_debt_usd_billion": 4.95,
+      "inflation_cpi_pct": 18.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 30.94,
+      "gross_debt_pct_gdp": 19.5,
+      "gross_debt_usd_billion": 6.03,
+      "inflation_cpi_pct": 14,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 32.33,
+      "gross_debt_pct_gdp": 22.1,
+      "gross_debt_usd_billion": 7.15,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 34.75,
+      "gross_debt_pct_gdp": 24.8,
+      "gross_debt_usd_billion": 8.62,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 30.12,
+      "gross_debt_pct_gdp": 28,
+      "gross_debt_usd_billion": 8.43,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 30.23,
+      "gross_debt_pct_gdp": 31.3,
+      "gross_debt_usd_billion": 9.46,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 31.59,
+      "gross_debt_pct_gdp": 33.6,
+      "gross_debt_usd_billion": 10.61,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 34.13,
+      "gross_debt_pct_gdp": 35,
+      "gross_debt_usd_billion": 11.94,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 37.9,
+      "gross_debt_pct_gdp": 38,
+      "gross_debt_usd_billion": 14.4,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 37.89,
+      "gross_debt_pct_gdp": 46.8,
+      "gross_debt_usd_billion": 17.73,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 42.8,
+      "gross_debt_pct_gdp": 50.3,
+      "gross_debt_usd_billion": 21.53,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 47.27,
+      "gross_debt_pct_gdp": 49.9,
+      "gross_debt_usd_billion": 23.59,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 52.04,
+      "gross_debt_pct_gdp": 50.4,
+      "gross_debt_usd_billion": 26.23,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 57.06,
+      "gross_debt_pct_gdp": 51.8,
+      "gross_debt_usd_billion": 29.56,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 66.01,
+      "gross_debt_pct_gdp": 54.2,
+      "gross_debt_usd_billion": 35.78,
+      "inflation_cpi_pct": 3.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

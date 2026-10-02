@@ -64,7 +64,7 @@
       "name": "Cocos Islands Day",
       "writeup": "An annual event celebrating the unique heritage and history of the islands.",
       "wiki": {
-        "extract": "Cocos Island is a volcanic island in the Pacific Ocean administered by Costa Rica, approximately 550 km southwest of the Costa Rican mainland. It constitutes the 11th of the 15 districts of Puntarenas Canton of the Province of Puntarenas. With an area of approximately 23.85 km2 (9.21 sq mi), the island is roughly rectangular in shape. It is the southernmost point of geopolitical North America if non-continental islands are included, and the only landmass above water on the Cocos tectonic plate.",
+        "extract": "Cocos Island is a volcanic island in the Pacific Ocean administered by Costa Rica, approximately 550\u00a0km southwest of the Costa Rican mainland. It constitutes the 11th of the 15 districts of Puntarenas Canton of the Province of Puntarenas. With an area of approximately 23.85\u00a0km2 (9.21\u00a0sq\u00a0mi), the island is roughly rectangular in shape. It is the southernmost point of geopolitical North America if non-continental islands are included, and the only landmass above water on the Cocos tectonic plate.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Isla_del_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Cocos_Island"
       }
@@ -101,5 +101,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ACocos_%28Keeling%29_Islands-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

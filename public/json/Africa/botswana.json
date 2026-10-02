@@ -13,7 +13,7 @@
       "name": "Okavango Delta",
       "writeup": "A vast inland delta known for its rich biodiversity and unique ecosystem, attracting numerous wildlife and bird species.",
       "wiki": {
-        "extract": "The Okavango Delta or Okavango Grassland is a vast inland delta in Botswana formed where the Okavango River reaches a tectonic trough at an elevation of 930–1,000 m (3,050–3,280 ft) in the central part of the endorheic basin of the Kalahari Desert.",
+        "extract": "The Okavango Delta or Okavango Grassland is a vast inland delta in Botswana formed where the Okavango River reaches a tectonic trough at an elevation of 930\u20131,000\u00a0m (3,050\u20133,280\u00a0ft) in the central part of the endorheic basin of the Kalahari Desert.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Okavango_Delta%2C_Botswana1.jpg",
         "url": "https://en.wikipedia.org/wiki/Okavango_Delta",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Chobe National Park",
       "writeup": "Famous for its large elephant population and diverse wildlife, it is one of Africa's premier game-viewing destinations.",
       "wiki": {
-        "extract": "Chobe National Park is Botswana's first national park, and also its most biologically diverse. The park contains the wetlands of the Chobe River, which flows into Victoria Falls and the Zambezi to the East. Located in the north of the country, the park is part of the Kavango–Zambezi Transfrontier Conservation Area, and partially borders Namibia's Caprivi Strip. It is Botswana's third largest park.",
+        "extract": "Chobe National Park is Botswana's first national park, and also its most biologically diverse. The park contains the wetlands of the Chobe River, which flows into Victoria Falls and the Zambezi to the East. Located in the north of the country, the park is part of the Kavango\u2013Zambezi Transfrontier Conservation Area, and partially borders Namibia's Caprivi Strip. It is Botswana's third largest park.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gnus_zebras_chobe_national_park.jpg",
         "url": "https://en.wikipedia.org/wiki/Chobe_National_Park",
         "coordinates": {
@@ -131,5 +131,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ABotswana-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 9.92,
+      "gross_debt_pct_gdp": 6.1,
+      "gross_debt_usd_billion": 0.61,
+      "inflation_cpi_pct": 11.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.57,
+      "gross_debt_pct_gdp": 5.9,
+      "gross_debt_usd_billion": 0.62,
+      "inflation_cpi_pct": 7.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 10.73,
+      "gross_debt_pct_gdp": 7.8,
+      "gross_debt_usd_billion": 0.84,
+      "inflation_cpi_pct": 12.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 10.12,
+      "gross_debt_pct_gdp": 22.4,
+      "gross_debt_usd_billion": 2.27,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 12.64,
+      "gross_debt_pct_gdp": 26.5,
+      "gross_debt_usd_billion": 3.35,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 15.11,
+      "gross_debt_pct_gdp": 27.9,
+      "gross_debt_usd_billion": 4.22,
+      "inflation_cpi_pct": 8.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 13.91,
+      "gross_debt_pct_gdp": 26.4,
+      "gross_debt_usd_billion": 3.67,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 14.27,
+      "gross_debt_pct_gdp": 23.8,
+      "gross_debt_usd_billion": 3.4,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 15.47,
+      "gross_debt_pct_gdp": 23.9,
+      "gross_debt_usd_billion": 3.7,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 13.53,
+      "gross_debt_pct_gdp": 24.5,
+      "gross_debt_usd_billion": 3.32,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 15.08,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 3.36,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 16.11,
+      "gross_debt_pct_gdp": 19.6,
+      "gross_debt_usd_billion": 3.16,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 17.03,
+      "gross_debt_pct_gdp": 19.6,
+      "gross_debt_usd_billion": 3.34,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 16.7,
+      "gross_debt_pct_gdp": 21.5,
+      "gross_debt_usd_billion": 3.59,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 14.93,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 3.51,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 18.75,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 4.18,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 20.32,
+      "gross_debt_pct_gdp": 21,
+      "gross_debt_usd_billion": 4.27,
+      "inflation_cpi_pct": 12.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 19.41,
+      "gross_debt_pct_gdp": 22.5,
+      "gross_debt_usd_billion": 4.37,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 19.36,
+      "gross_debt_pct_gdp": 33.2,
+      "gross_debt_usd_billion": 6.43,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 19.53,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 7.54,
+      "inflation_cpi_pct": 2.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -41,7 +41,7 @@
       "name": "Pointe-Noire",
       "writeup": "The country's main commercial hub and port city, known for its beaches and vibrant markets.",
       "wiki": {
-        "extract": "Pointe-Noire is the second largest city and main economic centre in the Republic of the Congo, with a population of 1,420,612 inhabitants in 2023. Since the 2002 constitution, it is also an autonomous department and a commune ; before this date it was the capital of the Kouilou region. It is situated on a headland between Pointe-Noire Bay and the Atlantic Ocean and is located near the border with Angola.",
+        "extract": "Pointe-Noire is the second largest city and main economic centre in the Republic of the Congo, with a population of 1,420,612 inhabitants in 2023. Since the 2002 constitution, it is also an autonomous department and a commune\u00a0; before this date it was the capital of the Kouilou region. It is situated on a headland between Pointe-Noire Bay and the Atlantic Ocean and is located near the border with Angola.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg/3840px-Wikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg",
         "url": "https://en.wikipedia.org/wiki/Pointe-Noire",
         "coordinates": null
@@ -51,10 +51,10 @@
   "head_of_state": "President Denis Sassou Nguesso",
   "cultural_events": [
     {
-      "name": "Fête de la Musique",
+      "name": "F\u00eate de la Musique",
       "writeup": "An annual music festival celebrated nationwide, showcasing local and international musical talents.",
       "wiki": {
-        "extract": "The Fête de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
+        "extract": "The F\u00eate de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Raga_du_soir_au_Coll%C3%A8ge_des_Bernardins_%284730079050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique"
       }
@@ -63,7 +63,7 @@
       "name": "Carnival of Brazzaville",
       "writeup": "A colorful cultural festival featuring traditional dances, music, and parades reflecting the country's diverse heritage.",
       "wiki": {
-        "extract": "Eduardo Paím is an Angolan singer who is considered to be one of the creators of the Kizomba genre, having described himself as the precursor to the genre. First popular in Angola during the 1980s, and later in the 1980s and 1990s in Portugal, he has released several albums both solo and with his band SOS.",
+        "extract": "Eduardo Pa\u00edm is an Angolan singer who is considered to be one of the creators of the Kizomba genre, having described himself as the precursor to the genre. First popular in Angola during the 1980s, and later in the 1980s and 1990s in Portugal, he has released several albums both solo and with his band SOS.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Eduardo_Pa%C3%ADm"
       }
@@ -81,7 +81,7 @@
       "description": "Former president"
     },
     {
-      "name": "Léon M'ba",
+      "name": "L\u00e9on M'ba",
       "description": "Influential political figure"
     }
   ],
@@ -124,5 +124,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ACongo%2C_Republic_of_the-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 8.07,
+      "gross_debt_pct_gdp": 94.7,
+      "gross_debt_usd_billion": 7.65,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 8.78,
+      "gross_debt_pct_gdp": 93.8,
+      "gross_debt_usd_billion": 8.24,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 11.65,
+      "gross_debt_pct_gdp": 69.6,
+      "gross_debt_usd_billion": 8.11,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 9.71,
+      "gross_debt_pct_gdp": 83.8,
+      "gross_debt_usd_billion": 8.14,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 13.16,
+      "gross_debt_pct_gdp": 43.5,
+      "gross_debt_usd_billion": 5.72,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 15.65,
+      "gross_debt_pct_gdp": 34.4,
+      "gross_debt_usd_billion": 5.38,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 17.7,
+      "gross_debt_pct_gdp": 30.2,
+      "gross_debt_usd_billion": 5.35,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 17.96,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 6.09,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 17.92,
+      "gross_debt_pct_gdp": 42.3,
+      "gross_debt_usd_billion": 7.58,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 11.89,
+      "gross_debt_pct_gdp": 74.2,
+      "gross_debt_usd_billion": 8.82,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 10.93,
+      "gross_debt_pct_gdp": 84.5,
+      "gross_debt_usd_billion": 9.23,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 11.83,
+      "gross_debt_pct_gdp": 88.5,
+      "gross_debt_usd_billion": 10.47,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 14.78,
+      "gross_debt_pct_gdp": 71.2,
+      "gross_debt_usd_billion": 10.52,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 13.98,
+      "gross_debt_pct_gdp": 77.6,
+      "gross_debt_usd_billion": 10.85,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 11.48,
+      "gross_debt_pct_gdp": 102.5,
+      "gross_debt_usd_billion": 11.77,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 13.39,
+      "gross_debt_pct_gdp": 97.8,
+      "gross_debt_usd_billion": 13.09,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 13.97,
+      "gross_debt_pct_gdp": 93.5,
+      "gross_debt_usd_billion": 13.06,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 14.17,
+      "gross_debt_pct_gdp": 102.9,
+      "gross_debt_usd_billion": 14.58,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 14.77,
+      "gross_debt_pct_gdp": 98,
+      "gross_debt_usd_billion": 14.48,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 15.59,
+      "gross_debt_pct_gdp": 96.8,
+      "gross_debt_usd_billion": 15.09,
+      "inflation_cpi_pct": 2.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

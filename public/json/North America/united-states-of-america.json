@@ -12,7 +12,7 @@
       "name": "Statue of Liberty",
       "writeup": "",
       "wiki": {
-        "extract": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island, part of New York City, in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi, and its metal framework built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
+        "extract": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman on Liberty Island, part of New York City, in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Fr\u00e9d\u00e9ric Auguste Bartholdi, and its metal framework built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "White House",
       "writeup": "",
       "wiki": {
-        "extract": "White Americans are Americans who identify as white people. In a more official sense, the United States Census Bureau, which collects demographic data on Americans, defines \"white\" as \"[a] person having origins in any of the original peoples of Europe, the Middle East, or North Africa\". White Americans have historically constituted the majority population in the United States, though their share has been gradually declining in recent decades. As of the latest American Community Survey conducted by the U.S. Census Bureau in 2024, an estimated 59.8% of the U.S. population—approximately 203.3 million people—identify as White alone, while Non-Hispanic Whites account for 56.3% of the population, or roughly 191.4 million people. Overall, 72.1% of Americans identify as White either alone or in combination with one or more other racial groups. European Americans are by far the largest panethnic group of White Americans and have constituted the majority population of the United States since the nation's founding. Middle Eastern Americans constitute a much smaller demographic of White Americans, making up around 1.1% of the US population in 2020.",
+        "extract": "White Americans are Americans who identify as white people. In a more official sense, the United States Census Bureau, which collects demographic data on Americans, defines \"white\" as \"[a] person having origins in any of the original peoples of Europe, the Middle East, or North Africa\". White Americans have historically constituted the majority population in the United States, though their share has been gradually declining in recent decades. As of the latest American Community Survey conducted by the U.S. Census Bureau in 2024, an estimated 59.8% of the U.S. population\u2014approximately 203.3 million people\u2014identify as White alone, while Non-Hispanic Whites account for 56.3% of the population, or roughly 191.4 million people. Overall, 72.1% of Americans identify as White either alone or in combination with one or more other racial groups. European Americans are by far the largest panethnic group of White Americans and have constituted the majority population of the United States since the nation's founding. Middle Eastern Americans constitute a much smaller demographic of White Americans, making up around 1.1% of the US population in 2020.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/White_Americans_2020_County.png/3840px-White_Americans_2020_County.png",
         "url": "https://en.wikipedia.org/wiki/White_Americans",
         "coordinates": null
@@ -48,7 +48,7 @@
       "name": "Mount Rushmore",
       "writeup": "",
       "wiki": {
-        "extract": "The Mount Rushmore National Memorial is a national memorial featuring a colossal sculpture carved into the granite face of Mount Rushmore in the Black Hills, about 2 mi (3 km) southwest of Keystone, South Dakota, United States. The sculptor, Gutzon Borglum, named it the Shrine of Democracy, and oversaw the execution from 1927 to 1941 with the help of his son, Lincoln Borglum. The sculpture features 60-foot-tall (18 m) depictions of the heads of four United States presidents: George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln, respectively chosen to represent the nation's foundation, expansion, development, and preservation. Mount Rushmore attracts more than two million visitors annually to the memorial park which covers 1,278 acres.",
+        "extract": "The Mount Rushmore National Memorial is a national memorial featuring a colossal sculpture carved into the granite face of Mount Rushmore in the Black Hills, about 2\u00a0mi (3\u00a0km) southwest of Keystone, South Dakota, United States. The sculptor, Gutzon Borglum, named it the Shrine of Democracy, and oversaw the execution from 1927 to 1941 with the help of his son, Lincoln Borglum. The sculpture features 60-foot-tall (18\u00a0m) depictions of the heads of four United States presidents: George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln, respectively chosen to represent the nation's foundation, expansion, development, and preservation. Mount Rushmore attracts more than two million visitors annually to the memorial park which covers 1,278 acres.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/3840px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Mount_Rushmore",
         "coordinates": {
@@ -61,7 +61,7 @@
       "name": "Golden Gate Bridge",
       "writeup": "",
       "wiki": {
-        "extract": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco—the northern tip of the San Francisco Peninsula—to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
+        "extract": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6\u00a0km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco\u2014the northern tip of the San Francisco Peninsula\u2014to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
         "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
         "coordinates": {
@@ -95,7 +95,7 @@
       "name": "Super Bowl",
       "writeup": "",
       "wiki": {
-        "extract": "The Super Bowl is the league championship final game of the National Football League (NFL) of the United States. It has served as the final game of every NFL season since 1966 replacing the NFL Championship Game and also served as the final game of every American Football League season from 1966 to 1967 prior to the AFL–NFL merger replacing the AFL championship game. Since 2022, the game has been played on the second Sunday in February. Prior Super Bowls were played on Sundays in early to mid-January from 1967 to 1978, late January from 1979 to 2003, and the first Sunday of February from 2004 to 2021. Winning teams are awarded the Vince Lombardi Trophy, named after the coach who won the first two Super Bowls. Because the NFL restricts the use of its \"Super Bowl\" trademark, it is frequently referred to as the \"big game\" or other generic terms by non-sponsoring corporations. The day the game is held is commonly referred to as \"Super Bowl Sunday\" or \"Super Sunday\".",
+        "extract": "The Super Bowl is the league championship final game of the National Football League (NFL) of the United States. It has served as the final game of every NFL season since 1966 replacing the NFL Championship Game and also served as the final game of every American Football League season from 1966 to 1967 prior to the AFL\u2013NFL merger replacing the AFL championship game. Since 2022, the game has been played on the second Sunday in February. Prior Super Bowls were played on Sundays in early to mid-January from 1967 to 1978, late January from 1979 to 2003, and the first Sunday of February from 2004 to 2021. Winning teams are awarded the Vince Lombardi Trophy, named after the coach who won the first two Super Bowls. Because the NFL restricts the use of its \"Super Bowl\" trademark, it is frequently referred to as the \"big game\" or other generic terms by non-sponsoring corporations. The day the game is held is commonly referred to as \"Super Bowl Sunday\" or \"Super Sunday\".",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Super_Bowl_logo.svg/250px-Super_Bowl_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Super_Bowl"
       }
@@ -188,5 +188,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:United_States_CIA_World_Factbook.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 13815.6,
+      "gross_debt_pct_gdp": 64.53,
+      "gross_debt_usd_billion": 8915.34,
+      "inflation_cpi_pct": 3.22,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 14474.25,
+      "gross_debt_pct_gdp": 64.95,
+      "gross_debt_usd_billion": 9400.74,
+      "inflation_cpi_pct": 2.87,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 14769.85,
+      "gross_debt_pct_gdp": 73.84,
+      "gross_debt_usd_billion": 10906.8,
+      "inflation_cpi_pct": 3.81,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 14478.05,
+      "gross_debt_pct_gdp": 87.07,
+      "gross_debt_usd_billion": 12606.04,
+      "inflation_cpi_pct": -0.32,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 15048.98,
+      "gross_debt_pct_gdp": 95.64,
+      "gross_debt_usd_billion": 14393.44,
+      "inflation_cpi_pct": 1.64,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 15599.73,
+      "gross_debt_pct_gdp": 100.02,
+      "gross_debt_usd_billion": 15602.84,
+      "inflation_cpi_pct": 3.14,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 16253.95,
+      "gross_debt_pct_gdp": 103.66,
+      "gross_debt_usd_billion": 16848.68,
+      "inflation_cpi_pct": 2.07,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 16880.67,
+      "gross_debt_pct_gdp": 105.0,
+      "gross_debt_usd_billion": 17725.22,
+      "inflation_cpi_pct": 1.47,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 17608.12,
+      "gross_debt_pct_gdp": 104.93,
+      "gross_debt_usd_billion": 18476.21,
+      "inflation_cpi_pct": 1.61,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 18295,
+      "gross_debt_pct_gdp": 105.42,
+      "gross_debt_usd_billion": 19287.32,
+      "inflation_cpi_pct": 0.12,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 18804.9,
+      "gross_debt_pct_gdp": 107.38,
+      "gross_debt_usd_billion": 20192.7,
+      "inflation_cpi_pct": 1.27,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 19612.1,
+      "gross_debt_pct_gdp": 106.37,
+      "gross_debt_usd_billion": 20862.18,
+      "inflation_cpi_pct": 2.13,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 20656.53,
+      "gross_debt_pct_gdp": 107.62,
+      "gross_debt_usd_billion": 22231.59,
+      "inflation_cpi_pct": 2.44,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 21539.97,
+      "gross_debt_pct_gdp": 108.75,
+      "gross_debt_usd_billion": 23424.94,
+      "inflation_cpi_pct": 1.81,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 21375.28,
+      "gross_debt_pct_gdp": 132.51,
+      "gross_debt_usd_billion": 28325.02,
+      "inflation_cpi_pct": 1.25,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 23725.65,
+      "gross_debt_pct_gdp": 125.01,
+      "gross_debt_usd_billion": 29659.2,
+      "inflation_cpi_pct": 4.68,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 26054.6,
+      "gross_debt_pct_gdp": 119.1,
+      "gross_debt_usd_billion": 31032.07,
+      "inflation_cpi_pct": 7.99,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 27811.5,
+      "gross_debt_pct_gdp": 119.84,
+      "gross_debt_usd_billion": 33328.19,
+      "inflation_cpi_pct": 4.13,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 29298.03,
+      "gross_debt_pct_gdp": 122.32,
+      "gross_debt_usd_billion": 35837.93,
+      "inflation_cpi_pct": 2.95,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 30615.74,
+      "gross_debt_pct_gdp": 125.05,
+      "gross_debt_usd_billion": 38284.99,
+      "inflation_cpi_pct": 2.71,
+      "status": "IMF projection"
+    }
+  ]
 }

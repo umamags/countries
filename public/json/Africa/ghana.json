@@ -25,7 +25,7 @@
       "name": "Kakum National Park",
       "writeup": "A tropical rainforest reserve known for its canopy walkway and diverse wildlife.",
       "wiki": {
-        "extract": "Kakum National Park, located in the coastal environs of the Central Region of Ghana, covers an area of 375 square kilometres (145 sq mi). Established in 1931 as a reserve, it was gazetted as a national park only in 1992 after an initial survey of avifauna was conducted. The area is covered with tropical forest. The uniqueness of this park lies in the fact that it was established at the initiative of the local people and not by the State Department of wildlife who are responsible for wildlife preservation in Ghana. It is one of only 3 locations in Africa with a canopy walkway, which is 350 metres (1,150 ft) long and connects seven tree tops which provides access to the forest.",
+        "extract": "Kakum National Park, located in the coastal environs of the Central Region of Ghana, covers an area of 375 square kilometres (145\u00a0sq\u00a0mi). Established in 1931 as a reserve, it was gazetted as a national park only in 1992 after an initial survey of avifauna was conducted. The area is covered with tropical forest. The uniqueness of this park lies in the fact that it was established at the initiative of the local people and not by the State Department of wildlife who are responsible for wildlife preservation in Ghana. It is one of only 3 locations in Africa with a canopy walkway, which is 350 metres (1,150\u00a0ft) long and connects seven tree tops which provides access to the forest.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kakum.jpg",
         "url": "https://en.wikipedia.org/wiki/Kakum_National_Park",
         "coordinates": {
@@ -112,5 +112,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Ghana.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 30.96,
+      "gross_debt_pct_gdp": 17.3,
+      "gross_debt_usd_billion": 5.36,
+      "inflation_cpi_pct": 11.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 36.54,
+      "gross_debt_pct_gdp": 21.1,
+      "gross_debt_usd_billion": 7.71,
+      "inflation_cpi_pct": 10.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 41.32,
+      "gross_debt_pct_gdp": 23.2,
+      "gross_debt_usd_billion": 9.59,
+      "inflation_cpi_pct": 16.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 37.13,
+      "gross_debt_pct_gdp": 25.4,
+      "gross_debt_usd_billion": 9.43,
+      "inflation_cpi_pct": 13.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 45.45,
+      "gross_debt_pct_gdp": 32.9,
+      "gross_debt_usd_billion": 14.95,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 53.62,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 16.73,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 55.8,
+      "gross_debt_pct_gdp": 35.5,
+      "gross_debt_usd_billion": 19.81,
+      "inflation_cpi_pct": 7.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 62.85,
+      "gross_debt_pct_gdp": 42.9,
+      "gross_debt_usd_billion": 26.96,
+      "inflation_cpi_pct": 11.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 54.68,
+      "gross_debt_pct_gdp": 50.1,
+      "gross_debt_usd_billion": 27.39,
+      "inflation_cpi_pct": 15.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 49.44,
+      "gross_debt_pct_gdp": 53.9,
+      "gross_debt_usd_billion": 26.65,
+      "inflation_cpi_pct": 17.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 56.14,
+      "gross_debt_pct_gdp": 55.9,
+      "gross_debt_usd_billion": 31.38,
+      "inflation_cpi_pct": 17.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 60.38,
+      "gross_debt_pct_gdp": 57,
+      "gross_debt_usd_billion": 34.42,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 67.26,
+      "gross_debt_pct_gdp": 62,
+      "gross_debt_usd_billion": 41.7,
+      "inflation_cpi_pct": 9.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 68.35,
+      "gross_debt_pct_gdp": 62.9,
+      "gross_debt_usd_billion": 42.99,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 70.01,
+      "gross_debt_pct_gdp": 79.1,
+      "gross_debt_usd_billion": 55.38,
+      "inflation_cpi_pct": 9.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 79.51,
+      "gross_debt_pct_gdp": 86.9,
+      "gross_debt_usd_billion": 69.1,
+      "inflation_cpi_pct": 10,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 73.92,
+      "gross_debt_pct_gdp": 92.7,
+      "gross_debt_usd_billion": 68.52,
+      "inflation_cpi_pct": 31.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 80.55,
+      "gross_debt_pct_gdp": 79.1,
+      "gross_debt_usd_billion": 63.71,
+      "inflation_cpi_pct": 39.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 83.29,
+      "gross_debt_pct_gdp": 70.3,
+      "gross_debt_usd_billion": 58.55,
+      "inflation_cpi_pct": 22.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 114.71,
+      "gross_debt_pct_gdp": 48.8,
+      "gross_debt_usd_billion": 55.98,
+      "inflation_cpi_pct": 14.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

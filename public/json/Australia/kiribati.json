@@ -13,7 +13,7 @@
       "name": "Phoenix Islands Protected Area",
       "writeup": "One of the largest marine protected areas in the world, known for its rich biodiversity and pristine coral reefs.",
       "wiki": {
-        "extract": "The Phoenix Islands Protected Area (PIPA) is located in the Republic of Kiribati, an ocean nation in the central Pacific approximately midway between Australia and Hawaii. PIPA constitutes 11.34% of Kiribati's exclusive economic zone (EEZ), and with a size of 408,250 km2 (157,630 sq mi), it is one of the largest marine protected areas (MPA) and one of the largest protected areas of any type on Earth. The PIPA was also designated as the world's largest and deepest UNESCO World Heritage Site in 2010.",
+        "extract": "The Phoenix Islands Protected Area (PIPA) is located in the Republic of Kiribati, an ocean nation in the central Pacific approximately midway between Australia and Hawaii. PIPA constitutes 11.34% of Kiribati's exclusive economic zone (EEZ), and with a size of 408,250\u00a0km2 (157,630\u00a0sq\u00a0mi), it is one of the largest marine protected areas (MPA) and one of the largest protected areas of any type on Earth. The PIPA was also designated as the world's largest and deepest UNESCO World Heritage Site in 2010.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rotjan_-_Enderbury_Day_1_-_2nd_half_%2862%29.JPG",
         "url": "https://en.wikipedia.org/wiki/Phoenix_Islands_Protected_Area",
         "coordinates": {
@@ -55,7 +55,7 @@
       "name": "Te Kaimatoa",
       "writeup": "A traditional dance festival celebrating Kiribati culture, featuring music, dance, and storytelling.",
       "wiki": {
-        "extract": "Kiribati, officially the Republic of Kiribati, is an archipelagic country spanning the Micronesia and Polynesia sub-regions of Oceania in the central Pacific Ocean. The state comprises 32 atolls and other islands and one remote raised coral island, Banaba. Its total land area is 811 km2 (313 sq mi) dispersed over 3,441,810 km2 (1,328,890 sq mi) of ocean. The spread of the country's islands, from Banaba in the west to Kiritimati in the east straddles the equator and the 180th meridian. The International Date Line goes around Kiribati and swings far to the east, almost reaching 150°W. This brings Kiribati's easternmost islands, the southern Line Islands south of Hawaii, into the same day as the Gilbert Islands and places them in the most advanced time zone on Earth: UTC+14.",
+        "extract": "Kiribati, officially the Republic of Kiribati, is an archipelagic country spanning the Micronesia and Polynesia sub-regions of Oceania in the central Pacific Ocean. The state comprises 32 atolls and other islands and one remote raised coral island, Banaba. Its total land area is 811\u00a0km2 (313\u00a0sq\u00a0mi) dispersed over 3,441,810\u00a0km2 (1,328,890\u00a0sq\u00a0mi) of ocean. The spread of the country's islands, from Banaba in the west to Kiritimati in the east straddles the equator and the 180th meridian. The International Date Line goes around Kiribati and swings far to the east, almost reaching 150\u00b0W. This brings Kiribati's easternmost islands, the southern Line Islands south of Hawaii, into the same day as the Gilbert Islands and places them in the most advanced time zone on Earth: UTC+14.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/960px-Flag_of_Kiribati.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Kiribati"
       }
@@ -113,5 +113,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AKiribati_CIA_WFB_map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.11,
+      "gross_debt_pct_gdp": 12.9,
+      "gross_debt_usd_billion": 0.01,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.14,
+      "gross_debt_pct_gdp": 11.1,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.15,
+      "gross_debt_pct_gdp": 13.9,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 13.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.14,
+      "gross_debt_pct_gdp": 10.3,
+      "gross_debt_usd_billion": 0.01,
+      "inflation_cpi_pct": 9.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.17,
+      "gross_debt_pct_gdp": 9.4,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": -3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 0.2,
+      "gross_debt_pct_gdp": 8.8,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 0.21,
+      "gross_debt_pct_gdp": 8.1,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": -3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 0.2,
+      "gross_debt_pct_gdp": 8.9,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": -1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 0.2,
+      "gross_debt_pct_gdp": 9,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 0.19,
+      "gross_debt_pct_gdp": 18.8,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 0.21,
+      "gross_debt_pct_gdp": 21.2,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 0.22,
+      "gross_debt_pct_gdp": 20.2,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 0.23,
+      "gross_debt_pct_gdp": 19,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 0.23,
+      "gross_debt_pct_gdp": 18.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": -1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 0.22,
+      "gross_debt_pct_gdp": 21,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 0.29,
+      "gross_debt_pct_gdp": 17.3,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 0.27,
+      "gross_debt_pct_gdp": 16.2,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 0.29,
+      "gross_debt_pct_gdp": 11.3,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 0.34,
+      "gross_debt_pct_gdp": 8.9,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 0.35,
+      "gross_debt_pct_gdp": 8,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": 6.5,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

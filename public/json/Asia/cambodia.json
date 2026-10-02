@@ -14,7 +14,7 @@
       "name": "Angkor Wat",
       "writeup": "A massive 12th-century temple complex in Siem Reap, Angkor Wat is the largest religious monument in the world and a symbol of Cambodia.",
       "wiki": {
-        "extract": "Angkor Wat is a Vaishnava Hindu and Theravada Buddhist temple complex in Siem Reap, Cambodia, and the largest religious complex in the world. Located on a site measuring 162.6 hectares within the ancient capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu. From the late 13th century onward, the complex was gradually transformed into a Buddhist temple and has remained an active center of Buddhist worship for centuries. Angkor Wat is noted for its monumental scale, extensive bas-reliefs, and architectural unity characteristics of Khmer architecture. Unlike most Angkorian temples, it is oriented toward the west. It is a symbol of Cambodia and appears on the Cambodian national flag.",
+        "extract": "Angkor Wat is a Vaishnava Hindu and Theravada Buddhist temple complex in Siem Reap, Cambodia, and the largest religious complex in the world. Located on a site measuring 162.6 hectares within the ancient capital of Angkor, it was constructed between 1113 and 1150\u00a0CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu. From the late 13th century onward, the complex was gradually transformed into a Buddhist temple and has remained an active center of Buddhist worship for centuries. Angkor Wat is noted for its monumental scale, extensive bas-reliefs, and architectural unity characteristics of Khmer architecture. Unlike most Angkorian temples, it is oriented toward the west. It is a symbol of Cambodia and appears on the Cambodian national flag.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg",
         "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
         "coordinates": {
@@ -27,7 +27,7 @@
       "name": "Royal Palace, Phnom Penh",
       "writeup": "The official residence of the King of Cambodia, featuring classic Khmer architecture and beautiful gardens.",
       "wiki": {
-        "extract": "Phnom Penh is the capital and most populous city of Cambodia. It has been the national capital since 1865 and has grown to become the nation's primate city and its political, economic, industrial, and cultural centre. The city's name derives from Wat Phnom, a Buddhist temple, and Lady Penh, the city's founder. It sits at the confluence of the Tonlé Sap and Mekong rivers, and is the start of the Bassac River. It is also the seat of Cambodia's monarchy, based at the Royal Palace.",
+        "extract": "Phnom Penh is the capital and most populous city of Cambodia. It has been the national capital since 1865 and has grown to become the nation's primate city and its political, economic, industrial, and cultural centre. The city's name derives from Wat Phnom, a Buddhist temple, and Lady Penh, the city's founder. It sits at the confluence of the Tonl\u00e9 Sap and Mekong rivers, and is the start of the Bassac River. It is also the seat of Cambodia's monarchy, based at the Royal Palace.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
         "url": "https://en.wikipedia.org/wiki/Phnom_Penh",
         "coordinates": {
@@ -53,7 +53,7 @@
       "name": "Koh Ker",
       "writeup": "An ancient temple complex in northern Cambodia, known for its remote location and unique pyramid-shaped temple.",
       "wiki": {
-        "extract": "Koh Ker is a remote archaeological site in northern Cambodia about 120 kilometres (75 mi) away from Siem Reap and the ancient site of Angkor. It is a jungle filled region that is sparsely populated. More than 180 sanctuaries were found in a protected area of 81 square kilometres (31 sq mi). Only about two dozen monuments can be visited by tourists because most of the sanctuaries are hidden in the forest and the whole area is not fully demined.",
+        "extract": "Koh Ker is a remote archaeological site in northern Cambodia about 120 kilometres (75\u00a0mi) away from Siem Reap and the ancient site of Angkor. It is a jungle filled region that is sparsely populated. More than 180 sanctuaries were found in a protected area of 81 square kilometres (31\u00a0sq\u00a0mi). Only about two dozen monuments can be visited by tourists because most of the sanctuaries are hidden in the forest and the whole area is not fully demined.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/0505280017PThompyramid.jpg",
         "url": "https://en.wikipedia.org/wiki/Koh_Ker",
         "coordinates": {
@@ -66,7 +66,7 @@
       "name": "Tonle Sap Lake",
       "writeup": "Southeast Asia's largest freshwater lake, vital for Cambodia's fishing industry and biodiversity.",
       "wiki": {
-        "extract": "Tonlé Sap is a lake in central Cambodia. Belonging to the Mekong river system, Tonlé Sap is the largest freshwater lake in Southeast Asia and one of the most diverse and productive ecosystems in the world. It was designated as a Biosphere Reserve by UNESCO in 1997 due to its high biodiversity. The lake has a large seasonal variation in water depth, with the post-monsoon level sometimes being as much as 10 metres higher than during the monsoons. During the 21st century, the lake and its surrounding ecosystems have come under increasing pressure from deforestation, intensive agriculture and fishery, infrastructure development and climate change.",
+        "extract": "Tonl\u00e9 Sap is a lake in central Cambodia. Belonging to the Mekong river system, Tonl\u00e9 Sap is the largest freshwater lake in Southeast Asia and one of the most diverse and productive ecosystems in the world. It was designated as a Biosphere Reserve by UNESCO in 1997 due to its high biodiversity. The lake has a large seasonal variation in water depth, with the post-monsoon level sometimes being as much as 10 metres higher than during the monsoons. During the 21st century, the lake and its surrounding ecosystems have come under increasing pressure from deforestation, intensive agriculture and fishery, infrastructure development and climate change.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cambodia%2C_Tonle_Sap_IMG_3285.JPG",
         "url": "https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap",
         "coordinates": {
@@ -169,5 +169,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Cambodia.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 8.37,
+      "gross_debt_pct_gdp": 26.6,
+      "gross_debt_usd_billion": 2.23,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.03,
+      "gross_debt_pct_gdp": 25.3,
+      "gross_debt_usd_billion": 2.54,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 12.29,
+      "gross_debt_pct_gdp": 22.7,
+      "gross_debt_usd_billion": 2.79,
+      "inflation_cpi_pct": 25,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 12.8,
+      "gross_debt_pct_gdp": 23.1,
+      "gross_debt_usd_billion": 2.96,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 13.72,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 3.22,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 16.05,
+      "gross_debt_pct_gdp": 23.7,
+      "gross_debt_usd_billion": 3.81,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 17.76,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 4.44,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 19.68,
+      "gross_debt_pct_gdp": 24.6,
+      "gross_debt_usd_billion": 4.84,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 22.18,
+      "gross_debt_pct_gdp": 24,
+      "gross_debt_usd_billion": 5.32,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 24.08,
+      "gross_debt_pct_gdp": 23.4,
+      "gross_debt_usd_billion": 5.63,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 26.5,
+      "gross_debt_pct_gdp": 22,
+      "gross_debt_usd_billion": 5.83,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 29.12,
+      "gross_debt_pct_gdp": 22.9,
+      "gross_debt_usd_billion": 6.67,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 32.84,
+      "gross_debt_pct_gdp": 21.3,
+      "gross_debt_usd_billion": 6.99,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 35.98,
+      "gross_debt_pct_gdp": 21.2,
+      "gross_debt_usd_billion": 7.63,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 34.5,
+      "gross_debt_pct_gdp": 25.5,
+      "gross_debt_usd_billion": 8.8,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 36.17,
+      "gross_debt_pct_gdp": 26.4,
+      "gross_debt_usd_billion": 9.55,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 39.46,
+      "gross_debt_pct_gdp": 25.3,
+      "gross_debt_usd_billion": 9.98,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 42.4,
+      "gross_debt_pct_gdp": 26.3,
+      "gross_debt_usd_billion": 11.15,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 46.1,
+      "gross_debt_pct_gdp": 26.1,
+      "gross_debt_usd_billion": 12.03,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 49.29,
+      "gross_debt_pct_gdp": 26.5,
+      "gross_debt_usd_billion": 13.06,
+      "inflation_cpi_pct": 2.5,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -53,7 +53,7 @@
       "name": "Red Crab Migration Festival",
       "writeup": "Celebrates the annual migration of millions of red crabs from the forest to the sea.",
       "wiki": {
-        "extract": "Crab fisheries are fisheries which capture or farm crabs. True crabs make up 20% of all crustaceans caught and farmed worldwide, with about 1.4 million tonnes being consumed annually. The horse crab, Portunus trituberculatus, accounts for one quarter of that total. Other important species include flower crabs, snow crabs (Chionoecetes), blue crabs, edible or brown crabs, Dungeness crab, and mud crabs, each of which provides more than 20,000 tonnes annually.",
+        "extract": "Crab fisheries are fisheries which capture or farm crabs. True crabs make up 20% of all crustaceans caught and farmed worldwide, with about 1.4 million tonnes being consumed annually. The horse crab, Portunus trituberculatus, accounts for one quarter of that total. Other important species include flower crabs, snow crabs (Chionoecetes), blue crabs, edible or brown crabs, Dungeness crab, and mud crabs, each of which provides more than 20,000\u00a0tonnes annually.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/A_Illa_de_Arousa.Galicia.35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Crab_fisheries"
       }
@@ -99,5 +99,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Christmas_Island.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

@@ -17,7 +17,7 @@
       "name": "Victoria Falls",
       "writeup": "One of the largest and most famous waterfalls in the world, located on the Zambezi River at the border between Zambia and Zimbabwe.",
       "wiki": {
-        "extract": "Victoria Falls is a waterfall on the Zambezi River, located on the border between Zambia and Zimbabwe. It is one of the world's largest waterfalls, with a width of 1,708 m (5,604 ft). The region around it has a high degree of biodiversity in both plants and animals.",
+        "extract": "Victoria Falls is a waterfall on the Zambezi River, located on the border between Zambia and Zimbabwe. It is one of the world's largest waterfalls, with a width of 1,708\u00a0m (5,604\u00a0ft). The region around it has a high degree of biodiversity in both plants and animals.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/3840px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
         "url": "https://en.wikipedia.org/wiki/Victoria_Falls",
         "coordinates": {
@@ -30,7 +30,7 @@
       "name": "South Luangwa National Park",
       "writeup": "A renowned wildlife sanctuary known for its walking safaris and diverse animal populations including elephants, lions, and hippos.",
       "wiki": {
-        "extract": "South Luangwa National Park is a national park in eastern Zambia that was founded as a game reserve in 1938 and became a national park in 1972. It covers 9,050 km2 (3,490 sq mi) in the valley of the Luangwa River, which forms its eastern boundary in the Eastern Province of Zambia. It is bordered to the west by a steep escarpment, the Muchinga Escarpment in Muchinga and Central Provinces. The Luangwa Valley lies at the end of the East African Rift valley.\nThe meandering Luangwa River and its lagoons support over 400 bird species and more than 60 mammal species including Rhodesian giraffe, African bush elephant and African buffalo.",
+        "extract": "South Luangwa National Park is a national park in eastern Zambia that was founded as a game reserve in 1938 and became a national park in 1972. It covers 9,050\u00a0km2 (3,490\u00a0sq\u00a0mi) in the valley of the Luangwa River, which forms its eastern boundary in the Eastern Province of Zambia. It is bordered to the west by a steep escarpment, the Muchinga Escarpment in Muchinga and Central Provinces. The Luangwa Valley lies at the end of the East African Rift valley.\nThe meandering Luangwa River and its lagoons support over 400 bird species and more than 60 mammal species including Rhodesian giraffe, African bush elephant and African buffalo.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Luangwa_River_crossing.jpg/3840px-Luangwa_River_crossing.jpg",
         "url": "https://en.wikipedia.org/wiki/South_Luangwa_National_Park",
         "coordinates": {
@@ -56,7 +56,7 @@
       "name": "Kafue National Park",
       "writeup": "One of Africa's largest national parks, home to a wide variety of wildlife and diverse ecosystems.",
       "wiki": {
-        "extract": "Kafue National Park is the largest national park in Zambia, covering an area of about 22,400 km2 (8,600 sq mi). It is the second largest national park in Africa and home to 152 mammal species. There are also 515 bird species, 70 reptile species, 58 species of fish and 36 amphibious species.",
+        "extract": "Kafue National Park is the largest national park in Zambia, covering an area of about 22,400\u00a0km2 (8,600\u00a0sq\u00a0mi). It is the second largest national park in Africa and home to 152 mammal species. There are also 515 bird species, 70 reptile species, 58 species of fish and 36 amphibious species.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kafue_National_Park.jpg",
         "url": "https://en.wikipedia.org/wiki/Kafue_National_Park",
         "coordinates": {
@@ -158,5 +158,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AZambia-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 12.76,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 3.19,
+      "inflation_cpi_pct": 9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 14.06,
+      "gross_debt_pct_gdp": 21.9,
+      "gross_debt_usd_billion": 3.08,
+      "inflation_cpi_pct": 10.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 17.91,
+      "gross_debt_pct_gdp": 19.2,
+      "gross_debt_usd_billion": 3.44,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 15.33,
+      "gross_debt_pct_gdp": 20.5,
+      "gross_debt_usd_billion": 3.14,
+      "inflation_cpi_pct": 13.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 20.26,
+      "gross_debt_pct_gdp": 18.9,
+      "gross_debt_usd_billion": 3.83,
+      "inflation_cpi_pct": 8.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 23.45,
+      "gross_debt_pct_gdp": 20.8,
+      "gross_debt_usd_billion": 4.88,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 25.5,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 6.35,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 28.04,
+      "gross_debt_pct_gdp": 25.9,
+      "gross_debt_usd_billion": 7.26,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 27.14,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 9.2,
+      "inflation_cpi_pct": 7.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 21.25,
+      "gross_debt_pct_gdp": 61.9,
+      "gross_debt_usd_billion": 13.15,
+      "inflation_cpi_pct": 10.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 20.96,
+      "gross_debt_pct_gdp": 61.2,
+      "gross_debt_usd_billion": 12.83,
+      "inflation_cpi_pct": 17.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 25.87,
+      "gross_debt_pct_gdp": 66.6,
+      "gross_debt_usd_billion": 17.23,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 26.31,
+      "gross_debt_pct_gdp": 81.2,
+      "gross_debt_usd_billion": 21.36,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 23.31,
+      "gross_debt_pct_gdp": 103.3,
+      "gross_debt_usd_billion": 24.08,
+      "inflation_cpi_pct": 9.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 18.14,
+      "gross_debt_pct_gdp": 140,
+      "gross_debt_usd_billion": 25.39,
+      "inflation_cpi_pct": 15.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 22.1,
+      "gross_debt_pct_gdp": 111,
+      "gross_debt_usd_billion": 24.53,
+      "inflation_cpi_pct": 22,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 29.16,
+      "gross_debt_pct_gdp": 99.5,
+      "gross_debt_usd_billion": 29.02,
+      "inflation_cpi_pct": 11,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 27.58,
+      "gross_debt_pct_gdp": 129.1,
+      "gross_debt_usd_billion": 35.6,
+      "inflation_cpi_pct": 10.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 25.3,
+      "gross_debt_pct_gdp": 125.2,
+      "gross_debt_usd_billion": 31.68,
+      "inflation_cpi_pct": 15,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 28.88,
+      "gross_debt_pct_gdp": 86,
+      "gross_debt_usd_billion": 24.84,
+      "inflation_cpi_pct": 13.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

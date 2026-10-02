@@ -36,7 +36,7 @@
       "name": "Mount Mulanje",
       "writeup": "The highest peak in Malawi, popular for hiking and its unique biodiversity.",
       "wiki": {
-        "extract": "The Mulanje Massif, also known as Mount Mulanje, is a large inselberg and World Heritage Site in southern Malawi. Sapitwa Peak, the highest point on the massif at 3,002 m, is the highest point in Malawi. It lies 65 km east of Blantyre, rising sharply from the surrounding plains of Phalombe and the Mulanje district. It forms part of a proposed ecoregion, to be called the South East Africa Montane Archipelago (SEAMA).",
+        "extract": "The Mulanje Massif, also known as Mount Mulanje, is a large inselberg and World Heritage Site in southern Malawi. Sapitwa Peak, the highest point on the massif at 3,002\u00a0m, is the highest point in Malawi. It lies 65\u00a0km east of Blantyre, rising sharply from the surrounding plains of Phalombe and the Mulanje district. It forms part of a proposed ecoregion, to be called the South East Africa Montane Archipelago (SEAMA).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mulanje_ETM_26may02.jpg/3840px-Mulanje_ETM_26may02.jpg",
         "url": "https://en.wikipedia.org/wiki/Mulanje_Massif",
         "coordinates": {
@@ -122,5 +122,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AMalawi_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 5.63,
+      "gross_debt_pct_gdp": 17.9,
+      "gross_debt_usd_billion": 1.01,
+      "inflation_cpi_pct": 13.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 6.24,
+      "gross_debt_pct_gdp": 18.9,
+      "gross_debt_usd_billion": 1.18,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 7.49,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 1.76,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 8.72,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 2.05,
+      "inflation_cpi_pct": 8.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 9.8,
+      "gross_debt_pct_gdp": 19.3,
+      "gross_debt_usd_billion": 1.89,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 11.24,
+      "gross_debt_pct_gdp": 20,
+      "gross_debt_usd_billion": 2.25,
+      "inflation_cpi_pct": 7.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 8.42,
+      "gross_debt_pct_gdp": 28.6,
+      "gross_debt_usd_billion": 2.41,
+      "inflation_cpi_pct": 21.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 7.65,
+      "gross_debt_pct_gdp": 35.3,
+      "gross_debt_usd_billion": 2.7,
+      "inflation_cpi_pct": 28.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 8.53,
+      "gross_debt_pct_gdp": 33.5,
+      "gross_debt_usd_billion": 2.86,
+      "inflation_cpi_pct": 23.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 9.01,
+      "gross_debt_pct_gdp": 35.5,
+      "gross_debt_usd_billion": 3.2,
+      "inflation_cpi_pct": 21.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 7.73,
+      "gross_debt_pct_gdp": 37.1,
+      "gross_debt_usd_billion": 2.87,
+      "inflation_cpi_pct": 21.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 8.94,
+      "gross_debt_pct_gdp": 40,
+      "gross_debt_usd_billion": 3.58,
+      "inflation_cpi_pct": 11.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 9.88,
+      "gross_debt_pct_gdp": 40.8,
+      "gross_debt_usd_billion": 4.03,
+      "inflation_cpi_pct": 9.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 11.03,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 4.54,
+      "inflation_cpi_pct": 9.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 11.85,
+      "gross_debt_pct_gdp": 53.9,
+      "gross_debt_usd_billion": 6.39,
+      "inflation_cpi_pct": 8.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 12.47,
+      "gross_debt_pct_gdp": 66.5,
+      "gross_debt_usd_billion": 8.3,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 12.53,
+      "gross_debt_pct_gdp": 75.7,
+      "gross_debt_usd_billion": 9.49,
+      "inflation_cpi_pct": 20.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 13.44,
+      "gross_debt_pct_gdp": 86.7,
+      "gross_debt_usd_billion": 11.65,
+      "inflation_cpi_pct": 28.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 11.79,
+      "gross_debt_pct_gdp": 87.6,
+      "gross_debt_usd_billion": 10.33,
+      "inflation_cpi_pct": 32.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 15.05,
+      "gross_debt_pct_gdp": 78.4,
+      "gross_debt_usd_billion": 11.8,
+      "inflation_cpi_pct": 28.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

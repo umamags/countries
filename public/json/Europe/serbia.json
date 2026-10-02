@@ -25,7 +25,7 @@
       "name": "Studenica Monastery",
       "writeup": "A 12th-century Serbian Orthodox monastery, renowned for its medieval frescoes and cultural significance.",
       "wiki": {
-        "extract": "The Studenica Monastery is a 12th-century Serbian Orthodox monastery situated 39 kilometres (24 mi) southwest of Kraljevo and 40.9 kilometres (25.4 mi) east of Ivanjica, in central Serbia.",
+        "extract": "The Studenica Monastery is a 12th-century Serbian Orthodox monastery situated 39 kilometres (24\u00a0mi) southwest of Kraljevo and 40.9 kilometres (25.4\u00a0mi) east of Ivanjica, in central Serbia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg/3840px-Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg",
         "url": "https://en.wikipedia.org/wiki/Studenica_Monastery",
         "coordinates": {
@@ -46,7 +46,7 @@
       "name": "EXIT Festival",
       "writeup": "One of Europe's largest music festivals held annually in Novi Sad, attracting international artists and visitors.",
       "wiki": {
-        "extract": "Exit was an annual music festival held in Serbia since 2000. Traditionally staged at the Petrovaradin Fortress in Novi Sad, it has grown into one of Europe’s largest music events, attracting around 200,000 visitors in recent editions.",
+        "extract": "Exit was an annual music festival held in Serbia since 2000. Traditionally staged at the Petrovaradin Fortress in Novi Sad, it has grown into one of Europe\u2019s largest music events, attracting around 200,000 visitors in recent editions.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mind_Against%2C_Dance_Arena%2C_2023.jpg/3840px-Mind_Against%2C_Dance_Arena%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Exit_(festival)"
       }
@@ -104,5 +104,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASerbia_2008_CIA_World_Factbook_map_with_notes.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 33.42,
+      "gross_debt_pct_gdp": 37,
+      "gross_debt_usd_billion": 12.37,
+      "inflation_cpi_pct": 10.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 45.12,
+      "gross_debt_pct_gdp": 30,
+      "gross_debt_usd_billion": 13.54,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 54.12,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 15.91,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 46.95,
+      "gross_debt_pct_gdp": 35.3,
+      "gross_debt_usd_billion": 16.57,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 43.07,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 18.26,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 51.27,
+      "gross_debt_pct_gdp": 46,
+      "gross_debt_usd_billion": 23.59,
+      "inflation_cpi_pct": 11.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 45.11,
+      "gross_debt_pct_gdp": 58,
+      "gross_debt_usd_billion": 26.16,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 50.46,
+      "gross_debt_pct_gdp": 61.2,
+      "gross_debt_usd_billion": 30.88,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 49.11,
+      "gross_debt_pct_gdp": 63.5,
+      "gross_debt_usd_billion": 31.19,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 41.3,
+      "gross_debt_pct_gdp": 67.1,
+      "gross_debt_usd_billion": 27.71,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 42.23,
+      "gross_debt_pct_gdp": 65,
+      "gross_debt_usd_billion": 27.45,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 45.97,
+      "gross_debt_pct_gdp": 55.3,
+      "gross_debt_usd_billion": 25.42,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 52.79,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 26.97,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 53.87,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 26.66,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 55.87,
+      "gross_debt_pct_gdp": 54.3,
+      "gross_debt_usd_billion": 30.34,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 65.83,
+      "gross_debt_pct_gdp": 53.6,
+      "gross_debt_usd_billion": 35.28,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 66.81,
+      "gross_debt_pct_gdp": 50.9,
+      "gross_debt_usd_billion": 34.01,
+      "inflation_cpi_pct": 12,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 81.34,
+      "gross_debt_pct_gdp": 45.7,
+      "gross_debt_usd_billion": 37.17,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 90.09,
+      "gross_debt_pct_gdp": 44.1,
+      "gross_debt_usd_billion": 39.73,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 99.95,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 42.38,
+      "inflation_cpi_pct": 3.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

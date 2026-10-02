@@ -13,7 +13,7 @@
       "name": "Zakouma National Park",
       "writeup": "A major wildlife reserve known for its elephants, lions, and diverse ecosystems.",
       "wiki": {
-        "extract": "Zakouma National Park is a 3,000 km2 (1,158 sq mi) national park in southeastern Chad, straddling the border of Guéra Region and Salamat Region. Zakouma is the nation's oldest national park, declared a national park in 1963 by presidential decree, giving it the highest form of protection available under the nation's laws. It has been managed by the nonprofit conservation organization African Parks since 2010 in partnership with Chad's government.",
+        "extract": "Zakouma National Park is a 3,000\u00a0km2 (1,158\u00a0sq\u00a0mi) national park in southeastern Chad, straddling the border of Gu\u00e9ra Region and Salamat Region. Zakouma is the nation's oldest national park, declared a national park in 1963 by presidential decree, giving it the highest form of protection available under the nation's laws. It has been managed by the nonprofit conservation organization African Parks since 2010 in partnership with Chad's government.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Girafe_du_parc_national_de_Zakouma.jpg/3840px-Girafe_du_parc_national_de_Zakouma.jpg",
         "url": "https://en.wikipedia.org/wiki/Zakouma_National_Park",
         "coordinates": {
@@ -49,7 +49,7 @@
       }
     }
   ],
-  "head_of_state": "President Mahamat Déby Itno",
+  "head_of_state": "President Mahamat D\u00e9by Itno",
   "cultural_events": [
     {
       "name": "Gerewol Festival",
@@ -74,15 +74,15 @@
   "brief_history": "Chad gained independence from France in 1960. It has experienced periods of civil conflict and political instability but remains a culturally diverse nation with over 200 ethnic groups.",
   "important_people": [
     {
-      "name": "François Tombalbaye",
+      "name": "Fran\u00e7ois Tombalbaye",
       "description": "First President of Chad"
     },
     {
-      "name": "Hissène Habré",
+      "name": "Hiss\u00e8ne Habr\u00e9",
       "description": "Former President and military leader"
     },
     {
-      "name": "Idriss Déby",
+      "name": "Idriss D\u00e9by",
       "description": "Former President who ruled from 1990 to 2021"
     }
   ],
@@ -108,7 +108,7 @@
       "lon": 15.047203
     },
     {
-      "name": "Abéché",
+      "name": "Ab\u00e9ch\u00e9",
       "capital": false,
       "lat": 13.839994,
       "lon": 20.829984
@@ -125,5 +125,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AChad-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 9.71,
+      "gross_debt_pct_gdp": 20.1,
+      "gross_debt_usd_billion": 1.95,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.87,
+      "gross_debt_pct_gdp": 17.6,
+      "gross_debt_usd_billion": 1.91,
+      "inflation_cpi_pct": -7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 13.38,
+      "gross_debt_pct_gdp": 15.7,
+      "gross_debt_usd_billion": 2.1,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 12.3,
+      "gross_debt_pct_gdp": 23.9,
+      "gross_debt_usd_billion": 2.94,
+      "inflation_cpi_pct": 10.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 14.07,
+      "gross_debt_pct_gdp": 22.9,
+      "gross_debt_usd_billion": 3.22,
+      "inflation_cpi_pct": -2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 16.68,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 3.72,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 17.88,
+      "gross_debt_pct_gdp": 20,
+      "gross_debt_usd_billion": 3.58,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 17.86,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 3.98,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 18.19,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 5.35,
+      "inflation_cpi_pct": -5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 14.57,
+      "gross_debt_pct_gdp": 31.3,
+      "gross_debt_usd_billion": 4.56,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 13.07,
+      "gross_debt_pct_gdp": 40.2,
+      "gross_debt_usd_billion": 5.26,
+      "inflation_cpi_pct": -1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 13.26,
+      "gross_debt_pct_gdp": 39.1,
+      "gross_debt_usd_billion": 5.18,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 15.17,
+      "gross_debt_pct_gdp": 33.8,
+      "gross_debt_usd_billion": 5.13,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 14.82,
+      "gross_debt_pct_gdp": 38.4,
+      "gross_debt_usd_billion": 5.69,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 14.81,
+      "gross_debt_pct_gdp": 41.6,
+      "gross_debt_usd_billion": 6.16,
+      "inflation_cpi_pct": -2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 16.98,
+      "gross_debt_pct_gdp": 41.7,
+      "gross_debt_usd_billion": 7.08,
+      "inflation_cpi_pct": -0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 18.05,
+      "gross_debt_pct_gdp": 32.1,
+      "gross_debt_usd_billion": 5.79,
+      "inflation_cpi_pct": 5.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 18.64,
+      "gross_debt_pct_gdp": 32.2,
+      "gross_debt_usd_billion": 6.0,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 20.66,
+      "gross_debt_pct_gdp": 31.4,
+      "gross_debt_usd_billion": 6.49,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 22.09,
+      "gross_debt_pct_gdp": 30.4,
+      "gross_debt_usd_billion": 6.72,
+      "inflation_cpi_pct": -2.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -28,7 +28,7 @@
       "name": "Cristo Rei of Dili",
       "writeup": "A large statue of Jesus Christ overlooking the capital city, symbolizing peace and faith.",
       "wiki": {
-        "extract": "The Cristo Rei of Dili statue is a 27.0-metre-high (88.6 ft) colossal statue of Jesus Christ situated atop a globe at Cape Fatucama in Dili, Timor-Leste. It is one of the country's main tourist attractions.",
+        "extract": "The Cristo Rei of Dili statue is a 27.0-metre-high (88.6\u00a0ft) colossal statue of Jesus Christ situated atop a globe at Cape Fatucama in Dili, Timor-Leste. It is one of the country's main tourist attractions.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Christ_Dili.jpg",
         "url": "https://en.wikipedia.org/wiki/Cristo_Rei_of_Dili",
         "coordinates": {
@@ -41,7 +41,7 @@
       "name": "Mount Ramelau",
       "writeup": "The highest peak in Timor-Leste, offering hiking opportunities and cultural significance.",
       "wiki": {
-        "extract": "Timor-Leste, also known as East Timor, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia. It comprises the eastern half of the island of Timor, the coastal exclave of Oecusse in the island's northwest, and the islands of Atauro and Jaco, for a total land area of 15,007 square kilometres (5,794 sq mi). Timor-Leste shares a land border with Indonesia to the west; Australia is the country's southern neighbour, across the Timor Sea. Dili, on the north coast of Timor, is its capital and largest city.",
+        "extract": "Timor-Leste, also known as East Timor, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia. It comprises the eastern half of the island of Timor, the coastal exclave of Oecusse in the island's northwest, and the islands of Atauro and Jaco, for a total land area of 15,007 square kilometres (5,794\u00a0sq\u00a0mi). Timor-Leste shares a land border with Indonesia to the west; Australia is the country's southern neighbour, across the Timor Sea. Dili, on the north coast of Timor, is its capital and largest city.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
         "url": "https://en.wikipedia.org/wiki/Timor-Leste",
         "coordinates": {
@@ -54,7 +54,7 @@
       "name": "Tais Market",
       "writeup": "A vibrant market in Dili where traditional woven textiles called tais are sold.",
       "wiki": {
-        "extract": "Timor-Leste, also known as East Timor, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia. It comprises the eastern half of the island of Timor, the coastal exclave of Oecusse in the island's northwest, and the islands of Atauro and Jaco, for a total land area of 15,007 square kilometres (5,794 sq mi). Timor-Leste shares a land border with Indonesia to the west; Australia is the country's southern neighbour, across the Timor Sea. Dili, on the north coast of Timor, is its capital and largest city.",
+        "extract": "Timor-Leste, also known as East Timor, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia. It comprises the eastern half of the island of Timor, the coastal exclave of Oecusse in the island's northwest, and the islands of Atauro and Jaco, for a total land area of 15,007 square kilometres (5,794\u00a0sq\u00a0mi). Timor-Leste shares a land border with Indonesia to the west; Australia is the country's southern neighbour, across the Timor Sea. Dili, on the north coast of Timor, is its capital and largest city.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
         "url": "https://en.wikipedia.org/wiki/Timor-Leste",
         "coordinates": {
@@ -64,7 +64,7 @@
       }
     }
   ],
-  "head_of_state": "José Ramos-Horta (President)",
+  "head_of_state": "Jos\u00e9 Ramos-Horta (President)",
   "cultural_events": [
     {
       "name": "Independence Day",
@@ -89,11 +89,11 @@
   "brief_history": "Timor-Leste was a Portuguese colony until 1975, followed by an Indonesian occupation until 1999. After a UN-administered transition, it gained full independence in 2002, becoming Southeast Asia's youngest nation.",
   "important_people": [
     {
-      "name": "Xanana Gusmão",
+      "name": "Xanana Gusm\u00e3o",
       "description": "First President and key independence leader"
     },
     {
-      "name": "José Ramos-Horta",
+      "name": "Jos\u00e9 Ramos-Horta",
       "description": "Nobel Peace Prize laureate and current President"
     },
     {
@@ -128,5 +128,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ATimor-Leste-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.45,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.54,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 8.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.65,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.73,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.88,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.04,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 13.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.16,
+      "gross_debt_pct_gdp": 0,
+      "gross_debt_usd_billion": 0.0,
+      "inflation_cpi_pct": 10.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1.4,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.01,
+      "inflation_cpi_pct": 9.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1.45,
+      "gross_debt_pct_gdp": 1.5,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1.59,
+      "gross_debt_pct_gdp": 2.9,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1.64,
+      "gross_debt_pct_gdp": 4.7,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": -1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1.58,
+      "gross_debt_pct_gdp": 6.7,
+      "gross_debt_usd_billion": 0.11,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1.56,
+      "gross_debt_pct_gdp": 9.3,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 2.03,
+      "gross_debt_pct_gdp": 9.5,
+      "gross_debt_usd_billion": 0.19,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 2.16,
+      "gross_debt_pct_gdp": 10.1,
+      "gross_debt_usd_billion": 0.22,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3.62,
+      "gross_debt_pct_gdp": 6.5,
+      "gross_debt_usd_billion": 0.24,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3.21,
+      "gross_debt_pct_gdp": 7.9,
+      "gross_debt_usd_billion": 0.25,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2.08,
+      "gross_debt_pct_gdp": 12.4,
+      "gross_debt_usd_billion": 0.26,
+      "inflation_cpi_pct": 8.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1.87,
+      "gross_debt_pct_gdp": 14.4,
+      "gross_debt_usd_billion": 0.27,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2.06,
+      "gross_debt_pct_gdp": 14.3,
+      "gross_debt_usd_billion": 0.3,
+      "inflation_cpi_pct": 0.5,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

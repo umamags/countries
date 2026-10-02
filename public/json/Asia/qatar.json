@@ -12,7 +12,7 @@
       "name": "Museum of Islamic Art",
       "writeup": "A world-class museum showcasing Islamic art from three continents over 1,400 years.",
       "wiki": {
-        "extract": "The Museum of Islamic Art is a museum at one end of the seven-kilometer-long (4.3 mi) Corniche in Doha, Qatar. As per architect I. M. Pei's specifications, the museum is built on an island on an artificial projecting peninsula near the traditional dhow harbor. A purpose-built park surrounds the building on the eastern and southern facades, while two bridges connect the southern front facade of the property with the main peninsula that contains the park. The western and northern facades are bordered by the harbor, showcasing the Qatari seafaring past. In September 2017, Qatar Museums appointed Julia Gonnella as director of MIA. In 2024, Julia Gonnella became director of the Lusail Museum and was replaced by Shaika Nasser Al-Nassr. In November 2022, the MIA became the first carbon-neutral certified museum in the Middle East. The museum participated in the Expo 2023 Doha from October 2023 to March 2024, with workshops and events focusing on biodiversity and sustainability.",
+        "extract": "The Museum of Islamic Art is a museum at one end of the seven-kilometer-long (4.3\u00a0mi) Corniche in Doha, Qatar. As per architect I. M. Pei's specifications, the museum is built on an island on an artificial projecting peninsula near the traditional dhow harbor. A purpose-built park surrounds the building on the eastern and southern facades, while two bridges connect the southern front facade of the property with the main peninsula that contains the park. The western and northern facades are bordered by the harbor, showcasing the Qatari seafaring past. In September 2017, Qatar Museums appointed Julia Gonnella as director of MIA. In 2024, Julia Gonnella became director of the Lusail Museum and was replaced by Shaika Nasser Al-Nassr. In November 2022, the MIA became the first carbon-neutral certified museum in the Middle East. The museum participated in the Expo 2023 Doha from October 2023 to March 2024, with workshops and events focusing on biodiversity and sustainability.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Museum_of_Islamic_Art_in_Doha%2C_Qatar_%2832673171432%29.jpg/3840px-Museum_of_Islamic_Art_in_Doha%2C_Qatar_%2832673171432%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Doha",
         "coordinates": {
@@ -61,7 +61,7 @@
       "name": "Al Zubarah Fort",
       "writeup": "A historic fort and UNESCO World Heritage site representing Qatar's pearling and trading history.",
       "wiki": {
-        "extract": "Al Zubara Fort is a historic military fortress located in Zubarah, northern Qatar. It was built under the oversight of Sheikh Abdullah bin Jassim Al Thani in 1938 in the aftermath of the 1937 Qatari–Bahraini conflict.",
+        "extract": "Al Zubara Fort is a historic military fortress located in Zubarah, northern Qatar. It was built under the oversight of Sheikh Abdullah bin Jassim Al Thani in 1938 in the aftermath of the 1937 Qatari\u2013Bahraini conflict.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zubara_Fort.jpg",
         "url": "https://en.wikipedia.org/wiki/Al_Zubara_Fort",
         "coordinates": {
@@ -113,7 +113,7 @@
       "name": "Qatar MotoGP",
       "writeup": "An international motorcycle racing event held at the Losail International Circuit.",
       "wiki": {
-        "extract": "The 2025 FIM MotoGP World Championship was the premier class of the 77th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing.",
+        "extract": "The 2025 FIM MotoGP World Championship was the premier class of the 77th F\u00e9d\u00e9ration Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/2025_MotoGP_World_Championship"
       }
@@ -170,5 +170,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AQatar-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 58.63,
+      "gross_debt_pct_gdp": 13.9,
+      "gross_debt_usd_billion": 8.15,
+      "inflation_cpi_pct": 11.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 75.99,
+      "gross_debt_pct_gdp": 9.4,
+      "gross_debt_usd_billion": 7.14,
+      "inflation_cpi_pct": 13.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 112.62,
+      "gross_debt_pct_gdp": 11.4,
+      "gross_debt_usd_billion": 12.84,
+      "inflation_cpi_pct": 15.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 88.2,
+      "gross_debt_pct_gdp": 36,
+      "gross_debt_usd_billion": 31.75,
+      "inflation_cpi_pct": -4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 119.71,
+      "gross_debt_pct_gdp": 30.4,
+      "gross_debt_usd_billion": 36.39,
+      "inflation_cpi_pct": -2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 167.78,
+      "gross_debt_pct_gdp": 33.5,
+      "gross_debt_usd_billion": 56.2,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 186.83,
+      "gross_debt_pct_gdp": 32.1,
+      "gross_debt_usd_billion": 59.97,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 198.73,
+      "gross_debt_pct_gdp": 30.9,
+      "gross_debt_usd_billion": 61.41,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 206.22,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 51.35,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 161.74,
+      "gross_debt_pct_gdp": 35.5,
+      "gross_debt_usd_billion": 57.42,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 151.73,
+      "gross_debt_pct_gdp": 46.7,
+      "gross_debt_usd_billion": 70.86,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 161.1,
+      "gross_debt_pct_gdp": 51.6,
+      "gross_debt_usd_billion": 83.13,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 183.34,
+      "gross_debt_pct_gdp": 52.2,
+      "gross_debt_usd_billion": 95.7,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 176.37,
+      "gross_debt_pct_gdp": 62.1,
+      "gross_debt_usd_billion": 109.53,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 144.41,
+      "gross_debt_pct_gdp": 72.6,
+      "gross_debt_usd_billion": 104.84,
+      "inflation_cpi_pct": -2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 179.73,
+      "gross_debt_pct_gdp": 58.4,
+      "gross_debt_usd_billion": 104.96,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 235.71,
+      "gross_debt_pct_gdp": 42.6,
+      "gross_debt_usd_billion": 100.41,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 217.31,
+      "gross_debt_pct_gdp": 42.8,
+      "gross_debt_usd_billion": 93.01,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 219.16,
+      "gross_debt_pct_gdp": 41.3,
+      "gross_debt_usd_billion": 90.51,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 221.23,
+      "gross_debt_pct_gdp": 41.4,
+      "gross_debt_usd_billion": 91.59,
+      "inflation_cpi_pct": 0.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

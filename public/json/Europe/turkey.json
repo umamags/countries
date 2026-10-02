@@ -12,7 +12,7 @@
       "name": "Hagia Sophia",
       "writeup": "A historic architectural marvel in Istanbul, originally a cathedral, later a mosque, and now a museum.",
       "wiki": {
-        "extract": "Hagia Sophia mosque in İznik (Nicaea) in Bursa Province, Turkey, was built as a Byzantine-era basilican church. Converted into the Orhan Mosque after the Ottoman conquest, it was turned into a museum in 1935. The church is now once again in service as a mosque. It is in the town centre of İznik, within the old walled area.",
+        "extract": "Hagia Sophia mosque in \u0130znik (Nicaea) in Bursa Province, Turkey, was built as a Byzantine-era basilican church. Converted into the Orhan Mosque after the Ottoman conquest, it was turned into a museum in 1935. The church is now once again in service as a mosque. It is in the town centre of \u0130znik, within the old walled area.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hagia_Sophia_Iznik.JPG",
         "url": "https://en.wikipedia.org/wiki/Hagia_Sophia%2C_%C4%B0znik",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Cappadocia",
       "writeup": "Famous for its unique rock formations, cave dwellings, and hot air balloon rides.",
       "wiki": {
-        "extract": "Cappadocia is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nevşehir, Kayseri, Aksaray, Kırşehir, Sivas and Niğde. Today, the touristic Cappadocia Region is located in Nevşehir province.",
+        "extract": "Cappadocia is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nev\u015fehir, Kayseri, Aksaray, K\u0131r\u015fehir, Sivas and Ni\u011fde. Today, the touristic Cappadocia Region is located in Nev\u015fehir province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/3840px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Cappadocia",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Topkapi Palace",
       "writeup": "The former palace of Ottoman sultans, located in Istanbul, showcasing imperial collections.",
       "wiki": {
-        "extract": "The Topkapı Palace or the Seraglio, is a large museum and library in the east of the Fatih district of Istanbul in Turkey. From the 1460s to the completion of Dolmabahçe Palace in 1853, it served as the administrative center of the Ottoman Empire, and was the main residence of its sultans.",
+        "extract": "The Topkap\u0131 Palace or the Seraglio, is a large museum and library in the east of the Fatih district of Istanbul in Turkey. From the 1460s to the completion of Dolmabah\u00e7e Palace in 1853, it served as the administrative center of the Ottoman Empire, and was the main residence of its sultans.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Topkap%C4%B1_-_01.jpg",
         "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Ephesus",
       "writeup": "Ancient Greco-Roman city with well-preserved ruins including the Library of Celsus.",
       "wiki": {
-        "extract": "Ephesus was an ancient Greek city on the coast of Ionia, in present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of Apasa, a city-state that was also the capital of Arzawa, by Attic and Ionian Greek colonists. During the Classical Greek era, it was one of twelve cities that were members of the Ionian League. The city came under the control of the Roman Republic in 129 BC.",
+        "extract": "Ephesus was an ancient Greek city on the coast of Ionia, in present-day Sel\u00e7uk in \u0130zmir Province, Turkey. It was built in the 10th century BC on the site of Apasa, a city-state that was also the capital of Arzawa, by Attic and Ionian Greek colonists. During the Classical Greek era, it was one of twelve cities that were members of the Ionian League. The city came under the control of the Roman Republic in 129 BC.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/3840px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
         "url": "https://en.wikipedia.org/wiki/Ephesus",
         "coordinates": {
@@ -105,10 +105,10 @@
     }
   ],
   "food_writeup": "Turkish cuisine is rich and diverse, featuring dishes like kebabs, mezes, baklava, and Turkish tea, blending Middle Eastern, Mediterranean, and Central Asian flavors.",
-  "brief_history": "Turkey, historically known as Anatolia, has been home to ancient civilizations including the Hittites, Greeks, Romans, Byzantines, and Ottomans. The Republic of Turkey was founded in 1923 by Mustafa Kemal Atatürk following the fall of the Ottoman Empire.",
+  "brief_history": "Turkey, historically known as Anatolia, has been home to ancient civilizations including the Hittites, Greeks, Romans, Byzantines, and Ottomans. The Republic of Turkey was founded in 1923 by Mustafa Kemal Atat\u00fcrk following the fall of the Ottoman Empire.",
   "important_people": [
     {
-      "name": "Mustafa Kemal Atatürk",
+      "name": "Mustafa Kemal Atat\u00fcrk",
       "description": "Founder of modern Turkey"
     },
     {
@@ -120,11 +120,11 @@
       "description": "Nobel Prize-winning author"
     },
     {
-      "name": "Sabiha Gökçen",
+      "name": "Sabiha G\u00f6k\u00e7en",
       "description": "First female combat pilot"
     },
     {
-      "name": "Mevlânâ Rumi",
+      "name": "Mevl\u00e2n\u00e2 Rumi",
       "description": "Renowned 13th-century poet and mystic"
     }
   ],
@@ -150,7 +150,7 @@
       "lon": 29.008056
     },
     {
-      "name": "İzmir",
+      "name": "\u0130zmir",
       "capital": false,
       "lat": 38.438096,
       "lon": 27.149848
@@ -173,5 +173,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ATurkey_CIA_map_PL.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 554.9,
+      "gross_debt_pct_gdp": 44.2,
+      "gross_debt_usd_billion": 245.27,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 686.91,
+      "gross_debt_pct_gdp": 37.1,
+      "gross_debt_usd_billion": 254.84,
+      "inflation_cpi_pct": 8.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 787.9,
+      "gross_debt_pct_gdp": 37,
+      "gross_debt_usd_billion": 291.52,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 656.13,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 278.2,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 783.02,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 302.25,
+      "inflation_cpi_pct": 8.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 843.33,
+      "gross_debt_pct_gdp": 34.8,
+      "gross_debt_usd_billion": 293.48,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 882.44,
+      "gross_debt_pct_gdp": 30.8,
+      "gross_debt_usd_billion": 271.79,
+      "inflation_cpi_pct": 8.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 962.46,
+      "gross_debt_pct_gdp": 29.5,
+      "gross_debt_usd_billion": 283.92,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 943.34,
+      "gross_debt_pct_gdp": 27.4,
+      "gross_debt_usd_billion": 258.47,
+      "inflation_cpi_pct": 8.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 868.2,
+      "gross_debt_pct_gdp": 26.5,
+      "gross_debt_usd_billion": 230.07,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 870.34,
+      "gross_debt_pct_gdp": 27,
+      "gross_debt_usd_billion": 234.99,
+      "inflation_cpi_pct": 7.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 863.91,
+      "gross_debt_pct_gdp": 26.9,
+      "gross_debt_usd_billion": 232.39,
+      "inflation_cpi_pct": 11.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 807.32,
+      "gross_debt_pct_gdp": 28.8,
+      "gross_debt_usd_billion": 232.51,
+      "inflation_cpi_pct": 16.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 775.22,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 241.87,
+      "inflation_cpi_pct": 15.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 730.35,
+      "gross_debt_pct_gdp": 38.3,
+      "gross_debt_usd_billion": 279.72,
+      "inflation_cpi_pct": 12.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 827.67,
+      "gross_debt_pct_gdp": 38.9,
+      "gross_debt_usd_billion": 321.96,
+      "inflation_cpi_pct": 19.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 924.75,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 271.88,
+      "inflation_cpi_pct": 72.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1153.3,
+      "gross_debt_pct_gdp": 28.2,
+      "gross_debt_usd_billion": 325.23,
+      "inflation_cpi_pct": 53.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1358.25,
+      "gross_debt_pct_gdp": 23.6,
+      "gross_debt_usd_billion": 320.55,
+      "inflation_cpi_pct": 58.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1597.3,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 375.37,
+      "inflation_cpi_pct": 34.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

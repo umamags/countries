@@ -12,7 +12,7 @@
       "name": "Kunta Kinteh Island",
       "writeup": "A UNESCO World Heritage site, historically significant as a center of the transatlantic slave trade.",
       "wiki": {
-        "extract": "Kunta Kinteh Island, formerly called James Island and St Andrew's Island, is an island in the Gambia River, 30 km (19 mi) from the river mouth and near Juffureh in the Republic of the Gambia. Fort James is located on the island. It is less than 3.2 km from Albreda on the river's northern bank. As an important historical site in the West African slave trade, it is listed as a UNESCO World Heritage Site, together with related sites including a ruined Portuguese chapel and a colonial warehouse in Albreda, the Maurel Frères Building in Juffureh, and Fort Bullen and Six-Gun Battery, which are located at the mouth of the Gambia River.",
+        "extract": "Kunta Kinteh Island, formerly called James Island and St Andrew's Island, is an island in the Gambia River, 30\u00a0km (19\u00a0mi) from the river mouth and near Juffureh in the Republic of the Gambia. Fort James is located on the island. It is less than 3.2\u00a0km from Albreda on the river's northern bank. As an important historical site in the West African slave trade, it is listed as a UNESCO World Heritage Site, together with related sites including a ruined Portuguese chapel and a colonial warehouse in Albreda, the Maurel Fr\u00e8res Building in Juffureh, and Fort Bullen and Six-Gun Battery, which are located at the mouth of the Gambia River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/River_gambia_galleryfull.jpg",
         "url": "https://en.wikipedia.org/wiki/Kunta_Kinteh_Island",
         "coordinates": {
@@ -23,9 +23,9 @@
     },
     {
       "name": "Arch 22",
-      "writeup": "A prominent monument in Banjul commemorating the 1994 coup d'état.",
+      "writeup": "A prominent monument in Banjul commemorating the 1994 coup d'\u00e9tat.",
       "wiki": {
-        "extract": "Arch 22 is a commemorative arch on the road into Banjul in the Gambia. It was built in 1996 to mark the military coup d'état of 22 July 1994, through which Yahya Jammeh and his Armed Forces Provisional Ruling Council overthrew the democratically elected Gambian government of President Sir Dawda Jawara.",
+        "extract": "Arch 22 is a commemorative arch on the road into Banjul in the Gambia. It was built in 1996 to mark the military coup d'\u00e9tat of 22 July 1994, through which Yahya Jammeh and his Armed Forces Provisional Ruling Council overthrew the democratically elected Gambian government of President Sir Dawda Jawara.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Gambia_banjul_arch22.JPG",
         "url": "https://en.wikipedia.org/wiki/Arch_22",
         "coordinates": {
@@ -109,5 +109,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AGambia%2C_The-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1.05,
+      "gross_debt_pct_gdp": 87.3,
+      "gross_debt_usd_billion": 0.92,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1.28,
+      "gross_debt_pct_gdp": 38,
+      "gross_debt_usd_billion": 0.49,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1.56,
+      "gross_debt_pct_gdp": 39.5,
+      "gross_debt_usd_billion": 0.62,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1.45,
+      "gross_debt_pct_gdp": 38.9,
+      "gross_debt_usd_billion": 0.56,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1.54,
+      "gross_debt_pct_gdp": 42.9,
+      "gross_debt_usd_billion": 0.66,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.41,
+      "gross_debt_pct_gdp": 49.2,
+      "gross_debt_usd_billion": 0.69,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.42,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 0.7,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1.38,
+      "gross_debt_pct_gdp": 58.2,
+      "gross_debt_usd_billion": 0.8,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1.23,
+      "gross_debt_pct_gdp": 71.1,
+      "gross_debt_usd_billion": 0.87,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1.35,
+      "gross_debt_pct_gdp": 69.4,
+      "gross_debt_usd_billion": 0.94,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1.47,
+      "gross_debt_pct_gdp": 79.5,
+      "gross_debt_usd_billion": 1.17,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1.5,
+      "gross_debt_pct_gdp": 87,
+      "gross_debt_usd_billion": 1.3,
+      "inflation_cpi_pct": 8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1.66,
+      "gross_debt_pct_gdp": 83.6,
+      "gross_debt_usd_billion": 1.39,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1.81,
+      "gross_debt_pct_gdp": 83,
+      "gross_debt_usd_billion": 1.5,
+      "inflation_cpi_pct": 7.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1.81,
+      "gross_debt_pct_gdp": 85.9,
+      "gross_debt_usd_billion": 1.55,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 2.04,
+      "gross_debt_pct_gdp": 83.1,
+      "gross_debt_usd_billion": 1.7,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 2.13,
+      "gross_debt_pct_gdp": 83.9,
+      "gross_debt_usd_billion": 1.79,
+      "inflation_cpi_pct": 11.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2.33,
+      "gross_debt_pct_gdp": 77.4,
+      "gross_debt_usd_billion": 1.8,
+      "inflation_cpi_pct": 17,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 2.4,
+      "gross_debt_pct_gdp": 78.5,
+      "gross_debt_usd_billion": 1.89,
+      "inflation_cpi_pct": 11.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2.58,
+      "gross_debt_pct_gdp": 73.9,
+      "gross_debt_usd_billion": 1.91,
+      "inflation_cpi_pct": 7.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

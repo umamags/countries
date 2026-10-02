@@ -25,7 +25,7 @@
       "name": "Ulu Temburong National Park",
       "writeup": "A pristine rainforest park offering canopy walks and rich biodiversity.",
       "wiki": {
-        "extract": "Ulu Temburong National Park is the first national park to be established in Brunei, protected since 1991. The park is in Temburong District in eastern Brunei, and covers about 40% of the district in the south at 550 square kilometres (210 sq mi). It is within the Batu Apoi Forest Reserve. The park contains unspoiled jungle and is known as the \"Green Jewel of Brunei\", described as \"the finest example of the sultanate's successful forest protection policy\". The principal rivers are the Temburong and Belalong Rivers. It is an important ecotourism centre in Brunei and hosts the Ulu Ulu Resort. The Peradayan Forest Reserve is also located in the district.",
+        "extract": "Ulu Temburong National Park is the first national park to be established in Brunei, protected since 1991. The park is in Temburong District in eastern Brunei, and covers about 40% of the district in the south at 550 square kilometres (210\u00a0sq\u00a0mi). It is within the Batu Apoi Forest Reserve. The park contains unspoiled jungle and is known as the \"Green Jewel of Brunei\", described as \"the finest example of the sultanate's successful forest protection policy\". The principal rivers are the Temburong and Belalong Rivers. It is an important ecotourism centre in Brunei and hosts the Ulu Ulu Resort. The Peradayan Forest Reserve is also located in the district.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Long_way_to_go....jpg",
         "url": "https://en.wikipedia.org/wiki/Ulu_Temburong_National_Park",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Kampong Ayer",
       "writeup": "A historic water village built on stilts over the Brunei River.",
       "wiki": {
-        "extract": "Kampung Ayer is a prominent traditional settlement in Bandar Seri Begawan, the capital of Brunei. It comprises neighbourhoods of traditional houses, schools and mosques built on stilts above the Brunei River near the capital's city centre. It has an area of about 10 square kilometres (3.9 sq mi); the total population was 10,250 in 2016. It has been historically nicknamed 'Venice of the East'.",
+        "extract": "Kampung Ayer is a prominent traditional settlement in Bandar Seri Begawan, the capital of Brunei. It comprises neighbourhoods of traditional houses, schools and mosques built on stilts above the Brunei River near the capital's city centre. It has an area of about 10 square kilometres (3.9\u00a0sq\u00a0mi); the total population was 10,250 in 2016. It has been historically nicknamed 'Venice of the East'.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BN-bsb-kampong-ayer.jpg/3840px-BN-bsb-kampong-ayer.jpg",
         "url": "https://en.wikipedia.org/wiki/Kampong_Ayer",
         "coordinates": {
@@ -125,5 +125,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ABrunei-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 12.71,
+      "gross_debt_pct_gdp": 0.6,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 13.57,
+      "gross_debt_pct_gdp": 0.7,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 15.95,
+      "gross_debt_pct_gdp": 0.9,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 11.89,
+      "gross_debt_pct_gdp": 1.1,
+      "gross_debt_usd_billion": 0.13,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 13.71,
+      "gross_debt_pct_gdp": 1.1,
+      "gross_debt_usd_billion": 0.15,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 18.52,
+      "gross_debt_pct_gdp": 2.1,
+      "gross_debt_usd_billion": 0.39,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 19.05,
+      "gross_debt_pct_gdp": 2.1,
+      "gross_debt_usd_billion": 0.4,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 18.09,
+      "gross_debt_pct_gdp": 2.2,
+      "gross_debt_usd_billion": 0.4,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 17.09,
+      "gross_debt_pct_gdp": 3.2,
+      "gross_debt_usd_billion": 0.55,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 12.93,
+      "gross_debt_pct_gdp": 3,
+      "gross_debt_usd_billion": 0.39,
+      "inflation_cpi_pct": -0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 11.4,
+      "gross_debt_pct_gdp": 3,
+      "gross_debt_usd_billion": 0.34,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 12.13,
+      "gross_debt_pct_gdp": 2.6,
+      "gross_debt_usd_billion": 0.32,
+      "inflation_cpi_pct": -1.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 13.56,
+      "gross_debt_pct_gdp": 1.9,
+      "gross_debt_usd_billion": 0.26,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 13.47,
+      "gross_debt_pct_gdp": 1.8,
+      "gross_debt_usd_billion": 0.24,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 12.01,
+      "gross_debt_pct_gdp": 2.2,
+      "gross_debt_usd_billion": 0.26,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 14.01,
+      "gross_debt_pct_gdp": 1.4,
+      "gross_debt_usd_billion": 0.2,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 16.68,
+      "gross_debt_pct_gdp": 1.3,
+      "gross_debt_usd_billion": 0.22,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 15.1,
+      "gross_debt_pct_gdp": 1.7,
+      "gross_debt_usd_billion": 0.26,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 15.33,
+      "gross_debt_pct_gdp": 1.6,
+      "gross_debt_usd_billion": 0.25,
+      "inflation_cpi_pct": -0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 15.94,
+      "gross_debt_pct_gdp": 1.5,
+      "gross_debt_usd_billion": 0.24,
+      "inflation_cpi_pct": -0.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

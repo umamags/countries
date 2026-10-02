@@ -14,10 +14,10 @@
       "wiki": null
     },
     {
-      "name": "Roça Sundy",
+      "name": "Ro\u00e7a Sundy",
       "writeup": "A historic plantation site linked to the abolition of slavery in the islands.",
       "wiki": {
-        "extract": "Sundy is a settlement in the northwestern part of Príncipe Island in São Tomé and Príncipe. Its population is 416. Sundy lies 5 km northwest of the island capital of Santo António. In 1822 the first cocoa plantation of the whole archipelago was established in Sundy. Several buildings of this plantation have been preserved.",
+        "extract": "Sundy is a settlement in the northwestern part of Pr\u00edncipe Island in S\u00e3o Tom\u00e9 and Pr\u00edncipe. Its population is 416. Sundy lies 5 km northwest of the island capital of Santo Ant\u00f3nio. In 1822 the first cocoa plantation of the whole archipelago was established in Sundy. Several buildings of this plantation have been preserved.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Sundy%2C_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
         "coordinates": {
@@ -27,10 +27,10 @@
       }
     },
     {
-      "name": "São Sebastião Museum",
+      "name": "S\u00e3o Sebasti\u00e3o Museum",
       "writeup": "A cultural museum housed in a former fortress showcasing local history.",
       "wiki": {
-        "extract": "São Tomé is the capital and largest city of the Central African island country of São Tomé and Príncipe. Its name is Portuguese for \"Saint Thomas\". Founded in the 15th century, it is one of Africa's oldest colonial cities.",
+        "extract": "S\u00e3o Tom\u00e9 is the capital and largest city of the Central African island country of S\u00e3o Tom\u00e9 and Pr\u00edncipe. Its name is Portuguese for \"Saint Thomas\". Founded in the 15th century, it is one of Africa's oldest colonial cities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2012SaoTome-8_%288042889363%29.jpg",
         "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9",
         "coordinates": {
@@ -43,10 +43,10 @@
   "head_of_state": "President Carlos Vila Nova",
   "cultural_events": [
     {
-      "name": "São Tomé and Príncipe Independence Day",
+      "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe Independence Day",
       "writeup": "Celebrated on July 12, marking independence from Portugal in 1975 with parades and cultural performances.",
       "wiki": {
-        "extract": "Portuguese São Tomé and Príncipe was a colony of the Portuguese Empire from the discovery of the São Tomé and Príncipe islands in 1470 until 1975, when independence was granted by Portugal.",
+        "extract": "Portuguese S\u00e3o Tom\u00e9 and Pr\u00edncipe was a colony of the Portuguese Empire from the discovery of the S\u00e3o Tom\u00e9 and Pr\u00edncipe islands in 1470 until 1975, when independence was granted by Portugal.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/960px-Flag_of_Portugal_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Portuguese_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
       }
@@ -77,20 +77,20 @@
   "current_conflicts": "No significant internal or external conflicts reported.",
   "five_youtube_video_titles": [
     {
-      "title": "Discovering São Tomé and Príncipe: Africa's Hidden Gem",
+      "title": "Discovering S\u00e3o Tom\u00e9 and Pr\u00edncipe: Africa's Hidden Gem",
       "video_id": "4JBfoVHwi0A"
     },
     {
-      "title": "São Tomé and Príncipe Travel Guide",
+      "title": "S\u00e3o Tom\u00e9 and Pr\u00edncipe Travel Guide",
       "video_id": "TES0tw0MgNw"
     },
-    "History of São Tomé and Príncipe Explained",
-    "Top 10 Things to Do in São Tomé and Príncipe",
-    "São Tomé and Príncipe Culture and Traditions"
+    "History of S\u00e3o Tom\u00e9 and Pr\u00edncipe Explained",
+    "Top 10 Things to Do in S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe Culture and Traditions"
   ],
   "cities": [
     {
-      "name": "São Tomé",
+      "name": "S\u00e3o Tom\u00e9",
       "capital": true,
       "lat": 0.333402,
       "lon": 6.733325
@@ -101,5 +101,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASao_Tome_and_Principe-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.13,
+      "gross_debt_pct_gdp": 283.2,
+      "gross_debt_usd_billion": 0.38,
+      "inflation_cpi_pct": 23.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.14,
+      "gross_debt_pct_gdp": 110.1,
+      "gross_debt_usd_billion": 0.16,
+      "inflation_cpi_pct": 18.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.19,
+      "gross_debt_pct_gdp": 60.7,
+      "gross_debt_usd_billion": 0.11,
+      "inflation_cpi_pct": 32,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.2,
+      "gross_debt_pct_gdp": 70.3,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 17,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.19,
+      "gross_debt_pct_gdp": 83,
+      "gross_debt_usd_billion": 0.16,
+      "inflation_cpi_pct": 13.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 0.23,
+      "gross_debt_pct_gdp": 86,
+      "gross_debt_usd_billion": 0.2,
+      "inflation_cpi_pct": 14.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 0.23,
+      "gross_debt_pct_gdp": 59.6,
+      "gross_debt_usd_billion": 0.14,
+      "inflation_cpi_pct": 10.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 0.27,
+      "gross_debt_pct_gdp": 76.8,
+      "gross_debt_usd_billion": 0.21,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 0.29,
+      "gross_debt_pct_gdp": 92.5,
+      "gross_debt_usd_billion": 0.27,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 0.26,
+      "gross_debt_pct_gdp": 101.1,
+      "gross_debt_usd_billion": 0.26,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 0.29,
+      "gross_debt_pct_gdp": 104.6,
+      "gross_debt_usd_billion": 0.31,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 0.33,
+      "gross_debt_pct_gdp": 92.3,
+      "gross_debt_usd_billion": 0.3,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 0.39,
+      "gross_debt_pct_gdp": 95.9,
+      "gross_debt_usd_billion": 0.37,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 0.42,
+      "gross_debt_pct_gdp": 98.6,
+      "gross_debt_usd_billion": 0.41,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 0.48,
+      "gross_debt_pct_gdp": 91,
+      "gross_debt_usd_billion": 0.43,
+      "inflation_cpi_pct": 9.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 0.53,
+      "gross_debt_pct_gdp": 85.1,
+      "gross_debt_usd_billion": 0.45,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 0.55,
+      "gross_debt_pct_gdp": 86.8,
+      "gross_debt_usd_billion": 0.47,
+      "inflation_cpi_pct": 18.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 0.7,
+      "gross_debt_pct_gdp": 73.2,
+      "gross_debt_usd_billion": 0.51,
+      "inflation_cpi_pct": 21.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 0.83,
+      "gross_debt_pct_gdp": 65.2,
+      "gross_debt_usd_billion": 0.54,
+      "inflation_cpi_pct": 14.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 0.98,
+      "gross_debt_pct_gdp": 55.7,
+      "gross_debt_usd_billion": 0.55,
+      "inflation_cpi_pct": 0.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

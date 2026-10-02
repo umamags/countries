@@ -47,7 +47,7 @@
       "name": "Boudhanath Stupa",
       "writeup": "One of the largest spherical stupas in Nepal, a significant pilgrimage site for Buddhists.",
       "wiki": {
-        "extract": "Boudha Stupa, Boudhanath Stupa, also known as Khasti Chaitya or Khāsa Chaitya, is a stupa and major spiritual landmark seen as the embodiment of the enlightened mind of all the Buddhas, located in Boudha, within the city of Kathmandu, Nepal. Built in the northeast of Kathmandu Valley and originally surrounded by rice paddies, the stupa is said in one text to have given birth to Tibetan Buddhism. It is believed to contain consecrated substances, and its layout as a massive mandala makes it the largest spherical stupa in Nepal and one of the largest in the world.",
+        "extract": "Boudha Stupa, Boudhanath Stupa, also known as Khasti Chaitya or Kh\u0101sa Chaitya, is a stupa and major spiritual landmark seen as the embodiment of the enlightened mind of all the Buddhas, located in Boudha, within the city of Kathmandu, Nepal. Built in the northeast of Kathmandu Valley and originally surrounded by rice paddies, the stupa is said in one text to have given birth to Tibetan Buddhism. It is believed to contain consecrated substances, and its layout as a massive mandala makes it the largest spherical stupa in Nepal and one of the largest in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg/3840px-Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg",
         "url": "https://en.wikipedia.org/wiki/Boudha_Stupa",
         "coordinates": {
@@ -60,7 +60,7 @@
       "name": "Chitwan National Park",
       "writeup": "A UNESCO World Heritage site known for its wildlife, including Bengal tigers and one-horned rhinoceroses.",
       "wiki": {
-        "extract": "Chitwan National Park is the first national park of Nepal and was established in 1973 as Royal Chitwan National Park. It was granted the status of a World Heritage Site in 1984. It covers an area of 952.63 km2 (367.81 sq mi) in the Terai region of south-central Nepal. It ranges in elevation from about 100 m (330 ft) in the river valleys to 815 m (2,674 ft) in the Sivalik Hills.",
+        "extract": "Chitwan National Park is the first national park of Nepal and was established in 1973 as Royal Chitwan National Park. It was granted the status of a World Heritage Site in 1984. It covers an area of 952.63\u00a0km2 (367.81\u00a0sq\u00a0mi) in the Terai region of south-central Nepal. It ranges in elevation from about 100\u00a0m (330\u00a0ft) in the river valleys to 815\u00a0m (2,674\u00a0ft) in the Sivalik Hills.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chitwan_swamp.jpg",
         "url": "https://en.wikipedia.org/wiki/Chitwan_National_Park",
         "coordinates": {
@@ -73,7 +73,7 @@
       "name": "Lumbini",
       "writeup": "The birthplace of Siddhartha Gautama (Buddha), an important pilgrimage site for Buddhists worldwide.",
       "wiki": {
-        "extract": "Lumbini is a Buddhist pilgrimage site in the Rupandehi District of Lumbini Province in Nepal. According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c. 563 BCE. Lumbini is one of four most sacred pilgrimage sites pivotal in the life of the Buddha.",
+        "extract": "Lumbini is a Buddhist pilgrimage site in the Rupandehi District of Lumbini Province in Nepal. According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c.\u2009563 BCE. Lumbini is one of four most sacred pilgrimage sites pivotal in the life of the Buddha.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BRP_Lumbini_Mayadevi_temple.jpg/3840px-BRP_Lumbini_Mayadevi_temple.jpg",
         "url": "https://en.wikipedia.org/wiki/Lumbini",
         "coordinates": null
@@ -110,7 +110,7 @@
       "name": "Teej",
       "writeup": "A fasting festival celebrated by women for marital happiness and the well-being of their spouses.",
       "wiki": {
-        "extract": "Teej is a collective term for three Hindu festivals dedicated to the goddess Parvati and her consort Shiva. It is mainly celebrated by married women and unmarried girls, to pray for the long life of their husband or future husband and to welcome the arrival of the monsoon through singing, swinging, dancing, joyous celebration, pūjā, and often fasting.",
+        "extract": "Teej is a collective term for three Hindu festivals dedicated to the goddess Parvati and her consort Shiva. It is mainly celebrated by married women and unmarried girls, to pray for the long life of their husband or future husband and to welcome the arrival of the monsoon through singing, swinging, dancing, joyous celebration, p\u016bj\u0101, and often fasting.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Teej.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Teej"
       }
@@ -119,7 +119,7 @@
       "name": "Indra Jatra",
       "writeup": "A festival in Kathmandu honoring the god Indra with masked dances and chariot processions.",
       "wiki": {
-        "extract": "Indra Jātrā, also known as Yenyā Punhi, is the biggest religious street festival in Kathmandu, Nepal. The celebrations consist of two events, Indra Jātrā and Kumāri Jātrā. Indra Jātrā is marked by masked dances of deities and demons, displays of sacred images, and tableaus in honor of the deity Indra, the king of heaven. Kumāri Jātrā is the chariot procession of the living goddess Kumari.",
+        "extract": "Indra J\u0101tr\u0101, also known as Yeny\u0101 Punhi, is the biggest religious street festival in Kathmandu, Nepal. The celebrations consist of two events, Indra J\u0101tr\u0101 and Kum\u0101ri J\u0101tr\u0101. Indra J\u0101tr\u0101 is marked by masked dances of deities and demons, displays of sacred images, and tableaus in honor of the deity Indra, the king of heaven. Kum\u0101ri J\u0101tr\u0101 is the chariot procession of the living goddess Kumari.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sweta_bhairava_krt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Indra_Jatra"
       }
@@ -176,5 +176,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Nepal.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 10.32,
+      "gross_debt_pct_gdp": 42.9,
+      "gross_debt_usd_billion": 4.43,
+      "inflation_cpi_pct": 8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 11.78,
+      "gross_debt_pct_gdp": 37.9,
+      "gross_debt_usd_billion": 4.46,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 14.31,
+      "gross_debt_pct_gdp": 36.8,
+      "gross_debt_usd_billion": 5.27,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 14.66,
+      "gross_debt_pct_gdp": 39.5,
+      "gross_debt_usd_billion": 5.79,
+      "inflation_cpi_pct": 12.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 18.25,
+      "gross_debt_pct_gdp": 35.4,
+      "gross_debt_usd_billion": 6.46,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 21.68,
+      "gross_debt_pct_gdp": 32.4,
+      "gross_debt_usd_billion": 7.03,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 21.7,
+      "gross_debt_pct_gdp": 34.5,
+      "gross_debt_usd_billion": 7.49,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 22.16,
+      "gross_debt_pct_gdp": 31.9,
+      "gross_debt_usd_billion": 7.07,
+      "inflation_cpi_pct": 9.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 22.72,
+      "gross_debt_pct_gdp": 27.6,
+      "gross_debt_usd_billion": 6.27,
+      "inflation_cpi_pct": 9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 24.36,
+      "gross_debt_pct_gdp": 25.7,
+      "gross_debt_usd_billion": 6.26,
+      "inflation_cpi_pct": 7.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 24.52,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 6.13,
+      "inflation_cpi_pct": 9.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 28.97,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 7.24,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 33.11,
+      "gross_debt_pct_gdp": 31.1,
+      "gross_debt_usd_billion": 10.3,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 34.19,
+      "gross_debt_pct_gdp": 34,
+      "gross_debt_usd_billion": 11.62,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 33.43,
+      "gross_debt_pct_gdp": 43.3,
+      "gross_debt_usd_billion": 14.48,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 36.93,
+      "gross_debt_pct_gdp": 43.3,
+      "gross_debt_usd_billion": 15.99,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 41.18,
+      "gross_debt_pct_gdp": 42.7,
+      "gross_debt_usd_billion": 17.59,
+      "inflation_cpi_pct": 6.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 41.05,
+      "gross_debt_pct_gdp": 47,
+      "gross_debt_usd_billion": 19.29,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 42.91,
+      "gross_debt_pct_gdp": 48.3,
+      "gross_debt_usd_billion": 20.73,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 44.81,
+      "gross_debt_pct_gdp": 48.1,
+      "gross_debt_usd_billion": 21.55,
+      "inflation_cpi_pct": 4.1,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

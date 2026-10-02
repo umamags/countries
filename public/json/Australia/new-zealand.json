@@ -27,7 +27,7 @@
       "name": "Sky Tower",
       "writeup": "",
       "wiki": {
-        "extract": "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Located at the corner of Victoria and Federal Streets within the city's CBD, it is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the second-tallest freestanding structure in the Southern Hemisphere, surpassed only by the Autograph Tower in Jakarta, Indonesia, and the 28th tallest tower in the world. Since its completion in 1997, the Sky Tower has become an iconic landmark in Auckland's skyline, due to its height and design. It was the tallest freestanding structure in the Southern Hemisphere from 1996 to 2022.",
+        "extract": "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Located at the corner of Victoria and Federal Streets within the city's CBD, it is 328 metres (1,076\u00a0ft) tall, as measured from ground level to the top of the mast, making it the second-tallest freestanding structure in the Southern Hemisphere, surpassed only by the Autograph Tower in Jakarta, Indonesia, and the 28th tallest tower in the world. Since its completion in 1997, the Sky Tower has become an iconic landmark in Auckland's skyline, due to its height and design. It was the tallest freestanding structure in the Southern Hemisphere from 1996 to 2022.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/01_Auckland_New_Zealand-1000137.jpg",
         "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
         "coordinates": {
@@ -66,7 +66,7 @@
       "name": "Hobbiton Movie Set",
       "writeup": "",
       "wiki": {
-        "extract": "The Hobbiton Movie Set is a significant location used for The Lord of the Rings film trilogy and The Hobbit film trilogy, serving as a stand-in for the town of Hobbiton in the Shire in both trilogies. It is situated on a family-run farm about 8 kilometres (5.0 mi) west of Hinuera and 10 kilometres (6.2 mi) southwest of Matamata, in Waikato, New Zealand, and is now a Tolkien tourism destination, offering a guided tour of the set.",
+        "extract": "The Hobbiton Movie Set is a significant location used for The Lord of the Rings film trilogy and The Hobbit film trilogy, serving as a stand-in for the town of Hobbiton in the Shire in both trilogies. It is situated on a family-run farm about 8 kilometres (5.0\u00a0mi) west of Hinuera and 10 kilometres (6.2\u00a0mi) southwest of Matamata, in Waikato, New Zealand, and is now a Tolkien tourism destination, offering a guided tour of the set.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Waterhouse_Lake_Front.jpg",
         "url": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set",
         "coordinates": {
@@ -82,7 +82,7 @@
       "name": "Waitangi Day",
       "writeup": "",
       "wiki": {
-        "extract": "Waitangi Day, the national day of New Zealand, marks the anniversary of the initial signing of the Treaty of Waitangi on 6 February 1840. The Treaty of Waitangi was an agreement towards British sovereignty by representatives of the Crown and indigenous Māori chiefs, and so is regarded by many as the founding document of the nation.",
+        "extract": "Waitangi Day, the national day of New Zealand, marks the anniversary of the initial signing of the Treaty of Waitangi on 6 February 1840. The Treaty of Waitangi was an agreement towards British sovereignty by representatives of the Crown and indigenous M\u0101ori chiefs, and so is regarded by many as the founding document of the nation.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Waitangi_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Waitangi_Day"
       }
@@ -91,7 +91,7 @@
       "name": "Matariki",
       "writeup": "",
       "wiki": {
-        "extract": "In Māori culture, Matariki is the Pleiades star cluster and a celebration of its first rising in late June or early July. The rising marks the beginning of the new year in the Māori lunar calendar.",
+        "extract": "In M\u0101ori culture, Matariki is the Pleiades star cluster and a celebration of its first rising in late June or early July. The rising marks the beginning of the new year in the M\u0101ori lunar calendar.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/M45_Pleiades_Pbkwee_%28cropped_to_core_9_stars%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Matariki"
       }
@@ -109,7 +109,7 @@
       "name": "New Zealand International Film Festival",
       "writeup": "",
       "wiki": {
-        "extract": "The New Zealand International Film Festival (NZIFF) (Māori: Whānau Mārama) is a film festival held annually across New Zealand. The festival is operated by the New Zealand Film Festival Trust. It programmes international and New Zealand films.",
+        "extract": "The New Zealand International Film Festival (NZIFF) (M\u0101ori: Wh\u0101nau M\u0101rama) is a film festival held annually across New Zealand. The festival is operated by the New Zealand Film Festival Trust. It programmes international and New Zealand films.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/New_Zealand_International_Film_Festival"
       }
@@ -199,5 +199,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ANew_Zealand-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 109.74,
+      "gross_debt_pct_gdp": 18.4,
+      "gross_debt_usd_billion": 20.19,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 134.85,
+      "gross_debt_pct_gdp": 16.3,
+      "gross_debt_usd_billion": 21.98,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 135.61,
+      "gross_debt_pct_gdp": 19,
+      "gross_debt_usd_billion": 25.77,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 122.0,
+      "gross_debt_pct_gdp": 24.3,
+      "gross_debt_usd_billion": 29.65,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 145.74,
+      "gross_debt_pct_gdp": 29.6,
+      "gross_debt_usd_billion": 43.14,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 167.15,
+      "gross_debt_pct_gdp": 34.7,
+      "gross_debt_usd_billion": 58.0,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 175.31,
+      "gross_debt_pct_gdp": 35.7,
+      "gross_debt_usd_billion": 62.59,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 187.23,
+      "gross_debt_pct_gdp": 34.6,
+      "gross_debt_usd_billion": 64.78,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 200.22,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 68.48,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 176.38,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 60.32,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 185.98,
+      "gross_debt_pct_gdp": 33.4,
+      "gross_debt_usd_billion": 62.12,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 203.66,
+      "gross_debt_pct_gdp": 31.1,
+      "gross_debt_usd_billion": 63.34,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 209.49,
+      "gross_debt_pct_gdp": 28.1,
+      "gross_debt_usd_billion": 58.87,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 210.96,
+      "gross_debt_pct_gdp": 31.8,
+      "gross_debt_usd_billion": 67.09,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 210.84,
+      "gross_debt_pct_gdp": 43.2,
+      "gross_debt_usd_billion": 91.08,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 249.72,
+      "gross_debt_pct_gdp": 47.5,
+      "gross_debt_usd_billion": 118.62,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 245.16,
+      "gross_debt_pct_gdp": 46.9,
+      "gross_debt_usd_billion": 114.98,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 253.65,
+      "gross_debt_pct_gdp": 47.3,
+      "gross_debt_usd_billion": 119.98,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 258.83,
+      "gross_debt_pct_gdp": 51.4,
+      "gross_debt_usd_billion": 133.04,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 258.83,
+      "gross_debt_pct_gdp": 54.7,
+      "gross_debt_usd_billion": 141.58,
+      "inflation_cpi_pct": 2.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

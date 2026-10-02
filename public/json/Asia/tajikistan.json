@@ -14,7 +14,7 @@
       "name": "Iskanderkul Lake",
       "writeup": "A scenic mountain lake in the Fann Mountains, known for its turquoise waters and natural beauty.",
       "wiki": {
-        "extract": "Iskanderkul is a mountain lake of glacial origin in Tajikistan's Sughd Province. It lies at an altitude of 2,195 metres (7,201 ft) on the northern slopes of the Gissar Range in the Fann Mountains. Triangular in shape, it has a surface area of 3.4 square kilometres (1.3 sq mi) and is up to 72 metres (236 ft) deep. Formed by a landslide that blocks the Saratogh river, the outflow of the lake is called the Iskander Darya, which joins the Yaghnob River to form the Fan Darya, a major left tributary of the Zeravshan River.",
+        "extract": "Iskanderkul is a mountain lake of glacial origin in Tajikistan's Sughd Province. It lies at an altitude of 2,195 metres (7,201\u00a0ft) on the northern slopes of the Gissar Range in the Fann Mountains. Triangular in shape, it has a surface area of 3.4 square kilometres (1.3\u00a0sq\u00a0mi) and is up to 72 metres (236\u00a0ft) deep. Formed by a landslide that blocks the Saratogh river, the outflow of the lake is called the Iskander Darya, which joins the Yaghnob River to form the Fan Darya, a major left tributary of the Zeravshan River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iskander-kul%2C_Tajikistan.JPG",
         "url": "https://en.wikipedia.org/wiki/Iskanderkul",
         "coordinates": {
@@ -45,7 +45,7 @@
       "name": "Rudaki Park",
       "writeup": "A central park in Dushanbe named after the Persian poet Rudaki, featuring monuments and recreational spaces.",
       "wiki": {
-        "extract": "Dushanbe is the capital and largest city of Tajikistan. As of February 2023, Dushanbe had a population of 1,228,400, with this population being largely Tajik. Until 1929, the city was known in Russian as Dyushambe, and from 1929 to 1961 as Stalinabad, after Joseph Stalin. Dushanbe is located in the Hisar Valley, bounded by the Hisar Range in the north and east and the Babatag, Aktau, Rangontau and Karatau mountains in the south, and has an elevation of 750–930 m. The city is divided into four districts: Ismail Samani, Avicenna, Ferdowsi, and Shah Mansur.",
+        "extract": "Dushanbe is the capital and largest city of Tajikistan. As of February\u00a02023, Dushanbe had a population of 1,228,400, with this population being largely Tajik. Until 1929, the city was known in Russian as Dyushambe, and from 1929 to 1961 as Stalinabad, after Joseph Stalin. Dushanbe is located in the Hisar Valley, bounded by the Hisar Range in the north and east and the Babatag, Aktau, Rangontau and Karatau mountains in the south, and has an elevation of 750\u2013930 m. The city is divided into four districts: Ismail Samani, Avicenna, Ferdowsi, and Shah Mansur.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panorama_with_buildings%2C_Dushanbe.jpg/3840px-Panorama_with_buildings%2C_Dushanbe.jpg",
         "url": "https://en.wikipedia.org/wiki/Dushanbe",
         "coordinates": {
@@ -130,5 +130,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ATajikistan_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 2.81,
+      "gross_debt_pct_gdp": 36.8,
+      "gross_debt_usd_billion": 1.03,
+      "inflation_cpi_pct": 10,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 3.71,
+      "gross_debt_pct_gdp": 34.3,
+      "gross_debt_usd_billion": 1.27,
+      "inflation_cpi_pct": 13.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 5.13,
+      "gross_debt_pct_gdp": 30.2,
+      "gross_debt_usd_billion": 1.55,
+      "inflation_cpi_pct": 20.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 4.98,
+      "gross_debt_pct_gdp": 36.9,
+      "gross_debt_usd_billion": 1.84,
+      "inflation_cpi_pct": 6.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 5.64,
+      "gross_debt_pct_gdp": 36.8,
+      "gross_debt_usd_billion": 2.08,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 6.52,
+      "gross_debt_pct_gdp": 35.5,
+      "gross_debt_usd_billion": 2.32,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 7.59,
+      "gross_debt_pct_gdp": 32.5,
+      "gross_debt_usd_billion": 2.47,
+      "inflation_cpi_pct": 5.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 8.51,
+      "gross_debt_pct_gdp": 29.3,
+      "gross_debt_usd_billion": 2.49,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 9.24,
+      "gross_debt_pct_gdp": 27.9,
+      "gross_debt_usd_billion": 2.58,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 7.86,
+      "gross_debt_pct_gdp": 35,
+      "gross_debt_usd_billion": 2.75,
+      "inflation_cpi_pct": 5.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 6.99,
+      "gross_debt_pct_gdp": 42.2,
+      "gross_debt_usd_billion": 2.95,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 7.54,
+      "gross_debt_pct_gdp": 46.3,
+      "gross_debt_usd_billion": 3.49,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 7.76,
+      "gross_debt_pct_gdp": 46.3,
+      "gross_debt_usd_billion": 3.59,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 8.3,
+      "gross_debt_pct_gdp": 43.2,
+      "gross_debt_usd_billion": 3.59,
+      "inflation_cpi_pct": 7.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 8.13,
+      "gross_debt_pct_gdp": 50.9,
+      "gross_debt_usd_billion": 4.14,
+      "inflation_cpi_pct": 8.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 8.93,
+      "gross_debt_pct_gdp": 42,
+      "gross_debt_usd_billion": 3.75,
+      "inflation_cpi_pct": 9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 10.72,
+      "gross_debt_pct_gdp": 31.8,
+      "gross_debt_usd_billion": 3.41,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 12.24,
+      "gross_debt_pct_gdp": 29.9,
+      "gross_debt_usd_billion": 3.66,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 14.43,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 3.59,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 17.54,
+      "gross_debt_pct_gdp": 21.6,
+      "gross_debt_usd_billion": 3.79,
+      "inflation_cpi_pct": 3.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

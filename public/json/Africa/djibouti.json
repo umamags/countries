@@ -15,7 +15,7 @@
       "name": "Lake Assal",
       "writeup": "A saline lake below sea level, known as one of the saltiest bodies of water in the world.",
       "wiki": {
-        "extract": "Lake Assal is a crater lake in central-western Djibouti. It is located at the western end of Gulf of Tadjoura between Arta Region, and Tadjoura Region, touching Dikhil Region, at the top of the Great Rift Valley, some 120 km (75 mi) west of Djibouti city. Lake Assal is a saline lake that lies 155 m (509 ft) below sea level in the Afar Triangle, making it the lowest point on land in Africa and the third-lowest point on Earth after the Sea of Galilee and the Dead Sea. No outflow occurs from the lake, and due to high evaporation, the salinity level of its waters is 10 times that of the sea, making it the fifth most saline body of water in the world, behind Garabogazköl, Lake Retba, Gaet'ale Pond and Lake Elton. The salt in the lake is exploited under four concessions awarded in 2002 at the southeast end of the lake; the major share of production is held by Société d’Exploitation du Lac and Société d’Exploitation du Salt Investment S.A de Djibouti.",
+        "extract": "Lake Assal is a crater lake in central-western Djibouti. It is located at the western end of Gulf of Tadjoura between Arta Region, and Tadjoura Region, touching Dikhil Region, at the top of the Great Rift Valley, some 120\u00a0km (75\u00a0mi) west of Djibouti city. Lake Assal is a saline lake that lies 155\u00a0m (509\u00a0ft) below sea level in the Afar Triangle, making it the lowest point on land in Africa and the third-lowest point on Earth after the Sea of Galilee and the Dead Sea. No outflow occurs from the lake, and due to high evaporation, the salinity level of its waters is 10 times that of the sea, making it the fifth most saline body of water in the world, behind Garabogazk\u00f6l, Lake Retba, Gaet'ale Pond and Lake Elton. The salt in the lake is exploited under four concessions awarded in 2002 at the southeast end of the lake; the major share of production is held by Soci\u00e9t\u00e9 d\u2019Exploitation du Lac and Soci\u00e9t\u00e9 d\u2019Exploitation du Salt Investment S.A de Djibouti.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Assal_NASA.jpg",
         "url": "https://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)",
         "coordinates": {
@@ -41,7 +41,7 @@
       "name": "Day Forest National Park",
       "writeup": "A rare forested area in the country, home to diverse flora and fauna.",
       "wiki": {
-        "extract": "Day Forest National Park, also known as Forêt du Day National Park, is a national park in the Goda Mountains and Tadjourah Region of Djibouti. The region is one of the very few forested areas of Djibouti, which taken as a whole is one of the least forested countries on Earth. It is the wettest part of Djibouti, receiving some 500 millimetres of precipitation annually.",
+        "extract": "Day Forest National Park, also known as For\u00eat du Day National Park, is a national park in the Goda Mountains and Tadjourah Region of Djibouti. The region is one of the very few forested areas of Djibouti, which taken as a whole is one of the least forested countries on Earth. It is the wettest part of Djibouti, receiving some 500 millimetres of precipitation annually.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Goda_Mountains_-_National_Park_of_For%C3%AAt_du_Day.jpg",
         "url": "https://en.wikipedia.org/wiki/Day_Forest_National_Park",
         "coordinates": {
@@ -51,7 +51,7 @@
       }
     }
   ],
-  "head_of_state": "President Ismaïl Omar Guelleh",
+  "head_of_state": "President Isma\u00efl Omar Guelleh",
   "cultural_events": [
     {
       "name": "Eid al-Fitr",
@@ -76,7 +76,7 @@
   "brief_history": "Djibouti was historically a trading hub due to its strategic location by the Red Sea. It was a French colony until gaining independence in 1977. Since then, it has developed as a key port and military base.",
   "important_people": [
     {
-      "name": "Ismaïl Omar Guelleh",
+      "name": "Isma\u00efl Omar Guelleh",
       "description": "Current President"
     },
     {
@@ -111,5 +111,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ADjibouti_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1.08,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1.19,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1.38,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1.43,
+      "gross_debt_pct_gdp": 29.5,
+      "gross_debt_usd_billion": 0.42,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1.54,
+      "gross_debt_pct_gdp": 27.9,
+      "gross_debt_usd_billion": 0.43,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.74,
+      "gross_debt_pct_gdp": 25.7,
+      "gross_debt_usd_billion": 0.45,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.9,
+      "gross_debt_pct_gdp": 25,
+      "gross_debt_usd_billion": 0.48,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 2.04,
+      "gross_debt_pct_gdp": 24.6,
+      "gross_debt_usd_billion": 0.5,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 2.22,
+      "gross_debt_pct_gdp": 26.9,
+      "gross_debt_usd_billion": 0.6,
+      "inflation_cpi_pct": 1.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 2.42,
+      "gross_debt_pct_gdp": 40.3,
+      "gross_debt_usd_billion": 0.98,
+      "inflation_cpi_pct": -0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2.6,
+      "gross_debt_pct_gdp": 45.9,
+      "gross_debt_usd_billion": 1.2,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2.76,
+      "gross_debt_pct_gdp": 48,
+      "gross_debt_usd_billion": 1.33,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 2.91,
+      "gross_debt_pct_gdp": 47.5,
+      "gross_debt_usd_billion": 1.38,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 3.09,
+      "gross_debt_pct_gdp": 41.1,
+      "gross_debt_usd_billion": 1.27,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 3.14,
+      "gross_debt_pct_gdp": 42.1,
+      "gross_debt_usd_billion": 1.32,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3.39,
+      "gross_debt_pct_gdp": 40.3,
+      "gross_debt_usd_billion": 1.37,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3.56,
+      "gross_debt_pct_gdp": 38.3,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 3.9,
+      "gross_debt_pct_gdp": 35.6,
+      "gross_debt_usd_billion": 1.39,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 4.15,
+      "gross_debt_pct_gdp": 34,
+      "gross_debt_usd_billion": 1.41,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 4.38,
+      "gross_debt_pct_gdp": 32.1,
+      "gross_debt_usd_billion": 1.41,
+      "inflation_cpi_pct": -0.3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

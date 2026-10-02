@@ -16,7 +16,7 @@
       "name": "Gorongosa National Park",
       "writeup": "A biodiversity hotspot known for its wildlife and scenic landscapes, crucial for conservation efforts.",
       "wiki": {
-        "extract": "Gorongosa National Park is at the southern end of the Great African Rift Valley in the heart of central Mozambique, Southeast Africa. The more than 4,000 km2 (1,500 sq mi) park comprises the valley floor and parts of surrounding plateaus. Rivers originating on nearby Mount Gorongosa at 1,863 m (6,112 ft) water the plain.",
+        "extract": "Gorongosa National Park is at the southern end of the Great African Rift Valley in the heart of central Mozambique, Southeast Africa. The more than 4,000\u00a0km2 (1,500\u00a0sq\u00a0mi) park comprises the valley floor and parts of surrounding plateaus. Rivers originating on nearby Mount Gorongosa at 1,863\u00a0m (6,112\u00a0ft) water the plain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gorongosa_Park_Gate.JPG",
         "url": "https://en.wikipedia.org/wiki/Gorongosa_National_Park",
         "coordinates": {
@@ -42,7 +42,7 @@
       "name": "Bazaruto Archipelago",
       "writeup": "A group of islands famous for pristine beaches, coral reefs, and marine biodiversity.",
       "wiki": {
-        "extract": "The Bazaruto Archipelago is a group of six islands in Mozambique, near the mainland city of Vilankulo. It comprises the islands of Bazaruto, Benguerra, Magaruque, Santa Carolina and Bangué.",
+        "extract": "The Bazaruto Archipelago is a group of six islands in Mozambique, near the mainland city of Vilankulo. It comprises the islands of Bazaruto, Benguerra, Magaruque, Santa Carolina and Bangu\u00e9.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS059-E-92404_-_View_of_Mozambique.jpg/3840px-ISS059-E-92404_-_View_of_Mozambique.jpg",
         "url": "https://en.wikipedia.org/wiki/Bazaruto_Archipelago",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Maputo International Music Festival",
       "writeup": "An annual event showcasing local and international music, promoting cultural exchange.",
       "wiki": {
-        "extract": "Maputo is the capital and largest city of Mozambique. Located near the southern end of the country, it is within 120 kilometres of the borders with Eswatini and South Africa. The city has a population of 1,088,449 distributed over a land area of 347.69 km2 (134.24 sq mi). The Maputo metropolitan area includes the neighbouring city of Matola, and has a total population of 2,717,437. Maputo is a port city, with an economy centered on commerce. It is noted for its vibrant cultural scene and distinctive, eclectic architecture. Maputo was formerly named Lourenço Marques.",
+        "extract": "Maputo is the capital and largest city of Mozambique. Located near the southern end of the country, it is within 120 kilometres of the borders with Eswatini and South Africa. The city has a population of 1,088,449 distributed over a land area of 347.69\u00a0km2 (134.24\u00a0sq\u00a0mi). The Maputo metropolitan area includes the neighbouring city of Matola, and has a total population of 2,717,437. Maputo is a port city, with an economy centered on commerce. It is noted for its vibrant cultural scene and distinctive, eclectic architecture. Maputo was formerly named Louren\u00e7o Marques.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Maputo"
       }
@@ -137,5 +137,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AMozambique-CIA_WFB_Map_2021_orig.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 9.51,
+      "gross_debt_pct_gdp": 40,
+      "gross_debt_usd_billion": 3.8,
+      "inflation_cpi_pct": 13.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.81,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 3.37,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 12.92,
+      "gross_debt_pct_gdp": 32.8,
+      "gross_debt_usd_billion": 4.24,
+      "inflation_cpi_pct": 14.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 12.26,
+      "gross_debt_pct_gdp": 39.3,
+      "gross_debt_usd_billion": 4.82,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 11.41,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 4.41,
+      "inflation_cpi_pct": 12.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 14.62,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 5.0,
+      "inflation_cpi_pct": 11.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 16.69,
+      "gross_debt_pct_gdp": 36.7,
+      "gross_debt_usd_billion": 6.12,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 17.2,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 8.51,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 17.98,
+      "gross_debt_pct_gdp": 63.4,
+      "gross_debt_usd_billion": 11.4,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 16.21,
+      "gross_debt_pct_gdp": 86,
+      "gross_debt_usd_billion": 13.94,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 12.07,
+      "gross_debt_pct_gdp": 124.8,
+      "gross_debt_usd_billion": 15.06,
+      "inflation_cpi_pct": 18.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 13.27,
+      "gross_debt_pct_gdp": 103.8,
+      "gross_debt_usd_billion": 13.77,
+      "inflation_cpi_pct": 15.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 15.02,
+      "gross_debt_pct_gdp": 105.5,
+      "gross_debt_usd_billion": 15.84,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 15.51,
+      "gross_debt_pct_gdp": 98.3,
+      "gross_debt_usd_billion": 15.25,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 14.23,
+      "gross_debt_pct_gdp": 120,
+      "gross_debt_usd_billion": 17.08,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 16.17,
+      "gross_debt_pct_gdp": 104.3,
+      "gross_debt_usd_billion": 16.86,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 18.88,
+      "gross_debt_pct_gdp": 100.4,
+      "gross_debt_usd_billion": 18.96,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 20.92,
+      "gross_debt_pct_gdp": 90.8,
+      "gross_debt_usd_billion": 19.0,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 22.75,
+      "gross_debt_pct_gdp": 91.4,
+      "gross_debt_usd_billion": 20.79,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 22.34,
+      "gross_debt_pct_gdp": 102.5,
+      "gross_debt_usd_billion": 22.9,
+      "inflation_cpi_pct": 4.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -16,7 +16,7 @@
       "name": "Nan Madol",
       "writeup": "An ancient city built on a lagoon, known for its unique megalithic architecture and often called the 'Venice of the Pacific.'",
       "wiki": {
-        "extract": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei, now part of the Madolenihmw district of Pohnpei state in the Federated States of Micronesia in the western Pacific Ocean. Nan Madol was the capital of the Saudeleur dynasty until about 1628. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals. The site core with its stone walls encloses an area approximately 1.5 by 0.5 kilometres and it contains 92 artificial islets—stone and coral fill platforms—bordered by tidal canals.",
+        "extract": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei, now part of the Madolenihmw district of Pohnpei state in the Federated States of Micronesia in the western Pacific Ocean. Nan Madol was the capital of the Saudeleur dynasty until about 1628. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals. The site core with its stone walls encloses an area approximately 1.5 by 0.5 kilometres and it contains 92 artificial islets\u2014stone and coral fill platforms\u2014bordered by tidal canals.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nan_madol.jpg",
         "url": "https://en.wikipedia.org/wiki/Nan_Madol",
         "coordinates": {
@@ -39,7 +39,7 @@
       "name": "Pohnpei Island",
       "writeup": "Home to lush rainforests, waterfalls, and the mysterious ruins of Nan Madol.",
       "wiki": {
-        "extract": "The Federated States of Micronesia, or simply Micronesia, is an island country in Micronesia, a region of Oceania. The federation encompasses the majority of the Caroline Islands and consists of four states—from west to east: Yap, Chuuk, Pohnpei, and Kosrae—that span the western Pacific just north of the equator for a longitudinal distance of almost 2,700 km (1,700 mi). Together, the states comprise around 607 islands and a combined land area of approximately 702 km2 or 271 sq mi.",
+        "extract": "The Federated States of Micronesia, or simply Micronesia, is an island country in Micronesia, a region of Oceania. The federation encompasses the majority of the Caroline Islands and consists of four states\u2014from west to east: Yap, Chuuk, Pohnpei, and Kosrae\u2014that span the western Pacific just north of the equator for a longitudinal distance of almost 2,700\u00a0km (1,700\u00a0mi). Together, the states comprise around 607 islands and a combined land area of approximately 702\u00a0km2 or 271\u00a0sq\u00a0mi.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/960px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
         "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Pohnpei Cultural Festival",
       "writeup": "A festival showcasing traditional music, dance, and crafts from Pohnpei and surrounding islands.",
       "wiki": {
-        "extract": "The Vintage Photo Festival – International Festival of Analog Photography Enthusiasts is an annual cultural even organized in Bydgoszcz by the Fotografistka Foundation. It was created in 2015 out of passion for analog photography and the belief that old techniques in photography were experiencing a renaissance. Despite great revolution and evolution in digital photography, the return or even the rebirth of so-called traditional photography is visible. Film cameras are back in use, which can be proven by photographic film manufacturers such as Kodak who in recent years has got back to manufacturing several types of negative film which were taken off the market in the past. As a result, younger and younger creators are using analog photography as their medium of expression.",
+        "extract": "The Vintage Photo Festival \u2013 International Festival of Analog Photography Enthusiasts is an annual cultural even organized in Bydgoszcz by the Fotografistka Foundation. It was created in 2015 out of passion for analog photography and the belief that old techniques in photography were experiencing a renaissance. Despite great revolution and evolution in digital photography, the return or even the rebirth of so-called traditional photography is visible. Film cameras are back in use, which can be proven by photographic film manufacturers such as Kodak who in recent years has got back to manufacturing several types of negative film which were taken off the market in the past. As a result, younger and younger creators are using analog photography as their medium of expression.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Vintage_Photo_Festival"
       }
@@ -113,5 +113,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Micronesia%2C_Federated_States_of.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.25,
+      "gross_debt_pct_gdp": 25.4,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.25,
+      "gross_debt_pct_gdp": 26,
+      "gross_debt_usd_billion": 0.07,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.26,
+      "gross_debt_pct_gdp": 29.2,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.28,
+      "gross_debt_pct_gdp": 31.1,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 8.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.29,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 0.31,
+      "gross_debt_pct_gdp": 28.6,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 0.32,
+      "gross_debt_pct_gdp": 27.3,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 0.31,
+      "gross_debt_pct_gdp": 27.9,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 0.32,
+      "gross_debt_pct_gdp": 28.4,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 0.31,
+      "gross_debt_pct_gdp": 26,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 0.33,
+      "gross_debt_pct_gdp": 24.6,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 0.36,
+      "gross_debt_pct_gdp": 23.9,
+      "gross_debt_usd_billion": 0.09,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 0.39,
+      "gross_debt_pct_gdp": 21,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 0.4,
+      "gross_debt_pct_gdp": 19.8,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 0.37,
+      "gross_debt_pct_gdp": 21.5,
+      "gross_debt_usd_billion": 0.08,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 0.39,
+      "gross_debt_pct_gdp": 17,
+      "gross_debt_usd_billion": 0.07,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 0.41,
+      "gross_debt_pct_gdp": 15.1,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 0.44,
+      "gross_debt_pct_gdp": 12.8,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 0.48,
+      "gross_debt_pct_gdp": 10.4,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 0.5,
+      "gross_debt_pct_gdp": 8.9,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 3.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

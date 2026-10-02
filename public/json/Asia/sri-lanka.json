@@ -14,7 +14,7 @@
       "name": "Sigiriya Rock Fortress",
       "writeup": "An ancient rock fortress and palace ruin, known for its frescoes and extensive gardens, dating back to the 5th century.",
       "wiki": {
-        "extract": "Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high.",
+        "extract": "Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180\u00a0m (590\u00a0ft) high.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sigiriya_%28141688197%29.jpeg",
         "url": "https://en.wikipedia.org/wiki/Sigiriya",
         "coordinates": {
@@ -40,7 +40,7 @@
       "name": "Yala National Park",
       "writeup": "A wildlife sanctuary famous for its leopard population and diverse flora and fauna.",
       "wiki": {
-        "extract": "Yala National Park is a national park in Sri Lanka, bordering the Indian Ocean and covering 979 km2 (378 sq mi). It was designated as a wildlife sanctuary in 1900. It hosts diverse ecosystems ranging from moist monsoon forests to freshwater and marine wetlands, and is important for the conservation of Sri Lankan elephants, Sri Lankan leopards and 44 mammal species. It is one of the 70 Important Bird Areas in Sri Lanka harbouring 215 bird species including six endemic species of Sri Lanka.",
+        "extract": "Yala National Park is a national park in Sri Lanka, bordering the Indian Ocean and covering 979\u00a0km2 (378\u00a0sq\u00a0mi). It was designated as a wildlife sanctuary in 1900. It hosts diverse ecosystems ranging from moist monsoon forests to freshwater and marine wetlands, and is important for the conservation of Sri Lankan elephants, Sri Lankan leopards and 44 mammal species. It is one of the 70 Important Bird Areas in Sri Lanka harbouring 215 bird species including six endemic species of Sri Lanka.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Yala_Beach.jpg/3840px-Yala_Beach.jpg",
         "url": "https://en.wikipedia.org/wiki/Yala_National_Park",
         "coordinates": {
@@ -66,7 +66,7 @@
       "name": "Adam's Peak",
       "writeup": "A pilgrimage site known for the 'Sri Pada' footprint, sacred to multiple religions.",
       "wiki": {
-        "extract": "Adam's Peak is a 2,243-metre-tall (7,359-foot) conical sacred mountain located in central Sri Lanka. It is well known for the Sri Pada, a 1.8 m rock formation resembling a footprint near the summit whose name is also used for the mountain itself. In Buddhist tradition the print is held to be the footprint of the Buddha, later in Sri Lankan Hindu tradition that of Hanuman or Shiva, and in some Islamic and Christian traditions that of Adam or St. Thomas the Apostle.",
+        "extract": "Adam's Peak is a 2,243-metre-tall (7,359-foot) conical sacred mountain located in central Sri Lanka. It is well known for the Sri Pada, a 1.8\u00a0m rock formation resembling a footprint near the summit whose name is also used for the mountain itself. In Buddhist tradition the print is held to be the footprint of the Buddha, later in Sri Lankan Hindu tradition that of Hanuman or Shiva, and in some Islamic and Christian traditions that of Adam or St. Thomas the Apostle.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Pada.JPG",
         "url": "https://en.wikipedia.org/wiki/Adam's_Peak",
         "coordinates": {
@@ -91,7 +91,7 @@
       "name": "Vesak",
       "writeup": "A Buddhist festival commemorating the birth, enlightenment, and death of Buddha, celebrated with lanterns and religious observances.",
       "wiki": {
-        "extract": "Vesak, also known as Buddha Jayanti, Buddha Purnima, Visak Bochea and Buddha Day, is a holiday traditionally observed by Buddhists in South Asia and Southeast Asia, as well as in Tibet and Mongolia. It is among the most important Buddhist festivals. The festival commemorates the birth, enlightenment, and death (Parinirvāna) of Gautama Buddha in Theravada, Tibetan Buddhism, and Navayana.",
+        "extract": "Vesak, also known as Buddha Jayanti, Buddha Purnima, Visak Bochea and Buddha Day, is a holiday traditionally observed by Buddhists in South Asia and Southeast Asia, as well as in Tibet and Mongolia. It is among the most important Buddhist festivals. The festival commemorates the birth, enlightenment, and death (Parinirv\u0101na) of Gautama Buddha in Theravada, Tibetan Buddhism, and Navayana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/1_Wesak_Day_%28in_Thailand%29_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Vesak"
       }
@@ -169,5 +169,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASri_Lanka_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 33.45,
+      "gross_debt_pct_gdp": 74.3,
+      "gross_debt_usd_billion": 24.85,
+      "inflation_cpi_pct": 9.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 38.27,
+      "gross_debt_pct_gdp": 71.8,
+      "gross_debt_usd_billion": 27.48,
+      "inflation_cpi_pct": 15.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 48.18,
+      "gross_debt_pct_gdp": 68.8,
+      "gross_debt_usd_billion": 33.15,
+      "inflation_cpi_pct": 22.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 49.75,
+      "gross_debt_pct_gdp": 72.8,
+      "gross_debt_usd_billion": 36.22,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 58.64,
+      "gross_debt_pct_gdp": 68.7,
+      "gross_debt_usd_billion": 40.29,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 67.72,
+      "gross_debt_pct_gdp": 69.4,
+      "gross_debt_usd_billion": 47.0,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 70.39,
+      "gross_debt_pct_gdp": 67.5,
+      "gross_debt_usd_billion": 47.51,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 76.93,
+      "gross_debt_pct_gdp": 69.5,
+      "gross_debt_usd_billion": 53.47,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 82.48,
+      "gross_debt_pct_gdp": 69.6,
+      "gross_debt_usd_billion": 57.41,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 85.09,
+      "gross_debt_pct_gdp": 76.3,
+      "gross_debt_usd_billion": 64.92,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 88,
+      "gross_debt_pct_gdp": 75,
+      "gross_debt_usd_billion": 66.0,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 94.38,
+      "gross_debt_pct_gdp": 72.3,
+      "gross_debt_usd_billion": 68.23,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 94.48,
+      "gross_debt_pct_gdp": 83.6,
+      "gross_debt_usd_billion": 78.99,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 89.02,
+      "gross_debt_pct_gdp": 82.6,
+      "gross_debt_usd_billion": 73.53,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 84.3,
+      "gross_debt_pct_gdp": 96.9,
+      "gross_debt_usd_billion": 81.69,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 88.61,
+      "gross_debt_pct_gdp": 102.7,
+      "gross_debt_usd_billion": 91.0,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 74.58,
+      "gross_debt_pct_gdp": 115.9,
+      "gross_debt_usd_billion": 86.44,
+      "inflation_cpi_pct": 45.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 83.72,
+      "gross_debt_pct_gdp": 110.4,
+      "gross_debt_usd_billion": 92.43,
+      "inflation_cpi_pct": 17.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 98.96,
+      "gross_debt_pct_gdp": 100.8,
+      "gross_debt_usd_billion": 99.76,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

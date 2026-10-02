@@ -25,7 +25,7 @@
       "name": "Torres del Paine National Park",
       "writeup": "A national park in Patagonia known for its stunning mountains, glaciers, lakes, and diverse wildlife.",
       "wiki": {
-        "extract": "Torres del Paine National Park is a national park encompassing mountains, glaciers, lakes, and rivers in southern Chilean Patagonia. The Cordillera del Paine group of mountains is the park's centerpiece. It lies in a transition area between the Magellanic subpolar forests and the Patagonian Steppes. The park is located 112 km (70 mi) north of Puerto Natales and 312 km (194 mi) north of Punta Arenas. The park borders Bernardo O'Higgins National Park to the west and the Los Glaciares National Park to the north in Argentine territory. It was established as a national park in 1959. Paine means \"blue\" in the native Tehuelche (Aonikenk) language and is pronounced PIE-neh.",
+        "extract": "Torres del Paine National Park is a national park encompassing mountains, glaciers, lakes, and rivers in southern Chilean Patagonia. The Cordillera del Paine group of mountains is the park's centerpiece. It lies in a transition area between the Magellanic subpolar forests and the Patagonian Steppes. The park is located 112\u00a0km (70\u00a0mi) north of Puerto Natales and 312\u00a0km (194\u00a0mi) north of Punta Arenas. The park borders Bernardo O'Higgins National Park to the west and the Los Glaciares National Park to the north in Argentine territory. It was established as a national park in 1959. Paine means \"blue\" in the native Tehuelche (Aonikenk) language and is pronounced PIE-neh.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg",
         "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Atacama Desert",
       "writeup": "The driest non-polar desert in the world, offering unique landscapes and some of the clearest night skies for astronomy.",
       "wiki": {
-        "extract": "The Atacama Desert is a desert plateau on the Pacific coast of South America, stretching along a 1,600-kilometre-long (1,000-mile) strip of land in northern Chile, west of the Andes. It covers an area of 105,000 km2 (41,000 mi2), rising to 128,000 km2 (49,000 mi2) if the barren lower slopes of the Andes are included.",
+        "extract": "The Atacama Desert is a desert plateau on the Pacific coast of South America, stretching along a 1,600-kilometre-long (1,000-mile) strip of land in northern Chile, west of the Andes. It covers an area of 105,000\u00a0km2 (41,000\u00a0mi2), rising to 128,000\u00a0km2 (49,000\u00a0mi2) if the barren lower slopes of the Andes are included.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Atacama.png",
         "url": "https://en.wikipedia.org/wiki/Atacama_Desert",
         "coordinates": {
@@ -48,10 +48,10 @@
       }
     },
     {
-      "name": "Valparaíso",
+      "name": "Valpara\u00edso",
       "writeup": "A colorful port city known for its steep funiculars, vibrant street art, and historic quarter.",
       "wiki": {
-        "extract": "Valparaíso is a major city, commune, seaport, and naval base facility in the Valparaíso Region of Chile. Valparaíso was originally named after Valparaíso de Arriba, in Castile-La Mancha, Spain. With a population of 284,938, it is the 10th-largest commune in Chile.",
+        "extract": "Valpara\u00edso is a major city, commune, seaport, and naval base facility in the Valpara\u00edso Region of Chile. Valpara\u00edso was originally named after Valpara\u00edso de Arriba, in Castile-La Mancha, Spain. With a population of 284,938, it is the 10th-largest commune in Chile.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
         "url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "La Moneda Palace",
       "writeup": "The presidential palace in Santiago, an important symbol of Chilean government and history.",
       "wiki": {
-        "extract": "Palacio de La Moneda, or simply La Moneda, is the seat of the president of the Republic of Chile. It also houses the offices of three cabinet ministers: Interior, General Secretariat of the Presidency, and General Secretariat of the Government. Located in downtown Santiago, it occupies an entire block in the Civic District, bordered by Moneda street to the north, Morandé street to the east, Alameda del Libertador Bernardo O'Higgins to the south, and Teatinos street to the west.",
+        "extract": "Palacio de La Moneda, or simply La Moneda, is the seat of the president of the Republic of Chile. It also houses the offices of three cabinet ministers: Interior, General Secretariat of the Presidency, and General Secretariat of the Government. Located in downtown Santiago, it occupies an entire block in the Civic District, bordered by Moneda street to the north, Morand\u00e9 street to the east, Alameda del Libertador Bernardo O'Higgins to the south, and Teatinos street to the west.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/3840px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
         "url": "https://en.wikipedia.org/wiki/La_Moneda_Palace",
         "coordinates": {
@@ -86,13 +86,13 @@
       "name": "La Tirana Festival",
       "writeup": "A religious and cultural festival in northern Chile featuring traditional dances and colorful costumes.",
       "wiki": {
-        "extract": "Fiesta de la Tirana is an annual festival held in the locality of La Tirana in the Tarapacá Region of northern Chile. The celebration takes place on July 16 in honor of the Virgen del Carmen. La Tirana is the biggest geographically localized religious festivity in Chile and attracts between 200,000 and 250,000 visitors during the week of celebrations, while the village's permanent population normally numbers 5,000 inhabitants.",
+        "extract": "Fiesta de la Tirana is an annual festival held in the locality of La Tirana in the Tarapac\u00e1 Region of northern Chile. The celebration takes place on July 16 in honor of the Virgen del Carmen. La Tirana is the biggest geographically localized religious festivity in Chile and attracts between 200,000 and 250,000 visitors during the week of celebrations, while the village's permanent population normally numbers 5,000 inhabitants.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Fiesta_de_La_Tirana"
       }
     },
     {
-      "name": "Valparaíso Carnival",
+      "name": "Valpara\u00edso Carnival",
       "writeup": "An annual event with parades, music, and street performances celebrating local culture.",
       "wiki": {
         "extract": "Valparaiso, colloquially Valpo, is a city in and the county seat of Porter County, Indiana, United States. The population was 34,151 at the 2020 census. It is part of the Chicago metropolitan area.",
@@ -141,13 +141,13 @@
       "lon": -70.668987
     },
     {
-      "name": "Concepción",
+      "name": "Concepci\u00f3n",
       "capital": false,
       "lat": -36.830014,
       "lon": -73.050022
     },
     {
-      "name": "Valparaíso",
+      "name": "Valpara\u00edso",
       "capital": false,
       "lat": -33.045819,
       "lon": -71.62296
@@ -170,5 +170,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AChile_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 153.84,
+      "gross_debt_pct_gdp": 5,
+      "gross_debt_usd_billion": 7.69,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 172.56,
+      "gross_debt_pct_gdp": 3.9,
+      "gross_debt_usd_billion": 6.73,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 179.66,
+      "gross_debt_pct_gdp": 4.9,
+      "gross_debt_usd_billion": 8.8,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 171.79,
+      "gross_debt_pct_gdp": 5.8,
+      "gross_debt_usd_billion": 9.96,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 217.1,
+      "gross_debt_pct_gdp": 8.6,
+      "gross_debt_usd_billion": 18.67,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 251.22,
+      "gross_debt_pct_gdp": 11.1,
+      "gross_debt_usd_billion": 27.89,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 267.17,
+      "gross_debt_pct_gdp": 11.9,
+      "gross_debt_usd_billion": 31.79,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 277.22,
+      "gross_debt_pct_gdp": 12.8,
+      "gross_debt_usd_billion": 35.48,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 259.39,
+      "gross_debt_pct_gdp": 15,
+      "gross_debt_usd_billion": 38.91,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 242.51,
+      "gross_debt_pct_gdp": 17.4,
+      "gross_debt_usd_billion": 42.2,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 249.31,
+      "gross_debt_pct_gdp": 21.1,
+      "gross_debt_usd_billion": 52.6,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 276.36,
+      "gross_debt_pct_gdp": 23.7,
+      "gross_debt_usd_billion": 65.5,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 295.43,
+      "gross_debt_pct_gdp": 25.8,
+      "gross_debt_usd_billion": 76.22,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 278.04,
+      "gross_debt_pct_gdp": 28.3,
+      "gross_debt_usd_billion": 78.69,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 254.06,
+      "gross_debt_pct_gdp": 32.4,
+      "gross_debt_usd_billion": 82.32,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 315.41,
+      "gross_debt_pct_gdp": 36.4,
+      "gross_debt_usd_billion": 114.81,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 301.27,
+      "gross_debt_pct_gdp": 37.9,
+      "gross_debt_usd_billion": 114.18,
+      "inflation_cpi_pct": 11.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 335.63,
+      "gross_debt_pct_gdp": 39.4,
+      "gross_debt_usd_billion": 132.24,
+      "inflation_cpi_pct": 7.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 330.21,
+      "gross_debt_pct_gdp": 41.7,
+      "gross_debt_usd_billion": 137.7,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 355.35,
+      "gross_debt_pct_gdp": 41.8,
+      "gross_debt_usd_billion": 148.53,
+      "inflation_cpi_pct": 4.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

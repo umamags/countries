@@ -25,7 +25,7 @@
       "name": "Great Barrier Reef",
       "writeup": "The world's largest coral reef system, renowned for its biodiversity and marine life.",
       "wiki": {
-        "extract": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 mi2). The reef is located in the Coral Sea, off the coast of Queensland, Australia, separated from the coast by a channel 160 kilometres (100 mi) wide in places and over 61 metres (200 ft) deep. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the Seven Natural Wonders of the World in 1997. Australian World Heritage places included it in its list in 2007. The Queensland National Trust named it a state icon of Queensland in 2006.",
+        "extract": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400\u00a0mi) over an area of approximately 344,400 square kilometres (133,000\u00a0mi2). The reef is located in the Coral Sea, off the coast of Queensland, Australia, separated from the coast by a channel 160 kilometres (100\u00a0mi) wide in places and over 61 metres (200\u00a0ft) deep. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the Seven Natural Wonders of the World in 1997. Australian World Heritage places included it in its list in 2007. The Queensland National Trust named it a state icon of Queensland in 2006.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg",
         "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Uluru (Ayers Rock)",
       "writeup": "A massive sandstone monolith in the Northern Territory, sacred to Indigenous Australians.",
       "wiki": {
-        "extract": "Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.",
+        "extract": "Uluru, also known as Ayers Rock and officially gazetted as Uluru\u00a0/ Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335\u00a0km (208\u00a0mi) south-west of Alice Springs.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ULURU.jpg",
         "url": "https://en.wikipedia.org/wiki/Uluru",
         "coordinates": {
@@ -107,7 +107,7 @@
       "name": "Sydney Festival",
       "writeup": "A major arts festival featuring music, theater, and visual arts each January.",
       "wiki": {
-        "extract": "Sydney Festival is a major arts festival in Australia's largest city, Sydney, that runs for three weeks every January since it was established in 1977. The festival program features over 100 events from local and international artists and includes contemporary and classical music, dance, circus, drama, visual arts and artist talks. The festival attracts approximately 500,000 people to its large-scale free outdoor events and 150,000 to its ticketed events and contributes more than A$55 million to the economy of New South Wales.",
+        "extract": "Sydney Festival is a major arts festival in Australia's largest city, Sydney, that runs for three weeks every January since it was established in 1977. The festival program features over 100 events from local and international artists and includes contemporary and classical music, dance, circus, drama, visual arts and artist talks. The festival attracts approximately 500,000 people to its large-scale free outdoor events and 150,000 to its ticketed events and contributes more than A$55\u00a0million to the economy of New South Wales.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Symphony_in_the_Domain_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Sydney_Festival"
       }
@@ -197,5 +197,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Australia.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 783.45,
+      "gross_debt_pct_gdp": 9.94,
+      "gross_debt_usd_billion": 77.86,
+      "inflation_cpi_pct": 3.55,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 950.09,
+      "gross_debt_pct_gdp": 9.66,
+      "gross_debt_usd_billion": 91.83,
+      "inflation_cpi_pct": 2.36,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1056.57,
+      "gross_debt_pct_gdp": 11.74,
+      "gross_debt_usd_billion": 124.06,
+      "inflation_cpi_pct": 4.35,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1000.83,
+      "gross_debt_pct_gdp": 16.62,
+      "gross_debt_usd_billion": 166.36,
+      "inflation_cpi_pct": 1.77,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1254.62,
+      "gross_debt_pct_gdp": 20.35,
+      "gross_debt_usd_billion": 255.32,
+      "inflation_cpi_pct": 2.86,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1515.5,
+      "gross_debt_pct_gdp": 24.04,
+      "gross_debt_usd_billion": 364.34,
+      "inflation_cpi_pct": 3.36,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1570.14,
+      "gross_debt_pct_gdp": 27.52,
+      "gross_debt_usd_billion": 432.12,
+      "inflation_cpi_pct": 1.69,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1519.89,
+      "gross_debt_pct_gdp": 30.47,
+      "gross_debt_usd_billion": 463.07,
+      "inflation_cpi_pct": 2.45,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1456.94,
+      "gross_debt_pct_gdp": 34.04,
+      "gross_debt_usd_billion": 495.88,
+      "inflation_cpi_pct": 2.51,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1233.91,
+      "gross_debt_pct_gdp": 37.73,
+      "gross_debt_usd_billion": 465.51,
+      "inflation_cpi_pct": 1.49,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1262.64,
+      "gross_debt_pct_gdp": 40.62,
+      "gross_debt_usd_billion": 512.9,
+      "inflation_cpi_pct": 1.28,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1381.11,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 568.96,
+      "inflation_cpi_pct": 2.0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1417.16,
+      "gross_debt_pct_gdp": 41.76,
+      "gross_debt_usd_billion": 591.78,
+      "inflation_cpi_pct": 1.93,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1386.29,
+      "gross_debt_pct_gdp": 46.72,
+      "gross_debt_usd_billion": 647.67,
+      "inflation_cpi_pct": 1.57,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1362.66,
+      "gross_debt_pct_gdp": 57.08,
+      "gross_debt_usd_billion": 777.77,
+      "inflation_cpi_pct": 0.89,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1655.84,
+      "gross_debt_pct_gdp": 55.52,
+      "gross_debt_usd_billion": 919.26,
+      "inflation_cpi_pct": 2.82,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1725.43,
+      "gross_debt_pct_gdp": 50.21,
+      "gross_debt_usd_billion": 866.39,
+      "inflation_cpi_pct": 6.66,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1742.31,
+      "gross_debt_pct_gdp": 49.58,
+      "gross_debt_usd_billion": 863.87,
+      "inflation_cpi_pct": 5.59,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1795.49,
+      "gross_debt_pct_gdp": 50.72,
+      "gross_debt_usd_billion": 910.58,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1829.51,
+      "gross_debt_pct_gdp": 51.04,
+      "gross_debt_usd_billion": 933.73,
+      "inflation_cpi_pct": 2.58,
+      "status": "IMF projection"
+    }
+  ]
 }

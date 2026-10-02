@@ -38,7 +38,7 @@
       "name": "Sabratha",
       "writeup": "An ancient Roman city with impressive ruins such as a theater and forum, located on the Mediterranean coast.",
       "wiki": {
-        "extract": "Sabratha, in the Zawiya District of Libya, was the westernmost of the ancient \"three cities\" of Roman Tripolis, alongside Oea and Leptis Magna. From 2001 to 2007 it was the capital of the former Sabratha wa Sorman District. It lies on the Mediterranean coast about 70 km (43 mi) west of modern Tripoli. The extant archaeological site was inscribed as a UNESCO World Heritage Site in 1982.",
+        "extract": "Sabratha, in the Zawiya District of Libya, was the westernmost of the ancient \"three cities\" of Roman Tripolis, alongside Oea and Leptis Magna. From 2001 to 2007 it was the capital of the former Sabratha wa Sorman District. It lies on the Mediterranean coast about 70\u00a0km (43\u00a0mi) west of modern Tripoli. The extant archaeological site was inscribed as a UNESCO World Heritage Site in 1982.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Theatre_of_Sabratha%2C_Libya.jpg",
         "url": "https://en.wikipedia.org/wiki/Sabratha",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Acacus Mountains",
       "writeup": "A mountain range famous for prehistoric rock art dating back thousands of years.",
       "wiki": {
-        "extract": "The Acacus Mountains or Tadrart Akakus form a mountain range in the desert of the Ghat District in western Libya, part of the Sahara. They are situated east of the city of Ghat, Libya, and stretch north from the border with Algeria, about 100 kilometres (62 mi). The area has a particularly rich array of prehistoric rock art.",
+        "extract": "The Acacus Mountains or Tadrart Akakus form a mountain range in the desert of the Ghat District in western Libya, part of the Sahara. They are situated east of the city of Ghat, Libya, and stretch north from the border with Algeria, about 100 kilometres (62\u00a0mi). The area has a particularly rich array of prehistoric rock art.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tadrart_Acacus_1.jpg",
         "url": "https://en.wikipedia.org/wiki/Acacus_Mountains",
         "coordinates": {
@@ -171,5 +171,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Libya.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 60.09,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 68.21,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 86.8,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 60.77,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 75.38,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 48.17,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 15.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 92.54,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 75.36,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 57.38,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 48.72,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 10,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 49.91,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 25.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 67.15,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 25.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 76.68,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 13.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 69.24,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": -2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 46.89,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 35.22,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 43.28,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 43.96,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 49.35,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 44.73,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 1.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

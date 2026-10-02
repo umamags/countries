@@ -14,7 +14,7 @@
       "name": "Baalbek",
       "writeup": "Ancient Roman temple complex known for its grand architecture and historical significance.",
       "wiki": {
-        "extract": "Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608. Most of the population consists of Shia Muslims, followed by Sunni Muslims and Christians; in 2017, there was also a large presence of Syrian refugees.",
+        "extract": "Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67\u00a0km (42\u00a0mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608. Most of the population consists of Shia Muslims, followed by Sunni Muslims and Christians; in 2017, there was also a large presence of Syrian refugees.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/3840px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Baalbek",
         "coordinates": {
@@ -27,7 +27,7 @@
       "name": "Jeita Grotto",
       "writeup": "A system of interconnected limestone caves famous for its stunning stalactites and stalagmites.",
       "wiki": {
-        "extract": "The Jeita Grotto is a system of two separate, but interconnected, karstic limestone caves spanning an overall length of nearly 9 kilometres (5.6 mi). The caves are situated in the Nahr al-Kalb river valley within the locality of Jeita, 18 kilometres (11 mi) north of the Lebanese capital Beirut. Though inhabited in prehistoric times, the lower cave was not rediscovered until 1836 by Reverend William Thomson; it can only be visited by boat since it channels an underground river that provides fresh drinking water to more than a million Lebanese.",
+        "extract": "The Jeita Grotto is a system of two separate, but interconnected, karstic limestone caves spanning an overall length of nearly 9 kilometres (5.6\u00a0mi). The caves are situated in the Nahr al-Kalb river valley within the locality of Jeita, 18 kilometres (11\u00a0mi) north of the Lebanese capital Beirut. Though inhabited in prehistoric times, the lower cave was not rediscovered until 1836 by Reverend William Thomson; it can only be visited by boat since it channels an underground river that provides fresh drinking water to more than a million Lebanese.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Upper_Jeita_Grotto.jpg",
         "url": "https://en.wikipedia.org/wiki/Jeita_Grotto",
         "coordinates": {
@@ -40,7 +40,7 @@
       "name": "Byblos",
       "writeup": "One of the oldest continuously inhabited cities in the world, rich in archaeological sites.",
       "wiki": {
-        "extract": "Byblos, also known as Jbail, Jebeil, Jbeil or Jubayl, is an ancient city in the Keserwan-Jbeil Governorate of Lebanon. The area is believed to have been first settled between 8800 and 7000 BC and continuously inhabited since 5000 BC. During its history, Byblos was part of numerous cultures including Canaanite, Egyptian, Phoenician, Assyrian, Persian, Hellenistic, Roman, Genoese, Mamluk and Ottoman. Urbanisation is thought to have begun during the third millennium BC when it developed into a city, making it one of the oldest cities in the world, if not the oldest. It is a UNESCO World Heritage Site.",
+        "extract": "Byblos, also known as Jbail, Jebeil, Jbeil or Jubayl, is an ancient city in the Keserwan-Jbeil Governorate of Lebanon. The area is believed to have been first settled between 8800 and 7000\u00a0BC and continuously inhabited since 5000\u00a0BC. During its history, Byblos was part of numerous cultures including Canaanite, Egyptian, Phoenician, Assyrian, Persian, Hellenistic, Roman, Genoese, Mamluk and Ottoman. Urbanisation is thought to have begun during the third millennium BC when it developed into a city, making it one of the oldest cities in the world, if not the oldest. It is a UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byblos_Libanon_2003.JPG",
         "url": "https://en.wikipedia.org/wiki/Byblos",
         "coordinates": {
@@ -53,7 +53,7 @@
       "name": "Cedars of God",
       "writeup": "Ancient cedar forest, symbolizing Lebanon and mentioned in various historical texts.",
       "wiki": {
-        "extract": "The Cedars of God is a forest in the Kadisha Valley of Bsharre, Lebanon. It is a vestige of the extensive forests of the Lebanon cedar that thrived across Mount Lebanon in antiquity. Early modern travelers' accounts of the wild cedars appear to refer to the ones in Bsharri; the Christian monks of the monasteries in the Kadisha Valley venerated the trees for centuries. The earliest documented references of the Cedars of God are found in Tablets 4–6 of the Epic of Gilgamesh.",
+        "extract": "The Cedars of God is a forest in the Kadisha Valley of Bsharre, Lebanon. It is a vestige of the extensive forests of the Lebanon cedar that thrived across Mount Lebanon in antiquity. Early modern travelers' accounts of the wild cedars appear to refer to the ones in Bsharri; the Christian monks of the monasteries in the Kadisha Valley venerated the trees for centuries. The earliest documented references of the Cedars of God are found in Tablets 4\u20136 of the Epic of Gilgamesh.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Forest_of_The_cedars_of_God.jpg",
         "url": "https://en.wikipedia.org/wiki/Cedars_of_God",
         "coordinates": {
@@ -154,5 +154,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ALebanon-CIA_WFB_Map_%282004%29.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 22.02,
+      "gross_debt_pct_gdp": 183.3,
+      "gross_debt_usd_billion": 40.37,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 24.83,
+      "gross_debt_pct_gdp": 169.3,
+      "gross_debt_usd_billion": 42.03,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 29.12,
+      "gross_debt_pct_gdp": 161.5,
+      "gross_debt_usd_billion": 47.03,
+      "inflation_cpi_pct": 10.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 35.4,
+      "gross_debt_pct_gdp": 144.5,
+      "gross_debt_usd_billion": 51.15,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 38.44,
+      "gross_debt_pct_gdp": 136.8,
+      "gross_debt_usd_billion": 52.59,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 39.93,
+      "gross_debt_pct_gdp": 134.4,
+      "gross_debt_usd_billion": 53.66,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 44.02,
+      "gross_debt_pct_gdp": 131.1,
+      "gross_debt_usd_billion": 57.7,
+      "inflation_cpi_pct": 6.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 46.87,
+      "gross_debt_pct_gdp": 135.4,
+      "gross_debt_usd_billion": 63.46,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 48.07,
+      "gross_debt_pct_gdp": 138.5,
+      "gross_debt_usd_billion": 66.57,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 49.89,
+      "gross_debt_pct_gdp": 140.9,
+      "gross_debt_usd_billion": 70.3,
+      "inflation_cpi_pct": -3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 50.62,
+      "gross_debt_pct_gdp": 147.9,
+      "gross_debt_usd_billion": 74.86,
+      "inflation_cpi_pct": -0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 52.88,
+      "gross_debt_pct_gdp": 150.4,
+      "gross_debt_usd_billion": 79.53,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 55.29,
+      "gross_debt_pct_gdp": 154,
+      "gross_debt_usd_billion": 85.15,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 50.98,
+      "gross_debt_pct_gdp": 171.9,
+      "gross_debt_usd_billion": 87.64,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 23.63,
+      "gross_debt_pct_gdp": 157.2,
+      "gross_debt_usd_billion": 37.14,
+      "inflation_cpi_pct": 84.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 20.52,
+      "gross_debt_pct_gdp": 345.5,
+      "gross_debt_usd_billion": 70.9,
+      "inflation_cpi_pct": 154.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 25.67,
+      "gross_debt_pct_gdp": 235.9,
+      "gross_debt_usd_billion": 60.56,
+      "inflation_cpi_pct": 171.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 24.49,
+      "gross_debt_pct_gdp": 185.8,
+      "gross_debt_usd_billion": 45.5,
+      "inflation_cpi_pct": 221.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 29.34,
+      "gross_debt_pct_gdp": 157.9,
+      "gross_debt_usd_billion": 46.33,
+      "inflation_cpi_pct": 45.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 34.5,
+      "gross_debt_pct_gdp": 139.4,
+      "gross_debt_usd_billion": 48.09,
+      "inflation_cpi_pct": 14.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

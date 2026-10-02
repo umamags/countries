@@ -12,7 +12,7 @@
       "name": "Sant Joan de Caselles Church",
       "writeup": "A Romanesque church from the 11th-12th century, known for its frescoes and architecture.",
       "wiki": {
-        "extract": "Església de Sant Joan de Caselles is a church located in Canillo, Andorra. It is a heritage property registered in the Cultural Heritage of Andorra, and was built in the 11–12th century. The 16th century altarpiece depicting scenes from the life and martyrdom of Saint John the apostle is considered of exceptional quality.",
+        "extract": "Esgl\u00e9sia de Sant Joan de Caselles is a church located in Canillo, Andorra. It is a heritage property registered in the Cultural Heritage of Andorra, and was built in the 11\u201312th century. The 16th century altarpiece depicting scenes from the life and martyrdom of Saint John the apostle is considered of exceptional quality.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Esgl%C3%A9sia_de_Sant_Joan_de_Caselles_-_10.jpg",
         "url": "https://en.wikipedia.org/wiki/Sant_Joan_de_Caselles",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Madriu-Perafita-Claror Valley",
       "writeup": "A UNESCO World Heritage site, this glacial valley is noted for its natural beauty and cultural significance.",
       "wiki": {
-        "extract": "The Madriu-Perafita-Claror Valley is a glacial valley in the southeast of Andorra. It covers an area of 42.47 km2, approximately 9% of the total area of Andorra, and is part of the second largest watershed basin in Andorra. The isolated valley is recognised as a haven for rare or endangered wildlife, and the undeveloped valley has recently been considered to be the \"spiritual heart\" of Andorra. It became Andorra's first, and to date its only, UNESCO World Heritage Site in 2004, with a small extension in 2006.",
+        "extract": "The Madriu-Perafita-Claror Valley is a glacial valley in the southeast of Andorra. It covers an area of 42.47\u00a0km2, approximately 9% of the total area of Andorra, and is part of the second largest watershed basin in Andorra. The isolated valley is recognised as a haven for rare or endangered wildlife, and the undeveloped valley has recently been considered to be the \"spiritual heart\" of Andorra. It became Andorra's first, and to date its only, UNESCO World Heritage Site in 2004, with a small extension in 2006.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Refuge_perafita_andorra.jpg",
         "url": "https://en.wikipedia.org/wiki/Madriu-Perafita-Claror_Valley",
         "coordinates": {
@@ -74,7 +74,7 @@
       }
     }
   ],
-  "head_of_state": "Co-Princes: Emmanuel Macron (President of France) and Joan Enric Vives Sicília (Bishop of Urgell)",
+  "head_of_state": "Co-Princes: Emmanuel Macron (President of France) and Joan Enric Vives Sic\u00edlia (Bishop of Urgell)",
   "cultural_events": [
     {
       "name": "Andorra la Vella Fair",
@@ -98,7 +98,7 @@
       "name": "Sant Jordi Day",
       "writeup": "Celebration of Catalan culture with book and rose exchanges.",
       "wiki": {
-        "extract": "Saint George's Day, also known as the Day of Books and Roses, is celebrated annually in Catalonia (Spain) on 23 April. Saint George is the patron saint of Catalonia in a tradition established in the Middle Ages. Despite being a working day, it is one of Catalonia’s national holidays due to its overwhelming popularity and cultural significance. It is also celebrated, to a lesser extent, in Northern Catalonia (France), in Andorra, and in some other areas of Spain.",
+        "extract": "Saint George's Day, also known as the Day of Books and Roses, is celebrated annually in Catalonia (Spain) on 23 April. Saint George is the patron saint of Catalonia in a tradition established in the Middle Ages. Despite being a working day, it is one of Catalonia\u2019s national holidays due to its overwhelming popularity and cultural significance. It is also celebrated, to a lesser extent, in Northern Catalonia (France), in Andorra, and in some other areas of Spain.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/BIG_184232912040411.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Saint_George's_Day_in_Catalonia"
       }
@@ -108,7 +108,7 @@
   "brief_history": "Andorra was established in 1278 under a unique co-principality between the French Count of Foix and the Bishop of Urgell. It has remained independent, developing as a tax haven and tourist destination in the Pyrenees.",
   "important_people": [
     {
-      "name": "Marc Forné Molné",
+      "name": "Marc Forn\u00e9 Moln\u00e9",
       "description": "Former Head of Government"
     },
     {
@@ -116,7 +116,7 @@
       "description": "Current Head of Government"
     },
     {
-      "name": "Joan Enric Vives Sicília",
+      "name": "Joan Enric Vives Sic\u00edlia",
       "description": "Co-Prince and Bishop of Urgell"
     }
   ],
@@ -147,5 +147,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Andorra.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 3.46,
+      "gross_debt_pct_gdp": 17.2,
+      "gross_debt_usd_billion": 0.59,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 3.95,
+      "gross_debt_pct_gdp": 20.9,
+      "gross_debt_usd_billion": 0.83,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 4.08,
+      "gross_debt_pct_gdp": 27.7,
+      "gross_debt_usd_billion": 1.13,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 3.67,
+      "gross_debt_pct_gdp": 33.5,
+      "gross_debt_usd_billion": 1.23,
+      "inflation_cpi_pct": -1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 3.45,
+      "gross_debt_pct_gdp": 35,
+      "gross_debt_usd_billion": 1.21,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 3.62,
+      "gross_debt_pct_gdp": 36.5,
+      "gross_debt_usd_billion": 1.32,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 3.19,
+      "gross_debt_pct_gdp": 41.5,
+      "gross_debt_usd_billion": 1.32,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 3.19,
+      "gross_debt_pct_gdp": 42.5,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 3.27,
+      "gross_debt_pct_gdp": 42,
+      "gross_debt_usd_billion": 1.37,
+      "inflation_cpi_pct": -0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 2.79,
+      "gross_debt_pct_gdp": 41,
+      "gross_debt_usd_billion": 1.14,
+      "inflation_cpi_pct": -1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2.9,
+      "gross_debt_pct_gdp": 39.8,
+      "gross_debt_usd_billion": 1.15,
+      "inflation_cpi_pct": -0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2.99,
+      "gross_debt_pct_gdp": 37.9,
+      "gross_debt_usd_billion": 1.13,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 3.22,
+      "gross_debt_pct_gdp": 36.3,
+      "gross_debt_usd_billion": 1.17,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 3.15,
+      "gross_debt_pct_gdp": 35.4,
+      "gross_debt_usd_billion": 1.12,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 2.88,
+      "gross_debt_pct_gdp": 46.4,
+      "gross_debt_usd_billion": 1.34,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3.33,
+      "gross_debt_pct_gdp": 48.6,
+      "gross_debt_usd_billion": 1.62,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3.38,
+      "gross_debt_pct_gdp": 38.9,
+      "gross_debt_usd_billion": 1.31,
+      "inflation_cpi_pct": 6.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 3.79,
+      "gross_debt_pct_gdp": 35.4,
+      "gross_debt_usd_billion": 1.34,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 4.04,
+      "gross_debt_pct_gdp": 32.9,
+      "gross_debt_usd_billion": 1.33,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 4.49,
+      "gross_debt_pct_gdp": 30.3,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 2.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

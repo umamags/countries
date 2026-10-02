@@ -1,0 +1,170 @@
+{
+  "country": "Syria",
+  "iso3": "SYR",
+  "period": "2006-2025",
+  "source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "debt_definition": "General government gross debt; USD debt amounts are approximations (GDP x debt ratio)",
+  "note": "2025 figures are IMF estimates/projections; earlier values may include IMF estimates.",
+  "data": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 33.82,
+      "gross_debt_pct_gdp": 45,
+      "gross_debt_usd_billion": 15.22,
+      "inflation_cpi_pct": 10.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 40.49,
+      "gross_debt_pct_gdp": 42.7,
+      "gross_debt_usd_billion": 17.29,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 52.63,
+      "gross_debt_pct_gdp": 37.3,
+      "gross_debt_usd_billion": 19.63,
+      "inflation_cpi_pct": 15.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 53.94,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 16.83,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 60.04,
+      "gross_debt_pct_gdp": 30,
+      "gross_debt_usd_billion": 18.01,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": null,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": null,
+      "status": "IMF estimate / projection"
+    }
+  ]
+}

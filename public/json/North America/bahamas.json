@@ -12,7 +12,7 @@
       "name": "Atlantis Paradise Island",
       "writeup": "A large resort and water park known for its marine habitats and luxury accommodations.",
       "wiki": {
-        "extract": "Atlantis Paradise Island is an ocean-themed casino resort located on Paradise Island in the Bahamas. The resort spans 154-acre (62 ha) which includes a waterpark, marine habitat, and other recreational facilities. It is built around the Aquaventure waterscape and features multiple hotel towers, including The Royal, Coral, Cove, and Reef Towers.",
+        "extract": "Atlantis Paradise Island is an ocean-themed casino resort located on Paradise Island in the Bahamas. The resort spans 154-acre (62\u00a0ha) which includes a waterpark, marine habitat, and other recreational facilities. It is built around the Aquaventure waterscape and features multiple hotel towers, including The Royal, Coral, Cove, and Reef Towers.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Atlantis_Paradise_Island_complex.jpg/3840px-The_Atlantis_Paradise_Island_complex.jpg",
         "url": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island",
         "coordinates": {
@@ -86,7 +86,7 @@
       "name": "Bahamas Carnival",
       "writeup": "An annual event celebrating Caribbean culture with music, dance, and elaborate costumes.",
       "wiki": {
-        "extract": "Carnival Miracle is a Spirit-class cruise ship operated by Carnival Cruise Line. Built by Kværner Masa-Yards at its Helsinki New Shipyard in Helsinki, Finland, she was floated out on June 5, 2003, and christened by United States Army soldier Jessica Lynch in Jacksonville, Florida, on February 27, 2004. Soon after the conclusion of the christening ceremony, she departed on her maiden voyage, a three-day cruise to the Bahamas.",
+        "extract": "Carnival Miracle is a Spirit-class cruise ship operated by Carnival Cruise Line. Built by Kv\u00e6rner Masa-Yards at its Helsinki New Shipyard in Helsinki, Finland, she was floated out on June 5, 2003, and christened by United States Army soldier Jessica Lynch in Jacksonville, Florida, on February 27, 2004. Soon after the conclusion of the christening ceremony, she departed on her maiden voyage, a three-day cruise to the Bahamas.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carnival_Miracle.jpg/3840px-Carnival_Miracle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Carnival_Miracle"
       }
@@ -102,7 +102,7 @@
     }
   ],
   "food_writeup": "Bahamian cuisine features seafood prominently, with dishes like conch salad, cracked conch, and rock lobster, often seasoned with tropical spices and served with rice and peas.",
-  "brief_history": "The Bahamas was inhabited by the Lucayan Taínos before Christopher Columbus arrived in 1492. It became a British colony in the 18th century and gained independence in 1973. The country has a history of piracy, colonialism, and tourism-driven economy.",
+  "brief_history": "The Bahamas was inhabited by the Lucayan Ta\u00ednos before Christopher Columbus arrived in 1492. It became a British colony in the 18th century and gained independence in 1973. The country has a history of piracy, colonialism, and tourism-driven economy.",
   "important_people": [
     {
       "name": "Sir Lynden Pindling",
@@ -148,5 +148,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Bahamas.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 10.17,
+      "gross_debt_pct_gdp": 23.2,
+      "gross_debt_usd_billion": 2.36,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.62,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 2.5,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 10.53,
+      "gross_debt_pct_gdp": 25.3,
+      "gross_debt_usd_billion": 2.66,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 9.98,
+      "gross_debt_pct_gdp": 30.1,
+      "gross_debt_usd_billion": 3.0,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 10.1,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 3.42,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 10.07,
+      "gross_debt_pct_gdp": 35.3,
+      "gross_debt_usd_billion": 3.55,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 10.72,
+      "gross_debt_pct_gdp": 37.6,
+      "gross_debt_usd_billion": 4.03,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 10.47,
+      "gross_debt_pct_gdp": 44.2,
+      "gross_debt_usd_billion": 4.63,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 11.14,
+      "gross_debt_pct_gdp": 47.7,
+      "gross_debt_usd_billion": 5.31,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 11.84,
+      "gross_debt_pct_gdp": 49.9,
+      "gross_debt_usd_billion": 5.91,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 11.88,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 6.07,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 12.45,
+      "gross_debt_pct_gdp": 54.6,
+      "gross_debt_usd_billion": 6.8,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 12.82,
+      "gross_debt_pct_gdp": 61.5,
+      "gross_debt_usd_billion": 7.88,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 13.28,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 8.01,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 10.36,
+      "gross_debt_pct_gdp": 71.9,
+      "gross_debt_usd_billion": 7.45,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 12.04,
+      "gross_debt_pct_gdp": 90.7,
+      "gross_debt_usd_billion": 10.92,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 13.9,
+      "gross_debt_pct_gdp": 84.7,
+      "gross_debt_usd_billion": 11.77,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 15.27,
+      "gross_debt_pct_gdp": 78.3,
+      "gross_debt_usd_billion": 11.96,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 15.83,
+      "gross_debt_pct_gdp": 73.8,
+      "gross_debt_usd_billion": 11.68,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 16.51,
+      "gross_debt_pct_gdp": 73.8,
+      "gross_debt_usd_billion": 12.18,
+      "inflation_cpi_pct": 0.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

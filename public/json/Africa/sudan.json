@@ -10,10 +10,10 @@
   "area": "1,886,068",
   "landmarks": [
     {
-      "name": "Pyramids of Meroë",
+      "name": "Pyramids of Mero\u00eb",
       "writeup": "Ancient Nubian pyramids located in the northeastern region, showcasing the Kingdom of Kush's rich history.",
       "wiki": {
-        "extract": "Meroë was an ancient city on the east bank of the Nile about 6 km north-east of the Kabushiya station near Shendi, Sudan, approximately 200 km north-east of Khartoum. Near the site is a group of villages called Bagrawiyah. This city was the capital of the Kingdom of Kush for several centuries from around 590 BC, until its collapse in the 4th century AD. The Kushitic Kingdom of Meroë gave its name to the \"Island of Meroë\", which was the modern region of Butana, a region bounded by the Nile, the Atbarah and the Blue Nile.",
+        "extract": "Mero\u00eb was an ancient city on the east bank of the Nile about 6\u00a0km north-east of the Kabushiya station near Shendi, Sudan, approximately 200\u00a0km north-east of Khartoum. Near the site is a group of villages called Bagrawiyah. This city was the capital of the Kingdom of Kush for several centuries from around 590 BC, until its collapse in the 4th century AD. The Kushitic Kingdom of Mero\u00eb gave its name to the \"Island of Mero\u00eb\", which was the modern region of Butana, a region bounded by the Nile, the Atbarah and the Blue Nile.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/NubianMeroePyramids30sep2005%282%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Mero%C3%AB",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Jebel Barkal",
       "writeup": "A small mountain considered sacred, surrounded by archaeological sites linked to the ancient Kingdom of Napata.",
       "wiki": {
-        "extract": "Jebel Barkal or Gebel Barkal is a mesa located 400 km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO. The area houses the Jebel Barkal Museum.",
+        "extract": "Jebel Barkal or Gebel Barkal is a mesa located 400\u00a0km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO. The area houses the Jebel Barkal Museum.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gebel_Barkal.jpg",
         "url": "https://en.wikipedia.org/wiki/Jebel_Barkal",
         "coordinates": {
@@ -39,7 +39,7 @@
       "name": "Suakin Island",
       "writeup": "Historic Red Sea port with Ottoman-era ruins reflecting Sudan's maritime trade history.",
       "wiki": {
-        "extract": "Suakin or Sawakin is a port city in northeastern Sudan, on the west coast of the Red Sea. It was formerly the region's chief port, but is now secondary to Port Sudan, about 50 kilometres (30 mi) north.",
+        "extract": "Suakin or Sawakin is a port city in northeastern Sudan, on the west coast of the Red Sea. It was formerly the region's chief port, but is now secondary to Port Sudan, about 50 kilometres (30\u00a0mi) north.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suakin%2Cel-Geyf_mosque.jpg",
         "url": "https://en.wikipedia.org/wiki/Suakin",
         "coordinates": {
@@ -93,7 +93,7 @@
       "video_id": "lDfhxMwoyWo"
     },
     {
-      "title": "Exploring the Pyramids of Meroë in Sudan",
+      "title": "Exploring the Pyramids of Mero\u00eb in Sudan",
       "video_id": "J0Lf1ofmaOo"
     },
     "Life and Traditions in Sudan - A Cultural Overview",
@@ -137,5 +137,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Sudan-_2012_CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 45.26,
+      "gross_debt_pct_gdp": 63.7,
+      "gross_debt_usd_billion": 28.83,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 59.44,
+      "gross_debt_pct_gdp": 53.7,
+      "gross_debt_usd_billion": 31.92,
+      "inflation_cpi_pct": 14.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 64.83,
+      "gross_debt_pct_gdp": 55.8,
+      "gross_debt_usd_billion": 36.18,
+      "inflation_cpi_pct": 14.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 54.81,
+      "gross_debt_pct_gdp": 71,
+      "gross_debt_usd_billion": 38.92,
+      "inflation_cpi_pct": 11.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 65.72,
+      "gross_debt_pct_gdp": 74.6,
+      "gross_debt_usd_billion": 49.02,
+      "inflation_cpi_pct": 13,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 66.45,
+      "gross_debt_pct_gdp": 78.1,
+      "gross_debt_usd_billion": 51.9,
+      "inflation_cpi_pct": 18.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 48.95,
+      "gross_debt_pct_gdp": 117.7,
+      "gross_debt_usd_billion": 57.61,
+      "inflation_cpi_pct": 35.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 52.89,
+      "gross_debt_pct_gdp": 105.8,
+      "gross_debt_usd_billion": 55.96,
+      "inflation_cpi_pct": 36.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 60.73,
+      "gross_debt_pct_gdp": 84.4,
+      "gross_debt_usd_billion": 51.25,
+      "inflation_cpi_pct": 36.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 64.53,
+      "gross_debt_pct_gdp": 93.2,
+      "gross_debt_usd_billion": 60.15,
+      "inflation_cpi_pct": 16.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 64.89,
+      "gross_debt_pct_gdp": 109.9,
+      "gross_debt_usd_billion": 71.31,
+      "inflation_cpi_pct": 17.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 48.91,
+      "gross_debt_pct_gdp": 149.5,
+      "gross_debt_usd_billion": 73.11,
+      "inflation_cpi_pct": 32.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 33.59,
+      "gross_debt_pct_gdp": 209.8,
+      "gross_debt_usd_billion": 70.47,
+      "inflation_cpi_pct": 63.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 31.48,
+      "gross_debt_pct_gdp": 216.5,
+      "gross_debt_usd_billion": 68.16,
+      "inflation_cpi_pct": 51,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 35.22,
+      "gross_debt_pct_gdp": 278.8,
+      "gross_debt_usd_billion": 98.18,
+      "inflation_cpi_pct": 163.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 35.13,
+      "gross_debt_pct_gdp": 191.3,
+      "gross_debt_usd_billion": 67.21,
+      "inflation_cpi_pct": 359.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 33.46,
+      "gross_debt_pct_gdp": 189,
+      "gross_debt_usd_billion": 63.24,
+      "inflation_cpi_pct": 138.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 36.95,
+      "gross_debt_pct_gdp": 261.2,
+      "gross_debt_usd_billion": 96.51,
+      "inflation_cpi_pct": 77.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 29.16,
+      "gross_debt_pct_gdp": 262.6,
+      "gross_debt_usd_billion": 76.56,
+      "inflation_cpi_pct": 185.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 39.72,
+      "gross_debt_pct_gdp": 187.6,
+      "gross_debt_usd_billion": 74.51,
+      "inflation_cpi_pct": 100.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

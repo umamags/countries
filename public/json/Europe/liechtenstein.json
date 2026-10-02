@@ -54,7 +54,7 @@
       "name": "Vaduz Film Festival",
       "writeup": "An annual event showcasing international and local films, promoting cultural exchange.",
       "wiki": {
-        "extract": "Dracula, Prisoner of Frankenstein is a 1972 horror film directed by Jesús Franco and starring Dennis Price, Howard Vernon, Alberto Dalbés, Carmen Yazalde and Luis Barboo.",
+        "extract": "Dracula, Prisoner of Frankenstein is a 1972 horror film directed by Jes\u00fas Franco and starring Dennis Price, Howard Vernon, Alberto Dalb\u00e9s, Carmen Yazalde and Luis Barboo.",
         "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Dracula-contra-frankenstein-spanish-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Dracula%2C_Prisoner_of_Frankenstein"
       }
@@ -69,7 +69,7 @@
       }
     }
   ],
-  "food_writeup": "Liechtenstein cuisine is influenced by Swiss and Austrian traditions, featuring dishes like Käsknöpfle (cheese noodles), Ribel (cornmeal dish), and various hearty meat and potato meals.",
+  "food_writeup": "Liechtenstein cuisine is influenced by Swiss and Austrian traditions, featuring dishes like K\u00e4skn\u00f6pfle (cheese noodles), Ribel (cornmeal dish), and various hearty meat and potato meals.",
   "brief_history": "Liechtenstein was established as a principality in 1719 within the Holy Roman Empire. It remained neutral during both World Wars and developed into a prosperous financial center in the 20th century.",
   "important_people": [
     {
@@ -81,7 +81,7 @@
       "description": "Former Prince who modernized the country"
     },
     {
-      "name": "Gustav Schädler",
+      "name": "Gustav Sch\u00e4dler",
       "description": "Former Prime Minister"
     }
   ],
@@ -106,5 +106,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ALiechtenstein_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 4.37,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 5.04,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 5.55,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 4.89,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": -0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 5.54,
+      "gross_debt_pct_gdp": null,
+      "gross_debt_usd_billion": null,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 6.24,
+      "gross_debt_pct_gdp": 0.4,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 5.91,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 6.27,
+      "gross_debt_pct_gdp": 0.4,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 6.53,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 6.15,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": -1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 6.12,
+      "gross_debt_pct_gdp": 0.4,
+      "gross_debt_usd_billion": 0.02,
+      "inflation_cpi_pct": -0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 6.38,
+      "gross_debt_pct_gdp": 0.6,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 6.69,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 6.44,
+      "gross_debt_pct_gdp": 0.6,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 6.41,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.03,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 7.91,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 7.43,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 8.24,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 8.46,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 8.99,
+      "gross_debt_pct_gdp": 0.5,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 0.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

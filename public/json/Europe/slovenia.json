@@ -12,7 +12,7 @@
       "name": "Lake Bled",
       "writeup": "A picturesque lake with a small island and medieval castle, popular for tourism and natural beauty.",
       "wiki": {
-        "extract": "Lake Bled is a lake in the Julian Alps of the Upper Carniolan region of northwestern Slovenia, where it adjoins the town of Bled. The area is a tourist destination. The lake is 35 km (22 mi) from Ljubljana International Airport and 55 km (34 mi) from the capital city, Ljubljana. Lake Bled is 4.2 km (2.6 mi) from the Lesce–Bled train station.",
+        "extract": "Lake Bled is a lake in the Julian Alps of the Upper Carniolan region of northwestern Slovenia, where it adjoins the town of Bled. The area is a tourist destination. The lake is 35\u00a0km (22\u00a0mi) from Ljubljana International Airport and 55\u00a0km (34\u00a0mi) from the capital city, Ljubljana. Lake Bled is 4.2\u00a0km (2.6\u00a0mi) from the Lesce\u2013Bled train station.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/3840px-Lake_Bled_from_the_Mountain.jpg",
         "url": "https://en.wikipedia.org/wiki/Lake_Bled",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Postojna Cave",
       "writeup": "One of the largest karst cave systems in Europe, famous for its stunning formations and underground train.",
       "wiki": {
-        "extract": "Postojna Cave is a 24.34 km (15.12 mi) long karst cave system near Postojna, southwestern Slovenia. It is the second-longest cave system in the country as well as one of its top tourism sites. The caves were created by the Pivka River.",
+        "extract": "Postojna Cave is a 24.34\u00a0km (15.12\u00a0mi) long karst cave system near Postojna, southwestern Slovenia. It is the second-longest cave system in the country as well as one of its top tourism sites. The caves were created by the Pivka River.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Postojna_%2822206343750%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Postojna_Cave",
         "coordinates": {
@@ -49,9 +49,9 @@
     },
     {
       "name": "Triglav National Park",
-      "writeup": "Slovenia’s only national park, home to Mount Triglav, the highest peak, and diverse alpine flora and fauna.",
+      "writeup": "Slovenia\u2019s only national park, home to Mount Triglav, the highest peak, and diverse alpine flora and fauna.",
       "wiki": {
-        "extract": "Triglav National Park is the only national park in Slovenia. It was established in its modern form in 1981 and is located in the northwestern part of the country, respectively the southeastern part of the Alpine massif. Mount Triglav, the highest peak of the Julian Alps, stands almost in the middle of the national park. From there the valleys spread out radially, supplying water to two large river systems with their sources in the Julian Alps: the Soča and the Sava, flowing to the Adriatic and Black Sea, respectively.",
+        "extract": "Triglav National Park is the only national park in Slovenia. It was established in its modern form in 1981 and is located in the northwestern part of the country, respectively the southeastern part of the Alpine massif. Mount Triglav, the highest peak of the Julian Alps, stands almost in the middle of the national park. From there the valleys spread out radially, supplying water to two large river systems with their sources in the Julian Alps: the So\u010da and the Sava, flowing to the Adriatic and Black Sea, respectively.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Triglav_National_Park",
         "coordinates": {
@@ -74,7 +74,7 @@
       }
     }
   ],
-  "head_of_state": "President Nataša Pirc Musar",
+  "head_of_state": "President Nata\u0161a Pirc Musar",
   "cultural_events": [
     {
       "name": "Kurentovanje",
@@ -108,11 +108,11 @@
   "brief_history": "Slovenia was part of the Roman Empire, later the Habsburg Monarchy, and Yugoslavia. It declared independence in 1991 and joined the EU and NATO in 2004, developing into a stable democratic country.",
   "important_people": [
     {
-      "name": "France Prešeren",
+      "name": "France Pre\u0161eren",
       "description": "National poet"
     },
     {
-      "name": "Jože Plennik",
+      "name": "Jo\u017ee Plennik",
       "description": "Architect"
     },
     {
@@ -149,5 +149,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASlovenia_CIA_World_Factbook_map.gif",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 39.29,
+      "gross_debt_pct_gdp": 26.2,
+      "gross_debt_usd_billion": 10.29,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 47.89,
+      "gross_debt_pct_gdp": 22.9,
+      "gross_debt_usd_billion": 10.97,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 55.5,
+      "gross_debt_pct_gdp": 21.9,
+      "gross_debt_usd_billion": 12.16,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 49.92,
+      "gross_debt_pct_gdp": 34.9,
+      "gross_debt_usd_billion": 17.42,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 47.83,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 18.46,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 51.19,
+      "gross_debt_pct_gdp": 46.8,
+      "gross_debt_usd_billion": 23.96,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 46.2,
+      "gross_debt_pct_gdp": 54.1,
+      "gross_debt_usd_billion": 24.99,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 47.87,
+      "gross_debt_pct_gdp": 70.8,
+      "gross_debt_usd_billion": 33.89,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 49.53,
+      "gross_debt_pct_gdp": 81.1,
+      "gross_debt_usd_billion": 40.17,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 42.71,
+      "gross_debt_pct_gdp": 83.4,
+      "gross_debt_usd_billion": 35.62,
+      "inflation_cpi_pct": -0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 44.28,
+      "gross_debt_pct_gdp": 79.4,
+      "gross_debt_usd_billion": 35.16,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 48.14,
+      "gross_debt_pct_gdp": 74.9,
+      "gross_debt_usd_billion": 36.05,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 53.71,
+      "gross_debt_pct_gdp": 71,
+      "gross_debt_usd_billion": 38.14,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 53.92,
+      "gross_debt_pct_gdp": 66,
+      "gross_debt_usd_billion": 35.58,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 53.34,
+      "gross_debt_pct_gdp": 80.2,
+      "gross_debt_usd_billion": 42.78,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 61.58,
+      "gross_debt_pct_gdp": 74.8,
+      "gross_debt_usd_billion": 46.06,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 59.95,
+      "gross_debt_pct_gdp": 72.8,
+      "gross_debt_usd_billion": 43.64,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 69.28,
+      "gross_debt_pct_gdp": 68.3,
+      "gross_debt_usd_billion": 47.31,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 72.95,
+      "gross_debt_pct_gdp": 66.6,
+      "gross_debt_usd_billion": 48.58,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 79.6,
+      "gross_debt_pct_gdp": 65.9,
+      "gross_debt_usd_billion": 52.46,
+      "inflation_cpi_pct": 2.5,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

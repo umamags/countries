@@ -25,7 +25,7 @@
       "name": "Naqsh-e Jahan Square",
       "writeup": "A UNESCO World Heritage site in Isfahan, known for its stunning Safavid-era architecture.",
       "wiki": {
-        "extract": "The Naqsh-e Jahan Square, also known as the Shah Square prior to 1979, and sometimes known as the Imam Square, is a square situated at the center of Isfahan, Iran. Constructed between 1598 and 1629, it is now an important historical site, and one of UNESCO's World Heritage Sites. It is 160 metres (520 ft) wide by 560 metres (1,840 ft) long – an area of 89,600 square metres (964,000 sq ft). The square is surrounded by buildings from the Safavid era. The Shah Mosque is situated on the south side of this square. On the west side is the Ali Qapu Palace. Sheikh Lotfollah Mosque is situated on the eastern side of this square and at the northern side Qeysarie Gate opens into the Isfahan Grand Bazaar. Today, Namaaz-e Jom'eh is held in the Shah Mosque.",
+        "extract": "The Naqsh-e Jahan Square, also known as the Shah Square prior to 1979, and sometimes known as the Imam Square, is a square situated at the center of Isfahan, Iran. Constructed between 1598 and 1629, it is now an important historical site, and one of UNESCO's World Heritage Sites. It is 160 metres (520\u00a0ft) wide by 560 metres (1,840\u00a0ft) long\u00a0\u2013 an area of 89,600 square metres (964,000\u00a0sq\u00a0ft). The square is surrounded by buildings from the Safavid era. The Shah Mosque is situated on the south side of this square. On the west side is the Ali Qapu Palace. Sheikh Lotfollah Mosque is situated on the eastern side of this square and at the northern side Qeysarie Gate opens into the Isfahan Grand Bazaar. Today, Namaaz-e Jom'eh is held in the Shah Mosque.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naqsh-i_Jahan_Square%2C_Jan._2018.jpg/3840px-Naqsh-i_Jahan_Square%2C_Jan._2018.jpg",
         "url": "https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Sheikh Lotfollah Mosque",
       "writeup": "Famous mosque in Isfahan noted for its intricate tile work and dome.",
       "wiki": {
-        "extract": "The Sheikh Lotfollah Mosque is a Shi'ite mosque, located on the eastern side of Naqsh-e Jahan Square, Isfahan, Iran. Construction of the mosque started in 1011 AH (1602/1603 CE) and was finished in 1028 AH (1618/1619 CE). It is one of the masterpieces of Iranian architecture from the Safavid era. It was designed by the chief architect Muhammad Reza during the reign of Shah Abbas the Great. On the advice of Arthur Upham Pope, Reza Shah Pahlavi had the mosque restored in the 1920s.",
+        "extract": "The Sheikh Lotfollah Mosque is a Shi'ite mosque, located on the eastern side of Naqsh-e Jahan Square, Isfahan, Iran. Construction of the mosque started in 1011 AH\u00a0(1602/1603\u00a0CE) and was finished in 1028 AH\u00a0(1618/1619\u00a0CE). It is one of the masterpieces of Iranian architecture from the Safavid era. It was designed by the chief architect Muhammad Reza during the reign of Shah Abbas the Great. On the advice of Arthur Upham Pope, Reza Shah Pahlavi had the mosque restored in the 1920s.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sheikh_Lotfallah_Esfahan.JPG",
         "url": "https://en.wikipedia.org/wiki/Sheikh_Lotfollah_Mosque",
         "coordinates": {
@@ -89,7 +89,7 @@
       "name": "Yalda Night",
       "writeup": "Winter solstice celebration marking the longest night of the year with poetry and fruit.",
       "wiki": {
-        "extract": "Yaldā Night or Chelle Night is an ancient festival in Iran, Kurdistan, Uzbekistan, Tajikistan, Afghanistan, Azerbaijan and Turkmenistan that is celebrated on the winter solstice of the Northern Hemisphere. This corresponds to the night of December 21 in the Gregorian calendar, and to the night between the last day of the ninth month (Azar) and the first day of the tenth month (Dey) of the Iranian solar calendar. The longest and darkest night of the year is a time when friends and family gather together to eat, drink and read poetry and Shahnameh until well after midnight. Fruits and nuts are eaten and pomegranates and watermelons are particularly significant. The red colour in these fruits symbolizes the crimson hues of dawn and the glow of life. The poems of Divan-e Hafez, which can be found in the bookcases of most Iranian families, are read or recited on various occasions such as this festival and Nowruz. According to Iranian researcher Zana Salehrad, the continued celebration of Yalda Night in Iranian-speaking cultures can be seen as a sign of the continuity of cultural memory and the adaptation of ancient traditions to new social structures. In his research, he points out that the celebration has its roots in solar rituals that were held in pre-Zoroastrian times to celebrate the rebirth of the sun on the longest night of the year. Shab-e Yalda was officially added to UNESCO Intangible Cultural Heritage Lists in December 2022.",
+        "extract": "Yald\u0101 Night or Chelle Night is an ancient festival in Iran, Kurdistan, Uzbekistan, Tajikistan, Afghanistan, Azerbaijan and Turkmenistan that is celebrated on the winter solstice of the Northern Hemisphere. This corresponds to the night of December 21 in the Gregorian calendar, and to the night between the last day of the ninth month (Azar) and the first day of the tenth month (Dey) of the Iranian solar calendar. The longest and darkest night of the year is a time when friends and family gather together to eat, drink and read poetry and Shahnameh until well after midnight. Fruits and nuts are eaten and pomegranates and watermelons are particularly significant. The red colour in these fruits symbolizes the crimson hues of dawn and the glow of life. The poems of Divan-e Hafez, which can be found in the bookcases of most Iranian families, are read or recited on various occasions such as this festival and Nowruz. According to Iranian researcher Zana Salehrad, the continued celebration of Yalda Night in Iranian-speaking cultures can be seen as a sign of the continuity of cultural memory and the adaptation of ancient traditions to new social structures. In his research, he points out that the celebration has its roots in solar rituals that were held in pre-Zoroastrian times to celebrate the rebirth of the sun on the longest night of the year. Shab-e Yalda was officially added to UNESCO Intangible Cultural Heritage Lists in December 2022.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/L04vb2pizbcs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Yalda_Night"
       }
@@ -179,5 +179,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Iran.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 326.45,
+      "gross_debt_pct_gdp": 15.2,
+      "gross_debt_usd_billion": 49.62,
+      "inflation_cpi_pct": 12,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 430.46,
+      "gross_debt_pct_gdp": 13.5,
+      "gross_debt_usd_billion": 58.11,
+      "inflation_cpi_pct": 18.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 498.71,
+      "gross_debt_pct_gdp": 10.6,
+      "gross_debt_usd_billion": 52.86,
+      "inflation_cpi_pct": 25.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 509.1,
+      "gross_debt_pct_gdp": 11.5,
+      "gross_debt_usd_billion": 58.55,
+      "inflation_cpi_pct": 10.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 598.57,
+      "gross_debt_pct_gdp": 12.8,
+      "gross_debt_usd_billion": 76.62,
+      "inflation_cpi_pct": 12.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 722.13,
+      "gross_debt_pct_gdp": 10.6,
+      "gross_debt_usd_billion": 76.55,
+      "inflation_cpi_pct": 25.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 487.11,
+      "gross_debt_pct_gdp": 11.7,
+      "gross_debt_usd_billion": 56.99,
+      "inflation_cpi_pct": 29.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 494.54,
+      "gross_debt_pct_gdp": 10.2,
+      "gross_debt_usd_billion": 50.44,
+      "inflation_cpi_pct": 32.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 532.06,
+      "gross_debt_pct_gdp": 10.9,
+      "gross_debt_usd_billion": 57.99,
+      "inflation_cpi_pct": 14.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 471.42,
+      "gross_debt_pct_gdp": 32.1,
+      "gross_debt_usd_billion": 151.32,
+      "inflation_cpi_pct": 11.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 477.57,
+      "gross_debt_pct_gdp": 45.9,
+      "gross_debt_usd_billion": 219.21,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 507.8,
+      "gross_debt_pct_gdp": 43.2,
+      "gross_debt_usd_billion": 219.37,
+      "inflation_cpi_pct": 8.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 343.71,
+      "gross_debt_pct_gdp": 41.6,
+      "gross_debt_usd_billion": 142.98,
+      "inflation_cpi_pct": 26.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 252.14,
+      "gross_debt_pct_gdp": 44.6,
+      "gross_debt_usd_billion": 112.46,
+      "inflation_cpi_pct": 34.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 209.51,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 98.68,
+      "inflation_cpi_pct": 36.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 307.34,
+      "gross_debt_pct_gdp": 39.9,
+      "gross_debt_usd_billion": 122.63,
+      "inflation_cpi_pct": 40.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 403.25,
+      "gross_debt_pct_gdp": 34.5,
+      "gross_debt_usd_billion": 139.12,
+      "inflation_cpi_pct": 45.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 421.55,
+      "gross_debt_pct_gdp": 29.6,
+      "gross_debt_usd_billion": 124.78,
+      "inflation_cpi_pct": 40.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 416.68,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 130.0,
+      "inflation_cpi_pct": 32.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 371.2,
+      "gross_debt_pct_gdp": 37.3,
+      "gross_debt_usd_billion": 138.46,
+      "inflation_cpi_pct": 50.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

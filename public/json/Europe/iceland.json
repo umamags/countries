@@ -5,14 +5,14 @@
     "Icelandic"
   ],
   "population": "376,000",
-  "currency": "Icelandic króna (ISK)",
+  "currency": "Icelandic kr\u00f3na (ISK)",
   "area": "103,000",
   "landmarks": [
     {
       "name": "Blue Lagoon",
       "writeup": "A geothermal spa known for its milky blue waters rich in minerals, located in a lava field.",
       "wiki": {
-        "extract": "The Blue Lagoon is a geothermal spa in southwestern Iceland. The spa is located in a lava field 5 km (3.1 mi) from Grindavík and in front of Mount Þorbjörn on the Reykjanes Peninsula, in a location favourable for geothermal power, and is supplied by water used in the nearby Svartsengi geothermal power station. The Blue Lagoon is approximately 20 km (12 mi) from Keflavík International Airport, and is one of the most visited tourist attractions in Iceland.",
+        "extract": "The Blue Lagoon is a geothermal spa in southwestern Iceland. The spa is located in a lava field 5\u00a0km (3.1\u00a0mi) from Grindav\u00edk and in front of Mount \u00deorbj\u00f6rn on the Reykjanes Peninsula, in a location favourable for geothermal power, and is supplied by water used in the nearby Svartsengi geothermal power station. The Blue Lagoon is approximately 20\u00a0km (12\u00a0mi) from Keflav\u00edk International Airport, and is one of the most visited tourist attractions in Iceland.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Blue_Lagoon_Main_Building.JPG/3840px-Blue_Lagoon_Main_Building.JPG",
         "url": "https://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa)",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Thingvellir National Park",
       "writeup": "A UNESCO World Heritage site where the North American and Eurasian tectonic plates meet.",
       "wiki": {
-        "extract": "Þingvellir was the site of the Alþing, the annual parliament of Iceland from the year 930 until the last session held at Þingvellir in 1798. Since 1881, the parliament has been located within Alþingishúsið in Iceland's capital, Reykjavík.",
+        "extract": "\u00deingvellir was the site of the Al\u00feing, the annual parliament of Iceland from the year 930 until the last session held at \u00deingvellir in 1798. Since 1881, the parliament has been located within Al\u00feingish\u00fasi\u00f0 in Iceland's capital, Reykjav\u00edk.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%C3%9Eingvellir_from_the_information_centre.JPG/3840px-%C3%9Eingvellir_from_the_information_centre.JPG",
         "url": "https://en.wikipedia.org/wiki/%C3%9Eingvellir",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Geysir Geothermal Area",
       "writeup": "Famous for its erupting hot springs, including the active Strokkur geyser.",
       "wiki": {
-        "extract": "Geysir, sometimes known as The Great Geysir, is a geyser in south-western Iceland, that geological studies suggest started forming about 1150 CE. The English word geyser derives from Geysir. The name Geysir itself is derived from the Icelandic verb geysa. Geysir lies in the Haukadalur valley on the slopes of Laugarfjall lava dome, which is also the home to Strokkur geyser about 50 metres (160 ft) to the south. The Strokkur geyser may be confused with it, and the geothermal field it is in is known usually as either Geysir or Haukadalur.",
+        "extract": "Geysir, sometimes known as The Great Geysir, is a geyser in south-western Iceland, that geological studies suggest started forming about 1150 CE. The English word geyser derives from Geysir. The name Geysir itself is derived from the Icelandic verb geysa. Geysir lies in the Haukadalur valley on the slopes of Laugarfjall lava dome, which is also the home to Strokkur geyser about 50 metres (160\u00a0ft) to the south. The Strokkur geyser may be confused with it, and the geothermal field it is in is known usually as either Geysir or Haukadalur.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Erupting_geysir.jpg",
         "url": "https://en.wikipedia.org/wiki/Geysir",
         "coordinates": {
@@ -48,10 +48,10 @@
       }
     },
     {
-      "name": "Hallgrímskirkja",
+      "name": "Hallgr\u00edmskirkja",
       "writeup": "A distinctive Lutheran church in Reykjavik, known for its unique architecture and panoramic city views.",
       "wiki": {
-        "extract": "Hallgrímskirkja is a Protestant Lutheran parish church in Reykjavík, Iceland. At 74.5 metres (244 ft) tall, it is the largest church in Iceland and second tallest building in the country. Known for its distinctively curved spire and side wings, it has been described as having become an important symbol for Iceland's national identity since its completion in 1986. The church is named after the Icelandic poet and cleric Hallgrímur Pétursson (1614–1674), author of the Passion Hymns.",
+        "extract": "Hallgr\u00edmskirkja is a Protestant Lutheran parish church in Reykjav\u00edk, Iceland. At 74.5 metres (244\u00a0ft) tall, it is the largest church in Iceland and second tallest building in the country. Known for its distinctively curved spire and side wings, it has been described as having become an important symbol for Iceland's national identity since its completion in 1986. The church is named after the Icelandic poet and cleric Hallgr\u00edmur P\u00e9tursson (1614\u20131674), author of the Passion Hymns.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hallgrimskirkja_mai_2026.jpg",
         "url": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja",
         "coordinates": {
@@ -61,10 +61,10 @@
       }
     },
     {
-      "name": "Vatnajökull National Park",
+      "name": "Vatnaj\u00f6kull National Park",
       "writeup": "Home to Europe's largest glacier and diverse volcanic landscapes.",
       "wiki": {
-        "extract": "Vatnajökull National Park is one of three national parks in Iceland, and is the largest one. It encompasses all of Vatnajökull glacier and extensive surrounding areas. These include the national parks previously existing at Skaftafell in the southwest and Jökulsárgljúfur in the north.",
+        "extract": "Vatnaj\u00f6kull National Park is one of three national parks in Iceland, and is the largest one. It encompasses all of Vatnaj\u00f6kull glacier and extensive surrounding areas. These include the national parks previously existing at Skaftafell in the southwest and J\u00f6kuls\u00e1rglj\u00fafur in the north.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hvannadalshnjukur-Vatnajokull_National_Park.JPG",
         "url": "https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull_National_Park",
         "coordinates": {
@@ -74,22 +74,22 @@
       }
     }
   ],
-  "head_of_state": "President Guðni Th. Jóhannesson",
+  "head_of_state": "President Gu\u00f0ni Th. J\u00f3hannesson",
   "cultural_events": [
     {
       "name": "Iceland Airwaves",
       "writeup": "An annual music festival showcasing Icelandic and international artists.",
       "wiki": {
-        "extract": "Iceland Airwaves is a music festival held annually in November in Reykjavík, Iceland, since 1999. Its main focus is showcasing new music, both Icelandic and international.",
+        "extract": "Iceland Airwaves is a music festival held annually in November in Reykjav\u00edk, Iceland, since 1999. Its main focus is showcasing new music, both Icelandic and international.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jakob%C3%ADnar%C3%ADna_at_Iceland_Airwaves_%2706.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Iceland_Airwaves"
       }
     },
     {
-      "name": "Þorrablót",
+      "name": "\u00deorrabl\u00f3t",
       "writeup": "A midwinter festival celebrating traditional Icelandic food and heritage.",
       "wiki": {
-        "extract": "Þorrablót is an Icelandic midwinter festival, named for the month of Þorri of the historical Icelandic calendar, and blót, literally meaning sacrifice.",
+        "extract": "\u00deorrabl\u00f3t is an Icelandic midwinter festival, named for the month of \u00deorri of the historical Icelandic calendar, and bl\u00f3t, literally meaning sacrifice.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/%C3%9Eorrabl%C3%B3t"
       }
@@ -98,7 +98,7 @@
       "name": "Reykjavik International Film Festival",
       "writeup": "An event promoting independent films from around the world.",
       "wiki": {
-        "extract": "Reykjavík International Film Festival is an international film festival held annually in Reykjavík, Iceland. The festival lasts 11 days each year and emphasizes young talents. One way of doing so is having a competitive category exclusively limited to a director's first or second feature-length film. At each festival, a number of awards are given out. The main award is the Discovery of the Year award, also called Golden Puffin, given by an international jury. The international federation of film critics FIPRESCI send a jury to RIFF from 2006. Also, the audience can vote for their favorite film from the whole programme. Lifetime achievement awards and creative excellence awards are given to well-known film directors who have achieved excellence in their work.",
+        "extract": "Reykjav\u00edk International Film Festival is an international film festival held annually in Reykjav\u00edk, Iceland. The festival lasts 11 days each year and emphasizes young talents. One way of doing so is having a competitive category exclusively limited to a director's first or second feature-length film. At each festival, a number of awards are given out. The main award is the Discovery of the Year award, also called Golden Puffin, given by an international jury. The international federation of film critics FIPRESCI send a jury to RIFF from 2006. Also, the audience can vote for their favorite film from the whole programme. Lifetime achievement awards and creative excellence awards are given to well-known film directors who have achieved excellence in their work.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logoriff2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_International_Film_Festival"
       }
@@ -122,7 +122,7 @@
       }
     }
   ],
-  "food_writeup": "Icelandic cuisine features fresh seafood, lamb, and dairy products, with traditional dishes like skyr, hákarl (fermented shark), and rye bread. The cuisine reflects the island's Nordic heritage and reliance on local ingredients.",
+  "food_writeup": "Icelandic cuisine features fresh seafood, lamb, and dairy products, with traditional dishes like skyr, h\u00e1karl (fermented shark), and rye bread. The cuisine reflects the island's Nordic heritage and reliance on local ingredients.",
   "brief_history": "Iceland was settled by Norsemen in the 9th century. It established a commonwealth in 930 AD, later coming under Norwegian and then Danish rule. Iceland gained full independence in 1944 and has developed a strong economy based on fishing, renewable energy, and tourism.",
   "important_people": [
     {
@@ -130,19 +130,19 @@
       "description": "Norse explorer believed to be the first European to reach North America."
     },
     {
-      "name": "Björk Guðmundsdóttir",
+      "name": "Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir",
       "description": "Internationally acclaimed singer and artist."
     },
     {
-      "name": "Halldór Laxness",
+      "name": "Halld\u00f3r Laxness",
       "description": "Nobel Prize-winning author."
     },
     {
-      "name": "Vigdís Finnbogadóttir",
+      "name": "Vigd\u00eds Finnbogad\u00f3ttir",
       "description": "First democratically elected female president in the world."
     },
     {
-      "name": "Jón Sigurðsson",
+      "name": "J\u00f3n Sigur\u00f0sson",
       "description": "Leader of the 19th-century Icelandic independence movement."
     }
   ],
@@ -156,7 +156,7 @@
   ],
   "cities": [
     {
-      "name": "Reykjavík",
+      "name": "Reykjav\u00edk",
       "capital": true,
       "lat": 64.150024,
       "lon": -21.950015
@@ -167,5 +167,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ACIA_Factbook_map_of_Iceland_Br.svg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 17.67,
+      "gross_debt_pct_gdp": 69.8,
+      "gross_debt_usd_billion": 12.34,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 21.96,
+      "gross_debt_pct_gdp": 67.4,
+      "gross_debt_usd_billion": 14.8,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 18.25,
+      "gross_debt_pct_gdp": 109.3,
+      "gross_debt_usd_billion": 19.95,
+      "inflation_cpi_pct": 12.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 13.21,
+      "gross_debt_pct_gdp": 128.2,
+      "gross_debt_usd_billion": 16.94,
+      "inflation_cpi_pct": 12,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 13.92,
+      "gross_debt_pct_gdp": 131.5,
+      "gross_debt_usd_billion": 18.31,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 15.39,
+      "gross_debt_pct_gdp": 136.6,
+      "gross_debt_usd_billion": 21.03,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 14.94,
+      "gross_debt_pct_gdp": 132.2,
+      "gross_debt_usd_billion": 19.76,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 16.24,
+      "gross_debt_pct_gdp": 121.1,
+      "gross_debt_usd_billion": 19.67,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 18.05,
+      "gross_debt_pct_gdp": 114.1,
+      "gross_debt_usd_billion": 20.6,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 17.7,
+      "gross_debt_pct_gdp": 96.3,
+      "gross_debt_usd_billion": 17.05,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 21.08,
+      "gross_debt_pct_gdp": 81.3,
+      "gross_debt_usd_billion": 17.14,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 25.06,
+      "gross_debt_pct_gdp": 70.8,
+      "gross_debt_usd_billion": 17.74,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 26.68,
+      "gross_debt_pct_gdp": 62.3,
+      "gross_debt_usd_billion": 16.62,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 24.99,
+      "gross_debt_pct_gdp": 65.7,
+      "gross_debt_usd_billion": 16.42,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 22.04,
+      "gross_debt_pct_gdp": 76.1,
+      "gross_debt_usd_billion": 16.77,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 26.23,
+      "gross_debt_pct_gdp": 73.6,
+      "gross_debt_usd_billion": 19.31,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 29.18,
+      "gross_debt_pct_gdp": 66.4,
+      "gross_debt_usd_billion": 19.37,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 31.7,
+      "gross_debt_pct_gdp": 61.5,
+      "gross_debt_usd_billion": 19.5,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 33.19,
+      "gross_debt_pct_gdp": 60.4,
+      "gross_debt_usd_billion": 20.04,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 38.58,
+      "gross_debt_pct_gdp": 56.1,
+      "gross_debt_usd_billion": 21.65,
+      "inflation_cpi_pct": 4.1,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
       "name": "Minaret of Jam",
       "writeup": "A UNESCO World Heritage site, this 12th-century minaret is notable for its intricate brickwork and historical significance.",
       "wiki": {
-        "extract": "The Minaret of Jam is a UNESCO World Heritage Site in western Afghanistan. It is located in a remote and nearly inaccessible region of Shahrak District, Ghor Province, between the Jam and Hari Rivers. The 62 m (203 ft) or 65 m (213 ft) high minaret was built c. 1190, entirely of baked bricks, and is famous for its intricate brick, stucco and glazed tile decoration, which consists of alternating bands of Kufic and Naskhi calligraphy, geometric patterns, and verses from the Qur'an. Since 2002, the minaret has remained on the list of World Heritage in Danger, under serious threat of erosion, and has not been actively preserved. In 2014, the BBC reported that the tower was in imminent danger of collapse.",
+        "extract": "The Minaret of Jam is a UNESCO World Heritage Site in western Afghanistan. It is located in a remote and nearly inaccessible region of Shahrak District, Ghor Province, between the Jam and Hari Rivers. The 62\u00a0m (203\u00a0ft) or 65\u00a0m (213\u00a0ft) high minaret was built c.\u20091190, entirely of baked bricks, and is famous for its intricate brick, stucco and glazed tile decoration, which consists of alternating bands of Kufic and Naskhi calligraphy, geometric patterns, and verses from the Qur'an. Since 2002, the minaret has remained on the list of World Heritage in Danger, under serious threat of erosion, and has not been actively preserved. In 2014, the BBC reported that the tower was in imminent danger of collapse.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jam_afghan_architecture_harirud_brick.jpg",
         "url": "https://en.wikipedia.org/wiki/Minaret_of_Jam",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Bamiyan Buddhas (site)",
       "writeup": "Once home to giant Buddha statues carved into cliffs, destroyed in 2001, the site remains culturally and historically important.",
       "wiki": {
-        "extract": "The Buddhas of Bamiyan were two monumental Buddhist reliefs in the Bamiyan Valley of Afghanistan, carved possibly around the 6th-century. Located 130 kilometres (81 mi) to the northwest of Kabul, at an elevation of 2,500 metres (8,200 ft), carbon dating of the structural components of the Buddhas has determined the smaller 38 m (125 ft) \"Eastern Buddha\" was built around 570 CE, and the larger 55 m (180 ft) \"Western Buddha\" was built around 618 CE, which would date both to the time when the Hephthalites ruled the region.",
+        "extract": "The Buddhas of Bamiyan were two monumental Buddhist reliefs in the Bamiyan Valley of Afghanistan, carved possibly around the 6th-century. Located 130 kilometres (81\u00a0mi) to the northwest of Kabul, at an elevation of 2,500 metres (8,200\u00a0ft), carbon dating of the structural components of the Buddhas has determined the smaller 38\u00a0m (125\u00a0ft) \"Eastern Buddha\" was built around 570 CE, and the larger 55\u00a0m (180\u00a0ft) \"Western Buddha\" was built around 618 CE, which would date both to the time when the Hephthalites ruled the region.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Buddha_of_Bamiyan.jpg",
         "url": "https://en.wikipedia.org/wiki/Buddhas_of_Bamiyan",
         "coordinates": {
@@ -131,5 +131,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281982%29_Afghanistan.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 6.92,
+      "gross_debt_pct_gdp": 23,
+      "gross_debt_usd_billion": 1.59,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 8.56,
+      "gross_debt_pct_gdp": 20.1,
+      "gross_debt_usd_billion": 1.72,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 10.3,
+      "gross_debt_pct_gdp": 19.1,
+      "gross_debt_usd_billion": 1.97,
+      "inflation_cpi_pct": 26.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 12.07,
+      "gross_debt_pct_gdp": 16.2,
+      "gross_debt_usd_billion": 1.95,
+      "inflation_cpi_pct": -6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 15.32,
+      "gross_debt_pct_gdp": 7.7,
+      "gross_debt_usd_billion": 1.18,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 17.89,
+      "gross_debt_pct_gdp": 7.5,
+      "gross_debt_usd_billion": 1.34,
+      "inflation_cpi_pct": 11.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 20.29,
+      "gross_debt_pct_gdp": 6.8,
+      "gross_debt_usd_billion": 1.38,
+      "inflation_cpi_pct": 6.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 20.17,
+      "gross_debt_pct_gdp": 6.9,
+      "gross_debt_usd_billion": 1.39,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 20.62,
+      "gross_debt_pct_gdp": 8.7,
+      "gross_debt_usd_billion": 1.79,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 20.06,
+      "gross_debt_pct_gdp": 9.2,
+      "gross_debt_usd_billion": 1.85,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 18.02,
+      "gross_debt_pct_gdp": 8.4,
+      "gross_debt_usd_billion": 1.51,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 18.88,
+      "gross_debt_pct_gdp": 8,
+      "gross_debt_usd_billion": 1.51,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 18.34,
+      "gross_debt_pct_gdp": 7.4,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 18.88,
+      "gross_debt_pct_gdp": 6.1,
+      "gross_debt_usd_billion": 1.15,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 20.14,
+      "gross_debt_pct_gdp": 7.3,
+      "gross_debt_usd_billion": 1.47,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 14.28,
+      "gross_debt_pct_gdp": 11.1,
+      "gross_debt_usd_billion": 1.58,
+      "inflation_cpi_pct": 7.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 14.5,
+      "gross_debt_pct_gdp": 10.6,
+      "gross_debt_usd_billion": 1.54,
+      "inflation_cpi_pct": 10.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 17.25,
+      "gross_debt_pct_gdp": 8.3,
+      "gross_debt_usd_billion": 1.43,
+      "inflation_cpi_pct": -7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 17.82,
+      "gross_debt_pct_gdp": 8.9,
+      "gross_debt_usd_billion": 1.59,
+      "inflation_cpi_pct": -4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 19.66,
+      "gross_debt_pct_gdp": 8,
+      "gross_debt_usd_billion": 1.57,
+      "inflation_cpi_pct": 2.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

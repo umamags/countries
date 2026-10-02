@@ -15,7 +15,7 @@
       "name": "Kokoda Track",
       "writeup": "A historic trail in the Owen Stanley Range, significant for its role in World War II during the Kokoda Campaign.",
       "wiki": {
-        "extract": "The Kokoda Track or Trail is a single-file foot thoroughfare that runs 96 kilometres (60 mi) overland – 60 kilometres (37 mi) in a straight line – through the Owen Stanley Range in Papua New Guinea (PNG). The track was the location of the 1942 World War II battle between Japanese and Allied – primarily Australian – forces in what was then the Australian territory of Papua.",
+        "extract": "The Kokoda Track or Trail is a single-file foot thoroughfare that runs 96 kilometres (60\u00a0mi) overland \u2013 60 kilometres (37\u00a0mi) in a straight line \u2013 through the Owen Stanley Range in Papua New Guinea (PNG). The track was the location of the 1942 World War II battle between Japanese and Allied \u2013 primarily Australian \u2013 forces in what was then the Australian territory of Papua.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/New_guinea_kokoda.PNG",
         "url": "https://en.wikipedia.org/wiki/Kokoda_Track",
         "coordinates": null
@@ -38,7 +38,7 @@
       "name": "Mount Wilhelm",
       "writeup": "The highest peak in Papua New Guinea, attracting trekkers and climbers with its challenging terrain and scenic views.",
       "wiki": {
-        "extract": "Mount Wilhelm is the highest mountain in Papua New Guinea at 4,509 metres (14,793 ft). It is part of the Bismarck Range and the peak is the point where three provinces, Chimbu, Jiwaka and Madang, meet. In the local Kuman language, the peak is also known as Enduwa Kombuglu or Kombugl'o Dimbin.",
+        "extract": "Mount Wilhelm is the highest mountain in Papua New Guinea at 4,509 metres (14,793\u00a0ft). It is part of the Bismarck Range and the peak is the point where three provinces, Chimbu, Jiwaka and Madang, meet. In the local Kuman language, the peak is also known as Enduwa Kombuglu or Kombugl'o Dimbin.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mount_Wilhelm.jpg",
         "url": "https://en.wikipedia.org/wiki/Mount_Wilhelm",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Rabaul Volcano",
       "writeup": "An active volcano near the town of Rabaul, notable for its eruptions and impact on local settlements.",
       "wiki": {
-        "extract": "Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600 km (370 mi) to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12 mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.",
+        "extract": "Rabaul is a township in the East New Britain province of Papua New Guinea, on the island of New Britain. It lies about 600\u00a0km (370\u00a0mi) to the east of the island of New Guinea. Rabaul was the provincial capital and most important settlement in the province until it was destroyed in 1994 by falling ash from a volcanic eruption in its harbor. During the eruption, ash was sent thousands of metres into the air, and the subsequent rain of ash caused 80% of the buildings in Rabaul to collapse. After the eruption the capital was moved to Kokopo, about 20 kilometres (12\u00a0mi) away. Rabaul is continually threatened by volcanic activity, because it is on the edge of the Rabaul caldera, a flooded caldera of a large pyroclastic shield volcano.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rabaul_from_Vulcanology_Observatory.jpg",
         "url": "https://en.wikipedia.org/wiki/Rabaul",
         "coordinates": {
@@ -80,7 +80,7 @@
       "name": "Mount Hagen Cultural Show",
       "writeup": "An annual festival showcasing traditional dances, costumes, and rituals from various tribes across Papua New Guinea.",
       "wiki": {
-        "extract": "Mount Hagen is the third largest city in Papua New Guinea, with a population of 46,250. It is the capital of the Western Highlands Province and is located in the large fertile Wahgi Valley in central mainland Papua New Guinea, at an elevation of 1,677 m (5,502 ft).",
+        "extract": "Mount Hagen is the third largest city in Papua New Guinea, with a population of 46,250. It is the capital of the Western Highlands Province and is located in the large fertile Wahgi Valley in central mainland Papua New Guinea, at an elevation of 1,677\u00a0m (5,502\u00a0ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mt_Hagen_Cultural_Show_PNG_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Mount_Hagen"
       }
@@ -175,5 +175,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3APapua_New_Guinea_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 8.36,
+      "gross_debt_pct_gdp": 26,
+      "gross_debt_usd_billion": 2.17,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 9.54,
+      "gross_debt_pct_gdp": 22.2,
+      "gross_debt_usd_billion": 2.12,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 11.67,
+      "gross_debt_pct_gdp": 21.6,
+      "gross_debt_usd_billion": 2.52,
+      "inflation_cpi_pct": 10.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 11.62,
+      "gross_debt_pct_gdp": 21.7,
+      "gross_debt_usd_billion": 2.52,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 14.25,
+      "gross_debt_pct_gdp": 17.3,
+      "gross_debt_usd_billion": 2.47,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 17.98,
+      "gross_debt_pct_gdp": 16.3,
+      "gross_debt_usd_billion": 2.93,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 21.3,
+      "gross_debt_pct_gdp": 19.1,
+      "gross_debt_usd_billion": 4.07,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 21.26,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 5.29,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 23.21,
+      "gross_debt_pct_gdp": 26.9,
+      "gross_debt_usd_billion": 6.24,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 21.72,
+      "gross_debt_pct_gdp": 29.9,
+      "gross_debt_usd_billion": 6.5,
+      "inflation_cpi_pct": 6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 20.76,
+      "gross_debt_pct_gdp": 33.7,
+      "gross_debt_usd_billion": 7.0,
+      "inflation_cpi_pct": 6.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 22.74,
+      "gross_debt_pct_gdp": 32.5,
+      "gross_debt_usd_billion": 7.39,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 24.11,
+      "gross_debt_pct_gdp": 36.7,
+      "gross_debt_usd_billion": 8.85,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 24.75,
+      "gross_debt_pct_gdp": 38.2,
+      "gross_debt_usd_billion": 9.45,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 23.85,
+      "gross_debt_pct_gdp": 48.7,
+      "gross_debt_usd_billion": 11.61,
+      "inflation_cpi_pct": 4.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 26.11,
+      "gross_debt_pct_gdp": 52.6,
+      "gross_debt_usd_billion": 13.74,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 31.65,
+      "gross_debt_pct_gdp": 48.2,
+      "gross_debt_usd_billion": 15.26,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 30.73,
+      "gross_debt_pct_gdp": 53.9,
+      "gross_debt_usd_billion": 16.56,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 30.76,
+      "gross_debt_pct_gdp": 53.3,
+      "gross_debt_usd_billion": 16.39,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 32.49,
+      "gross_debt_pct_gdp": 52.1,
+      "gross_debt_usd_billion": 16.93,
+      "inflation_cpi_pct": 4.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

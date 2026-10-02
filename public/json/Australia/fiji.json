@@ -86,7 +86,7 @@
       "name": "Diwali",
       "writeup": "The Hindu festival of lights celebrated by Fiji's Indian community with prayers, feasts, and fireworks.",
       "wiki": {
-        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.",
+        "extract": "Dipavali, commonly known as Diwali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin and K\u0101rtika \u2013 between around mid-October and mid-November. The celebrations generally last five or six days.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Diwali"
       }
@@ -95,7 +95,7 @@
       "name": "Bula Festival",
       "writeup": "A cultural festival showcasing traditional Fijian dance, music, and crafts.",
       "wiki": {
-        "extract": "Bula (1965–1977) was a British National Hunt horse who won the Champion Hurdle twice and many other top races over hurdles and later over fences. One of the greatest hurdlers ever, he ran during what is considered a golden period for two-mile hurdlers in the 1970s. Bula was \"a remarkably consistent, versatile and durable jumper\" and was known for his come-from-behind style. At one stage Bula had an unbeaten run of 13 races.",
+        "extract": "Bula (1965\u20131977) was a British National Hunt horse who won the Champion Hurdle twice and many other top races over hurdles and later over fences. One of the greatest hurdlers ever, he ran during what is considered a golden period for two-mile hurdlers in the 1970s. Bula was \"a remarkably consistent, versatile and durable jumper\" and was known for his come-from-behind style. At one stage Bula had an unbeaten run of 13 races.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Bula_(horse)"
       }
@@ -152,5 +152,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Fiji.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 3.36,
+      "gross_debt_pct_gdp": 50.3,
+      "gross_debt_usd_billion": 1.69,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 3.69,
+      "gross_debt_pct_gdp": 46.4,
+      "gross_debt_usd_billion": 1.71,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 3.82,
+      "gross_debt_pct_gdp": 47.9,
+      "gross_debt_usd_billion": 1.83,
+      "inflation_cpi_pct": 7.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 3.11,
+      "gross_debt_pct_gdp": 51.5,
+      "gross_debt_usd_billion": 1.6,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 3.4,
+      "gross_debt_pct_gdp": 53.4,
+      "gross_debt_usd_billion": 1.82,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 4.09,
+      "gross_debt_pct_gdp": 51,
+      "gross_debt_usd_billion": 2.09,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 4.3,
+      "gross_debt_pct_gdp": 48.6,
+      "gross_debt_usd_billion": 2.09,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 4.54,
+      "gross_debt_pct_gdp": 47.4,
+      "gross_debt_usd_billion": 2.15,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 4.86,
+      "gross_debt_pct_gdp": 46.2,
+      "gross_debt_usd_billion": 2.24,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 4.68,
+      "gross_debt_pct_gdp": 44.3,
+      "gross_debt_usd_billion": 2.07,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 4.93,
+      "gross_debt_pct_gdp": 44.6,
+      "gross_debt_usd_billion": 2.2,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 5.35,
+      "gross_debt_pct_gdp": 43.4,
+      "gross_debt_usd_billion": 2.32,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 5.58,
+      "gross_debt_pct_gdp": 45.8,
+      "gross_debt_usd_billion": 2.56,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 5.34,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 2.65,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 4.23,
+      "gross_debt_pct_gdp": 65.8,
+      "gross_debt_usd_billion": 2.78,
+      "inflation_cpi_pct": -1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 4.16,
+      "gross_debt_pct_gdp": 86.7,
+      "gross_debt_usd_billion": 3.61,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 4.98,
+      "gross_debt_pct_gdp": 91.5,
+      "gross_debt_usd_billion": 4.55,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 5.48,
+      "gross_debt_pct_gdp": 82.9,
+      "gross_debt_usd_billion": 4.54,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 5.97,
+      "gross_debt_pct_gdp": 79.1,
+      "gross_debt_usd_billion": 4.72,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 6.04,
+      "gross_debt_pct_gdp": 78.7,
+      "gross_debt_usd_billion": 4.75,
+      "inflation_cpi_pct": -1.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

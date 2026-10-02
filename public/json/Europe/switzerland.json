@@ -15,7 +15,7 @@
       "name": "Matterhorn",
       "writeup": "Iconic mountain in the Alps, known for its distinctive pyramid shape and popular for mountaineering.",
       "wiki": {
-        "extract": "The Matterhorn is a mountain of the Alps, straddling the main watershed and border between Switzerland and Italy. It is a large, near-symmetric pyramidal peak in the extended Monte Rosa area of the Pennine Alps, whose summit is 4,478 metres (14,692 ft) above sea level, making it one of the highest summits in the Alps and Europe. Sometimes referred to as the \"Mountain of Mountains\", the Matterhorn has become an indelible emblem of Switzerland and of the Alps as a whole. It has also been described as the most beautiful mountain in the world and has been claimed to be the most photographed mountain in the world.",
+        "extract": "The Matterhorn is a mountain of the Alps, straddling the main watershed and border between Switzerland and Italy. It is a large, near-symmetric pyramidal peak in the extended Monte Rosa area of the Pennine Alps, whose summit is 4,478 metres (14,692\u00a0ft) above sea level, making it one of the highest summits in the Alps and Europe. Sometimes referred to as the \"Mountain of Mountains\", the Matterhorn has become an indelible emblem of Switzerland and of the Alps as a whole. It has also been described as the most beautiful mountain in the world and has been claimed to be the most photographed mountain in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
         "url": "https://en.wikipedia.org/wiki/Matterhorn",
         "coordinates": {
@@ -25,10 +25,10 @@
       }
     },
     {
-      "name": "Château de Chillon",
+      "name": "Ch\u00e2teau de Chillon",
       "writeup": "Medieval castle on Lake Geneva, famous for its well-preserved architecture and historical significance.",
       "wiki": {
-        "extract": "Chillon Castle is a medieval island castle located on Lake Geneva, south of Veytaux in the Swiss canton of Vaud. It is situated at the eastern end of the lake, on the narrow shore between Montreux and Villeneuve, which gives access to the Alpine valley of the Rhône. Chillon is amongst the most visited medieval castles in Europe. Successively occupied by the House of Savoy, then by the Bernese from 1536 until 1798, it now belongs to the canton of Vaud and is classified as a Swiss Cultural Property of National Significance.",
+        "extract": "Chillon Castle is a medieval island castle located on Lake Geneva, south of Veytaux in the Swiss canton of Vaud. It is situated at the eastern end of the lake, on the narrow shore between Montreux and Villeneuve, which gives access to the Alpine valley of the Rh\u00f4ne. Chillon is amongst the most visited medieval castles in Europe. Successively occupied by the House of Savoy, then by the Bernese from 1536 until 1798, it now belongs to the canton of Vaud and is classified as a Swiss Cultural Property of National Significance.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/3840px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
         "url": "https://en.wikipedia.org/wiki/Chillon_Castle",
         "coordinates": {
@@ -41,7 +41,7 @@
       "name": "Jet d'Eau",
       "writeup": "Large fountain in Geneva, one of the city's most famous landmarks and a symbol of Switzerland.",
       "wiki": {
-        "extract": "The Jet d'Eau is a large fountain in Geneva, Switzerland, and is one of the city's most famous landmarks, being featured on the city's official tourism web site. Situated where Lake Geneva exits as the Rhône, it is visible throughout the city and from the air, even when flying over Geneva at an altitude of ten kilometres (33,000 ft).",
+        "extract": "The Jet d'Eau is a large fountain in Geneva, Switzerland, and is one of the city's most famous landmarks, being featured on the city's official tourism web site. Situated where Lake Geneva exits as the Rh\u00f4ne, it is visible throughout the city and from the air, even when flying over Geneva at an altitude of ten kilometres (33,000\u00a0ft).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jet_d%27eau_de_Gen%C3%A8ve_%28swiss%29.jpg/3840px-Jet_d%27eau_de_Gen%C3%A8ve_%28swiss%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Jet_d'Eau",
         "coordinates": {
@@ -67,7 +67,7 @@
       "name": "Swiss National Museum",
       "writeup": "Museum in Zurich showcasing Swiss cultural history from ancient times to the present.",
       "wiki": {
-        "extract": "The Swiss National Museum is a museum in Zurich, Switzerland's largest city, adjacent to Zürich Hauptbahnhof and the Platzspitz park. It is part of the Musée Suisse Group, which is itself affiliated with the Federal Office of Culture.",
+        "extract": "The Swiss National Museum is a museum in Zurich, Switzerland's largest city, adjacent to Z\u00fcrich Hauptbahnhof and the Platzspitz park. It is part of the Mus\u00e9e Suisse Group, which is itself affiliated with the Federal Office of Culture.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg/3840px-2026-04-26_-_Landesmuseum_Z%C3%BCrich_Schweiz.jpg",
         "url": "https://en.wikipedia.org/wiki/Swiss_National_Museum",
         "coordinates": {
@@ -98,16 +98,16 @@
       }
     },
     {
-      "name": "Sechseläuten",
-      "writeup": "Spring festival in Zurich marked by the burning of the Böögg snowman to predict summer weather.",
+      "name": "Sechsel\u00e4uten",
+      "writeup": "Spring festival in Zurich marked by the burning of the B\u00f6\u00f6gg snowman to predict summer weather.",
       "wiki": {
-        "extract": "The Sechseläuten is a traditional spring holiday in the Swiss city of Zurich celebrated in its current form, usually on the 3rd Monday of April, since the early 20th century.",
+        "extract": "The Sechsel\u00e4uten is a traditional spring holiday in the Swiss city of Zurich celebrated in its current form, usually on the 3rd Monday of April, since the early 20th century.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2012_Sechsel%C3%A4uten_-_B%C3%B6%C3%B6g_2012-04-16_18-07-52_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Sechsel%C3%A4uten"
       }
     }
   ],
-  "food_writeup": "Swiss cuisine is known for its cheese (such as Emmental and Gruyère), chocolate, fondue, and rösti, reflecting a blend of German, French, and Italian influences.",
+  "food_writeup": "Swiss cuisine is known for its cheese (such as Emmental and Gruy\u00e8re), chocolate, fondue, and r\u00f6sti, reflecting a blend of German, French, and Italian influences.",
   "brief_history": "Switzerland has a long history of neutrality and confederation, officially established in 1291. It developed a federal state in 1848 and is known for its political stability, humanitarian tradition, and banking sector.",
   "important_people": [
     {
@@ -153,7 +153,7 @@
       "lon": 6.140028
     },
     {
-      "name": "Zürich",
+      "name": "Z\u00fcrich",
       "capital": false,
       "lat": 47.381934,
       "lon": 8.548064
@@ -164,5 +164,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASwitzerland_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 448.5,
+      "gross_debt_pct_gdp": 47.7,
+      "gross_debt_usd_billion": 213.93,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 499.35,
+      "gross_debt_pct_gdp": 44,
+      "gross_debt_usd_billion": 219.71,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 574.52,
+      "gross_debt_pct_gdp": 44.2,
+      "gross_debt_usd_billion": 253.94,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 563.36,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 238.86,
+      "inflation_cpi_pct": -0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 609.48,
+      "gross_debt_pct_gdp": 40.7,
+      "gross_debt_usd_billion": 248.06,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 727.08,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 299.56,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 698.23,
+      "gross_debt_pct_gdp": 41.9,
+      "gross_debt_usd_billion": 292.56,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 719.19,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 296.31,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 741.18,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 305.37,
+      "inflation_cpi_pct": 0,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 705.86,
+      "gross_debt_pct_gdp": 41.4,
+      "gross_debt_usd_billion": 292.23,
+      "inflation_cpi_pct": -1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 698.55,
+      "gross_debt_pct_gdp": 40.3,
+      "gross_debt_usd_billion": 281.52,
+      "inflation_cpi_pct": -0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 706.89,
+      "gross_debt_pct_gdp": 41.1,
+      "gross_debt_usd_billion": 290.53,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 741.22,
+      "gross_debt_pct_gdp": 39,
+      "gross_debt_usd_billion": 289.08,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 736.85,
+      "gross_debt_pct_gdp": 38.8,
+      "gross_debt_usd_billion": 285.9,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 755.58,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 320.37,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 840.08,
+      "gross_debt_pct_gdp": 39.7,
+      "gross_debt_usd_billion": 333.51,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 858.35,
+      "gross_debt_pct_gdp": 35.9,
+      "gross_debt_usd_billion": 308.15,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 928.69,
+      "gross_debt_pct_gdp": 37.3,
+      "gross_debt_usd_billion": 346.4,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 970.19,
+      "gross_debt_pct_gdp": 40.5,
+      "gross_debt_usd_billion": 392.93,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1043.54,
+      "gross_debt_pct_gdp": 39.4,
+      "gross_debt_usd_billion": 411.16,
+      "inflation_cpi_pct": 0.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

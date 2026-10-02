@@ -7,7 +7,7 @@ import WorldMap from '../components/WorldMap'
 import StateMap from '../components/StateMap'
 import VideoModal from '../components/VideoModal'
 import Breadcrumb from '../components/Breadcrumb'
-import NewsSection from '../components/NewsSection'
+import EconomicsSection from '../components/EconomicsSection'
 import { slugify } from '../utils/slug'
 
 function Fact({ label, value }) {
@@ -222,8 +222,6 @@ export default function CountryDetailPage() {
         </section>
       )}
 
-      <NewsSection countryName={data.country} />
-
       <NamedList title="Important People" items={data.important_people} textKey="description" />
 
       {data.current_conflicts && (
@@ -232,6 +230,8 @@ export default function CountryDetailPage() {
           <p>{data.current_conflicts}</p>
         </section>
       )}
+
+      <EconomicsSection economics={data.economics} />
 
       <VideoList items={data.five_youtube_video_titles} onPlay={setActiveVideo} />
 

@@ -38,7 +38,7 @@
       "name": "Inle Lake",
       "writeup": "A freshwater lake known for its floating villages, gardens, and unique leg-rowing fishermen.",
       "wiki": {
-        "extract": "Inle Lake is a freshwater lake located in the Nyaungshwe Township of Shan State, part of Shan Hills in Myanmar (Burma). It is the second largest lake in Myanmar, with an estimated surface area of 44.9 square miles (116 km2), and one of the highest at an elevation of 2,900 feet (880 m). During the dry season, the average water depth is 7 feet (2.1 m), with the deepest point being 12 feet (3.7 m). During the rainy season, this can increase by 5 feet (1.5 m).",
+        "extract": "Inle Lake is a freshwater lake located in the Nyaungshwe Township of Shan State, part of Shan Hills in Myanmar (Burma). It is the second largest lake in Myanmar, with an estimated surface area of 44.9 square miles (116\u00a0km2), and one of the highest at an elevation of 2,900 feet (880\u00a0m). During the dry season, the average water depth is 7 feet (2.1\u00a0m), with the deepest point being 12 feet (3.7\u00a0m). During the rainy season, this can increase by 5 feet (1.5\u00a0m).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Inle_Lake_%28Myanmar%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Inle_Lake",
         "coordinates": {
@@ -54,7 +54,7 @@
       "name": "Thingyan Water Festival",
       "writeup": "The Burmese New Year celebration involving water throwing to wash away sins and bad luck.",
       "wiki": {
-        "extract": "Thingyan (သင်္ကြန်), also known as the Myanmar New Year, is a festival that usually occurs in the middle of April. Thingyan marks the transition from the old year to the new one, based on the traditional Myanmar lunisolar calendar. The festival usually spans four to five days, culminating in New Year’s Day, and is one of the most anticipated public holidays across the country. The highlight of the celebration is the symbolic throwing of water, representing the washing away of sins and bad luck from the previous year. People engage in water fights using buckets and water guns, especially during the first four days. Streets become lively with music, dance troupes, and temporary stages called pandal (မဏ္ဍပ်,mandat).",
+        "extract": "Thingyan (\u101e\u1004\u103a\u1039\u1000\u103c\u1014\u103a), also known as the Myanmar New Year, is a festival that usually occurs in the middle of April. Thingyan marks the transition from the old year to the new one, based on the traditional Myanmar lunisolar calendar. The festival usually spans four to five days, culminating in New Year\u2019s Day, and is one of the most anticipated public holidays across the country. The highlight of the celebration is the symbolic throwing of water, representing the washing away of sins and bad luck from the previous year. People engage in water fights using buckets and water guns, especially during the first four days. Streets become lively with music, dance troupes, and temporary stages called pandal (\u1019\u100f\u1039\u100d\u1015\u103a,mandat).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bagan_era_painting_of_Thingyan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Thingyan"
       }
@@ -63,7 +63,7 @@
       "name": "Thadingyut Festival",
       "writeup": "The Festival of Lights marking the end of Buddhist Lent with illuminated decorations and offerings.",
       "wiki": {
-        "extract": "The Thadingyut Festival, also known as the Lighting Festival of Myanmar, is held on the full moon day of the Burmese lunar month of Thadingyut. As a custom, it is held at the end of the Buddhist Rains Retreat (Vassa) and is the second most popular festival in Myanmar after Thingyan Festival. Thadingyut festival is the celebration to welcome the Buddha’s descent from the heaven after he preached the Abhidhamma to his mother, Maya, who was reborn in the heaven. Thadingyut is a traditional festival, which Burmese people celebrate every year.",
+        "extract": "The Thadingyut Festival, also known as the Lighting Festival of Myanmar, is held on the full moon day of the Burmese lunar month of Thadingyut. As a custom, it is held at the end of the Buddhist Rains Retreat (Vassa) and is the second most popular festival in Myanmar after Thingyan Festival. Thadingyut festival is the celebration to welcome the Buddha\u2019s descent from the heaven after he preached the Abhidhamma to his mother, Maya, who was reborn in the heaven. Thadingyut is a traditional festival, which Burmese people celebrate every year.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lighting_Festival.jpg/3840px-Lighting_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Thadingyut_Festival"
       }
@@ -126,5 +126,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ABurma_%28Myanmar%29-2017_CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 13.5,
+      "gross_debt_pct_gdp": 103.1,
+      "gross_debt_usd_billion": 13.92,
+      "inflation_cpi_pct": 16.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 17.75,
+      "gross_debt_pct_gdp": 77.4,
+      "gross_debt_usd_billion": 13.73,
+      "inflation_cpi_pct": 34.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 25.31,
+      "gross_debt_pct_gdp": 59.8,
+      "gross_debt_usd_billion": 15.14,
+      "inflation_cpi_pct": 20.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 30.68,
+      "gross_debt_pct_gdp": 56.4,
+      "gross_debt_usd_billion": 17.3,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 37.85,
+      "gross_debt_pct_gdp": 54.4,
+      "gross_debt_usd_billion": 20.59,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 53.25,
+      "gross_debt_pct_gdp": 49.9,
+      "gross_debt_usd_billion": 26.57,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 58.37,
+      "gross_debt_pct_gdp": 48,
+      "gross_debt_usd_billion": 28.02,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 62.66,
+      "gross_debt_pct_gdp": 44.8,
+      "gross_debt_usd_billion": 28.07,
+      "inflation_cpi_pct": 6.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 65.4,
+      "gross_debt_pct_gdp": 34.5,
+      "gross_debt_usd_billion": 22.56,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 59.33,
+      "gross_debt_pct_gdp": 36.6,
+      "gross_debt_usd_billion": 21.71,
+      "inflation_cpi_pct": 10,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 62.84,
+      "gross_debt_pct_gdp": 35.7,
+      "gross_debt_usd_billion": 22.43,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 66.08,
+      "gross_debt_pct_gdp": 41.9,
+      "gross_debt_usd_billion": 27.69,
+      "inflation_cpi_pct": 4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 67.49,
+      "gross_debt_pct_gdp": 39.9,
+      "gross_debt_usd_billion": 26.93,
+      "inflation_cpi_pct": 7.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 75.28,
+      "gross_debt_pct_gdp": 37.6,
+      "gross_debt_usd_billion": 28.31,
+      "inflation_cpi_pct": 9.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 77.03,
+      "gross_debt_pct_gdp": 49.1,
+      "gross_debt_usd_billion": 37.82,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 55.26,
+      "gross_debt_pct_gdp": 63.4,
+      "gross_debt_usd_billion": 35.03,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 67.44,
+      "gross_debt_pct_gdp": 56,
+      "gross_debt_usd_billion": 37.76,
+      "inflation_cpi_pct": 27.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 66.82,
+      "gross_debt_pct_gdp": 53.2,
+      "gross_debt_usd_billion": 35.55,
+      "inflation_cpi_pct": 27.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 76.76,
+      "gross_debt_pct_gdp": 50.6,
+      "gross_debt_usd_billion": 38.84,
+      "inflation_cpi_pct": 29.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 82.4,
+      "gross_debt_pct_gdp": 51.9,
+      "gross_debt_usd_billion": 42.77,
+      "inflation_cpi_pct": 22,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

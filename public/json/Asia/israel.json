@@ -13,7 +13,7 @@
       "name": "Western Wall",
       "writeup": "An ancient limestone wall in Jerusalem, sacred in Judaism as the last remnant of the Second Temple.",
       "wiki": {
-        "extract": "The Western Wall is an ancient retaining wall of the built-up hill known to Jews and Christians as the Temple Mount of Jerusalem. Its most famous section, known by the same name, often shortened by Jews to the Kotel or Kosel, is known in the West as the Wailing Wall, and in the Arab world and Islamic world as the Buraq Wall. In a Jewish religious context, the term Western Wall and its variations is used in the narrow sense, for the section used for Jewish prayer; in its broader sense it refers to the entire 488-metre-long (1,601 ft) retaining wall on the western side of the Temple Mount.",
+        "extract": "The Western Wall is an ancient retaining wall of the built-up hill known to Jews and Christians as the Temple Mount of Jerusalem. Its most famous section, known by the same name, often shortened by Jews to the Kotel or Kosel, is known in the West as the Wailing Wall, and in the Arab world and Islamic world as the Buraq Wall. In a Jewish religious context, the term Western Wall and its variations is used in the narrow sense, for the section used for Jewish prayer; in its broader sense it refers to the entire 488-metre-long (1,601\u00a0ft) retaining wall on the western side of the Temple Mount.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Westernwall2.jpg",
         "url": "https://en.wikipedia.org/wiki/Western_Wall",
         "coordinates": {
@@ -36,7 +36,7 @@
       "name": "Masada",
       "writeup": "An ancient fortress on a plateau overlooking the Dead Sea, symbolizing Jewish heroism.",
       "wiki": {
-        "extract": "Masada is a mountain-top fortress complex in the Judaean Desert, overlooking the western shore of the Dead Sea in southeastern Israel. The fort, built in the first century BC, was constructed atop a natural plateau rising over 400 m (1,300 ft) above the surrounding terrain, 20 km (12 mi) east of modern Arad.",
+        "extract": "Masada is a mountain-top fortress complex in the Judaean Desert, overlooking the western shore of the Dead Sea in southeastern Israel. The fort, built in the first century BC, was constructed atop a natural plateau rising over 400\u00a0m (1,300\u00a0ft) above the surrounding terrain, 20\u00a0km (12\u00a0mi) east of modern Arad.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
         "url": "https://en.wikipedia.org/wiki/Masada",
         "coordinates": {
@@ -46,10 +46,10 @@
       }
     },
     {
-      "name": "Bahá'í Gardens",
-      "writeup": "Terraced gardens in Haifa, a UNESCO World Heritage site and a holy place for the Bahá'í faith.",
+      "name": "Bah\u00e1'\u00ed Gardens",
+      "writeup": "Terraced gardens in Haifa, a UNESCO World Heritage site and a holy place for the Bah\u00e1'\u00ed faith.",
       "wiki": {
-        "extract": "The Baháʼí Terraces, or the Hanging Gardens of Haifa, are garden terraces on Mount Carmel in Haifa, and one of the most popular tourist destinations in Israel. Completed in 2001, there are 19 terraces and more than 1,500 steps ascending the mountain. The central terrace has the Shrine of the Báb, one of the main religious sites of the Baháʼí Faith. The architect by Fariborz Sahba, and the structural engineers were Karban and Co. from Haifa.",
+        "extract": "The Bah\u00e1\u02bc\u00ed Terraces, or the Hanging Gardens of Haifa, are garden terraces on Mount Carmel in Haifa, and one of the most popular tourist destinations in Israel. Completed in 2001, there are 19 terraces and more than 1,500 steps ascending the mountain. The central terrace has the Shrine of the B\u00e1b, one of the main religious sites of the Bah\u00e1\u02bc\u00ed Faith. The architect by Fariborz Sahba, and the structural engineers were Karban and Co. from Haifa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TerracesBenGurion2.jpg",
         "url": "https://en.wikipedia.org/wiki/Terraces_(Bah%C3%A1%CA%BC%C3%AD)",
         "coordinates": {
@@ -62,7 +62,7 @@
       "name": "Yad Vashem",
       "writeup": "Israel's official memorial to the victims of the Holocaust, located in Jerusalem.",
       "wiki": {
-        "extract": "Yad Vashem is Israel's official memorial institution to the victims of the Holocaust, known in Hebrew as the Shoah (שואה). It is dedicated to preserving the memory of the Jews who were murdered; echoing the stories of the survivors; honoring Jews who fought against their Nazi oppressors and gentiles who selflessly aided Jews in need; and researching the phenomenon of the Holocaust in particular and genocide in general, with the aim of avoiding such events in the future. Yad Vashem's vision, as stated on its website, is: \"To lead the documentation, research, education and commemoration of the Holocaust, and to convey the chronicles of this singular Jewish and human event to every person in Israel, to the Jewish people, and to every significant and relevant audience worldwide.\"",
+        "extract": "Yad Vashem is Israel's official memorial institution to the victims of the Holocaust, known in Hebrew as the Shoah (\u05e9\u05d5\u05d0\u05d4). It is dedicated to preserving the memory of the Jews who were murdered; echoing the stories of the survivors; honoring Jews who fought against their Nazi oppressors and gentiles who selflessly aided Jews in need; and researching the phenomenon of the Holocaust in particular and genocide in general, with the aim of avoiding such events in the future. Yad Vashem's vision, as stated on its website, is: \"To lead the documentation, research, education and commemoration of the Holocaust, and to convey the chronicles of this singular Jewish and human event to every person in Israel, to the Jewish people, and to every significant and relevant audience worldwide.\"",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yad_Vashem_Logo.svg/960px-Yad_Vashem_Logo.svg.png",
         "url": "https://en.wikipedia.org/wiki/Yad_Vashem",
         "coordinates": {
@@ -177,5 +177,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AIsrael_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 158.71,
+      "gross_debt_pct_gdp": 77.7,
+      "gross_debt_usd_billion": 123.31,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 184.45,
+      "gross_debt_pct_gdp": 70.8,
+      "gross_debt_usd_billion": 130.59,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 220.95,
+      "gross_debt_pct_gdp": 70.2,
+      "gross_debt_usd_billion": 155.11,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 213.11,
+      "gross_debt_pct_gdp": 72.6,
+      "gross_debt_usd_billion": 154.72,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 239.37,
+      "gross_debt_pct_gdp": 69,
+      "gross_debt_usd_billion": 165.17,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 267.74,
+      "gross_debt_pct_gdp": 67.2,
+      "gross_debt_usd_billion": 179.92,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 263.17,
+      "gross_debt_pct_gdp": 66.9,
+      "gross_debt_usd_billion": 176.06,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 298.05,
+      "gross_debt_pct_gdp": 66,
+      "gross_debt_usd_billion": 196.71,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 314.38,
+      "gross_debt_pct_gdp": 65.8,
+      "gross_debt_usd_billion": 206.86,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 302.84,
+      "gross_debt_pct_gdp": 62.8,
+      "gross_debt_usd_billion": 190.18,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 321.08,
+      "gross_debt_pct_gdp": 61.7,
+      "gross_debt_usd_billion": 198.11,
+      "inflation_cpi_pct": -0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 357.36,
+      "gross_debt_pct_gdp": 59.8,
+      "gross_debt_usd_billion": 213.7,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 375.47,
+      "gross_debt_pct_gdp": 60.1,
+      "gross_debt_usd_billion": 225.66,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 399.21,
+      "gross_debt_pct_gdp": 59.3,
+      "gross_debt_usd_billion": 236.73,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 410.91,
+      "gross_debt_pct_gdp": 71.1,
+      "gross_debt_usd_billion": 292.16,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 489.74,
+      "gross_debt_pct_gdp": 67.7,
+      "gross_debt_usd_billion": 331.55,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 525.16,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 316.67,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 513.39,
+      "gross_debt_pct_gdp": 61.3,
+      "gross_debt_usd_billion": 314.71,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 542.28,
+      "gross_debt_pct_gdp": 67.7,
+      "gross_debt_usd_billion": 367.13,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 610.78,
+      "gross_debt_pct_gdp": 68.5,
+      "gross_debt_usd_billion": 418.38,
+      "inflation_cpi_pct": 3,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

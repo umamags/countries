@@ -25,7 +25,7 @@
       "name": "Louvre Museum",
       "writeup": "World's largest art museum, home to the Mona Lisa and vast historical collections.",
       "wiki": {
-        "extract": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory. The museum is housed in the Louvre Palace, originally built in the late 12th to 13th century under Philip II. Remnants of the Medieval Louvre fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary residence of the French kings.",
+        "extract": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory. The museum is housed in the Louvre Palace, originally built in the late 12th to 13th\u00a0century under Philip II. Remnants of the Medieval Louvre fortress are visible in the basement of the museum. Due to urban expansion, the fortress eventually lost its defensive function, and in 1546 Francis I converted it into the primary residence of the French kings.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/3840px-Louvre_Museum_Wikimedia_Commons.jpg",
         "url": "https://en.wikipedia.org/wiki/Louvre",
         "coordinates": {
@@ -51,7 +51,7 @@
       "name": "Palace of Versailles",
       "writeup": "A former royal residence famous for its opulent architecture and gardens.",
       "wiki": {
-        "extract": "The Palace of Versailles is a château and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
+        "extract": "The Palace of Versailles is a ch\u00e2teau and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg/3840px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
         "coordinates": {
@@ -64,7 +64,7 @@
       "name": "Notre-Dame Cathedral",
       "writeup": "A masterpiece of Gothic architecture located in Paris, renowned for its stained glass and sculptures.",
       "wiki": {
-        "extract": "On 15 April 2019, at 18:18 CEST, a structural fire broke out in the roof space of Notre-Dame de Paris, a medieval Catholic cathedral in Paris, France, part of the \"Paris, Banks of the Seine\" UNESCO World Heritage Site.",
+        "extract": "On 15 April 2019, at 18:18\u00a0CEST, a structural fire broke out in the roof space of Notre-Dame de Paris, a medieval Catholic cathedral in Paris, France, part of the \"Paris, Banks of the Seine\" UNESCO World Heritage Site.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Incendie_Notre_Dame_de_Paris.jpg",
         "url": "https://en.wikipedia.org/wiki/Notre-Dame_fire",
         "coordinates": {
@@ -80,7 +80,7 @@
       "name": "Bastille Day",
       "writeup": "National day on July 14th commemorating the French Revolution with parades and fireworks.",
       "wiki": {
-        "extract": "Bastille Day is the common name given in English-speaking countries to the national day of France, which is celebrated on 14 July each year. It is referred to, both legally and commonly, as le 14 juillet in French, though la fête nationale is also used in the press.",
+        "extract": "Bastille Day is the common name given in English-speaking countries to the national day of France, which is celebrated on 14 July each year. It is referred to, both legally and commonly, as le 14 juillet in French, though la f\u00eate nationale is also used in the press.",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Feu_d%27artifice_du_14_juillet_2017_depuis_le_champ_de_Mars_%C3%A0_Paris%2C_devant_la_Tour_Eiffel%2C_Bastille_day_2017_%2835118978683%29.jpg/3840px-Feu_d%27artifice_du_14_juillet_2017_depuis_le_champ_de_Mars_%C3%A0_Paris%2C_devant_la_Tour_Eiffel%2C_Bastille_day_2017_%2835118978683%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Bastille_Day"
       }
@@ -89,7 +89,7 @@
       "name": "Cannes Film Festival",
       "writeup": "An internationally acclaimed film festival showcasing new films from around the world.",
       "wiki": {
-        "extract": "The Cannes Film Festival is considered the most prestigious film festival in the world. Held in Cannes, France, it previews new films of all genres, including documentaries. Founded in 1946, the invitation-only festival is held annually at the Palais des Festivals et des Congrès. The festival was formally accredited by the FIAPF in 1951. Cannes is considered one of the \"Big Three\" European film festivals, alongside Venice and Berlin, as well as one of the \"Big Five\" international film festivals, alongside Venice, Berlin, Toronto and Sundance.",
+        "extract": "The Cannes Film Festival is considered the most prestigious film festival in the world. Held in Cannes, France, it previews new films of all genres, including documentaries. Founded in 1946, the invitation-only festival is held annually at the Palais des Festivals et des Congr\u00e8s. The festival was formally accredited by the FIAPF in 1951. Cannes is considered one of the \"Big Three\" European film festivals, alongside Venice and Berlin, as well as one of the \"Big Five\" international film festivals, alongside Venice, Berlin, Toronto and Sundance.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Patchwork-Cannes-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Cannes_Film_Festival"
       }
@@ -98,7 +98,7 @@
       "name": "Tour de France",
       "writeup": "The world's most famous cycling race held annually across various regions of France.",
       "wiki": {
-        "extract": "The Tour de France is an annual men's multiple-stage road cycling race held primarily in France. It is the oldest and most prestigious of the three Grand Tours, which include the Giro d'Italia and the Vuelta a España.",
+        "extract": "The Tour de France is an annual men's multiple-stage road cycling race held primarily in France. It is the oldest and most prestigious of the three Grand Tours, which include the Giro d'Italia and the Vuelta a Espa\u00f1a.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tour_de_France_logo_%28black_background%29.svg/120px-Tour_de_France_logo_%28black_background%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Tour_de_France"
       }
@@ -113,10 +113,10 @@
       }
     },
     {
-      "name": "Fête de la Musique",
+      "name": "F\u00eate de la Musique",
       "writeup": "A nationwide music celebration held on June 21st promoting live music in public spaces.",
       "wiki": {
-        "extract": "The Fête de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
+        "extract": "The F\u00eate de la Musique, also known in English as Music Day, Make Music Day, or World Music Day, is an annual music celebration which usually takes place in mid-June. On Music Day, citizens and residents are urged to play music outside, in their neighborhoods or in public spaces and parks. Free concerts are also organized, where musicians play for fun.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Raga_du_soir_au_Coll%C3%A8ge_des_Bernardins_%284730079050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique"
       }
@@ -191,5 +191,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AFrance-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 2317.99,
+      "gross_debt_pct_gdp": 65.4,
+      "gross_debt_usd_billion": 1515.96,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 2656.13,
+      "gross_debt_pct_gdp": 65.5,
+      "gross_debt_usd_billion": 1739.77,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 2926.48,
+      "gross_debt_pct_gdp": 69.8,
+      "gross_debt_usd_billion": 2042.69,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 2697.14,
+      "gross_debt_pct_gdp": 84.1,
+      "gross_debt_usd_billion": 2268.3,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 2648.39,
+      "gross_debt_pct_gdp": 86.3,
+      "gross_debt_usd_billion": 2285.56,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 2869.9,
+      "gross_debt_pct_gdp": 88.7,
+      "gross_debt_usd_billion": 2545.6,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 2684.71,
+      "gross_debt_pct_gdp": 91.7,
+      "gross_debt_usd_billion": 2461.88,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 2816.12,
+      "gross_debt_pct_gdp": 94.6,
+      "gross_debt_usd_billion": 2664.05,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 2861.97,
+      "gross_debt_pct_gdp": 96.2,
+      "gross_debt_usd_billion": 2753.22,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 2442.73,
+      "gross_debt_pct_gdp": 97,
+      "gross_debt_usd_billion": 2369.45,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2469.73,
+      "gross_debt_pct_gdp": 98.1,
+      "gross_debt_usd_billion": 2422.8,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2587.95,
+      "gross_debt_pct_gdp": 98.8,
+      "gross_debt_usd_billion": 2556.9,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 2782.84,
+      "gross_debt_pct_gdp": 98.5,
+      "gross_debt_usd_billion": 2741.1,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 2723.09,
+      "gross_debt_pct_gdp": 98.2,
+      "gross_debt_usd_billion": 2674.08,
+      "inflation_cpi_pct": 1.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 2645.81,
+      "gross_debt_pct_gdp": 114.9,
+      "gross_debt_usd_billion": 3040.03,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 2968.41,
+      "gross_debt_pct_gdp": 112.8,
+      "gross_debt_usd_billion": 3348.36,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 2796.99,
+      "gross_debt_pct_gdp": 111.4,
+      "gross_debt_usd_billion": 3115.84,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 3061.09,
+      "gross_debt_pct_gdp": 109.6,
+      "gross_debt_usd_billion": 3354.96,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 3161.04,
+      "gross_debt_pct_gdp": 113.2,
+      "gross_debt_usd_billion": 3578.3,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 3368.93,
+      "gross_debt_pct_gdp": 116,
+      "gross_debt_usd_billion": 3907.95,
+      "inflation_cpi_pct": 0.9,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

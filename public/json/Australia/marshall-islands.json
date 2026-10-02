@@ -13,7 +13,7 @@
       "name": "Bikini Atoll",
       "writeup": "A UNESCO World Heritage site known for nuclear testing by the US in the mid-20th century and now a diving destination.",
       "wiki": {
-        "extract": "Bikini Atoll, known as Eschscholtz Atoll between the 19th century and 1946, is a coral reef in the Marshall Islands consisting of 23 islands surrounding a 229.4-square-mile (594.1 km2) central lagoon. The atoll is at the northern end of the Ralik Chain, approximately 530 miles (850 km) northwest of the capital Majuro.",
+        "extract": "Bikini Atoll, known as Eschscholtz Atoll between the 19th century and 1946, is a coral reef in the Marshall Islands consisting of 23 islands surrounding a 229.4-square-mile (594.1\u00a0km2) central lagoon. The atoll is at the northern end of the Ralik Chain, approximately 530 miles (850\u00a0km) northwest of the capital Majuro.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png",
         "url": "https://en.wikipedia.org/wiki/Bikini_Atoll",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Arno Atoll",
       "writeup": "Famous for traditional Marshallese navigation and canoe building.",
       "wiki": {
-        "extract": "Arno Atoll is a coral atoll of 133 islands in the Pacific Ocean, and forms a legislative district of the Ratak Chain of the Marshall Islands. Its total land area is only 5 square miles (13 km2). Unlike most other atolls, Arno encloses three different lagoons, a large central one, and two smaller ones in the north and east. Its main lagoon encloses an area of 130.77 square miles (338.7 km2). At a distance of only 20 kilometers (12 mi), it is the closest atoll to the Marshall Islands capital, Majuro Atoll, and can be seen looking east from Majuro on a clear day at low tide. The population of Arno Atoll was 1,141 at the 2021 census. The most populous islets are Ajeltokrok, Kobjeltak, Rearlaplap, Langor and Tutu. The largest village is Ine, Arno.",
+        "extract": "Arno Atoll is a coral atoll of 133 islands in the Pacific Ocean, and forms a legislative district of the Ratak Chain of the Marshall Islands. Its total land area is only 5 square miles (13\u00a0km2). Unlike most other atolls, Arno encloses three different lagoons, a large central one, and two smaller ones in the north and east. Its main lagoon encloses an area of 130.77 square miles (338.7\u00a0km2). At a distance of only 20 kilometers (12\u00a0mi), it is the closest atoll to the Marshall Islands capital, Majuro Atoll, and can be seen looking east from Majuro on a clear day at low tide. The population of Arno Atoll was 1,141 at the 2021 census. The most populous islets are Ajeltokrok, Kobjeltak, Rearlaplap, Langor and Tutu. The largest village is Ine, Arno.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/ArnoAtoll_ASTER_2002jul25.jpg",
         "url": "https://en.wikipedia.org/wiki/Arno_Atoll",
         "coordinates": null
@@ -36,7 +36,7 @@
       "name": "Laura Beach",
       "writeup": "A popular beach on Majuro Atoll known for its white sand and clear waters.",
       "wiki": {
-        "extract": "Laura is an island town situated in Marshall Islands. It is located in the west of Majuro Atoll. At approximately 10 feet (3.0 m) above sea level, Laura has the highest elevation of any islands in the Majuro Atoll. Marshall Islands International Airport is located on the island of Laura. A road connects the island of Laura to Djarrit. Much of the Majuro Atoll population relies on the freshwater lens in Laura to supply water.",
+        "extract": "Laura is an island town situated in Marshall Islands. It is located in the west of Majuro Atoll. At approximately 10 feet (3.0\u00a0m) above sea level, Laura has the highest elevation of any islands in the Majuro Atoll. Marshall Islands International Airport is located on the island of Laura. A road connects the island of Laura to Djarrit. Much of the Majuro Atoll population relies on the freshwater lens in Laura to supply water.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Laura_beach_n_tree_%28170671778%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Laura%2C_Marshall_Islands",
         "coordinates": {
@@ -107,5 +107,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Marshall_Islands.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 0.14,
+      "gross_debt_pct_gdp": 44.4,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 0.15,
+      "gross_debt_pct_gdp": 42.2,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 0.15,
+      "gross_debt_pct_gdp": 44.1,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 14.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 0.15,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 0.16,
+      "gross_debt_pct_gdp": 38.8,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 0.17,
+      "gross_debt_pct_gdp": 35.9,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 5.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 0.18,
+      "gross_debt_pct_gdp": 37.6,
+      "gross_debt_usd_billion": 0.07,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 0.19,
+      "gross_debt_pct_gdp": 33.4,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 0.19,
+      "gross_debt_pct_gdp": 34.9,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 0.18,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": -2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 0.2,
+      "gross_debt_pct_gdp": 29.2,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": -1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 0.21,
+      "gross_debt_pct_gdp": 26.5,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 0.22,
+      "gross_debt_pct_gdp": 24.7,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 0.23,
+      "gross_debt_pct_gdp": 25.1,
+      "gross_debt_usd_billion": 0.06,
+      "inflation_cpi_pct": -0.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 0.24,
+      "gross_debt_pct_gdp": 21.7,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 0.26,
+      "gross_debt_pct_gdp": 19.9,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 0.26,
+      "gross_debt_pct_gdp": 19.6,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 0.26,
+      "gross_debt_pct_gdp": 18.2,
+      "gross_debt_usd_billion": 0.05,
+      "inflation_cpi_pct": 7.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 0.28,
+      "gross_debt_pct_gdp": 14.2,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 0.31,
+      "gross_debt_pct_gdp": 11.8,
+      "gross_debt_usd_billion": 0.04,
+      "inflation_cpi_pct": 5.5,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

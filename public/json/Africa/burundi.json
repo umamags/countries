@@ -14,7 +14,7 @@
       "name": "Rusizi National Park",
       "writeup": "A protected area known for its hippos, crocodiles, and diverse bird species along the Rusizi River.",
       "wiki": {
-        "extract": "Rusizi National Park is a national park in Burundi, next to the Rusizi River.\nIt is 15 km north of the city of Bujumbura and home to hippopotamuses and sitatungas. Gustave, a Nile crocodile, is rumored to have killed 300 people here.",
+        "extract": "Rusizi National Park is a national park in Burundi, next to the Rusizi River.\nIt is 15\u00a0km north of the city of Bujumbura and home to hippopotamuses and sitatungas. Gustave, a Nile crocodile, is rumored to have killed 300 people here.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rusizi_NP_hippopotamus.jpg",
         "url": "https://en.wikipedia.org/wiki/Rusizi_National_Park",
         "coordinates": null
@@ -24,7 +24,7 @@
       "name": "Gishora Drum Sanctuary",
       "writeup": "A cultural site preserving the traditional Burundian drumming heritage, central to national identity.",
       "wiki": {
-        "extract": "The field of Gishora is located approximately 7 km north of the city of Gitega, in the Gitega Province of Burundi. It houses a royal palace and royal field.",
+        "extract": "The field of Gishora is located approximately 7\u00a0km north of the city of Gitega, in the Gitega Province of Burundi. It houses a royal palace and royal field.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Gishora",
         "coordinates": null
@@ -34,7 +34,7 @@
       "name": "Lake Tanganyika",
       "writeup": "One of the African Great Lakes, it is the second deepest freshwater lake in the world and vital for fishing.",
       "wiki": {
-        "extract": "Lake Tanganyika is an African Great Lake. It is the world's second-largest freshwater lake by volume and the second deepest, in both cases after Lake Baikal in Siberia. It is the world's longest freshwater lake. It is also the 6th largest lake by area. The lake is shared among four countries—Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia—with Tanzania (46%) and the DRC (40%) possessing the majority of the lake. It drains via the Lukuga River into the Congo River system, which ultimately discharges at Banana, Democratic Republic of the Congo into the Atlantic Ocean.",
+        "extract": "Lake Tanganyika is an African Great Lake. It is the world's second-largest freshwater lake by volume and the second deepest, in both cases after Lake Baikal in Siberia. It is the world's longest freshwater lake. It is also the 6th largest lake by area. The lake is shared among four countries\u2014Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia\u2014with Tanzania (46%) and the DRC (40%) possessing the majority of the lake. It drains via the Lukuga River into the Congo River system, which ultimately discharges at Banana, Democratic Republic of the Congo into the Atlantic Ocean.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/STS51G-034-0012_Lake_Tanganyika_June1985.jpg/3840px-STS51G-034-0012_Lake_Tanganyika_June1985.jpg",
         "url": "https://en.wikipedia.org/wiki/Lake_Tanganyika",
         "coordinates": {
@@ -44,7 +44,7 @@
       }
     }
   ],
-  "head_of_state": "President Évariste Ndayishimiye",
+  "head_of_state": "President \u00c9variste Ndayishimiye",
   "cultural_events": [
     {
       "name": "Umuganuro Festival",
@@ -77,7 +77,7 @@
       "description": "Former president (2005-2020)"
     },
     {
-      "name": "Évariste Ndayishimiye",
+      "name": "\u00c9variste Ndayishimiye",
       "description": "Current president"
     }
   ],
@@ -108,5 +108,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ABurundi_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1.27,
+      "gross_debt_pct_gdp": 130.3,
+      "gross_debt_usd_billion": 1.66,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1.36,
+      "gross_debt_pct_gdp": 129.6,
+      "gross_debt_usd_billion": 1.76,
+      "inflation_cpi_pct": 8.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1.61,
+      "gross_debt_pct_gdp": 102.5,
+      "gross_debt_usd_billion": 1.65,
+      "inflation_cpi_pct": 24.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1.77,
+      "gross_debt_pct_gdp": 25.7,
+      "gross_debt_usd_billion": 0.46,
+      "inflation_cpi_pct": 10.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 2.03,
+      "gross_debt_pct_gdp": 46.9,
+      "gross_debt_usd_billion": 0.95,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 2.24,
+      "gross_debt_pct_gdp": 42.7,
+      "gross_debt_usd_billion": 0.95,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 2.33,
+      "gross_debt_pct_gdp": 41.4,
+      "gross_debt_usd_billion": 0.97,
+      "inflation_cpi_pct": 18.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 2.46,
+      "gross_debt_pct_gdp": 37.9,
+      "gross_debt_usd_billion": 0.93,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 2.71,
+      "gross_debt_pct_gdp": 38,
+      "gross_debt_usd_billion": 1.03,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 3.1,
+      "gross_debt_pct_gdp": 39.9,
+      "gross_debt_usd_billion": 1.24,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 2.96,
+      "gross_debt_pct_gdp": 46.1,
+      "gross_debt_usd_billion": 1.36,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 3.17,
+      "gross_debt_pct_gdp": 46.9,
+      "gross_debt_usd_billion": 1.49,
+      "inflation_cpi_pct": 15.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 3.04,
+      "gross_debt_pct_gdp": 53,
+      "gross_debt_usd_billion": 1.61,
+      "inflation_cpi_pct": -2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 3.01,
+      "gross_debt_pct_gdp": 60.1,
+      "gross_debt_usd_billion": 1.81,
+      "inflation_cpi_pct": -0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 3.09,
+      "gross_debt_pct_gdp": 65.9,
+      "gross_debt_usd_billion": 2.04,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 3.36,
+      "gross_debt_pct_gdp": 63.6,
+      "gross_debt_usd_billion": 2.13,
+      "inflation_cpi_pct": 8.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 3.92,
+      "gross_debt_pct_gdp": 69.8,
+      "gross_debt_usd_billion": 2.74,
+      "inflation_cpi_pct": 18.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 4.29,
+      "gross_debt_pct_gdp": 59.9,
+      "gross_debt_usd_billion": 2.57,
+      "inflation_cpi_pct": 27.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 4.84,
+      "gross_debt_pct_gdp": 53.1,
+      "gross_debt_usd_billion": 2.57,
+      "inflation_cpi_pct": 20.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 6.92,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 2.85,
+      "inflation_cpi_pct": 34.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

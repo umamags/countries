@@ -12,7 +12,7 @@
       "name": "Vilnius Old Town",
       "writeup": "A UNESCO World Heritage site known for its well-preserved medieval architecture and vibrant cultural scene.",
       "wiki": {
-        "extract": "The Old Town of Vilnius, one of the largest surviving medieval old towns in Northern Europe, as inscribed within UNESCO World Heritage Sites, has an area of 3.59 square kilometres. It encompasses 74 quarters, with 70 streets and lanes numbering 1487 buildings with a total floor area of 1,497,000 square meters. The administrative division of the Old Town is a larger territory and comprises more than 4.5 square kilometres. It was founded by the Lithuanian Grand Duke and King of Poland Jogaila in 1387 on the Magdeburg rights the oldest part of the Lithuanian capital of Vilnius, it had been developed over the course of many centuries, and has been shaped by the city's history and a constantly changing cultural influence. It is a place where some of Europe's greatest architectural styles—gothic, renaissance, baroque and neoclassical—stand side by side and complement each other. There are many Catholic, Lutheran and Orthodox churches, residential houses, cultural and architectural monuments, museums in the Old Town.",
+        "extract": "The Old Town of Vilnius, one of the largest surviving medieval old towns in Northern Europe, as inscribed within UNESCO World Heritage Sites, has an area of 3.59 square kilometres. It encompasses 74 quarters, with 70 streets and lanes numbering 1487 buildings with a total floor area of 1,497,000 square meters. The administrative division of the Old Town is a larger territory and comprises more than 4.5 square kilometres. It was founded by the Lithuanian Grand Duke and King of Poland Jogaila in 1387 on the Magdeburg rights the oldest part of the Lithuanian capital of Vilnius, it had been developed over the course of many centuries, and has been shaped by the city's history and a constantly changing cultural influence. It is a place where some of Europe's greatest architectural styles\u2014gothic, renaissance, baroque and neoclassical\u2014stand side by side and complement each other. There are many Catholic, Lutheran and Orthodox churches, residential houses, cultural and architectural monuments, museums in the Old Town.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vilnius_old_town_by_Augustas_Didzgalvis.jpg",
         "url": "https://en.wikipedia.org/wiki/Vilnius_Old_Town",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Trakai Island Castle",
       "writeup": "A historic 14th-century castle located on an island in Lake Galvn, symbolizing Lithuania's medieval heritage.",
       "wiki": {
-        "extract": "Trakai Island Castle is an island castle located in Trakai, Lithuania, on an island in Lake Galvė. The construction of the stone castle was begun in the 14th century by Kęstutis, and around 1409 major works were completed by his son Vytautas the Great, who died in this castle in 1430. Trakai was one of the main centers of the Grand Duchy of Lithuania and the castle held great strategic importance. The castle was rebuilt in the 1950s–1960s by Lithuanian initiative, although it had received resistance from Soviet authorities. The Trakai History Museum was established after the reconstruction.",
+        "extract": "Trakai Island Castle is an island castle located in Trakai, Lithuania, on an island in Lake Galv\u0117. The construction of the stone castle was begun in the 14th century by K\u0119stutis, and around 1409 major works were completed by his son Vytautas the Great, who died in this castle in 1430. Trakai was one of the main centers of the Grand Duchy of Lithuania and the castle held great strategic importance. The castle was rebuilt in the 1950s\u20131960s by Lithuanian initiative, although it had received resistance from Soviet authorities. The Trakai History Museum was established after the reconstruction.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Trakai_castle_2016.jpg/3840px-Trakai_castle_2016.jpg",
         "url": "https://en.wikipedia.org/wiki/Trakai_Island_Castle",
         "coordinates": {
@@ -38,7 +38,7 @@
       "name": "Hill of Crosses",
       "writeup": "A pilgrimage site featuring thousands of crosses, representing Lithuanian faith and resistance.",
       "wiki": {
-        "extract": "Hill of Crosses is a site of pilgrimage about 12 km (7.5 mi) north of the city of Šiauliai, in northern Lithuania. The precise origin of the practice of leaving crosses on the hill is uncertain, but it is believed that the first crosses were placed on the former Jurgaičiai or Domantai hill fort after the 1831 Uprising. Over the generations, not only crosses and crucifixes, but statues of the Virgin Mary, carvings of Lithuanian patriots and thousands of tiny effigies and rosaries have been brought here by Catholic pilgrims. The exact number of crosses is unknown, but estimates put it at about 55,000 in 1990 and 100,000 in 2006. It is a major site of Catholic pilgrimage in Lithuania.",
+        "extract": "Hill of Crosses is a site of pilgrimage about 12\u00a0km (7.5\u00a0mi) north of the city of \u0160iauliai, in northern Lithuania. The precise origin of the practice of leaving crosses on the hill is uncertain, but it is believed that the first crosses were placed on the former Jurgai\u010diai or Domantai hill fort after the 1831 Uprising. Over the generations, not only crosses and crucifixes, but statues of the Virgin Mary, carvings of Lithuanian patriots and thousands of tiny effigies and rosaries have been brought here by Catholic pilgrims. The exact number of crosses is unknown, but estimates put it at about 55,000 in 1990 and 100,000 in 2006. It is a major site of Catholic pilgrimage in Lithuania.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG/3840px-Kry%C5%BEi%C5%B3_kalnas_%28G%C3%B3ra_Krzy%C5%BCy%29.JPG",
         "url": "https://en.wikipedia.org/wiki/Hill_of_Crosses",
         "coordinates": {
@@ -100,5 +100,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ALithuania_Physiography.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 30.14,
+      "gross_debt_pct_gdp": 17.3,
+      "gross_debt_usd_billion": 5.21,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 39.77,
+      "gross_debt_pct_gdp": 15.9,
+      "gross_debt_usd_billion": 6.32,
+      "inflation_cpi_pct": 5.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 48.0,
+      "gross_debt_pct_gdp": 14.6,
+      "gross_debt_usd_billion": 7.01,
+      "inflation_cpi_pct": 11.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 37.59,
+      "gross_debt_pct_gdp": 27.9,
+      "gross_debt_usd_billion": 10.49,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 36.69,
+      "gross_debt_pct_gdp": 36.7,
+      "gross_debt_usd_billion": 13.47,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 43.2,
+      "gross_debt_pct_gdp": 37.5,
+      "gross_debt_usd_billion": 16.2,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 42.74,
+      "gross_debt_pct_gdp": 39.9,
+      "gross_debt_usd_billion": 17.05,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 46.32,
+      "gross_debt_pct_gdp": 38.9,
+      "gross_debt_usd_billion": 18.02,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 48.39,
+      "gross_debt_pct_gdp": 40.7,
+      "gross_debt_usd_billion": 19.69,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 41.55,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 17.62,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 42.95,
+      "gross_debt_pct_gdp": 39.8,
+      "gross_debt_usd_billion": 17.09,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 47.74,
+      "gross_debt_pct_gdp": 39.1,
+      "gross_debt_usd_billion": 18.67,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 54.3,
+      "gross_debt_pct_gdp": 33.3,
+      "gross_debt_usd_billion": 18.08,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 55.13,
+      "gross_debt_pct_gdp": 35.6,
+      "gross_debt_usd_billion": 19.63,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 57.35,
+      "gross_debt_pct_gdp": 45.9,
+      "gross_debt_usd_billion": 26.32,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 67.1,
+      "gross_debt_pct_gdp": 43.3,
+      "gross_debt_usd_billion": 29.06,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 70.69,
+      "gross_debt_pct_gdp": 38.3,
+      "gross_debt_usd_billion": 27.07,
+      "inflation_cpi_pct": 18.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 80.39,
+      "gross_debt_pct_gdp": 37.1,
+      "gross_debt_usd_billion": 29.83,
+      "inflation_cpi_pct": 8.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 85.48,
+      "gross_debt_pct_gdp": 38,
+      "gross_debt_usd_billion": 32.48,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 94.93,
+      "gross_debt_pct_gdp": 39.8,
+      "gross_debt_usd_billion": 37.78,
+      "inflation_cpi_pct": 3.4,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

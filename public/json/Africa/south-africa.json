@@ -35,7 +35,7 @@
       "name": "Robben Island",
       "writeup": "Historic island prison where Nelson Mandela was held, now a museum and UNESCO World Heritage Site.",
       "wiki": {
-        "extract": "Robben Island is an island in Table Bay, 6.9 kilometres (4.3 mi) west of the coast of Bloubergstrand, north of Cape Town, South Africa. It takes its name from the archaic Dutch word for seals (robben), hence the Dutch/Afrikaans name Robbeneiland, which translates to Seal(s) Island.",
+        "extract": "Robben Island is an island in Table Bay, 6.9 kilometres (4.3\u00a0mi) west of the coast of Bloubergstrand, north of Cape Town, South Africa. It takes its name from the archaic Dutch word for seals (robben), hence the Dutch/Afrikaans name Robbeneiland, which translates to Seal(s) Island.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Robben_Island",
         "coordinates": {
@@ -48,7 +48,7 @@
       "name": "Kruger National Park",
       "writeup": "One of Africa's largest game reserves, famous for its wildlife including the Big Five.",
       "wiki": {
-        "extract": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 (7,576 sq mi) in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360 km (220 mi) from north to south and 65 km (40 mi) from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve. It is within the South Africa Standard Time Zone (GMT+2).",
+        "extract": "Kruger National Park is a national park in South Africa covering an area of 19,623\u00a0km2 (7,576\u00a0sq\u00a0mi) in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360\u00a0km (220\u00a0mi) from north to south and 65\u00a0km (40\u00a0mi) from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve. It is within the South Africa Standard Time Zone (GMT+2).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kruger_Zebra.JPG",
         "url": "https://en.wikipedia.org/wiki/Kruger_National_Park",
         "coordinates": {
@@ -74,7 +74,7 @@
       "name": "Drakensberg Mountains",
       "writeup": "Mountain range known for its dramatic peaks, hiking trails, and San rock art.",
       "wiki": {
-        "extract": "The Drakensberg is the eastern portion of the Great Escarpment, which encloses the central Southern African plateau. The Great Escarpment reaches its greatest elevation – 2,000 to 3,482 metres within the border region of South Africa and Lesotho.",
+        "extract": "The Drakensberg is the eastern portion of the Great Escarpment, which encloses the central Southern African plateau. The Great Escarpment reaches its greatest elevation \u2013 2,000 to 3,482 metres within the border region of South Africa and Lesotho.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/South_Africa_-_Drakensberg_%2816261357780%29.jpg/3840px-South_Africa_-_Drakensberg_%2816261357780%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Drakensberg",
         "coordinates": {
@@ -112,7 +112,7 @@
     }
   ],
   "food_writeup": "South African cuisine is diverse, featuring dishes like braai (barbecue), bobotie (spiced minced meat), biltong (dried cured meat), and chakalaka (spicy vegetable relish), reflecting its multicultural society.",
-  "brief_history": "South Africa has a complex history marked by indigenous cultures, Dutch and British colonization, and apartheid—a system of institutionalized racial segregation that ended in 1994 with the election of Nelson Mandela as the first black president.",
+  "brief_history": "South Africa has a complex history marked by indigenous cultures, Dutch and British colonization, and apartheid\u2014a system of institutionalized racial segregation that ended in 1994 with the election of Nelson Mandela as the first black president.",
   "important_people": [
     {
       "name": "Nelson Mandela",
@@ -186,5 +186,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Africa_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 304.06,
+      "gross_debt_pct_gdp": 28,
+      "gross_debt_usd_billion": 85.14,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 332.65,
+      "gross_debt_pct_gdp": 24.3,
+      "gross_debt_usd_billion": 80.83,
+      "inflation_cpi_pct": 7.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 316.49,
+      "gross_debt_pct_gdp": 24,
+      "gross_debt_usd_billion": 75.96,
+      "inflation_cpi_pct": 10.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 331.18,
+      "gross_debt_pct_gdp": 27,
+      "gross_debt_usd_billion": 89.42,
+      "inflation_cpi_pct": 7.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 417.31,
+      "gross_debt_pct_gdp": 31.2,
+      "gross_debt_usd_billion": 130.2,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 458.71,
+      "gross_debt_pct_gdp": 34.7,
+      "gross_debt_usd_billion": 159.17,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 434.4,
+      "gross_debt_pct_gdp": 37.4,
+      "gross_debt_usd_billion": 162.47,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 400.88,
+      "gross_debt_pct_gdp": 40.4,
+      "gross_debt_usd_billion": 161.95,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 381.19,
+      "gross_debt_pct_gdp": 43.3,
+      "gross_debt_usd_billion": 165.06,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 346.66,
+      "gross_debt_pct_gdp": 45.2,
+      "gross_debt_usd_billion": 156.69,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 323.49,
+      "gross_debt_pct_gdp": 47.1,
+      "gross_debt_usd_billion": 152.37,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 381.32,
+      "gross_debt_pct_gdp": 48.6,
+      "gross_debt_usd_billion": 185.32,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 405.09,
+      "gross_debt_pct_gdp": 51.5,
+      "gross_debt_usd_billion": 208.62,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 389.25,
+      "gross_debt_pct_gdp": 56.1,
+      "gross_debt_usd_billion": 218.37,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 337.88,
+      "gross_debt_pct_gdp": 68.9,
+      "gross_debt_usd_billion": 232.8,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 419.88,
+      "gross_debt_pct_gdp": 68.8,
+      "gross_debt_usd_billion": 288.88,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 407.43,
+      "gross_debt_pct_gdp": 70.7,
+      "gross_debt_usd_billion": 288.05,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 381.33,
+      "gross_debt_pct_gdp": 73.2,
+      "gross_debt_usd_billion": 279.14,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 401.08,
+      "gross_debt_pct_gdp": 76,
+      "gross_debt_usd_billion": 304.82,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 427.14,
+      "gross_debt_pct_gdp": 78.6,
+      "gross_debt_usd_billion": 335.73,
+      "inflation_cpi_pct": 3.2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

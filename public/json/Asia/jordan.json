@@ -22,7 +22,7 @@
       "name": "Wadi Rum",
       "writeup": "A protected desert wilderness known for its dramatic sandstone mountains and prehistoric rock art.",
       "wiki": {
-        "extract": "Wadi Rum (Arabic: وادي رم Wādī Ramm, also Wādī al-Ramm, known also as the Valley of the Moon or Red mountains, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km to the east of the city of Aqaba. With an area of 720 km2 it is the largest wadi in Jordan.",
+        "extract": "Wadi Rum (Arabic: \u0648\u0627\u062f\u064a \u0631\u0645 W\u0101d\u012b Ramm, also W\u0101d\u012b al-Ramm, known also as the Valley of the Moon or Red mountains, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60\u00a0km to the east of the city of Aqaba. With an area of 720\u00a0km2 it is the largest wadi in Jordan.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg",
         "url": "https://en.wikipedia.org/wiki/Wadi_Rum",
         "coordinates": {
@@ -138,5 +138,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AJordan_CIA_map_PL.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 17.45,
+      "gross_debt_pct_gdp": 60,
+      "gross_debt_usd_billion": 10.47,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 19.84,
+      "gross_debt_pct_gdp": 58.2,
+      "gross_debt_usd_billion": 11.54,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 25.64,
+      "gross_debt_pct_gdp": 47.9,
+      "gross_debt_usd_billion": 12.28,
+      "inflation_cpi_pct": 14,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 27.46,
+      "gross_debt_pct_gdp": 51.8,
+      "gross_debt_usd_billion": 14.23,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 30.2,
+      "gross_debt_pct_gdp": 53.4,
+      "gross_debt_usd_billion": 16.13,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 32.64,
+      "gross_debt_pct_gdp": 56.1,
+      "gross_debt_usd_billion": 18.31,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 34.9,
+      "gross_debt_pct_gdp": 64,
+      "gross_debt_usd_billion": 22.34,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 37.93,
+      "gross_debt_pct_gdp": 68.8,
+      "gross_debt_usd_billion": 26.09,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 40.59,
+      "gross_debt_pct_gdp": 68.2,
+      "gross_debt_usd_billion": 27.68,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 42.45,
+      "gross_debt_pct_gdp": 71.4,
+      "gross_debt_usd_billion": 30.31,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 43.75,
+      "gross_debt_pct_gdp": 70.7,
+      "gross_debt_usd_billion": 30.93,
+      "inflation_cpi_pct": -0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 45.6,
+      "gross_debt_pct_gdp": 69.1,
+      "gross_debt_usd_billion": 31.51,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 47.5,
+      "gross_debt_pct_gdp": 67.9,
+      "gross_debt_usd_billion": 32.25,
+      "inflation_cpi_pct": 4.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 48.71,
+      "gross_debt_pct_gdp": 69.4,
+      "gross_debt_usd_billion": 33.8,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 48,
+      "gross_debt_pct_gdp": 77.9,
+      "gross_debt_usd_billion": 37.39,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 50.77,
+      "gross_debt_pct_gdp": 79.9,
+      "gross_debt_usd_billion": 40.57,
+      "inflation_cpi_pct": 1.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 53.59,
+      "gross_debt_pct_gdp": 80.7,
+      "gross_debt_usd_billion": 43.25,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 56.2,
+      "gross_debt_pct_gdp": 81,
+      "gross_debt_usd_billion": 45.52,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 58.7,
+      "gross_debt_pct_gdp": 82.1,
+      "gross_debt_usd_billion": 48.19,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 61.69,
+      "gross_debt_pct_gdp": 82.8,
+      "gross_debt_usd_billion": 51.08,
+      "inflation_cpi_pct": 1.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

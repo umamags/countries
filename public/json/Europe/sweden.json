@@ -12,7 +12,7 @@
       "name": "Vasa Museum",
       "writeup": "A maritime museum in Stockholm displaying the 17th-century warship Vasa, which sank on its maiden voyage.",
       "wiki": {
-        "extract": "The Vasa Museum is a maritime museum in Stockholm, Sweden. Located on the island of Djurgården, the museum displays the only almost fully intact 17th-century ship that has ever been salvaged, the 64-gun warship Vasa that sank on her maiden voyage in 1628. The Vasa Museum opened in 1990. Together with other museums such as the Stockholm Maritime Museum, it belongs to the Swedish National Maritime-, Transport-, and Military Museums.",
+        "extract": "The Vasa Museum is a maritime museum in Stockholm, Sweden. Located on the island of Djurg\u00e5rden, the museum displays the only almost fully intact 17th-century ship that has ever been salvaged, the 64-gun warship Vasa that sank on her maiden voyage in 1628. The Vasa Museum opened in 1990. Together with other museums such as the Stockholm Maritime Museum, it belongs to the Swedish National Maritime-, Transport-, and Military Museums.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg/3840px-Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg",
         "url": "https://en.wikipedia.org/wiki/Vasa_Museum",
         "coordinates": {
@@ -25,7 +25,7 @@
       "name": "Gamla Stan",
       "writeup": "The old town of Stockholm, known for its medieval alleyways, cobbled streets, and historic architecture.",
       "wiki": {
-        "extract": "Gamla Stan, until 1980 officially Staden mellan broarna, is the old town of Stockholm, Sweden. Gamla Stan consists primarily of the island Stadsholmen. Gamla Stan includes the surrounding islets Riddarholmen, Helgeandsholmen and Strömsborg. It has a population of approximately 3,000.",
+        "extract": "Gamla Stan, until 1980 officially Staden mellan broarna, is the old town of Stockholm, Sweden. Gamla Stan consists primarily of the island Stadsholmen. Gamla Stan includes the surrounding islets Riddarholmen, Helgeandsholmen and Str\u00f6msborg. It has a population of approximately 3,000.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gamla_stan_September_2014_01.jpg/3840px-Gamla_stan_September_2014_01.jpg",
         "url": "https://en.wikipedia.org/wiki/Gamla_Stan",
         "coordinates": {
@@ -49,9 +49,9 @@
     },
     {
       "name": "Icehotel",
-      "writeup": "A unique hotel in Jukkasjärvi made entirely of ice and snow, rebuilt annually.",
+      "writeup": "A unique hotel in Jukkasj\u00e4rvi made entirely of ice and snow, rebuilt annually.",
       "wiki": {
-        "extract": "The Icehotel is a hotel in northern Sweden, about 17 kilometers from Kiruna. It is rebuilt each year with snow and ice in the village of Jukkasjärvi and is the world's first ice hotel.",
+        "extract": "The Icehotel is a hotel in northern Sweden, about 17 kilometers from Kiruna. It is rebuilt each year with snow and ice in the village of Jukkasj\u00e4rvi and is the world's first ice hotel.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ICEHOTEL_Main_Hall_%282014%29_by_Alessandro_Falca_%26_AnnaSofia_M%C3%A5%C3%A5g.jpg",
         "url": "https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)",
         "coordinates": {
@@ -80,7 +80,7 @@
       "name": "Midsummer",
       "writeup": "A major Swedish celebration marking the summer solstice with dancing, singing, and traditional foods.",
       "wiki": {
-        "extract": "Midsummer or Midsommar is a celebration of the season of summer, taking place on or near the date of the summer solstice in the Northern Hemisphere, the longest day of the year. The name midsummer mainly refers to summer solstice festivals of European origin. These cultures traditionally regard it as the middle of summer, with the season beginning on May Day. Although the summer solstice falls on 20, 21 or 22 June in the Northern Hemisphere, it was traditionally reckoned to fall on 23–24 June in much of Europe. These dates were Christianized as Saint John's Eve and Saint John's Day. It is usually celebrated with outdoor gatherings that include bonfires, maypole dancing and feasting.",
+        "extract": "Midsummer or Midsommar is a celebration of the season of summer, taking place on or near the date of the summer solstice in the Northern Hemisphere, the longest day of the year. The name midsummer mainly refers to summer solstice festivals of European origin. These cultures traditionally regard it as the middle of summer, with the season beginning on May Day. Although the summer solstice falls on 20, 21 or 22 June in the Northern Hemisphere, it was traditionally reckoned to fall on 23\u201324 June in much of Europe. These dates were Christianized as Saint John's Eve and Saint John's Day. It is usually celebrated with outdoor gatherings that include bonfires, maypole dancing and feasting.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg/3840px-Mittsommerfest_in_Norwegen%2C_Insel_Tysnes_IMG_4425WI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Midsummer"
       }
@@ -89,7 +89,7 @@
       "name": "Walpurgis Night",
       "writeup": "A spring festival celebrated with bonfires and singing to welcome the arrival of spring.",
       "wiki": {
-        "extract": "Walpurgis Night, an abbreviation of Saint Walpurgis Night, also known as Saint Walpurga's Eve and Walpurgisnacht, is the eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, and is celebrated on the night of 30 April and the day of 1 May. This feast commemorates the canonization of Saint Walpurga and the movement of her relics to Eichstätt, both of which occurred on 1 May 870.",
+        "extract": "Walpurgis Night, an abbreviation of Saint Walpurgis Night, also known as Saint Walpurga's Eve and Walpurgisnacht, is the eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, and is celebrated on the night of 30 April and the day of 1 May. This feast commemorates the canonization of Saint Walpurga and the movement of her relics to Eichst\u00e4tt, both of which occurred on 1 May 870.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thingst%C3%A4tte_Heidelberg_Walpurgisnacht_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Walpurgis_Night"
       }
@@ -144,7 +144,7 @@
       "lon": 18.095389
     },
     {
-      "name": "Malmö",
+      "name": "Malm\u00f6",
       "capital": false,
       "lat": 55.583337,
       "lon": 13.033302
@@ -156,7 +156,7 @@
       "lon": 17.316659
     },
     {
-      "name": "Luleå",
+      "name": "Lule\u00e5",
       "capital": false,
       "lat": 65.596635,
       "lon": 22.158378
@@ -167,5 +167,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Sweden.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 422.53,
+      "gross_debt_pct_gdp": 43.8,
+      "gross_debt_usd_billion": 185.07,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 490.05,
+      "gross_debt_pct_gdp": 39.2,
+      "gross_debt_usd_billion": 192.1,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 514.61,
+      "gross_debt_pct_gdp": 37.9,
+      "gross_debt_usd_billion": 195.04,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 434.31,
+      "gross_debt_pct_gdp": 41.2,
+      "gross_debt_usd_billion": 178.94,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 492.75,
+      "gross_debt_pct_gdp": 38.6,
+      "gross_debt_usd_billion": 190.2,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 570.54,
+      "gross_debt_pct_gdp": 37.7,
+      "gross_debt_usd_billion": 215.09,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 549.74,
+      "gross_debt_pct_gdp": 38,
+      "gross_debt_usd_billion": 208.9,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 584.12,
+      "gross_debt_pct_gdp": 40.8,
+      "gross_debt_usd_billion": 238.32,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 577.73,
+      "gross_debt_pct_gdp": 45.7,
+      "gross_debt_usd_billion": 264.02,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 501.6,
+      "gross_debt_pct_gdp": 44.5,
+      "gross_debt_usd_billion": 223.21,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 513.06,
+      "gross_debt_pct_gdp": 42.9,
+      "gross_debt_usd_billion": 220.1,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 535.17,
+      "gross_debt_pct_gdp": 41.6,
+      "gross_debt_usd_billion": 222.63,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 549.65,
+      "gross_debt_pct_gdp": 39.9,
+      "gross_debt_usd_billion": 219.31,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 530.89,
+      "gross_debt_pct_gdp": 35.8,
+      "gross_debt_usd_billion": 190.06,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 544.27,
+      "gross_debt_pct_gdp": 40.4,
+      "gross_debt_usd_billion": 219.88,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 631.69,
+      "gross_debt_pct_gdp": 37.3,
+      "gross_debt_usd_billion": 235.62,
+      "inflation_cpi_pct": 2.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 575.07,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 196.67,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 578.99,
+      "gross_debt_pct_gdp": 32.1,
+      "gross_debt_usd_billion": 185.86,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 604.83,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 205.04,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 669.0,
+      "gross_debt_pct_gdp": 34.9,
+      "gross_debt_usd_billion": 233.48,
+      "inflation_cpi_pct": 2.6,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

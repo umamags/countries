@@ -36,7 +36,7 @@
       "name": "Jean P. Haydon Museum",
       "writeup": "A museum dedicated to preserving and showcasing the cultural and historical heritage of American Samoa.",
       "wiki": {
-        "extract": "The Jean P. Haydon Museum is a museum in Pago Pago dedicated to the culture and history of the United States territory of American Samoa. It contains a collection of canoes, coconut-shell combs, pigs’ tusk armlets and native pharmacopoeia. It also houses exhibits on natural history, tapa making, traditional tattooing, as well as a collection of war clubs, kava bowls, and historic photographs. Constructed in 1913 as U.S. Naval Station Tutuila Commissary, the building was home to Tutuila Island's Post Office from 1950 to 1971. The museum has displays of various aspects of the Samoan Islands’ culture and history. It is the official repository for collections of artifacts for American Samoa. Funded by the American Samoa Council on Arts, Culture and the Humanities, it is the venue used for numerous of the cultural resource activities in American Samoa.",
+        "extract": "The Jean P. Haydon Museum is a museum in Pago Pago dedicated to the culture and history of the United States territory of American Samoa. It contains a collection of canoes, coconut-shell combs, pigs\u2019 tusk armlets and native pharmacopoeia. It also houses exhibits on natural history, tapa making, traditional tattooing, as well as a collection of war clubs, kava bowls, and historic photographs. Constructed in 1913 as U.S. Naval Station Tutuila Commissary, the building was home to Tutuila Island's Post Office from 1950 to 1971. The museum has displays of various aspects of the Samoan Islands\u2019 culture and history. It is the official repository for collections of artifacts for American Samoa. Funded by the American Samoa Council on Arts, Culture and the Humanities, it is the venue used for numerous of the cultural resource activities in American Samoa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jean_p_haydon_museum.png",
         "url": "https://en.wikipedia.org/wiki/Jean_P._Haydon_Museum",
         "coordinates": {
@@ -52,7 +52,7 @@
       "name": "Ava Ceremony",
       "writeup": "A traditional Samoan ritual involving the preparation and drinking of ava (kava), symbolizing respect and social hierarchy.",
       "wiki": {
-        "extract": "The ʻava ceremony is one of the most important customs of the Samoa Islands and Tonga to an extent. It is a solemn ritual in which a ceremonial beverage is shared to mark important occasions in Samoan society. The Samoan word ʻava is a cognate of the Polynesian word kava associated with the kava cultures in Oceania. Both terms are understood in Samoa.",
+        "extract": "The \u02bbava ceremony is one of the most important customs of the Samoa Islands and Tonga to an extent. It is a solemn ritual in which a ceremonial beverage is shared to mark important occasions in Samoan society. The Samoan word \u02bbava is a cognate of the Polynesian word kava associated with the kava cultures in Oceania. Both terms are understood in Samoa.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Samoan_%27ava_ceremony%2C_c._1900-1930_unknown_photographer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/%CA%BBAva_ceremony"
       }
@@ -110,5 +110,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AAmerican_Samoa-CIA_WFB_Map_%282023%29.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

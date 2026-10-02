@@ -40,7 +40,7 @@
       "name": "Tombs of the Kings",
       "writeup": "A large necropolis dating back to the 4th century BC, known for its underground tombs carved out of solid rock.",
       "wiki": {
-        "extract": "The Tombs of the Kings is a large necropolis about 2 kilometres (1.2 mi) north of Paphos harbour in Cyprus. In 1980, it was designated a UNESCO World Heritage Site along with Paphos and Kouklia.",
+        "extract": "The Tombs of the Kings is a large necropolis about 2 kilometres (1.2\u00a0mi) north of Paphos harbour in Cyprus. In 1980, it was designated a UNESCO World Heritage Site along with Paphos and Kouklia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tombs_of_the_Kings_%28Paphos%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Paphos)",
         "coordinates": {
@@ -63,7 +63,7 @@
       "name": "Nicosia Old City",
       "writeup": "The walled city center of the capital, featuring narrow streets, historic buildings, and the Green Line dividing north and south.",
       "wiki": {
-        "extract": "Nicosia, also known as Lefkosia or Lefkoşa, is the capital of Cyprus. It is the southeasternmost capital city among European Union member states. Its northern part is the de facto capital of Northern Cyprus.",
+        "extract": "Nicosia, also known as Lefkosia or Lefko\u015fa, is the capital of Cyprus. It is the southeasternmost capital city among European Union member states. Its northern part is the de facto capital of Northern Cyprus.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nicosia%27s_skyline_2024.jpg/3840px-Nicosia%27s_skyline_2024.jpg",
         "url": "https://en.wikipedia.org/wiki/Nicosia",
         "coordinates": {
@@ -157,5 +157,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ACyprus_CIA-WF_2010_map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 20.42,
+      "gross_debt_pct_gdp": 59,
+      "gross_debt_usd_billion": 12.05,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 24.08,
+      "gross_debt_pct_gdp": 53.1,
+      "gross_debt_usd_billion": 12.79,
+      "inflation_cpi_pct": 2.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 27.95,
+      "gross_debt_pct_gdp": 44.1,
+      "gross_debt_usd_billion": 12.33,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 26.02,
+      "gross_debt_pct_gdp": 52.8,
+      "gross_debt_usd_billion": 13.74,
+      "inflation_cpi_pct": 0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 25.82,
+      "gross_debt_pct_gdp": 55.3,
+      "gross_debt_usd_billion": 14.28,
+      "inflation_cpi_pct": 2.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 27.64,
+      "gross_debt_pct_gdp": 64.8,
+      "gross_debt_usd_billion": 17.91,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 25.06,
+      "gross_debt_pct_gdp": 79.2,
+      "gross_debt_usd_billion": 19.85,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 23.96,
+      "gross_debt_pct_gdp": 102.7,
+      "gross_debt_usd_billion": 24.61,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 23.23,
+      "gross_debt_pct_gdp": 113,
+      "gross_debt_usd_billion": 26.25,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 19.91,
+      "gross_debt_pct_gdp": 111.6,
+      "gross_debt_usd_billion": 22.22,
+      "inflation_cpi_pct": -1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 21.04,
+      "gross_debt_pct_gdp": 106.8,
+      "gross_debt_usd_billion": 22.47,
+      "inflation_cpi_pct": -1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 22.94,
+      "gross_debt_pct_gdp": 96.4,
+      "gross_debt_usd_billion": 22.11,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 25.77,
+      "gross_debt_pct_gdp": 100.7,
+      "gross_debt_usd_billion": 25.95,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 26.2,
+      "gross_debt_pct_gdp": 92.3,
+      "gross_debt_usd_billion": 24.18,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 25.54,
+      "gross_debt_pct_gdp": 113.6,
+      "gross_debt_usd_billion": 29.01,
+      "inflation_cpi_pct": -1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 30.39,
+      "gross_debt_pct_gdp": 96.5,
+      "gross_debt_usd_billion": 29.33,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 31.24,
+      "gross_debt_pct_gdp": 80.3,
+      "gross_debt_usd_billion": 25.09,
+      "inflation_cpi_pct": 8.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 35.09,
+      "gross_debt_pct_gdp": 71.1,
+      "gross_debt_usd_billion": 24.95,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 37.62,
+      "gross_debt_pct_gdp": 62.8,
+      "gross_debt_usd_billion": 23.63,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 41.02,
+      "gross_debt_pct_gdp": 55.3,
+      "gross_debt_usd_billion": 22.68,
+      "inflation_cpi_pct": 0.8,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

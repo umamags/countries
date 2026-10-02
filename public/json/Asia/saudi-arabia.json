@@ -35,7 +35,7 @@
       "name": "Diriyah",
       "writeup": "Historic town near Riyadh, birthplace of the Saudi state and a UNESCO World Heritage site.",
       "wiki": {
-        "extract": "Diriyah is a town and governorate in Saudi Arabia. Located on the northwestern outskirts of the Saudi capital, Riyadh, Diriyah was the original home of the House of Saud, and served as the capital of the Emirate of Diriyah under the first Saudi dynasty from 1727 to 1818. Today, the town is the seat of the Diriyah Governorate, which also includes the villages of Uyayna, Jubayla, and Al-Ammariyyah, among others—and is part of Riyadh Province.",
+        "extract": "Diriyah is a town and governorate in Saudi Arabia. Located on the northwestern outskirts of the Saudi capital, Riyadh, Diriyah was the original home of the House of Saud, and served as the capital of the Emirate of Diriyah under the first Saudi dynasty from 1727 to 1818. Today, the town is the seat of the Diriyah Governorate, which also includes the villages of Uyayna, Jubayla, and Al-Ammariyyah, among others\u2014and is part of Riyadh Province.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/At-Turaif_District_of_Diriyah%2C_Saudi_Arabia.jpg",
         "url": "https://en.wikipedia.org/wiki/Diriyah",
         "coordinates": {
@@ -58,7 +58,7 @@
       "name": "Madain Saleh",
       "writeup": "Archaeological site with well-preserved Nabatean tombs, Saudi Arabia's first UNESCO World Heritage site.",
       "wiki": {
-        "extract": "Hegra, also known as Madāʾin Ṣāliḥ, is an archaeological site located in the area of Al-'Ula within Medina Province in the Hejaz region, Saudi Arabia.",
+        "extract": "Hegra, also known as Mad\u0101\u02bein \u1e62\u0101li\u1e25, is an archaeological site located in the area of Al-'Ula within Medina Province in the Hejaz region, Saudi Arabia.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hegra%2C_Al-Ula%2C_Saudi_Arabia.png",
         "url": "https://en.wikipedia.org/wiki/Hegra",
         "coordinates": {
@@ -173,5 +173,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASaudi_Arabia-CIA_WFB_Map.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 376.4,
+      "gross_debt_pct_gdp": 25.8,
+      "gross_debt_usd_billion": 97.11,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 415.69,
+      "gross_debt_pct_gdp": 17.1,
+      "gross_debt_usd_billion": 71.08,
+      "inflation_cpi_pct": 5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 519.8,
+      "gross_debt_pct_gdp": 12.1,
+      "gross_debt_usd_billion": 62.9,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 429.1,
+      "gross_debt_pct_gdp": 14,
+      "gross_debt_usd_billion": 60.07,
+      "inflation_cpi_pct": 4.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 528.21,
+      "gross_debt_pct_gdp": 8.4,
+      "gross_debt_usd_billion": 44.37,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 680.66,
+      "gross_debt_pct_gdp": 5.3,
+      "gross_debt_usd_billion": 36.08,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 751.92,
+      "gross_debt_pct_gdp": 3,
+      "gross_debt_usd_billion": 22.56,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 769.75,
+      "gross_debt_pct_gdp": 2.1,
+      "gross_debt_usd_billion": 16.16,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 787.15,
+      "gross_debt_pct_gdp": 1.5,
+      "gross_debt_usd_billion": 11.81,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 693.41,
+      "gross_debt_pct_gdp": 5.5,
+      "gross_debt_usd_billion": 38.14,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 689.28,
+      "gross_debt_pct_gdp": 12.2,
+      "gross_debt_usd_billion": 84.09,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 741.27,
+      "gross_debt_pct_gdp": 15.9,
+      "gross_debt_usd_billion": 117.86,
+      "inflation_cpi_pct": -0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 886.56,
+      "gross_debt_pct_gdp": 16.8,
+      "gross_debt_usd_billion": 148.94,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 888.89,
+      "gross_debt_pct_gdp": 20.3,
+      "gross_debt_usd_billion": 180.44,
+      "inflation_cpi_pct": -2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 767.3,
+      "gross_debt_pct_gdp": 29.7,
+      "gross_debt_usd_billion": 227.89,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 982.66,
+      "gross_debt_pct_gdp": 25.5,
+      "gross_debt_usd_billion": 250.58,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1239.08,
+      "gross_debt_pct_gdp": 21.3,
+      "gross_debt_usd_billion": 263.92,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1218.59,
+      "gross_debt_pct_gdp": 23,
+      "gross_debt_usd_billion": 280.27,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1254.14,
+      "gross_debt_pct_gdp": 25.9,
+      "gross_debt_usd_billion": 324.82,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1276.94,
+      "gross_debt_pct_gdp": 31.7,
+      "gross_debt_usd_billion": 404.79,
+      "inflation_cpi_pct": 2,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

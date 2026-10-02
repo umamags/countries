@@ -13,9 +13,9 @@
   "landmarks": [
     {
       "name": "Sagrada Familia",
-      "writeup": "A large unfinished Roman Catholic basilica in Barcelona designed by architect Antoni Gaudí, known for its unique modernist architecture.",
+      "writeup": "A large unfinished Roman Catholic basilica in Barcelona designed by architect Antoni Gaud\u00ed, known for its unique modernist architecture.",
       "wiki": {
-        "extract": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic church under construction in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church \nin the world. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica. Parts of the Sagrada Família were declared as a UNESCO World Heritage Site in 2005, under \"Works of Antoni Gaudí\".",
+        "extract": "Bas\u00edlica i Temple Expiatori de la Sagrada Fam\u00edlia, or simply Sagrada Fam\u00edlia, is a Catholic church under construction in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaud\u00ed, it is the tallest church \nin the world. On 7 November 2010, Pope Benedict\u00a0XVI consecrated the church and proclaimed it a basilica. Parts of the Sagrada Fam\u00edlia were declared as a UNESCO World Heritage Site in 2005, under \"Works of Antoni Gaud\u00ed\".",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg",
         "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
         "coordinates": {
@@ -41,7 +41,7 @@
       "name": "Prado Museum",
       "writeup": "One of the world's premier art museums located in Madrid, housing European art from the 12th to early 20th century.",
       "wiki": {
-        "extract": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and the single best collection of Spanish art. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Velázquez, are some of the highlights of the collection. Velázquez and his keen eye and sensibility were also responsible for bringing much of the museum's fine collection of Italian masters to Spain, now one of the largest outside of Italy.",
+        "extract": "The Museo del Prado, officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid. It houses collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish royal collection, and the single best collection of Spanish art. Founded as a museum of paintings and sculpture in 1819, it also contains important collections of other types of works. The numerous works by Francisco Goya, the single most extensively represented artist, as well as by Hieronymus Bosch, El Greco, Peter Paul Rubens, Titian, and Diego Vel\u00e1zquez, are some of the highlights of the collection. Vel\u00e1zquez and his keen eye and sensibility were also responsible for bringing much of the museum's fine collection of Italian masters to Spain, now one of the largest outside of Italy.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Museo_del_Prado_2016_%2825185969599%29.jpg/3840px-Museo_del_Prado_2016_%2825185969599%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Museo_del_Prado",
         "coordinates": {
@@ -51,10 +51,10 @@
       }
     },
     {
-      "name": "Park Güell",
-      "writeup": "A public park in Barcelona featuring colorful mosaics and architectural elements designed by Antoni Gaudí.",
+      "name": "Park G\u00fcell",
+      "writeup": "A public park in Barcelona featuring colorful mosaics and architectural elements designed by Antoni Gaud\u00ed.",
       "wiki": {
-        "extract": "Park Güell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gràcia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Turó del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill.",
+        "extract": "Park G\u00fcell is a complex of parks and gardens in Barcelona with architectural elements, located in the La Salut neighborhood of the Gr\u00e0cia district in Barcelona, Catalonia, Spain. It is situated on the southern slope of the Tur\u00f3 del Carmel hill, part of the Collserola mountain range, overlooking the city. The separate Parc del Carmel lies on the northern side of the same hill.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Parc_guell_-_panoramio.jpg",
         "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell",
         "coordinates": {
@@ -67,7 +67,7 @@
       "name": "Plaza Mayor",
       "writeup": "A historic central square in Madrid, known for its symmetrical architecture and vibrant cultural events.",
       "wiki": {
-        "extract": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain. It was once the centre of Old Madrid. It was first built (1580–1619) during the reign of Philip III. Only a few blocks away is another famous plaza, the Puerta del Sol.",
+        "extract": "The Plaza Mayor is the principal public square in the heart of Madrid, the capital of Spain. It was once the centre of Old Madrid. It was first built (1580\u20131619) during the reign of Philip III. Only a few blocks away is another famous plaza, the Puerta del Sol.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Madrid_Plaza_Mayor_%2848733706273%29.jpg/3840px-Madrid_Plaza_Mayor_%2848733706273%29.jpg",
         "url": "https://en.wikipedia.org/wiki/Plaza_Mayor%2C_Madrid",
         "coordinates": {
@@ -81,16 +81,16 @@
   "cultural_events": [
     {
       "name": "La Tomatina",
-      "writeup": "An annual tomato-throwing festival held in Buñol, attracting participants worldwide for a playful food fight.",
+      "writeup": "An annual tomato-throwing festival held in Bu\u00f1ol, attracting participants worldwide for a playful food fight.",
       "wiki": {
-        "extract": "La Tomatina is a Spanish festival in Buñol, Spain where participants throw tomatoes at each other. It is said to be the biggest food fight in the world. From the festival's origin as a food fight between friends in the 1940s, it has become a famous tourist attraction. Until 2013 there was no limit to the number of participants; in 2013 the festival became a ticketed event for no more than 20,000, so as not to overwhelm Buñol's population of about 9,000 people.",
+        "extract": "La Tomatina is a Spanish festival in Bu\u00f1ol, Spain where participants throw tomatoes at each other. It is said to be the biggest food fight in the world. From the festival's origin as a food fight between friends in the 1940s, it has become a famous tourist attraction. Until 2013 there was no limit to the number of participants; in 2013 the festival became a ticketed event for no more than 20,000, so as not to overwhelm Bu\u00f1ol's population of about 9,000 people.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/La_Tomatina"
       }
     },
     {
       "name": "Running of the Bulls",
-      "writeup": "Part of the San Fermín festival in Pamplona, where participants run in front of bulls through the city streets.",
+      "writeup": "Part of the San Ferm\u00edn festival in Pamplona, where participants run in front of bulls through the city streets.",
       "wiki": {
         "extract": "A running of the bulls is an event that involves running in front of a small group of bulls, typically six but sometimes ten or more, that have been let loose on sectioned-off streets in a town, usually as part of a summertime festival. Particular breeds of cattle may be favored, such as the toro bravo in Spain, also often used in post-run bullfighting, and Camargue cattle in Occitan France, which are not fought. Bulls are typically used in such events.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sanfermines_Vaquillas_Pamplona_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -99,9 +99,9 @@
     },
     {
       "name": "Fallas de Valencia",
-      "writeup": "A traditional celebration in Valencia featuring large papier-mâché figures that are burned at the festival's end.",
+      "writeup": "A traditional celebration in Valencia featuring large papier-m\u00e2ch\u00e9 figures that are burned at the festival's end.",
       "wiki": {
-        "extract": "The Fallas is a traditional celebration held annually in the city of Valencia, Spain; it is the patronal festival of the town. The five main days celebrated are from 15 to 19 March, while the Mascletà, a pyrotechnic spectacle of firecracker detonation, takes place every day from 1 to 19 March. The term Fallas refers to both the celebration and the Falla monuments burnt during the celebration. The Fallas festival was added to UNESCO's intangible cultural heritage of humanity list on 30 November 2016. A number of towns in the Valencian Community have similar celebrations inspired by the original Fallas de Valencia festival. For example, the Bonfires of Saint John in Alicante or the Fiestas de la Magdalena in Castellón de la Plana.",
+        "extract": "The Fallas is a traditional celebration held annually in the city of Valencia, Spain; it is the patronal festival of the town. The five main days celebrated are from 15 to 19 March, while the Masclet\u00e0, a pyrotechnic spectacle of firecracker detonation, takes place every day from 1 to 19 March. The term Fallas refers to both the celebration and the Falla monuments burnt during the celebration. The Fallas festival was added to UNESCO's intangible cultural heritage of humanity list on 30 November 2016. A number of towns in the Valencian Community have similar celebrations inspired by the original Fallas de Valencia festival. For example, the Bonfires of Saint John in Alicante or the Fiestas de la Magdalena in Castell\u00f3n de la Plana.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Natura_Mare_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "url": "https://en.wikipedia.org/wiki/Fallas"
       }
@@ -125,7 +125,7 @@
       }
     }
   ],
-  "food_writeup": "Spanish cuisine is diverse, featuring dishes like paella, tapas, gazpacho, and jamón ibérico. It emphasizes fresh ingredients, olive oil, and regional flavors.",
+  "food_writeup": "Spanish cuisine is diverse, featuring dishes like paella, tapas, gazpacho, and jam\u00f3n ib\u00e9rico. It emphasizes fresh ingredients, olive oil, and regional flavors.",
   "brief_history": "Spain has a rich history influenced by Romans, Visigoths, Moors, and Christian kingdoms. It became a global empire in the 15th and 16th centuries and transitioned to democracy after Franco's dictatorship ended in 1975.",
   "important_people": [
     {
@@ -137,7 +137,7 @@
       "description": "Influential 20th-century painter and sculptor."
     },
     {
-      "name": "Salvador Dalí",
+      "name": "Salvador Dal\u00ed",
       "description": "Prominent surrealist artist."
     },
     {
@@ -145,7 +145,7 @@
       "description": "Monarch who sponsored Columbus's 1492 voyage."
     },
     {
-      "name": "Pedro Sánchez",
+      "name": "Pedro S\u00e1nchez",
       "description": "Current Prime Minister of Spain."
     }
   ],
@@ -194,5 +194,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Spain.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1261.91,
+      "gross_debt_pct_gdp": 39,
+      "gross_debt_usd_billion": 492.15,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1476.92,
+      "gross_debt_pct_gdp": 35.7,
+      "gross_debt_usd_billion": 527.26,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1635.94,
+      "gross_debt_pct_gdp": 39.6,
+      "gross_debt_usd_billion": 647.83,
+      "inflation_cpi_pct": 4.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1494.96,
+      "gross_debt_pct_gdp": 53.1,
+      "gross_debt_usd_billion": 793.83,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1429.15,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 861.78,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1487.31,
+      "gross_debt_pct_gdp": 69.5,
+      "gross_debt_usd_billion": 1033.68,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1331.84,
+      "gross_debt_pct_gdp": 89.6,
+      "gross_debt_usd_billion": 1193.33,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1362.21,
+      "gross_debt_pct_gdp": 100,
+      "gross_debt_usd_billion": 1362.21,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1380.6,
+      "gross_debt_pct_gdp": 104.4,
+      "gross_debt_usd_billion": 1441.35,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1206.29,
+      "gross_debt_pct_gdp": 102.4,
+      "gross_debt_usd_billion": 1235.24,
+      "inflation_cpi_pct": -0.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1242.67,
+      "gross_debt_pct_gdp": 102,
+      "gross_debt_usd_billion": 1267.53,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1321.29,
+      "gross_debt_pct_gdp": 101.1,
+      "gross_debt_usd_billion": 1335.82,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1432.29,
+      "gross_debt_pct_gdp": 99.7,
+      "gross_debt_usd_billion": 1428.0,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1403.65,
+      "gross_debt_pct_gdp": 97.6,
+      "gross_debt_usd_billion": 1369.96,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1288.75,
+      "gross_debt_pct_gdp": 119.2,
+      "gross_debt_usd_billion": 1536.19,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1462.22,
+      "gross_debt_pct_gdp": 115.6,
+      "gross_debt_usd_billion": 1690.32,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 1449.99,
+      "gross_debt_pct_gdp": 109.2,
+      "gross_debt_usd_billion": 1583.39,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 1619.95,
+      "gross_debt_pct_gdp": 105.1,
+      "gross_debt_usd_billion": 1702.57,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 1725.15,
+      "gross_debt_pct_gdp": 101.6,
+      "gross_debt_usd_billion": 1752.75,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 1903.83,
+      "gross_debt_pct_gdp": 100.4,
+      "gross_debt_usd_billion": 1911.44,
+      "inflation_cpi_pct": 2.7,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }

@@ -20,9 +20,9 @@
     },
     {
       "name": "Monte Carlo Casino",
-      "writeup": "A world-famous casino and entertainment complex known for its opulent Belle Époque design and association with luxury.",
+      "writeup": "A world-famous casino and entertainment complex known for its opulent Belle \u00c9poque design and association with luxury.",
       "wiki": {
-        "extract": "The Monte Carlo Casino, officially named Casino de Monte-Carlo, is a gambling and entertainment complex located in Monaco. It includes a casino, the Opéra de Monte-Carlo, and the office of Les Ballets de Monte-Carlo.",
+        "extract": "The Monte Carlo Casino, officially named Casino de Monte-Carlo, is a gambling and entertainment complex located in Monaco. It includes a casino, the Op\u00e9ra de Monte-Carlo, and the office of Les Ballets de Monte-Carlo.",
         "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Casino_de_Monte-Carlo_logo.png",
         "url": "https://en.wikipedia.org/wiki/Monte_Carlo_Casino",
         "coordinates": {
@@ -35,7 +35,7 @@
       "name": "Oceanographic Museum",
       "writeup": "A museum and aquarium dedicated to marine sciences, founded by Prince Albert I, featuring extensive marine fauna exhibits.",
       "wiki": {
-        "extract": "The Oceanographic Museum, is a museum of marine sciences in Monaco City, Monaco.\nThis building is part of the Institut océanographique, which is committed to sharing its knowledge of the oceans.",
+        "extract": "The Oceanographic Museum, is a museum of marine sciences in Monaco City, Monaco.\nThis building is part of the Institut oc\u00e9anographique, which is committed to sharing its knowledge of the oceans.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Monaco_BW_2011-06-07_17-50-43.jpg/3840px-Monaco_BW_2011-06-07_17-50-43.jpg",
         "url": "https://en.wikipedia.org/wiki/Oceanographic_Museum_of_Monaco",
         "coordinates": {
@@ -74,7 +74,7 @@
       "name": "Monaco Grand Prix",
       "writeup": "An iconic Formula 1 race held annually on the streets of Monaco, attracting global motorsport fans.",
       "wiki": {
-        "extract": "The Monaco Grand Prix is a Formula One motor racing event held annually on the Circuit de Monaco, in late May or early June. Run since 1929, it is widely considered to be one of the most important and prestigious automobile races in the world, and is one of the races—along with the Indianapolis 500 and the 24 Hours of Le Mans—that form the Triple Crown of Motorsport. It is the only Grand Prix that does not adhere to the FIA's mandated 305-kilometre (190-mile) minimum race distance for Formula One races.",
+        "extract": "The Monaco Grand Prix is a Formula One motor racing event held annually on the Circuit de Monaco, in late May or early June. Run since 1929, it is widely considered to be one of the most important and prestigious automobile races in the world, and is one of the races\u2014along with the Indianapolis 500 and the 24 Hours of Le Mans\u2014that form the Triple Crown of Motorsport. It is the only Grand Prix that does not adhere to the FIA's mandated 305-kilometre (190-mile) minimum race distance for Formula One races.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/1920px-Monte_Carlo_Formula_1_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Monaco_Grand_Prix"
       }
@@ -92,7 +92,7 @@
       "name": "Monaco Yacht Show",
       "writeup": "A prestigious event showcasing luxury yachts and marine innovations, attracting industry professionals worldwide.",
       "wiki": {
-        "extract": "The Monaco Yacht Show (MYS) is an annual trade show in Monaco, organised by the British events and publishing company, Informa. It was launched in 1991 as a broker-oriented event focused on superyachts over 20 m (66 ft) in length. It is held in Port Hercules, and is Europe's biggest in-water display of large yachts.",
+        "extract": "The Monaco Yacht Show (MYS) is an annual trade show in Monaco, organised by the British events and publishing company, Informa. It was launched in 1991 as a broker-oriented event focused on superyachts over 20\u00a0m (66\u00a0ft) in length. It is held in Port Hercules, and is Europe's biggest in-water display of large yachts.",
         "image": null,
         "url": "https://en.wikipedia.org/wiki/Monaco_Yacht_Show"
       }
@@ -116,7 +116,7 @@
       }
     }
   ],
-  "food_writeup": "Monaco's cuisine reflects Mediterranean influences with a focus on fresh seafood, Provençal herbs, and Italian flavors, featuring dishes like Barbagiuan (stuffed pastry) and Socca (chickpea pancake).",
+  "food_writeup": "Monaco's cuisine reflects Mediterranean influences with a focus on fresh seafood, Proven\u00e7al herbs, and Italian flavors, featuring dishes like Barbagiuan (stuffed pastry) and Socca (chickpea pancake).",
   "brief_history": "Monaco, a sovereign city-state since 1297 under the Grimaldi family, developed as a strategic Mediterranean port. It gained independence from France in 1861 and evolved into a luxury tourist destination and tax haven.",
   "important_people": [
     {
@@ -161,5 +161,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AMonaco_CIA_map_PL.png",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": []
 }

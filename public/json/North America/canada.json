@@ -13,7 +13,7 @@
       "name": "CN Tower",
       "writeup": "",
       "wiki": {
-        "extract": "The CN Tower is a 553.3-metre-high (1,815.3 ft) communications and observation tower in Toronto, Ontario, Canada. Completed in 1976, it is located in downtown Toronto, built on the former Railway Lands. Its name \"CN\" refers to Canadian National, the railway company that built the tower. Following the railway's decision to divest non-core freight railway assets prior to the company's privatization in 1995, it transferred the tower to the Canada Lands Company, a federal Crown corporation responsible for the government's real estate portfolio.",
+        "extract": "The CN Tower is a 553.3-metre-high (1,815.3\u00a0ft) communications and observation tower in Toronto, Ontario, Canada. Completed in 1976, it is located in downtown Toronto, built on the former Railway Lands. Its name \"CN\" refers to Canadian National, the railway company that built the tower. Following the railway's decision to divest non-core freight railway assets prior to the company's privatization in 1995, it transferred the tower to the Canada Lands Company, a federal Crown corporation responsible for the government's real estate portfolio.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Tower_logo.png",
         "url": "https://en.wikipedia.org/wiki/CN_Tower",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Niagara Falls",
       "writeup": "",
       "wiki": {
-        "extract": "Niagara Falls is a city in Ontario, Canada, adjacent to, and named after, Niagara Falls. As of the 2021 census, the city had a population of 94,415. The city is located on the Niagara Peninsula along the western bank of the Niagara River, which forms part of the Canada–United States border, with the other side being the twin city of Niagara Falls, New York. Niagara Falls is within the Regional Municipality of Niagara and a part of the St. Catharines - Niagara Census Metropolitan Area (CMA).",
+        "extract": "Niagara Falls is a city in Ontario, Canada, adjacent to, and named after, Niagara Falls. As of the 2021 census, the city had a population of 94,415. The city is located on the Niagara Peninsula along the western bank of the Niagara River, which forms part of the Canada\u2013United States border, with the other side being the twin city of Niagara Falls, New York. Niagara Falls is within the Regional Municipality of Niagara and a part of the St. Catharines - Niagara Census Metropolitan Area (CMA).",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Niagara_Falls_Ontario_Canada_aerial_view.jpg",
         "url": "https://en.wikipedia.org/wiki/Niagara_Falls%2C_Ontario",
         "coordinates": {
@@ -39,7 +39,7 @@
       "name": "Banff National Park",
       "writeup": "",
       "wiki": {
-        "extract": "Banff National Park is Canada's first national park, established in 1885 as Rocky Mountains Park. Located in Alberta's Rocky Mountains, 110–180 kilometres (68–112 mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes. Provincial forests and Yoho National Park are neighbours to the west, while Kootenay National Park is located to the south and Kananaskis Country to the southeast. The main commercial centre of the park is the town of Banff, in the Bow River valley.",
+        "extract": "Banff National Park is Canada's first national park, established in 1885 as Rocky Mountains Park. Located in Alberta's Rocky Mountains, 110\u2013180 kilometres (68\u2013112\u00a0mi) west of Calgary, Banff encompasses 6,641 square kilometres (2,564\u00a0sq\u00a0mi) of mountainous terrain, with many glaciers and ice fields, dense coniferous forest, and alpine landscapes. Provincial forests and Yoho National Park are neighbours to the west, while Kootenay National Park is located to the south and Kananaskis Country to the southeast. The main commercial centre of the park is the town of Banff, in the Bow River valley.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg",
         "url": "https://en.wikipedia.org/wiki/Banff_National_Park",
         "coordinates": {
@@ -166,7 +166,7 @@
       "lon": -79.421967
     },
     {
-      "name": "Montréal",
+      "name": "Montr\u00e9al",
       "capital": false,
       "lat": 45.501945,
       "lon": -73.585243
@@ -189,5 +189,167 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AWorld_Factbook_%281990%29_Canada.jpg",
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
-  }
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1319.36,
+      "gross_debt_pct_gdp": 69.9,
+      "gross_debt_usd_billion": 922.23,
+      "inflation_cpi_pct": 2,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1468.9,
+      "gross_debt_pct_gdp": 67.2,
+      "gross_debt_usd_billion": 987.1,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1552.86,
+      "gross_debt_pct_gdp": 70.4,
+      "gross_debt_usd_billion": 1093.22,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1376.51,
+      "gross_debt_pct_gdp": 81.8,
+      "gross_debt_usd_billion": 1125.98,
+      "inflation_cpi_pct": 0.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1617.35,
+      "gross_debt_pct_gdp": 84,
+      "gross_debt_usd_billion": 1358.57,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1793.33,
+      "gross_debt_pct_gdp": 84.3,
+      "gross_debt_usd_billion": 1511.77,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1828.36,
+      "gross_debt_pct_gdp": 87,
+      "gross_debt_usd_billion": 1590.67,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1846.6,
+      "gross_debt_pct_gdp": 87.7,
+      "gross_debt_usd_billion": 1619.46,
+      "inflation_cpi_pct": 0.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1805.75,
+      "gross_debt_pct_gdp": 85.8,
+      "gross_debt_usd_billion": 1549.33,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1556.51,
+      "gross_debt_pct_gdp": 92.3,
+      "gross_debt_usd_billion": 1436.66,
+      "inflation_cpi_pct": 1.1,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1528.0,
+      "gross_debt_pct_gdp": 92.5,
+      "gross_debt_usd_billion": 1413.4,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 1649.27,
+      "gross_debt_pct_gdp": 91,
+      "gross_debt_usd_billion": 1500.83,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 1725.3,
+      "gross_debt_pct_gdp": 90.8,
+      "gross_debt_usd_billion": 1566.57,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 1743.72,
+      "gross_debt_pct_gdp": 90.1,
+      "gross_debt_usd_billion": 1571.1,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1655.68,
+      "gross_debt_pct_gdp": 118.1,
+      "gross_debt_usd_billion": 1955.36,
+      "inflation_cpi_pct": 0.7,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 2022.38,
+      "gross_debt_pct_gdp": 112.6,
+      "gross_debt_usd_billion": 2277.2,
+      "inflation_cpi_pct": 3.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 2200.57,
+      "gross_debt_pct_gdp": 103.5,
+      "gross_debt_usd_billion": 2277.59,
+      "inflation_cpi_pct": 6.8,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2196.59,
+      "gross_debt_pct_gdp": 105.1,
+      "gross_debt_usd_billion": 2308.62,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 2270.08,
+      "gross_debt_pct_gdp": 110,
+      "gross_debt_usd_billion": 2497.08,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate"
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2319.9,
+      "gross_debt_pct_gdp": 113.5,
+      "gross_debt_usd_billion": 2633.09,
+      "inflation_cpi_pct": 2.1,
+      "status": "IMF estimate / projection"
+    }
+  ]
 }
