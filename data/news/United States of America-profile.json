@@ -1,0 +1,315 @@
+{
+  "country": "United States of America",
+  "iso3": "USA",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "World Bank WDI SP.POP.TOTL (total, mid-year estimate), accessed Oct 2026",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average), accessed Oct 2026; USA fixed at 1.0"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection with one-line summaries",
+  "data": [
+    {
+      "year": 2006,
+      "population": 298379912,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Democrats retake Congress",
+          "summary": "November midterms punish Bush over Iraq; defence secretary Rumsfeld resigns."
+        },
+        {
+          "headline": "Iraq violence peaks",
+          "summary": "Sectarian bloodshed escalates; US casualties mount through the year."
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "population": 301231207,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Iraq troop surge",
+          "summary": "Bush orders 20,000 more troops; violence gradually falls by year-end."
+        },
+        {
+          "headline": "Subprime crisis begins",
+          "summary": "Housing defaults spread; Bear Stearns hedge funds collapse in the summer."
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "population": 304093966,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis erupts",
+          "summary": "Lehman Brothers collapses in September; global markets convulse."
+        },
+        {
+          "headline": "Obama elected president",
+          "summary": "November victory makes Barack Obama the first Black US president."
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "population": 306771529,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Stimulus and healthcare push",
+          "summary": "The $787bn ARRA passes in February; the health reform battle dominates the year."
+        },
+        {
+          "headline": "Afghanistan surge ordered",
+          "summary": "Obama sends 30,000 more troops to Afghanistan in December."
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "population": 309378227,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Affordable Care Act signed",
+          "summary": "Landmark health law passes in March on party-line votes."
+        },
+        {
+          "headline": "Tea Party wave in midterms",
+          "summary": "Republicans retake the House in November amid backlash to Obama."
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "population": 311839461,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Bin Laden killed",
+          "summary": "May raid in Abbottabad, Pakistan ends the 9/11 mastermind's decade on the run."
+        },
+        {
+          "headline": "Debt-ceiling crisis",
+          "summary": "August standoff brings the US near default; S&P downgrades US debt."
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "population": 314339099,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Obama re-elected",
+          "summary": "November win over Romney; Democrats keep the Senate."
+        },
+        {
+          "headline": "Benghazi attack",
+          "summary": "September assault on the US consulate in Libya kills four Americans."
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "population": 316726282,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Government shutdown",
+          "summary": "A 16-day October shutdown follows a failed GOP bid to defund Obamacare."
+        },
+        {
+          "headline": "Snowden leaks",
+          "summary": "June revelations expose NSA mass surveillance; Snowden flees to Russia."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "population": 319257560,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Sanctions over Crimea",
+          "summary": "US leads Western sanctions after Russia annexes Crimea in March."
+        },
+        {
+          "headline": "Airstrikes against ISIS begin",
+          "summary": "US bombs ISIS targets in Iraq and Syria as the group seizes Mosul."
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "population": 321815121,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Iran nuclear deal signed",
+          "summary": "July JCPOA trades sanctions relief for curbs on Iran's nuclear program."
+        },
+        {
+          "headline": "Paris climate accord",
+          "summary": "December deal commits the US to emissions cuts."
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "population": 324353340,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump elected president",
+          "summary": "November upset over Clinton upends US politics and alliances."
+        },
+        {
+          "headline": "Russia interference alleged",
+          "summary": "US intelligence blames Moscow for hacks aimed at the campaign."
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "population": 326608609,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Travel ban turmoil",
+          "summary": "January executive order restricting entry from Muslim-majority nations sparks protests and court fights."
+        },
+        {
+          "headline": "Charlottesville violence",
+          "summary": "August white-supremacist rally turns deadly; Trump's response draws bipartisan fire."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "population": 328529577,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trade war with China begins",
+          "summary": "July tariffs on $34bn of Chinese goods open a multi-year trade conflict."
+        },
+        {
+          "headline": "Democrats retake the House",
+          "summary": "November midterms deliver a check on Trump's power."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "population": 330226227,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump impeached",
+          "summary": "December impeachment over Ukraine pressure; acquitted by the Senate in 2020."
+        },
+        {
+          "headline": "Phase-one China deal",
+          "summary": "December truce pauses tariff escalation."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "population": 331578104,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 pandemic",
+          "summary": "Lockdowns and 350,000+ US deaths; the economy crashes then partially recovers."
+        },
+        {
+          "headline": "Biden defeats Trump",
+          "summary": "November election victory; Trump refuses to concede."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "population": 332100166,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Capitol riot",
+          "summary": "January 6 mob storms Congress as it certifies Biden's win."
+        },
+        {
+          "headline": "Afghanistan withdrawal",
+          "summary": "Chaotic August exit ends 20 years of war; the Taliban retakes Kabul."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "population": 333996304,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "US rallies support for Ukraine",
+          "summary": "February Russian invasion triggers massive US military aid and sanctions."
+        },
+        {
+          "headline": "Dobbs ends federal abortion rights",
+          "summary": "June Supreme Court ruling overturns Roe v. Wade."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "population": 336755052,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Debt-ceiling standoff resolved",
+          "summary": "McCarthy-Biden deal in June averts a US default."
+        },
+        {
+          "headline": "US backs Israel after October 7",
+          "summary": "Hamas attack triggers US military aid to Israel and the Gaza war."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "population": 340003797,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump re-elected",
+          "summary": "November comeback makes Trump the second president to win non-consecutive terms."
+        },
+        {
+          "headline": "Biden drops out",
+          "summary": "July withdrawal after a disastrous debate; Harris becomes the nominee."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "population": 341784857,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump's second term begins",
+          "summary": "January inauguration launches mass deportations and a federal overhaul."
+        },
+        {
+          "headline": "Liberation Day tariffs",
+          "summary": "Sweeping April tariffs ignite a global trade war."
+        }
+      ]
+    }
+  ]
+}

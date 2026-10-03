@@ -1,0 +1,315 @@
+{
+  "country": "China",
+  "iso3": "CHN",
+  "currency": "CNY",
+  "currency_name": "Chinese Yuan",
+  "period": "2006-2025",
+  "sources": {
+    "population": "World Bank WDI SP.POP.TOTL (total, mid-year estimate), accessed Oct 2026",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average), accessed Oct 2026; USA fixed at 1.0"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection with one-line summaries",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1311020000,
+      "fx_lcu_per_usd_annual_avg": 7.9734,
+      "geopolitical_news": [
+        {
+          "headline": "Three Gorges Dam completed",
+          "summary": "The world's largest dam is finished amid mass resettlement controversies."
+        },
+        {
+          "headline": "China-Africa summit in Beijing",
+          "summary": "November summit pledges billions in African investment."
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "population": 1317885000,
+      "fx_lcu_per_usd_annual_avg": 7.6075,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-satellite test shocks world",
+          "summary": "January missile destroys a satellite, drawing condemnation over space debris."
+        },
+        {
+          "headline": "17th Party Congress",
+          "summary": "Hu Jintao consolidates power for a second term in October."
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "population": 1324655000,
+      "fx_lcu_per_usd_annual_avg": 6.9487,
+      "geopolitical_news": [
+        {
+          "headline": "Sichuan earthquake kills 70,000",
+          "summary": "May quake devastates the southwest; shoddy 'tofu-dreg' schools anger parents."
+        },
+        {
+          "headline": "Beijing Olympics",
+          "summary": "August Games showcase China's rise; 51 gold medals top the table."
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "population": 1331260000,
+      "fx_lcu_per_usd_annual_avg": 6.8314,
+      "geopolitical_news": [
+        {
+          "headline": "Urumqi riots",
+          "summary": "July ethnic violence in Xinjiang kills nearly 200; a harsh crackdown follows."
+        },
+        {
+          "headline": "PRC turns 60",
+          "summary": "October military parade marks the anniversary."
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "population": 1337705000,
+      "fx_lcu_per_usd_annual_avg": 6.7703,
+      "geopolitical_news": [
+        {
+          "headline": "Shanghai Expo",
+          "summary": "The $4bn world expo draws a record 73 million visitors."
+        },
+        {
+          "headline": "Liu Xiaobo wins Nobel Peace Prize",
+          "summary": "October prize for the jailed dissident enrages Beijing."
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "population": 1345035000,
+      "fx_lcu_per_usd_annual_avg": 6.4615,
+      "geopolitical_news": [
+        {
+          "headline": "Beijing-Shanghai rail opens",
+          "summary": "June launch of the flagship high-speed line amid safety concerns."
+        },
+        {
+          "headline": "Wenzhou train crash",
+          "summary": "July collision kills 40 and dents faith in the rail boom."
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "population": 1354190000,
+      "fx_lcu_per_usd_annual_avg": 6.3123,
+      "geopolitical_news": [
+        {
+          "headline": "Xi Jinping takes power",
+          "summary": "November Party Congress installs Xi; the Bo Xilai scandal purges a rival."
+        },
+        {
+          "headline": "Diaoyu/Senkaku tensions flare",
+          "summary": "Japan's island purchase sparks anti-Japan riots across China in September."
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "population": 1363240000,
+      "fx_lcu_per_usd_annual_avg": 6.1958,
+      "geopolitical_news": [
+        {
+          "headline": "Third Plenum reform blueprint",
+          "summary": "November meeting promises market reforms and an eased one-child policy."
+        },
+        {
+          "headline": "Air defence zone declared",
+          "summary": "November ADIZ over the East China Sea alarms Japan and the US."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "population": 1371860000,
+      "fx_lcu_per_usd_annual_avg": 6.1434,
+      "geopolitical_news": [
+        {
+          "headline": "Hong Kong Umbrella Movement",
+          "summary": "September-December pro-democracy protests paralyze parts of the city."
+        },
+        {
+          "headline": "Zhou Yongkang purged",
+          "summary": "The ex-security czar's fall is the anti-corruption drive's biggest catch."
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "population": 1379860000,
+      "fx_lcu_per_usd_annual_avg": 6.2275,
+      "geopolitical_news": [
+        {
+          "headline": "Stock market crash",
+          "summary": "Summer meltdown wipes out trillions; the state intervenes heavily."
+        },
+        {
+          "headline": "Two-child policy adopted",
+          "summary": "October decision ends the one-child rule."
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "population": 1387790000,
+      "fx_lcu_per_usd_annual_avg": 6.6445,
+      "geopolitical_news": [
+        {
+          "headline": "South China Sea ruling rejected",
+          "summary": "July Hague tribunal backs the Philippines; Beijing dismisses it as waste paper."
+        },
+        {
+          "headline": "G20 hosted in Hangzhou",
+          "summary": "September summit burnishes Xi's global image."
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "population": 1396215000,
+      "fx_lcu_per_usd_annual_avg": 6.7588,
+      "geopolitical_news": [
+        {
+          "headline": "19th Party Congress",
+          "summary": "October congress enshrines 'Xi Jinping Thought' and upends succession norms."
+        },
+        {
+          "headline": "Doklam standoff with India",
+          "summary": "Summer border crisis ends in mutual disengagement."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "population": 1402760000,
+      "fx_lcu_per_usd_annual_avg": 6.616,
+      "geopolitical_news": [
+        {
+          "headline": "Presidential term limits abolished",
+          "summary": "March constitutional change lets Xi rule indefinitely."
+        },
+        {
+          "headline": "Trade war with US begins",
+          "summary": "July US tariffs trigger retaliation and a grinding dispute."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "population": 1407745000,
+      "fx_lcu_per_usd_annual_avg": 6.9084,
+      "geopolitical_news": [
+        {
+          "headline": "Hong Kong protests erupt",
+          "summary": "Mass demonstrations against an extradition bill morph into a broader revolt."
+        },
+        {
+          "headline": "Trade war deepens",
+          "summary": "Tariff escalation and the Huawei blacklisting widen the US-China rift."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "population": 1411100000,
+      "fx_lcu_per_usd_annual_avg": 6.9008,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 and Wuhan lockdown",
+          "summary": "January lockdown of 11 million people; the virus spreads worldwide."
+        },
+        {
+          "headline": "Hong Kong security law",
+          "summary": "June law criminalizes dissent, ending 'one country, two systems' in practice."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "population": 1412360000,
+      "fx_lcu_per_usd_annual_avg": 6.449,
+      "geopolitical_news": [
+        {
+          "headline": "CCP centenary",
+          "summary": "July celebrations declare a 'moderately prosperous society' achieved."
+        },
+        {
+          "headline": "Tech crackdown",
+          "summary": "Ant IPO killed, Didi probed, tutoring banned in a sweeping regulatory storm."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "population": 1412175000,
+      "fx_lcu_per_usd_annual_avg": 6.7372,
+      "geopolitical_news": [
+        {
+          "headline": "Zero-COVID lockdowns",
+          "summary": "Shanghai's two-month spring lockdown sparks anger and shortages."
+        },
+        {
+          "headline": "Xi secures third term",
+          "summary": "October Party Congress breaks precedent; rare protests follow in November."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "population": 1410710000,
+      "fx_lcu_per_usd_annual_avg": 7.084,
+      "geopolitical_news": [
+        {
+          "headline": "Reopening after zero-COVID",
+          "summary": "Abrupt exit fuels a massive infection wave through early 2023."
+        },
+        {
+          "headline": "Spy balloon incident",
+          "summary": "February US shootdown of a Chinese balloon freezes a diplomatic thaw."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "population": 1408975000,
+      "fx_lcu_per_usd_annual_avg": 7.1975,
+      "geopolitical_news": [
+        {
+          "headline": "Stimulus to revive economy",
+          "summary": "September package targets the property slump and deflation risks."
+        },
+        {
+          "headline": "Military anti-corruption purge",
+          "summary": "Defence ministers fall in an ongoing graft sweep."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "population": 1406585000,
+      "fx_lcu_per_usd_annual_avg": 7.1898,
+      "geopolitical_news": [
+        {
+          "headline": "US tariff war under Trump 2.0",
+          "summary": "Escalating American tariffs meet Chinese retaliation through 2025."
+        },
+        {
+          "headline": "WWII anniversary military parade",
+          "summary": "September parade showcases new weaponry amid Taiwan tensions."
+        }
+      ]
+    }
+  ]
+}

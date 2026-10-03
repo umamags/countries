@@ -1,0 +1,315 @@
+{
+  "country": "Germany",
+  "iso3": "DEU",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "World Bank WDI SP.POP.TOTL (total, mid-year estimate), accessed Oct 2026",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average), accessed Oct 2026; USA fixed at 1.0"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection with one-line summaries",
+  "data": [
+    {
+      "year": 2006,
+      "population": 82376451,
+      "fx_lcu_per_usd_annual_avg": 0.7964,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup hosted",
+          "summary": "The 'summer fairy tale' tournament burnishes Germany's global image."
+        },
+        {
+          "headline": "Merkel's first year",
+          "summary": "The new chancellor pushes labour-market and federalism reforms."
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "population": 82266372,
+      "fx_lcu_per_usd_annual_avg": 0.7297,
+      "geopolitical_news": [
+        {
+          "headline": "G8 summit at Heiligendamm",
+          "summary": "June summit focuses on climate and Africa amid mass protests."
+        },
+        {
+          "headline": "EU treaty revived",
+          "summary": "The German EU presidency rescues constitutional reform as the Lisbon Treaty."
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "population": 82110097,
+      "fx_lcu_per_usd_annual_avg": 0.6799,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits banks",
+          "summary": "Hypo Real Estate's September bailout is Germany's Lehman moment."
+        },
+        {
+          "headline": "Grand coalition strains",
+          "summary": "The CDU-SPD alliance frays ahead of the 2009 elections."
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "population": 81902307,
+      "fx_lcu_per_usd_annual_avg": 0.717,
+      "geopolitical_news": [
+        {
+          "headline": "Merkel re-elected",
+          "summary": "September win brings a CDU-FDP centre-right coalition."
+        },
+        {
+          "headline": "Cash-for-clunkers scheme",
+          "summary": "The Abwrackprämie props up the auto industry through the downturn."
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "population": 81776930,
+      "fx_lcu_per_usd_annual_avg": 0.7543,
+      "geopolitical_news": [
+        {
+          "headline": "Greece bailout divides Germany",
+          "summary": "May rescue package sparks fierce debate over taxpayer liability."
+        },
+        {
+          "headline": "Sarrazin controversy",
+          "summary": "A Bundesbanker's anti-immigration book ignites a national integration debate."
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "population": 80274983,
+      "fx_lcu_per_usd_annual_avg": 0.7184,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear phase-out decided",
+          "summary": "Post-Fukushima, Merkel reverses course: all reactors to close by 2022."
+        },
+        {
+          "headline": "Euro crisis deepens",
+          "summary": "Berlin demands tougher bailout terms as contagion spreads."
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "population": 80425823,
+      "fx_lcu_per_usd_annual_avg": 0.7783,
+      "geopolitical_news": [
+        {
+          "headline": "Draghi's pledge calms markets",
+          "summary": "The July 'whatever it takes' vow, backed by Berlin's ESM, ends the euro panic."
+        },
+        {
+          "headline": "President Wulff resigns",
+          "summary": "February resignation over a favours scandal."
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "population": 80645605,
+      "fx_lcu_per_usd_annual_avg": 0.7529,
+      "geopolitical_news": [
+        {
+          "headline": "Merkel wins third term",
+          "summary": "September landslide; the CDU falls just short of an outright majority."
+        },
+        {
+          "headline": "NSA spying scandal",
+          "summary": "Revelations the US tapped Merkel's phone strain transatlantic ties."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "population": 80982500,
+      "fx_lcu_per_usd_annual_avg": 0.7527,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup triumph",
+          "summary": "July victory in Brazil, sealed by Götze's extra-time goal."
+        },
+        {
+          "headline": "Ukraine crisis diplomacy",
+          "summary": "Berlin leads EU sanctions on Russia and the Minsk peace push."
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "population": 81686611,
+      "fx_lcu_per_usd_annual_avg": 0.9013,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee crisis: 'Wir schaffen das'",
+          "summary": "Merkel opens borders to around a million asylum seekers in September."
+        },
+        {
+          "headline": "VW dieselgate",
+          "summary": "September emissions-cheating revelations hammer the auto giant."
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "population": 82348669,
+      "fx_lcu_per_usd_annual_avg": 0.9034,
+      "geopolitical_news": [
+        {
+          "headline": "Berlin Christmas market attack",
+          "summary": "December truck attack kills 12; ISIS claims responsibility."
+        },
+        {
+          "headline": "Brexit fallout",
+          "summary": "June UK vote rattles Berlin's EU plans."
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "population": 82657002,
+      "fx_lcu_per_usd_annual_avg": 0.8852,
+      "geopolitical_news": [
+        {
+          "headline": "Merkel wins fourth term",
+          "summary": "September election weakens her; coalition talks drag into 2018."
+        },
+        {
+          "headline": "G20 Hamburg riots",
+          "summary": "July summit marred by violent street battles."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "population": 82905782,
+      "fx_lcu_per_usd_annual_avg": 0.8468,
+      "geopolitical_news": [
+        {
+          "headline": "Merkel bows out as CDU leader",
+          "summary": "October announcement ends her 18-year party reign."
+        },
+        {
+          "headline": "Diesel driving bans",
+          "summary": "Courts allow city bans, deepening the auto industry's crisis."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "population": 83092962,
+      "fx_lcu_per_usd_annual_avg": 0.8933,
+      "geopolitical_news": [
+        {
+          "headline": "Climate protests surge",
+          "summary": "Fridays for Future mobilizes hundreds of thousands across Germany."
+        },
+        {
+          "headline": "US targets Nord Stream 2",
+          "summary": "December American sanctions hit the pipeline project."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "population": 83160871,
+      "fx_lcu_per_usd_annual_avg": 0.8755,
+      "geopolitical_news": [
+        {
+          "headline": "EU recovery fund agreed",
+          "summary": "July Franco-German plan creates 750bn euros in joint EU debt."
+        },
+        {
+          "headline": "Wirecard collapse",
+          "summary": "June implosion of the fintech star exposes regulatory failure."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "population": 83196078,
+      "fx_lcu_per_usd_annual_avg": 0.8455,
+      "geopolitical_news": [
+        {
+          "headline": "Merkel era ends",
+          "summary": "Scholz's SPD wins the September election; a traffic-light coalition takes power in December."
+        },
+        {
+          "headline": "Deadly floods",
+          "summary": "July deluge in the west kills 180 in Germany's worst natural disaster in decades."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "population": 83177813,
+      "fx_lcu_per_usd_annual_avg": 0.9496,
+      "geopolitical_news": [
+        {
+          "headline": "Zeitenwende after Ukraine invasion",
+          "summary": "Scholz's February 27 speech pledges 100bn euros for the military."
+        },
+        {
+          "headline": "Energy crisis and pipeline sabotage",
+          "summary": "September Nord Stream blasts deepen the gas crunch."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "population": 83287273,
+      "fx_lcu_per_usd_annual_avg": 0.9248,
+      "geopolitical_news": [
+        {
+          "headline": "Recession and coalition strife",
+          "summary": "Germany contracts as industry reels from energy costs."
+        },
+        {
+          "headline": "AfD surges in polls",
+          "summary": "The far right hits record support, especially in the east."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "population": 83516593,
+      "fx_lcu_per_usd_annual_avg": 0.9239,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition collapses",
+          "summary": "Scholz fires the FDP finance minister in November; a snap election is called."
+        },
+        {
+          "headline": "AfD wins Thuringia",
+          "summary": "September state election gives the far right its first-ever state victory."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "population": 83491249,
+      "fx_lcu_per_usd_annual_avg": 0.885,
+      "geopolitical_news": [
+        {
+          "headline": "Merz becomes chancellor",
+          "summary": "February election win puts CDU leader Friedrich Merz in office in May."
+        },
+        {
+          "headline": "Defence spending surge",
+          "summary": "Constitutional reform unlocks massive military investment."
+        }
+      ]
+    }
+  ]
+}

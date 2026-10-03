@@ -1,13 +1,16 @@
-import { useRef, useEffect } from 'react'
+import { useRef, useEffect, useState } from 'react'
 import * as d3 from 'd3'
 import '../styles/EconomicsSection.css'
 
 function LineChart({ data, yKey, title, containerRef }) {
+  const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
+  const latestEntry = filteredData.length > 0 ? filteredData[filteredData.length - 1] : null
+
   useEffect(() => {
     if (!data || data.length === 0 || !containerRef.current) return
 
-    const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
-    if (filteredData.length === 0) return
+    const filteredDataEffect = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
+    if (filteredDataEffect.length === 0) return
 
     const margin = { top: 20, right: 20, bottom: 30, left: 50 }
     const width = containerRef.current.clientWidth - margin.left - margin.right
@@ -24,12 +27,12 @@ function LineChart({ data, yKey, title, containerRef }) {
 
     const xScale = d3
       .scaleLinear()
-      .domain(d3.extent(filteredData, (d) => d.year))
+      .domain(d3.extent(filteredDataEffect, (d) => d.year))
       .range([0, width])
 
     const yScale = d3
       .scaleLinear()
-      .domain([0, d3.max(filteredData, (d) => d[yKey])])
+      .domain([0, d3.max(filteredDataEffect, (d) => d[yKey])])
       .range([height, 0])
 
     const line = d3
@@ -39,7 +42,7 @@ function LineChart({ data, yKey, title, containerRef }) {
 
     svg
       .append('path')
-      .datum(filteredData)
+      .datum(filteredDataEffect)
       .attr('fill', 'none')
       .attr('stroke', 'var(--accent)')
       .attr('stroke-width', 2)
@@ -71,7 +74,7 @@ function LineChart({ data, yKey, title, containerRef }) {
 
     svg
       .selectAll('.dot')
-      .data(filteredData)
+      .data(filteredDataEffect)
       .enter()
       .append('circle')
       .attr('cx', (d) => xScale(d.year))
@@ -98,6 +101,12 @@ function LineChart({ data, yKey, title, containerRef }) {
 
   return (
     <div className="chart-container">
+      {latestEntry && (
+        <div className="chart-stat">
+          <span className="stat-year">{latestEntry.year}</span>
+          <span className="stat-value">{latestEntry[yKey].toLocaleString(undefined, { maximumFractionDigits: 2 })}</span>
+        </div>
+      )}
       <h4>{title}</h4>
       <div className="chart" ref={containerRef} />
     </div>
@@ -105,11 +114,14 @@ function LineChart({ data, yKey, title, containerRef }) {
 }
 
 function BarChart({ data, yKey, title, containerRef }) {
+  const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
+  const latestEntry = filteredData.length > 0 ? filteredData[filteredData.length - 1] : null
+
   useEffect(() => {
     if (!data || data.length === 0 || !containerRef.current) return
 
-    const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
-    if (filteredData.length === 0) return
+    const filteredDataEffect = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
+    if (filteredDataEffect.length === 0) return
 
     const margin = { top: 20, right: 20, bottom: 30, left: 50 }
     const width = containerRef.current.clientWidth - margin.left - margin.right
@@ -126,13 +138,13 @@ function BarChart({ data, yKey, title, containerRef }) {
 
     const xScale = d3
       .scaleBand()
-      .domain(filteredData.map((d) => d.year))
+      .domain(filteredDataEffect.map((d) => d.year))
       .range([0, width])
       .padding(0.1)
 
     const yScale = d3
       .scaleLinear()
-      .domain([0, d3.max(filteredData, (d) => d[yKey])])
+      .domain([0, d3.max(filteredDataEffect, (d) => d[yKey])])
       .range([height, 0])
 
     const tooltip = d3
@@ -150,7 +162,7 @@ function BarChart({ data, yKey, title, containerRef }) {
 
     svg
       .selectAll('.bar')
-      .data(filteredData)
+      .data(filteredDataEffect)
       .enter()
       .append('rect')
       .attr('class', 'bar')
@@ -191,8 +203,74 @@ function BarChart({ data, yKey, title, containerRef }) {
 
   return (
     <div className="chart-container">
+      {latestEntry && (
+        <div className="chart-stat">
+          <span className="stat-year">{latestEntry.year}</span>
+          <span className="stat-value">{latestEntry[yKey].toLocaleString(undefined, { maximumFractionDigits: 2 })}</span>
+        </div>
+      )}
       <h4>{title}</h4>
       <div className="chart" ref={containerRef} />
+    </div>
+  )
+}
+
+function HistoricalEvents({ economics }) {
+  const [expanded, setExpanded] = useState(false)
+
+  if (!economics || economics.length === 0) {
+    return (
+      <div className="historical-events">
+        <h4>Historical Events</h4>
+        <p className="no-data">Data not available</p>
+      </div>
+    )
+  }
+
+  const yearsWithEvents = economics
+    .filter((e) => e.main_events && e.main_events.length > 0)
+    .map((e) => ({ year: e.year, events: e.main_events }))
+    .sort((a, b) => b.year - a.year)
+
+  if (yearsWithEvents.length === 0) {
+    return (
+      <div className="historical-events">
+        <h4>Historical Events</h4>
+        <p className="no-data">Data not available</p>
+      </div>
+    )
+  }
+
+  const displayedYears = expanded ? yearsWithEvents : yearsWithEvents.slice(0, 2)
+  const hasMore = yearsWithEvents.length > 2
+
+  return (
+    <div className="historical-events">
+      <h4>Historical Events</h4>
+      <div className="events-list">
+        {displayedYears.map((yearData) => (
+          <div key={yearData.year} className="year-events">
+            <h5>{yearData.year}</h5>
+            <ul className="events">
+              {yearData.events.map((event, i) => (
+                <li key={i}>
+                  <strong>{event.headline}</strong>
+                  <p>{event.summary}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+      {hasMore && (
+        <button
+          type="button"
+          className="more-button"
+          onClick={() => setExpanded(!expanded)}
+        >
+          {expanded ? 'Show Less' : 'More...'}
+        </button>
+      )}
     </div>
   )
 }
@@ -200,10 +278,15 @@ function BarChart({ data, yKey, title, containerRef }) {
 export default function EconomicsSection({ economics }) {
   const lineChartRef1 = useRef(null)
   const lineChartRef2 = useRef(null)
+  const lineChartRef3 = useRef(null)
   const barChartRef1 = useRef(null)
   const barChartRef2 = useRef(null)
+  const barChartRef3 = useRef(null)
 
   if (!economics || economics.length === 0) return null
+
+  const hasPopulationData = economics.some((e) => e.population !== undefined && e.population !== null)
+  const hasExchangeRateData = economics.some((e) => e.exchange_rate_usd !== undefined && e.exchange_rate_usd !== null)
 
   return (
     <section className="detail-section">
@@ -216,6 +299,14 @@ export default function EconomicsSection({ economics }) {
           title="Gross Debt (% of GDP)"
           containerRef={lineChartRef2}
         />
+        {hasExchangeRateData && (
+          <LineChart
+            data={economics}
+            yKey="exchange_rate_usd"
+            title="Exchange Rate (per USD)"
+            containerRef={lineChartRef3}
+          />
+        )}
         <BarChart
           data={economics}
           yKey="gross_debt_usd_billion"
@@ -223,7 +314,12 @@ export default function EconomicsSection({ economics }) {
           containerRef={barChartRef1}
         />
         <BarChart data={economics} yKey="inflation_cpi_pct" title="Inflation (CPI %)" containerRef={barChartRef2} />
+        {hasPopulationData && (
+          <BarChart data={economics} yKey="population" title="Population" containerRef={barChartRef3} />
+        )}
       </div>
+
+      <HistoricalEvents economics={economics} />
     </section>
   )
 }

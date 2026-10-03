@@ -1,0 +1,315 @@
+{
+  "country": "India",
+  "iso3": "IND",
+  "currency": "INR",
+  "currency_name": "Indian Rupee",
+  "period": "2006-2025",
+  "sources": {
+    "population": "World Bank WDI SP.POP.TOTL (total, mid-year estimate), accessed Oct 2026",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average), accessed Oct 2026; USA fixed at 1.0"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection with one-line summaries",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1172878890,
+      "fx_lcu_per_usd_annual_avg": 45.307,
+      "geopolitical_news": [
+        {
+          "headline": "Mumbai train bombings kill 209",
+          "summary": "Seven coordinated blasts hit commuter trains on July 11, blamed on Pakistan-based militants; peace talks stall."
+        },
+        {
+          "headline": "Bush visit advances nuclear deal",
+          "summary": "March visit seals the framework for the landmark India-US civil nuclear agreement."
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "population": 1190676021,
+      "fx_lcu_per_usd_annual_avg": 41.3485,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear deal triggers political crisis",
+          "summary": "Left parties threaten to topple the UPA government over the deal; Manmohan Singh stakes his government on it."
+        },
+        {
+          "headline": "Samjhauta Express bombing kills 68",
+          "summary": "February blasts on the India-Pakistan train deepen mistrust between the neighbours."
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "population": 1207930964,
+      "fx_lcu_per_usd_annual_avg": 43.5052,
+      "geopolitical_news": [
+        {
+          "headline": "26/11 Mumbai terror attacks",
+          "summary": "Ten gunmen kill 166 over four days in November; India-Pakistan relations freeze."
+        },
+        {
+          "headline": "India-US nuclear deal signed",
+          "summary": "The 123 Agreement is signed in October, ending India's nuclear isolation."
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "population": 1225524753,
+      "fx_lcu_per_usd_annual_avg": 48.4053,
+      "geopolitical_news": [
+        {
+          "headline": "Congress wins second term",
+          "summary": "UPA is re-elected in May with a stronger mandate; Manmohan Singh continues as PM."
+        },
+        {
+          "headline": "26/11 trial opens",
+          "summary": "Ajmal Kasab's trial begins in Mumbai amid global pressure on Pakistan."
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "population": 1243481564,
+      "fx_lcu_per_usd_annual_avg": 45.7258,
+      "geopolitical_news": [
+        {
+          "headline": "Obama backs India's UNSC bid",
+          "summary": "November visit elevates the strategic partnership with US endorsement for a permanent Security Council seat."
+        },
+        {
+          "headline": "Commonwealth Games graft scandals",
+          "summary": "Delhi's October Games are overshadowed by corruption allegations against organizers."
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "population": 1261224954,
+      "fx_lcu_per_usd_annual_avg": 46.6705,
+      "geopolitical_news": [
+        {
+          "headline": "Anna Hazare anti-corruption movement",
+          "summary": "Mass August protests force the government to promise a Lokpal ombudsman bill."
+        },
+        {
+          "headline": "2G spectrum scam rocks government",
+          "summary": "The telecom scandal leads to arrests including a cabinet minister."
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "population": 1278674502,
+      "fx_lcu_per_usd_annual_avg": 53.4372,
+      "geopolitical_news": [
+        {
+          "headline": "Delhi gang rape sparks protests",
+          "summary": "The December assault and death of a 23-year-old triggers mass demonstrations and tougher rape laws."
+        },
+        {
+          "headline": "Agni-V missile tested",
+          "summary": "April test of the 5,000-km missile extends India's strategic reach."
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "population": 1295829511,
+      "fx_lcu_per_usd_annual_avg": 58.5978,
+      "geopolitical_news": [
+        {
+          "headline": "Rupee crashes in taper tantrum",
+          "summary": "The rupee falls to record lows near 68 per dollar as foreign capital flees emerging markets."
+        },
+        {
+          "headline": "Mars Orbiter Mission launched",
+          "summary": "November launch makes India the first Asian nation to reach Mars orbit."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "population": 1312277191,
+      "fx_lcu_per_usd_annual_avg": 61.0295,
+      "geopolitical_news": [
+        {
+          "headline": "Modi sweeps to power",
+          "summary": "BJP wins a single-party majority in May, the first in 30 years; Narendra Modi becomes PM."
+        },
+        {
+          "headline": "SAARC outreach to Pakistan",
+          "summary": "Modi invites Pakistan's Nawaz Sharif to his swearing-in, raising brief hopes of a thaw."
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "population": 1328024498,
+      "fx_lcu_per_usd_annual_avg": 64.1519,
+      "geopolitical_news": [
+        {
+          "headline": "India signs Paris climate accord",
+          "summary": "December deal commits India to ambitious renewable energy targets."
+        },
+        {
+          "headline": "Nepal blockade strains ties",
+          "summary": "An undeclared blockade over Nepal's new constitution sparks Kathmandu's anger at Delhi."
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "population": 1343944296,
+      "fx_lcu_per_usd_annual_avg": 67.1953,
+      "geopolitical_news": [
+        {
+          "headline": "Uri attack and surgical strikes",
+          "summary": "September militant attack kills 19 soldiers; India claims cross-LoC strikes days later."
+        },
+        {
+          "headline": "Demonetization shocks economy",
+          "summary": "On November 8, Rs 500 and Rs 1,000 notes are scrapped overnight to fight black money."
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "population": 1359657400,
+      "fx_lcu_per_usd_annual_avg": 65.1216,
+      "geopolitical_news": [
+        {
+          "headline": "Doklam standoff with China",
+          "summary": "A 73-day border face-off near Bhutan ends in August with mutual withdrawal."
+        },
+        {
+          "headline": "GST launched",
+          "summary": "The Goods and Services Tax unifies India's market on July 1."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "population": 1374659064,
+      "fx_lcu_per_usd_annual_avg": 68.3895,
+      "geopolitical_news": [
+        {
+          "headline": "India-US 2+2 dialogue debuts",
+          "summary": "September talks deepen defence ties; the COMCASA pact is signed."
+        },
+        {
+          "headline": "Section 377 struck down",
+          "summary": "Supreme Court decriminalizes homosexuality in a landmark September ruling."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "population": 1389030312,
+      "fx_lcu_per_usd_annual_avg": 70.4203,
+      "geopolitical_news": [
+        {
+          "headline": "Pulwama attack and Balakot strike",
+          "summary": "February suicide bombing kills 40 CRPF personnel; India bombs a militant camp in Pakistan."
+        },
+        {
+          "headline": "Article 370 revoked",
+          "summary": "In August, Jammu and Kashmir's special status is scrapped and the state split in two."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "population": 1402617695,
+      "fx_lcu_per_usd_annual_avg": 74.0996,
+      "geopolitical_news": [
+        {
+          "headline": "Galwan clash with China",
+          "summary": "June border fighting in Ladakh kills 20 Indian soldiers; ties plunge to a historic low."
+        },
+        {
+          "headline": "COVID lockdown strands millions",
+          "summary": "A sudden nationwide lockdown in March leaves migrant workers walking hundreds of kilometres home."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "population": 1414203896,
+      "fx_lcu_per_usd_annual_avg": 73.918,
+      "geopolitical_news": [
+        {
+          "headline": "Delta wave devastates India",
+          "summary": "The April-May second wave overwhelms hospitals amid severe oxygen shortages."
+        },
+        {
+          "headline": "Farm laws repealed",
+          "summary": "After a year of farmer protests, Modi withdraws the three farm laws in November."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "population": 1425423212,
+      "fx_lcu_per_usd_annual_avg": 78.6045,
+      "geopolitical_news": [
+        {
+          "headline": "India takes G20 presidency",
+          "summary": "December handover sets up Delhi's 2023 summit as a diplomatic showcase."
+        },
+        {
+          "headline": "Russian oil imports surge",
+          "summary": "Discounted Russian crude imports jump as Western sanctions reshape energy flows."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "population": 1438069596,
+      "fx_lcu_per_usd_annual_avg": 82.5993,
+      "geopolitical_news": [
+        {
+          "headline": "Chandrayaan-3 lands on the Moon",
+          "summary": "August landing near the lunar south pole makes India the fourth nation to soft-land."
+        },
+        {
+          "headline": "G20 summit in Delhi",
+          "summary": "September summit produces a joint declaration despite divisions over Ukraine."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "population": 1450935791,
+      "fx_lcu_per_usd_annual_avg": 83.6693,
+      "geopolitical_news": [
+        {
+          "headline": "Modi wins third term, weakened",
+          "summary": "BJP loses its majority in June and governs through coalition for the first time."
+        },
+        {
+          "headline": "India-Canada row deepens",
+          "summary": "Tensions over Sikh separatism lead to tit-for-tat diplomat expulsions."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "population": 1463865525,
+      "fx_lcu_per_usd_annual_avg": 87.1584,
+      "geopolitical_news": [
+        {
+          "headline": "Pahalgam attack and Operation Sindoor",
+          "summary": "April terror attack kills 26 tourists; May strikes on Pakistan trigger a four-day military confrontation."
+        },
+        {
+          "headline": "US tariff tensions",
+          "summary": "Washington's sweeping 2025 tariffs strain the bilateral trade relationship."
+        }
+      ]
+    }
+  ]
+}
