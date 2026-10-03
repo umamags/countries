@@ -1,0 +1,396 @@
+{
+  "country": "Chile",
+  "iso3": "CHL",
+  "currency": "CLP",
+  "currency_name": "Chilean Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 16357000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bachelet takes office",
+          "summary": "Michelle Bachelet becomes Chile's first woman president in March."
+        },
+        {
+          "headline": "'Penguin Revolution' student protests",
+          "summary": "Hundreds of thousands of students march for education reform in May and June."
+        }
+      ],
+      "sport": {
+        "headline": "No World Cup for Chile",
+        "summary": "Chile misses Germany 2006 after finishing seventh in CONMEBOL qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 16517000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Transantiago transport chaos",
+          "summary": "The botched February launch of Santiago's new bus system strands commuters daily."
+        },
+        {
+          "headline": "Pinochet-era reckoning continues",
+          "summary": "Courts press ahead with human rights cases against former regime figures."
+        }
+      ],
+      "sport": {
+        "headline": "Under-20 World Cup third place",
+        "summary": "Chile's golden generation takes bronze in Canada; Copa América ends in the quarter-finals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 16682000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bachelet's popularity recovers",
+          "summary": "Deft crisis management lifts her approval to record highs by year's end."
+        },
+        {
+          "headline": "Municipal elections favor opposition",
+          "summary": "The right-wing Alianza makes significant gains in October's municipal elections, foreshadowing 2009."
+        }
+      ],
+      "sport": {
+        "headline": "Bielsa era takes shape",
+        "summary": "Marcelo Bielsa's high-pressing side climbs the World Cup qualifying table."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 16855000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Piñera elected president",
+          "summary": "Sebastián Piñera wins December's runoff, the first right-wing victory since Pinochet."
+        },
+        {
+          "headline": "Earthquake relief politics",
+          "summary": "Reconstruction debates dominate politics after strong tremors rattle northern Chile during the year."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification secured",
+        "summary": "Chile finishes second in CONMEBOL qualifying, booking South Africa 2010 in style."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 17030000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Devastating 8.8 earthquake strikes",
+          "summary": "The February 27 quake and tsunami kill hundreds and shatter central Chile."
+        },
+        {
+          "headline": "33 miners rescued",
+          "summary": "The October rescue from the San José mine captivates the world after 69 days underground."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last-16 exit",
+        "summary": "Bielsa's Chile thrills in South Africa before falling to Brazil."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 17205000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Student protests paralyze Chile",
+          "summary": "Months of marches led by Vallejo and Jackson demand free, quality education."
+        },
+        {
+          "headline": "HidroAysén dam project approved",
+          "summary": "The controversial Patagonia dams win approval in May amid environmental fury."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Chile loses to Venezuela on penalties in the quarter-finals of the Argentina-hosted tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 17381000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Student movement persists",
+          "summary": "Protests continue into a second year with marches and school occupations."
+        },
+        {
+          "headline": "Municipal elections rebuke right",
+          "summary": "The opposition Concertación wins key mayoralties including Santiago in October's municipal elections."
+        }
+      ],
+      "sport": {
+        "headline": "Coaching turmoil in qualifying",
+        "summary": "Borghi is sacked mid-campaign; Sampaoli takes over the stuttering side."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 17560000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bachelet re-elected",
+          "summary": "She wins December's runoff in a landslide, returning to La Moneda."
+        },
+        {
+          "headline": "Electoral reform debates",
+          "summary": "Calls grow to replace the Pinochet-era binomial voting system."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification sealed",
+        "summary": "Chile books Brazil 2014 with a game to spare under Sampaoli."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 17749000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bachelet begins second term",
+          "summary": "She takes office in March promising education reform and a new constitution."
+        },
+        {
+          "headline": "Caval corruption scandal",
+          "summary": "A shady land deal involving her son damages the government's credibility."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last-16 heartbreak",
+        "summary": "Chile falls to Brazil on penalties in Belo Horizonte after Pinilla hits the bar."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 17955000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption scandals batter elite",
+          "summary": "The Caval and Soquimich cases implicate politicians and business across the spectrum."
+        },
+        {
+          "headline": "Powerful earthquake hits north",
+          "summary": "A September 8.3 quake off Illapel triggers tsunamis and evacuations."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América champions at home",
+        "summary": "Chile beats Argentina on penalties in Santiago for its first ever major title."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 18191000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pension reform demands grow",
+          "summary": "Mass 'No more AFP' marches challenge the private pension system."
+        },
+        {
+          "headline": "Municipal elections punish left",
+          "summary": "The right wins Santiago and key communes in October."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América Centenario champions",
+        "summary": "Chile beats Argentina on penalties again to retain the title in New Jersey."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 18461000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Piñera re-elected president",
+          "summary": "He beats Alejandro Guillier in December's runoff, returning to power."
+        },
+        {
+          "headline": "Abortion partially legalized",
+          "summary": "Congress approves abortion in three limited circumstances in August after decades of total prohibition."
+        }
+      ],
+      "sport": {
+        "headline": "Confederations Cup final defeat",
+        "summary": "Chile loses 1-0 to Germany in Saint Petersburg after a dazzling run."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 18754000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Piñera begins second term",
+          "summary": "He takes office in March promising growth and security."
+        },
+        {
+          "headline": "Pope Francis visits Chile",
+          "summary": "The January visit is overshadowed by the church abuse crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Chile misses the World Cup",
+        "summary": "A final-day defeat in São Paulo ends the golden generation's Russia 2018 dream."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 19040000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "'Estallido social' uprising erupts",
+          "summary": "A metro fare hike in October ignites massive protests over inequality; dozens die."
+        },
+        {
+          "headline": "Constitutional process agreed",
+          "summary": "Parties agree in November to a referendum on replacing the Pinochet-era charter."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América semi-final exit",
+        "summary": "Chile loses to Peru in Porto Alegre, ending the title defense."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 19236000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Plebiscite backs new constitution",
+          "summary": "Nearly 80 percent vote in October to draft a replacement charter."
+        },
+        {
+          "headline": "Pandemic lockdowns bite",
+          "summary": "COVID-19 hits hard; pension fund withdrawals are approved as relief."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Leagues and qualifiers halt; Vidal moves to Inter Milan."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 19392000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional convention elected",
+          "summary": "Independents and leftists dominate the May vote to draft the new charter."
+        },
+        {
+          "headline": "Boric elected president",
+          "summary": "Gabriel Boric beats José Antonio Kast in December's runoff at age 35."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Chile loses to Brazil in Rio; World Cup qualifying falters."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 19582000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boric takes office",
+          "summary": "The former student leader becomes Chile's youngest president in March."
+        },
+        {
+          "headline": "New constitution rejected",
+          "summary": "Voters overwhelmingly reject the draft charter in September's plebiscite."
+        }
+      ],
+      "sport": {
+        "headline": "Chile misses Qatar World Cup",
+        "summary": "The golden generation's era ends without qualification for a second straight tournament."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 19756000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Second constitutional draft fails",
+          "summary": "Voters reject a conservative-led draft in December, closing the process."
+        },
+        {
+          "headline": "Migration crisis strains north",
+          "summary": "Record Venezuelan migrant arrivals overwhelm northern border towns, fueling heated national security debates."
+        }
+      ],
+      "sport": {
+        "headline": "Coaching change in qualifying",
+        "summary": "Berizzo departs; veteran Ricardo Gareca takes over the struggling side."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 19904000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly wildfires ravage Valparaíso",
+          "summary": "February fires kill over a hundred people in the worst disaster of its kind."
+        },
+        {
+          "headline": "Opposition wins municipal elections",
+          "summary": "The right makes gains in October local votes ahead of 2025."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Chile goes out winless under Gareca in the United States."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 20037000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kast wins presidency",
+          "summary": "José Antonio Kast defeats Jeannette Jara in December's runoff, returning the right to power."
+        },
+        {
+          "headline": "Security dominates campaign",
+          "summary": "Crime and migration shape the election as homicides rise."
+        }
+      ],
+      "sport": {
+        "headline": "Chile misses 2026 World Cup",
+        "summary": "Elimination is confirmed during qualifying, a third straight absence."
+      }
+    }
+  ]
+}

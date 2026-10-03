@@ -1,0 +1,396 @@
+{
+  "country": "Bosnia and Herzegovina",
+  "iso3": "BIH",
+  "currency": "BAM",
+  "currency_name": "Bosnia-Herzegovina Convertible Mark",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3768000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nationalists win general election",
+          "summary": "October elections return ethnic nationalist parties to power."
+        },
+        {
+          "headline": "Police reform deadlock stalls EU path",
+          "summary": "Failure to agree police reform blocks an EU association deal."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia's Euro qualifying campaign falters",
+        "summary": "Bosnia finish fourth in their Euro 2008 qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3762000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ clears Serbia of genocide",
+          "summary": "The world court rules Serbia did not commit genocide in Bosnia."
+        },
+        {
+          "headline": "High Representative imposes reforms",
+          "summary": "Miroslav Lajcak forces through state reforms amid Serb resistance."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia miss Euro 2008",
+        "summary": "Bosnia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3754000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Karadzic arrested in Belgrade",
+          "summary": "The wartime Bosnian Serb leader is captured after 13 years on the run."
+        },
+        {
+          "headline": "Bosnia signs EU association deal",
+          "summary": "An EU Stabilisation and Association Agreement is signed in June."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia reach World Cup playoff",
+        "summary": "Bosnia finish second in their group but lose the playoff to Portugal."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3736000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sejdic-Finci ruling against Bosnia",
+          "summary": "Europe's rights court finds the constitution discriminates against minorities."
+        },
+        {
+          "headline": "Butmir constitutional talks fail",
+          "summary": "US-EU mediated reform talks collapse."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal end Bosnia's World Cup dream",
+        "summary": "Bosnia lose their 2010 playoff to Portugal."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 3704000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nationalists hold sway in election",
+          "summary": "October general elections keep ethnic parties dominant."
+        },
+        {
+          "headline": "Bosnia joins UN Security Council",
+          "summary": "Bosnia takes a non-permanent Council seat for 2010-11."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia reach Euro 2012 playoff",
+        "summary": "Bosnia finish second but lose the playoff to Portugal again."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3660000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mladic arrested in Serbia",
+          "summary": "The wartime Bosnian Serb commander is captured in May."
+        },
+        {
+          "headline": "Government formation deadlock",
+          "summary": "Bosnia goes months without a state government after the 2010 vote."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal deny Bosnia again",
+        "summary": "A heavy playoff defeat ends Bosnia's Euro 2012 hopes."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3605000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nationalists dominate local elections",
+          "summary": "October municipal elections pass with ethnic parties on top."
+        },
+        {
+          "headline": "EU path stalls over Sejdic-Finci",
+          "summary": "Failure to implement the rights ruling freezes Bosnia's EU bid."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia make strong start to World Cup qualifying",
+        "summary": "Bosnia open their 2014 campaign impressively."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3531000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bebolucija protests erupt",
+          "summary": "Baby-registration protests bring thousands onto Sarajevo's streets."
+        },
+        {
+          "headline": "First census in 22 years held",
+          "summary": "Bosnia conducts its first post-war population census in October."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia qualify for first World Cup",
+        "summary": "Bosnia top their group to reach Brazil 2014, a historic first."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3526000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass protests rock Bosnia",
+          "summary": "February unrest over jobs and corruption turns violent in several cities."
+        },
+        {
+          "headline": "Devastating floods hit Bosnia",
+          "summary": "May floods cause widespread destruction across the Balkans."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia exit World Cup in group stage",
+        "summary": "Bosnia bow out in Brazil after defeats to Argentina and Nigeria."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3518000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Reform agenda adopted",
+          "summary": "Bosnia's leaders commit to EU-backed economic reforms."
+        },
+        {
+          "headline": "Russia vetoes Srebrenica resolution",
+          "summary": "Moscow blocks a UN resolution marking 20 years since the genocide."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia miss Euro 2016",
+        "summary": "Bosnia lose their playoff to the Republic of Ireland."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 3511000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bosnia applies for EU membership",
+          "summary": "Sarajevo submits its formal EU application in February."
+        },
+        {
+          "headline": "Republika Srpska defies court with referendum",
+          "summary": "The Serb entity holds a banned referendum on its national day."
+        }
+      ],
+      "sport": {
+        "headline": "Dzeko fires Bosnia's qualifying bid",
+        "summary": "Bosnia mount a strong 2018 World Cup qualifying campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 3504000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mladic convicted of genocide",
+          "summary": "The Hague tribunal sentences Ratko Mladic to life in November."
+        },
+        {
+          "headline": "EU reform conditions press Sarajevo",
+          "summary": "Brussels demands constitutional changes for further EU progress."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia narrowly miss 2018 World Cup",
+        "summary": "Bosnia finish third, just missing the playoffs."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3496000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nationalists win general election again",
+          "summary": "October elections keep ethnic parties in control."
+        },
+        {
+          "headline": "Migrant crisis hits Bosnia",
+          "summary": "Thousands of migrants become stranded in Bosnia's northwest."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia win Nations League promotion",
+        "summary": "Bosnia top their League B group to reach League A."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3491000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government formed after 13 months",
+          "summary": "A state government is agreed more than a year after elections."
+        },
+        {
+          "headline": "EU issues cautious membership opinion",
+          "summary": "The Commission sets 14 reform priorities for Bosnia's EU bid."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia miss Euro 2020",
+        "summary": "Bosnia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 3487000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins Sarajevo and Banja Luka",
+          "summary": "November local elections deliver upset opposition victories."
+        },
+        {
+          "headline": "Migrant camp fire leaves hundreds homeless",
+          "summary": "The Lipa camp burns down in December, stranding migrants in winter."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia relegated from Nations League A",
+        "summary": "Bosnia finish bottom of their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 3481000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dodik threatens Serb secession",
+          "summary": "Republika Srpska's leader moves to pull out of state institutions."
+        },
+        {
+          "headline": "Schmidt becomes High Representative",
+          "summary": "Christian Schmidt takes over as international overseer in August."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia miss 2022 World Cup",
+        "summary": "Bosnia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 3473000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EU grants Bosnia candidate status",
+          "summary": "Brussels awards candidate status in December."
+        },
+        {
+          "headline": "Becirovic wins Bosniak presidency seat",
+          "summary": "October elections reshape the tripartite presidency."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia win Nations League promotion",
+        "summary": "Bosnia top their League B group to return to League A."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3464000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dodik defies High Representative",
+          "summary": "Republika Srpska rejects the authority of the international overseer."
+        },
+        {
+          "headline": "Bosnia's EU reform push stalls",
+          "summary": "Key reforms lag despite candidate status."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia miss Euro 2024",
+        "summary": "Bosnia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3455000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EU agrees to open accession talks",
+          "summary": "Leaders approve opening negotiations in March."
+        },
+        {
+          "headline": "UN creates Srebrenica remembrance day",
+          "summary": "The General Assembly establishes an annual genocide remembrance day."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia relegated from Nations League A",
+        "summary": "Bosnia finish bottom of their League A group again."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3445000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dodik convicted and sentenced",
+          "summary": "A Bosnian court sentences the Serb leader to prison and bans him from office."
+        },
+        {
+          "headline": "Bosnia's EU path wobbles",
+          "summary": "The political crisis over Dodik's conviction strains accession hopes."
+        }
+      ],
+      "sport": {
+        "headline": "Bosnia chase World Cup return",
+        "summary": "Bosnia compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

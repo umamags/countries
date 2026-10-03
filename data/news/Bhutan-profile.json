@@ -1,0 +1,396 @@
+{
+  "country": "Bhutan",
+  "iso3": "BTN",
+  "currency": "BTN",
+  "currency_name": "Bhutanese Ngultrum",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 666000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King announces abdication",
+          "summary": "Jigme Singye Wangchuck says he will step down, launching democratization."
+        },
+        {
+          "headline": "Democracy roadmap unveiled",
+          "summary": "Plans for a constitution and elections are set in motion."
+        }
+      ],
+      "sport": {
+        "headline": "Archery remains national passion",
+        "summary": "Traditional archery tournaments continue as the kingdom's sporting heartbeat."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 675000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mock elections held",
+          "summary": "Rehearsal polls prepare Bhutan for its first real democratic vote."
+        },
+        {
+          "headline": "Constitution finalized",
+          "summary": "Drafting of the kingdom's first constitution nears completion."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers in SAFF action",
+        "summary": "Bhutan competes in South Asian football despite heavy defeats."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 682000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "First democratic elections",
+          "summary": "March polls usher in constitutional monarchy; DPT wins big."
+        },
+        {
+          "headline": "New king crowned",
+          "summary": "Jigme Khesar Namgyel Wangchuck is formally crowned in November."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic archers in Beijing",
+        "summary": "Bhutan's archers compete at the Beijing Olympics."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 690000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Democracy takes root",
+          "summary": "The new parliament and government settle into constitutional rule."
+        },
+        {
+          "headline": "GNH goes global",
+          "summary": "Gross National Happiness wins international attention."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship",
+        "summary": "Bhutan's footballers contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 698000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thimphu hosts SAARC",
+          "summary": "The capital stages the South Asian summit."
+        },
+        {
+          "headline": "Climate advocacy",
+          "summary": "Bhutan champions carbon-neutral pledges at global forums."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Bhutanese athletes compete at the Asian Games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 706000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Royal wedding",
+          "summary": "The king marries Jetsun Pema in a lavish October ceremony."
+        },
+        {
+          "headline": "UN Security Council bid",
+          "summary": "Bhutan campaigns for a non-permanent council seat."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Bhutan enters 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 713000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "GNH resolution at UN",
+          "summary": "Bhutan's happiness resolution is adopted by the General Assembly."
+        },
+        {
+          "headline": "Economy wobbles",
+          "summary": "Rupee shortages expose dependence on India."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Bhutan's archers and shooters compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 721000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins election",
+          "summary": "The PDP ousts the DPT in July polls; Tshering Tobgay becomes PM."
+        },
+        {
+          "headline": "Peaceful transfer",
+          "summary": "Bhutan's second election cements democratic norms."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship",
+        "summary": "Bhutan hosts and contests South Asian football."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 729000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Modi visits Thimphu",
+          "summary": "India's new PM makes Bhutan his first foreign trip."
+        },
+        {
+          "headline": "Hydropower ties deepen",
+          "summary": "New dam projects anchor the economic partnership with India."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Bhutanese athletes compete across disciplines in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 737000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nepal quake felt",
+          "summary": "The Himalayan earthquake shakes Bhutan, damaging buildings."
+        },
+        {
+          "headline": "Democracy matures",
+          "summary": "Local government polls strengthen grassroots governance."
+        }
+      ],
+      "sport": {
+        "headline": "First World Cup qualifying win",
+        "summary": "Bhutan beat Sri Lanka for a maiden World Cup qualifying victory."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 744000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Crown prince born",
+          "summary": "The royal couple welcome the heir, Jigme Namgyel Wangchuck."
+        },
+        {
+          "headline": "Demonetization shock",
+          "summary": "India's cash ban disrupts Bhutan's rupee-linked economy."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Archer Karma carries Bhutan's flag in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 751000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Doklam standoff",
+          "summary": "Indian and Chinese troops face off on Bhutan-claimed plateau for 73 days."
+        },
+        {
+          "headline": "Bhutan asserts claims",
+          "summary": "Thimphu protests Chinese road-building on its territory."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Bhutan contests AFC Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 757000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New party wins election",
+          "summary": "Druk Nyamrup Tshogpa triumphs; Lotay Tshering becomes PM."
+        },
+        {
+          "headline": "Third peaceful transfer",
+          "summary": "Voters oust the incumbent in another democratic milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Bhutanese athletes compete at the Asian Games."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 762000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tourism policy shift",
+          "summary": "Thimphu debates sustainable tourism and regional visitors."
+        },
+        {
+          "headline": "Royal diplomacy",
+          "summary": "The king's visits strengthen ties with India and beyond."
+        }
+      ],
+      "sport": {
+        "headline": "South Asian Games",
+        "summary": "Bhutan's athletes medal at the Kathmandu Games."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 767000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Borders close for COVID",
+          "summary": "Bhutan seals itself off, crushing tourism revenues."
+        },
+        {
+          "headline": "Zero-COVID strategy",
+          "summary": "Strict quarantines keep case counts among the world's lowest."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic dreams deferred",
+        "summary": "Bhutan's small team prepares for the postponed Tokyo Games."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 773000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vaccination triumph",
+          "summary": "Bhutan fully vaccinates its adult population in record time."
+        },
+        {
+          "headline": "COVID contained",
+          "summary": "The kingdom's careful strategy limits deaths."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Four Bhutanese athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 778000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tourism reopens with fee",
+          "summary": "A $200 daily levy accompanies the post-COVID reopening."
+        },
+        {
+          "headline": "Border talks with China",
+          "summary": "Thimphu and Beijing advance boundary negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers in qualifiers",
+        "summary": "Bhutan contests Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 784000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "China border deal nears",
+          "summary": "Technical talks bring a boundary settlement closer."
+        },
+        {
+          "headline": "Royal visit to India",
+          "summary": "The king's Delhi trip reaffirms the special relationship."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Hangzhou",
+        "summary": "Bhutanese athletes compete at the Asian Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 789000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "PDP returns to power",
+          "summary": "Tshering Tobgay's party wins January polls."
+        },
+        {
+          "headline": "Mindfulness City unveiled",
+          "summary": "Plans for a new economic hub at Gelephu are announced."
+        }
+      ],
+      "sport": {
+        "headline": "Marathoner's Paris ovation",
+        "summary": "Kinzang Lhamo finishes the Olympic marathon to a standing ovation."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 791000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mindfulness City advances",
+          "summary": "Gelephu project planning continues with international interest."
+        },
+        {
+          "headline": "Border talks continue",
+          "summary": "Bhutan and China hold further rounds on the boundary."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF competitions",
+        "summary": "Bhutan's footballers contest South Asian tournaments."
+      }
+    }
+  ]
+}

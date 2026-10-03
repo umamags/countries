@@ -1,0 +1,396 @@
+{
+  "country": "Brunei",
+  "iso3": "BRN",
+  "currency": "BND",
+  "currency_name": "Brunei Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 365000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sultan tightens Islamic law",
+          "summary": "Brunei moves toward stricter sharia implementation under the monarchy."
+        },
+        {
+          "headline": "ASEAN engagement",
+          "summary": "The sultanate participates in regional summits as oil prices climb."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers in regional play",
+        "summary": "Brunei's national team contests Southeast Asian qualifiers."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 370000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Succession planning",
+          "summary": "Crown Prince Al-Muhtadee Billah takes on greater state duties."
+        },
+        {
+          "headline": "Oil wealth funds state",
+          "summary": "High crude prices sustain Brunei's generous welfare system."
+        }
+      ],
+      "sport": {
+        "headline": "Southeast Asian Games",
+        "summary": "Brunei sends athletes to the SEA Games in Thailand."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 375000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Global crisis hits oil",
+          "summary": "Falling crude prices squeeze the oil-dependent economy."
+        },
+        {
+          "headline": "Sharia penal code advanced",
+          "summary": "Plans for Islamic criminal law progress."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic appearance in Beijing",
+        "summary": "Brunei's small delegation competes at the Beijing Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 380000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic diversification push",
+          "summary": "Falling oil revenues spur efforts to broaden the economy."
+        },
+        {
+          "headline": "Border deal with Malaysia",
+          "summary": "Longstanding boundary disputes are resolved through agreement."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspension",
+        "summary": "FIFA suspends Brunei over government interference in football."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 387000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FIFA ban lifted",
+          "summary": "The suspension is removed after football governance reforms."
+        },
+        {
+          "headline": "Sultan's jubilee",
+          "summary": "Brunei marks milestones of the sultan's long reign."
+        }
+      ],
+      "sport": {
+        "headline": "Return to FIFA fold",
+        "summary": "Brunei rejoins international football after the ban ends."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 393000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chairmanship",
+          "summary": "Brunei prepares to chair the regional bloc."
+        },
+        {
+          "headline": "Sharia law timetable",
+          "summary": "Implementation of the Islamic penal code is scheduled."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Bruneian athletes compete at the Southeast Asian Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 399000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "South China Sea claims",
+          "summary": "Brunei maintains its quiet claim amid rising regional tensions."
+        },
+        {
+          "headline": "Royal wedding",
+          "summary": "A royal wedding draws regional attention."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Brunei's athletes compete at the London Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 403000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chair year",
+          "summary": "Brunei chairs ASEAN, hosting summits in Bandar Seri Begawan."
+        },
+        {
+          "headline": "Sharia phase one begins",
+          "summary": "The first phase of the Islamic penal code takes effect."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Myanmar",
+        "summary": "Brunei competes at the Southeast Asian Games in Naypyidaw."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 408000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sharia law enacted",
+          "summary": "Brunei implements the first phase of strict Islamic criminal law."
+        },
+        {
+          "headline": "International criticism",
+          "summary": "Western celebrities and governments condemn the new code."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Bruneian athletes contest the Asian Games."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 412000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price slump bites",
+          "summary": "Low crude prices strain state finances and subsidies."
+        },
+        {
+          "headline": "Defence ties with UK",
+          "summary": "Brunei maintains its British military presence agreement."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Singapore",
+        "summary": "Brunei's athletes compete at the Singapore SEA Games."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 417000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic contraction",
+          "summary": "The oil downturn pushes Brunei into recession."
+        },
+        {
+          "headline": "Sharia phases continue",
+          "summary": "Further phases of Islamic law are prepared."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Brunei sends a small team to the Rio Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 426000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Golden jubilee of sultan",
+          "summary": "Fifty years of Sultan Hassanal Bolkiah's reign are celebrated."
+        },
+        {
+          "headline": "Diversification drive",
+          "summary": "Wawasan 2035 plans seek to cut oil dependence."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Bruneian athletes compete in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 437000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cabinet reshuffle",
+          "summary": "The sultan shakes up ministries amid economic pressures."
+        },
+        {
+          "headline": "Sharia criticism resurfaces",
+          "summary": "New phases of the penal code draw fresh condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Brunei competes at the Asian Games in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 451000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Death penalty for gay sex",
+          "summary": "New sharia provisions prescribing stoning spark global boycott calls."
+        },
+        {
+          "headline": "Partial climbdown",
+          "summary": "The sultan announces a moratorium on the death penalty after outcry."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Brunei's athletes compete at the Manila SEA Games."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 442000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID contained",
+          "summary": "Strict measures keep Brunei's case count low."
+        },
+        {
+          "headline": "Oil crash impact",
+          "summary": "The pandemic oil collapse hits state revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "Domestic and international football halt for the pandemic."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 441000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chair again",
+          "summary": "Brunei chairs ASEAN during the Myanmar crisis."
+        },
+        {
+          "headline": "Myanmar envoy efforts",
+          "summary": "Brunei's chairmanship grapples with the junta's defiance."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Brunei's athletes compete at the delayed Tokyo Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 445000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Reopening after COVID",
+          "summary": "Brunei eases restrictions as vaccination rises."
+        },
+        {
+          "headline": "Energy transition talk",
+          "summary": "The sultanate eyes renewables amid oil volatility."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Brunei contests Asian Cup and World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 451000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sultan's regional diplomacy",
+          "summary": "Brunei hosts ASEAN-related engagements."
+        },
+        {
+          "headline": "Economic recovery",
+          "summary": "Higher energy prices lift the oil-rich economy."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Cambodia",
+        "summary": "Bruneian athletes compete at the Phnom Penh SEA Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 456000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Royal succession watched",
+          "summary": "Attention turns to the ageing sultan's eventual successor."
+        },
+        {
+          "headline": "Gaza stance",
+          "summary": "Brunei voices support for Palestinian causes."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Brunei's small delegation competes in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 460000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN engagement",
+          "summary": "Brunei participates in regional summits amid great-power rivalry."
+        },
+        {
+          "headline": "Diversification continues",
+          "summary": "Non-oil sectors grow slowly under Wawasan 2035."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Brunei competes at the Southeast Asian Games."
+      }
+    }
+  ]
+}

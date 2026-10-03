@@ -1,0 +1,396 @@
+{
+  "country": "Argentina",
+  "iso3": "ARG",
+  "currency": "ARS",
+  "currency_name": "Argentine Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 38971000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pulp mill dispute with Uruguay escalates",
+          "summary": "Argentina takes Uruguay to the International Court of Justice over mills on the shared river as bridge blockades continue."
+        },
+        {
+          "headline": "Dictatorship-trial witness disappears",
+          "summary": "Julio López vanishes in September after testifying against a former police chief, sparking national outrage and a fruitless search."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final exit to Germany",
+        "summary": "Argentina loses on penalties in Berlin; coach José Pekerman resigns after the defeat."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 39356000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cristina Kirchner elected president",
+          "summary": "She wins October's vote to succeed her husband Néstor, becoming Argentina's first elected woman president."
+        },
+        {
+          "headline": "Cash-smuggling scandal strains Venezuela ties",
+          "summary": "The Antonini Wilson suitcase case links Venezuelan funds to the Kirchner campaign, embarrassing both governments."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América final defeat to Brazil",
+        "summary": "Argentina loses 3-0 in Venezuela, but the under-20s win the World Cup with Sergio Agüero starring."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 39746000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Farm export-tax revolt paralyzes government",
+          "summary": "Four months of farmer strikes over Resolution 125 end when the Senate rejects the mobile export-tax hike."
+        },
+        {
+          "headline": "Government seizes private pension funds",
+          "summary": "Cristina nationalizes the AFJP pension system in November, citing the global financial crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football gold in Beijing",
+        "summary": "Messi and Agüero lead Argentina to a second straight Olympic title, beating Nigeria in the final."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 40134000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kirchnerism routed in midterm elections",
+          "summary": "The government's list loses Buenos Aires province in June, weakening Cristina ahead of the 2011 race."
+        },
+        {
+          "headline": "Media law battle with Clarín begins",
+          "summary": "Congress passes a law to break up the Clarín group, opening a years-long legal and political war."
+        }
+      ],
+      "sport": {
+        "headline": "Last-gasp World Cup qualification",
+        "summary": "Palermo's late winner against Peru and victory in Uruguay seal qualification under coach Maradona."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 40788000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Néstor Kirchner dies suddenly",
+          "summary": "The former president dies of a heart attack in October, reshaping Cristina's government and the 2011 race."
+        },
+        {
+          "headline": "Same-sex marriage legalized",
+          "summary": "Argentina becomes the first Latin American country to legalize gay marriage in July."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final humiliation by Germany",
+        "summary": "A 4-0 defeat in Cape Town ends Maradona's coaching reign; Messi leaves the tournament scoreless."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 41261000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cristina re-elected in landslide",
+          "summary": "She wins 54 percent in October's first round, the widest margin since the return of democracy."
+        },
+        {
+          "headline": "Currency controls introduced",
+          "summary": "'Cepo' restrictions on dollar purchases begin as capital flight accelerates."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América flop on home soil",
+        "summary": "Argentina exits in the quarter-finals to Uruguay on penalties despite hosting the tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 41733000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "YPF renationalized from Spain's Repsol",
+          "summary": "Congress expropriates a 51 percent stake in April, triggering a diplomatic row with Madrid."
+        },
+        {
+          "headline": "Mass cacerolazo protests erupt",
+          "summary": "Hundreds of thousands march in November against inflation, crime and corruption."
+        }
+      ],
+      "sport": {
+        "headline": "Messi scores record 91 goals in a year",
+        "summary": "He breaks Gerd Müller's 40-year record in December, capping a historic Barcelona season."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 42203000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF censures Argentina over inflation data",
+          "summary": "The Fund issues a rare censure in February over doctored official statistics."
+        },
+        {
+          "headline": "Argentine cardinal becomes Pope Francis",
+          "summary": "Jorge Bergoglio's March election thrills the country; Cristina attends the inauguration."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification sealed top of group",
+        "summary": "Argentina books Brazil 2014 with games to spare as Messi stars in qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 42670000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Default on holdout 'vulture fund' debt",
+          "summary": "Argentina defaults in July after US courts block payments unless holdout creditors are paid in full."
+        },
+        {
+          "headline": "Peso sharply devalued",
+          "summary": "The government lets the peso slide in January as foreign reserves drain."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup final heartbreak against Germany",
+        "summary": "Götze's extra-time goal in Rio denies Argentina a third title; Messi wins the Golden Ball."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 43132000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Prosecutor Nisman found dead",
+          "summary": "Alberto Nisman is found shot in January, days before testifying that Cristina covered up the AMIA bombing probe."
+        },
+        {
+          "headline": "Macri ends 12 years of Kirchnerism",
+          "summary": "Mauricio Macri beats Daniel Scioli in November's runoff, the country's first ever presidential ballotage."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América final loss to Chile",
+        "summary": "Argentina falls on penalties in Santiago; Messi misses in the shootout."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 43590000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Argentina settles with holdout creditors",
+          "summary": "Macri's government pays billions to end the 15-year debt saga and returns to bond markets."
+        },
+        {
+          "headline": "'Panama Papers' implicate Macri",
+          "summary": "Leaked documents link the president to offshore firms, though he denies wrongdoing."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América final defeat prompts Messi retirement",
+        "summary": "A third straight final loss, again to Chile on penalties, leads Messi to briefly quit the national team."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 44045000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Activist Maldonado found dead",
+          "summary": "Santiago Maldonado's body is found in October after a 78-day disappearance that polarized the country."
+        },
+        {
+          "headline": "Macri wins midterm elections",
+          "summary": "Cambiemos triumphs nationally in October, strengthening the reform agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Messi hat-trick rescues World Cup qualification",
+        "summary": "His three goals in Quito against Ecuador seal a last-day ticket to Russia 2018."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 44495000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Record $57bn IMF bailout agreed",
+          "summary": "A peso collapse forces Macri to seek the largest loan in IMF history in June."
+        },
+        {
+          "headline": "Buenos Aires hosts G20 summit",
+          "summary": "Trump, Putin and Xi attend the November summit amid tight security."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last-16 exit to France",
+        "summary": "A 4-3 thriller in Kazan ends Argentina's campaign; coach Sampaoli departs."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 44939000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fernández defeats Macri",
+          "summary": "Alberto Fernández, with Cristina as running mate, wins October's election on economic discontent."
+        },
+        {
+          "headline": "Markets crash after primary shock",
+          "summary": "The peso and stocks plunge in August when Fernández trounces Macri in the PASO primary."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América semi-final loss to Brazil",
+        "summary": "A 2-0 defeat in Belo Horizonte ends the title bid; Messi alleges corruption in officiating."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 45377000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sovereign debt restructured",
+          "summary": "After months of talks, Argentina seals a $65bn bond restructuring deal in August."
+        },
+        {
+          "headline": "Abortion legalized",
+          "summary": "Congress legalizes abortion up to 14 weeks in December after a historic feminist campaign."
+        }
+      ],
+      "sport": {
+        "headline": "Maradona dies aged 60",
+        "summary": "The nation's idol dies of a heart attack in November; three days of national mourning are declared."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 45809000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "'VIP vaccination' scandal topples minister",
+          "summary": "Health minister Ginés González García resigns in February over preferential vaccine access."
+        },
+        {
+          "headline": "Government crushed in midterms",
+          "summary": "The ruling coalition loses control of Congress in November amid soaring inflation."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América triumph at the Maracanã",
+        "summary": "Di María's goal beats Brazil 1-0 in the final, ending a 28-year trophy drought."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 46235000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vice president survives assassination attempt",
+          "summary": "Cristina Kirchner is attacked at point-blank range in September; the gun misfires."
+        },
+        {
+          "headline": "Inflation nears 100 percent",
+          "summary": "Annual inflation hits about 95 percent in December as the economy unravels."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup champions in Qatar",
+        "summary": "Argentina beats France on penalties in a classic final; Messi finally lifts the trophy."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 46655000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Milei wins presidency",
+          "summary": "Libertarian outsider Javier Milei beats Sergio Massa in November's runoff on a radical free-market platform."
+        },
+        {
+          "headline": "Primary shock rattles markets",
+          "summary": "Milei's surprise PASO win in August sends the peso tumbling and inflation soaring."
+        }
+      ],
+      "sport": {
+        "headline": "Messi joins Inter Miami",
+        "summary": "After leaving PSG, the World Cup winner moves to MLS in a landmark July transfer."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 47068000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Milei achieves fiscal surplus",
+          "summary": "Drastic spending cuts deliver monthly budget surpluses, though poverty spikes above 50 percent."
+        },
+        {
+          "headline": "'Ley Bases' reform package passes",
+          "summary": "Congress approves Milei's sweeping deregulation bill in June after months of protests."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América title retained",
+        "summary": "Lautaro Martínez's extra-time goal beats Colombia in the Miami final for a record 16th title."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 47474000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "'$LIBRA' crypto scandal engulfs Milei",
+          "summary": "The president promotes a memecoin in February that collapses within hours, sparking fraud probes."
+        },
+        {
+          "headline": "Milei's party wins midterms",
+          "summary": "La Libertad Avanza triumphs in October's legislative elections, consolidating power in Congress."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualification secured",
+        "summary": "Argentina becomes the first South American team to book its ticket, sealing it in March."
+      }
+    }
+  ]
+}

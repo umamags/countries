@@ -1,0 +1,396 @@
+{
+  "country": "Hungary",
+  "iso3": "HUN",
+  "currency": "HUF",
+  "currency_name": "Hungarian Forint",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10077000,
+      "fx_lcu_per_usd_annual_avg": 210.5831,
+      "geopolitical_news": [
+        {
+          "headline": "Oszod speech leak sparks riots",
+          "summary": "A leaked admission of lying triggers weeks of protests in Budapest."
+        },
+        {
+          "headline": "Gyurcsany survives crisis",
+          "summary": "The PM clings to power after the autumn unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss 2006 World Cup",
+        "summary": "Hungary fail to qualify for the finals."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10066000,
+      "fx_lcu_per_usd_annual_avg": 183.6661,
+      "geopolitical_news": [
+        {
+          "headline": "Government pushes austerity",
+          "summary": "Budapest imposes cuts to tame the deficit."
+        },
+        {
+          "headline": "Fidesz leads opposition surge",
+          "summary": "Viktor Orban's party dominates opinion polls."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss Euro 2008",
+        "summary": "Hungary finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10045000,
+      "fx_lcu_per_usd_annual_avg": 172.2606,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum rejects fees",
+          "summary": "Voters scrap health and tuition fees in March."
+        },
+        {
+          "headline": "Hungary takes IMF bailout",
+          "summary": "A $25 billion rescue follows the financial meltdown."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary begin 2010 World Cup qualifying",
+        "summary": "Hungary open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10031000,
+      "fx_lcu_per_usd_annual_avg": 201.9498,
+      "geopolitical_news": [
+        {
+          "headline": "Gyurcsany resigns",
+          "summary": "The PM quits in March amid economic collapse."
+        },
+        {
+          "headline": "Bajnai leads technocrat government",
+          "summary": "Gordon Bajnai takes over with crisis powers."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss 2010 World Cup",
+        "summary": "Hungary finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10014000,
+      "fx_lcu_per_usd_annual_avg": 208.3769,
+      "geopolitical_news": [
+        {
+          "headline": "Fidesz wins supermajority",
+          "summary": "Orban's party triumphs in April with two-thirds of seats."
+        },
+        {
+          "headline": "Orban begins constitutional overhaul",
+          "summary": "The new government rewrites laws and institutions."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary begin Euro 2012 qualifying",
+        "summary": "Hungary open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 9986000,
+      "fx_lcu_per_usd_annual_avg": 201.1823,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution adopted",
+          "summary": "Parliament passes a Fidesz-drafted basic law."
+        },
+        {
+          "headline": "EU criticises media law",
+          "summary": "Brussels objects to Hungary's new press controls."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss Euro 2012",
+        "summary": "Hungary finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 9932000,
+      "fx_lcu_per_usd_annual_avg": 225.2569,
+      "geopolitical_news": [
+        {
+          "headline": "Hungary seeks IMF deal",
+          "summary": "Budapest negotiates a precautionary credit line."
+        },
+        {
+          "headline": "Constitutional court curbed",
+          "summary": "The government limits the court's powers."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary begin 2014 World Cup qualifying",
+        "summary": "Hungary open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 9895000,
+      "fx_lcu_per_usd_annual_avg": 223.614,
+      "geopolitical_news": [
+        {
+          "headline": "Fidesz consolidates power",
+          "summary": "Electoral law changes favour the ruling party."
+        },
+        {
+          "headline": "Hungary repays IMF loan early",
+          "summary": "Budapest clears its 2008 bailout debt."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss 2014 World Cup",
+        "summary": "An 8-1 thrashing by the Netherlands ends the campaign in disgrace."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 9850000,
+      "fx_lcu_per_usd_annual_avg": 232.7689,
+      "geopolitical_news": [
+        {
+          "headline": "Fidesz wins second supermajority",
+          "summary": "Orban triumphs again in April elections."
+        },
+        {
+          "headline": "Orban proclaims illiberal state",
+          "summary": "The PM embraces 'illiberal democracy' in a July speech."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary begin Euro 2016 qualifying",
+        "summary": "Hungary open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 9816000,
+      "fx_lcu_per_usd_annual_avg": 279.5326,
+      "geopolitical_news": [
+        {
+          "headline": "Hungary builds border fence",
+          "summary": "A razor-wire barrier goes up on the Serbian border."
+        },
+        {
+          "headline": "Refugee crisis strains Hungary",
+          "summary": "Thousands transit Budapest's Keleti station amid chaos."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary qualify for Euro 2016",
+        "summary": "Hungary beat Norway in the playoffs to end a 44-year wait."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 9780000,
+      "fx_lcu_per_usd_annual_avg": 281.5053,
+      "geopolitical_news": [
+        {
+          "headline": "Migrant quota referendum",
+          "summary": "Voters reject EU quotas, though turnout voids the result."
+        },
+        {
+          "headline": "Orban tightens grip",
+          "summary": "The government targets NGOs and independent media."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary reach Euro 2016 last 16",
+        "summary": "Belgium knock Hungary out in Toulouse."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 9740000,
+      "fx_lcu_per_usd_annual_avg": 274.2771,
+      "geopolitical_news": [
+        {
+          "headline": "CEU row erupts",
+          "summary": "A law threatens the Central European University."
+        },
+        {
+          "headline": "EU launches rule-of-law pressure",
+          "summary": "Brussels steps up scrutiny of Budapest."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss 2018 World Cup",
+        "summary": "Hungary finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 9714000,
+      "fx_lcu_per_usd_annual_avg": 270.4199,
+      "geopolitical_news": [
+        {
+          "headline": "Fidesz wins third supermajority",
+          "summary": "Orban triumphs again in April elections."
+        },
+        {
+          "headline": "Opposition cries foul",
+          "summary": "The OSCE criticises the campaign's fairness."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary compete in Nations League C",
+        "summary": "Hungary finish second in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 9700000,
+      "fx_lcu_per_usd_annual_avg": 290.6785,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins Budapest",
+          "summary": "Gergely Karacsony takes the capital in October local elections."
+        },
+        {
+          "headline": "Fidesz suspended from EPP",
+          "summary": "The European People's Party suspends Orban's party."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary miss Euro 2020 automatically",
+        "summary": "Hungary finish fourth but keep playoff hopes via the Nations League."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 9689000,
+      "fx_lcu_per_usd_annual_avg": 307.8205,
+      "geopolitical_news": [
+        {
+          "headline": "Emergency powers controversy",
+          "summary": "Orban rules by decree during the pandemic."
+        },
+        {
+          "headline": "Hungary blocks EU budget",
+          "summary": "Budapest vetoes the EU budget over rule-of-law conditions."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary qualify for Euro 2020",
+        "summary": "Hungary beat Iceland in the playoff final to reach the finals."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 9651000,
+      "fx_lcu_per_usd_annual_avg": 303.3655,
+      "geopolitical_news": [
+        {
+          "headline": "Pegasus spying revelations",
+          "summary": "Hungary is accused of using spyware on journalists."
+        },
+        {
+          "headline": "Anti-LGBT law passed",
+          "summary": "A June law restricts gay content for minors, angering the EU."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary exit Euro 2020 in group of death",
+        "summary": "Hungary draw with France and Germany but bow out."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 9610000,
+      "fx_lcu_per_usd_annual_avg": 373.2044,
+      "geopolitical_news": [
+        {
+          "headline": "Fidesz wins fourth supermajority",
+          "summary": "Orban triumphs again in April elections."
+        },
+        {
+          "headline": "EU freezes funds for Hungary",
+          "summary": "Brussels withholds billions over rule-of-law concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary stun England twice",
+        "summary": "Nations League wins over England highlight a famous campaign."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 9600000,
+      "fx_lcu_per_usd_annual_avg": 353.271,
+      "geopolitical_news": [
+        {
+          "headline": "Hungary delays Sweden's NATO bid",
+          "summary": "Budapest stalls ratification for months."
+        },
+        {
+          "headline": "EU funds remain frozen",
+          "summary": "The rule-of-law standoff with Brussels continues."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary qualify for Euro 2024",
+        "summary": "Hungary top their qualifying group unbeaten."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 9585000,
+      "fx_lcu_per_usd_annual_avg": 365.3782,
+      "geopolitical_news": [
+        {
+          "headline": "Hungary holds EU presidency",
+          "summary": "Budapest's 'Make Europe Great Again' presidency irritates partners."
+        },
+        {
+          "headline": "Orban's 'peace mission' to Moscow",
+          "summary": "The PM's solo trips to Kyiv, Moscow and Beijing anger the EU."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary exit Euro 2024 in group stage",
+        "summary": "Hungary bow out despite beating Scotland."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 9560000,
+      "fx_lcu_per_usd_annual_avg": 352.9274,
+      "geopolitical_news": [
+        {
+          "headline": "Hungary's EU standoff persists",
+          "summary": "Frozen funds and vetoes keep Budapest at odds with Brussels."
+        },
+        {
+          "headline": "Opposition unites ahead of 2026 vote",
+          "summary": "Peter Magyar's Tisza party challenges Fidesz in polls."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary chase World Cup qualification",
+        "summary": "Hungary compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

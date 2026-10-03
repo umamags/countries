@@ -1,0 +1,396 @@
+{
+  "country": "Bahrain",
+  "iso3": "BHR",
+  "currency": "BHD",
+  "currency_name": "Bahraini Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 960000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins parliament seats",
+          "summary": "Shia bloc Al-Wefaq takes seats in November legislative elections."
+        },
+        {
+          "headline": "Sectarian tensions simmer",
+          "summary": "Shia majority chafes under Sunni monarchy rule."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Bahraini athletes compete at the regional Asian Games in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1039000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Activists face crackdown",
+          "summary": "Security forces arrest Shia activists amid rising sectarian friction."
+        },
+        {
+          "headline": "US base ties deepen",
+          "summary": "Manama hosts the US Fifth Fleet as Gulf security cooperation grows."
+        }
+      ],
+      "sport": {
+        "headline": "Jamal wins world 1500m title",
+        "summary": "Maryam Yusuf Jamal takes 1500m gold at the Osaka World Championships."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Shia protests flare",
+          "summary": "Demonstrations over discrimination draw heavy police responses."
+        },
+        {
+          "headline": "Financial hub ambitions",
+          "summary": "Bahrain pushes its role as a Gulf banking centre amid the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics campaign",
+        "summary": "Bahrain's athletes compete at the Beijing Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1178000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup dream dies",
+          "summary": "Bahrain loses its intercontinental playoff, missing the 2010 World Cup."
+        },
+        {
+          "headline": "King pardons detainees",
+          "summary": "Scores of Shia detainees are freed in a reconciliation gesture."
+        }
+      ],
+      "sport": {
+        "headline": "Playoff defeat to New Zealand",
+        "summary": "A 1-0 aggregate loss to New Zealand ends World Cup hopes."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1229000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition boycotts loom",
+          "summary": "Crackdown on Shia leaders precedes October parliamentary elections."
+        },
+        {
+          "headline": "Al-Wefaq contests polls",
+          "summary": "The Shia bloc takes part despite arrests of its supporters."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Bahraini athletes win athletics medals at the Asian Games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1195000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pearl Roundabout uprising",
+          "summary": "Mass pro-democracy protests are crushed after Saudi-led troops enter."
+        },
+        {
+          "headline": "Crackdown draws condemnation",
+          "summary": "Hundreds are arrested; medics and activists face military trials."
+        }
+      ],
+      "sport": {
+        "headline": "Bahrain Grand Prix cancelled",
+        "summary": "Formula 1 calls off the race amid the political unrest."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1209000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Grand Prix returns amid protests",
+          "summary": "The F1 race goes ahead under heavy security as demonstrations continue."
+        },
+        {
+          "headline": "Reform report fallout",
+          "summary": "An inquiry documents abuses, but implementation stalls."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics campaign",
+        "summary": "Bahrain's runners compete at the London Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1253000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "National dialogue falters",
+          "summary": "Reconciliation talks between government and opposition achieve little."
+        },
+        {
+          "headline": "Bombings hit Manama",
+          "summary": "Sporadic attacks by militant cells target security forces."
+        }
+      ],
+      "sport": {
+        "headline": "Bahrain Grand Prix",
+        "summary": "Formula 1's Sakhir round proceeds amid tight security."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1315000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition boycotts election",
+          "summary": "Al-Wefaq shuns November polls, undermining their legitimacy."
+        },
+        {
+          "headline": "First night Grand Prix",
+          "summary": "Bahrain hosts F1 under floodlights for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Night race debut",
+        "summary": "The Bahrain GP becomes a night race, won amid desert floodlights."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1370000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Death sentences condemned",
+          "summary": "Courts hand down capital sentences in unrest-related cases."
+        },
+        {
+          "headline": "Yemen war role",
+          "summary": "Bahrain joins the Saudi-led coalition intervening in Yemen."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup in Australia",
+        "summary": "Bahrain exits the Asian Cup at the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1424000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Wefaq dissolved",
+          "summary": "Courts disband the main Shia opposition society."
+        },
+        {
+          "headline": "Executions resume",
+          "summary": "Bahrain carries out executions for the first time in years."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic gold for Jebet",
+        "summary": "Ruth Jebet wins the steeplechase in Rio, Bahrain's first Olympic gold."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1501000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Qatar blockade joined",
+          "summary": "Bahrain joins Saudi Arabia and the UAE in boycotting Qatar."
+        },
+        {
+          "headline": "Executions continue",
+          "summary": "Further death sentences are carried out amid international outcry."
+        }
+      ],
+      "sport": {
+        "headline": "World athletics medals",
+        "summary": "Bahraini runners compete at the London World Championships."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1503000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections held",
+          "summary": "November polls proceed with the opposition banned or boycotting."
+        },
+        {
+          "headline": "Normalization signals",
+          "summary": "Quiet contacts with Israel foreshadow the Abraham Accords."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games athletics haul",
+        "summary": "Bahrain's runners win a stack of medals in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1484000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup glory",
+          "summary": "Bahrain's footballers lift the Gulf Cup, beating Saudi Arabia in the final."
+        },
+        {
+          "headline": "F1 race weekend",
+          "summary": "The Bahrain Grand Prix remains a fixture of the Gulf sporting calendar."
+        }
+      ],
+      "sport": {
+        "headline": "First Gulf Cup title",
+        "summary": "Bahrain win the Gulf Cup for the first time in Doha."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1472000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Abraham Accords signed",
+          "summary": "Bahrain normalizes relations with Israel in a US-brokered deal."
+        },
+        {
+          "headline": "F1 double-header",
+          "summary": "Sakhir hosts two Grands Prix as COVID reshapes the calendar."
+        }
+      ],
+      "sport": {
+        "headline": "Perez wins Sakhir GP",
+        "summary": "Sergio Perez takes a dramatic victory at the outer-loop Sakhir race."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1504000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID recovery",
+          "summary": "High vaccination rates allow Bahrain to reopen early."
+        },
+        {
+          "headline": "F1 season opener",
+          "summary": "Sakhir hosts the first race of the Formula 1 season."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic silver",
+        "summary": "Kalkidan Gezahegne takes 10,000m silver for Bahrain in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1525000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits Bahrain",
+          "summary": "Pope Francis makes a landmark November visit promoting dialogue."
+        },
+        {
+          "headline": "Parliamentary elections",
+          "summary": "November polls proceed with opposition groups sidelined."
+        }
+      ],
+      "sport": {
+        "headline": "F1 season opener again",
+        "summary": "Bahrain hosts the opening round of the Formula 1 season."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1577000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Regional diplomacy",
+          "summary": "Manama navigates Gulf rapprochements with Qatar, Iran and Syria."
+        },
+        {
+          "headline": "Rights scrutiny continues",
+          "summary": "Western allies press Bahrain over political prisoners."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games athletics medals",
+        "summary": "Bahraini runners medal at the Hangzhou Asian Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1589000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King visits Moscow",
+          "summary": "Bahrain's monarch holds talks with Putin on trade and Gaza."
+        },
+        {
+          "headline": "Gaza diplomacy",
+          "summary": "Manama backs Arab positions on the Gaza war."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup knockout debut",
+        "summary": "Bahrain reach the Asian Cup round of 16 for the first time."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1620000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf mediation role",
+          "summary": "Bahrain plays a quiet diplomatic part in regional de-escalation efforts."
+        },
+        {
+          "headline": "F1 contract extended",
+          "summary": "The Bahrain Grand Prix's long-term future is secured."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying push",
+        "summary": "Bahrain contests the decisive rounds of 2026 World Cup qualifying."
+      }
+    }
+  ]
+}

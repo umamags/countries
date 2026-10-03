@@ -1,0 +1,396 @@
+{
+  "country": "Kiribati",
+  "iso3": "KIR",
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 95000,
+      "fx_lcu_per_usd_annual_avg": 1.3282,
+      "geopolitical_news": [
+        {
+          "headline": "Tong government pursues development agenda",
+          "summary": "President Anote Tong's administration focused on fisheries revenue and climate advocacy."
+        },
+        {
+          "headline": "Kiribati raises sea-level concerns at UN",
+          "summary": "The low-lying nation warned the world about existential threats from rising oceans."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's athletes at Melbourne Commonwealth Games",
+        "summary": "I-Kiribati weightlifters and athletes represented the nation in Melbourne."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 97000,
+      "fx_lcu_per_usd_annual_avg": 1.1949,
+      "geopolitical_news": [
+        {
+          "headline": "Anote Tong re-elected president",
+          "summary": "Tong won a second term in the October presidential election."
+        },
+        {
+          "headline": "Kiribati champions climate action",
+          "summary": "The president became a global voice for vulnerable island states."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati competes at Apia Pacific Games",
+        "summary": "I-Kiribati athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 99000,
+      "fx_lcu_per_usd_annual_avg": 1.1962,
+      "geopolitical_news": [
+        {
+          "headline": "Phoenix Islands marine park created",
+          "summary": "Kiribati established one of the world's largest marine protected areas."
+        },
+        {
+          "headline": "Kiribati seeks climate relocation options",
+          "summary": "The government explored land purchases abroad as seas rose."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's team at Beijing Olympics",
+        "summary": "I-Kiribati athletes competed in weightlifting and athletics in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 101000,
+      "fx_lcu_per_usd_annual_avg": 1.2791,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati hosts climate-vulnerable nations",
+          "summary": "Tarawa gathered frontline states ahead of the Copenhagen climate summit."
+        },
+        {
+          "headline": "Ambo Declaration on climate signed",
+          "summary": "The November declaration demanded binding action from major emitters."
+        }
+      ],
+      "sport": {
+        "headline": "Weightlifters lead Kiribati's sporting hopes",
+        "summary": "Kiribati's lifters remained the nation's strongest international performers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": 1.0895,
+      "geopolitical_news": [
+        {
+          "headline": "Tong government faces no-confidence motions",
+          "summary": "Opposition challenges tested the president's parliamentary majority."
+        },
+        {
+          "headline": "Kiribati deepens Taiwan ties",
+          "summary": "Taipei-funded projects continued under the diplomatic relationship."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Delhi Commonwealth Games",
+        "summary": "I-Kiribati weightlifters competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": 0.9695,
+      "geopolitical_news": [
+        {
+          "headline": "Tong wins third presidential term",
+          "summary": "Anote Tong was re-elected in the January presidential vote."
+        },
+        {
+          "headline": "Kiribati's climate diplomacy intensifies",
+          "summary": "The president toured world capitals warning of inundation."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Noumea Pacific Games",
+        "summary": "The nation's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 106000,
+      "fx_lcu_per_usd_annual_avg": 0.9659,
+      "geopolitical_news": [
+        {
+          "headline": "Tong government survives challenges",
+          "summary": "The administration held its majority through parliamentary manoeuvres."
+        },
+        {
+          "headline": "Kiribati's seas keep rising",
+          "summary": "Erosion and king tides worsened on crowded South Tarawa."
+        }
+      ],
+      "sport": {
+        "headline": "Katoatau carries flag at London Olympics",
+        "summary": "Weightlifter David Katoatau led Kiribati's small team in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 107000,
+      "fx_lcu_per_usd_annual_avg": 1.0369,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati's climate warnings gain traction",
+          "summary": "International media spotlighted the nation's existential threat."
+        },
+        {
+          "headline": "Fisheries revenue reforms debated",
+          "summary": "Parliament discussed maximising income from tuna licensing."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's lifters target Glasgow 2014",
+        "summary": "Weightlifters prepared for the Commonwealth Games in Scotland."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 109000,
+      "fx_lcu_per_usd_annual_avg": 1.1092,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati buys land in Fiji",
+          "summary": "The government purchased land on Vanua Levu as a climate contingency."
+        },
+        {
+          "headline": "Tong's relocation policy debated",
+          "summary": "The Fiji land purchase sparked discussion of migration with dignity."
+        }
+      ],
+      "sport": {
+        "headline": "Katoatau wins Commonwealth gold",
+        "summary": "David Katoatau claimed Kiribati's first Commonwealth Games gold in Glasgow."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 110000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Pam's storm surges hit Kiribati",
+          "summary": "The March storm caused flooding and damage across the islands."
+        },
+        {
+          "headline": "Kiribati pushes for strong Paris deal",
+          "summary": "The nation demanded ambitious targets at the COP21 climate talks."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Port Moresby Pacific Games",
+        "summary": "I-Kiribati athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 112000,
+      "fx_lcu_per_usd_annual_avg": 1.3449,
+      "geopolitical_news": [
+        {
+          "headline": "Maamau elected president",
+          "summary": "Taneti Maamau defeated the Tong-backed candidate in the March election."
+        },
+        {
+          "headline": "New government reviews climate policy",
+          "summary": "The administration shifted emphasis toward domestic development."
+        }
+      ],
+      "sport": {
+        "headline": "Katoatau's Olympic dance charms Rio",
+        "summary": "The weightlifter's joyful dance made him a global favourite at the Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 114000,
+      "fx_lcu_per_usd_annual_avg": 1.305,
+      "geopolitical_news": [
+        {
+          "headline": "Maamau government consolidates",
+          "summary": "The new administration settled in after the change of government."
+        },
+        {
+          "headline": "Kiribati hosts regional fisheries talks",
+          "summary": "Tarawa staged meetings on tuna management in Pacific waters."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's athletes at Pacific Mini Games",
+        "summary": "I-Kiribati competitors contested the Mini Games in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 116000,
+      "fx_lcu_per_usd_annual_avg": 1.339,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati's Taiwan ties under scrutiny",
+          "summary": "Speculation grew about a possible diplomatic switch to Beijing."
+        },
+        {
+          "headline": "South Tarawa overcrowding worsens",
+          "summary": "Population pressure strained water and sanitation on the capital atoll."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Gold Coast Commonwealth Games",
+        "summary": "Weightlifters led the nation's team in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 118000,
+      "fx_lcu_per_usd_annual_avg": 1.4393,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati switches recognition to China",
+          "summary": "Tarawa cut ties with Taiwan in September and recognised Beijing."
+        },
+        {
+          "headline": "Switch sparks domestic and regional debate",
+          "summary": "The move divided opinion and drew attention from Australia and the US."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Apia Pacific Games",
+        "summary": "I-Kiribati athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 119000,
+      "fx_lcu_per_usd_annual_avg": 1.4519,
+      "geopolitical_news": [
+        {
+          "headline": "Maamau re-elected president",
+          "summary": "Taneti Maamau won a second term in the June presidential election."
+        },
+        {
+          "headline": "Kiribati stays COVID-free",
+          "summary": "Closed borders kept the virus out through the first pandemic year."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted Kiribati's international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 121000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati records first COVID cases",
+          "summary": "The virus reached the islands as borders cautiously reopened."
+        },
+        {
+          "headline": "Kiribati withdraws from Pacific Islands Forum",
+          "summary": "Tarawa quit the Forum in July amid a leadership dispute."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's athletes at Tokyo Olympics",
+        "summary": "A small I-Kiribati team competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 123000,
+      "fx_lcu_per_usd_annual_avg": 1.4428,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati rejoins Pacific Islands Forum",
+          "summary": "Tarawa returned to the Forum after Fiji-brokered reconciliation."
+        },
+        {
+          "headline": "China-Kiribati ties deepen",
+          "summary": "Beijing's influence grew through aid and infrastructure projects."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Birmingham Commonwealth Games",
+        "summary": "Weightlifters represented the nation in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 125000,
+      "fx_lcu_per_usd_annual_avg": 1.5066,
+      "geopolitical_news": [
+        {
+          "headline": "Maamau government faces no-confidence bid",
+          "summary": "Opposition motions tested the president's parliamentary support."
+        },
+        {
+          "headline": "Kiribati pushes climate finance demands",
+          "summary": "Tarawa sought loss-and-damage funding at global climate talks."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati at Honiara Pacific Games",
+        "summary": "I-Kiribati athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 127000,
+      "fx_lcu_per_usd_annual_avg": 1.5153,
+      "geopolitical_news": [
+        {
+          "headline": "Maamau wins third presidential term",
+          "summary": "The president was re-elected in the October vote."
+        },
+        {
+          "headline": "Kiribati balances major-power ties",
+          "summary": "Tarawa navigated relations with China, Australia and the US."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's athletes at Paris Olympics",
+        "summary": "I-Kiribati competitors represented the nation in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 129000,
+      "fx_lcu_per_usd_annual_avg": 1.5515,
+      "geopolitical_news": [
+        {
+          "headline": "Kiribati's climate relocation debate continues",
+          "summary": "Rising seas kept migration and adaptation at the top of the agenda."
+        },
+        {
+          "headline": "Fisheries revenue remains economic lifeline",
+          "summary": "Tuna licensing fees continued to fund much of the national budget."
+        }
+      ],
+      "sport": {
+        "headline": "Kiribati's lifters target regional titles",
+        "summary": "Weightlifting remained the nation's best medal hope."
+      }
+    }
+  ]
+}

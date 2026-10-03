@@ -127,7 +127,23 @@
       "gross_debt_pct_gdp": 31.5,
       "gross_debt_usd_billion": 18.11,
       "inflation_cpi_pct": 4.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5373000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Robert Fico's Smer triumphs in June elections."
+        },
+        {
+          "headline": "Coalition with nationalists",
+          "summary": "Smer allies with controversial far-right parties."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2006 World Cup",
+        "summary": "Slovakia fail to qualify for the finals."
+      }
     },
     {
       "year": 2007,
@@ -135,7 +151,23 @@
       "gross_debt_pct_gdp": 30.4,
       "gross_debt_usd_billion": 23.49,
       "inflation_cpi_pct": 1.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5373000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Slovakia prepares euro bid",
+          "summary": "Bratislava readies 2009 euro adoption."
+        },
+        {
+          "headline": "Fico government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss Euro 2008",
+        "summary": "Slovakia finish fourth in their qualifying group."
+      }
     },
     {
       "year": 2008,
@@ -143,7 +175,23 @@
       "gross_debt_pct_gdp": 28.6,
       "gross_debt_usd_billion": 27.78,
       "inflation_cpi_pct": 3.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5376000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "EU approves Slovakia's euro entry",
+          "summary": "Brussels clears 2009 adoption."
+        },
+        {
+          "headline": "Financial crisis hits Slovakia",
+          "summary": "The car industry slump hurts growth."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia mount World Cup qualifying bid",
+        "summary": "Slovakia challenge strongly in 2010 qualifying."
+      }
     },
     {
       "year": 2009,
@@ -151,7 +199,23 @@
       "gross_debt_pct_gdp": 36.4,
       "gross_debt_usd_billion": 32.49,
       "inflation_cpi_pct": 0.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5382000,
+      "exchange_rate_usd": 0.719,
+      "main_events": [
+        {
+          "headline": "Slovakia adopts the euro",
+          "summary": "The euro replaces the koruna in January."
+        },
+        {
+          "headline": "Gasparovic re-elected",
+          "summary": "The president wins April's vote."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for first World Cup",
+        "summary": "Slovakia top their group to reach South Africa."
+      }
     },
     {
       "year": 2010,
@@ -159,7 +223,23 @@
       "gross_debt_pct_gdp": 40.7,
       "gross_debt_usd_billion": 37.11,
       "inflation_cpi_pct": 0.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5390000,
+      "exchange_rate_usd": 0.7559,
+      "main_events": [
+        {
+          "headline": "Radicova wins election",
+          "summary": "Iveta Radicova becomes Slovakia's first female PM."
+        },
+        {
+          "headline": "Centre-right coalition formed",
+          "summary": "Four parties oust Fico in June."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Italy at World Cup",
+        "summary": "Slovakia knock the holders out to reach the last 16."
+      }
     },
     {
       "year": 2011,
@@ -167,7 +247,23 @@
       "gross_debt_pct_gdp": 43.3,
       "gross_debt_usd_billion": 43.16,
       "inflation_cpi_pct": 4.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5392000,
+      "exchange_rate_usd": 0.7192,
+      "main_events": [
+        {
+          "headline": "Government falls over euro bailout",
+          "summary": "An October vote topples Radicova's cabinet."
+        },
+        {
+          "headline": "Snap election called",
+          "summary": "Slovakia heads to early elections."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss Euro 2012",
+        "summary": "Slovakia finish fourth in their qualifying group."
+      }
     },
     {
       "year": 2012,
@@ -175,7 +271,23 @@
       "gross_debt_pct_gdp": 51.7,
       "gross_debt_usd_billion": 49.0,
       "inflation_cpi_pct": 3.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5404000,
+      "exchange_rate_usd": 0.7788,
+      "main_events": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Smer triumphs in March elections."
+        },
+        {
+          "headline": "Single-party government",
+          "summary": "Fico governs alone."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia begin World Cup qualifying",
+        "summary": "Slovakia open their 2014 campaign."
+      }
     },
     {
       "year": 2013,
@@ -183,7 +295,23 @@
       "gross_debt_pct_gdp": 54.6,
       "gross_debt_usd_billion": 54.13,
       "inflation_cpi_pct": 1.5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5411000,
+      "exchange_rate_usd": 0.7532,
+      "main_events": [
+        {
+          "headline": "Fico consolidates power",
+          "summary": "Smer dominates politics."
+        },
+        {
+          "headline": "Slovakia backs eurozone",
+          "summary": "Bratislava supports rescue packages."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2014 World Cup",
+        "summary": "Slovakia finish third in their qualifying group."
+      }
     },
     {
       "year": 2014,
@@ -191,7 +319,23 @@
       "gross_debt_pct_gdp": 53.4,
       "gross_debt_usd_billion": 54.33,
       "inflation_cpi_pct": -0.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5416000,
+      "exchange_rate_usd": 0.7539,
+      "main_events": [
+        {
+          "headline": "Kiska elected president",
+          "summary": "Andrej Kiska wins March's presidential vote."
+        },
+        {
+          "headline": "Fico's power checked",
+          "summary": "The upset signals discontent."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Spain in qualifier",
+        "summary": "A 2-1 win in Zilina launches a successful Euro 2016 bid."
+      }
     },
     {
       "year": 2015,
@@ -199,7 +343,23 @@
       "gross_debt_pct_gdp": 51.6,
       "gross_debt_usd_billion": 46.02,
       "inflation_cpi_pct": -0.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5421000,
+      "exchange_rate_usd": 0.9019,
+      "main_events": [
+        {
+          "headline": "Refugee quotas opposed",
+          "summary": "Bratislava rejects EU migrant quotas."
+        },
+        {
+          "headline": "Fico's anti-migrant rhetoric",
+          "summary": "The PM takes a hard line."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2016",
+        "summary": "Slovakia finish second to reach a first Euros."
+      }
     },
     {
       "year": 2016,
@@ -207,7 +367,23 @@
       "gross_debt_pct_gdp": 52.1,
       "gross_debt_usd_billion": 47.06,
       "inflation_cpi_pct": -0.5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5426000,
+      "exchange_rate_usd": 0.9039,
+      "main_events": [
+        {
+          "headline": "Fico wins election, loses majority",
+          "summary": "March elections force a coalition."
+        },
+        {
+          "headline": "Slovakia holds EU presidency",
+          "summary": "Bratislava leads the Council in late 2016."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia reach Euro 2016 last 16",
+        "summary": "Germany knock Slovakia out in Lille."
+      }
     },
     {
       "year": 2017,
@@ -215,7 +391,23 @@
       "gross_debt_pct_gdp": 51.4,
       "gross_debt_usd_billion": 49.32,
       "inflation_cpi_pct": 1.4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5435000,
+      "exchange_rate_usd": 0.887,
+      "main_events": [
+        {
+          "headline": "Fico government stable",
+          "summary": "The three-party coalition holds."
+        },
+        {
+          "headline": "Corruption scandals simmer",
+          "summary": "Graft allegations mount."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2018 World Cup",
+        "summary": "Slovakia finish second but rank as worst runners-up."
+      }
     },
     {
       "year": 2018,
@@ -223,7 +415,23 @@
       "gross_debt_pct_gdp": 49.3,
       "gross_debt_usd_billion": 52.58,
       "inflation_cpi_pct": 2.5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5443000,
+      "exchange_rate_usd": 0.8476,
+      "main_events": [
+        {
+          "headline": "Kuciak murdered",
+          "summary": "Journalist Jan Kuciak is killed in February."
+        },
+        {
+          "headline": "Fico resigns",
+          "summary": "Mass protests force the PM out in March."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia compete in Nations League B",
+        "summary": "Slovakia battle in their League B group."
+      }
     },
     {
       "year": 2019,
@@ -231,7 +439,23 @@
       "gross_debt_pct_gdp": 48,
       "gross_debt_usd_billion": 50.81,
       "inflation_cpi_pct": 2.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5450000,
+      "exchange_rate_usd": 0.8934,
+      "main_events": [
+        {
+          "headline": "Caputova elected president",
+          "summary": "Zuzana Caputova wins March's vote."
+        },
+        {
+          "headline": "Pellegrini leads government",
+          "summary": "Peter Pellegrini serves as PM."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia keep Euro 2020 playoff hopes",
+        "summary": "Nations League success offers a playoff route."
+      }
     },
     {
       "year": 2020,
@@ -239,7 +463,23 @@
       "gross_debt_pct_gdp": 58.4,
       "gross_debt_usd_billion": 62.87,
       "inflation_cpi_pct": 2,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5458000,
+      "exchange_rate_usd": 0.8768,
+      "main_events": [
+        {
+          "headline": "Matovic wins election",
+          "summary": "Igor Matovic's OL'aNO triumphs in February."
+        },
+        {
+          "headline": "COVID-19 hits Slovakia",
+          "summary": "The pandemic strains the country."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2020",
+        "summary": "Playoff wins over Ireland and Northern Ireland seal it."
+      }
     },
     {
       "year": 2021,
@@ -247,7 +487,23 @@
       "gross_debt_pct_gdp": 60.2,
       "gross_debt_usd_billion": 72.6,
       "inflation_cpi_pct": 2.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5460000,
+      "exchange_rate_usd": 0.846,
+      "main_events": [
+        {
+          "headline": "Government crisis",
+          "summary": "Matovic resigns; Heger becomes PM in April."
+        },
+        {
+          "headline": "Sputnik V row",
+          "summary": "A Russian vaccine deal splits the coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia exit Euro 2020 in group stage",
+        "summary": "Slovakia bow out with one win."
+      }
     },
     {
       "year": 2022,
@@ -255,7 +511,23 @@
       "gross_debt_pct_gdp": 57.8,
       "gross_debt_usd_billion": 66.98,
       "inflation_cpi_pct": 12.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5435000,
+      "exchange_rate_usd": 0.9518,
+      "main_events": [
+        {
+          "headline": "Slovakia backs Ukraine",
+          "summary": "Bratislava sends arms and hosts refugees."
+        },
+        {
+          "headline": "Government survives",
+          "summary": "Heger's cabinet holds narrowly."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia compete in Nations League C",
+        "summary": "Slovakia battle in their League C group."
+      }
     },
     {
       "year": 2023,
@@ -263,7 +535,23 @@
       "gross_debt_pct_gdp": 55.8,
       "gross_debt_usd_billion": 74.56,
       "inflation_cpi_pct": 11,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5429000,
+      "exchange_rate_usd": 0.9251,
+      "main_events": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Smer triumphs in September elections."
+        },
+        {
+          "headline": "Fico returns as PM",
+          "summary": "The veteran leader forms a coalition in October."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2024",
+        "summary": "Slovakia finish second in their qualifying group."
+      }
     },
     {
       "year": 2024,
@@ -271,7 +559,23 @@
       "gross_debt_pct_gdp": 59.7,
       "gross_debt_usd_billion": 84.11,
       "inflation_cpi_pct": 3.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 5425000,
+      "exchange_rate_usd": 0.9241,
+      "main_events": [
+        {
+          "headline": "Fico shot in assassination attempt",
+          "summary": "The PM is seriously wounded in May."
+        },
+        {
+          "headline": "Pellegrini elected president",
+          "summary": "Peter Pellegrini wins April's vote."
+        }
+      ],
+      "sport": {
+        "headline": "England end Slovakia's Euro 2024 run",
+        "summary": "Slovakia lose in extra time in the last 16."
+      }
     },
     {
       "year": 2025,
@@ -279,7 +583,23 @@
       "gross_debt_pct_gdp": 61.6,
       "gross_debt_usd_billion": 95.14,
       "inflation_cpi_pct": 4.2,
-      "status": "IMF estimate / projection"
+      "status": "IMF estimate / projection",
+      "population": 5419000,
+      "exchange_rate_usd": 0.8867,
+      "main_events": [
+        {
+          "headline": "Fico government stable",
+          "summary": "The coalition holds despite tensions."
+        },
+        {
+          "headline": "Slovakia's EU rows",
+          "summary": "Bratislava clashes with Brussels."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Germany in qualifier",
+        "summary": "A 2-0 win in Bratislava shocks the four-time champions."
+      }
     }
   ]
 }

@@ -1,0 +1,396 @@
+{
+  "country": "Iceland",
+  "iso3": "ISL",
+  "currency": "ISK",
+  "currency_name": "Icelandic Króna",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 300000,
+      "fx_lcu_per_usd_annual_avg": 69.8468,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland's boom continues",
+          "summary": "Banking expansion fuels rapid growth."
+        },
+        {
+          "headline": "Whaling row with West",
+          "summary": "Iceland resumes commercial whaling amid protests."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2008 qualifying hopes",
+        "summary": "Iceland struggle in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 308000,
+      "fx_lcu_per_usd_annual_avg": 64.0331,
+      "geopolitical_news": [
+        {
+          "headline": "Independence Party wins election",
+          "summary": "Geir Haarde stays PM after May's parliamentary elections."
+        },
+        {
+          "headline": "Banking bubble grows",
+          "summary": "Iceland's banks expand aggressively abroad."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2008",
+        "summary": "Iceland finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 315000,
+      "fx_lcu_per_usd_annual_avg": 100.2319,
+      "geopolitical_news": [
+        {
+          "headline": "Banking system collapses",
+          "summary": "Kaupthing, Landsbanki and Glitnir fall in October."
+        },
+        {
+          "headline": "Iceland takes IMF loan",
+          "summary": "Reykjavik accepts a $2 billion rescue package."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin 2010 World Cup qualifying",
+        "summary": "Iceland open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 319000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Haarde resigns amid protests",
+          "summary": "Kitchenware protests force the PM out in January."
+        },
+        {
+          "headline": "Sigurdardottir becomes PM",
+          "summary": "Johanna Sigurdardottir leads a left-green coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss 2010 World Cup",
+        "summary": "Iceland finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 318000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eyjafjallajokull eruption",
+          "summary": "Volcanic ash grounds European flights in April."
+        },
+        {
+          "headline": "Icesave referendum rejects deal",
+          "summary": "Voters reject repaying Britain and the Netherlands in March."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin Euro 2012 qualifying",
+        "summary": "Iceland open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 312000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Second Icesave referendum fails",
+          "summary": "Voters again reject the repayment deal in April."
+        },
+        {
+          "headline": "Iceland's recovery begins",
+          "summary": "Capital controls stabilise the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2012",
+        "summary": "Iceland finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 313000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland debates EU membership",
+          "summary": "Accession talks proceed slowly."
+        },
+        {
+          "headline": "Haarde acquitted mostly",
+          "summary": "The former PM is cleared of most crisis charges."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin 2014 World Cup qualifying",
+        "summary": "Iceland open their campaign with promise."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 316000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Centre-right wins election",
+          "summary": "The Independence and Progressive parties return to power."
+        },
+        {
+          "headline": "Iceland freezes EU talks",
+          "summary": "The new government halts accession negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia deny Iceland World Cup",
+        "summary": "Iceland lose their playoff to Croatia."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 320000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland's economy recovers",
+          "summary": "Growth returns; capital controls remain."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "The centre-right coalition governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland beat Netherlands twice",
+        "summary": "Shock qualifying wins launch the Euro 2016 dream."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 323000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Panama Papers loom",
+          "summary": "Offshore leaks will soon implicate the PM."
+        },
+        {
+          "headline": "Iceland's boom returns",
+          "summary": "Tourism and fishing drive strong growth."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland qualify for Euro 2016",
+        "summary": "Iceland reach a first major tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 326000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "PM resigns over Panama Papers",
+          "summary": "Sigmundur Gunnlaugsson quits in April."
+        },
+        {
+          "headline": "Snap election: no clear winner",
+          "summary": "October elections produce a fragmented parliament."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland reach Euro 2016 quarter-finals",
+        "summary": "Iceland stun England before losing to France."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 333000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New government formed",
+          "summary": "A centre-right coalition takes office in January."
+        },
+        {
+          "headline": "Snap election again",
+          "summary": "September elections follow a scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland qualify for 2018 World Cup",
+        "summary": "Iceland top their group, the smallest nation ever to qualify."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 342000,
+      "fx_lcu_per_usd_annual_avg": 108.8424,
+      "geopolitical_news": [
+        {
+          "headline": "Government stabilises",
+          "summary": "Katrin Jakobsdottir leads a left-right coalition."
+        },
+        {
+          "headline": "Iceland's tourism boom",
+          "summary": "Visitor numbers transform the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland draw with Argentina at World Cup",
+        "summary": "A debut draw with Messi's Argentina thrills Iceland."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 349000,
+      "fx_lcu_per_usd_annual_avg": 122.6473,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland weathers slowdown",
+          "summary": "Tourism dip cools the economy."
+        },
+        {
+          "headline": "Wage deal averts strikes",
+          "summary": "Unions and employers agree pay rises."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2020 automatically",
+        "summary": "Iceland finish third but keep playoff hopes."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 354000,
+      "fx_lcu_per_usd_annual_avg": 135.3834,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland manages COVID well",
+          "summary": "Testing and tracing keep the virus at bay."
+        },
+        {
+          "headline": "Tourism collapses",
+          "summary": "The pandemic empties Iceland's hotels."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary deny Iceland Euro 2020",
+        "summary": "Iceland lose their playoff final in Budapest."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 358000,
+      "fx_lcu_per_usd_annual_avg": 126.9981,
+      "geopolitical_news": [
+        {
+          "headline": "Government re-elected",
+          "summary": "September elections keep the coalition in power."
+        },
+        {
+          "headline": "Volcano erupts near Reykjavik",
+          "summary": "Fagradalsfjall draws lava tourists."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss 2022 World Cup",
+        "summary": "Iceland finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 365000,
+      "fx_lcu_per_usd_annual_avg": 135.3417,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland backs Ukraine",
+          "summary": "Reykjavik supports Kyiv and sanctions."
+        },
+        {
+          "headline": "Inflation surges",
+          "summary": "Rising prices squeeze households."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland compete in Nations League",
+        "summary": "Iceland finish mid-table in their League B group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 375000,
+      "fx_lcu_per_usd_annual_avg": 137.9576,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland's whaling debate",
+          "summary": "The government pauses then allows whaling."
+        },
+        {
+          "headline": "Volcanic eruptions continue",
+          "summary": "Grindavik is evacuated amid eruptions."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine deny Iceland Euro 2024",
+        "summary": "Iceland lose their playoff semi-final."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 384000,
+      "fx_lcu_per_usd_annual_avg": 137.9584,
+      "geopolitical_news": [
+        {
+          "headline": "New president elected",
+          "summary": "Halla Tomasdottir wins June's presidential election."
+        },
+        {
+          "headline": "Volcano disrupts Grindavik",
+          "summary": "Eruptions keep the town evacuated."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland compete in Nations League",
+        "summary": "Iceland battle in their League B group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 389000,
+      "fx_lcu_per_usd_annual_avg": 128.2933,
+      "geopolitical_news": [
+        {
+          "headline": "Iceland's EU debate revives",
+          "summary": "Membership talk returns amid economic shifts."
+        },
+        {
+          "headline": "Government focuses on housing",
+          "summary": "Reykjavik tackles the housing crunch."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland chase World Cup qualification",
+        "summary": "Iceland compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

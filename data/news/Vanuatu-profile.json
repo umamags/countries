@@ -1,0 +1,400 @@
+{
+  "country": "Vanuatu",
+  "iso3": "VUT",
+  "currency": "VUV",
+  "currency_name": "Vanuatu Vatu",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 219000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ham Lini government pursues reforms",
+          "summary": "The prime minister pushed anti-corruption measures amid coalition instability."
+        },
+        {
+          "headline": "Vanuatu champions Pacific climate concerns",
+          "summary": "Port Vila raised sea-level rise at regional forums."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's athletes target Commonwealth success",
+        "summary": "The nation's small team prepared for Melbourne 2006 competition."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 224000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament debates electoral reform",
+          "summary": "Proposals to stabilise Vanuatu's fragmented party system were discussed."
+        },
+        {
+          "headline": "Vanuatu strengthens regional diplomacy",
+          "summary": "Port Vila engaged with Melanesian and Pacific partners on trade and security."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu competes at Pacific Games in Apia",
+        "summary": "Ni-Vanuatu athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 229000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Natapei becomes PM after election",
+          "summary": "Edward Natapei formed a government following the September general election."
+        },
+        {
+          "headline": "Coalition-building dominates politics",
+          "summary": "The fractured parliament required complex alliances to govern."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's team at Beijing Olympics",
+        "summary": "Ni-Vanuatu athletes competed in athletics and table tennis in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 234000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government faces no-confidence challenges",
+          "summary": "Opposition motions tested Natapei's parliamentary majority."
+        },
+        {
+          "headline": "Offshore finance sector under scrutiny",
+          "summary": "International regulators pressed Vanuatu on tax haven transparency."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu footballers chase World Cup dream",
+        "summary": "The national team contested Oceania qualifiers for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 240000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Natapei ousted; Kilman becomes PM",
+          "summary": "Sato Kilman won a December no-confidence vote to take the premiership."
+        },
+        {
+          "headline": "Political instability continues",
+          "summary": "The leadership change was the latest in Vanuatu's revolving-door politics."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu competes at Delhi Commonwealth Games",
+        "summary": "Ni-Vanuatu athletes represented the nation in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 245000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Revolving-door prime ministerships",
+          "summary": "Kilman, Vohor and Natapei all held the top job during a chaotic year."
+        },
+        {
+          "headline": "Courts drawn into political disputes",
+          "summary": "Leadership battles repeatedly ended up before the judiciary."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Noumea Pacific Games",
+        "summary": "The nation's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 251000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kilman retains PM after election",
+          "summary": "The October general election returned Sato Kilman to power."
+        },
+        {
+          "headline": "Vanuatu hosts Melanesian Spearhead Group talks",
+          "summary": "Regional leaders discussed trade and West Papua in Port Vila."
+        }
+      ],
+      "sport": {
+        "headline": "Beach volleyball pair at London Olympics",
+        "summary": "Vanuatu's women's team competed on the Olympic sand in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 257000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Carcasses ousts Kilman in no-confidence vote",
+          "summary": "Moana Carcasses became prime minister in March after toppling Kilman."
+        },
+        {
+          "headline": "Government reviews foreign investment rules",
+          "summary": "The new administration scrutinised land and business deals."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's footballers in World Cup qualifying",
+        "summary": "The national team contested the Oceania road to Brazil 2014."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 263000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Carcasses ousted; Natuman becomes PM",
+          "summary": "Joe Natuman won a May no-confidence vote to lead the government."
+        },
+        {
+          "headline": "Vanuatu hosts regional summits",
+          "summary": "Port Vila staged Melanesian and Pacific meetings."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Glasgow Commonwealth Games",
+        "summary": "Ni-Vanuatu athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 269000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Pam devastates Vanuatu",
+          "summary": "The March Category 5 storm flattened villages across the archipelago."
+        },
+        {
+          "headline": "Fourteen MPs jailed for bribery",
+          "summary": "The October convictions, including the speaker, triggered a political crisis."
+        },
+        {
+          "headline": "Snap election called after crisis",
+          "summary": "The bribery scandal forced an early general election."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's athletes at Port Moresby Pacific Games",
+        "summary": "The team competed in Papua New Guinea months after Cyclone Pam."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 272000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election; Salwai becomes PM",
+          "summary": "Charlot Salwai formed a government after the January poll."
+        },
+        {
+          "headline": "Rebuilding after Pam continues",
+          "summary": "Cyclone recovery dominated the new government's agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Beach volleyballers at Rio Olympics",
+        "summary": "Vanuatu's women's pair represented the nation on Copacabana beach."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 279000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ambae eruption displaces thousands",
+          "summary": "Volcanic eruptions forced mass evacuations from Ambae island."
+        },
+        {
+          "headline": "Government manages volcano emergency",
+          "summary": "Tens of thousands were relocated as ash smothered the island."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Pacific Mini Games",
+        "summary": "Ni-Vanuatu athletes competed at the Mini Games in Port Vila."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 285000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ambae island fully evacuated",
+          "summary": "The government ordered a mandatory evacuation of the volcanic island."
+        },
+        {
+          "headline": "Vanuatu denies Chinese base reports",
+          "summary": "Port Vila rejected reports of plans for a Chinese military facility."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's athletes at Gold Coast Commonwealth Games",
+        "summary": "The team competed in beach volleyball, boxing and athletics."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 292000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vanuatu champions ICJ climate opinion",
+          "summary": "Port Vila began its campaign for an International Court of Justice advisory opinion on climate."
+        },
+        {
+          "headline": "Salwai government pursues reforms",
+          "summary": "The prime minister pushed political integrity legislation."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Apia Pacific Games",
+        "summary": "Ni-Vanuatu athletes contested the 2019 Pacific Games in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 298000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Harold strikes amid border closure",
+          "summary": "The April Category 5 storm hit while COVID kept borders shut."
+        },
+        {
+          "headline": "Loughman becomes PM after election",
+          "summary": "Bob Loughman formed a government following the March general election."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID restrictions halted Vanuatu's international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 305000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Strict quarantine keeps COVID at bay",
+          "summary": "Vanuatu recorded only quarantine cases as borders stayed shut."
+        },
+        {
+          "headline": "Government extends state of emergency",
+          "summary": "Emergency powers were repeatedly renewed through the pandemic."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's athletes at Tokyo Olympics",
+        "summary": "A small ni-Vanuatu team competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 312000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kalsakau becomes PM after election",
+          "summary": "Ishmael Kalsakau formed a government following the October snap poll."
+        },
+        {
+          "headline": "Vanuatu signs security deal with Australia",
+          "summary": "The bilateral security agreement was signed in December."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Birmingham Commonwealth Games",
+        "summary": "Ni-Vanuatu athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 319000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN backs Vanuatu's ICJ climate bid",
+          "summary": "The General Assembly voted in March to seek the court's advisory opinion on climate."
+        },
+        {
+          "headline": "Prime ministership changes hands twice",
+          "summary": "Kalsakau was ousted and Kilman briefly returned before losing another vote."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu at Honiara Pacific Games",
+        "summary": "The nation's athletes competed at the 2023 Pacific Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 327000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly earthquake hits Port Vila",
+          "summary": "The December quake killed people and wrecked buildings in the capital."
+        },
+        {
+          "headline": "Political instability continues",
+          "summary": "Further no-confidence motions kept the prime ministership in flux."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu's athletes at Paris Olympics",
+        "summary": "Ni-Vanuatu competitors represented the nation in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 334000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election brings Napat to power",
+          "summary": "Jotham Napat became prime minister after the January snap election."
+        },
+        {
+          "headline": "Earthquake recovery continues",
+          "summary": "Rebuilding from the December 2024 quake dominated the agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Vanuatu rebuilds sporting programs",
+        "summary": "The nation's athletes resumed regional competition after the quake."
+      }
+    }
+  ]
+}

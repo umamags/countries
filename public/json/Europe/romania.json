@@ -158,7 +158,23 @@
       "gross_debt_pct_gdp": 12.7,
       "gross_debt_usd_billion": 15.51,
       "inflation_cpi_pct": 6.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 21257000,
+      "exchange_rate_usd": 2.8113,
+      "main_events": [
+        {
+          "headline": "Basescu government... coalition rows",
+          "summary": "The president and PM Tariceanu clash constantly."
+        },
+        {
+          "headline": "Romania set to join EU",
+          "summary": "Final preparations for January 2007 accession."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss 2006 World Cup",
+        "summary": "Romania fail to qualify for the finals."
+      }
     },
     {
       "year": 2007,
@@ -166,7 +182,23 @@
       "gross_debt_pct_gdp": 12.4,
       "gross_debt_usd_billion": 21.68,
       "inflation_cpi_pct": 4.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 21131000,
+      "exchange_rate_usd": 2.4361,
+      "main_events": [
+        {
+          "headline": "Romania joins the European Union",
+          "summary": "Romania enters the EU on January 1."
+        },
+        {
+          "headline": "Basescu survives suspension",
+          "summary": "The president wins May's impeachment referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Romania qualify for Euro 2008",
+        "summary": "Romania top their qualifying group."
+      }
     },
     {
       "year": 2008,
@@ -174,7 +206,23 @@
       "gross_debt_pct_gdp": 13,
       "gross_debt_usd_billion": 28.02,
       "inflation_cpi_pct": 7.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20635000,
+      "exchange_rate_usd": 2.52,
+      "main_events": [
+        {
+          "headline": "PDL wins election",
+          "summary": "The Democratic Liberals triumph in November elections."
+        },
+        {
+          "headline": "Financial crisis hits Romania",
+          "summary": "The economy contracts sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Romania exit Euro 2008 in group of death",
+        "summary": "Romania bow out with two draws."
+      }
     },
     {
       "year": 2009,
@@ -182,7 +230,23 @@
       "gross_debt_pct_gdp": 22.5,
       "gross_debt_usd_billion": 39.28,
       "inflation_cpi_pct": 5.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20440000,
+      "exchange_rate_usd": 3.0484,
+      "main_events": [
+        {
+          "headline": "Basescu re-elected narrowly",
+          "summary": "The president wins December's runoff by a whisker."
+        },
+        {
+          "headline": "IMF bailout agreed",
+          "summary": "A 20 billion euro rescue follows the meltdown."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss 2010 World Cup",
+        "summary": "Romania finish fifth in their qualifying group."
+      }
     },
     {
       "year": 2010,
@@ -190,7 +254,23 @@
       "gross_debt_pct_gdp": 30.2,
       "gross_debt_usd_billion": 51.44,
       "inflation_cpi_pct": 6.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20295000,
+      "exchange_rate_usd": 3.1845,
+      "main_events": [
+        {
+          "headline": "Austerity bites",
+          "summary": "Wage cuts and tax rises spark protests."
+        },
+        {
+          "headline": "Boc government survives",
+          "summary": "The PM clings to power."
+        }
+      ],
+      "sport": {
+        "headline": "Romania begin Euro 2012 qualifying",
+        "summary": "Romania open their qualifying campaign."
+      }
     },
     {
       "year": 2011,
@@ -198,7 +278,23 @@
       "gross_debt_pct_gdp": 32.6,
       "gross_debt_usd_billion": 62.87,
       "inflation_cpi_pct": 5.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20199000,
+      "exchange_rate_usd": 3.0501,
+      "main_events": [
+        {
+          "headline": "Protests rock Bucharest",
+          "summary": "Austerity demonstrations turn violent in January 2012."
+        },
+        {
+          "headline": "Cooperation mechanism continues",
+          "summary": "EU corruption monitoring stays in place."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss Euro 2012",
+        "summary": "Romania finish third in their qualifying group."
+      }
     },
     {
       "year": 2012,
@@ -206,7 +302,23 @@
       "gross_debt_pct_gdp": 36.2,
       "gross_debt_usd_billion": 64.88,
       "inflation_cpi_pct": 3.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20096000,
+      "exchange_rate_usd": 3.4741,
+      "main_events": [
+        {
+          "headline": "Ponta becomes prime minister",
+          "summary": "Victor Ponta takes office in May."
+        },
+        {
+          "headline": "Basescu survives second suspension",
+          "summary": "The president wins July's impeachment referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Romania begin World Cup qualifying",
+        "summary": "Romania open their 2014 campaign."
+      }
     },
     {
       "year": 2013,
@@ -214,7 +326,23 @@
       "gross_debt_pct_gdp": 39.3,
       "gross_debt_usd_billion": 74.61,
       "inflation_cpi_pct": 4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 20020000,
+      "exchange_rate_usd": 3.3282,
+      "main_events": [
+        {
+          "headline": "USL alliance fractures",
+          "summary": "The ruling coalition splits."
+        },
+        {
+          "headline": "Ponta consolidates power",
+          "summary": "The PM dominates politics."
+        }
+      ],
+      "sport": {
+        "headline": "Greece deny Romania World Cup",
+        "summary": "Romania lose their playoff."
+      }
     },
     {
       "year": 2014,
@@ -222,7 +350,23 @@
       "gross_debt_pct_gdp": 40.5,
       "gross_debt_usd_billion": 81.0,
       "inflation_cpi_pct": 1.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19947000,
+      "exchange_rate_usd": 3.3499,
+      "main_events": [
+        {
+          "headline": "Iohannis wins presidency",
+          "summary": "Klaus Iohannis triumphs in November's runoff."
+        },
+        {
+          "headline": "Diaspora vote decisive",
+          "summary": "Long queues abroad fuel the upset."
+        }
+      ],
+      "sport": {
+        "headline": "Romania begin Euro 2016 qualifying",
+        "summary": "Romania open their qualifying campaign."
+      }
     },
     {
       "year": 2015,
@@ -230,7 +374,23 @@
       "gross_debt_pct_gdp": 39.4,
       "gross_debt_usd_billion": 70.08,
       "inflation_cpi_pct": -0.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19871000,
+      "exchange_rate_usd": 4.0092,
+      "main_events": [
+        {
+          "headline": "Colectiv fire kills dozens",
+          "summary": "An October nightclub blaze kills 64 and sparks national outrage."
+        },
+        {
+          "headline": "Ponta resigns; technocrat takes over",
+          "summary": "Mass protests force the PM out; Dacian Ciolos forms a caretaker cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "Romania qualify for Euro 2016",
+        "summary": "Romania finish second, unbeaten in qualifying."
+      }
     },
     {
       "year": 2016,
@@ -238,7 +398,23 @@
       "gross_debt_pct_gdp": 39.5,
       "gross_debt_usd_billion": 73.21,
       "inflation_cpi_pct": -1.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19761000,
+      "exchange_rate_usd": 4.0591,
+      "main_events": [
+        {
+          "headline": "PSD wins election",
+          "summary": "The Social Democrats triumph in December elections."
+        },
+        {
+          "headline": "Dragnea barred from premiership",
+          "summary": "A conviction blocks the party leader."
+        }
+      ],
+      "sport": {
+        "headline": "Romania exit Euro 2016 winless",
+        "summary": "Romania bow out with one point."
+      }
     },
     {
       "year": 2017,
@@ -246,7 +422,23 @@
       "gross_debt_pct_gdp": 37.1,
       "gross_debt_usd_billion": 78.11,
       "inflation_cpi_pct": 1.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19644000,
+      "exchange_rate_usd": 4.0513,
+      "main_events": [
+        {
+          "headline": "Mass protests against graft decree",
+          "summary": "Hundreds of thousands rally in February."
+        },
+        {
+          "headline": "Government backs down",
+          "summary": "The corruption decree is withdrawn."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss 2018 World Cup",
+        "summary": "Romania finish fourth in their qualifying group."
+      }
     },
     {
       "year": 2018,
@@ -254,7 +446,23 @@
       "gross_debt_pct_gdp": 36.4,
       "gross_debt_usd_billion": 88.08,
       "inflation_cpi_pct": 4.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19533000,
+      "exchange_rate_usd": 3.9447,
+      "main_events": [
+        {
+          "headline": "Romania holds EU presidency",
+          "summary": "Bucharest leads the Council in early 2019."
+        },
+        {
+          "headline": "Diaspora protests",
+          "summary": "August demonstrations turn violent."
+        }
+      ],
+      "sport": {
+        "headline": "Romania compete in Nations League C",
+        "summary": "Romania finish second in their League C group."
+      }
     },
     {
       "year": 2019,
@@ -262,7 +470,23 @@
       "gross_debt_pct_gdp": 36.8,
       "gross_debt_usd_billion": 92.02,
       "inflation_cpi_pct": 3.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19414000,
+      "exchange_rate_usd": 4.2396,
+      "main_events": [
+        {
+          "headline": "Iohannis re-elected",
+          "summary": "The president wins November's runoff."
+        },
+        {
+          "headline": "PSD loses power",
+          "summary": "A no-confidence vote topples the government."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss Euro 2020",
+        "summary": "Romania finish fourth in their qualifying group."
+      }
     },
     {
       "year": 2020,
@@ -270,7 +494,23 @@
       "gross_debt_pct_gdp": 49.5,
       "gross_debt_usd_billion": 124.23,
       "inflation_cpi_pct": 2.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19329000,
+      "exchange_rate_usd": 4.2417,
+      "main_events": [
+        {
+          "headline": "PNL wins election",
+          "summary": "December elections bring the liberals to power."
+        },
+        {
+          "headline": "COVID-19 strains Romania",
+          "summary": "The pandemic overwhelms hospitals."
+        }
+      ],
+      "sport": {
+        "headline": "Romania compete in Nations League B",
+        "summary": "Romania battle in their League B group."
+      }
     },
     {
       "year": 2021,
@@ -278,7 +518,23 @@
       "gross_debt_pct_gdp": 51.8,
       "gross_debt_usd_billion": 147.77,
       "inflation_cpi_pct": 5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19202000,
+      "exchange_rate_usd": 4.1639,
+      "main_events": [
+        {
+          "headline": "Coalition crisis",
+          "summary": "The PNL-USR alliance collapses in September."
+        },
+        {
+          "headline": "Grand coalition formed",
+          "summary": "Rival parties unite in November."
+        }
+      ],
+      "sport": {
+        "headline": "Romania miss 2022 World Cup",
+        "summary": "Romania finish third behind Germany and North Macedonia."
+      }
     },
     {
       "year": 2022,
@@ -286,7 +542,23 @@
       "gross_debt_pct_gdp": 51.9,
       "gross_debt_usd_billion": 153.57,
       "inflation_cpi_pct": 13.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19043000,
+      "exchange_rate_usd": 4.693,
+      "main_events": [
+        {
+          "headline": "Romania backs Ukraine",
+          "summary": "Bucharest hosts refugees and aids Kyiv."
+        },
+        {
+          "headline": "Schengen bid blocked",
+          "summary": "Austria vetoes Romania's entry."
+        }
+      ],
+      "sport": {
+        "headline": "Romania relegated in Nations League",
+        "summary": "Romania finish bottom of their League B group."
+      }
     },
     {
       "year": 2023,
@@ -294,7 +566,23 @@
       "gross_debt_pct_gdp": 52.6,
       "gross_debt_usd_billion": 182.96,
       "inflation_cpi_pct": 10.4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 19055000,
+      "exchange_rate_usd": 4.576,
+      "main_events": [
+        {
+          "headline": "Government rotates PMs",
+          "summary": "The coalition's rotation deal holds."
+        },
+        {
+          "headline": "Romania's economy grows",
+          "summary": "Growth outpaces most of the EU."
+        }
+      ],
+      "sport": {
+        "headline": "Romania qualify for Euro 2024",
+        "summary": "Romania top their qualifying group."
+      }
     },
     {
       "year": 2024,
@@ -302,7 +590,23 @@
       "gross_debt_pct_gdp": 57.5,
       "gross_debt_usd_billion": 220.02,
       "inflation_cpi_pct": 5.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 18944000,
+      "exchange_rate_usd": 4.5972,
+      "main_events": [
+        {
+          "headline": "Presidential election annulled",
+          "summary": "The Constitutional Court voids the vote in December."
+        },
+        {
+          "headline": "Georgescu shock",
+          "summary": "A far-right outsider wins the annulled first round."
+        }
+      ],
+      "sport": {
+        "headline": "Romania reach Euro 2024 last 16",
+        "summary": "The Netherlands knock Romania out in Munich."
+      }
     },
     {
       "year": 2025,
@@ -310,7 +614,23 @@
       "gross_debt_pct_gdp": 60.6,
       "gross_debt_usd_billion": 259.33,
       "inflation_cpi_pct": 7.3,
-      "status": "IMF estimate / projection"
+      "status": "IMF estimate / projection",
+      "population": 18832000,
+      "exchange_rate_usd": 4.4695,
+      "main_events": [
+        {
+          "headline": "Dan wins presidency",
+          "summary": "Nicusor Dan triumphs in May's re-run."
+        },
+        {
+          "headline": "Bolojan becomes PM",
+          "summary": "Ilie Bolojan forms a coalition government."
+        }
+      ],
+      "sport": {
+        "headline": "Romania chase World Cup qualification",
+        "summary": "Romania compete in qualifying for the 2026 World Cup."
+      }
     }
   ]
 }

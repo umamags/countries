@@ -1,0 +1,404 @@
+{
+  "country": "Cuba",
+  "iso3": "CUB",
+  "currency": "CUP",
+  "currency_name": "Cuban Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fidel hands power to Raúl",
+          "summary": "July illness forces Fidel Castro to cede control to his brother after 47 years in power."
+        },
+        {
+          "headline": "Succession grips the island",
+          "summary": "Cubans await change as Raúl consolidates authority through the fall, with cautious reforms rumored in Havana."
+        }
+      ],
+      "sport": {
+        "headline": "Cuba reaches WBC final",
+        "summary": "Cuba loses to Japan in March in the inaugural World Baseball Classic final in San Diego."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Raúl consolidates control",
+          "summary": "The acting president reshuffles officials and hints at economic tweaks as Fidel fades from view."
+        },
+        {
+          "headline": "US keeps embargo stance",
+          "summary": "Bush ties any thaw to democratic reforms Havana rejects as the succession unfolds without concessions."
+        }
+      ],
+      "sport": {
+        "headline": "Pan Am silver in Rio",
+        "summary": "Cuba finishes second in the medal table behind the United States at the Rio Pan Am Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Raúl formally becomes president",
+          "summary": "February vote makes the succession official after five decades at the helm; Fidel resigns his posts."
+        },
+        {
+          "headline": "Hurricanes batter the island",
+          "summary": "Gustav and Ike flatten crops and homes across western Cuba in the fall, causing billions in damage."
+        }
+      ],
+      "sport": {
+        "headline": "Robles' hurdles gold in Beijing",
+        "summary": "Dayron Robles wins the 110m hurdles in August; Cuba takes 24 medals, led by boxers."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Obama eases Cuba restrictions",
+          "summary": "April moves loosen remittances and family travel to the island in a first thaw after years of freeze."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Falling export revenues force Havana to slash spending and imports as allies struggle through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Early exit at the WBC",
+        "summary": "Cuba falls in the second round in March, missing the semifinals for the first time."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass layoffs announced",
+          "summary": "September plan to shed state jobs shocks Cuba's workforce as private enterprise expands under new licenses."
+        },
+        {
+          "headline": "Political prisoners freed",
+          "summary": "Havana releases dissidents through the summer in a deal brokered with the Church and Spain."
+        }
+      ],
+      "sport": {
+        "headline": "Chapman defects to MLB",
+        "summary": "Aroldis Chapman signs with the Reds in January after defecting, in a record deal."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Party congress backs reforms",
+          "summary": "The April Communist Party congress approves market-oriented economic guidelines, known as the lineamientos, over six days."
+        },
+        {
+          "headline": "Cuentapropista boom begins",
+          "summary": "Self-employment licenses surge as Cubans open restaurants and repair shops in a cautious opening."
+        }
+      ],
+      "sport": {
+        "headline": "Pan Am Games in Guadalajara",
+        "summary": "Cuba finishes second in the medal table behind the US in October with a strong boxing showing."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mariel port project advances",
+          "summary": "The Brazil-financed Mariel mega-port project advances toward completion with a special economic zone attached."
+        },
+        {
+          "headline": "Reforms grind forward",
+          "summary": "Agricultural cooperatives and private farming expand under Raúl's reform plan amid food shortages in the cities."
+        }
+      ],
+      "sport": {
+        "headline": "Boxers lead London medal haul",
+        "summary": "Cuba wins 14 medals with five golds at the London Olympics in July and August."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Travel reform takes effect",
+          "summary": "January end of exit permits lets Cubans travel more freely for the first time in decades."
+        },
+        {
+          "headline": "US-Cuba backchannel grows",
+          "summary": "Secret Vatican-hosted talks advance toward a historic rapprochement through the year, kept from public view."
+        }
+      ],
+      "sport": {
+        "headline": "Puig's electric rookie season",
+        "summary": "Yasiel Puig's debut in June electrifies the Dodgers and Cuban fans after his daring defection."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US and Cuba normalize ties",
+          "summary": "December 17 announcement restores diplomatic relations after 54 years in a historic breakthrough brokered with Vatican help."
+        },
+        {
+          "headline": "Embargo debate reignites",
+          "summary": "Washington moves to ease travel, remittance and trade limits as Congress resists repeal of the embargo."
+        }
+      ],
+      "sport": {
+        "headline": "Athletes allowed abroad",
+        "summary": "Cuba lets athletes sign professional contracts with foreign clubs in a landmark policy shift after decades of bans."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Embassies reopen",
+          "summary": "July ceremonies in Havana and Washington restore full diplomatic ties after 54 years of estrangement."
+        },
+        {
+          "headline": "Obama loosens the embargo",
+          "summary": "New rules expand travel, remittances and business with Cuba through executive action in January and September."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball scouts return",
+        "summary": "Major League scouts return to the island as US-Cuba relations thaw, eyeing the next defectors-turned-stars."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Obama visits Havana",
+          "summary": "March trip is the first by a US president in 88 years, drawing huge crowds."
+        },
+        {
+          "headline": "Fidel Castro dies",
+          "summary": "November death at 90 in Havana ends an era; nine days of mourning follow."
+        },
+        {
+          "headline": "Economy falters",
+          "summary": "Venezuelan aid shrinks and tourism wobbles, squeezing hard currency for ordinary Cubans through a difficult year."
+        }
+      ],
+      "sport": {
+        "headline": "Boxing golds at Rio",
+        "summary": "Cuban boxers and wrestlers deliver five of the country's gold medals at the Rio Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Trump rolls back opening",
+          "summary": "November rules restrict travel and business with the military, reversing Obama's thaw in part amid Florida pressure."
+        },
+        {
+          "headline": "Sonic attacks mystery",
+          "summary": "US diplomats report strange illnesses in a baffling episode blamed on unknown causes; Washington pulls staff from Havana."
+        }
+      ],
+      "sport": {
+        "headline": "WBC second-round exit",
+        "summary": "Cuba again falls short of the semifinals in March's tournament amid more defections."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Díaz-Canel becomes president",
+          "summary": "April's handover to Miguel Díaz-Canel in a National Assembly vote ends six decades of Castro rule."
+        },
+        {
+          "headline": "New constitution drafted",
+          "summary": "The National Assembly approves a new charter recognizing private property for a 2019 referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Cuba tops the CAC Games",
+        "summary": "Cuba wins the medal table at the Barranquilla regional games in July and August."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution takes effect",
+          "summary": "A February referendum approves the new constitution with presidential term limits and private property rights."
+        },
+        {
+          "headline": "Trump tightens the screws",
+          "summary": "Fresh US sanctions target tourism, remittances and Venezuelan oil shipments, squeezing the economy through the year."
+        }
+      ],
+      "sport": {
+        "headline": "MLB-Cuba deal killed",
+        "summary": "Washington blocks in April a pact letting Cuban players join MLB legally, ending hopes of orderly migration."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 reaches Cuba",
+          "summary": "March lockdowns close borders as Cuba sends doctors abroad to fight the virus across the region."
+        },
+        {
+          "headline": "Economic freefall",
+          "summary": "Tourism collapses and food and medicine shortages worsen through the year as dollars dry up."
+        }
+      ],
+      "sport": {
+        "headline": "Sports grind to a halt",
+        "summary": "The pandemic suspends the baseball season and Olympic preparations nationwide in March, with Tokyo postponed."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "11J protests erupt",
+          "summary": "July demonstrations, the largest in decades, demand freedom and food before a swift crackdown with mass arrests."
+        },
+        {
+          "headline": "Currency unification",
+          "summary": "January's currency unification ends the dual-peso system, fueling inflation and hardship for ordinary Cubans."
+        },
+        {
+          "headline": "Díaz-Canel takes party helm",
+          "summary": "April congress makes him Communist Party chief as Raúl retires from public life, completing the transition."
+        }
+      ],
+      "sport": {
+        "headline": "López wins fourth straight gold",
+        "summary": "Mijaín López's wrestling gold in August highlights Cuba's Tokyo haul, a historic Olympic feat."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Exodus accelerates",
+          "summary": "Record numbers of Cubans migrate to the US through Nicaragua and the Darién amid crisis, in a historic wave."
+        },
+        {
+          "headline": "Family Code referendum",
+          "summary": "A September referendum approves same-sex marriage and broader family rights in a government-backed vote."
+        }
+      ],
+      "sport": {
+        "headline": "Talent drain to MLB continues",
+        "summary": "Cuban-born stars thrive in the majors as the island's pipeline empties, with more defections."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Díaz-Canel wins second term",
+          "summary": "April vote extends his presidency for five more years in a rubber-stamp assembly amid blackouts and shortages."
+        },
+        {
+          "headline": "Migration crisis deepens",
+          "summary": "Hundreds of thousands flee as the economy collapses further, in the largest exodus in decades."
+        }
+      ],
+      "sport": {
+        "headline": "Cuba reaches WBC semifinals",
+        "summary": "With MLB defectors aboard, Cuba falls to the US in Miami in March."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Blackouts spark protests",
+          "summary": "October's island-wide grid collapse leaves millions without power for days, triggering street protests in Havana and beyond."
+        },
+        {
+          "headline": "Economy in freefall",
+          "summary": "Inflation soars and basic goods vanish through the year as tourism fails to recover and allies cut aid."
+        }
+      ],
+      "sport": {
+        "headline": "López wins unprecedented fifth gold",
+        "summary": "Mijaín López retires in August after a fifth straight wrestling title in Paris, an Olympic first."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Trump 2.0 squeezes Cuba",
+          "summary": "Renewed US pressure in Trump's second term targets Cuba's oil supplies and remittance flows with tougher sanctions."
+        },
+        {
+          "headline": "Energy crisis deepens",
+          "summary": "Daily blackouts stretch for hours as fuel runs short through a grim year with no relief in sight."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball looks to 2026 Classic",
+        "summary": "Cuba courts MLB-based players for the next World Baseball Classic after 2023's semifinal run."
+      }
+    }
+  ]
+}

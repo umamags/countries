@@ -1,0 +1,396 @@
+{
+  "country": "Singapore",
+  "iso3": "SGP",
+  "currency": "SGD",
+  "currency_name": "Singapore Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4401000,
+      "fx_lcu_per_usd_annual_avg": 1.589,
+      "geopolitical_news": [
+        {
+          "headline": "PAP wins election",
+          "summary": "The ruling party takes May polls."
+        },
+        {
+          "headline": "Lee Kuan Yew's role",
+          "summary": "The elder statesman remains influential."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Singapore contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 4589000,
+      "fx_lcu_per_usd_annual_avg": 1.5069,
+      "geopolitical_news": [
+        {
+          "headline": "Casino resorts approved",
+          "summary": "Two integrated resorts get the green light."
+        },
+        {
+          "headline": "Economic boom",
+          "summary": "Growth surges on finance and trade."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Singapore finish fifth in Thailand."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4839000,
+      "fx_lcu_per_usd_annual_avg": 1.4151,
+      "geopolitical_news": [
+        {
+          "headline": "Recession hits",
+          "summary": "The financial crisis ends the boom."
+        },
+        {
+          "headline": "IMF meeting",
+          "summary": "Singapore hosts global finance talks."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Singaporean athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4988000,
+      "fx_lcu_per_usd_annual_avg": 1.4536,
+      "geopolitical_news": [
+        {
+          "headline": "Recovery",
+          "summary": "Stimulus measures revive growth."
+        },
+        {
+          "headline": "AWARE saga",
+          "summary": "A feminist group's takeover sparks debate."
+        }
+      ],
+      "sport": {
+        "headline": "Youth Olympics hosted",
+        "summary": "Singapore stages the first Youth Olympic Games."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 5077000,
+      "fx_lcu_per_usd_annual_avg": 1.3624,
+      "geopolitical_news": [
+        {
+          "headline": "Youth Olympics",
+          "summary": "The inaugural Games are deemed a success."
+        },
+        {
+          "headline": "Casinos open",
+          "summary": "Marina Bay Sands and Resorts World open."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the Youth Olympics",
+        "summary": "Singapore host the first Youth Olympic Games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 5184000,
+      "fx_lcu_per_usd_annual_avg": 1.2573,
+      "geopolitical_news": [
+        {
+          "headline": "Watershed election",
+          "summary": "The PAP wins but with record-low vote share."
+        },
+        {
+          "headline": "New president",
+          "summary": "Tony Tan wins a tight presidential race."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Singapore finish sixth in Jakarta-Palembang."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5312000,
+      "fx_lcu_per_usd_annual_avg": 1.2498,
+      "geopolitical_news": [
+        {
+          "headline": "Population debate",
+          "summary": "Immigration anger boils over."
+        },
+        {
+          "headline": "Hougang by-election",
+          "summary": "The opposition retains the seat."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic bronze",
+        "summary": "Feng Tianwei wins table tennis bronze in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5399000,
+      "fx_lcu_per_usd_annual_avg": 1.2513,
+      "geopolitical_news": [
+        {
+          "headline": "Little India riot",
+          "summary": "A fatal accident sparks rare unrest."
+        },
+        {
+          "headline": "Population white paper",
+          "summary": "A 6.9 million target draws backlash."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Myanmar",
+        "summary": "Singapore finish sixth in Naypyidaw."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5470000,
+      "fx_lcu_per_usd_annual_avg": 1.2669,
+      "geopolitical_news": [
+        {
+          "headline": "Pioneer tributes",
+          "summary": "The nation's founders are honoured."
+        },
+        {
+          "headline": "Economic slowing",
+          "summary": "Growth cools."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Singaporean athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5535000,
+      "fx_lcu_per_usd_annual_avg": 1.3752,
+      "geopolitical_news": [
+        {
+          "headline": "Lee Kuan Yew dies",
+          "summary": "The founding PM dies in March aged 91."
+        },
+        {
+          "headline": "SG50 celebrations",
+          "summary": "Fifty years of independence are marked."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games hosted",
+        "summary": "Singapore stage the Southeast Asian Games."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5607000,
+      "fx_lcu_per_usd_annual_avg": 1.3806,
+      "geopolitical_news": [
+        {
+          "headline": "Schooling wins gold",
+          "summary": "Off the podium, the PAP tightens its grip."
+        },
+        {
+          "headline": "Succession talk",
+          "summary": "The next PM's identity is debated."
+        }
+      ],
+      "sport": {
+        "headline": "First Olympic gold",
+        "summary": "Joseph Schooling wins 100m butterfly gold in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5612000,
+      "fx_lcu_per_usd_annual_avg": 1.3811,
+      "geopolitical_news": [
+        {
+          "headline": "Reserved presidency",
+          "summary": "Halimah Yacob becomes president unopposed."
+        },
+        {
+          "headline": "Lee family feud",
+          "summary": "The PM's siblings accuse him publicly."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Singapore finish sixth in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 5639000,
+      "fx_lcu_per_usd_annual_avg": 1.3493,
+      "geopolitical_news": [
+        {
+          "headline": "Trump-Kim summit",
+          "summary": "Singapore hosts the historic meeting."
+        },
+        {
+          "headline": "Diplomatic coup",
+          "summary": "The city-state basks in global attention."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Singaporean athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 5704000,
+      "fx_lcu_per_usd_annual_avg": 1.3644,
+      "geopolitical_news": [
+        {
+          "headline": "Fake news law",
+          "summary": "POFMA criminalizes online falsehoods."
+        },
+        {
+          "headline": "Recession fears",
+          "summary": "Trade war hits the economy."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Singapore finish sixth in Manila."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5686000,
+      "fx_lcu_per_usd_annual_avg": 1.3792,
+      "geopolitical_news": [
+        {
+          "headline": "PAP wins again",
+          "summary": "July polls return the PAP with a weaker mandate."
+        },
+        {
+          "headline": "COVID dormitories",
+          "summary": "Migrant worker outbreaks challenge the response."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Singaporean football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5454000,
+      "fx_lcu_per_usd_annual_avg": 1.3439,
+      "geopolitical_news": [
+        {
+          "headline": "Succession reset",
+          "summary": "Heng Swee Keat steps aside as heir apparent."
+        },
+        {
+          "headline": "Wong emerges",
+          "summary": "Lawrence Wong is picked as the next leader."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Singaporean athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5637000,
+      "fx_lcu_per_usd_annual_avg": 1.3792,
+      "geopolitical_news": [
+        {
+          "headline": "Section 377A repealed",
+          "summary": "The gay-sex ban is scrapped."
+        },
+        {
+          "headline": "GST hike",
+          "summary": "The consumption tax rises."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Singapore contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5918000,
+      "fx_lcu_per_usd_annual_avg": 1.3433,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption probe",
+          "summary": "A minister is arrested in a rare graft case."
+        },
+        {
+          "headline": "Ridout saga",
+          "summary": "Ministers' bungalow rentals spark scrutiny."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Cambodia",
+        "summary": "Singapore compete at the Phnom Penh Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 6037000,
+      "fx_lcu_per_usd_annual_avg": 1.336,
+      "geopolitical_news": [
+        {
+          "headline": "Wong becomes PM",
+          "summary": "Lawrence Wong succeeds Lee Hsien Loong in May."
+        },
+        {
+          "headline": "Leadership transition",
+          "summary": "The third PM handover since independence."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Singaporean sailors and shuttlers compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 6077000,
+      "fx_lcu_per_usd_annual_avg": 1.3069,
+      "geopolitical_news": [
+        {
+          "headline": "PAP wins election",
+          "summary": "May polls give Wong a strong mandate."
+        },
+        {
+          "headline": "US tariffs",
+          "summary": "Washington's duties test the trade hub."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Singapore compete at the Southeast Asian Games."
+      }
+    }
+  ]
+}

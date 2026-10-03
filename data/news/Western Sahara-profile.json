@@ -1,0 +1,396 @@
+{
+  "country": "Western Sahara",
+  "iso3": null,
+  "currency": "MAD",
+  "currency_name": "Moroccan Dirham",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Stalemate persists",
+          "summary": "The UN mission MINURSO monitors the ceasefire with no political progress."
+        },
+        {
+          "headline": "Morocco's autonomy plan floated",
+          "summary": "Rabat prepares its proposal for limited self-rule."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "The Sahrawi national team plays non-FIFA fixtures from refugee camps."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Morocco tables autonomy plan",
+          "summary": "April's proposal offers self-governance under Moroccan sovereignty."
+        },
+        {
+          "headline": "Polisario rejects plan",
+          "summary": "The independence movement insists on a self-determination referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "The non-FIFA national side continues its exile fixtures."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Manhattan talks stall",
+          "summary": "UN-brokered rounds yield no breakthrough."
+        },
+        {
+          "headline": "Human rights concerns",
+          "summary": "Activists report abuses in the Moroccan-controlled zone."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football persists",
+        "summary": "Exile-based football continues despite the political deadlock."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Aminatou Haidar expelled",
+          "summary": "The activist's deportation to Lanzarote sparks a hunger strike."
+        },
+        {
+          "headline": "Morocco under pressure",
+          "summary": "International outcry forces her return."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team in non-FIFA events",
+        "summary": "The national side plays in alternative tournaments."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gdeim Izik camp crushed",
+          "summary": "November's dismantling of the protest camp turns deadly."
+        },
+        {
+          "headline": "UN condemns violence",
+          "summary": "The Security Council voices concern over the crackdown."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "Camp-based leagues continue amid the political crisis."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring echoes",
+          "summary": "Protests in Laayoune demand rights and jobs."
+        },
+        {
+          "headline": "Morocco's constitutional reform",
+          "summary": "Rabat's changes promise regionalization for the Sahara."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "The exile national team maintains its fixture list."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN envoy shuttles",
+          "summary": "Christopher Ross tours the region seeking talks."
+        },
+        {
+          "headline": "Polisario's congress",
+          "summary": "The movement reaffirms armed struggle as an option."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football persists",
+        "summary": "Non-FIFA fixtures continue from the Algerian camps."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US proposes rights monitoring",
+          "summary": "Washington's bid to expand MINURSO's mandate fails."
+        },
+        {
+          "headline": "Morocco lobbies hard",
+          "summary": "Rabat defeats the American proposal."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team in exile",
+        "summary": "Football continues in the Tindouf camps."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ban Ki-moon visits region",
+          "summary": "The UN chief's trip raises Moroccan ire."
+        },
+        {
+          "headline": "Stalemate continues",
+          "summary": "No progress on the referendum question."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "The national side plays sporadic friendlies."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tensions rise",
+          "summary": "Polisario warns the ceasefire is fragile."
+        },
+        {
+          "headline": "Morocco's investment",
+          "summary": "Rabat pours development funds into the territory."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "Exile football continues."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Morocco expels MINURSO staff",
+          "summary": "Rabat ejects civilian UN personnel after Ban's 'occupation' remark."
+        },
+        {
+          "headline": "UN crisis",
+          "summary": "The mission is crippled for months."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football persists",
+        "summary": "Camp leagues and friendlies continue."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New UN envoy appointed",
+          "summary": "Horst Kohler takes over mediation."
+        },
+        {
+          "headline": "Roundtable talks planned",
+          "summary": "Geneva meetings bring the parties together."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team in exile",
+        "summary": "Non-FIFA football continues."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geneva talks held",
+          "summary": "December's roundtable makes modest progress."
+        },
+        {
+          "headline": "Polisario participates",
+          "summary": "The movement engages with the new process."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "The national side plays occasional fixtures."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kohler resigns",
+          "summary": "The envoy steps down citing health reasons."
+        },
+        {
+          "headline": "Mediation stalls",
+          "summary": "The process loses momentum."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "Exile-based football continues."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guerguerat crisis ends ceasefire",
+          "summary": "November's Moroccan operation prompts Polisario to declare war."
+        },
+        {
+          "headline": "US recognizes Moroccan sovereignty",
+          "summary": "December's Trump proclamation transforms the dispute."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "The national team continues amid renewed conflict."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Low-intensity war continues",
+          "summary": "Polisario claims strikes on Moroccan positions."
+        },
+        {
+          "headline": "Algeria severs ties with Morocco",
+          "summary": "The Sahara dispute drives the Algiers-Rabat rupture."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "Exile football persists."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Spain backs Morocco",
+          "summary": "Madrid's shift boosts Rabat's position."
+        },
+        {
+          "headline": "Polisario's war claims",
+          "summary": "The movement reports ongoing operations."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football in exile",
+        "summary": "Non-FIFA fixtures continue."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN mission renewed",
+          "summary": "MINURSO's mandate extends amid the frozen conflict."
+        },
+        {
+          "headline": "Diplomatic battle continues",
+          "summary": "Both sides lobby for international support."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team in exile",
+        "summary": "Football continues in the camps."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "France backs Moroccan autonomy plan",
+          "summary": "Paris's July shift is a major win for Rabat."
+        },
+        {
+          "headline": "Polisario condemns",
+          "summary": "The movement denounces the French position."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi football persists",
+        "summary": "Exile-based football continues."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN pushes autonomy framework",
+          "summary": "The Security Council leans toward Morocco's plan as the basis for talks."
+        },
+        {
+          "headline": "Polisario resists",
+          "summary": "The movement insists on self-determination."
+        }
+      ],
+      "sport": {
+        "headline": "Sahrawi team plays friendlies",
+        "summary": "The non-FIFA national side continues its exile fixtures."
+      }
+    }
+  ]
+}

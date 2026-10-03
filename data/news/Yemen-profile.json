@@ -1,0 +1,396 @@
+{
+  "country": "Yemen",
+  "iso3": "YEM",
+  "currency": "YER",
+  "currency_name": "Yemeni Rial",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saleh re-elected",
+          "summary": "The president wins September polls."
+        },
+        {
+          "headline": "Houthi war",
+          "summary": "Fighting continues in Saada."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Yemen contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Houthi truce",
+          "summary": "A ceasefire pauses the northern war."
+        },
+        {
+          "headline": "Tourist bombing",
+          "summary": "An attack kills Spanish tourists."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Yemen contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US embassy attacked",
+          "summary": "Militants strike the Sanaa mission."
+        },
+        {
+          "headline": "Southern unrest",
+          "summary": "Secessionist protests grow."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Yemeni athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Houthi war resumes",
+          "summary": "Fighting flares in the north."
+        },
+        {
+          "headline": "Saudi intervention",
+          "summary": "Riyadh bombs Houthi positions."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Yemen contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Al-Qaeda threat",
+          "summary": "AQAP's bomb plots alarm the West."
+        },
+        {
+          "headline": "Cargo bomb plot",
+          "summary": "Printer bombs are intercepted."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup hosted",
+        "summary": "Yemen host the Gulf Cup."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring uprising",
+          "summary": "Mass protests demand Saleh's ouster."
+        },
+        {
+          "headline": "Saleh wounded",
+          "summary": "A palace bombing injures the president."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Yemen contest 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saleh steps down",
+          "summary": "The president cedes power in February."
+        },
+        {
+          "headline": "Hadi takes over",
+          "summary": "The VP wins a one-man election."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Yemeni athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "National dialogue",
+          "summary": "Talks aim to reshape the state."
+        },
+        {
+          "headline": "Drone strikes",
+          "summary": "US attacks on AQAP continue."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Yemen contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 13602000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Houthis seize Sanaa",
+          "summary": "The rebels take the capital in September."
+        },
+        {
+          "headline": "Government collapses",
+          "summary": "Hadi's authority crumbles."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Yemeni athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 14022000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saudi-led war begins",
+          "summary": "A coalition intervenes in March."
+        },
+        {
+          "headline": "Hadi flees",
+          "summary": "The president escapes to Riyadh."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Yemen contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 14449000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kuwait talks fail",
+          "summary": "Peace negotiations collapse."
+        },
+        {
+          "headline": "Funeral hall bombing",
+          "summary": "A coalition strike kills scores."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Yemeni athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 14891000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cholera epidemic",
+          "summary": "The world's worst outbreak spreads."
+        },
+        {
+          "headline": "Saleh killed",
+          "summary": "Houthis kill the ex-president."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Yemen contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 15338000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hodeidah battle",
+          "summary": "Fighting rages for the port city."
+        },
+        {
+          "headline": "Famine warnings",
+          "summary": "The UN warns of catastrophe."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Yemeni athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 15800000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup debut",
+          "summary": "Off the pitch, the war grinds on."
+        },
+        {
+          "headline": "Riyadh agreement",
+          "summary": "A power-sharing deal is signed."
+        }
+      ],
+      "sport": {
+        "headline": "First Asian Cup appearance",
+        "summary": "Yemen play at the Asian Cup for the first time."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 16261000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID",
+          "summary": "The pandemic hits the war-torn country."
+        },
+        {
+          "headline": "STC clashes",
+          "summary": "Southern separatists battle the government."
+        }
+      ],
+      "sport": {
+        "headline": "Football amid war",
+        "summary": "Yemen's team play qualifiers abroad."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 16713000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Marib battle",
+          "summary": "Houthis push for the government stronghold."
+        },
+        {
+          "headline": "Humanitarian crisis",
+          "summary": "Millions face famine."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Yemen contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Truce agreed",
+          "summary": "A UN-brokered ceasefire takes hold in April."
+        },
+        {
+          "headline": "Presidential council",
+          "summary": "Hadi transfers power to a council."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Yemen contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 17726000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saudi-Houthi talks",
+          "summary": "Direct negotiations advance."
+        },
+        {
+          "headline": "Red Sea attacks",
+          "summary": "Houthis target shipping over Gaza."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Yemen's team contests regional play."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 18262000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-UK strikes",
+          "summary": "Western forces bomb Houthi targets."
+        },
+        {
+          "headline": "Red Sea crisis",
+          "summary": "Shipping attacks disrupt global trade."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Yemeni athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18810000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US bombing campaign",
+          "summary": "Washington launches major strikes on the Houthis."
+        },
+        {
+          "headline": "Ceasefire with US",
+          "summary": "A May deal halts the American campaign."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Yemen contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Tajikistan",
+  "iso3": "TJK",
+  "currency": "TJS",
+  "currency_name": "Tajikistani Somoni",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7001000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rahmon re-elected",
+          "summary": "The president wins November polls."
+        },
+        {
+          "headline": "Opposition squeezed",
+          "summary": "Critics face harassment."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Tajik athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 7152000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Energy crisis",
+          "summary": "Winter blackouts hit the country."
+        },
+        {
+          "headline": "Rogun dam plans",
+          "summary": "The giant hydropower project is revived."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Tajikistan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 7310000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Harsh winter",
+          "summary": "Freezing temperatures compound the energy crisis."
+        },
+        {
+          "headline": "Aid appeal",
+          "summary": "Dushanbe seeks international help."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Tajik athletes medal in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 7473000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Uzbek tensions",
+          "summary": "Tashkent opposes the Rogun dam."
+        },
+        {
+          "headline": "Border rows",
+          "summary": "Frontier disputes simmer."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Tajikistan contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 7642000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Prison break",
+          "summary": "Militants escape a Dushanbe jail."
+        },
+        {
+          "headline": "Rasht valley fighting",
+          "summary": "Troops battle insurgents in the east."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Tajik athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7816000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rogun shares sold",
+          "summary": "Citizens are pressed to buy dam stock."
+        },
+        {
+          "headline": "Uzbek rail blockade",
+          "summary": "Tashkent blocks rail links."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Tajikistan contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7995000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khorog operation",
+          "summary": "Troops storm the Pamir town; dozens die."
+        },
+        {
+          "headline": "Gorno-Badakhshan crackdown",
+          "summary": "The east is brought to heel."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Tajik athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 8178000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rahmon re-elected",
+          "summary": "The president wins another term."
+        },
+        {
+          "headline": "Opposition barred",
+          "summary": "Rivals are kept off the ballot."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Tajikistan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8363000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russian base extended",
+          "summary": "Moscow's military presence is prolonged."
+        },
+        {
+          "headline": "Migrant dependence",
+          "summary": "Remittances from Russia sustain the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Tajik athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 8549000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IRPT banned",
+          "summary": "The Islamic opposition party is outlawed."
+        },
+        {
+          "headline": "Coup attempt claim",
+          "summary": "A general's revolt is crushed."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Tajikistan contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 8735000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum extends rule",
+          "summary": "Term limits are scrapped for Rahmon."
+        },
+        {
+          "headline": "Succession setup",
+          "summary": "The president's son rises."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Tajik athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 8921000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rogun dam progress",
+          "summary": "The first turbine is launched."
+        },
+        {
+          "headline": "Uzbek thaw",
+          "summary": "Ties with Tashkent improve."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Tajikistan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 9107000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Danish cyclist murders",
+          "summary": "ISIS claims the killing of Western tourists."
+        },
+        {
+          "headline": "Security tightening",
+          "summary": "Tourism suffers."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Tajik athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 9292000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Prison riots",
+          "summary": "Deadly ISIS-linked uprisings hit jails."
+        },
+        {
+          "headline": "China outpost reports",
+          "summary": "A Chinese security presence is reported."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Tajikistan contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 9475000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rahmon re-elected",
+          "summary": "The president wins again in October."
+        },
+        {
+          "headline": "Son becomes mayor",
+          "summary": "Rustam Emomali takes Dushanbe."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Tajik football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 9657000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Afghan fallout",
+          "summary": "The Taliban victory alarms Dushanbe."
+        },
+        {
+          "headline": "Border militarized",
+          "summary": "Troops deploy to the Afghan frontier."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Tajik athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 9836000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kyrgyz border war",
+          "summary": "September fighting kills dozens."
+        },
+        {
+          "headline": "Gorno-Badakhshan crackdown",
+          "summary": "Protests in the Pamirs are crushed."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Tajikistan contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10013000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup debut looms",
+          "summary": "Tajikistan qualify for a first Asian Cup."
+        },
+        {
+          "headline": "Rogun dam rises",
+          "summary": "The megaproject advances."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualification",
+        "summary": "Tajikistan reach a first Asian Cup."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 10188000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup quarterfinal",
+          "summary": "Debutants reach the last eight in Qatar."
+        },
+        {
+          "headline": "Kyrgyz border deal",
+          "summary": "Dushanbe and Bishkek settle the frontier."
+        }
+      ],
+      "sport": {
+        "headline": "Dream Asian Cup debut",
+        "summary": "Tajikistan reach the quarterfinals on debut."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10360000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rahmon's long rule",
+          "summary": "The president remains Central Asia's longest-serving leader."
+        },
+        {
+          "headline": "Regional integration",
+          "summary": "Dushanbe deepens Central Asian ties."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Tajikistan contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

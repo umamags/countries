@@ -1,0 +1,396 @@
+{
+  "country": "Kyrgyzstan",
+  "iso3": "KGZ",
+  "currency": "KGS",
+  "currency_name": "Kyrgyzstani Som",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 5189000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional crisis",
+          "summary": "Bakiyev faces mass protests demanding reform."
+        },
+        {
+          "headline": "New constitution",
+          "summary": "A November charter curbs presidential powers."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Kyrgyz athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5248000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Court annuls constitution",
+          "summary": "Judges void the charter; Bakiyev pushes his own."
+        },
+        {
+          "headline": "Parliamentary elections",
+          "summary": "The president's party sweeps December polls."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Kyrgyzstan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 5289000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US base row",
+          "summary": "Bishkek threatens to close the Manas airbase."
+        },
+        {
+          "headline": "Base deal renewed",
+          "summary": "Washington pays more to keep Manas open."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Kyrgyz athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 5348000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bakiyev re-elected",
+          "summary": "The president wins a second term amid fraud claims."
+        },
+        {
+          "headline": "Opposition squeezed",
+          "summary": "Critics face arrests and media curbs."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Kyrgyzstan contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 5418000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Revolution topples Bakiyev",
+          "summary": "April protests oust the president; dozens die."
+        },
+        {
+          "headline": "Ethnic violence in Osh",
+          "summary": "June clashes between Kyrgyz and Uzbeks kill hundreds."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Kyrgyz athletes compete in China."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 5478000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Atambayev elected",
+          "summary": "Almazbek Atambayev wins the presidency in October."
+        },
+        {
+          "headline": "Parliamentary system",
+          "summary": "A new constitution creates Central Asia's only parliamentary democracy."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Kyrgyzstan contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5552000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition turmoil",
+          "summary": "Fragile parliamentary alliances shift."
+        },
+        {
+          "headline": "Kumtor mine dispute",
+          "summary": "Nationalists demand control of the gold mine."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Kyrgyz athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5663000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Manas base closes",
+          "summary": "Parliament votes to end the US lease."
+        },
+        {
+          "headline": "Customs union move",
+          "summary": "Bishkek seeks entry to the Russia-led bloc."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Kyrgyzstan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5777000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US base shuts",
+          "summary": "The last American troops leave Manas."
+        },
+        {
+          "headline": "Eurasian Union entry",
+          "summary": "Kyrgyzstan prepares to join the bloc."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Kyrgyz athletes compete in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections",
+          "summary": "October polls keep the ruling party on top."
+        },
+        {
+          "headline": "Eurasian Union joins",
+          "summary": "Kyrgyzstan enters the Russia-led economic union."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Kyrgyzstan contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 6019000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional referendum",
+          "summary": "Voters strengthen the prime minister's powers."
+        },
+        {
+          "headline": "Chinese embassy bombing",
+          "summary": "A suicide attack hits Beijing's mission in Bishkek."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Kyrgyz wrestlers compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 6140000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Jeenbekov elected",
+          "summary": "Sooronbay Jeenbekov wins the presidency."
+        },
+        {
+          "headline": "Peaceful handover",
+          "summary": "Central Asia's first voluntary presidential transfer."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Kyrgyzstan qualify for a first Asian Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 6257000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Atambayev arrested",
+          "summary": "The ex-president is seized after a deadly standoff."
+        },
+        {
+          "headline": "Power struggle",
+          "summary": "Jeenbekov moves against his predecessor's allies."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Kyrgyz athletes win medals in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 6389000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup debut",
+          "summary": "Off the pitch, political feuds dominate; on it, history."
+        },
+        {
+          "headline": "Border clashes",
+          "summary": "Fighting erupts with Tajikistan."
+        }
+      ],
+      "sport": {
+        "headline": "First Asian Cup appearance",
+        "summary": "Kyrgyzstan reach the last 16 on debut in the UAE."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 6517000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Revolution ousts Jeenbekov",
+          "summary": "October protests over rigged polls topple the president."
+        },
+        {
+          "headline": "Japarov rises",
+          "summary": "Sadyr Japarov goes from jail to presidency."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Kyrgyz football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 6654000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Japarov elected",
+          "summary": "January polls confirm his presidency."
+        },
+        {
+          "headline": "Presidential system restored",
+          "summary": "A referendum returns strong presidential rule."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Kyrgyz wrestlers compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 6795000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tajik border war",
+          "summary": "September fighting kills dozens on both sides."
+        },
+        {
+          "headline": "Russian migrants arrive",
+          "summary": "Draft-dodgers flee to Bishkek."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Kyrgyzstan contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 6931000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Border deal with Uzbekistan",
+          "summary": "Long-disputed frontiers are demarcated."
+        },
+        {
+          "headline": "Kempir-Abad protests",
+          "summary": "Activists are jailed over a reservoir deal."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Kyrgyzstan contest the Asian Cup in Qatar."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 7077000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tajik border deal",
+          "summary": "Bishkek and Dushanbe agree a boundary settlement."
+        },
+        {
+          "headline": "Media crackdown",
+          "summary": "Independent outlets face closure."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Kyrgyz wrestlers medal in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 7227000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional tweaks",
+          "summary": "Japarov consolidates presidential powers."
+        },
+        {
+          "headline": "Regional diplomacy",
+          "summary": "Bishkek deepens ties with neighbours and China."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Kyrgyzstan contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

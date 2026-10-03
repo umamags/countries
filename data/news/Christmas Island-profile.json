@@ -1,0 +1,396 @@
+{
+  "country": "Christmas Island",
+  "iso3": null,
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3282,
+      "geopolitical_news": [
+        {
+          "headline": "Phosphate mining winds down",
+          "summary": "The island's historic industry neared the end of its economic life."
+        },
+        {
+          "headline": "Shire council governs the territory",
+          "summary": "Local government managed services for the small community."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders compete in local leagues",
+        "summary": "Football and cricket competitions ran in the Settlement."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1949,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre construction begins",
+          "summary": "Canberra started building the immigration detention facility."
+        },
+        {
+          "headline": "Islanders debate the centre's impact",
+          "summary": "Residents weighed jobs against the facility's social effects."
+        }
+      ],
+      "sport": {
+        "headline": "Island sporting clubs active",
+        "summary": "Local leagues continued across the small community."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1962,
+      "geopolitical_news": [
+        {
+          "headline": "Immigration detention centre opens",
+          "summary": "The high-security facility began receiving asylum seekers."
+        },
+        {
+          "headline": "Centre transforms island economy",
+          "summary": "Construction and staffing brought money and workers."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders in regional Australian carnivals",
+        "summary": "Christmas Island teams travelled to mainland sporting events."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2791,
+      "geopolitical_news": [
+        {
+          "headline": "Asylum boat arrivals surge",
+          "summary": "Dozens of boats brought hundreds of detainees to the island."
+        },
+        {
+          "headline": "Red crab migration delights visitors",
+          "summary": "The annual crab march remained the island's famous natural spectacle."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season played",
+        "summary": "The island's soccer competition ran through the year."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0895,
+      "geopolitical_news": [
+        {
+          "headline": "SIEV 221 tragedy kills asylum seekers",
+          "summary": "A boat smashed against the cliffs in December, drowning dozens."
+        },
+        {
+          "headline": "Nation mourns the Christmas Island disaster",
+          "summary": "The tragedy intensified Australia's asylum seeker debate."
+        }
+      ],
+      "sport": {
+        "headline": "Island cricket and football continue",
+        "summary": "Local sporting leagues carried on despite the tragedy."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9695,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre overcrowds",
+          "summary": "Record boat arrivals strained the island's facilities."
+        },
+        {
+          "headline": "Canberra expands island infrastructure",
+          "summary": "Federal money upgraded the port, roads and services."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders compete in WA country events",
+        "summary": "Christmas Island athletes travelled to Western Australian carnivals."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9659,
+      "geopolitical_news": [
+        {
+          "headline": "Asylum arrivals peak",
+          "summary": "Hundreds of boats brought thousands to the detention centre."
+        },
+        {
+          "headline": "Island community strained",
+          "summary": "The influx tested services and social cohesion."
+        }
+      ],
+      "sport": {
+        "headline": "Local leagues continue",
+        "summary": "Football and cricket seasons ran in the Settlement."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0369,
+      "geopolitical_news": [
+        {
+          "headline": "Operation Sovereign Borders begins",
+          "summary": "Canberra's boat turnback policy slowed arrivals to the island."
+        },
+        {
+          "headline": "Detention numbers fall",
+          "summary": "Fewer boats reached the territory under the new policy."
+        }
+      ],
+      "sport": {
+        "headline": "Island sporting clubs active",
+        "summary": "Local competitions continued year-round."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1092,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre quiets",
+          "summary": "Boat arrivals dwindled to a trickle under turnback policies."
+        },
+        {
+          "headline": "Island seeks economic future",
+          "summary": "Tourism and phosphate's end dominated local debate."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders in regional carnivals",
+        "summary": "Christmas Island teams competed in mainland events."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre riots erupt",
+          "summary": "November unrest damaged the facility after a detainee's death."
+        },
+        {
+          "headline": "Riots draw national attention",
+          "summary": "The violence renewed debate over offshore detention."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season played",
+        "summary": "The island's soccer league ran through the year."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3449,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre winds down",
+          "summary": "Detainee numbers fell as Canberra shifted policy."
+        },
+        {
+          "headline": "Island's future debated",
+          "summary": "Residents discussed tourism and conservation as economic paths."
+        }
+      ],
+      "sport": {
+        "headline": "Island cricket season held",
+        "summary": "Local teams contested the annual competition."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.305,
+      "geopolitical_news": [
+        {
+          "headline": "Phosphate mine's final years",
+          "summary": "The historic industry approached exhaustion."
+        },
+        {
+          "headline": "National park protections expand",
+          "summary": "Conservation of the island's unique wildlife grew."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders compete in local leagues",
+        "summary": "Football and cricket continued in the community."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.339,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre closes",
+          "summary": "Canberra shut the facility in October as numbers dwindled."
+        },
+        {
+          "headline": "Island faces economic gap",
+          "summary": "The closure removed a major source of jobs and spending."
+        }
+      ],
+      "sport": {
+        "headline": "Island sporting clubs active",
+        "summary": "Local leagues carried on in the Settlement."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4393,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre reopens",
+          "summary": "The facility was reopened in February under medevac legislation."
+        },
+        {
+          "headline": "Reopening divides opinion",
+          "summary": "Islanders debated the return of detention operations."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season played",
+        "summary": "The island's soccer competition ran through the year."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4519,
+      "geopolitical_news": [
+        {
+          "headline": "Wuhan evacuees quarantined on island",
+          "summary": "Australians airlifted from Wuhan were isolated at the detention centre in February."
+        },
+        {
+          "headline": "COVID quarantine puts island in spotlight",
+          "summary": "The operation drew national media to the remote territory."
+        }
+      ],
+      "sport": {
+        "headline": "Sport disrupted by pandemic",
+        "summary": "COVID restrictions limited the island's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre holds few detainees",
+          "summary": "The facility remained largely empty through the year."
+        },
+        {
+          "headline": "Island pursues tourism future",
+          "summary": "Diving and nature tourism were promoted as economic alternatives."
+        }
+      ],
+      "sport": {
+        "headline": "Local leagues resume",
+        "summary": "Football and cricket seasons returned after lockdowns."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4428,
+      "geopolitical_news": [
+        {
+          "headline": "Shire council elections held",
+          "summary": "Islanders voted for their local government representatives."
+        },
+        {
+          "headline": "Phosphate rehabilitation continues",
+          "summary": "Mined lands were progressively restored to rainforest."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders in WA sporting carnivals",
+        "summary": "Christmas Island teams travelled to mainland events."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5066,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre closes again",
+          "summary": "Canberra mothballed the facility as it sat empty."
+        },
+        {
+          "headline": "Asylum boats occasionally arrive",
+          "summary": "Small numbers of boats still reached the territory's waters."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season played",
+        "summary": "The island's soccer league ran through the year."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5153,
+      "geopolitical_news": [
+        {
+          "headline": "Island's strategic location noted",
+          "summary": "Defence analysts highlighted the territory's Indian Ocean position."
+        },
+        {
+          "headline": "Tourism slowly rebuilds",
+          "summary": "Visitor numbers recovered after the pandemic years."
+        }
+      ],
+      "sport": {
+        "headline": "Island sporting clubs active",
+        "summary": "Local competitions continued year-round."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5515,
+      "geopolitical_news": [
+        {
+          "headline": "Christmas Island's future debated",
+          "summary": "Canberra and locals discussed the territory's economic direction."
+        },
+        {
+          "headline": "Conservation funding increases",
+          "summary": "Federal money supported the island's unique wildlife."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders compete in local leagues",
+        "summary": "Football and cricket remained community mainstays."
+      }
+    }
+  ]
+}

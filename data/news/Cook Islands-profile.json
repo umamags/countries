@@ -1,0 +1,396 @@
+{
+  "country": "Cook Islands",
+  "iso3": null,
+  "currency": "NZD",
+  "currency_name": "New Zealand Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.543,
+      "geopolitical_news": [
+        {
+          "headline": "Marurai government continues",
+          "summary": "Prime Minister Jim Marurai's coalition held power in Rarotonga."
+        },
+        {
+          "headline": "Tourism drives the economy",
+          "summary": "Visitor arrivals underpinned growth in the small island nation."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at Melbourne Games",
+        "summary": "The nation's team competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3608,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands hosts regional meetings",
+          "summary": "Rarotonga staged Pacific officials' discussions."
+        },
+        {
+          "headline": "Deep-sea mining debate begins",
+          "summary": "Seabed mineral prospects drew government interest."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Apia Pacific Games",
+        "summary": "The nation's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4246,
+      "geopolitical_news": [
+        {
+          "headline": "Marurai government faces challenges",
+          "summary": "Coalition tensions tested the prime minister's majority."
+        },
+        {
+          "headline": "Global crisis hits tourism",
+          "summary": "The financial downturn dented visitor arrivals."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at Beijing Olympics",
+        "summary": "The nation's small team competed in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5965,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands weathers recession",
+          "summary": "Tourism's slump squeezed government revenues."
+        },
+        {
+          "headline": "Rarotonga pursues development aid",
+          "summary": "The government courted New Zealand, China and others."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands rugby league grows",
+        "summary": "The national league side gained international fixtures."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3875,
+      "geopolitical_news": [
+        {
+          "headline": "Henry Puna elected prime minister",
+          "summary": "Puna's Cook Islands Party won the November general election."
+        },
+        {
+          "headline": "New government pledges reform",
+          "summary": "The administration promised fiscal discipline and growth."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Delhi Commonwealth Games",
+        "summary": "The nation's athletes competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2654,
+      "geopolitical_news": [
+        {
+          "headline": "Puna government settles in",
+          "summary": "The new administration advanced its economic agenda."
+        },
+        {
+          "headline": "Cook Islands hosts climate talks",
+          "summary": "Rarotonga staged regional discussions on adaptation."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Noumea Pacific Games",
+        "summary": "The nation's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2355,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands hosts Pacific Islands Forum",
+          "summary": "Leaders met in Rarotonga in August."
+        },
+        {
+          "headline": "Marine park declared",
+          "summary": "The government created a huge marine protected area."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at London Olympics",
+        "summary": "The nation's small team competed in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2203,
+      "geopolitical_news": [
+        {
+          "headline": "Puna government mid-term",
+          "summary": "The administration touted tourism growth and fiscal repair."
+        },
+        {
+          "headline": "Seabed mining law passed",
+          "summary": "Parliament legislated to govern deep-sea mineral exploration."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at league World Cup",
+        "summary": "The national rugby league team competed in England."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2058,
+      "geopolitical_news": [
+        {
+          "headline": "Puna re-elected prime minister",
+          "summary": "The Cook Islands Party won the July general election."
+        },
+        {
+          "headline": "Tourism boom continues",
+          "summary": "Record visitor arrivals powered the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Glasgow Commonwealth Games",
+        "summary": "The nation's athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4363,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands' economy grows",
+          "summary": "Tourism and construction drove strong growth."
+        },
+        {
+          "headline": "Rarotonga hosts development partners",
+          "summary": "The government courted investment from multiple nations."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Port Moresby Pacific Games",
+        "summary": "The nation's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4353,
+      "geopolitical_news": [
+        {
+          "headline": "Puna government continues reforms",
+          "summary": "The administration pushed infrastructure and tax changes."
+        },
+        {
+          "headline": "Cook Islands graduates development status",
+          "summary": "The nation prepared to leave the UN's development assistance categories."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at Rio Olympics",
+        "summary": "The nation's small team competed in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4074,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands debates seabed mining",
+          "summary": "Environmental concerns clashed with mineral revenue hopes."
+        },
+        {
+          "headline": "Rarotonga deepens China ties",
+          "summary": "Beijing-funded projects expanded in the islands."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Pacific Mini Games",
+        "summary": "The nation's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Puna re-elected narrowly",
+          "summary": "The June election returned Puna with a slim majority."
+        },
+        {
+          "headline": "Coalition-building follows poll",
+          "summary": "The prime minister negotiated support to govern."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Gold Coast Commonwealth Games",
+        "summary": "The nation's athletes competed in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5189,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands' tourism peaks",
+          "summary": "Visitor numbers hit records before the pandemic."
+        },
+        {
+          "headline": "Rarotonga hosts regional summits",
+          "summary": "Pacific meetings brought leaders to the islands."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Apia Pacific Games",
+        "summary": "The nation's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5401,
+      "geopolitical_news": [
+        {
+          "headline": "Puna resigns; Mark Brown becomes PM",
+          "summary": "Puna left to lead the Pacific Islands Forum; his deputy succeeded him."
+        },
+        {
+          "headline": "Cook Islands stays COVID-free",
+          "summary": "Closed borders kept the virus out but crushed tourism."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4146,
+      "geopolitical_news": [
+        {
+          "headline": "Brown government manages crisis",
+          "summary": "The administration balanced health security with economic survival."
+        },
+        {
+          "headline": "Cook Islands records COVID cases",
+          "summary": "The virus eventually reached the islands."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at Tokyo Olympics",
+        "summary": "The nation's small team competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5786,
+      "geopolitical_news": [
+        {
+          "headline": "Brown re-elected prime minister",
+          "summary": "The Cook Islands Party won the August general election."
+        },
+        {
+          "headline": "Tourism recovery begins",
+          "summary": "Borders reopened and visitors slowly returned."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Birmingham Commonwealth Games",
+        "summary": "The nation's athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.63,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands deepens China engagement",
+          "summary": "Rarotonga expanded cooperation with Beijing."
+        },
+        {
+          "headline": "Seabed mining debate intensifies",
+          "summary": "Exploration licensing divided public opinion."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands at Honiara Pacific Games",
+        "summary": "The nation's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.6525,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands' China ties worry Wellington",
+          "summary": "New Zealand questioned Rarotonga's deepening Beijing relationship."
+        },
+        {
+          "headline": "Constitutional relationship debated",
+          "summary": "The free association with New Zealand faced fresh scrutiny."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands athletes at Paris Olympics",
+        "summary": "The nation's small team competed in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.7198,
+      "geopolitical_news": [
+        {
+          "headline": "Cook Islands-China deal strains NZ ties",
+          "summary": "A partnership agreement with Beijing tested the constitutional relationship."
+        },
+        {
+          "headline": "No-confidence vote against Brown fails",
+          "summary": "The prime minister survived a parliamentary challenge in February."
+        }
+      ],
+      "sport": {
+        "headline": "Cook Islands rugby league in Pacific tournaments",
+        "summary": "The national league side contested regional competitions."
+      }
+    }
+  ]
+}

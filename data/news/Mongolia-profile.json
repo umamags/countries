@@ -1,0 +1,396 @@
+{
+  "country": "Mongolia",
+  "iso3": "MNG",
+  "currency": "MNT",
+  "currency_name": "Mongolian Tögrög",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2583000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition government",
+          "summary": "The MPRP and Democrats share power uneasily."
+        },
+        {
+          "headline": "Mining boom",
+          "summary": "Copper and coal prices fuel growth."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Mongolian wrestlers and judokas medal in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2620000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oyu Tolgoi talks",
+          "summary": "Negotiations over the giant copper mine drag on."
+        },
+        {
+          "headline": "Political infighting",
+          "summary": "Coalition partners clash."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Mongolia contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2666000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Election riots",
+          "summary": "July protests over alleged fraud turn deadly."
+        },
+        {
+          "headline": "State of emergency",
+          "summary": "Troops quell the Ulaanbaatar unrest."
+        }
+      ],
+      "sport": {
+        "headline": "First Olympic gold",
+        "summary": "Judoka Naidangiin Tuvshinbayar wins Mongolia's first gold in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2716000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elbegdorj elected",
+          "summary": "The Democrat wins the presidency in May."
+        },
+        {
+          "headline": "Mining deal signed",
+          "summary": "The Oyu Tolgoi agreement is finalized."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Mongolia contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2761000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dzud disaster",
+          "summary": "A brutal winter kills millions of livestock."
+        },
+        {
+          "headline": "Mining boom",
+          "summary": "Foreign investment floods the minerals sector."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Mongolian athletes win medals in China."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2812000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tavan Tolgoi row",
+          "summary": "The coal project's ownership sparks nationalist fury."
+        },
+        {
+          "headline": "Growth surges",
+          "summary": "GDP expands at double-digit rates."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Mongolia contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2868000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Democrats win parliament",
+          "summary": "June polls give the DP a narrow victory."
+        },
+        {
+          "headline": "Mining nationalism",
+          "summary": "Resource laws tighten foreign ownership."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic boxing gold",
+        "summary": "Mongolia win medals including boxing gold in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2930000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elbegdorj re-elected",
+          "summary": "The president wins a second term."
+        },
+        {
+          "headline": "Oyu Tolgoi dispute",
+          "summary": "The government and Rio Tinto clash over costs."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Mongolia contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2996000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic slowdown",
+          "summary": "Falling commodity prices hit growth."
+        },
+        {
+          "headline": "China ties",
+          "summary": "Xi visits Ulaanbaatar."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Mongolian athletes medal in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3058000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF talks",
+          "summary": "Ulaanbaatar seeks a bailout as debt mounts."
+        },
+        {
+          "headline": "Mining disputes",
+          "summary": "Oyu Tolgoi underground expansion stalls."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Mongolia contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 3120000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MPP sweeps parliament",
+          "summary": "The opposition wins June polls in a landslide."
+        },
+        {
+          "headline": "Dalai Lama row",
+          "summary": "A visit angers China, which closes border crossings."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "Mongolian boxers and judokas medal in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 3178000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Battulga elected",
+          "summary": "The populist wins the presidency."
+        },
+        {
+          "headline": "IMF bailout",
+          "summary": "A $5.5 billion package stabilizes the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Mongolia contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3238000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oyu Tolgoi probe",
+          "summary": "Parliament investigates the mine deal."
+        },
+        {
+          "headline": "Anti-corruption drive",
+          "summary": "Officials face graft probes."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Mongolian athletes win medals in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3297000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform",
+          "summary": "Changes limit presidential powers."
+        },
+        {
+          "headline": "Coal protests",
+          "summary": "Miners strike over conditions."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Mongolia contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 3358000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MPP wins again",
+          "summary": "June polls return the ruling party."
+        },
+        {
+          "headline": "COVID contained",
+          "summary": "Early lockdowns limit the toll."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Mongolian football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 3410000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khurelsukh elected",
+          "summary": "The MPP leader wins the presidency."
+        },
+        {
+          "headline": "PM resigns",
+          "summary": "Protests over a COVID maternity case topple the premier."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Mongolian judokas and wrestlers medal in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 3458000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "December protests",
+          "summary": "Coal corruption allegations spark mass rallies."
+        },
+        {
+          "headline": "Coal theft scandal",
+          "summary": "Billions in missing coal exports are alleged."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Mongolia contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3505000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits",
+          "summary": "Pope Francis makes a historic trip to Ulaanbaatar."
+        },
+        {
+          "headline": "Mining reforms",
+          "summary": "New laws aim to clean up the minerals sector."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Hangzhou",
+        "summary": "Mongolian athletes medal in China."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3545000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition government",
+          "summary": "June polls deny the MPP a majority; a coalition forms."
+        },
+        {
+          "headline": "Power of Siberia 2",
+          "summary": "The gas pipeline route through Mongolia is debated."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Mongolian wrestlers and judokas compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3584000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "PM resigns",
+          "summary": "Oyun-Erdene quits after protests and a no-confidence saga."
+        },
+        {
+          "headline": "New coalition",
+          "summary": "A fresh government takes shape."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Mongolia contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

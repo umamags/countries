@@ -1,0 +1,396 @@
+{
+  "country": "Cambodia",
+  "iso3": "KHM",
+  "currency": "KHR",
+  "currency_name": "Cambodian Riel",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 13639000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khmer Rouge tribunal opens",
+          "summary": "The UN-backed court begins trying former regime leaders."
+        },
+        {
+          "headline": "Hun Sen consolidates",
+          "summary": "The premier tightens control over politics and media."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers in qualifiers",
+        "summary": "Cambodia contests Asian Cup and regional qualifiers."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 13842000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tribunal trials begin",
+          "summary": "Proceedings open against Khmer Rouge-era figures."
+        },
+        {
+          "headline": "Border tensions with Thailand",
+          "summary": "Preah Vihear temple dispute flares with Bangkok."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Cambodian athletes compete at the regional Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 14053000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "CPP wins election",
+          "summary": "Hun Sen's party takes a landslide in July polls."
+        },
+        {
+          "headline": "Preah Vihear clashes",
+          "summary": "Deadly border fighting erupts with Thailand over the temple."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Cambodia's small team competes in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 14277000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Duch trial opens",
+          "summary": "The Khmer Rouge prison chief faces the tribunal."
+        },
+        {
+          "headline": "Thai border calm",
+          "summary": "Tensions ease after ASEAN mediation efforts."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Laos",
+        "summary": "Cambodian athletes compete at the Vientiane Games."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 14501000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Stampede kills hundreds",
+          "summary": "A festival stampede in Phnom Penh kills over 300 people."
+        },
+        {
+          "headline": "Tribunal verdict nears",
+          "summary": "The Duch case moves toward judgment."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Cambodia competes at the Asian Games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 14723000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Border fighting resumes",
+          "summary": "Artillery exchanges with Thailand kill troops and civilians."
+        },
+        {
+          "headline": "ICJ ruling awaited",
+          "summary": "The world court is asked to clarify the Preah Vihear border."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Cambodian athletes contest the Jakarta-Palembang Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 14945000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chair fiasco",
+          "summary": "Cambodia's chairmanship ends without a joint communique over the South China Sea."
+        },
+        {
+          "headline": "Sihanouk dies",
+          "summary": "Former king Norodom Sihanouk dies in Beijing aged 89."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Cambodia's athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 15170000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election",
+          "summary": "The CPP claims victory; the opposition alleges fraud and protests."
+        },
+        {
+          "headline": "Mass protests",
+          "summary": "Tens of thousands rally against the election result."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Myanmar",
+        "summary": "Cambodia competes at the Naypyidaw Games."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 15397000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition deal struck",
+          "summary": "The CNRP ends its boycott after a power-sharing agreement."
+        },
+        {
+          "headline": "Tribunal life sentences",
+          "summary": "Khieu Samphan and Nuon Chea get life for crimes against humanity."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Cambodian athletes compete in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 15623000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition leader exiled",
+          "summary": "Sam Rainsy flees arrest warrants, deepening the political crisis."
+        },
+        {
+          "headline": "Kem Sokha targeted",
+          "summary": "The other opposition leader faces treason allegations."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Singapore",
+        "summary": "Cambodia's athletes compete in Singapore."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 15853000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition crackdown",
+          "summary": "Activists are jailed as Hun Sen squeezes dissent."
+        },
+        {
+          "headline": "China ties deepen",
+          "summary": "Beijing's aid and investment flood in."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Cambodia sends athletes to the Rio Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 16073000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition dissolved",
+          "summary": "Courts ban the CNRP, eliminating electoral competition."
+        },
+        {
+          "headline": "Kem Sokha arrested",
+          "summary": "The opposition leader is seized on treason charges."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Cambodian athletes compete in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 16275000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sham election",
+          "summary": "The CPP wins every parliamentary seat in uncontested polls."
+        },
+        {
+          "headline": "Western sanctions",
+          "summary": "The US and EU punish Cambodia over democratic backsliding."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Cambodia wins medals at the Asian Games."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 16481000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EBA trade threat",
+          "summary": "The EU moves to suspend trade preferences over rights abuses."
+        },
+        {
+          "headline": "Rainsy return foiled",
+          "summary": "The exiled leader's comeback attempt is blocked."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Cambodian athletes compete in Manila."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 16725000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EU cuts trade perks",
+          "summary": "Brussels partially suspends Everything But Arms preferences."
+        },
+        {
+          "headline": "COVID response",
+          "summary": "Cambodia contains early outbreaks with strict measures."
+        }
+      ],
+      "sport": {
+        "headline": "Football on hold",
+        "summary": "The pandemic pauses domestic and international football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 16974000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass trials of opposition",
+          "summary": "Dozens of CNRP figures are tried in absentia."
+        },
+        {
+          "headline": "China vaccine diplomacy",
+          "summary": "Chinese vaccines power Cambodia's rollout."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Cambodia's athletes compete at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17202000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chair again",
+          "summary": "Hun Sen chairs ASEAN, engaging Myanmar's junta."
+        },
+        {
+          "headline": "Local elections",
+          "summary": "The CPP dominates commune polls."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Cambodia contests Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 17424000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hun Sen hands power to son",
+          "summary": "After a sham election, Hun Manet becomes prime minister."
+        },
+        {
+          "headline": "SEA Games hosted",
+          "summary": "Phnom Penh stages the Southeast Asian Games."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the SEA Games",
+        "summary": "Cambodia hosts the SEA Games, winning medals across sports."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 17639000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hun Sen becomes Senate chief",
+          "summary": "The former premier takes the Senate presidency, retaining power."
+        },
+        {
+          "headline": "Funan canal project",
+          "summary": "A China-backed canal megaproject breaks ground."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Cambodian athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 17848000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thai border clashes",
+          "summary": "Deadly fighting erupts along the Thai frontier, displacing civilians."
+        },
+        {
+          "headline": "Ceasefire brokered",
+          "summary": "Malaysia and the US help seal a truce after days of combat."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Cambodia competes at the Southeast Asian Games."
+      }
+    }
+  ]
+}

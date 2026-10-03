@@ -1,0 +1,396 @@
+{
+  "country": "South Africa",
+  "iso3": "ZAF",
+  "currency": "ZAR",
+  "currency_name": "South African Rand",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 48642000,
+      "fx_lcu_per_usd_annual_avg": 6.7837,
+      "geopolitical_news": [
+        {
+          "headline": "Mbeki's government stable",
+          "summary": "The president's second term focuses on growth and NEPAD."
+        },
+        {
+          "headline": "Zuma corruption case",
+          "summary": "The former deputy president faces graft charges."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa prepare for 2010 World Cup",
+        "summary": "Stadium construction accelerates for the first African World Cup."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 49373000,
+      "fx_lcu_per_usd_annual_avg": 7.055,
+      "geopolitical_news": [
+        {
+          "headline": "Zuma defeats Mbeki at Polokwane",
+          "summary": "December's ANC conference ousts the president as party leader."
+        },
+        {
+          "headline": "Succession battle",
+          "summary": "The ruling party splits between rival camps."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa qualify for 2008 AFCON",
+        "summary": "Bafana Bafana reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 50068000,
+      "fx_lcu_per_usd_annual_avg": 8.2606,
+      "geopolitical_news": [
+        {
+          "headline": "Mbeki recalled by ANC",
+          "summary": "September's forced resignation ends his presidency."
+        },
+        {
+          "headline": "Xenophobic riots kill dozens",
+          "summary": "May's attacks on foreigners shock the nation."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa exit AFCON at group stage",
+        "summary": "Bafana Bafana go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 50783000,
+      "fx_lcu_per_usd_annual_avg": 8.4181,
+      "geopolitical_news": [
+        {
+          "headline": "Zuma elected president",
+          "summary": "The ANC wins April's vote; Zuma takes office in May."
+        },
+        {
+          "headline": "Charges dropped",
+          "summary": "Prosecutors withdraw the corruption case before the election."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa reach Confederations Cup semis",
+        "summary": "Bafana Bafana finish fourth at the 2009 warm-up tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 51508000,
+      "fx_lcu_per_usd_annual_avg": 7.3211,
+      "geopolitical_news": [
+        {
+          "headline": "South Africa hosts World Cup",
+          "summary": "June-July's tournament is hailed as a triumph for Africa."
+        },
+        {
+          "headline": "Nation celebrates",
+          "summary": "Vuvuzelas and fan parks mark a month of unity."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa exit World Cup at group stage",
+        "summary": "The hosts beat France but become the first hosts to exit in the group stage."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 52285000,
+      "fx_lcu_per_usd_annual_avg": 7.2665,
+      "geopolitical_news": [
+        {
+          "headline": "Malema expelled from ANC",
+          "summary": "The youth leader's expulsion deepens party divisions."
+        },
+        {
+          "headline": "Local elections held",
+          "summary": "The ANC wins May's municipal vote with a reduced share."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2012 AFCON",
+        "summary": "Bafana Bafana fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 53126000,
+      "fx_lcu_per_usd_annual_avg": 8.2162,
+      "geopolitical_news": [
+        {
+          "headline": "Marikana massacre kills dozens",
+          "summary": "August police shootings of striking miners shock the world."
+        },
+        {
+          "headline": "Zuma re-elected ANC leader",
+          "summary": "December's Mangaung conference keeps him in power."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa compete at London Olympics",
+        "summary": "South African athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 53961000,
+      "fx_lcu_per_usd_annual_avg": 9.6581,
+      "geopolitical_news": [
+        {
+          "headline": "Mandela dies",
+          "summary": "The anti-apartheid icon dies in December aged 95."
+        },
+        {
+          "headline": "Nation mourns",
+          "summary": "World leaders gather for the memorial in Soweto."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa host AFCON, exit in quarters",
+        "summary": "Mali eliminate Bafana Bafana on penalties in the 2013 last eight."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 54837000,
+      "fx_lcu_per_usd_annual_avg": 10.8513,
+      "geopolitical_news": [
+        {
+          "headline": "ANC wins election, Zuma stays",
+          "summary": "May's vote extends the ruling party's dominance with a reduced majority."
+        },
+        {
+          "headline": "Nkandla scandal",
+          "summary": "The public protector condemns the president's home upgrades."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2014 World Cup",
+        "summary": "Bafana Bafana fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 55669000,
+      "fx_lcu_per_usd_annual_avg": 12.7837,
+      "geopolitical_news": [
+        {
+          "headline": "#FeesMustFall protests",
+          "summary": "Student demonstrations over tuition rock universities."
+        },
+        {
+          "headline": "Zuma sacks finance minister",
+          "summary": "December's cabinet chaos crashes the rand."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa exit AFCON at group stage",
+        "summary": "Bafana Bafana go home early from the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 56436000,
+      "fx_lcu_per_usd_annual_avg": 14.6923,
+      "geopolitical_news": [
+        {
+          "headline": "ANC loses metros",
+          "summary": "August's municipal vote costs the party Johannesburg and Pretoria."
+        },
+        {
+          "headline": "State capture exposed",
+          "summary": "The public protector's report implicates the Guptas."
+        }
+      ],
+      "sport": {
+        "headline": "Van Niekerk smashes 400m world record",
+        "summary": "Wayde van Niekerk's 43.03 at Rio 2016 stuns the athletics world."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 57211000,
+      "fx_lcu_per_usd_annual_avg": 13.3196,
+      "geopolitical_news": [
+        {
+          "headline": "Ramaphosa wins ANC leadership",
+          "summary": "December's Nasrec conference narrowly elects Cyril Ramaphosa."
+        },
+        {
+          "headline": "Zuma's grip slips",
+          "summary": "The president's faction loses control of the party."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2017 AFCON",
+        "summary": "Bafana Bafana fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 58039000,
+      "fx_lcu_per_usd_annual_avg": 13.2549,
+      "geopolitical_news": [
+        {
+          "headline": "Zuma resigns, Ramaphosa takes over",
+          "summary": "February's ANC recall ends nine years of Zuma rule."
+        },
+        {
+          "headline": "Ramaphosa promises renewal",
+          "summary": "The new president pledges to root out corruption."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2018 World Cup",
+        "summary": "Bafana Bafana fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 58890000,
+      "fx_lcu_per_usd_annual_avg": 14.4535,
+      "geopolitical_news": [
+        {
+          "headline": "ANC wins election",
+          "summary": "May's vote gives Ramaphosa his own mandate with a reduced majority."
+        },
+        {
+          "headline": "Zondo commission hears testimony",
+          "summary": "The state capture inquiry exposes systemic graft."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa win Rugby World Cup",
+        "summary": "The Springboks beat England in the Yokohama final."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 59694000,
+      "fx_lcu_per_usd_annual_avg": 16.445,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 lockdown",
+          "summary": "One of the world's strictest lockdowns is imposed."
+        },
+        {
+          "headline": "Corruption scandals",
+          "summary": "Pandemic procurement graft embarrasses the government."
+        }
+      ],
+      "sport": {
+        "headline": "Schoenmaker wins Olympic gold",
+        "summary": "Tatjana Schoenmaker's 200m breaststroke gold delights Tokyo 2020."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 60235000,
+      "fx_lcu_per_usd_annual_avg": 14.7863,
+      "geopolitical_news": [
+        {
+          "headline": "Zuma jailed, riots erupt",
+          "summary": "July's imprisonment triggers deadly unrest in KwaZulu-Natal and Gauteng."
+        },
+        {
+          "headline": "ANC loses municipalities",
+          "summary": "November's vote delivers the party's worst result."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2021 AFCON",
+        "summary": "Bafana Bafana fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 60867000,
+      "fx_lcu_per_usd_annual_avg": 16.386,
+      "geopolitical_news": [
+        {
+          "headline": "Ramaphosa re-elected ANC leader",
+          "summary": "December's conference keeps him in charge despite the Phala Phala scandal."
+        },
+        {
+          "headline": "Power crisis deepens",
+          "summary": "Load-shedding reaches record levels."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa miss 2022 World Cup",
+        "summary": "Bafana Bafana fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 61578000,
+      "fx_lcu_per_usd_annual_avg": 18.4577,
+      "geopolitical_news": [
+        {
+          "headline": "BRICS summit in Johannesburg",
+          "summary": "August's gathering expands the bloc's membership."
+        },
+        {
+          "headline": "Power crisis persists",
+          "summary": "Eskom's failures dominate politics."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa win Rugby World Cup again",
+        "summary": "Back-to-back titles after a one-point final win over New Zealand."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 62329000,
+      "fx_lcu_per_usd_annual_avg": 18.3229,
+      "geopolitical_news": [
+        {
+          "headline": "ANC loses majority",
+          "summary": "May's election ends 30 years of one-party dominance."
+        },
+        {
+          "headline": "Government of national unity formed",
+          "summary": "Ramaphosa builds a coalition with the DA and others."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa win AFCON bronze",
+        "summary": "Bafana Bafana take third at the 2023 tournament, beating DR Congo on penalties."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 63101000,
+      "fx_lcu_per_usd_annual_avg": 17.8782,
+      "geopolitical_news": [
+        {
+          "headline": "South Africa hosts G20",
+          "summary": "November's summit is the first on African soil."
+        },
+        {
+          "headline": "Coalition strains",
+          "summary": "The unity government weathers budget disputes."
+        }
+      ],
+      "sport": {
+        "headline": "South Africa qualify for 2026 World Cup",
+        "summary": "Bafana Bafana seal a return to the World Cup after 16 years."
+      }
+    }
+  ]
+}

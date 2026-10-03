@@ -1,0 +1,396 @@
+{
+  "country": "Togo",
+  "iso3": "TGO",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 6011000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe's rule continues",
+          "summary": "The president's grip faces little challenge."
+        },
+        {
+          "headline": "Opposition weakened",
+          "summary": "Rivals struggle against the ruling machine."
+        }
+      ],
+      "sport": {
+        "headline": "Togo debut at World Cup",
+        "summary": "The Sparrowhawks, led by Adebayor, exit at the group stage at Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 6188000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling RPT wins October's parliamentary vote."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals reject the results."
+        }
+      ],
+      "sport": {
+        "headline": "Togo qualify for 2008 AFCON",
+        "summary": "The Sparrowhawks reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 6369000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe consolidates",
+          "summary": "The president tightens control."
+        },
+        {
+          "headline": "Togo's economy steady",
+          "summary": "Phosphate revenues sustain growth."
+        }
+      ],
+      "sport": {
+        "headline": "Togo exit AFCON at group stage",
+        "summary": "The Sparrowhawks go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 6552000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe's rule unchallenged",
+          "summary": "The president prepares for 2010."
+        },
+        {
+          "headline": "Opposition fragmented",
+          "summary": "Rivals fail to unite."
+        }
+      ],
+      "sport": {
+        "headline": "Togo chase 2010 World Cup spot",
+        "summary": "The Sparrowhawks compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 6733000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe re-elected",
+          "summary": "March's vote extends his rule; the opposition alleges fraud."
+        },
+        {
+          "headline": "Togo bus attacked in Angola",
+          "summary": "January's Cabinda gun attack kills three; Togo withdraws from AFCON."
+        }
+      ],
+      "sport": {
+        "headline": "Togo withdraw from AFCON after attack",
+        "summary": "The gun attack on the team bus in Cabinda ends Togo's 2010 campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 6916000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government reshuffled",
+          "summary": "The president changes ministers."
+        },
+        {
+          "headline": "Togo's stability",
+          "summary": "The country remains calm."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2012 AFCON",
+        "summary": "Banned after the 2010 withdrawal, the Sparrowhawks sit out qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7101000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "RPT dissolved",
+          "summary": "The ruling party rebrands as UNIR."
+        },
+        {
+          "headline": "Legislative elections delayed",
+          "summary": "The parliamentary vote slips."
+        }
+      ],
+      "sport": {
+        "headline": "Togo compete at London Olympics",
+        "summary": "Togolese athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 7285000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "UNIR wins July's parliamentary vote."
+        },
+        {
+          "headline": "Opposition protests",
+          "summary": "Rivals demand reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Togo reach AFCON quarterfinals",
+        "summary": "Adebayor's Sparrowhawks reach the 2013 last eight in South Africa."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 7472000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe seeks third term",
+          "summary": "The president maneuvers to extend his rule."
+        },
+        {
+          "headline": "Opposition resists",
+          "summary": "Term-limit protests begin."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2014 World Cup",
+        "summary": "The Sparrowhawks fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 7663000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe re-elected",
+          "summary": "April's vote extends his rule; the opposition alleges fraud."
+        },
+        {
+          "headline": "Protests suppressed",
+          "summary": "Security forces crush demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2015 AFCON",
+        "summary": "The Sparrowhawks fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 7858000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform debated",
+          "summary": "The government offers limited changes."
+        },
+        {
+          "headline": "Opposition demands term limits",
+          "summary": "Protests call for Gnassingbe's exit."
+        }
+      ],
+      "sport": {
+        "headline": "Togo compete at Rio Olympics",
+        "summary": "Togolese athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 8057000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass protests shake Togo",
+          "summary": "August's demonstrations demand the president's resignation."
+        },
+        {
+          "headline": "Government cracks down",
+          "summary": "Security forces kill protesters."
+        }
+      ],
+      "sport": {
+        "headline": "Togo exit AFCON at group stage",
+        "summary": "The Sparrowhawks go home early from the 2017 tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 8259000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dialogue fails",
+          "summary": "ECOWAS mediation collapses."
+        },
+        {
+          "headline": "Protests continue",
+          "summary": "The opposition keeps marching."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2018 World Cup",
+        "summary": "The Sparrowhawks fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 8463000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe's rule endures",
+          "summary": "The president weathers the protest wave."
+        },
+        {
+          "headline": "Legislative elections boycotted",
+          "summary": "The opposition shuns December's vote."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2019 AFCON",
+        "summary": "The Sparrowhawks fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 8670000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe wins fourth term",
+          "summary": "February's vote extends the family's 53-year rule."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals reject the result."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Togo's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 8881000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe consolidates",
+          "summary": "The president's grip remains firm."
+        },
+        {
+          "headline": "Togo's economy steady",
+          "summary": "Port revenues sustain growth."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2021 AFCON",
+        "summary": "The Sparrowhawks fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 9098000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Togo joins Commonwealth",
+          "summary": "The francophone nation is admitted in June."
+        },
+        {
+          "headline": "Jihadist attacks in north",
+          "summary": "Militants strike near the Burkina Faso border."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2022 World Cup",
+        "summary": "The Sparrowhawks fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 9320000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Northern insecurity grows",
+          "summary": "Jihadist attacks displace thousands."
+        },
+        {
+          "headline": "Government responds",
+          "summary": "Troops deploy to the Savanes region."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2023 AFCON",
+        "summary": "The Sparrowhawks fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 9548000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution overhauled",
+          "summary": "March's changes create a parliamentary system keeping Gnassingbe in power."
+        },
+        {
+          "headline": "Opposition denounces coup",
+          "summary": "Critics call the reform a constitutional power grab."
+        }
+      ],
+      "sport": {
+        "headline": "Togo compete at Paris Olympics",
+        "summary": "Togolese athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 9781000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gnassingbe becomes council president",
+          "summary": "May's new role extends his rule under the revised system."
+        },
+        {
+          "headline": "Protests suppressed",
+          "summary": "Demonstrations against the changes are crushed."
+        }
+      ],
+      "sport": {
+        "headline": "Togo miss 2025 AFCON",
+        "summary": "The Sparrowhawks fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

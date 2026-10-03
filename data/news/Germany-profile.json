@@ -5,311 +5,392 @@
   "currency_name": "Euro",
   "period": "2006-2025",
   "sources": {
-    "population": "World Bank WDI SP.POP.TOTL (total, mid-year estimate), accessed Oct 2026",
-    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average), accessed Oct 2026; USA fixed at 1.0"
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
   },
   "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
-  "news_note": "2-3 major geopolitical events per year, editorial selection with one-line summaries",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
   "data": [
     {
       "year": 2006,
-      "population": 82376451,
-      "fx_lcu_per_usd_annual_avg": 0.7964,
+      "population": 81174000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
       "geopolitical_news": [
         {
-          "headline": "World Cup hosted",
-          "summary": "The 'summer fairy tale' tournament burnishes Germany's global image."
+          "headline": "Merkel settles into chancellery",
+          "summary": "The grand coalition governs steadily in her first full year."
         },
         {
-          "headline": "Merkel's first year",
-          "summary": "The new chancellor pushes labour-market and federalism reforms."
+          "headline": "Germany hosts 'summer fairy tale' World Cup",
+          "summary": "The tournament boosts national pride and Germany's image."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany finish third at home World Cup",
+        "summary": "Germany beat Portugal in the third-place playoff."
+      }
     },
     {
       "year": 2007,
-      "population": 82266372,
-      "fx_lcu_per_usd_annual_avg": 0.7297,
+      "population": 80993000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
       "geopolitical_news": [
         {
-          "headline": "G8 summit at Heiligendamm",
-          "summary": "June summit focuses on climate and Africa amid mass protests."
+          "headline": "Germany holds EU presidency",
+          "summary": "Berlin brokers the Lisbon Treaty roadmap in June."
         },
         {
-          "headline": "EU treaty revived",
-          "summary": "The German EU presidency rescues constitutional reform as the Lisbon Treaty."
+          "headline": "G8 summit at Heiligendamm",
+          "summary": "World leaders meet amid massive protests."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany qualify for Euro 2008",
+        "summary": "Germany book their finals place."
+      }
     },
     {
       "year": 2008,
-      "population": 82110097,
-      "fx_lcu_per_usd_annual_avg": 0.6799,
+      "population": 80765000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
       "geopolitical_news": [
         {
-          "headline": "Financial crisis hits banks",
-          "summary": "Hypo Real Estate's September bailout is Germany's Lehman moment."
+          "headline": "Financial crisis hits Germany",
+          "summary": "Bank rescues and stimulus cushion the export economy."
         },
         {
-          "headline": "Grand coalition strains",
-          "summary": "The CDU-SPD alliance frays ahead of the 2009 elections."
+          "headline": "Merkel's authority grows",
+          "summary": "The chancellor's crisis management wins praise."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany lose Euro 2008 final",
+        "summary": "Spain win 1-0 in Vienna."
+      }
     },
     {
       "year": 2009,
-      "population": 81902307,
-      "fx_lcu_per_usd_annual_avg": 0.717,
+      "population": 80484000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
       "geopolitical_news": [
         {
-          "headline": "Merkel re-elected",
-          "summary": "September win brings a CDU-FDP centre-right coalition."
+          "headline": "Merkel wins second term",
+          "summary": "CDU-CSU triumph in September; the FDP joins the coalition."
         },
         {
-          "headline": "Cash-for-clunkers scheme",
-          "summary": "The Abwrackprämie props up the auto industry through the downturn."
+          "headline": "Germany weathers recession",
+          "summary": "Stimulus and short-time work limit the damage."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany qualify for 2010 World Cup",
+        "summary": "Germany top their qualifying group."
+      }
     },
     {
       "year": 2010,
-      "population": 81776930,
-      "fx_lcu_per_usd_annual_avg": 0.7543,
+      "population": 80285000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
       "geopolitical_news": [
         {
-          "headline": "Greece bailout divides Germany",
-          "summary": "May rescue package sparks fierce debate over taxpayer liability."
+          "headline": "Euro crisis tests Merkel",
+          "summary": "Berlin reluctantly backs the Greek bailout."
         },
         {
-          "headline": "Sarrazin controversy",
-          "summary": "A Bundesbanker's anti-immigration book ignites a national integration debate."
+          "headline": "President Kohler resigns",
+          "summary": "Horst Kohler quits suddenly in May."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany finish third at World Cup",
+        "summary": "Germany beat Uruguay in the playoff after thrashing Argentina."
+      }
     },
     {
       "year": 2011,
-      "population": 80274983,
-      "fx_lcu_per_usd_annual_avg": 0.7184,
+      "population": 80276000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
       "geopolitical_news": [
         {
-          "headline": "Nuclear phase-out decided",
-          "summary": "Post-Fukushima, Merkel reverses course: all reactors to close by 2022."
+          "headline": "Fukushima prompts nuclear exit",
+          "summary": "Merkel orders a rapid nuclear phase-out."
         },
         {
           "headline": "Euro crisis deepens",
-          "summary": "Berlin demands tougher bailout terms as contagion spreads."
+          "summary": "Berlin demands austerity in exchange for rescues."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany win all Euro 2012 qualifiers",
+        "summary": "Germany take maximum points in qualifying."
+      }
     },
     {
       "year": 2012,
-      "population": 80425823,
-      "fx_lcu_per_usd_annual_avg": 0.7783,
+      "population": 80386000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
       "geopolitical_news": [
         {
-          "headline": "Draghi's pledge calms markets",
-          "summary": "The July 'whatever it takes' vow, backed by Berlin's ESM, ends the euro panic."
+          "headline": "Merkel dominates EU crisis response",
+          "summary": "The fiscal compact enshrines German-style budget rules."
         },
         {
           "headline": "President Wulff resigns",
-          "summary": "February resignation over a favours scandal."
+          "summary": "Christian Wulff quits over a favours scandal."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany exit Euro 2012 in semi-finals",
+        "summary": "Italy knock Germany out in Warsaw."
+      }
     },
     {
       "year": 2013,
-      "population": 80645605,
-      "fx_lcu_per_usd_annual_avg": 0.7529,
+      "population": 80518000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
       "geopolitical_news": [
         {
           "headline": "Merkel wins third term",
-          "summary": "September landslide; the CDU falls just short of an outright majority."
+          "summary": "The CDU triumphs in September; grand coalition returns."
         },
         {
-          "headline": "NSA spying scandal",
-          "summary": "Revelations the US tapped Merkel's phone strain transatlantic ties."
+          "headline": "NSA spying on Merkel revealed",
+          "summary": "US surveillance of the chancellor's phone strains ties."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany qualify for 2014 World Cup",
+        "summary": "Germany dominate their qualifying group."
+      }
     },
     {
       "year": 2014,
-      "population": 80982500,
-      "fx_lcu_per_usd_annual_avg": 0.7527,
+      "population": 80759000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
       "geopolitical_news": [
         {
-          "headline": "World Cup triumph",
-          "summary": "July victory in Brazil, sealed by Götze's extra-time goal."
+          "headline": "Germany backs Russia sanctions",
+          "summary": "Berlin leads the EU response to Crimea's annexation."
         },
         {
-          "headline": "Ukraine crisis diplomacy",
-          "summary": "Berlin leads EU sanctions on Russia and the Minsk peace push."
+          "headline": "Minimum wage introduced",
+          "summary": "Germany adopts its first nationwide minimum wage."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany win the World Cup",
+        "summary": "Germany beat Argentina in the Rio final after thrashing Brazil 7-1."
+      }
     },
     {
       "year": 2015,
-      "population": 81686611,
-      "fx_lcu_per_usd_annual_avg": 0.9013,
+      "population": 81347000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
       "geopolitical_news": [
         {
-          "headline": "Refugee crisis: 'Wir schaffen das'",
-          "summary": "Merkel opens borders to around a million asylum seekers in September."
+          "headline": "Refugee crisis: 'We can do it'",
+          "summary": "Merkel opens Germany to hundreds of thousands of asylum seekers."
         },
         {
-          "headline": "VW dieselgate",
-          "summary": "September emissions-cheating revelations hammer the auto giant."
+          "headline": "VW diesel scandal erupts",
+          "summary": "Volkswagen admits cheating emissions tests in September."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany qualify for Euro 2016",
+        "summary": "Germany top their qualifying group."
+      }
     },
     {
       "year": 2016,
-      "population": 82348669,
-      "fx_lcu_per_usd_annual_avg": 0.9034,
+      "population": 81867000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
       "geopolitical_news": [
         {
           "headline": "Berlin Christmas market attack",
-          "summary": "December truck attack kills 12; ISIS claims responsibility."
+          "summary": "A truck attack kills 12 in December."
         },
         {
-          "headline": "Brexit fallout",
-          "summary": "June UK vote rattles Berlin's EU plans."
+          "headline": "AfD enters state parliaments",
+          "summary": "The far-right party gains amid the refugee backlash."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany exit Euro 2016 in semi-finals",
+        "summary": "France knock Germany out in Marseille."
+      }
     },
     {
       "year": 2017,
-      "population": 82657002,
-      "fx_lcu_per_usd_annual_avg": 0.8852,
+      "population": 82038000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
       "geopolitical_news": [
         {
           "headline": "Merkel wins fourth term",
-          "summary": "September election weakens her; coalition talks drag into 2018."
+          "summary": "September elections produce record-long coalition negotiations."
         },
         {
-          "headline": "G20 Hamburg riots",
-          "summary": "July summit marred by violent street battles."
+          "headline": "Grand coalition talks drag on",
+          "summary": "Failed Jamaica talks lead to another grand coalition in 2018."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany win Confederations Cup",
+        "summary": "A young squad triumphs in Russia."
+      }
     },
     {
       "year": 2018,
-      "population": 82905782,
-      "fx_lcu_per_usd_annual_avg": 0.8468,
+      "population": 82157000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
       "geopolitical_news": [
         {
-          "headline": "Merkel bows out as CDU leader",
-          "summary": "October announcement ends her 18-year party reign."
+          "headline": "Merkel's authority wanes",
+          "summary": "Bavaria and Hesse election losses weaken the chancellor."
         },
         {
-          "headline": "Diesel driving bans",
-          "summary": "Courts allow city bans, deepening the auto industry's crisis."
+          "headline": "Merkel quits as CDU leader",
+          "summary": "She announces she will not seek another term as chancellor."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany crash out of World Cup",
+        "summary": "Holders Germany finish bottom of their group."
+      }
     },
     {
       "year": 2019,
-      "population": 83092962,
-      "fx_lcu_per_usd_annual_avg": 0.8933,
+      "population": 82203000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
       "geopolitical_news": [
         {
-          "headline": "Climate protests surge",
-          "summary": "Fridays for Future mobilizes hundreds of thousands across Germany."
+          "headline": "CDU leadership turmoil",
+          "summary": "Kramp-Karrenbauer struggles to succeed Merkel."
         },
         {
-          "headline": "US targets Nord Stream 2",
-          "summary": "December American sanctions hit the pipeline project."
+          "headline": "Greens surge in polls",
+          "summary": "Climate concerns lift the Greens to record highs."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany qualify for Euro 2020",
+        "summary": "Germany finish top of their qualifying group."
+      }
     },
     {
       "year": 2020,
-      "population": 83160871,
-      "fx_lcu_per_usd_annual_avg": 0.8755,
+      "population": 82126000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
       "geopolitical_news": [
         {
-          "headline": "EU recovery fund agreed",
-          "summary": "July Franco-German plan creates 750bn euros in joint EU debt."
+          "headline": "Germany manages COVID first wave",
+          "summary": "Early testing keeps deaths relatively low."
         },
         {
-          "headline": "Wirecard collapse",
-          "summary": "June implosion of the fintech star exposes regulatory failure."
+          "headline": "EU recovery fund agreed",
+          "summary": "Merkel backs joint EU borrowing in a historic shift."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany humiliated by Spain",
+        "summary": "A 6-0 Nations League defeat in Seville stuns Germany."
+      }
     },
     {
       "year": 2021,
-      "population": 83196078,
-      "fx_lcu_per_usd_annual_avg": 0.8455,
+      "population": 81995000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
       "geopolitical_news": [
         {
-          "headline": "Merkel era ends",
-          "summary": "Scholz's SPD wins the September election; a traffic-light coalition takes power in December."
+          "headline": "Scholz wins election",
+          "summary": "The SPD triumphs in September; a traffic-light coalition forms."
         },
         {
-          "headline": "Deadly floods",
-          "summary": "July deluge in the west kills 180 in Germany's worst natural disaster in decades."
+          "headline": "Merkel bows out",
+          "summary": "The chancellor leaves office after 16 years in December."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany exit Euro 2020 in last 16",
+        "summary": "England knock Germany out at Wembley."
+      }
     },
     {
       "year": 2022,
-      "population": 83177813,
-      "fx_lcu_per_usd_annual_avg": 0.9496,
+      "population": 82529000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
       "geopolitical_news": [
         {
-          "headline": "Zeitenwende after Ukraine invasion",
-          "summary": "Scholz's February 27 speech pledges 100bn euros for the military."
+          "headline": "Zeitenwende: Germany rethinks defence",
+          "summary": "Scholz announces a military overhaul after Russia's invasion."
         },
         {
-          "headline": "Energy crisis and pipeline sabotage",
-          "summary": "September Nord Stream blasts deepen the gas crunch."
+          "headline": "Germany weans off Russian gas",
+          "summary": "Berlin scrambles to replace Russian energy imports."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany exit World Cup in group stage",
+        "summary": "Germany bow out early in Qatar for the second straight time."
+      }
     },
     {
       "year": 2023,
-      "population": 83287273,
-      "fx_lcu_per_usd_annual_avg": 0.9248,
+      "population": 83287000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
       "geopolitical_news": [
         {
-          "headline": "Recession and coalition strife",
-          "summary": "Germany contracts as industry reels from energy costs."
+          "headline": "Coalition strains show",
+          "summary": "The traffic-light government feuds over budgets and climate."
         },
         {
           "headline": "AfD surges in polls",
-          "summary": "The far right hits record support, especially in the east."
+          "summary": "The far right reaches record national polling."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany prepare as Euro 2024 hosts",
+        "summary": "Germany play friendlies; Flick is sacked and Nagelsmann appointed."
+      }
     },
     {
       "year": 2024,
-      "population": 83516593,
-      "fx_lcu_per_usd_annual_avg": 0.9239,
+      "population": 83517000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
       "geopolitical_news": [
         {
-          "headline": "Coalition collapses",
-          "summary": "Scholz fires the FDP finance minister in November; a snap election is called."
+          "headline": "Far right wins eastern state votes",
+          "summary": "The AfD triumphs in Thuringia's state election."
         },
         {
-          "headline": "AfD wins Thuringia",
-          "summary": "September state election gives the far right its first-ever state victory."
+          "headline": "Traffic-light coalition collapses",
+          "summary": "Scholz fires his finance minister in November."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany exit Euro 2024 in quarter-finals",
+        "summary": "Spain knock the hosts out in extra time in Stuttgart."
+      }
     },
     {
       "year": 2025,
-      "population": 83491249,
-      "fx_lcu_per_usd_annual_avg": 0.885,
+      "population": 83524000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
       "geopolitical_news": [
         {
-          "headline": "Merz becomes chancellor",
-          "summary": "February election win puts CDU leader Friedrich Merz in office in May."
+          "headline": "Merz wins election, becomes chancellor",
+          "summary": "The CDU triumphs in February; Merz takes office in May."
         },
         {
-          "headline": "Defence spending surge",
-          "summary": "Constitutional reform unlocks massive military investment."
+          "headline": "Germany boosts defence spending",
+          "summary": "Berlin commits to major military investment."
         }
-      ]
+      ],
+      "sport": {
+        "headline": "Germany chase World Cup qualification",
+        "summary": "Germany compete in qualifying for the 2026 World Cup."
+      }
     }
   ]
 }

@@ -1,0 +1,677 @@
+{
+  "country": "Dominican Republic",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "population": "11,427,557",
+  "currency": "Dominican Peso (DOP)",
+  "area": "48,671",
+  "landmarks": [
+    {
+      "name": "Zona Colonial",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Zona Colonial (Colonial Zone) is the historic heart of Santo Domingo, founded in 1498 as the first permanent European settlement in the Americas. Its cobblestone streets hold the Catedral Primada de Am\u00e9rica, the Alc\u00e1zar de Col\u00f3n, and the Fortaleza Ozama, and the district is a UNESCO World Heritage Site.",
+        "image": "https://dominicanrepublic.com/wp-content/uploads/2026/04/zona-colonial-santo-domingo.webp",
+        "url": "https://en.wikipedia.org/wiki/Ciudad_Colonial_(Santo_Domingo)",
+        "coordinates": {
+          "lat": 18.483,
+          "lon": -69.917
+        }
+      }
+    },
+    {
+      "name": "Punta Cana",
+      "writeup": "",
+      "wiki": {
+        "extract": "Punta Cana is the Dominican Republic's premier beach resort destination on the eastern tip of Hispaniola, famous for long stretches of white sand, turquoise water, and all-inclusive resorts. It anchors the country's tourism industry, the largest in the Caribbean.",
+        "image": "https://dominicanrepublicsun.com/wp-content/uploads/2023/03/Aerial-view-of-Punta-Cana-white-sand-beach.jpg",
+        "url": "https://en.wikipedia.org/wiki/Punta_Cana",
+        "coordinates": {
+          "lat": 18.533,
+          "lon": -68.367
+        }
+      }
+    },
+    {
+      "name": "Pico Duarte",
+      "writeup": "",
+      "wiki": {
+        "extract": "Pico Duarte is the highest mountain in the Caribbean at 3,098 meters (10,164 ft), located in the Cordillera Central. Climbers reach its summit via multi-day treks, where a statue of Juan Pablo Duarte marks the top.",
+        "image": "https://picoduartetours.com/wp-content/uploads/2023/09/estatua-pico-duarte.jpg",
+        "url": "https://en.wikipedia.org/wiki/Pico_Duarte",
+        "coordinates": {
+          "lat": 19.02306,
+          "lon": -70.99806
+        }
+      }
+    },
+    {
+      "name": "Bas\u00edlica Catedral Nuestra Se\u00f1ora de la Altagracia",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Bas\u00edlica Catedral Nuestra Se\u00f1ora de la Altagracia in Higuey is the most important Catholic shrine in the Dominican Republic, dedicated to the country's patroness. Its striking modern concrete structure, completed in 1970, draws hundreds of thousands of pilgrims each January 21.",
+        "image": "https://www.diasporadominicana.com/wp-content/uploads/2021/01/Fotografia-del-exterior-de-la-basilica-de-Higuey..jpg",
+        "url": "https://en.wikipedia.org/wiki/Bas%C3%ADlica_Catedral_Nuestra_Se%C3%B1ora_de_la_Altagracia",
+        "coordinates": {
+          "lat": 18.61568,
+          "lon": -68.71745
+        }
+      }
+    },
+    {
+      "name": "Saona Island",
+      "writeup": "",
+      "wiki": {
+        "extract": "Saona Island (Isla Saona) is a protected island off the southeastern coast, part of Cotubanam\u00e1 National Park, known for palm-fringed beaches, shallow turquoise lagoons, and starfish-filled shallows. It is one of the country's most popular day-trip excursions.",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/15/73/7f/c8.jpg",
+        "url": "https://en.wikipedia.org/wiki/Saona_Island",
+        "coordinates": {
+          "lat": 18.15556,
+          "lon": -68.69944
+        }
+      }
+    }
+  ],
+  "head_of_state": "President Luis Abinader",
+  "cultural_events": [
+    {
+      "name": "Dominican Carnival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Dominican Republic's Carnival is celebrated each February with parades, street dancing, music, and elaborate costumes; La Vega hosts the country's most famous carnival, known for its horned cojuelo devil masks. Festivities build toward Independence Day on February 27.",
+        "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663464452158/jLUmfMaqUxPvzKpT6UGV3i/la-vega-carnival_4368cf96.jpg",
+        "url": "https://en.wikipedia.org/wiki/Carnival_in_the_Dominican_Republic"
+      }
+    },
+    {
+      "name": "Festival Presidente",
+      "writeup": "",
+      "wiki": {
+        "extract": "Festival Presidente is a major Latin music festival sponsored by Cerveza Presidente, drawing top Dominican and international artists for multi-day concerts. It ranks among the largest music events in the Caribbean.",
+        "image": "https://elcuartopoder.net/wp-content/uploads/2025/12/Festival-Presidente.webp",
+        "url": "https://en.wikipedia.org/wiki/Festival_Presidente"
+      }
+    },
+    {
+      "name": "Festival del Merengue",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Festival del Merengue is an annual celebration of the Dominican Republic's national dance, held in Santo Domingo and Puerto Plata with top merengue bands on open-air stages. Dancers compete in choreography contests while evening parades fill the streets.",
+        "image": "https://i3.cn.cz/15/1471245746_DR-MerengueSantoDomingo.jpg",
+        "url": "https://en.wikipedia.org/wiki/Culture_of_the_Dominican_Republic"
+      }
+    },
+    {
+      "name": "Fiesta de la Altagracia",
+      "writeup": "",
+      "wiki": {
+        "extract": "The feast of Our Lady of Altagracia, patroness of the Dominican Republic, is observed every January 21 as a national holiday. Thousands of pilgrims converge on the Basilica in Higuey for Mass, processions, and devotions.",
+        "image": "https://basilicaaltagracia.do/wp-content/uploads/2026/01/AMR5990-768x512.jpg",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Altagracia"
+      }
+    },
+    {
+      "name": "Dominican Republic Jazz Festival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Dominican Republic Jazz Festival is a free annual festival held each November in the north-coast towns of Sosua, Puerto Plata, and Cabarete, featuring world-class Latin jazz artists on beachside stages. It also funds youth music education through the FEDUJAZZ foundation.",
+        "image": "https://ritmo.com.do/wp-content/uploads/2025/06/4.-Cabarete-Jazz-Fest-2025.jpg",
+        "url": "https://en.wikipedia.org/wiki/Culture_of_the_Dominican_Republic"
+      }
+    }
+  ],
+  "food_writeup": "Dominican cuisine blends Spanish, Ta\u00edno, and African influences around staples like rice, beans, plantains, and root vegetables; the national dish is la bandera, rice with red beans and meat. Sancocho, a hearty meat-and-root stew, is the beloved comfort food for gatherings, while Presidente beer and mamajuana, a spiced rum infusion, are the signature drinks.",
+  "brief_history": "The Dominican Republic occupies the eastern two-thirds of Hispaniola, first settled by Europeans in 1492 and home to the first Spanish colonial capital in the Americas. After periods of Haitian, Spanish, and U.S. occupation, Rafael Trujillo's brutal dictatorship (1930-1961) gave way to democratic rule, and since the late 20th century the country has become the Caribbean's largest economy on tourism, free-trade zones, and remittances.",
+  "important_people": [
+    {
+      "name": "Juan Pablo Duarte",
+      "description": ""
+    },
+    {
+      "name": "Rafael Trujillo",
+      "description": ""
+    },
+    {
+      "name": "Pedro Mart\u00ednez",
+      "description": ""
+    },
+    {
+      "name": "David Ortiz",
+      "description": ""
+    },
+    {
+      "name": "Junot D\u00edaz",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "The Dominican Republic has no active armed conflict. Its main security concerns are irregular migration and smuggling along the Haitian border, where a border wall has been under construction since 2021, and periodic diplomatic tensions with Haiti.",
+  "five_youtube_video_titles": [
+    "Dominican Republic - Geography Now!",
+    "Top 10 Things to Do in the Dominican Republic",
+    "Why the Dominican Republic Rules Baseball",
+    "Santo Domingo: America's First City",
+    "Merengue: The Sound of the Dominican Republic"
+  ],
+  "cities": [
+    {
+      "name": "Santo Domingo",
+      "capital": true,
+      "lat": 18.47185,
+      "lon": -69.89139
+    },
+    {
+      "name": "Santiago de los Caballeros",
+      "capital": false,
+      "lat": 19.45404,
+      "lon": -70.70745
+    },
+    {
+      "name": "Punta Cana",
+      "capital": false,
+      "lat": 18.533,
+      "lon": -68.367
+    },
+    {
+      "name": "Puerto Plata",
+      "capital": false,
+      "lat": 19.78781,
+      "lon": -70.69455
+    },
+    {
+      "name": "La Romana",
+      "capital": false,
+      "lat": 18.42558,
+      "lon": -68.96918
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/dominican-republic.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/Dominican_Republic",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 38.0,
+      "gross_debt_pct_gdp": 36,
+      "gross_debt_usd_billion": 13.68,
+      "inflation_cpi_pct": 7.6,
+      "status": "Historical / IMF estimate",
+      "population": 9341183,
+      "exchange_rate_usd": 33.3,
+      "main_events": [
+        {
+          "headline": "PLD sweeps congressional elections",
+          "summary": "Leonel Fern\u00e1ndez's Dominican Liberation Party wins the May congressional and municipal elections, consolidating power midway through his term."
+        },
+        {
+          "headline": "Economy rebounds on tourism and zones",
+          "summary": "Strong growth continues as tourism, free-trade zones, and remittances drive one of the region's fastest-expanding economies."
+        }
+      ],
+      "sport": {
+        "headline": "Dominicans compete in first World Baseball Classic",
+        "summary": "The star-studded Dominican team reaches the semifinals of the inaugural World Baseball Classic before falling to Cuba."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 44.07,
+      "gross_debt_pct_gdp": 32.9,
+      "gross_debt_usd_billion": 14.5,
+      "inflation_cpi_pct": 6.1,
+      "status": "Historical / IMF estimate",
+      "population": 9455658,
+      "exchange_rate_usd": 33.1719,
+      "main_events": [
+        {
+          "headline": "CAFTA-DR takes effect",
+          "summary": "The Central America-Dominican Republic free trade agreement enters into force in March, boosting exports and investment."
+        },
+        {
+          "headline": "Fernandez seeks re-election",
+          "summary": "President Fernandez launches his re-election bid as the PLD prepares for the 2008 vote amid strong economic growth."
+        }
+      ],
+      "sport": {
+        "headline": "DR medals at Rio Pan Am Games",
+        "summary": "Dominican athletes win medals at the Pan American Games in Rio de Janeiro, led by the country's boxers and baseball team."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 48.17,
+      "gross_debt_pct_gdp": 33.6,
+      "gross_debt_usd_billion": 16.19,
+      "inflation_cpi_pct": 10.6,
+      "status": "Historical / IMF estimate",
+      "population": 9573130,
+      "exchange_rate_usd": 34.5294,
+      "main_events": [
+        {
+          "headline": "Fernandez re-elected president",
+          "summary": "Leonel Fern\u00e1ndez wins a second consecutive term in the May elections, defeating PRD challenger Miguel Vargas."
+        },
+        {
+          "headline": "Global crisis hits tourism",
+          "summary": "The world financial crisis slows tourism and remittances, the twin engines of Dominican growth, late in the year."
+        }
+      ],
+      "sport": {
+        "headline": "F\u00e9lix D\u00edaz wins DR's first Olympic gold",
+        "summary": "Boxer F\u00e9lix D\u00edaz captures the light-welterweight title at the Beijing Olympics, the Dominican Republic's first-ever Olympic gold medal."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 48.28,
+      "gross_debt_pct_gdp": 36.8,
+      "gross_debt_usd_billion": 17.77,
+      "inflation_cpi_pct": 1.4,
+      "status": "Historical / IMF estimate",
+      "population": 9695265,
+      "exchange_rate_usd": 35.9719,
+      "main_events": [
+        {
+          "headline": "Constitutional reform launched",
+          "summary": "Fernandez pushes a new constitution through the National Assembly, reshaping term limits and the judiciary."
+        },
+        {
+          "headline": "Economy weathers global recession",
+          "summary": "Growth slows sharply as the global downturn bites, but IMF-backed policies keep the economy stable."
+        }
+      ],
+      "sport": {
+        "headline": "Early exit at World Baseball Classic",
+        "summary": "The favored Dominican squad is stunned by the Netherlands and eliminated in the first round of the 2009 World Baseball Classic."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 53.86,
+      "gross_debt_pct_gdp": 37.4,
+      "gross_debt_usd_billion": 20.14,
+      "inflation_cpi_pct": 6.3,
+      "status": "Historical / IMF estimate",
+      "population": 9820175,
+      "exchange_rate_usd": 36.8213,
+      "main_events": [
+        {
+          "headline": "New constitution proclaimed",
+          "summary": "The reformed constitution takes effect in January, and the PLD dominates the May congressional elections."
+        },
+        {
+          "headline": "DR leads Haiti quake relief",
+          "summary": "After the January 12 earthquake devastates Port-au-Prince, the Dominican Republic becomes the hub for regional relief efforts."
+        }
+      ],
+      "sport": {
+        "headline": "Dominican stars shine in MLB",
+        "summary": "Albert Pujols and a deep contingent of Dominican players headline another dominant Major League Baseball season."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 58.01,
+      "gross_debt_pct_gdp": 39.1,
+      "gross_debt_usd_billion": 22.68,
+      "inflation_cpi_pct": 8.5,
+      "status": "Historical / IMF estimate",
+      "population": 9945621,
+      "exchange_rate_usd": 38.0876,
+      "main_events": [
+        {
+          "headline": "Danilo Medina named PLD candidate",
+          "summary": "Former minister Danilo Medina secures the PLD presidential nomination for the 2012 election."
+        },
+        {
+          "headline": "Haiti migration debate intensifies",
+          "summary": "Tensions over Haitian migration and citizenship rules grow as a constitutional court review looms."
+        }
+      ],
+      "sport": {
+        "headline": "Pujols wins World Series with Cardinals",
+        "summary": "Albert Pujols powers St. Louis to the World Series title in October, cementing his superstar status."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 60.63,
+      "gross_debt_pct_gdp": 42.4,
+      "gross_debt_usd_billion": 25.71,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate",
+      "population": 10070411,
+      "exchange_rate_usd": 39.3203,
+      "main_events": [
+        {
+          "headline": "Danilo Medina elected president",
+          "summary": "PLD candidate Danilo Medina defeats Hip\u00f3lito Mej\u00eda in May, extending the party's rule."
+        },
+        {
+          "headline": "Tax reform sparks protests",
+          "summary": "A fiscal reform package to close the budget deficit draws street protests late in the year."
+        }
+      ],
+      "sport": {
+        "headline": "F\u00e9lix S\u00e1nchez wins second hurdles gold",
+        "summary": "F\u00e9lix S\u00e1nchez storms to 400m hurdles gold at the London Olympics, eight years after his first title."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 62.63,
+      "gross_debt_pct_gdp": 46.8,
+      "gross_debt_usd_billion": 29.31,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate",
+      "population": 10193833,
+      "exchange_rate_usd": 41.7945,
+      "main_events": [
+        {
+          "headline": "Citizenship ruling sparks outcry",
+          "summary": "The Constitutional Tribunal's September ruling stripping citizenship from Dominican-born children of undocumented migrants draws international condemnation."
+        },
+        {
+          "headline": "Economy keeps regional lead",
+          "summary": "The DR posts the Caribbean's strongest growth as tourism and mining expand."
+        }
+      ],
+      "sport": {
+        "headline": "Dominicans win World Baseball Classic",
+        "summary": "The Dominican Republic goes undefeated to win the 2013 World Baseball Classic, beating Puerto Rico in the final."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 67.1,
+      "gross_debt_pct_gdp": 45,
+      "gross_debt_usd_billion": 30.19,
+      "inflation_cpi_pct": 3,
+      "status": "Historical / IMF estimate",
+      "population": 10315528,
+      "exchange_rate_usd": 43.5497,
+      "main_events": [
+        {
+          "headline": "Petrocaribe debt deal",
+          "summary": "The government negotiates Venezuelan oil-debt relief as Petrocaribe terms tighten."
+        },
+        {
+          "headline": "Regularization plan for migrants",
+          "summary": "A national regularization plan opens for undocumented migrants, mostly Haitians, amid international scrutiny."
+        }
+      ],
+      "sport": {
+        "headline": "DR medals at Veracruz games",
+        "summary": "Dominican athletes win a strong medal haul at the Central American and Caribbean Games in Veracruz, Mexico."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 71.06,
+      "gross_debt_pct_gdp": 44.8,
+      "gross_debt_usd_billion": 31.83,
+      "inflation_cpi_pct": 0.8,
+      "status": "Historical / IMF estimate",
+      "population": 10434829,
+      "exchange_rate_usd": 45.0455,
+      "main_events": [
+        {
+          "headline": "Deportations begin after deadline",
+          "summary": "After the migrant regularization deadline passes in June, deportations of Haitians begin, straining bilateral ties."
+        },
+        {
+          "headline": "Medina seeks re-election reform",
+          "summary": "Congress amends the constitution to allow Danilo Medina to seek a second term in 2016."
+        }
+      ],
+      "sport": {
+        "headline": "Ortiz chases milestones in Boston",
+        "summary": "David Ortiz continues his march up the all-time home run list in another big Red Sox season."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 75.62,
+      "gross_debt_pct_gdp": 46.7,
+      "gross_debt_usd_billion": 35.32,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate",
+      "population": 10551430,
+      "exchange_rate_usd": 46.0644,
+      "main_events": [
+        {
+          "headline": "Medina re-elected in landslide",
+          "summary": "Danilo Medina wins re-election in May with over 60 percent of the vote."
+        },
+        {
+          "headline": "Hurricane Matthew drenches the south",
+          "summary": "October's Hurricane Matthew brings deadly flooding to southwestern DR after devastating Haiti."
+        }
+      ],
+      "sport": {
+        "headline": "Luisito Pie wins taekwondo bronze",
+        "summary": "Luisito Pie captures bronze in taekwondo at the Rio Olympics, the DR's only medal of the Games."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 79.15,
+      "gross_debt_pct_gdp": 49.5,
+      "gross_debt_usd_billion": 39.18,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate",
+      "population": 10666843,
+      "exchange_rate_usd": 47.5344,
+      "main_events": [
+        {
+          "headline": "Marcha Verde protests erupt",
+          "summary": "The Odebrecht bribery scandal fuels the Green March protest movement demanding an end to corruption and impunity."
+        },
+        {
+          "headline": "Hurricane Maria brushes the north",
+          "summary": "September's Hurricane Maria passes near the northeast coast, causing flooding after ravaging Puerto Rico."
+        }
+      ],
+      "sport": {
+        "headline": "DR falls short at World Baseball Classic",
+        "summary": "The defending champions are eliminated by the United States in the second round of the 2017 World Baseball Classic."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 85.07,
+      "gross_debt_pct_gdp": 50.8,
+      "gross_debt_usd_billion": 43.21,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate",
+      "population": 10782053,
+      "exchange_rate_usd": 49.51,
+      "main_events": [
+        {
+          "headline": "DR switches recognition to China",
+          "summary": "Santo Domingo establishes diplomatic ties with Beijing in May, cutting relations with Taiwan."
+        },
+        {
+          "headline": "Anti-corruption trials advance",
+          "summary": "Odebrecht-related prosecutions move forward amid continued Marcha Verde pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Dominican arms power MLB",
+        "summary": "A new generation of Dominican sluggers headlines the Major League Baseball season across the league."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 89.24,
+      "gross_debt_pct_gdp": 53.5,
+      "gross_debt_usd_billion": 47.74,
+      "inflation_cpi_pct": 1.8,
+      "status": "Historical / IMF estimate",
+      "population": 10894043,
+      "exchange_rate_usd": 51.2949,
+      "main_events": [
+        {
+          "headline": "David Ortiz shot in Santo Domingo",
+          "summary": "The June shooting of baseball icon David Ortiz in a Santo Domingo bar shocks the nation; he survives after surgery."
+        },
+        {
+          "headline": "PLD primary splits the party",
+          "summary": "Gonzalo Castillo's disputed primary win over Leonel Fern\u00e1ndez fractures the ruling PLD ahead of 2020."
+        }
+      ],
+      "sport": {
+        "headline": "Winter league thrills fans",
+        "summary": "The Dominican Winter League delivers another fiercely contested season between Licey, Escogido, and the \u00c1guilas."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 78.62,
+      "gross_debt_pct_gdp": 71.8,
+      "gross_debt_usd_billion": 56.45,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate",
+      "population": 11008300,
+      "exchange_rate_usd": 56.5245,
+      "main_events": [
+        {
+          "headline": "Abinader ends 16 years of PLD rule",
+          "summary": "PRM candidate Luis Abinader wins the July presidential election as voters punish the PLD over corruption."
+        },
+        {
+          "headline": "COVID crushes tourism",
+          "summary": "The pandemic shutters resorts and collapses tourism, the economy's lifeline, forcing emergency stimulus."
+        }
+      ],
+      "sport": {
+        "headline": "Paulino wins Olympic silver",
+        "summary": "Marileidy Paulino takes 400m silver at the Tokyo Olympics, alongside weightlifting silver for Zacar\u00edas Bonnat."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 95.07,
+      "gross_debt_pct_gdp": 62.8,
+      "gross_debt_usd_billion": 59.7,
+      "inflation_cpi_pct": 8.2,
+      "status": "Historical / IMF estimate",
+      "population": 11123476,
+      "exchange_rate_usd": 57.2211,
+      "main_events": [
+        {
+          "headline": "Border wall with Haiti announced",
+          "summary": "Abinader announces a border wall to curb irregular migration and smuggling, with construction starting later in the year."
+        },
+        {
+          "headline": "Tourism rebounds strongly",
+          "summary": "Vaccination campaigns and reopened resorts drive a rapid tourism recovery, leading regional growth."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic medals celebrated",
+        "summary": "Paulino's 400m silver and Bonnat's weightlifting silver mark the DR's best Olympic showing."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 113.81,
+      "gross_debt_pct_gdp": 59.6,
+      "gross_debt_usd_billion": 67.83,
+      "inflation_cpi_pct": 8.8,
+      "status": "Historical / IMF estimate",
+      "population": 11230734,
+      "exchange_rate_usd": 55.141,
+      "main_events": [
+        {
+          "headline": "Border wall construction advances",
+          "summary": "Work continues on the Haitian border barrier as migration pressures mount amid Haiti's gang crisis."
+        },
+        {
+          "headline": "Inflation fight and growth",
+          "summary": "The central bank hikes rates to tame post-pandemic inflation while the economy keeps expanding."
+        }
+      ],
+      "sport": {
+        "headline": "Pujols hits 700th home run",
+        "summary": "Albert Pujols becomes the fourth player in MLB history to reach 700 career home runs in September."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 120.79,
+      "gross_debt_pct_gdp": 60.5,
+      "gross_debt_usd_billion": 73.08,
+      "inflation_cpi_pct": 4.8,
+      "status": "Historical / IMF estimate",
+      "population": 11331265,
+      "exchange_rate_usd": 56.1576,
+      "main_events": [
+        {
+          "headline": "Border closed over canal dispute",
+          "summary": "The DR shuts the Haitian border in September after Haiti builds a canal on the Dajab\u00f3n River, freezing trade."
+        },
+        {
+          "headline": "Abinader seeks second term",
+          "summary": "President Abinader announces his re-election bid as the economy outperforms regional peers."
+        }
+      ],
+      "sport": {
+        "headline": "Early WBC exit stuns fans",
+        "summary": "The talent-loaded Dominican team is upset in pool play and eliminated early from the 2023 World Baseball Classic."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 124.61,
+      "gross_debt_pct_gdp": 58.8,
+      "gross_debt_usd_billion": 73.27,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate",
+      "population": 11427557,
+      "exchange_rate_usd": 59.5651,
+      "main_events": [
+        {
+          "headline": "Abinader re-elected president",
+          "summary": "Luis Abinader wins a second term in the May elections, with the PRM dominating congress."
+        },
+        {
+          "headline": "Haiti crisis spills over",
+          "summary": "Haiti's gang meltdown deepens DR border security operations and deportation campaigns."
+        }
+      ],
+      "sport": {
+        "headline": "Paulino strikes 400m gold",
+        "summary": "Marileidy Paulino wins Olympic gold in the women's 400m at the Paris Games in an Olympic record."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 127.89,
+      "gross_debt_pct_gdp": 59,
+      "gross_debt_usd_billion": 75.46,
+      "inflation_cpi_pct": 3.9,
+      "status": "IMF projection",
+      "population": 11520487,
+      "exchange_rate_usd": 61.9866,
+      "main_events": [
+        {
+          "headline": "Jet Set nightclub disaster",
+          "summary": "The April roof collapse at Santo Domingo's Jet Set nightclub kills more than 200 people, the country's deadliest recent tragedy."
+        },
+        {
+          "headline": "Hurricane Melissa floods the south",
+          "summary": "Category 5 Hurricane Melissa batters the southern coast in October with destructive winds and flooding."
+        }
+      ],
+      "sport": {
+        "headline": "DR competes at Caribbean Series",
+        "summary": "The Dominican Winter League champions represent the country at the Caribbean Series in Mexicali."
+      }
+    }
+  ]
+}

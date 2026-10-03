@@ -1,0 +1,404 @@
+{
+  "country": "Egypt",
+  "iso3": "EGY",
+  "currency": "EGP",
+  "currency_name": "Egyptian Pound",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 72200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mubarak's succession question",
+          "summary": "Speculation grows over whether Gamal Mubarak will inherit the presidency."
+        },
+        {
+          "headline": "Muslim Brotherhood gains ground",
+          "summary": "The banned movement's parliamentary bloc challenges the regime."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt win Africa Cup of Nations",
+        "summary": "The Pharaohs beat Ivory Coast on penalties to win the 2006 title at home."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 73600000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional amendments pass",
+          "summary": "March's referendum entrenches the ruling party's dominance."
+        },
+        {
+          "headline": "Cairo bombings rattle tourism",
+          "summary": "Sporadic attacks target the vital tourism sector."
+        }
+      ],
+      "sport": {
+        "headline": "Al Ahly dominate African club football",
+        "summary": "Cairo's giants remain the continent's team to beat."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 75200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bread riots hit Egypt",
+          "summary": "Spring protests over food prices turn deadly in industrial towns."
+        },
+        {
+          "headline": "Gaza border tensions",
+          "summary": "Egypt balances pressure over the blockaded Palestinian territory."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt win Africa Cup of Nations",
+        "summary": "A 1-0 final victory over Cameroon in Accra delivers back-to-back titles."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 76900000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Egypt-Algeria football row",
+          "summary": "World Cup playoff violence triggers a diplomatic crisis with Algiers."
+        },
+        {
+          "headline": "Succession maneuvering intensifies",
+          "summary": "Gamal Mubarak's rise fuels opposition anger."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2010 World Cup",
+        "summary": "A playoff defeat to Algeria in Khartoum denies the African champions a World Cup place."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 78700000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party sweeps rigged vote",
+          "summary": "November's parliamentary elections are condemned as the most fraudulent yet."
+        },
+        {
+          "headline": "Copts attacked in Alexandria",
+          "summary": "A New Year's church bombing kills worshippers, stoking sectarian anger."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt win third straight AFCON",
+        "summary": "A 1-0 win over Ghana completes an unprecedented three-peat of African titles."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 80500000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Revolution topples Mubarak",
+          "summary": "Eighteen days of Tahrir Square protests force the president out on February 11."
+        },
+        {
+          "headline": "Military takes power",
+          "summary": "The Supreme Council of the Armed Forces assumes control promising elections."
+        },
+        {
+          "headline": "Mubarak detained",
+          "summary": "The ousted president faces trial over protester killings."
+        }
+      ],
+      "sport": {
+        "headline": "Revolution disrupts domestic football",
+        "summary": "The league is suspended after Mubarak's fall as stadiums become protest battlegrounds."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 82500000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Port Said stadium disaster",
+          "summary": "February riots after an Al Masry-Al Ahly match kill dozens of fans; the league is cancelled."
+        },
+        {
+          "headline": "Morsi wins presidency",
+          "summary": "The Muslim Brotherhood's candidate defeats Ahmed Shafik in June's runoff."
+        },
+        {
+          "headline": "Military retains power",
+          "summary": "The generals dissolve parliament and seize legislative authority."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2012 AFCON",
+        "summary": "The three-time defending champions shockingly fail to qualify."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 84600000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Army ousts Morsi",
+          "summary": "Mass protests lead General Sisi to depose the president on July 3."
+        },
+        {
+          "headline": "Rabaa massacre kills hundreds",
+          "summary": "Security forces crush pro-Morsi sit-ins in August in Egypt's bloodiest crackdown."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2013 AFCON",
+        "summary": "The Pharaohs again fail to qualify for the continental tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 86800000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sisi elected president",
+          "summary": "The former general wins May's vote amid a crackdown on dissent."
+        },
+        {
+          "headline": "Sinai insurgency intensifies",
+          "summary": "Militants kill scores of soldiers in the peninsula."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2014 World Cup",
+        "summary": "A playoff thrashing by Ghana denies Egypt a place at Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 89000000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russian plane downed over Sinai",
+          "summary": "October's Metrojet bombing kills 224, devastating tourism."
+        },
+        {
+          "headline": "Parliamentary elections held",
+          "summary": "Pro-Sisi parties dominate the vote; the Brotherhood is banned."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2015 AFCON",
+        "summary": "A third straight qualifying failure for the record champions."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 91000000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Giulio Regeni murdered",
+          "summary": "The Italian student's torture and killing strains ties with Rome."
+        },
+        {
+          "headline": "Egypt floats pound",
+          "summary": "November's currency devaluation secures an IMF loan but fuels inflation."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt qualify for 2017 AFCON",
+        "summary": "The Pharaohs end their AFCON exile by reaching the Gabon tournament."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 95200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Church bombings kill dozens",
+          "summary": "Palm Sunday ISIS attacks on Coptic churches shock the nation."
+        },
+        {
+          "headline": "Mosque massacre in Sinai",
+          "summary": "November's attack kills over 300 worshippers, Egypt's deadliest terror strike."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt reach AFCON final",
+        "summary": "The Pharaohs lose 2-1 to Cameroon in the 2017 final."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 97100000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sisi re-elected president",
+          "summary": "The incumbent wins March's vote after rivals are jailed or withdraw."
+        },
+        {
+          "headline": "Sinai offensive launched",
+          "summary": "The army mounts a major operation against ISIS militants."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt return to World Cup",
+        "summary": "Salah's goals take the Pharaohs to Russia 2018, their first World Cup in 28 years."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 98900000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional amendments pass",
+          "summary": "April's referendum lets Sisi rule until 2030."
+        },
+        {
+          "headline": "Morsi dies in court",
+          "summary": "The ousted president collapses during trial in June."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt host AFCON, exit early",
+        "summary": "South Africa stun the hosts in the 2019 round of 16."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 100600000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 batters tourism",
+          "summary": "The pandemic devastates a recovering visitor industry."
+        },
+        {
+          "headline": "Senate elections held",
+          "summary": "A revived upper house is filled with pro-government figures."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Egypt's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 102100000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suez Canal blocked by Ever Given",
+          "summary": "March's six-day blockage disrupts global trade."
+        },
+        {
+          "headline": "Grand Ethiopian Renaissance Dam dispute",
+          "summary": "Cairo warns Addis Ababa over Nile waters."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt reach AFCON final",
+        "summary": "The Pharaohs lose to Senegal on penalties in the 2021 final in Cameroon."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 103600000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Currency collapse and inflation trigger an IMF bailout."
+        },
+        {
+          "headline": "COP27 hosted in Sharm el-Sheikh",
+          "summary": "November's climate summit spotlights Egypt's green ambitions."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt miss 2022 World Cup",
+        "summary": "Senegal edge the Pharaohs on penalties in the qualifying playoff."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 105200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sisi wins third term",
+          "summary": "December's election extends his rule to 2030 amid economic turmoil."
+        },
+        {
+          "headline": "Gaza war strains Egypt",
+          "summary": "Cairo mediates ceasefires while managing the Rafah border."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt qualify for 2023 AFCON",
+        "summary": "The record champions reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 106600000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF bailout and currency float",
+          "summary": "A $57 billion rescue package stabilizes the economy after devaluation."
+        },
+        {
+          "headline": "Egypt mediates Gaza ceasefire",
+          "summary": "Cairo brokers talks between Israel and Hamas."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt exit AFCON in round of 16",
+        "summary": "DR Congo eliminate the Pharaohs on penalties at the 2023 tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 107900000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Egypt hosts Gaza reconstruction talks",
+          "summary": "Cairo pushes its plan for the war-ravaged territory."
+        },
+        {
+          "headline": "Economy stabilizes slowly",
+          "summary": "IMF reforms ease inflation but austerity bites."
+        }
+      ],
+      "sport": {
+        "headline": "Egypt qualify for 2026 World Cup",
+        "summary": "The Pharaohs seal a return to the World Cup in October qualifying."
+      }
+    }
+  ]
+}

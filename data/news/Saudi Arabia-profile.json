@@ -1,0 +1,396 @@
+{
+  "country": "Saudi Arabia",
+  "iso3": "SAU",
+  "currency": "SAR",
+  "currency_name": "Saudi Riyal",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 21113000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King Abdullah consolidates",
+          "summary": "The monarch pursues cautious reforms."
+        },
+        {
+          "headline": "Oil boom",
+          "summary": "High prices fund largesse."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Germany",
+        "summary": "Saudi Arabia exit the World Cup in the group stage."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 21655000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Allegiance Council",
+          "summary": "A succession body is created."
+        },
+        {
+          "headline": "Judicial reforms",
+          "summary": "The king overhauls the courts."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup final",
+        "summary": "Saudi Arabia lose the Asian Cup final to Iraq."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 22210000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil hits record",
+          "summary": "Crude peaks before the crash."
+        },
+        {
+          "headline": "Financial crisis",
+          "summary": "The kingdom weathers the global slump."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Saudi athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 22780000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nayef crackdown",
+          "summary": "Militants are targeted after royal assassination attempt."
+        },
+        {
+          "headline": "KAUST opens",
+          "summary": "The science university launches."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Saudi Arabia miss out on the 2010 World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 23978000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen war",
+          "summary": "Saudi forces battle Houthi incursions."
+        },
+        {
+          "headline": "Floods in Jeddah",
+          "summary": "Deadly floods expose infrastructure gaps."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Saudi Arabia contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 25092000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring fears",
+          "summary": "Riyadh spends billions to head off unrest."
+        },
+        {
+          "headline": "Bahrain intervention",
+          "summary": "Saudi troops enter Bahrain."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Saudi Arabia exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 26169000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Crown prince dies",
+          "summary": "Nayef's death reshuffles succession."
+        },
+        {
+          "headline": "Salman becomes heir",
+          "summary": "The defence minister is named crown prince."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Saudi women compete at the Olympics for the first time."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 27624000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Syria policy",
+          "summary": "Riyadh backs rebels against Assad."
+        },
+        {
+          "headline": "Labour crackdown",
+          "summary": "Migrant worker sweeps begin."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Saudi Arabia contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 28309000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price war",
+          "summary": "Riyadh pumps to defend market share."
+        },
+        {
+          "headline": "Succession decree",
+          "summary": "Muqrin is named deputy crown prince."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Saudi athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 29816000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King Salman takes throne",
+          "summary": "Abdullah dies; Salman becomes king."
+        },
+        {
+          "headline": "Yemen war launched",
+          "summary": "A Saudi-led coalition intervenes in March."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Saudi Arabia exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 30954000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vision 2030 launched",
+          "summary": "Prince Mohammed unveils the transformation plan."
+        },
+        {
+          "headline": "Deputy crown prince",
+          "summary": "Mohammed bin Salman rises."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Saudi athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 30977000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MBS becomes crown prince",
+          "summary": "The king ousts Mohammed bin Nayef."
+        },
+        {
+          "headline": "Ritz-Carlton purge",
+          "summary": "Princes and tycoons are detained."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "Saudi Arabia qualify for the 2018 World Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 30196000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khashoggi murdered",
+          "summary": "The journalist is killed in the Istanbul consulate."
+        },
+        {
+          "headline": "Global outrage",
+          "summary": "The killing triggers a diplomatic crisis."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Russia",
+        "summary": "Saudi Arabia win their opener's aftermath? Exit in groups."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 30064000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Aramco attacked",
+          "summary": "Drones hit oil facilities in September."
+        },
+        {
+          "headline": "Aramco IPO",
+          "summary": "The oil giant lists in Riyadh."
+        }
+      ],
+      "sport": {
+        "headline": "Spanish Super Cup",
+        "summary": "Saudi Arabia begins hosting major football events."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 31553000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price crash",
+          "summary": "COVID and a Russia row crater prices."
+        },
+        {
+          "headline": "G20 hosted",
+          "summary": "Riyadh chairs the virtual summit."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Saudi football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 30784000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US report on Khashoggi",
+          "summary": "Washington blames MBS for the murder."
+        },
+        {
+          "headline": "Yemen initiative",
+          "summary": "Riyadh proposes a ceasefire."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Saudi Arabia top their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 32175000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biden's fist bump",
+          "summary": "The US president visits Jeddah."
+        },
+        {
+          "headline": "OPEC+ cuts",
+          "summary": "Oil output cuts anger Washington."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup upset",
+        "summary": "Saudi Arabia stun Argentina 2-1 in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 33703000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "China-brokered Iran deal",
+          "summary": "Riyadh and Tehran restore ties."
+        },
+        {
+          "headline": "Sports splurge",
+          "summary": "The PIF's football spending spree shakes the sport."
+        }
+      ],
+      "sport": {
+        "headline": "Ronaldo joins Al-Nassr",
+        "summary": "Cristiano Ronaldo's move launches the Saudi football boom."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 35300000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup 2034 awarded",
+          "summary": "FIFA grants Saudi Arabia the 2034 tournament."
+        },
+        {
+          "headline": "Gaza diplomacy",
+          "summary": "Riyadh conditions Israel ties on Palestinian statehood."
+        }
+      ],
+      "sport": {
+        "headline": "Winning the 2034 bid",
+        "summary": "Saudi Arabia is confirmed as 2034 World Cup host."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 36006000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-Saudi deals",
+          "summary": "Trump's visit yields huge investment pledges."
+        },
+        {
+          "headline": "Oil policy shifts",
+          "summary": "OPEC+ unwinds production cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup 2027 prep",
+        "summary": "Saudi Arabia prepare to host the 2027 Asian Cup."
+      }
+    }
+  ]
+}

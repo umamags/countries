@@ -1,0 +1,396 @@
+{
+  "country": "Ghana",
+  "iso3": "GHA",
+  "currency": "GHS",
+  "currency_name": "Ghanaian Cedi",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 23041000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ghana's oil discovery announced",
+          "summary": "The Jubilee field find promises to transform the economy."
+        },
+        {
+          "headline": "Kufuor's government stable",
+          "summary": "The NPP administration maintains steady growth."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana debut at World Cup",
+        "summary": "The Black Stars beat the Czech Republic and USA to reach the last 16 at Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 23642000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ghana marks 50 years of independence",
+          "summary": "March's golden jubilee celebrates Nkrumah's legacy."
+        },
+        {
+          "headline": "Oil production plans advance",
+          "summary": "Jubilee field development moves toward first oil."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana prepare to host AFCON",
+        "summary": "The Black Stars gear up for the 2008 tournament on home soil."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 24250000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mills wins razor-thin election",
+          "summary": "The NDC's John Atta Mills defeats Akufo-Addo by a whisker in December's runoff."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Kufuor hands over, cementing Ghana's democratic credentials."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana reach AFCON semifinals",
+        "summary": "The hosts finish third at the 2008 tournament after losing to Cameroon."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 24863000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mills inaugurated president",
+          "summary": "The new NDC government takes office in January."
+        },
+        {
+          "headline": "Oil production begins",
+          "summary": "First oil flows from the Jubilee field in December."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana's U-20s win World Cup",
+        "summary": "The Black Satellites become Africa's first U-20 world champions in Egypt."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 25475000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil boom begins",
+          "summary": "Jubilee output transforms government revenues."
+        },
+        {
+          "headline": "Ghana's democracy praised",
+          "summary": "The country remains a West African model."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana reach World Cup quarterfinals",
+        "summary": "A missed last-minute penalty against Uruguay denies Africa a first semifinal."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 26095000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mills government weathers criticism",
+          "summary": "The president faces pressure over the economy."
+        },
+        {
+          "headline": "Oil revenues debated",
+          "summary": "Parliament argues over petroleum fund management."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana qualify for 2012 AFCON",
+        "summary": "The Black Stars reach the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 26734000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "President Mills dies",
+          "summary": "John Atta Mills dies in July; Vice President Mahama succeeds him."
+        },
+        {
+          "headline": "Mahama wins election",
+          "summary": "The NDC takes December's vote; the NPP challenges the result in court."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana reach AFCON semifinals",
+        "summary": "Zambia edge the Black Stars in the 2012 last four."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 27386000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Supreme Court upholds election",
+          "summary": "Judges reject the NPP's challenge to Mahama's 2012 victory."
+        },
+        {
+          "headline": "Power crisis deepens",
+          "summary": "Chronic blackouts, dubbed 'dumsor', anger citizens."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana reach AFCON semifinals",
+        "summary": "Burkina Faso beat the Black Stars on penalties in the 2013 last four."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 28042000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF bailout agreed",
+          "summary": "Accra turns to the Fund amid fiscal crisis."
+        },
+        {
+          "headline": "Ebola fears hit region",
+          "summary": "The outbreak dents investor confidence despite no Ghanaian cases."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana exit World Cup amid chaos",
+        "summary": "Player pay disputes overshadow three defeats at Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 28696000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Power crisis eases",
+          "summary": "New generation capacity reduces the blackouts."
+        },
+        {
+          "headline": "Mahama's popularity slides",
+          "summary": "Economic woes hurt the president ahead of 2016."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana lose AFCON final on penalties",
+        "summary": "Ivory Coast edge the Black Stars in a marathon shootout in the 2015 final."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 29357000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Akufo-Addo wins presidency",
+          "summary": "The NPP's Nana Akufo-Addo defeats Mahama in December."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Mahama concedes gracefully, a democratic milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana compete at Rio Olympics",
+        "summary": "Ghanaian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 30008000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Free high school launched",
+          "summary": "Akufo-Addo's flagship policy begins in September."
+        },
+        {
+          "headline": "Anti-corruption office created",
+          "summary": "The special prosecutor's office targets graft."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana reach AFCON semifinals",
+        "summary": "Cameroon end the Black Stars' run in the 2017 last four."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 30638000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Banking crisis cleanup",
+          "summary": "The central bank shutters insolvent lenders."
+        },
+        {
+          "headline": "Ghana Beyond Aid agenda",
+          "summary": "Akufo-Addo pushes self-reliance rhetoric."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana miss 2018 World Cup",
+        "summary": "The Black Stars fail to qualify for Russia 2018, ending a three-tournament run."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 31259000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New regions created",
+          "summary": "Referendums approve six new regions in February."
+        },
+        {
+          "headline": "Akufo-Addo's popularity tested",
+          "summary": "Economic pressures mount ahead of 2020."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana exit AFCON in round of 16",
+        "summary": "Tunisia eliminate the Black Stars on penalties at Egypt 2019."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 31888000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Akufo-Addo re-elected narrowly",
+          "summary": "The president wins December's vote; Mahama alleges fraud."
+        },
+        {
+          "headline": "Hung parliament results",
+          "summary": "The NPP loses its majority, creating legislative deadlock."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Ghana's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 32519000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "LGBTQ debate rages",
+          "summary": "A proposed anti-gay bill sparks international controversy."
+        },
+        {
+          "headline": "Economic pressures mount",
+          "summary": "Debt and inflation rise sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana exit AFCON at group stage",
+        "summary": "A shock defeat to Comoros seals a humiliating 2021 group-stage exit."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 33149000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF bailout sought",
+          "summary": "Accra turns to the Fund as the cedi collapses."
+        },
+        {
+          "headline": "Debt restructuring",
+          "summary": "Domestic bondholders take haircuts in a controversial exchange."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana return to World Cup",
+        "summary": "The Black Stars edge Nigeria in the playoff to reach Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 33788000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF program approved",
+          "summary": "A $3 billion bailout is agreed in May."
+        },
+        {
+          "headline": "Anti-gay bill passed",
+          "summary": "Parliament approves harsh legislation; the president delays assent."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana qualify for 2023 AFCON",
+        "summary": "The Black Stars reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 34427000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mahama wins presidency again",
+          "summary": "The NDC's John Mahama defeats Bawumia in December, returning to power."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Akufo-Addo hands over in January 2025 after two terms."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana exit AFCON at group stage",
+        "summary": "Winless in Ivory Coast, the Black Stars suffer another early exit."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 35064000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mahama's government begins",
+          "summary": "The new NDC administration inherits a debt crisis."
+        },
+        {
+          "headline": "Galamsey crackdown",
+          "summary": "The government moves against illegal gold mining."
+        }
+      ],
+      "sport": {
+        "headline": "Ghana miss 2026 World Cup",
+        "summary": "The Black Stars fall short in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

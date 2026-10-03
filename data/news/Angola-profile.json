@@ -1,0 +1,396 @@
+{
+  "country": "Angola",
+  "iso3": "AGO",
+  "currency": "AOA",
+  "currency_name": "Angolan Kwanza",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 20015000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Post-war reconstruction boom accelerates",
+          "summary": "Oil revenues fund a building frenzy in Luanda four years after the civil war's end."
+        },
+        {
+          "headline": "Cabinda peace memorandum signed",
+          "summary": "An August deal with a FLEC faction aims to end the separatist insurgency in the oil-rich enclave."
+        }
+      ],
+      "sport": {
+        "headline": "Angola debut at the World Cup",
+        "summary": "The Palancas Negras draw with Mexico and Iran on their first appearance at Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 20779000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dos Santos promises 2008 elections",
+          "summary": "The president commits to Angola's first parliamentary vote since 1992."
+        },
+        {
+          "headline": "Oil output surges toward African record",
+          "summary": "New offshore fields push Angola close to overtaking Nigeria as the continent's top producer."
+        }
+      ],
+      "sport": {
+        "headline": "Angola qualify for 2008 AFCON",
+        "summary": "The Palancas Negras book a place at the Ghana tournament with a game to spare."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 21579000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MPLA wins first post-war election",
+          "summary": "The ruling party takes September's parliamentary vote in a landslide, extending dos Santos's rule."
+        },
+        {
+          "headline": "Angola becomes Africa's top oil producer",
+          "summary": "Surging output briefly lifts Angola past Nigeria as the continent's biggest crude producer."
+        }
+      ],
+      "sport": {
+        "headline": "Angola reach AFCON quarterfinals",
+        "summary": "The hosts-to-be lose 2-1 to Egypt in the last eight at the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 22415000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution drafted",
+          "summary": "A constitutional commission proposes scrapping direct presidential elections, entrenching dos Santos."
+        },
+        {
+          "headline": "Oil price crash tests economy",
+          "summary": "The global slump exposes Angola's dependence on crude, forcing budget cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Angola prepare to host 2010 AFCON",
+        "summary": "Stadium construction races ahead of January's tournament, the country's biggest sporting event."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 23295000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Togo team bus attacked in Cabinda",
+          "summary": "Separatist gunmen kill three in January; Togo withdraws from the Africa Cup of Nations."
+        },
+        {
+          "headline": "New constitution adopted",
+          "summary": "February's charter abolishes direct presidential elections, keeping dos Santos in power."
+        }
+      ],
+      "sport": {
+        "headline": "Angola host AFCON, reach quarterfinals",
+        "summary": "The Palancas Negras thrill home fans before a 1-0 quarterfinal defeat to Ghana."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 24218000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Youth protests challenge dos Santos",
+          "summary": "Arab Spring-inspired demonstrations in Luanda are met with a heavy police crackdown."
+        },
+        {
+          "headline": "Opposition alleges repression",
+          "summary": "Activists accuse the regime of abductions and violence ahead of the 2012 vote."
+        }
+      ],
+      "sport": {
+        "headline": "Angola fail to reach 2012 AFCON",
+        "summary": "The Palancas Negras miss out on the Gabon-Equatorial Guinea tournament after a poor qualifying run."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 25177000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MPLA wins election, dos Santos stays",
+          "summary": "The ruling party takes August's vote, though the opposition makes gains in Luanda."
+        },
+        {
+          "headline": "Succession speculation grows",
+          "summary": "Dos Santos, in power since 1979, faces quiet questions about his eventual replacement."
+        }
+      ],
+      "sport": {
+        "headline": "Angolan women debut in Olympic basketball",
+        "summary": "Angola's women's team compete at London 2012, the country's first Olympic basketball appearance."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 26166000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dos Santos tightens grip on power",
+          "summary": "The president reshuffles the security apparatus as succession talk intensifies."
+        },
+        {
+          "headline": "Cabinda insurgency simmers",
+          "summary": "Low-level separatist attacks continue in the oil enclave despite the 2006 peace deal."
+        }
+      ],
+      "sport": {
+        "headline": "Angola exit AFCON at group stage",
+        "summary": "A final-day defeat to Cape Verde ends Angola's 2013 campaign in South Africa."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 27161000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Angola wins UN Security Council seat",
+          "summary": "Luanda is elected to a non-permanent seat for 2015-2016 in October."
+        },
+        {
+          "headline": "Oil price collapse hits economy",
+          "summary": "Crude's late-year plunge triggers currency falls and spending cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Angola miss 2014 World Cup",
+        "summary": "The Palancas Negras fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 28158000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly crackdown on religious sect",
+          "summary": "A police raid on the Kalupeteka sect in April kills an unknown number of followers."
+        },
+        {
+          "headline": "Activists jailed for 'rebellion'",
+          "summary": "Seventeen young activists are imprisoned after discussing democracy at a book club."
+        }
+      ],
+      "sport": {
+        "headline": "Angola miss 2015 AFCON",
+        "summary": "The Palancas Negras fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 29183000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dos Santos says he will step down",
+          "summary": "The president announces in March that he will leave office in 2018."
+        },
+        {
+          "headline": "Isabel dos Santos named Sonangol chair",
+          "summary": "The president's daughter takes over the state oil company in June, drawing nepotism charges."
+        }
+      ],
+      "sport": {
+        "headline": "Angola's women compete in Olympic handball",
+        "summary": "The women's handball team represent Angola at the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 30235000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lourenco succeeds dos Santos",
+          "summary": "Joao Lourenco wins August's election and is inaugurated in September, ending 38 years of dos Santos rule."
+        },
+        {
+          "headline": "New president purges old guard",
+          "summary": "Lourenco swiftly removes dos Santos allies from Sonangol, the army and state media."
+        }
+      ],
+      "sport": {
+        "headline": "Angola miss 2017 AFCON",
+        "summary": "The Palancas Negras again fail to qualify for the Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 31297000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dos Santos's son charged with fraud",
+          "summary": "Jose Filomeno dos Santos is charged in September over the sovereign wealth fund."
+        },
+        {
+          "headline": "Anti-corruption drive widens",
+          "summary": "Lourenco's campaign targets the business empire built under his predecessor."
+        }
+      ],
+      "sport": {
+        "headline": "Angola miss 2018 World Cup",
+        "summary": "Another qualifying campaign ends without a place at Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 32376000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Isabel dos Santos faces corruption charges",
+          "summary": "Angolan prosecutors freeze the billionaire's assets in December over alleged embezzlement."
+        },
+        {
+          "headline": "Lourenco's reforms meet resistance",
+          "summary": "Economic liberalization struggles against entrenched interests and falling oil prices."
+        }
+      ],
+      "sport": {
+        "headline": "Angola return to AFCON",
+        "summary": "The Palancas Negras qualify for Egypt 2019 but exit at the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 33451000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Luanda Leaks expose dos Santos wealth",
+          "summary": "January's document leak details how the ex-president's daughter built a vast fortune."
+        },
+        {
+          "headline": "COVID-19 batters oil economy",
+          "summary": "The pandemic and crude price crash push Angola into a fifth year of recession."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by pandemic",
+        "summary": "Angola's leagues and qualifiers are suspended for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 34532000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition unites ahead of 2022 vote",
+          "summary": "UNITA-led coalition mounts the strongest challenge to MPLA rule in decades."
+        },
+        {
+          "headline": "Economic hardship fuels discontent",
+          "summary": "Inflation and unemployment erode support for the ruling party in the cities."
+        }
+      ],
+      "sport": {
+        "headline": "Angola qualify for 2021 AFCON",
+        "summary": "The Palancas Negras reach the Cameroon tournament but exit in the group stage."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 35635000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "MPLA wins closest-ever election",
+          "summary": "Lourenco secures a second term in August with the ruling party's narrowest margin since 1992."
+        },
+        {
+          "headline": "Dos Santos dies in Barcelona",
+          "summary": "The former president, who ruled for 38 years, dies in July aged 79."
+        }
+      ],
+      "sport": {
+        "headline": "Angola exit AFCON at group stage",
+        "summary": "The Palancas Negras go home early from the Cameroon tournament in January."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 36750000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Angola quits OPEC",
+          "summary": "Luanda announces its exit from the oil cartel in December over production quotas."
+        },
+        {
+          "headline": "Opposition disputes Lourenco's mandate",
+          "summary": "UNITA continues to reject the 2022 results as the economy stagnates."
+        }
+      ],
+      "sport": {
+        "headline": "Angola qualify for 2023 AFCON",
+        "summary": "The Palancas Negras top their qualifying group to reach the Ivory Coast finals."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 37886000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Angola mediates DRC-Rwanda talks",
+          "summary": "Lourenco hosts the Luanda process aimed at easing tensions over eastern Congo."
+        },
+        {
+          "headline": "Fuel subsidy cuts spark protests",
+          "summary": "Rising pump prices trigger sporadic demonstrations in Luanda."
+        }
+      ],
+      "sport": {
+        "headline": "Angola reach AFCON quarterfinals",
+        "summary": "A 1-0 defeat to Nigeria in February ends Angola's best AFCON run since 2010."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 39212000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Angola chairs the African Union",
+          "summary": "Lourenco takes the rotating AU chairmanship in February."
+        },
+        {
+          "headline": "Angola marks 50 years of independence",
+          "summary": "November celebrations commemorate half a century since independence from Portugal."
+        }
+      ],
+      "sport": {
+        "headline": "Angola qualify for 2025 AFCON",
+        "summary": "The Palancas Negras top their qualifying group to reach the Morocco tournament."
+      }
+    }
+  ]
+}

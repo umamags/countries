@@ -1,0 +1,396 @@
+{
+  "country": "Ukraine",
+  "iso3": "UKR",
+  "currency": "UAH",
+  "currency_name": "Ukrainian Hryvnia",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 46466000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary election: Yanukovych returns",
+          "summary": "March elections bring the pro-Russian leader back as PM."
+        },
+        {
+          "headline": "Orange coalition collapses",
+          "summary": "Yushchenko and Tymoshenko fall out."
+        }
+      ],
+      "sport": {
+        "headline": "Italy end Ukraine's World Cup run",
+        "summary": "Debutants Ukraine reach the quarter-finals in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 46192000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election called",
+          "summary": "Yushchenko dissolves parliament in April."
+        },
+        {
+          "headline": "September vote: Tymoshenko returns",
+          "summary": "The Orange leader becomes PM again."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine miss Euro 2008",
+        "summary": "Ukraine finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 45963000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits Ukraine",
+          "summary": "The economy collapses; an IMF bailout follows."
+        },
+        {
+          "headline": "NATO bid blocked",
+          "summary": "Allies deny Ukraine a membership plan in April."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine miss Euro 2008",
+        "summary": "Ukraine end fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 45783000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gas war with Russia",
+          "summary": "Moscow cuts supplies in January, freezing Europe."
+        },
+        {
+          "headline": "Economy shrinks",
+          "summary": "GDP plunges amid the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Greece deny Ukraine World Cup",
+        "summary": "Ukraine lose their playoff."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 45598000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yanukovych wins presidency",
+          "summary": "The pro-Russian candidate triumphs in February."
+        },
+        {
+          "headline": "Kharkiv deal",
+          "summary": "Ukraine extends Russia's Black Sea fleet lease."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine prepare as Euro 2012 co-hosts",
+        "summary": "Ukraine play friendlies ahead of hosting the finals."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 45453000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tymoshenko jailed",
+          "summary": "The opposition leader is imprisoned in October."
+        },
+        {
+          "headline": "West condemns verdict",
+          "summary": "The EU freezes association talks."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine prepare as Euro 2012 co-hosts",
+        "summary": "Ukraine continue their friendly programme."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 45373000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections",
+          "summary": "Yanukovych's party wins October elections."
+        },
+        {
+          "headline": "Euro 2012 co-hosted",
+          "summary": "Ukraine stages the tournament with Poland."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine exit Euro 2012 in group stage",
+        "summary": "Co-hosts Ukraine bow out after defeat to England."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 45246000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yanukovych rejects EU deal",
+          "summary": "The November snub triggers the Maidan protests."
+        },
+        {
+          "headline": "Maidan protests grow",
+          "summary": "Hundreds of thousands occupy Kyiv's square."
+        }
+      ],
+      "sport": {
+        "headline": "France deny Ukraine World Cup",
+        "summary": "Ukraine squander a 2-0 playoff lead in Paris."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 42760000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Maidan revolution",
+          "summary": "Yanukovych flees in February after scores are killed."
+        },
+        {
+          "headline": "Crimea annexed; Donbas war begins",
+          "summary": "Russia seizes Crimea; war erupts in the east."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine begin Euro 2016 qualifying",
+        "summary": "Ukraine open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 42591000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Minsk II agreed",
+          "summary": "A February ceasefire deal is brokered."
+        },
+        {
+          "headline": "War grinds on",
+          "summary": "Fighting continues despite the truce."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine qualify for Euro 2016",
+        "summary": "Ukraine beat Slovenia in the playoffs."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 42415000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Poroshenko's reforms stall",
+          "summary": "Corruption efforts disappoint."
+        },
+        {
+          "headline": "Visa-free EU travel agreed",
+          "summary": "Brussels approves visa liberalisation."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine exit Euro 2016 winless",
+        "summary": "Ukraine lose all three group matches."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 42217000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Donbas blockade",
+          "summary": "Kyiv cuts trade with separatist areas."
+        },
+        {
+          "headline": "EU association takes effect",
+          "summary": "The trade deal is fully applied."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine miss 2018 World Cup",
+        "summary": "Ukraine finish third behind Iceland and Croatia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 41984000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kerch Strait clash",
+          "summary": "Russia seizes Ukrainian naval vessels in November."
+        },
+        {
+          "headline": "Martial law declared",
+          "summary": "Kyiv imposes emergency measures."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine win Nations League promotion",
+        "summary": "Ukraine top their League B group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 41733000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Zelenskyy wins presidency",
+          "summary": "The comedian triumphs in April's landslide."
+        },
+        {
+          "headline": "Servant of the People sweeps parliament",
+          "summary": "July elections deliver a single-party majority."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine top Euro 2020 qualifying group",
+        "summary": "Ukraine finish ahead of Portugal."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 41419000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Ukraine",
+          "summary": "The pandemic strains hospitals."
+        },
+        {
+          "headline": "Donbas ceasefire holds shakily",
+          "summary": "A July truce reduces fighting."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine relegated from Nations League A",
+        "summary": "Ukraine finish bottom of their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 40998000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russia masses troops",
+          "summary": "A massive buildup alarms Kyiv and the West."
+        },
+        {
+          "headline": "Zelenskyy seeks NATO path",
+          "summary": "Ukraine pushes for membership prospects."
+        }
+      ],
+      "sport": {
+        "headline": "England end Ukraine's Euro 2020 run",
+        "summary": "Ukraine lose their quarter-final in Rome."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 34511000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russia invades Ukraine",
+          "summary": "Full-scale invasion begins on February 24."
+        },
+        {
+          "headline": "Kyiv holds; world rallies",
+          "summary": "Ukrainian resistance inspires global support."
+        }
+      ],
+      "sport": {
+        "headline": "Wales deny Ukraine World Cup",
+        "summary": "Ukraine lose their playoff final in Cardiff."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 34026000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Counteroffensive launched",
+          "summary": "Ukraine's summer push makes limited gains."
+        },
+        {
+          "headline": "EU opens accession talks",
+          "summary": "Leaders approve negotiations in December."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine miss Euro 2024 automatically",
+        "summary": "A third-place finish forces a playoff route."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 33343000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "War grinds into third year",
+          "summary": "Fighting continues with no end in sight."
+        },
+        {
+          "headline": "US aid approved",
+          "summary": "Congress passes a long-delayed package in April."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine reach Euro 2024 via playoff",
+        "summary": "A comeback win over Iceland seals qualification."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 32762000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US pushes peace talks",
+          "summary": "Washington presses Kyiv and Moscow toward a deal."
+        },
+        {
+          "headline": "War continues",
+          "summary": "Fighting grinds on into a fourth year."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine chase World Cup qualification",
+        "summary": "Ukraine compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

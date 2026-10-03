@@ -1,0 +1,641 @@
+{
+  "country": "Bahamas",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "population": "401,283",
+  "currency": "Bahamian Dollar (BSD)",
+  "area": "13,943",
+  "landmarks": [
+    {
+      "name": "Atlantis Paradise Island",
+      "writeup": "",
+      "wiki": {
+        "extract": "Atlantis Paradise Island is an ocean-themed casino resort located on Paradise Island in the Bahamas. The resort spans 154-acre (62 ha) which includes a waterpark, marine habitat, and other recreational facilities. It is built around the Aquaventure waterscape and features multiple hotel towers, including The Royal, Coral, Cove, and Reef Towers.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Atlantis_Paradise_Island_complex.jpg/330px-The_Atlantis_Paradise_Island_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island",
+        "coordinates": {
+          "lat": 25.085,
+          "lon": -77.32083333
+        }
+      }
+    },
+    {
+      "name": "Queen's Staircase",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Queen's Staircase is a walkway of 65 steps in Nassau, the capital city of The Bahamas. It was carved out of solid limestone by 600 slaves between 1793 and 1794 to create a direct route from Fort Fincastle to Nassau. It was later named for Queen Victoria of the United Kingdom of Great Britain and Ireland in the 19th century, and is now a popular landmark of Nassau.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Queen%27s_staircase%2C_Nassau%2C_Bahamas.jpg/330px-Queen%27s_staircase%2C_Nassau%2C_Bahamas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Queen's_Staircase",
+        "coordinates": {
+          "lat": 25.07313889,
+          "lon": -77.33766667
+        }
+      }
+    },
+    {
+      "name": "Exuma Cays",
+      "writeup": "",
+      "wiki": {
+        "extract": "Exuma is a district of the Bahamas, consisting of over 365 islands and cays.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Exuma_and_Cays_in_Bahamas_%28zoom%29.svg/330px-Exuma_and_Cays_in_Bahamas_%28zoom%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Exuma",
+        "coordinates": {
+          "lat": 23.53333333,
+          "lon": -75.83333333
+        }
+      }
+    },
+    {
+      "name": "Bay Street, Nassau",
+      "writeup": "",
+      "wiki": {
+        "extract": "Bay Street is a major street in Nassau, Bahamas and a center for politics, business, culture, and tourism in The Bahamas.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bay_Street%2C_Nassau%2C_Bahama_Islands-LCCN2008679534.jpg/330px-Bay_Street%2C_Nassau%2C_Bahama_Islands-LCCN2008679534.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Bay_Street_(Nassau)",
+        "coordinates": {
+          "lat": 25.078,
+          "lon": -77.3411
+        }
+      }
+    },
+    {
+      "name": "Clifton Heritage National Park",
+      "writeup": "",
+      "wiki": {
+        "extract": "Clifton Heritage National Park is a national park on the western end of New Providence Island in the Bahamas. It is managed by the Clifton Heritage Authority and has an area of 208 acres. Notable as tribute to the cultural history of the Bahamas, it was established as a protected area in June 2004 and opened to the public in April 2009.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Clifton_west_end_2015_4.png/330px-Clifton_west_end_2015_4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Clifton_Heritage_National_Park",
+        "coordinates": {
+          "lat": 25.013,
+          "lon": -77.55
+        }
+      }
+    }
+  ],
+  "head_of_state": "Prime Minister Philip Davis",
+  "cultural_events": [
+    {
+      "name": "Junkanoo",
+      "writeup": "",
+      "wiki": {
+        "extract": "Junkanoo is a festival that originated during the period of African chattel slavery in British American colonies. It is practiced most notably today in the Bahamas, Jamaica and Belize, and historically in North Carolina and Miami, where there have been significant settlements of West Indian people during the post-emancipation era. In the present day, there are considerable variations in performance and spelling of the festival, but the shared elements of masquerade, drumming, dance, and parading continue.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/John_Canoe_Dancers_Jamaica_1975_Dec_ver06.jpg/330px-John_Canoe_Dancers_Jamaica_1975_Dec_ver06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Junkanoo"
+      }
+    }
+  ],
+  "food_writeup": "Bahamian cuisine centers on seafood, especially conch prepared as salad, fritters or cracked conch, alongside peas and rice, baked macaroni and guava duff for dessert. British and West African influences run through dishes like souse and johnny cake, with rum cocktails a staple of the islands' food culture.",
+  "brief_history": "A British colony from 1718, the Bahamas built its early economy on privateering, wrecking and later tourism, gaining independence on 10 July 1973 under the PLP's Lynden Pindling. Tourism and offshore finance now dominate the economy, with power alternating between the Progressive Liberal Party and the Free National Movement.",
+  "important_people": [
+    {
+      "name": "Sir Lynden Pindling",
+      "description": ""
+    },
+    {
+      "name": "Sir Sidney Poitier",
+      "description": ""
+    },
+    {
+      "name": "Hubert Ingraham",
+      "description": ""
+    },
+    {
+      "name": "Perry Christie",
+      "description": ""
+    },
+    {
+      "name": "Shaunae Miller-Uibo",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "The Bahamas has no armed conflict; the main strains are irregular Haitian migration, gang-related gun violence in Nassau, and diplomatic friction with Washington over migration and deportation policy.",
+  "five_youtube_video_titles": [
+    "Bahamas - Geography Now!",
+    "Top 10 Things to Do in The Bahamas",
+    "Hurricane Dorian: Destruction in the Abaco Islands",
+    "Junkanoo: The Bahamas' Biggest Street Festival",
+    "The Rise and Fall of FTX"
+  ],
+  "cities": [
+    {
+      "name": "Nassau",
+      "capital": true,
+      "lat": 25.07805556,
+      "lon": -77.33861111
+    },
+    {
+      "name": "Freeport",
+      "capital": false,
+      "lat": 26.52861111,
+      "lon": -78.69666667
+    },
+    {
+      "name": "Marsh Harbour",
+      "capital": false,
+      "lat": 26.54222222,
+      "lon": -77.06361111
+    },
+    {
+      "name": "West End",
+      "capital": false,
+      "lat": 26.68666667,
+      "lon": -78.975
+    },
+    {
+      "name": "George Town",
+      "capital": false,
+      "lat": 23.50944444,
+      "lon": -75.77944444
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/bahamas.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bahamas,_The-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 10.17,
+      "gross_debt_pct_gdp": 23.2,
+      "gross_debt_usd_billion": 2.36,
+      "inflation_cpi_pct": 2.0,
+      "status": "Historical / IMF estimate",
+      "population": 348375,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Christie government battles rising crime",
+          "summary": "A surge in murders in Nassau puts violent crime at the top of the political agenda under PLP Prime Minister Perry Christie."
+        },
+        {
+          "headline": "Baha Mar project advances",
+          "summary": "The multi-billion-dollar Cable Beach resort development moves toward construction, promising thousands of jobs."
+        }
+      ],
+      "sport": {
+        "headline": "Sprinters build toward Osaka worlds",
+        "summary": "The Bahamas' track squad targets the 2007 World Athletics Championships."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 10.62,
+      "gross_debt_pct_gdp": 23.5,
+      "gross_debt_usd_billion": 2.5,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate",
+      "population": 353334,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Ingraham returns as prime minister",
+          "summary": "The FNM wins the May general election; Hubert Ingraham replaces Perry Christie."
+        },
+        {
+          "headline": "Haitian migration tensions rise",
+          "summary": "Interceptions of Haitian migrants strain detention facilities and bilateral ties."
+        }
+      ],
+      "sport": {
+        "headline": "World championships in Osaka",
+        "summary": "Bahamian 4x400m squads chase medals at the World Athletics Championships in Japan."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 10.53,
+      "gross_debt_pct_gdp": 25.3,
+      "gross_debt_usd_billion": 2.66,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate",
+      "population": 358120,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Financial crisis batters tourism",
+          "summary": "The US recession slams visitor arrivals and stalls the Baha Mar project."
+        },
+        {
+          "headline": "Bahamas avoids major hurricane hit",
+          "summary": "The islands escape the 2008 season without a direct major-storm landfall."
+        }
+      ],
+      "sport": {
+        "headline": "Men's 4x400m wins Olympic silver",
+        "summary": "The Bahamas quartet takes silver behind the United States at the Beijing Games."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 9.98,
+      "gross_debt_pct_gdp": 30.1,
+      "gross_debt_usd_billion": 3.0,
+      "inflation_cpi_pct": 1.7,
+      "status": "Historical / IMF estimate",
+      "population": 362810,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Baha Mar financing collapses",
+          "summary": "The stalled mega-resort becomes a symbol of the downturn as developers seek new backers."
+        },
+        {
+          "headline": "Crime emergency debated",
+          "summary": "Nassau's rising murder rate prompts calls for tougher policing."
+        }
+      ],
+      "sport": {
+        "headline": "Berlin world championships",
+        "summary": "Bahamian sprinters compete at the World Athletics Championships in Berlin."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 10.1,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 3.42,
+      "inflation_cpi_pct": 1.6,
+      "status": "Historical / IMF estimate",
+      "population": 367478,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Baha Mar revived with Chinese financing",
+          "summary": "China EXIM Bank funding restarts the stalled Cable Beach project."
+        },
+        {
+          "headline": "VAT debate begins",
+          "summary": "The government floats a value-added tax to fix chronic deficits."
+        }
+      ],
+      "sport": {
+        "headline": "Commonwealth Games in Delhi",
+        "summary": "The Bahamas sends a team to the 2010 Commonwealth Games in India."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 10.07,
+      "gross_debt_pct_gdp": 35.3,
+      "gross_debt_usd_billion": 3.55,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate",
+      "population": 371729,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Road works spark protests",
+          "summary": "The New Providence road improvement project causes massive disruption and business complaints ahead of elections."
+        },
+        {
+          "headline": "Baha Mar construction employs thousands",
+          "summary": "The restarted resort project becomes the island's biggest employer."
+        }
+      ],
+      "sport": {
+        "headline": "Daegu world championships",
+        "summary": "Bahamian athletes compete at the World Athletics Championships in South Korea."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 10.72,
+      "gross_debt_pct_gdp": 37.6,
+      "gross_debt_usd_billion": 4.03,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate",
+      "population": 375469,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Christie wins back power",
+          "summary": "The PLP defeats the FNM in the May general election; Perry Christie returns as prime minister."
+        },
+        {
+          "headline": "Baha Mar opening delayed",
+          "summary": "The mega-resort's debut slips amid construction disputes."
+        }
+      ],
+      "sport": {
+        "headline": "Golden night in London: 4x400m gold",
+        "summary": "The Bahamas stuns the United States to win the men's 4x400m relay at the London Olympics."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 10.47,
+      "gross_debt_pct_gdp": 44.2,
+      "gross_debt_usd_billion": 4.63,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate",
+      "population": 378953,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Crime crisis deepens",
+          "summary": "Another record murder toll keeps Nassau under pressure."
+        },
+        {
+          "headline": "Gambling referendum fails",
+          "summary": "Voters reject legalizing web-shop gambling in a January referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Moscow world championships",
+        "summary": "The Bahamas competes at the World Athletics Championships in Russia."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 11.14,
+      "gross_debt_pct_gdp": 47.7,
+      "gross_debt_usd_billion": 5.31,
+      "inflation_cpi_pct": 1.2,
+      "status": "Historical / IMF estimate",
+      "population": 382298,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "VAT legislation passes",
+          "summary": "A 7.5% value-added tax is enacted, taking effect in January 2015."
+        },
+        {
+          "headline": "Baha Mar misses opening target",
+          "summary": "The resort's opening is pushed back again as contractor disputes escalate."
+        }
+      ],
+      "sport": {
+        "headline": "Commonwealth Games in Glasgow",
+        "summary": "The Bahamas competes at the 2014 Commonwealth Games in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 11.84,
+      "gross_debt_pct_gdp": 49.9,
+      "gross_debt_usd_billion": 5.91,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate",
+      "population": 385346,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Baha Mar files for bankruptcy",
+          "summary": "The developer's Chapter 11 filing in June throws the $3.5 billion project into crisis."
+        },
+        {
+          "headline": "VAT beds in",
+          "summary": "The new tax boosts revenue but squeezes households."
+        }
+      ],
+      "sport": {
+        "headline": "Shaunae Miller takes world 400m silver",
+        "summary": "Miller is edged by Allyson Felix in a Beijing World Championships classic."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 11.88,
+      "gross_debt_pct_gdp": 51.1,
+      "gross_debt_usd_billion": 6.07,
+      "inflation_cpi_pct": -0.3,
+      "status": "Historical / IMF estimate",
+      "population": 388055,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Baha Mar sold to Chow Tai Fook",
+          "summary": "The Hong Kong conglomerate buys the bankrupt resort, rescuing the project."
+        },
+        {
+          "headline": "Hurricane Matthew strikes",
+          "summary": "The October Category 4 storm batters Grand Bahama and New Providence."
+        }
+      ],
+      "sport": {
+        "headline": "Miller dives to 400m gold in Rio",
+        "summary": "Shaunae Miller's famous dive wins Olympic 400m gold; the men's 4x400m takes bronze."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 12.45,
+      "gross_debt_pct_gdp": 54.6,
+      "gross_debt_usd_billion": 6.8,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate",
+      "population": 390485,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Minnis sweeps to power",
+          "summary": "The FNM wins the May general election; Hubert Minnis becomes prime minister."
+        },
+        {
+          "headline": "Hurricane Irma brushes the islands",
+          "summary": "Irma causes damage across the southern Bahamas in September."
+        }
+      ],
+      "sport": {
+        "headline": "Gardiner takes world 400m silver",
+        "summary": "Steven Gardiner finishes second in the 400m at the London World Championships."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 12.82,
+      "gross_debt_pct_gdp": 61.5,
+      "gross_debt_usd_billion": 7.88,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate",
+      "population": 392717,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Baha Mar fully opens",
+          "summary": "The resort's full opening anchors a tourism rebound."
+        },
+        {
+          "headline": "Oban oil refinery deal collapses",
+          "summary": "The controversial Grand Bahama refinery agreement falls apart amid scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Miller-Uibo wins Commonwealth 200m gold",
+        "summary": "Shaunae Miller-Uibo takes the 200m title at the Gold Coast Commonwealth Games."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 13.28,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 8.01,
+      "inflation_cpi_pct": 2.5,
+      "status": "Historical / IMF estimate",
+      "population": 394675,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Hurricane Dorian devastates Abaco and Grand Bahama",
+          "summary": "The Category 5 storm of September 1 stalls over the northern Bahamas, killing dozens and destroying thousands of homes — the country's worst natural disaster."
+        },
+        {
+          "headline": "Recovery strains public finances",
+          "summary": "The government appeals for international aid as the damage bill runs into the billions."
+        }
+      ],
+      "sport": {
+        "headline": "Gardiner crowned world 400m champion",
+        "summary": "Steven Gardiner wins 400m gold at the Doha World Championships."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 10.36,
+      "gross_debt_pct_gdp": 71.9,
+      "gross_debt_usd_billion": 7.45,
+      "inflation_cpi_pct": 0.0,
+      "status": "Historical / IMF estimate",
+      "population": 395863,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "COVID shuts tourism",
+          "summary": "Border closures devastate the tourism economy; GDP collapses."
+        },
+        {
+          "headline": "Dorian recovery continues",
+          "summary": "Rebuilding in Abaco proceeds slowly amid the pandemic."
+        }
+      ],
+      "sport": {
+        "headline": "Olympics postponed",
+        "summary": "Bahamian athletes wait as the Tokyo Games are pushed to 2021."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 12.04,
+      "gross_debt_pct_gdp": 90.7,
+      "gross_debt_usd_billion": 10.92,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate",
+      "population": 396373,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Davis wins election",
+          "summary": "The PLP's Philip Davis defeats Hubert Minnis in the September snap election."
+        },
+        {
+          "headline": "Vaccination rollout",
+          "summary": "The Bahamas joins COVAX to reopen tourism safely."
+        }
+      ],
+      "sport": {
+        "headline": "Double 400m gold in Tokyo",
+        "summary": "Shaunae Miller-Uibo and Steven Gardiner both win Olympic 400m titles."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 13.9,
+      "gross_debt_pct_gdp": 84.7,
+      "gross_debt_usd_billion": 11.77,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate",
+      "population": 397538,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "FTX collapses",
+          "summary": "The Nassau-based crypto exchange implodes in November, shaking the Bahamas' digital-assets ambitions."
+        },
+        {
+          "headline": "Tourism roars back",
+          "summary": "Record arrivals drive a strong post-COVID recovery."
+        }
+      ],
+      "sport": {
+        "headline": "Miller-Uibo finally wins world 400m gold",
+        "summary": "The Olympic champion adds the missing world title in Eugene."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 15.27,
+      "gross_debt_pct_gdp": 78.3,
+      "gross_debt_usd_billion": 11.96,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate",
+      "population": 399440,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Government pushes climate finance agenda",
+          "summary": "Davis champions small-island climate funding at COP28."
+        },
+        {
+          "headline": "Cost-of-living protests",
+          "summary": "High prices spark demonstrations in Nassau."
+        }
+      ],
+      "sport": {
+        "headline": "Nassau hosts CARIFTA Games",
+        "summary": "The Bahamas stages the region's premier junior athletics championships."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 15.83,
+      "gross_debt_pct_gdp": 73.8,
+      "gross_debt_usd_billion": 11.68,
+      "inflation_cpi_pct": 0.4,
+      "status": "Historical / IMF estimate",
+      "population": 401283,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Crime crackdown in Nassau",
+          "summary": "The government launches anti-gang operations amid a murder spike."
+        },
+        {
+          "headline": "Tourism hits records",
+          "summary": "Visitor numbers surpass pre-pandemic peaks."
+        }
+      ],
+      "sport": {
+        "headline": "Medal-less Paris Games",
+        "summary": "Steven Gardiner's injury withdrawal leaves the Bahamas off the Olympic podium."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 16.51,
+      "gross_debt_pct_gdp": 73.8,
+      "gross_debt_usd_billion": 12.18,
+      "inflation_cpi_pct": 0.6,
+      "status": "IMF projection",
+      "population": 403033,
+      "exchange_rate_usd": 1.0,
+      "main_events": [
+        {
+          "headline": "Election campaign heats up",
+          "summary": "Davis's PLP and the opposition FNM trade blows ahead of the 2026 vote."
+        },
+        {
+          "headline": "Haitian migration crackdown",
+          "summary": "Interdictions rise as instability in Haiti deepens."
+        }
+      ],
+      "sport": {
+        "headline": "Young sprinters target Tokyo worlds",
+        "summary": "A rebuilding Bahamian team heads to the World Athletics Championships in Japan."
+      }
+    }
+  ]
+}

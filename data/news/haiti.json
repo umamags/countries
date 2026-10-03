@@ -1,0 +1,678 @@
+{
+  "country": "Haiti",
+  "continent": "North America",
+  "languages": [
+    "French",
+    "Haitian Creole"
+  ],
+  "population": "11,772,557",
+  "currency": "Haitian Gourde (HTG)",
+  "area": "27,750",
+  "landmarks": [
+    {
+      "name": "Citadelle Laferri\u00e8re",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Citadelle Laferri\u00e8re is a mountaintop fortress built after Haitian independence (1804-1820) to defend against a feared French return. The largest fortress in the Americas and a UNESCO World Heritage Site, it symbolizes Haiti's revolutionary triumph.",
+        "image": "https://i0.wp.com/www.historic-haiti.com/wp-content/uploads/2021/07/Citadelle-DJI_0734-scaled.jpg?fit=1024%2C767&ssl=1",
+        "url": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re",
+        "coordinates": {
+          "lat": 19.573611,
+          "lon": -72.243889
+        }
+      }
+    },
+    {
+      "name": "Sans-Souci Palace",
+      "writeup": "",
+      "wiki": {
+        "extract": "Sans-Souci Palace, near Milot, was the royal residence of King Henri Christophe, completed in 1813 as a symbol of Black sovereignty and splendor. Now evocative ruins within the National History Park, it is part of Haiti's UNESCO World Heritage Site.",
+        "image": "https://kreolmagazine.com/wp-content/uploads/2024/03/1178101825-Sans-Souci-Palace-in-Haiti.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sans-Souci_Palace",
+        "coordinates": {
+          "lat": 19.604692,
+          "lon": -72.218596
+        }
+      }
+    },
+    {
+      "name": "Labadee",
+      "writeup": "",
+      "wiki": {
+        "extract": "Labadee is a private resort enclave on Haiti's northern coast leased by Royal Caribbean, offering beaches, water sports, and Haiti's longest zipline over water. It remains one of the few steady sources of tourism revenue for the country.",
+        "image": "https://haitiwonderland.fr/assets/images/upload/blog/haiti-labadee-1718502978.webp",
+        "url": "https://en.wikipedia.org/wiki/Labadee",
+        "coordinates": {
+          "lat": 19.78639,
+          "lon": -72.24556
+        }
+      }
+    },
+    {
+      "name": "Jacmel",
+      "writeup": "",
+      "wiki": {
+        "extract": "Jacmel, a port town on Haiti's south coast, is famed for its French colonial architecture, vibrant arts scene, and elaborate carnival masks and papier-mache crafts. Its historic center reflects the coffee boom of the 19th century.",
+        "image": "https://cdn.worldota.net/t/1024x768/content/a2/78/a27809650b0fb787228df06c0808dc322bb594cb.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Jacmel",
+        "coordinates": {
+          "lat": 18.23556,
+          "lon": -72.52098
+        }
+      }
+    },
+    {
+      "name": "Bassin Bleu",
+      "writeup": "",
+      "wiki": {
+        "extract": "Bassin Bleu is a series of cobalt-blue waterfalls and pools hidden in the hills above Jacmel, reached by hiking through tropical forest. Its strikingly blue basins, colored by minerals, are among Haiti's most beautiful natural wonders.",
+        "image": "https://haitiwonderland.com/assets/images/upload/destination/haiti_haiti--bassin-bleu_1698419343.jpg",
+        "url": "https://en.wikipedia.org/wiki/Bassin_Bleu_(Jacmel)",
+        "coordinates": {
+          "lat": 18.2342,
+          "lon": -72.5881
+        }
+      }
+    }
+  ],
+  "head_of_state": "Acting Prime Minister Alix Didier Fils-Aim\u00e9",
+  "cultural_events": [
+    {
+      "name": "Haitian Carnival (Kanaval)",
+      "writeup": "",
+      "wiki": {
+        "extract": "Haiti's Kanaval is one of the largest Mardi Gras carnivals in the Caribbean, running from January's Pre-Kanaval through February with massive parades, rara bands, and Vodou-influenced revelry in Port-au-Prince. Celebrations end on Mardi Gras before Lent.",
+        "image": "https://www.haiti.org/wp-content/uploads/2019/01/HAITI-CARNIVAL1.jpg",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Carnival"
+      }
+    },
+    {
+      "name": "Fête Gede",
+      "writeup": "",
+      "wiki": {
+        "extract": "Fête Gede, the Festival of the Ancestors, is a Vodou celebration held November 1-2 honoring Gede, the lwa of death and fertility. Devotees in purple and black gather in cemeteries with rum offerings, drumming, and dancing.",
+        "image": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/11/2/1351879057002/-Voodoo-believer-dressed--035.jpg",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+      }
+    },
+    {
+      "name": "Rara",
+      "writeup": "",
+      "wiki": {
+        "extract": "Rara is a series of street processions held during the Catholic Lent season, with bamboo trumpet (vaksen) bands, drums, and dancing crowds parading through towns and countryside. It blends African, Vodou, and Catholic traditions into a uniquely Haitian festival.",
+        "image": "https://www.pilotguides.com/wp-content/uploads/2022/03/13919011026_b8f58d9f3e_c.jpg",
+        "url": "https://en.wikipedia.org/wiki/Rara_festival"
+      }
+    },
+    {
+      "name": "Carnaval des Fleurs",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Carnaval des Fleurs (Carnival of Flowers) is a summer carnival held in Port-au-Prince, first launched in 2012 to boost tourism and celebrate Haiti's flora. Three days of parades, music, and elaborate costumes fill the capital in late July.",
+        "image": "https://en.haitiwonderland.com/assets/images/upload/blog/haiti-carnaval-1718385884.webp",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Carnival"
+      }
+    },
+    {
+      "name": "Port-au-Prince International Jazz Festival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Port-au-Prince International Jazz Festival (PAPJAZZ) has run every January since 2007, bringing nearly a hundred Haitian and international musicians for eight days of concerts across the capital. It promotes jazz in Haiti and cultural exchange with the wider world.",
+        "image": "https://substackcdn.com/image/fetch/$s_!vsdZ!,w_474,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2a99271-30e3-47a8-8e72-d27c5b636207_3000x2000.jpeg",
+        "url": "https://en.wikipedia.org/wiki/Port-au-Prince_International_Jazz_Festival"
+      }
+    }
+  ],
+  "food_writeup": "Haitian cuisine blends African, French, and Ta\u00edno influences, centered on rice and beans (diri kole ak pwa), griot (fried pork), and pikliz, a spicy pickled vegetable condiment. Soup joumou, a pumpkin soup traditionally eaten on Independence Day (January 1), commemorates emancipation, while plantains, yams, and fresh tropical fruit round out the table.",
+  "brief_history": "Haiti became the world's first Black republic in 1804 after enslaved Africans overthrew French colonial rule in the Haitian Revolution. The 20th century brought U.S. occupation, the Duvalier dictatorships, and chronic political instability; the 2010 earthquake killed over 200,000 people, and since the 2021 assassination of President Jovenel Mo\u00efse, gang violence has plunged much of the country into a severe security and humanitarian crisis.",
+  "important_people": [
+    {
+      "name": "Toussaint Louverture",
+      "description": ""
+    },
+    {
+      "name": "Jean-Jacques Dessalines",
+      "description": ""
+    },
+    {
+      "name": "Henri Christophe",
+      "description": ""
+    },
+    {
+      "name": "Michel Martelly",
+      "description": ""
+    },
+    {
+      "name": "Wyclef Jean",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "Haiti is in a severe security crisis: armed gangs control most of Port-au-Prince and large areas elsewhere, displacing hundreds of thousands and crippling the economy. A Kenyan-led multinational security mission deployed in 2024, and the UN authorized an expanded Gang Suppression Force in September 2026, while transitional authorities plan elections.",
+  "five_youtube_video_titles": [
+    "Haiti - Geography Now!",
+    "The Haitian Revolution Explained",
+    "Top 10 Things to Know About Haiti",
+    "Kanaval: Haiti's Carnival",
+    "Why Haiti Is in Crisis"
+  ],
+  "cities": [
+    {
+      "name": "Port-au-Prince",
+      "capital": true,
+      "lat": 18.54495,
+      "lon": -72.33561
+    },
+    {
+      "name": "Cap-Ha\u00eftien",
+      "capital": false,
+      "lat": 19.74175,
+      "lon": -72.19483
+    },
+    {
+      "name": "Jacmel",
+      "capital": false,
+      "lat": 18.23556,
+      "lon": -72.52098
+    },
+    {
+      "name": "Les Cayes",
+      "capital": false,
+      "lat": 18.20862,
+      "lon": -73.75702
+    },
+    {
+      "name": "Gona\u00efves",
+      "capital": false,
+      "lat": 19.44658,
+      "lon": -72.68938
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/haiti.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/Haiti",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 7.51,
+      "gross_debt_pct_gdp": 32.2,
+      "gross_debt_usd_billion": 2.42,
+      "inflation_cpi_pct": 13,
+      "status": "Historical / IMF estimate",
+      "population": 9216562,
+      "exchange_rate_usd": 40.4085,
+      "main_events": [
+        {
+          "headline": "Preval elected president",
+          "summary": "Ren\u00e9 Pr\u00e9val wins the February presidential election, returning to office amid gang violence in Port-au-Prince."
+        },
+        {
+          "headline": "UN troops battle gangs",
+          "summary": "MINUSTAH peacekeepers launch operations against armed gangs in Cit\u00e9 Soleil."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti misses World Cup",
+        "summary": "The national football team fails to qualify for the 2006 World Cup in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 9.52,
+      "gross_debt_pct_gdp": 24.4,
+      "gross_debt_usd_billion": 2.32,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate",
+      "population": 9373296,
+      "exchange_rate_usd": 36.8614,
+      "main_events": [
+        {
+          "headline": "Preval stabilizes government",
+          "summary": "Preval's government makes halting progress on security with UN backing."
+        },
+        {
+          "headline": "Food prices spark unrest",
+          "summary": "Rising global food prices strain poor households, foreshadowing wider protests."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at the Gold Cup",
+        "summary": "Haiti competes at the CONCACAF Gold Cup in the United States."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 10.49,
+      "gross_debt_pct_gdp": 33.9,
+      "gross_debt_usd_billion": 3.56,
+      "inflation_cpi_pct": 12.5,
+      "status": "Historical / IMF estimate",
+      "population": 9530774,
+      "exchange_rate_usd": 39.1076,
+      "main_events": [
+        {
+          "headline": "Food riots topple prime minister",
+          "summary": "April food riots over soaring prices force out PM Jacques-\u00c9douard Alexis."
+        },
+        {
+          "headline": "Four storms devastate Haiti",
+          "summary": "Fay, Gustav, Hanna, and Ike strike in succession, killing hundreds and wiping out harvests."
+        }
+      ],
+      "sport": {
+        "headline": "Small team at Beijing Games",
+        "summary": "Haiti sends a small delegation to the Beijing Olympics without medaling."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 11.6,
+      "gross_debt_pct_gdp": 19.4,
+      "gross_debt_usd_billion": 2.25,
+      "inflation_cpi_pct": 5.6,
+      "status": "Historical / IMF estimate",
+      "population": 9689581,
+      "exchange_rate_usd": 41.1976,
+      "main_events": [
+        {
+          "headline": "Clinton named UN envoy",
+          "summary": "Bill Clinton becomes UN special envoy for Haiti in May, pledging to boost recovery and investment."
+        },
+        {
+          "headline": "Senate elections held",
+          "summary": "Partial senate elections proceed amid opposition boycotts."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti reaches Gold Cup quarters",
+        "summary": "The national team reaches the 2009 Gold Cup quarterfinals before falling to Mexico."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 11.85,
+      "gross_debt_pct_gdp": 24.9,
+      "gross_debt_usd_billion": 2.95,
+      "inflation_cpi_pct": 2.9,
+      "status": "Historical / IMF estimate",
+      "population": 9803294,
+      "exchange_rate_usd": 39.7974,
+      "main_events": [
+        {
+          "headline": "Catastrophic earthquake strikes",
+          "summary": "The January 12 magnitude-7.0 earthquake devastates Port-au-Prince, killing more than 200,000 people."
+        },
+        {
+          "headline": "Cholera outbreak and disputed vote",
+          "summary": "A cholera epidemic kills thousands from October, while November's presidential election descends into fraud allegations."
+        }
+      ],
+      "sport": {
+        "headline": "Football offers brief respite",
+        "summary": "Haiti's footballers compete in Caribbean Cup qualifying amid the national catastrophe."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 13.01,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 2.9,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate",
+      "population": 9914904,
+      "exchange_rate_usd": 40.5228,
+      "main_events": [
+        {
+          "headline": "Martelly wins presidency",
+          "summary": "Musician Michel Martelly defeats Mirlande Manigat in the March runoff to become president."
+        },
+        {
+          "headline": "Reconstruction stalls",
+          "summary": "Rubble still chokes the capital as billions in pledged aid disburse slowly."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti in World Cup qualifying",
+        "summary": "The national team begins the long road of 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 13.71,
+      "gross_debt_pct_gdp": 24.1,
+      "gross_debt_usd_billion": 3.3,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate",
+      "population": 10069771,
+      "exchange_rate_usd": 41.9497,
+      "main_events": [
+        {
+          "headline": "Martelly consolidates power",
+          "summary": "President Martelly pushes tourism and investment drives while clashing with parliament."
+        },
+        {
+          "headline": "Isaac and Sandy lash Haiti",
+          "summary": "Tropical storms Isaac and Sandy flood camps and destroy crops."
+        }
+      ],
+      "sport": {
+        "headline": "Laine reaches Olympic final",
+        "summary": "Triple jumper Samyr Laine reaches the final at the London Olympics."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 14.9,
+      "gross_debt_pct_gdp": 25.1,
+      "gross_debt_usd_billion": 3.74,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate",
+      "population": 10222362,
+      "exchange_rate_usd": 43.4628,
+      "main_events": [
+        {
+          "headline": "Delayed elections fuel crisis",
+          "summary": "Overdue senate and local elections deepen the standoff between Martelly and parliament."
+        },
+        {
+          "headline": "PetroCaribe funds questioned",
+          "summary": "Scrutiny grows over billions in Venezuelan PetroCaribe oil funds."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at 2013 Gold Cup",
+        "summary": "Haiti competes at the CONCACAF Gold Cup in the United States."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 15.14,
+      "gross_debt_pct_gdp": 21.4,
+      "gross_debt_usd_billion": 3.24,
+      "inflation_cpi_pct": 3.2,
+      "status": "Historical / IMF estimate",
+      "population": 10373235,
+      "exchange_rate_usd": 45.216,
+      "main_events": [
+        {
+          "headline": "Election deadlock deepens",
+          "summary": "Parliament's term expires without elections, leaving Martelly ruling by decree from 2015."
+        },
+        {
+          "headline": "Anti-government protests",
+          "summary": "Opposition demonstrations demand Martelly's resignation."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at Caribbean Cup",
+        "summary": "The national team contests the Caribbean Cup in Jamaica."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 14.83,
+      "gross_debt_pct_gdp": 23.9,
+      "gross_debt_usd_billion": 3.54,
+      "inflation_cpi_pct": 5.3,
+      "status": "Historical / IMF estimate",
+      "population": 10523242,
+      "exchange_rate_usd": 50.7064,
+      "main_events": [
+        {
+          "headline": "Disputed elections spark unrest",
+          "summary": "Fraud-marred August legislative and October presidential first-round votes trigger mass protests."
+        },
+        {
+          "headline": "Runoff postponed indefinitely",
+          "summary": "The presidential runoff is scrapped amid fraud allegations, deepening the power vacuum."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti reaches Gold Cup quarters",
+        "summary": "Haiti reaches the 2015 Gold Cup quarterfinals, losing narrowly to Jamaica."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 14.0,
+      "gross_debt_pct_gdp": 24.4,
+      "gross_debt_usd_billion": 3.42,
+      "inflation_cpi_pct": 11.4,
+      "status": "Historical / IMF estimate",
+      "population": 10671457,
+      "exchange_rate_usd": 63.3358,
+      "main_events": [
+        {
+          "headline": "Moise elected president",
+          "summary": "Jovenel Mo\u00efse, Martelly's chosen successor, wins the November presidential rerun."
+        },
+        {
+          "headline": "Hurricane Matthew devastates southwest",
+          "summary": "October's Category 4 Matthew kills hundreds and flattens towns across the Grand'Anse and Sud departments."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at Copa America",
+        "summary": "Haiti qualifies for the Copa America Centenario in the United States, a historic first."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 15.04,
+      "gross_debt_pct_gdp": 22.5,
+      "gross_debt_usd_billion": 3.38,
+      "inflation_cpi_pct": 10.6,
+      "status": "Historical / IMF estimate",
+      "population": 10817754,
+      "exchange_rate_usd": 64.7697,
+      "main_events": [
+        {
+          "headline": "Moise inaugurated",
+          "summary": "Jovenel Mo\u00efse takes office in February promising investment and agriculture."
+        },
+        {
+          "headline": "UN mission transitions",
+          "summary": "MINUSTAH ends after 13 years, replaced by the smaller MINUJUSTH justice mission."
+        }
+      ],
+      "sport": {
+        "headline": "Nations League qualifying begins",
+        "summary": "Haiti competes in qualifying for the new CONCACAF Nations League."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 16.45,
+      "gross_debt_pct_gdp": 24.1,
+      "gross_debt_usd_billion": 3.97,
+      "inflation_cpi_pct": 11.4,
+      "status": "Historical / IMF estimate",
+      "population": 10962362,
+      "exchange_rate_usd": 68.0318,
+      "main_events": [
+        {
+          "headline": "Fuel protests explode",
+          "summary": "July fuel price hikes trigger violent nationwide protests; the prime minister resigns."
+        },
+        {
+          "headline": "PetroCaribe scandal deepens",
+          "summary": "Mass demonstrations demand accountability for missing PetroCaribe billions."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup dream ends",
+        "summary": "Haiti falls short in 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 14.79,
+      "gross_debt_pct_gdp": 26.5,
+      "gross_debt_usd_billion": 3.92,
+      "inflation_cpi_pct": 17.3,
+      "status": "Historical / IMF estimate",
+      "population": 11105163,
+      "exchange_rate_usd": 88.815,
+      "main_events": [
+        {
+          "headline": "Moise faces mass protests",
+          "summary": "Months of anti-government demonstrations paralyze the country amid fuel shortages."
+        },
+        {
+          "headline": "Parliament becomes defunct",
+          "summary": "Without elections, parliament lapses, leaving Moise ruling by decree."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti's magical Gold Cup run",
+        "summary": "Haiti storms to the Gold Cup semifinals, beating Canada before an extra-time loss to Mexico."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 14.51,
+      "gross_debt_pct_gdp": 22.3,
+      "gross_debt_usd_billion": 3.24,
+      "inflation_cpi_pct": 22.9,
+      "status": "Historical / IMF estimate",
+      "population": 11243848,
+      "exchange_rate_usd": 93.5098,
+      "main_events": [
+        {
+          "headline": "Moise rules by decree",
+          "summary": "With no functioning parliament, the president governs alone as opposition anger mounts."
+        },
+        {
+          "headline": "Kidnappings surge",
+          "summary": "Gang kidnappings for ransom soar, terrorizing Port-au-Prince."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused by pandemic",
+        "summary": "COVID-19 halts Haiti's football calendar along with the region's."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 21.02,
+      "gross_debt_pct_gdp": 28.4,
+      "gross_debt_usd_billion": 5.97,
+      "inflation_cpi_pct": 15.9,
+      "status": "Historical / IMF estimate",
+      "population": 11374586,
+      "exchange_rate_usd": 89.2266,
+      "main_events": [
+        {
+          "headline": "President Moise assassinated",
+          "summary": "Gunmen assassinate Jovenel Mo\u00efse at his home on July 7, plunging Haiti into turmoil."
+        },
+        {
+          "headline": "Deadly earthquake hits south",
+          "summary": "A magnitude-7.2 quake strikes the southern peninsula on August 14, killing over 2,200."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at Tokyo Olympics",
+        "summary": "Haitian athletes compete at the Tokyo Games amid national mourning."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 19.83,
+      "gross_debt_pct_gdp": 29.2,
+      "gross_debt_usd_billion": 5.79,
+      "inflation_cpi_pct": 27.6,
+      "status": "Historical / IMF estimate",
+      "population": 11503606,
+      "exchange_rate_usd": 115.6307,
+      "main_events": [
+        {
+          "headline": "Gangs tighten grip",
+          "summary": "Armed gangs seize fuel terminals and neighborhoods; PM Ariel Henry requests foreign intervention in October."
+        },
+        {
+          "headline": "Cholera returns",
+          "summary": "Cholera re-emerges in Port-au-Prince's slums as sanitation collapses."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti in World Cup qualifying",
+        "summary": "The national team contests 2022 World Cup qualifying without advancing."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 19.6,
+      "gross_debt_pct_gdp": 27.8,
+      "gross_debt_usd_billion": 5.45,
+      "inflation_cpi_pct": 44.1,
+      "status": "Historical / IMF estimate",
+      "population": 11637398,
+      "exchange_rate_usd": 141.0359,
+      "main_events": [
+        {
+          "headline": "Kenya offers to lead mission",
+          "summary": "Kenya volunteers in July to lead a multinational security force for Haiti."
+        },
+        {
+          "headline": "Capital under siege",
+          "summary": "Gangs expand control across Port-au-Prince, displacing tens of thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti at 2023 Gold Cup",
+        "summary": "Haiti competes at the CONCACAF Gold Cup in the United States."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 25.29,
+      "gross_debt_pct_gdp": 15.5,
+      "gross_debt_usd_billion": 3.92,
+      "inflation_cpi_pct": 25.8,
+      "status": "Historical / IMF estimate",
+      "population": 11772557,
+      "exchange_rate_usd": 131.811,
+      "main_events": [
+        {
+          "headline": "Henry resigns; council takes over",
+          "summary": "Ariel Henry resigns in March as gangs overrun the capital; a Transitional Presidential Council is installed in April."
+        },
+        {
+          "headline": "Kenyan police deploy",
+          "summary": "The first Kenyan-led multinational security mission contingent arrives in June."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti in Nations League",
+        "summary": "Haiti competes in the CONCACAF Nations League amid the security crisis."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 32.1,
+      "gross_debt_pct_gdp": 12.3,
+      "gross_debt_usd_billion": 3.95,
+      "inflation_cpi_pct": 28.3,
+      "status": "IMF projection",
+      "population": 11906095,
+      "exchange_rate_usd": 130.6264,
+      "main_events": [
+        {
+          "headline": "Gangs control most of capital",
+          "summary": "Armed gangs entrench control over most of Port-au-Prince, deepening the humanitarian emergency."
+        },
+        {
+          "headline": "Hurricane Melissa floods Haiti",
+          "summary": "Category 5 Melissa's outer bands dump catastrophic rain on southern Haiti in October."
+        }
+      ],
+      "sport": {
+        "headline": "Haiti chases World Cup return",
+        "summary": "The national team campaigns in CONCACAF qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

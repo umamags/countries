@@ -1,0 +1,396 @@
+{
+  "country": "Iran",
+  "iso3": "IRN",
+  "currency": "IRR",
+  "currency_name": "Iranian Rial",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 70496000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear standoff deepens",
+          "summary": "Iran resumes enrichment; the UN Security Council imposes sanctions."
+        },
+        {
+          "headline": "Ahmadinejad's Holocaust denial",
+          "summary": "The president's rhetoric isolates Tehran further."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Germany",
+        "summary": "Iran compete at the World Cup, exiting in the group stage."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 71532000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "British sailors seized",
+          "summary": "Iran captures 15 British naval personnel in the Gulf."
+        },
+        {
+          "headline": "More sanctions",
+          "summary": "The UN tightens penalties over the nuclear programme."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Iran reach the Asian Cup quarterfinals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 72266000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Naval confrontations",
+          "summary": "US and Iranian vessels face off in the Strait of Hormuz."
+        },
+        {
+          "headline": "Missile tests",
+          "summary": "Revolutionary Guards test long-range missiles."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Iranian wrestlers and weightlifters medal in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 73196000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Green Movement crushed",
+          "summary": "Mass protests over Ahmadinejad's re-election are violently suppressed."
+        },
+        {
+          "headline": "Neda becomes symbol",
+          "summary": "The killing of a young protester galvanizes global outrage."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying miss",
+        "summary": "Iran fail to reach the 2010 World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 74157000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Stuxnet hits nuclear plants",
+          "summary": "A cyberattack damages Iranian centrifuges."
+        },
+        {
+          "headline": "Sanctions tighten",
+          "summary": "The US and EU impose sweeping new penalties."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Iranian athletes win medals in China."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 75150000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UK embassy stormed",
+          "summary": "Protesters ransack the British embassy in Tehran."
+        },
+        {
+          "headline": "Assassins target scientists",
+          "summary": "Nuclear scientists are killed in bomb attacks."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup quarterfinal",
+        "summary": "Iran exit the Asian Cup in the last eight."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 76038000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil embargo bites",
+          "summary": "EU sanctions on oil exports cripple the economy."
+        },
+        {
+          "headline": "Currency collapses",
+          "summary": "The rial plunges as sanctions take hold."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Iran win medals in wrestling and weightlifting."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 77016000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rouhani elected",
+          "summary": "The moderate cleric wins the presidency promising engagement."
+        },
+        {
+          "headline": "Interim nuclear deal",
+          "summary": "Geneva accord freezes parts of the programme for sanctions relief."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "Iran qualify for the 2014 World Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 77970000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear talks extended",
+          "summary": "Deadlines slip as negotiators haggle over a final deal."
+        },
+        {
+          "headline": "ISIS advances in Iraq",
+          "summary": "Tehran backs Baghdad against the militant onslaught."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Brazil",
+        "summary": "Iran exit in the group stage after a narrow loss to Argentina."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 78940000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear deal signed",
+          "summary": "The JCPOA is agreed in Vienna, lifting sanctions."
+        },
+        {
+          "headline": "Mina stampede",
+          "summary": "Hundreds of Iranian pilgrims die in the Hajj crush."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup quarterfinal",
+        "summary": "Iran lose to Iraq on penalties in a dramatic quarterfinal."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 79926000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sanctions lifted",
+          "summary": "Implementation day brings Iran back to oil markets."
+        },
+        {
+          "headline": "Saudi ties severed",
+          "summary": "Riyadh cuts relations after its Tehran embassy is stormed."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "Iranian wrestlers and weightlifters medal in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 81070000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rouhani re-elected",
+          "summary": "The president wins a second term against hardline challengers."
+        },
+        {
+          "headline": "ISIS attacks Tehran",
+          "summary": "Twin attacks on parliament and Khomeini's shrine kill civilians."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "Iran become the first Asian team to qualify for 2018."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 82084000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Trump exits nuclear deal",
+          "summary": "Washington reimposes sanctions, collapsing the JCPOA."
+        },
+        {
+          "headline": "Protests over economy",
+          "summary": "Demonstrations erupt as the rial crashes."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Russia",
+        "summary": "Iran narrowly miss the knockouts after drawing with Portugal."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 83075000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tanker attacks",
+          "summary": "Explosions hit Gulf shipping; the US blames Iran."
+        },
+        {
+          "headline": "Fuel protests crushed",
+          "summary": "A November crackdown kills hundreds of demonstrators."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup semifinal",
+        "summary": "Iran reach the Asian Cup semifinals, losing to Japan."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 84038000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Soleimani assassinated",
+          "summary": "A US drone kills the Quds Force chief in Baghdad."
+        },
+        {
+          "headline": "Ukrainian plane shot down",
+          "summary": "Iran downs Flight 752, killing all aboard, then admits fault."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic suspends Iranian domestic football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 84055000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Raisi elected",
+          "summary": "The hardline cleric wins a tightly managed presidential vote."
+        },
+        {
+          "headline": "Nuclear talks resume",
+          "summary": "Vienna negotiations aim to revive the JCPOA."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic medals",
+        "summary": "Iranian wrestlers and shooters medal in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 84700000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mahsa Amini protests",
+          "summary": "Her death in custody sparks nationwide Women, Life, Freedom rallies."
+        },
+        {
+          "headline": "Brutal crackdown",
+          "summary": "Security forces kill hundreds of protesters."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Qatar",
+        "summary": "Iran's players decline to sing the anthem amid the protests."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 85329000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saudi rapprochement",
+          "summary": "China brokers restored ties between Tehran and Riyadh."
+        },
+        {
+          "headline": "Hijab enforcement returns",
+          "summary": "Morality police patrols resume after the protest wave."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games medals",
+        "summary": "Iranian athletes medal at the Hangzhou Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 86189000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Raisi dies in crash",
+          "summary": "The president is killed in a helicopter crash in May."
+        },
+        {
+          "headline": "Missile strikes on Israel",
+          "summary": "Iran launches direct attacks on Israel in April and October."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympic medals",
+        "summary": "Iranian wrestlers and taekwondo athletes medal in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 87057000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US strikes nuclear sites",
+          "summary": "American bombers hit Iranian nuclear facilities amid war with Israel."
+        },
+        {
+          "headline": "Twelve-day war",
+          "summary": "Israel and Iran exchange direct strikes before a ceasefire."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualified",
+        "summary": "Iran seal early qualification for the expanded World Cup."
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "country": "Niger",
+  "iso3": "NER",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 14144000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tandja's government stable",
+          "summary": "The president's MNSD dominates Nigerien politics."
+        },
+        {
+          "headline": "Food crisis fears",
+          "summary": "Poor rains threaten harvests."
+        }
+      ],
+      "sport": {
+        "headline": "Niger fall short in AFCON qualifying",
+        "summary": "The Menas miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 14685000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tuareg rebellion erupts",
+          "summary": "The MNJ launches attacks in the northern Air region."
+        },
+        {
+          "headline": "Uranium mining expands",
+          "summary": "Areva's operations grow amid the insurgency."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2008 AFCON",
+        "summary": "The Menas fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 15251000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rebellion grinds on",
+          "summary": "Fighting in the north disrupts uranium transport."
+        },
+        {
+          "headline": "Government negotiates",
+          "summary": "Libya-brokered talks aim to end the revolt."
+        }
+      ],
+      "sport": {
+        "headline": "Niger compete at Beijing Olympics",
+        "summary": "Nigerien athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 15843000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tandja scraps term limits",
+          "summary": "August's referendum lets the president extend his rule; the opposition boycotts."
+        },
+        {
+          "headline": "Constitutional crisis",
+          "summary": "Parliament is dissolved as Tandja tightens his grip."
+        }
+      ],
+      "sport": {
+        "headline": "Niger chase 2010 World Cup spot",
+        "summary": "The Menas compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 16464000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Tandja",
+          "summary": "February's coup ends the president's attempt to stay in power."
+        },
+        {
+          "headline": "Junta promises elections",
+          "summary": "The CSRD pledges a democratic transition."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2010 World Cup",
+        "summary": "The Menas fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 17115000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Issoufou wins presidency",
+          "summary": "The opposition leader defeats Seini Oumarou in March's runoff."
+        },
+        {
+          "headline": "Democracy restored",
+          "summary": "Civilian rule returns after the 2010 coup."
+        }
+      ],
+      "sport": {
+        "headline": "Niger qualify for first AFCON",
+        "summary": "The Menas reach the 2012 tournament, a historic breakthrough."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 17795000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Niger debuts at AFCON",
+          "summary": "The Menas exit at the group stage in Gabon."
+        },
+        {
+          "headline": "Mali war spillover",
+          "summary": "Refugees and fighters stream across the border."
+        }
+      ],
+      "sport": {
+        "headline": "Niger reach AFCON",
+        "summary": "A first-ever appearance ends at the group stage."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 18504000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Uranium mine attacked",
+          "summary": "May's suicide bombing at Areva's Arlit site kills workers."
+        },
+        {
+          "headline": "Coup plot alleged",
+          "summary": "The government claims to foil a military conspiracy."
+        }
+      ],
+      "sport": {
+        "headline": "Niger reach second AFCON",
+        "summary": "The Menas qualify again for South Africa 2013."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 19240000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Issoufou's government stable",
+          "summary": "The president consolidates power."
+        },
+        {
+          "headline": "Boko Haram threat grows",
+          "summary": "The jihadists strike in the Diffa region."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2014 World Cup",
+        "summary": "The Menas fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 20002000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boko Haram massacres in Diffa",
+          "summary": "February attacks kill dozens in the southeast."
+        },
+        {
+          "headline": "Niger joins regional force",
+          "summary": "Niamey commits troops to the anti-Boko Haram task force."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2015 AFCON",
+        "summary": "The Menas fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 20789000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Issoufou re-elected president",
+          "summary": "The incumbent wins March's runoff; the opposition alleges fraud."
+        },
+        {
+          "headline": "Opposition leader jailed",
+          "summary": "Hama Amadou is imprisoned during the campaign."
+        }
+      ],
+      "sport": {
+        "headline": "Niger compete at Rio Olympics",
+        "summary": "Nigerien athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 21602000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US soldiers killed in ambush",
+          "summary": "October's Tongo Tongo attack kills four American troops."
+        },
+        {
+          "headline": "Jihadist violence spreads",
+          "summary": "Attacks multiply in the Tillaberi region."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2017 AFCON",
+        "summary": "The Menas fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 22443000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Insecurity worsens",
+          "summary": "Militant attacks displace tens of thousands."
+        },
+        {
+          "headline": "Niger hosts AU summit",
+          "summary": "Niamey welcomes continental leaders."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2018 World Cup",
+        "summary": "The Menas fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 23311000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Inates massacre kills dozens",
+          "summary": "December's jihadist assault on an army base is among the deadliest."
+        },
+        {
+          "headline": "Issoufou pledges to step down",
+          "summary": "The president promises to respect term limits."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2019 AFCON",
+        "summary": "The Menas fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 24207000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chinagodrar massacre",
+          "summary": "January's attack kills scores of soldiers."
+        },
+        {
+          "headline": "Election preparations",
+          "summary": "Niger gears up for the historic 2020-21 vote."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Niger's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 25131000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bazoum wins presidency",
+          "summary": "Mohamed Bazoum's February victory marks Niger's first democratic transfer."
+        },
+        {
+          "headline": "Tahoua massacres",
+          "summary": "March jihadist raids kill scores of civilians."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2021 AFCON",
+        "summary": "The Menas fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 26084000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bazoum's government tested",
+          "summary": "Jihadist violence and French unpopularity challenge the president."
+        },
+        {
+          "headline": "Anti-French protests",
+          "summary": "Demonstrators demand the departure of French troops."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2022 World Cup",
+        "summary": "The Menas fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 27066000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Bazoum",
+          "summary": "General Tchiani seizes power in a July coup."
+        },
+        {
+          "headline": "ECOWAS threatens intervention",
+          "summary": "Regional leaders impose sanctions and warn of force."
+        },
+        {
+          "headline": "France expelled",
+          "summary": "The junta orders French troops out by December."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2023 AFCON",
+        "summary": "The Menas fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 28080000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Niger quits ECOWAS with allies",
+          "summary": "January's joint withdrawal with Mali and Burkina Faso reshapes West Africa."
+        },
+        {
+          "headline": "US troops expelled",
+          "summary": "The junta orders American forces out; Russia moves in."
+        }
+      ],
+      "sport": {
+        "headline": "Niger chase 2026 World Cup spot",
+        "summary": "The Menas compete in qualifying for the expanded tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 29126000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "AES confederation advances",
+          "summary": "Niger deepens integration with its Sahel allies."
+        },
+        {
+          "headline": "Bazoum remains detained",
+          "summary": "The ousted president stays under house arrest."
+        }
+      ],
+      "sport": {
+        "headline": "Niger miss 2025 AFCON",
+        "summary": "The Menas fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

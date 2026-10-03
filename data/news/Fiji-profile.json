@@ -1,0 +1,396 @@
+{
+  "country": "Fiji",
+  "iso3": "FJI",
+  "currency": "FJD",
+  "currency_name": "Fijian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 830000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bainimarama ousts Qarase in military coup",
+          "summary": "The military seized power in December, Fiji's fourth coup in two decades."
+        },
+        {
+          "headline": "Pacific neighbours condemn the takeover",
+          "summary": "Australia and New Zealand imposed sanctions and travel bans on the military regime."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens side stays among world elite",
+        "summary": "The sevens team remained a crowd favourite and title contender on the world circuit."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 837000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Interim regime expels Australian and NZ envoys",
+          "summary": "Diplomatic expulsions deepened Fiji's isolation from its traditional Pacific partners."
+        },
+        {
+          "headline": "Bainimarama consolidates post-coup rule",
+          "summary": "The military leader tightened control while promising elections at an unspecified date."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji stuns Wales to reach World Cup quarter-final",
+        "summary": "A thrilling pool win in Nantes sent Fiji to the knockout stage in France."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 838000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EU suspends sugar aid over coup",
+          "summary": "Brussels cut assistance to Fiji's sugar industry, citing the failure to restore democracy."
+        },
+        {
+          "headline": "Regime expels New Zealand envoy again",
+          "summary": "Fresh diplomatic expulsions kept tensions high with Wellington and Canberra."
+        }
+      ],
+      "sport": {
+        "headline": "Sevens team contends on IRB circuit",
+        "summary": "Fiji's sevens side challenged for titles across the world series legs."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 843000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "President abrogates constitution, sacks judiciary",
+          "summary": "After courts ruled the coup illegal, Iloilo scrapped the constitution in April and reappointed Bainimarama."
+        },
+        {
+          "headline": "Fiji expelled from Forum, suspended by Commonwealth",
+          "summary": "Pacific and Commonwealth bodies punished the regime for refusing an election timetable."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji falls to Wales in Sevens World Cup final",
+        "summary": "Wales beat Fiji in the Dubai final to claim the 2009 sevens world title."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 848000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bainimarama announces 2014 election roadmap",
+          "summary": "The regime promised polls by September 2014 after years of delay."
+        },
+        {
+          "headline": "Fiji hosts 'Engaging the Pacific' meeting",
+          "summary": "Suva gathered Pacific leaders outside the Forum framework it had been expelled from."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens remains a global drawcard",
+        "summary": "The team stayed among the world's best on the sevens circuit."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 852000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bainimarama promises 2014 polls at UN",
+          "summary": "Addressing the General Assembly, the leader committed to elections within three years."
+        },
+        {
+          "headline": "Regime bans Methodist Church conference",
+          "summary": "The annual church gathering was prohibited amid a crackdown on dissent."
+        }
+      ],
+      "sport": {
+        "headline": "Flying Fijians build toward World Cup",
+        "summary": "Fiji prepared for New Zealand 2011 with Pacific Nations Cup fixtures."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 857000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution commission begins work",
+          "summary": "The Ghai-led commission started consulting Fijians on a new constitution."
+        },
+        {
+          "headline": "Police crack down on unions and media",
+          "summary": "Emergency regulations were used against unionists and journalists critical of the regime."
+        }
+      ],
+      "sport": {
+        "headline": "Sevens team claims world series titles",
+        "summary": "Fiji won tournament legs on the IRB Sevens World Series."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 860000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bainimarama promulgates new constitution",
+          "summary": "The September constitution replaced the abrogated 1997 document ahead of promised elections."
+        },
+        {
+          "headline": "Fiji re-engages Pacific via development forum",
+          "summary": "Suva promoted its Pacific Islands Development Forum as a rival to the Forum."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji qualifies for 2015 Rugby World Cup",
+        "summary": "The Flying Fijians secured their place at the England tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 864000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FijiFirst wins first post-coup election",
+          "summary": "Bainimarama's party won the September poll, Fiji's first democratic election in eight years."
+        },
+        {
+          "headline": "Commonwealth lifts Fiji's suspension",
+          "summary": "The election was deemed credible enough to restore Fiji's membership."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens eyes Olympic debut",
+        "summary": "The sevens program targeted gold at rugby's return to the Olympics in Rio."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 868000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fiji champions climate action before Paris summit",
+          "summary": "Suva pushed ocean and climate issues ahead of the COP21 negotiations."
+        },
+        {
+          "headline": "Government deepens 'Look North' diplomacy",
+          "summary": "Fiji courted China and Russia as alternatives to Australia and New Zealand."
+        }
+      ],
+      "sport": {
+        "headline": "Flying Fijians exit World Cup in pool stage",
+        "summary": "Fiji beat Uruguay but lost to England, Australia and Wales in a brutal pool."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 871000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Winston devastates Fiji",
+          "summary": "The February Category 5 storm, the strongest to hit the Southern Hemisphere, killed dozens."
+        },
+        {
+          "headline": "Bainimarama abandons flag-change plan",
+          "summary": "The prime minister dropped the push for a new flag after public opposition."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji wins first Olympic gold in rugby sevens",
+        "summary": "The men's team thrashed Britain in the Rio final to claim Fiji's maiden Olympic medal."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 885000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fiji presides over COP23 climate talks",
+          "summary": "Bainimarama chaired the Bonn climate conference, a first for a Pacific island nation."
+        },
+        {
+          "headline": "Fiji elected to lead UN climate diplomacy",
+          "summary": "Suva used the presidency to demand stronger action from major emitters."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens wins world series legs",
+        "summary": "The Olympic champions stayed dominant on the World Rugby Sevens Series."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 890000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FijiFirst re-elected in November poll",
+          "summary": "Bainimarama's party won a reduced majority in the general election."
+        },
+        {
+          "headline": "Fiji elected to UN Human Rights Council",
+          "summary": "Suva won a seat on the council for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji wins Hong Kong Sevens",
+        "summary": "The sevens team lifted the famous Hong Kong trophy."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 896000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Measles outbreak prompts mass vaccination",
+          "summary": "Fiji ran an emergency immunisation drive as measles spread through the Pacific."
+        },
+        {
+          "headline": "Fiji pushes ocean-climate agenda at UN",
+          "summary": "Bainimarama championed blue economy and climate finance at global summits."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens chases world series glory",
+        "summary": "The team contended for the overall series title across the season's legs."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 901000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID closes borders; tourism collapses",
+          "summary": "Fiji shut its borders, devastating the tourism industry that drives the economy."
+        },
+        {
+          "headline": "Cyclone Yasa strikes in December",
+          "summary": "The Category 5 storm tore through Vanua Levu, destroying villages and crops."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic sevens defence put on hold",
+        "summary": "The Tokyo postponement delayed Fiji's bid to defend its rugby gold."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 906000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Second COVID wave overwhelms hospitals",
+          "summary": "The Delta variant swept Fiji mid-year after months of relative containment."
+        },
+        {
+          "headline": "Fiji reopens to tourists in December",
+          "summary": "Vaccinated travellers returned as borders reopened to rescue the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji defends Olympic sevens gold in Tokyo",
+        "summary": "The men beat New Zealand in the final; Fijiana won a historic bronze."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 912000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rabuka's coalition ousts Bainimarama",
+          "summary": "Sitiveni Rabuka formed a three-party coalition after the December election ended 16 years of Bainimarama rule."
+        },
+        {
+          "headline": "Fiji joins US Indo-Pacific Economic Framework",
+          "summary": "Suva signed onto the American-led economic initiative."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji wins Rugby World Cup Sevens",
+        "summary": "The men's team beat New Zealand in the Cape Town final."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 917000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rabuka restores Great Council of Chiefs",
+          "summary": "The new government revived the chiefly body abolished after the 2006 coup."
+        },
+        {
+          "headline": "Media laws reviewed as press freedom returns",
+          "summary": "The coalition moved to repeal draconian media legislation."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji reaches Rugby World Cup quarter-final",
+        "summary": "The Flying Fijians made the knockouts in France before falling to England."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 923000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Reconciliation commission process advances",
+          "summary": "The government pushed a truth and reconciliation process for the coup era."
+        },
+        {
+          "headline": "Fiji deepens defence ties with Australia",
+          "summary": "Suva and Canberra expanded security cooperation amid Pacific strategic competition."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji men win Olympic sevens silver",
+        "summary": "France beat Fiji in the Paris final, ending the Olympic title defence."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 928000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rabuka pursues constitutional reform",
+          "summary": "The prime minister pushed debate on amending the 2013 constitution amid coalition strains."
+        },
+        {
+          "headline": "Fiji navigates Pacific power rivalry",
+          "summary": "Suva balanced ties with China, Australia and the US at regional summits."
+        }
+      ],
+      "sport": {
+        "headline": "Fiji sevens rebuilds for new cycle",
+        "summary": "The sevens programs regrouped after the Paris Olympics with new coaching setups."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Cocos (Keeling) Islands",
+  "iso3": null,
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3282,
+      "geopolitical_news": [
+        {
+          "headline": "Shire council administers the islands",
+          "summary": "Local government managed services for the tiny Cocos Malay community."
+        },
+        {
+          "headline": "Copra industry fades",
+          "summary": "The historic coconut economy dwindled to almost nothing."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders play local football",
+        "summary": "Soccer matches ran on Home and West Islands."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1949,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Malay community life continues",
+          "summary": "The small population maintained its unique culture."
+        },
+        {
+          "headline": "Tourism potential explored",
+          "summary": "Diving and fishing tourism was promoted to visitors."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island matches played",
+        "summary": "Home and West Island teams contested local fixtures."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1962,
+      "geopolitical_news": [
+        {
+          "headline": "Island airstrip maintained",
+          "summary": "The West Island airport linked the territory to Perth."
+        },
+        {
+          "headline": "Federal services sustain community",
+          "summary": "Canberra funded health, education and infrastructure."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season held",
+        "summary": "The islands' soccer competition ran through the year."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2791,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Islands' quiet life continues",
+          "summary": "The remote territory stayed far from national headlines."
+        },
+        {
+          "headline": "Marine park protections discussed",
+          "summary": "Conservation of the atolls' reefs was debated."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders play inter-island football",
+        "summary": "Home and West Island sides met regularly."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0895,
+      "geopolitical_news": [
+        {
+          "headline": "Shire elections held",
+          "summary": "Islanders voted for their local council."
+        },
+        {
+          "headline": "Climate change threatens atolls",
+          "summary": "Rising seas worried the low-lying islands."
+        }
+      ],
+      "sport": {
+        "headline": "Local soccer competition runs",
+        "summary": "The islands' football league played through the year."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9695,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Islands remain tranquil",
+          "summary": "The tiny community continued its quiet Indian Ocean life."
+        },
+        {
+          "headline": "Fisheries management reviewed",
+          "summary": "Sustainable fishing rules were updated for the atolls."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island matches played",
+        "summary": "Home and West Island teams contested fixtures."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9659,
+      "geopolitical_news": [
+        {
+          "headline": "US eyes Cocos as drone base",
+          "summary": "Reports emerged of American interest in using the airfield."
+        },
+        {
+          "headline": "Base proposal debated nationally",
+          "summary": "The plan sparked discussion about the islands' strategic role."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season held",
+        "summary": "The islands' soccer competition ran through the year."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0369,
+      "geopolitical_news": [
+        {
+          "headline": "Australia confirms US access talks",
+          "summary": "Canberra acknowledged discussions on American use of the airfield."
+        },
+        {
+          "headline": "Islanders weigh strategic interest",
+          "summary": "The tiny community considered the implications of a bigger military role."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders play local football",
+        "summary": "Soccer remained the islands' main sport."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.1092,
+      "geopolitical_news": [
+        {
+          "headline": "Defence cooperation discussions continue",
+          "summary": "Canberra and Washington kept talking about the airfield's future."
+        },
+        {
+          "headline": "Community life goes on",
+          "summary": "The Cocos Malay community maintained its traditions."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island fixtures played",
+        "summary": "Home and West Island teams met through the year."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Islands' strategic value grows",
+          "summary": "Analysts highlighted the atolls' Indian Ocean location."
+        },
+        {
+          "headline": "Tourism promotion continues",
+          "summary": "The islands marketed diving and kite-surfing to visitors."
+        }
+      ],
+      "sport": {
+        "headline": "Local soccer league runs",
+        "summary": "The islands' football competition played through the year."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3449,
+      "geopolitical_news": [
+        {
+          "headline": "Airfield upgrade plans discussed",
+          "summary": "Defence considered lengthening the runway for surveillance aircraft."
+        },
+        {
+          "headline": "Marine reserve established",
+          "summary": "Large marine parks were declared around the territory."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders play inter-island football",
+        "summary": "Home and West Island sides contested matches."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.305,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Islands' quiet strategic rise",
+          "summary": "The territory featured more often in defence planning."
+        },
+        {
+          "headline": "Community consultations held",
+          "summary": "Canberra engaged islanders on development plans."
+        }
+      ],
+      "sport": {
+        "headline": "Local football season held",
+        "summary": "The islands' soccer league ran through the year."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.339,
+      "geopolitical_news": [
+        {
+          "headline": "Shire council manages growth",
+          "summary": "Local government handled slowly increasing visitor numbers."
+        },
+        {
+          "headline": "Sea-level concerns persist",
+          "summary": "The low atolls remained vulnerable to rising oceans."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island matches played",
+        "summary": "Home and West Island teams met regularly."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4393,
+      "geopolitical_news": [
+        {
+          "headline": "Defence plans for airfield advance",
+          "summary": "Canberra moved toward upgrading the West Island runway."
+        },
+        {
+          "headline": "Islanders consulted on plans",
+          "summary": "The community was engaged on the defence proposals."
+        }
+      ],
+      "sport": {
+        "headline": "Local soccer competition runs",
+        "summary": "The islands' football league played through the year."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4519,
+      "geopolitical_news": [
+        {
+          "headline": "COVID reaches the islands",
+          "summary": "Border controls were imposed on the remote territory."
+        },
+        {
+          "headline": "Tourism halted by pandemic",
+          "summary": "The islands' small visitor industry shut down."
+        }
+      ],
+      "sport": {
+        "headline": "Sport disrupted by pandemic",
+        "summary": "COVID restrictions limited the islands' sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Islands remain largely COVID-free",
+          "summary": "Isolation protected the tiny community through the pandemic."
+        },
+        {
+          "headline": "Airfield upgrade funding committed",
+          "summary": "Canberra allocated money for the runway extension."
+        }
+      ],
+      "sport": {
+        "headline": "Local football resumes",
+        "summary": "Inter-island soccer returned after restrictions eased."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4428,
+      "geopolitical_news": [
+        {
+          "headline": "Runway upgrade work begins",
+          "summary": "Construction started to extend the West Island airfield."
+        },
+        {
+          "headline": "Strategic importance underscored",
+          "summary": "The upgrade reflected the islands' growing defence role."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island fixtures played",
+        "summary": "Home and West Island teams contested matches."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5066,
+      "geopolitical_news": [
+        {
+          "headline": "Airfield upgrade for P-8 aircraft",
+          "summary": "The lengthened runway was designed for maritime surveillance planes."
+        },
+        {
+          "headline": "US-Australia cooperation deepens",
+          "summary": "The islands featured in allied Indian Ocean planning."
+        }
+      ],
+      "sport": {
+        "headline": "Local soccer league runs",
+        "summary": "The islands' football competition played through the year."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5153,
+      "geopolitical_news": [
+        {
+          "headline": "Defence works progress",
+          "summary": "Airfield and infrastructure upgrades continued on West Island."
+        },
+        {
+          "headline": "Community adapts to changes",
+          "summary": "The small population adjusted to the territory's strategic spotlight."
+        }
+      ],
+      "sport": {
+        "headline": "Islanders play local football",
+        "summary": "Soccer remained the community's main sport."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5515,
+      "geopolitical_news": [
+        {
+          "headline": "Cocos Islands' strategic role cemented",
+          "summary": "The upgraded airfield anchored allied surveillance in the Indian Ocean."
+        },
+        {
+          "headline": "Territory's future debated",
+          "summary": "Canberra and locals discussed development beyond defence."
+        }
+      ],
+      "sport": {
+        "headline": "Inter-island football continues",
+        "summary": "Home and West Island sides kept their rivalry alive."
+      }
+    }
+  ]
+}

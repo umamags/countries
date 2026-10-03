@@ -1,0 +1,396 @@
+{
+  "country": "Namibia",
+  "iso3": "NAM",
+  "currency": "NAD",
+  "currency_name": "Namibian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1979000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pohamba's government stable",
+          "summary": "SWAPO maintains its dominance of Namibian politics."
+        },
+        {
+          "headline": "Land reform debated",
+          "summary": "The willing-buyer, willing-seller policy faces criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia fall short in AFCON qualifying",
+        "summary": "The Brave Warriors miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2005000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption scandals emerge",
+          "summary": "Graft allegations taint the ruling party."
+        },
+        {
+          "headline": "Namibia's economy grows",
+          "summary": "Mining and fishing drive steady expansion."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia qualify for 2008 AFCON",
+        "summary": "The Brave Warriors reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2032000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Global crisis hits mining",
+          "summary": "Diamond and uranium prices slump."
+        },
+        {
+          "headline": "SWAPO congress",
+          "summary": "Pohamba consolidates control of the ruling party."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia exit AFCON at group stage",
+        "summary": "The Brave Warriors go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2062000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pohamba re-elected president",
+          "summary": "The incumbent wins November's vote in a landslide."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals reject the results."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia chase 2010 World Cup spot",
+        "summary": "The Brave Warriors compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2093000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Namibia's stability praised",
+          "summary": "The country remains a democratic model."
+        },
+        {
+          "headline": "Caprivi secessionists tried",
+          "summary": "Long-running treason trials continue."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2010 World Cup",
+        "summary": "The Brave Warriors fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2127000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob named prime minister",
+          "summary": "Hage Geingob returns to government as Pohamba's heir apparent."
+        },
+        {
+          "headline": "Land reform stalls",
+          "summary": "Redistribution targets are missed."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2012 AFCON",
+        "summary": "The Brave Warriors fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2166000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "SWAPO congress backs Geingob",
+          "summary": "The party anoints Pohamba's successor."
+        },
+        {
+          "headline": "Namibia's economy steady",
+          "summary": "Mining investments sustain growth."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia compete at London Olympics",
+        "summary": "Namibian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2223000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob's succession assured",
+          "summary": "SWAPO lines up behind the prime minister."
+        },
+        {
+          "headline": "Uranium projects advance",
+          "summary": "New mines promise jobs and revenue."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2013 AFCON",
+        "summary": "The Brave Warriors fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2282000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob wins presidency",
+          "summary": "The SWAPO candidate takes November's vote in a landslide."
+        },
+        {
+          "headline": "Electronic voting introduced",
+          "summary": "Namibia pioneers e-voting in Africa."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2014 World Cup",
+        "summary": "The Brave Warriors fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2342000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob inaugurated",
+          "summary": "The new president pledges prosperity for all."
+        },
+        {
+          "headline": "Drought hits Namibia",
+          "summary": "Successive dry years devastate livestock across the country."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2015 AFCON",
+        "summary": "The Brave Warriors fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2406000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic recession",
+          "summary": "Namibia enters a prolonged downturn."
+        },
+        {
+          "headline": "Geingob's popularity tested",
+          "summary": "Austerity measures bite."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia compete at Rio Olympics",
+        "summary": "Namibian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2472000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fishrot scandal brewing",
+          "summary": "Corruption in fisheries quotas begins to surface."
+        },
+        {
+          "headline": "Land conference held",
+          "summary": "October's talks address redistribution."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2017 AFCON",
+        "summary": "The Brave Warriors fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2541000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob seeks second term",
+          "summary": "The president confirms his 2019 bid."
+        },
+        {
+          "headline": "Economy contracts",
+          "summary": "Recession deepens for a third year."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia qualify for 2019 AFCON",
+        "summary": "The Brave Warriors reach the Egypt tournament."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2613000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob re-elected narrowly",
+          "summary": "The president wins November's vote with a sharply reduced margin."
+        },
+        {
+          "headline": "Fishrot scandal explodes",
+          "summary": "Ministers resign over the fisheries corruption affair."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia exit AFCON at group stage",
+        "summary": "The Brave Warriors go home early from the 2019 tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2688000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 batters economy",
+          "summary": "The pandemic deepens the recession."
+        },
+        {
+          "headline": "Opposition wins towns",
+          "summary": "November's local votes deliver historic opposition gains."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Namibia's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2770000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fishrot trials proceed",
+          "summary": "Courts hear the fisheries corruption case."
+        },
+        {
+          "headline": "Geingob's health watched",
+          "summary": "The president undergoes medical treatment."
+        }
+      ],
+      "sport": {
+        "headline": "Mboma wins 200m Olympic silver",
+        "summary": "Christine Mboma's Tokyo silver announces a new sprint star."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2851000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil discoveries excite Namibia",
+          "summary": "Offshore finds promise an economic transformation."
+        },
+        {
+          "headline": "Green hydrogen plans",
+          "summary": "Windhoek courts investment in clean energy."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia miss 2022 World Cup",
+        "summary": "The Brave Warriors fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2928000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil appraisal continues",
+          "summary": "Drilling confirms major offshore reserves."
+        },
+        {
+          "headline": "Geingob's health fails",
+          "summary": "The president's cancer treatment draws concern."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia qualify for 2023 AFCON",
+        "summary": "The Brave Warriors reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2990000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Geingob dies",
+          "summary": "The president dies in February; Vice President Mbumba succeeds him."
+        },
+        {
+          "headline": "Nandi-Ndaitwah wins presidency",
+          "summary": "November's vote makes Netumbo Nandi-Ndaitwah Africa's newest female president."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia reach AFCON round of 16",
+        "summary": "A first-ever knockout-stage berth highlights the 2023 campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3049000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nandi-Ndaitwah inaugurated",
+          "summary": "Namibia's first female president takes office in March."
+        },
+        {
+          "headline": "Oil development advances",
+          "summary": "Final investment decisions on offshore fields near."
+        }
+      ],
+      "sport": {
+        "headline": "Namibia chase 2026 World Cup spot",
+        "summary": "The Brave Warriors contend in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "country": "Eritrea",
+  "iso3": "ERI",
+  "currency": "ERN",
+  "currency_name": "Eritrean Nakfa",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2918000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "No war, no peace with Ethiopia",
+          "summary": "The border stalemate continues as Asmara rejects demarcation delays."
+        },
+        {
+          "headline": "Eritrea isolated",
+          "summary": "The regime's repression deepens its diplomatic isolation."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea fall short in AFCON qualifying",
+        "summary": "The Red Sea Camels miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2997000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eritrea accused over Somalia",
+          "summary": "The UN says Asmara arms Islamist insurgents in Mogadishu."
+        },
+        {
+          "headline": "Border tensions with Ethiopia",
+          "summary": "Troop buildups raise fears of renewed war."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2008 AFCON",
+        "summary": "The Red Sea Camels fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3063000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Border clash with Djibouti",
+          "summary": "June fighting at Ras Doumeira kills soldiers on both sides."
+        },
+        {
+          "headline": "UN demands Eritrean withdrawal",
+          "summary": "The Security Council orders Asmara out of Djiboutian territory."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea withdraw from qualifiers",
+        "summary": "The national team pull out of 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3120000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN imposes sanctions on Eritrea",
+          "summary": "December's arms embargo punishes Asmara over Somalia."
+        },
+        {
+          "headline": "Eritrea denies arming militants",
+          "summary": "Asmara rejects charges of supporting al-Shabaab."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrean athletes defect",
+        "summary": "Players and runners continue to abscond at international events."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 3170000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sanctions bite",
+          "summary": "The arms embargo and asset freezes squeeze the regime."
+        },
+        {
+          "headline": "Eritrea's isolation deepens",
+          "summary": "Asmara's few allies dwindle as repression continues."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea absent from World Cup",
+        "summary": "The Red Sea Camels sit out 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3214000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN expands sanctions",
+          "summary": "The Security Council tightens measures over Eritrea's regional meddling."
+        },
+        {
+          "headline": "Mass emigration continues",
+          "summary": "Thousands flee indefinite national service each month."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2012 AFCON",
+        "summary": "The Red Sea Camels fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3250000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ethiopia raids inside Eritrea",
+          "summary": "Addis Ababa admits March cross-border strikes on rebel bases."
+        },
+        {
+          "headline": "Eritrea denies losses",
+          "summary": "Asmara plays down the Ethiopian incursion."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea compete at London Olympics",
+        "summary": "Eritrean athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3281000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mutiny by soldiers in Asmara",
+          "summary": "January's brief army revolt seizes state TV before being crushed."
+        },
+        {
+          "headline": "Regime denies coup attempt",
+          "summary": "Asmara calls the incident an isolated protest."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2013 AFCON",
+        "summary": "The Red Sea Camels fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3311000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN accuses crimes against humanity",
+          "summary": "Investigators say Eritrea's indefinite conscription amounts to enslavement."
+        },
+        {
+          "headline": "Exodus accelerates",
+          "summary": "Eritreans become a top nationality seeking asylum in Europe."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2014 World Cup",
+        "summary": "The Red Sea Camels fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3343000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN commission damns regime",
+          "summary": "A landmark report documents systematic torture and forced labor."
+        },
+        {
+          "headline": "EU offers aid deal",
+          "summary": "Brussels proposes funds to stem migration, drawing criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2015 AFCON",
+        "summary": "The Red Sea Camels fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 3377000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Border clash with Ethiopia",
+          "summary": "June fighting at Tsorona is the worst in a decade."
+        },
+        {
+          "headline": "UN extends sanctions",
+          "summary": "The Security Council maintains the arms embargo."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea compete at Rio Olympics",
+        "summary": "Eritrean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 3413000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN keeps sanctions",
+          "summary": "The arms embargo stays despite Asmara's lobbying."
+        },
+        {
+          "headline": "Eritrea's repression unabated",
+          "summary": "Rights groups report continued roundups and detentions."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2017 AFCON",
+        "summary": "The Red Sea Camels fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3453000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Historic peace with Ethiopia",
+          "summary": "July's declaration by Abiy and Isaias ends 20 years of hostility."
+        },
+        {
+          "headline": "Border reopens",
+          "summary": "Families reunite as crossings open for the first time in decades."
+        },
+        {
+          "headline": "UN lifts sanctions",
+          "summary": "November's vote ends nine years of punitive measures."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2018 World Cup",
+        "summary": "The Red Sea Camels fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3497000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Peace dividend disappoints",
+          "summary": "The border closes again as reforms stall inside Eritrea."
+        },
+        {
+          "headline": "Isaias visits Addis Ababa",
+          "summary": "The leaders' warm ties persist despite limited change."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2019 AFCON",
+        "summary": "The Red Sea Camels fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eritrea joins Tigray war",
+          "summary": "Asmara's troops enter Ethiopia's Tigray region in November."
+        },
+        {
+          "headline": "Atrocities alleged",
+          "summary": "Witnesses accuse Eritrean soldiers of massacres and looting."
+        }
+      ],
+      "sport": {
+        "headline": "Biniam Girmay rises in cycling",
+        "summary": "The Eritrean sprinter becomes Africa's brightest cycling talent."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US sanctions Eritrea",
+          "summary": "Washington blacklists Asmara's military over Tigray atrocities."
+        },
+        {
+          "headline": "Eritrean troops stay in Tigray",
+          "summary": "Asmara denies withdrawal despite international pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2021 AFCON",
+        "summary": "The Red Sea Camels fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eritrea re-enters Tigray war",
+          "summary": "Asmara's forces join Ethiopia's renewed offensive in August."
+        },
+        {
+          "headline": "Ceasefire excludes Eritrea",
+          "summary": "November's Pretoria deal is signed without Asmara."
+        }
+      ],
+      "sport": {
+        "headline": "Girmay wins Giro stage",
+        "summary": "Biniam Girmay becomes the first Black African to win a Grand Tour stage."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eritrean troops remain in Tigray",
+          "summary": "Asmara keeps forces in Ethiopia despite the ceasefire."
+        },
+        {
+          "headline": "Eritrea rejoins East African bloc",
+          "summary": "Asmara returns to IGAD after 16 years."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea miss 2023 AFCON",
+        "summary": "The Red Sea Camels fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ethiopia-Eritrea tensions rise again",
+          "summary": "Addis Ababa's sea-access demands alarm Asmara."
+        },
+        {
+          "headline": "Eritrea's isolation persists",
+          "summary": "The regime remains one of the world's most closed."
+        }
+      ],
+      "sport": {
+        "headline": "Girmay wins Tour de France green jersey",
+        "summary": "Biniam Girmay becomes the first African to win the points classification."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "War fears grow with Ethiopia",
+          "summary": "Troop mobilizations on both sides raise alarm of renewed conflict."
+        },
+        {
+          "headline": "Eritrea courts regional allies",
+          "summary": "Asmara deepens ties with Egypt and Somalia against Ethiopia."
+        }
+      ],
+      "sport": {
+        "headline": "Eritrea's cyclists shine",
+        "summary": "Girmay and compatriots keep Eritrea at cycling's top table."
+      }
+    }
+  ]
+}

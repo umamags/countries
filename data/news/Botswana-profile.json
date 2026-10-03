@@ -1,0 +1,396 @@
+{
+  "country": "Botswana",
+  "iso3": "BWA",
+  "currency": "BWP",
+  "currency_name": "Botswana Pula",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1875000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Court backs Bushmen's land rights",
+          "summary": "A December ruling allows the San to return to the Central Kalahari Game Reserve."
+        },
+        {
+          "headline": "Diamond revenues fuel growth",
+          "summary": "Botswana remains one of Africa's fastest-growing economies on strong gem sales."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana fall short in World Cup qualifying",
+        "summary": "The Zebras miss out on Germany 2006 after a tough qualifying campaign."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1911000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Succession looms as Mogae prepares exit",
+          "summary": "The president signals he will hand over to Vice President Ian Khama in 2008."
+        },
+        {
+          "headline": "Botswana's democracy praised",
+          "summary": "Observers hold up Botswana as a model of African democratic stability."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2008 AFCON",
+        "summary": "The Zebras fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1950000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ian Khama becomes president",
+          "summary": "The former army commander takes office in April on Festus Mogae's retirement."
+        },
+        {
+          "headline": "Botswana takes hard line on Zimbabwe",
+          "summary": "Gaborone openly criticizes Mugabe's violent 2008 election crackdown."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana compete at Beijing Olympics",
+        "summary": "Botswana's athletes take part in the 2008 Games without winning a medal."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1991000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khama wins election",
+          "summary": "The ruling BDP takes October's vote, giving Khama his own mandate."
+        },
+        {
+          "headline": "Diamond crash hits economy",
+          "summary": "The global crisis slashes gem revenues and pushes Botswana into recession."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2010 AFCON",
+        "summary": "The Zebras fail to qualify for the Angola tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2033000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economy recovers on diamonds",
+          "summary": "Rebounding gem prices lift Botswana out of recession."
+        },
+        {
+          "headline": "Botswana criticizes Harare",
+          "summary": "Gaborone continues to press Zimbabwe's unity government on reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2010 World Cup",
+        "summary": "The Zebras fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2074000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Public servants strike for two months",
+          "summary": "An April-June strike over pay becomes Botswana's biggest labor unrest since independence."
+        },
+        {
+          "headline": "Khama's popularity tested",
+          "summary": "The strike and a heavy-handed response dent the president's standing."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana qualify for first AFCON",
+        "summary": "Topping their group, the Zebras reach the 2012 Africa Cup of Nations, a historic first."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2109000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party faces internal strains",
+          "summary": "The BDP grapples with dissent in the aftermath of the 2011 strike."
+        },
+        {
+          "headline": "Diamond revenues rebound",
+          "summary": "Strong gem sales restore growth after the crisis years."
+        }
+      ],
+      "sport": {
+        "headline": "Nijel Amos wins 800m Olympic silver",
+        "summary": "Amos's London 2012 silver is Botswana's first-ever Olympic medal; the Zebras debut at AFCON."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2141000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition unites ahead of 2014 vote",
+          "summary": "The Umbrella for Democratic Change coalition mounts a new challenge to BDP rule."
+        },
+        {
+          "headline": "Botswana's economy steadies",
+          "summary": "Diamond-dependent growth continues despite global headwinds."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2013 AFCON",
+        "summary": "The Zebras fail to build on their 2012 debut, missing the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2172000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "BDP wins election with reduced majority",
+          "summary": "Khama's party takes October's vote as the opposition makes historic gains."
+        },
+        {
+          "headline": "Opposition makes historic gains",
+          "summary": "The UDC wins urban seats, reshaping Botswana's political map."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2014 World Cup",
+        "summary": "The Zebras fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2203000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khama begins final term",
+          "summary": "The president starts his last years in office with succession speculation mounting."
+        },
+        {
+          "headline": "Diamond prices slump",
+          "summary": "Weak gem demand squeezes government revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2015 AFCON",
+        "summary": "The Zebras fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2235000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Khama prepares to step down",
+          "summary": "The president confirms he will retire in 2018, with Mokgweetsi Masisi to succeed him."
+        },
+        {
+          "headline": "Drought hits cattle industry",
+          "summary": "El Nino-driven dry spells devastate livestock, a pillar of rural livelihoods."
+        }
+      ],
+      "sport": {
+        "headline": "Amos leads Botswana at Rio Olympics",
+        "summary": "Flag-bearer Nijel Amos headlines Botswana's team at the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2267000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party tensions rise",
+          "summary": "Factions align ahead of the 2018 handover from Khama to Masisi."
+        },
+        {
+          "headline": "Botswana's economy grows steadily",
+          "summary": "Diamond revenues fund continued infrastructure spending."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2017 AFCON",
+        "summary": "The Zebras fail to qualify for the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2299000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Masisi becomes president",
+          "summary": "Mokgweetsi Masisi takes office in April on Ian Khama's retirement."
+        },
+        {
+          "headline": "Khama-Masisi rift emerges",
+          "summary": "The former president quickly falls out with his successor over policy and party control."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2018 World Cup",
+        "summary": "The Zebras fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2332000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Masisi wins election",
+          "summary": "The BDP takes October's vote despite Khama campaigning for the opposition."
+        },
+        {
+          "headline": "Khama quits ruling party",
+          "summary": "The former president leaves the BDP and backs its rivals, an unprecedented split."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2019 AFCON",
+        "summary": "The Zebras fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2366000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mystery elephant deaths in Okavango",
+          "summary": "Hundreds of elephants die in the delta; scientists later blame toxic algae."
+        },
+        {
+          "headline": "COVID-19 strains economy",
+          "summary": "Lockdowns and the diamond slump push Botswana into deep recession."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Botswana's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2401000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Botswana helps identify Omicron",
+          "summary": "Scientists in Botswana are among the first to detect the new COVID-19 variant in November."
+        },
+        {
+          "headline": "Khama lives in exile",
+          "summary": "The former president remains in South Africa amid a feud with Masisi."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2021 AFCON",
+        "summary": "The Zebras fail to qualify for the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2440000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arrest warrant issued for Khama",
+          "summary": "Courts issue a warrant for the ex-president over firearms charges he calls political."
+        },
+        {
+          "headline": "Economy rebounds on diamonds",
+          "summary": "Soaring gem prices lift Botswana's post-pandemic recovery."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2022 World Cup",
+        "summary": "The Zebras fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2480000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Botswana signs new De Beers deal",
+          "summary": "A renewed diamond sales pact secures Gaborone a bigger share of gem revenues."
+        },
+        {
+          "headline": "Elephant hunting quotas debated",
+          "summary": "Conservationists criticize Botswana's trophy hunting policy."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana miss 2023 AFCON",
+        "summary": "The Zebras fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2521000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins historic election",
+          "summary": "Duma Boko's UDC defeats the BDP in October, ending 58 years of one-party rule."
+        },
+        {
+          "headline": "Masisi concedes gracefully",
+          "summary": "The outgoing president accepts defeat, and Boko is inaugurated in November."
+        }
+      ],
+      "sport": {
+        "headline": "Tebogo wins Botswana's first Olympic gold",
+        "summary": "Letsile Tebogo's 200m triumph at Paris 2024 is Botswana's first Olympic title."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2549000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boko government settles in",
+          "summary": "The new administration grapples with a diamond market slump and tight budgets."
+        },
+        {
+          "headline": "Diamond slump strains finances",
+          "summary": "Weak global gem demand forces spending cuts in the diamond-dependent economy."
+        }
+      ],
+      "sport": {
+        "headline": "Botswana qualify for 2025 AFCON",
+        "summary": "The Zebras reach the Morocco tournament, only their second AFCON ever."
+      }
+    }
+  ]
+}

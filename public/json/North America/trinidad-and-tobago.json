@@ -1,0 +1,677 @@
+{
+  "country": "Trinidad and Tobago",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "population": "1,368,333",
+  "currency": "Trinidad and Tobago Dollar (TTD)",
+  "area": "5,131",
+  "landmarks": [
+    {
+      "name": "Queen's Park Savannah",
+      "writeup": "",
+      "wiki": {
+        "extract": "Queen's Park Savannah (QPS) is a park in Port of Spain, Trinidad and Tobago. Known locally as simply \"the Savannah\", it is Port of Spain's largest open space. It occupies about 260 acres (110\u00a0ha) of level land, and the distance around the perimeter is about 2.2\u00a0mi (3.5\u00a0km).",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/TnT_Port_of_Spain_3.jpg/330px-TnT_Port_of_Spain_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Queen's_Park_Savannah",
+        "coordinates": {
+          "lat": 10.669296,
+          "lon": -61.514082
+        }
+      }
+    },
+    {
+      "name": "Maracas Beach",
+      "writeup": "",
+      "wiki": {
+        "extract": "Trinidad is the largest and most populous island of the Republic of Trinidad and Tobago. The island lies 11\u00a0km (7\u00a0mi) off the northeastern coast of Venezuela and sits on the continental shelf of South America. It is the southernmost island in the Caribbean. With an area of 4,768\u00a0km2 (1,841\u00a0sq\u00a0mi), it is also the fifth-largest in the Caribbean.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Td-map.png/330px-Td-map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Trinidad",
+        "coordinates": {
+          "lat": 10.5,
+          "lon": -61.3
+        }
+      }
+    },
+    {
+      "name": "Pitch Lake",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Pitch Lake is the largest natural deposit of bitumen in the world, estimated to contain 10 million tons. It is located in Trinidad and Tobago, more specifically in La Brea in southwest Trinidad, within the Siparia Regional Corporation. The lake covers about 0.405 square kilometres and is reported to be 76.2 metres deep.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Trinidad_pitch_lake_ENG.png/330px-Trinidad_pitch_lake_ENG.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Pitch_Lake",
+        "coordinates": {
+          "lat": 10.2325,
+          "lon": -61.62805556
+        }
+      }
+    },
+    {
+      "name": "Asa Wright Nature Centre",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Asa Wright Nature Centre and Lodge is a nature resort and scientific research station in the Arima Valley of the Northern Range in Trinidad and Tobago. The centre is one of the top birdwatching spots in the Caribbean; a total of 256 species of birds have been recorded there. The centre is owned by a non-profit trust.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Asa_Wright_Center.jpg/330px-Asa_Wright_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Asa_Wright_Nature_Centre",
+        "coordinates": {
+          "lat": 10.7,
+          "lon": -61.3
+        }
+      }
+    },
+    {
+      "name": "Nylon Pool",
+      "writeup": "",
+      "wiki": {
+        "extract": "Nylon Pool is an in-sea shallow white sand coral pool that is located off Pigeon Point, Tobago, and is accessible by boat. It is close to the Buccoo Reef, a protected area full of coral reefs. It was named by Princess Margaret in 1962, due to its extreme clarity which reminded her of nylon stockings. It is also one of Trinidad and Tobago's most visited attractions.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Tobago_nylon_pool.jpg/330px-Tobago_nylon_pool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Nylon_Pool",
+        "coordinates": {
+          "lat": 11.17986,
+          "lon": -60.83381
+        }
+      }
+    }
+  ],
+  "head_of_state": "Prime Minister Kamla Persad-Bissessar",
+  "cultural_events": [
+    {
+      "name": "Trinidad and Tobago Carnival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Trinidad and Tobago Carnival is an annual event held on the Monday and Tuesday before Ash Wednesday in Trinidad and Tobago. This event is well known for participants' colorful costumes and exuberant celebrations. There are numerous cultural events such as \"band launch\" fetes running in the lead up to the street parade on Carnival Monday and Tuesday. Traditionally, the festival is associated with calypso music, developed by Afro-Trinidadians in 17th century Trinidad; however, Soca music has begun to replace calypso as the more popular musical genre for Carnival. Costume, stick-fighting, limbo, and steelpan competitions are important components of the festival.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Orange_Carnival_Masqueraders_in_Trinidad.jpg/330px-Orange_Carnival_Masqueraders_in_Trinidad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Carnival"
+      }
+    },
+    {
+      "name": "Divali Nagar",
+      "writeup": "",
+      "wiki": {
+        "extract": "Divali Nagar is an annual exposition of Hindu culture (broadly) and Indo-Trinidadian culture (specifically), it is associated with the celebration of Diwali in Trinidad and Tobago. The exposition is staged at the Divali Nagar Site, located in the borough of Chaguanas. This event was started in the Mid Centre Mall car park in late 1986. It was given a permanent site on the John Peters Road Extension off the Uriah Butler Highway a couple of years after.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Divalinagar.jpg/330px-Divalinagar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Divali_Nagar"
+      }
+    },
+    {
+      "name": "Panorama",
+      "writeup": "",
+      "wiki": {
+        "extract": "\n\nPanorama is an annual music competition of steelbands from Trinidad and Tobago, taking place since 1963. It is usually held around Carnival time.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Panorama_(music_competition)"
+      }
+    },
+    {
+      "name": "Hosay",
+      "writeup": "",
+      "wiki": {
+        "extract": "Hosay is a Indo-Caribbean commemoration that is popularly observed in Trinidad and Tobago, Jamaica and other Caribbean countries. In Trinidad and Tobago, multi-coloured model mausoleums or mosque-shaped model tombs known as tadjah are used to display the symbolic part of this commemoration. They are built and paraded, then ritually taken to the sea on last day of observance, and finally discarded into the water.\nThe word tadjah derived from the Arabic word \u062a\u0639\u0632\u064a\u0629 ta\u02bfziya and signifies different cultural meanings depending on the region, time period, occasion, and religion. In Guyana, and Suriname, the festival is called Taziya or in Caribbean Hindustani tadjah in reference to these floats, arguably the most visible and decorative element of this festival.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/A_tadjah_at_Hosay.jpg/330px-A_tadjah_at_Hosay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Hosay"
+      }
+    },
+    {
+      "name": "Parang",
+      "writeup": "",
+      "wiki": {
+        "extract": "Parang is a popular folk music originating from Venezuela and Trinidad and Tobago that was brought to Trinidad and Tobago by Venezuelan migrants who were primarily of Amerindian, Spanish, Mestizo, Pardo, and African heritage, something which is strongly reflected in the music itself. The word is derived from two Spanish words: parranda, meaning \"a spree\u201d, and parar meaning \"to stop\".",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2012_Trinidad_%26_Tobago_parang.jpg/330px-2012_Trinidad_%26_Tobago_parang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Parang"
+      }
+    }
+  ],
+  "food_writeup": "Trinidad and Tobago's food is a celebrated fusion of African, Indian, Chinese and Creole cooking. Doubles, curried chickpeas in fried flatbread, is the beloved street food, alongside roti, pelau, callaloo and bake and shark at Maracas Beach. Tobago adds crab and dumplings, its signature dish.",
+  "brief_history": "Trinidad was Spanish until Britain seized it in 1797; after emancipation, indentured Indians arrived to work the sugar estates, creating a diverse society. Oil transformed the economy in the 20th century, and the nation became independent in 1962 and a republic in 1976. Carnival, calypso and steelpan made its culture world-famous.",
+  "important_people": [
+    {
+      "name": "Eric Williams",
+      "description": ""
+    },
+    {
+      "name": "V.S. Naipaul",
+      "description": ""
+    },
+    {
+      "name": "Brian Lara",
+      "description": ""
+    },
+    {
+      "name": "Hasely Crawford",
+      "description": ""
+    },
+    {
+      "name": "Kamla Persad-Bissessar",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "Trinidad and Tobago has no armed conflict but faces a severe violent-crime crisis, with gangs driving one of the region's highest murder rates; a state of emergency was declared in December 2024. Tensions also persist over the large Venezuelan migrant population.",
+  "five_youtube_video_titles": [
+    "Trinidad and Tobago - Geography Now!",
+    "Trinidad Carnival: The Greatest Show on Earth",
+    "Pitch Lake: The World's Largest Natural Asphalt Lake",
+    "History of Trinidad and Tobago",
+    "Top 10 Things to Do in Trinidad and Tobago"
+  ],
+  "cities": [
+    {
+      "name": "Port of Spain",
+      "capital": true,
+      "lat": 10.66666667,
+      "lon": -61.51666667
+    },
+    {
+      "name": "San Fernando",
+      "capital": false,
+      "lat": 10.28333333,
+      "lon": -61.46666667
+    },
+    {
+      "name": "Chaguanas",
+      "capital": false,
+      "lat": 10.51666667,
+      "lon": -61.4
+    },
+    {
+      "name": "Arima",
+      "capital": false,
+      "lat": 10.63333333,
+      "lon": -61.28333333
+    },
+    {
+      "name": "Scarborough",
+      "capital": false,
+      "lat": 11.18333333,
+      "lon": -60.7375
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/trinidad-and-tobago.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Trinidad_and_Tobago-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 18.6,
+      "gross_debt_pct_gdp": 32.7,
+      "gross_debt_usd_billion": 6.08,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate",
+      "population": 1297944,
+      "exchange_rate_usd": 6.3123,
+      "main_events": [
+        {
+          "headline": "Manning rides the energy boom",
+          "summary": "High oil and gas prices fill state coffers under Patrick Manning's PNM government."
+        },
+        {
+          "headline": "Crime wave deepens",
+          "summary": "Murders climb as gang violence spreads, becoming the dominant public concern."
+        }
+      ],
+      "sport": {
+        "headline": "Soca Warriors at the World Cup",
+        "summary": "Trinidad and Tobago make their FIFA World Cup debut in Germany, drawing with Sweden."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 21.94,
+      "gross_debt_pct_gdp": 29.4,
+      "gross_debt_usd_billion": 6.45,
+      "inflation_cpi_pct": 7.9,
+      "status": "Historical / IMF estimate",
+      "population": 1303188,
+      "exchange_rate_usd": 6.328,
+      "main_events": [
+        {
+          "headline": "Manning wins a third term",
+          "summary": "The PNM defeats the UNC 26-15 in the November general election."
+        },
+        {
+          "headline": "Queen's Park Oval hosts the Cricket World Cup",
+          "summary": "Trinidad stages 2007 World Cup matches at the historic Oval."
+        }
+      ],
+      "sport": {
+        "headline": "Brian Lara bows out",
+        "summary": "Brian Lara retires from international cricket after the World Cup, ending a legendary career."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 28.19,
+      "gross_debt_pct_gdp": 24.6,
+      "gross_debt_usd_billion": 6.94,
+      "inflation_cpi_pct": 12,
+      "status": "Historical / IMF estimate",
+      "population": 1308587,
+      "exchange_rate_usd": 6.2894,
+      "main_events": [
+        {
+          "headline": "Energy prices crash late in the year",
+          "summary": "The oil price collapse clouds the boom as the global crisis bites."
+        },
+        {
+          "headline": "Manning's mega-projects questioned",
+          "summary": "The opposition attacks costly summit preparations and construction projects."
+        }
+      ],
+      "sport": {
+        "headline": "Thompson's 100m silver in Beijing",
+        "summary": "Richard Thompson takes Olympic 100m silver behind Usain Bolt's world record."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 19.52,
+      "gross_debt_pct_gdp": 34.2,
+      "gross_debt_usd_billion": 6.68,
+      "inflation_cpi_pct": 7,
+      "status": "Historical / IMF estimate",
+      "population": 1310106,
+      "exchange_rate_usd": 6.3249,
+      "main_events": [
+        {
+          "headline": "Obama comes to Port of Spain",
+          "summary": "The Summit of the Americas in April brings President Obama and regional leaders to Trinidad."
+        },
+        {
+          "headline": "CHOGM follows in November",
+          "summary": "The Commonwealth Heads of Government Meeting adds to a big diplomatic year."
+        }
+      ],
+      "sport": {
+        "headline": "T&T reach the Champions League T20 final",
+        "summary": "Trinidad and Tobago reach the final of the inaugural Champions League Twenty20 in India."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 22.52,
+      "gross_debt_pct_gdp": 28.9,
+      "gross_debt_usd_billion": 6.51,
+      "inflation_cpi_pct": 10.5,
+      "status": "Historical / IMF estimate",
+      "population": 1317714,
+      "exchange_rate_usd": 6.3755,
+      "main_events": [
+        {
+          "headline": "Kamla makes history",
+          "summary": "Kamla Persad-Bissessar's People's Partnership ousts Manning in May; she becomes the first woman PM."
+        },
+        {
+          "headline": "New government, high hopes",
+          "summary": "The coalition promises transparency and crime-fighting after the PNM's defeat."
+        }
+      ],
+      "sport": {
+        "headline": "Pollard's IPL breakthrough",
+        "summary": "Kieron Pollard's big-hitting earns him a big-money IPL deal with Mumbai Indians."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 25.79,
+      "gross_debt_pct_gdp": 39.2,
+      "gross_debt_usd_billion": 10.11,
+      "inflation_cpi_pct": 5.1,
+      "status": "Historical / IMF estimate",
+      "population": 1328019,
+      "exchange_rate_usd": 6.4093,
+      "main_events": [
+        {
+          "headline": "State of emergency over crime",
+          "summary": "Persad-Bissessar declares a state of emergency in August amid gang warfare."
+        },
+        {
+          "headline": "Curfews and crackdowns",
+          "summary": "Thousands are detained under emergency powers as murders fall temporarily."
+        }
+      ],
+      "sport": {
+        "headline": "T&T win the Caribbean Twenty20",
+        "summary": "Trinidad and Tobago lift the Caribbean T20 title."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 27.15,
+      "gross_debt_pct_gdp": 32.9,
+      "gross_debt_usd_billion": 8.93,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate",
+      "population": 1335194,
+      "exchange_rate_usd": 6.4296,
+      "main_events": [
+        {
+          "headline": "Section 34 scandal rocks the government",
+          "summary": "Early proclamation of a controversial legal clause frees two financiers; the justice minister is fired."
+        },
+        {
+          "headline": "Economy slows",
+          "summary": "Energy revenues soften as the government faces by-election tests."
+        }
+      ],
+      "sport": {
+        "headline": "Walcott wins Olympic javelin gold",
+        "summary": "Keshorn Walcott, 19, wins javelin gold at London 2012, T&T's first Olympic gold since 1976."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 28.56,
+      "gross_debt_pct_gdp": 32.9,
+      "gross_debt_usd_billion": 9.4,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate",
+      "population": 1340557,
+      "exchange_rate_usd": 6.4426,
+      "main_events": [
+        {
+          "headline": "Warner wins Chaguanas West",
+          "summary": "Jack Warner's new ILP wins the July by-election, humiliating the UNC."
+        },
+        {
+          "headline": "Local elections loom",
+          "summary": "The ruling coalition braces for a tough test in October's local polls."
+        }
+      ],
+      "sport": {
+        "headline": "Jehue Gordon's world gold",
+        "summary": "Jehue Gordon wins 400m hurdles gold at the World Championships in Moscow."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 29.47,
+      "gross_debt_pct_gdp": 37.1,
+      "gross_debt_usd_billion": 10.93,
+      "inflation_cpi_pct": 5.7,
+      "status": "Historical / IMF estimate",
+      "population": 1345343,
+      "exchange_rate_usd": 6.4091,
+      "main_events": [
+        {
+          "headline": "Runoff bill collapses",
+          "summary": "The government's constitutional reform bill fails in the Senate after street protests."
+        },
+        {
+          "headline": "Petrotrin troubles grow",
+          "summary": "The state oil company bleeds money as oil prices slide."
+        }
+      ],
+      "sport": {
+        "headline": "Windies abandon the India tour",
+        "summary": "Dwayne Bravo leads a player revolt as the West Indies quit their India tour over pay."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 26.84,
+      "gross_debt_pct_gdp": 43.2,
+      "gross_debt_usd_billion": 11.6,
+      "inflation_cpi_pct": 4.7,
+      "status": "Historical / IMF estimate",
+      "population": 1349667,
+      "exchange_rate_usd": 6.3774,
+      "main_events": [
+        {
+          "headline": "Rowley returns the PNM to power",
+          "summary": "Keith Rowley's PNM defeats Persad-Bissessar 23-18 in the September election."
+        },
+        {
+          "headline": "Warner arrested in FIFA probe",
+          "summary": "Jack Warner is arrested in May over US corruption charges and fights extradition."
+        }
+      ],
+      "sport": {
+        "headline": "Walcott's Pan Am gold",
+        "summary": "Keshorn Walcott wins javelin gold at the Pan American Games in Toronto."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 23.62,
+      "gross_debt_pct_gdp": 53.3,
+      "gross_debt_usd_billion": 12.59,
+      "inflation_cpi_pct": 3.1,
+      "status": "Historical / IMF estimate",
+      "population": 1353895,
+      "exchange_rate_usd": 6.669,
+      "main_events": [
+        {
+          "headline": "Recession bites",
+          "summary": "Falling energy prices push the economy into recession; forex shortages emerge."
+        },
+        {
+          "headline": "Austerity budget",
+          "summary": "The Rowley government cuts fuel subsidies and widens the tax net."
+        }
+      ],
+      "sport": {
+        "headline": "Bravo's 'Champion' dance goes global",
+        "summary": "Dwayne Bravo stars as the West Indies win the World Twenty20 in India."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 23.83,
+      "gross_debt_pct_gdp": 57.2,
+      "gross_debt_usd_billion": 13.63,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate",
+      "population": 1356633,
+      "exchange_rate_usd": 6.7795,
+      "main_events": [
+        {
+          "headline": "Tropical Storm Bret floods Trinidad",
+          "summary": "Bret lashes the islands in June, causing severe flooding."
+        },
+        {
+          "headline": "Murder toll climbs",
+          "summary": "Homicides rise toward record levels as gang violence intensifies."
+        }
+      ],
+      "sport": {
+        "headline": "Richards takes world bronze",
+        "summary": "Jereem Richards wins 200m bronze at the World Championships in London."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 23.88,
+      "gross_debt_pct_gdp": 58.1,
+      "gross_debt_usd_billion": 13.88,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate",
+      "population": 1359193,
+      "exchange_rate_usd": 6.7708,
+      "main_events": [
+        {
+          "headline": "Petrotrin refinery to close",
+          "summary": "The government announces the closure of the loss-making Pointe-a-Pierre refinery in August."
+        },
+        {
+          "headline": "Thousands of jobs at risk",
+          "summary": "The refinery shutdown threatens communities across south Trinidad."
+        }
+      ],
+      "sport": {
+        "headline": "Richards strikes Commonwealth gold",
+        "summary": "Jereem Richards wins 200m gold at the Commonwealth Games on the Gold Coast."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 23.48,
+      "gross_debt_pct_gdp": 62.9,
+      "gross_debt_usd_billion": 14.77,
+      "inflation_cpi_pct": 1,
+      "status": "Historical / IMF estimate",
+      "population": 1363985,
+      "exchange_rate_usd": 6.7543,
+      "main_events": [
+        {
+          "headline": "Venezuelan registration drive",
+          "summary": "Thousands of Venezuelan migrants register in a two-week amnesty in June."
+        },
+        {
+          "headline": "Economy stabilizes",
+          "summary": "Energy prices recover modestly; the government touts a turnaround."
+        }
+      ],
+      "sport": {
+        "headline": "Pooran's maiden World Cup hundred",
+        "summary": "Nicholas Pooran scores his first ODI century for the West Indies at the World Cup in England."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 20.89,
+      "gross_debt_pct_gdp": 81.6,
+      "gross_debt_usd_billion": 17.05,
+      "inflation_cpi_pct": 0.6,
+      "status": "Historical / IMF estimate",
+      "population": 1366725,
+      "exchange_rate_usd": 6.7511,
+      "main_events": [
+        {
+          "headline": "PNM re-elected in the pandemic",
+          "summary": "Rowley wins the August election 22-19 as COVID rages."
+        },
+        {
+          "headline": "Borders shut, lockdowns bite",
+          "summary": "Strict COVID measures close the economy for months."
+        }
+      ],
+      "sport": {
+        "headline": "TKR's perfect CPL season",
+        "summary": "Trinbago Knight Riders go unbeaten to win the Caribbean Premier League."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 24.22,
+      "gross_debt_pct_gdp": 80.2,
+      "gross_debt_usd_billion": 19.43,
+      "inflation_cpi_pct": 2.1,
+      "status": "Historical / IMF estimate",
+      "population": 1367558,
+      "exchange_rate_usd": 6.7585,
+      "main_events": [
+        {
+          "headline": "Delta wave overwhelms hospitals",
+          "summary": "A deadly COVID surge fills hospitals; vaccinations lag."
+        },
+        {
+          "headline": "Vaccination push",
+          "summary": "The government scrambles to vaccinate as deaths mount."
+        }
+      ],
+      "sport": {
+        "headline": "Bravo retires from internationals",
+        "summary": "Dwayne Bravo calls time on his West Indies career after the T20 World Cup."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 28.34,
+      "gross_debt_pct_gdp": 69.9,
+      "gross_debt_usd_billion": 19.81,
+      "inflation_cpi_pct": 5.8,
+      "status": "Historical / IMF estimate",
+      "population": 1365805,
+      "exchange_rate_usd": 6.7541,
+      "main_events": [
+        {
+          "headline": "Paria diving tragedy",
+          "summary": "Four divers die in a Paria pipeline in February; the botched rescue sparks national outrage."
+        },
+        {
+          "headline": "'Taste of Carnival' replaces full Carnival",
+          "summary": "COVID curbs scale back Carnival to a smaller festival."
+        }
+      ],
+      "sport": {
+        "headline": "Richards wins Commonwealth 200m gold",
+        "summary": "Jereem Richards wins 200m gold at the Commonwealth Games in Birmingham."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 25.04,
+      "gross_debt_pct_gdp": 78.2,
+      "gross_debt_usd_billion": 19.58,
+      "inflation_cpi_pct": 4.6,
+      "status": "Historical / IMF estimate",
+      "population": 1367510,
+      "exchange_rate_usd": 6.7503,
+      "main_events": [
+        {
+          "headline": "Trinidad hosts CARICOM at 50",
+          "summary": "Port of Spain hosts the 45th CARICOM summit marking the community's 50th anniversary."
+        },
+        {
+          "headline": "Murders climb",
+          "summary": "Homicides climb as gang violence continues to plague the country."
+        }
+      ],
+      "sport": {
+        "headline": "Windies miss the World Cup",
+        "summary": "The West Indies fail to qualify for the ODI World Cup for the first time."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 25.63,
+      "gross_debt_pct_gdp": 81.8,
+      "gross_debt_usd_billion": 20.97,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate",
+      "population": 1368333,
+      "exchange_rate_usd": 6.7501,
+      "main_events": [
+        {
+          "headline": "Beryl brushes Tobago",
+          "summary": "Hurricane Beryl damages Tobago in July while Trinidad is spared."
+        },
+        {
+          "headline": "State of emergency declared",
+          "summary": "Rowley declares a crime emergency in December amid gang bloodshed."
+        }
+      ],
+      "sport": {
+        "headline": "T&T co-hosts the T20 World Cup",
+        "summary": "Matches are staged at the Brian Lara Cricket Academy as the Caribbean hosts the T20 World Cup."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 25.93,
+      "gross_debt_pct_gdp": 84.2,
+      "gross_debt_usd_billion": 21.83,
+      "inflation_cpi_pct": 1,
+      "status": "IMF projection",
+      "population": 1367764,
+      "exchange_rate_usd": 6.7488,
+      "main_events": [
+        {
+          "headline": "Kamla's comeback",
+          "summary": "The UNC sweeps the April election 26-13; Kamla Persad-Bissessar returns as PM a decade after losing office."
+        },
+        {
+          "headline": "New government vows crime crackdown",
+          "summary": "The Persad-Bissessar administration promises action on gangs and the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Yorke's Warriors eye the World Cup",
+        "summary": "Dwight Yorke coaches the Soca Warriors through 2026 World Cup qualifying."
+      }
+    }
+  ]
+}

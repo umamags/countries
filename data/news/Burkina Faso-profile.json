@@ -1,0 +1,404 @@
+{
+  "country": "Burkina Faso",
+  "iso3": "BFA",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 14374000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Compaore hosts Ivorian peace talks",
+          "summary": "Ouagadougou becomes the venue for negotiations to end Ivory Coast's civil conflict."
+        },
+        {
+          "headline": "Gold mining boom begins",
+          "summary": "New mines open as Burkina Faso emerges as a growing gold producer."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso miss 2006 World Cup",
+        "summary": "The Stallions fall short in qualifying for Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 14816000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ouagadougou peace deal signed for Ivory Coast",
+          "summary": "March's agreement, brokered by Compaore, brings rebels into Ivory Coast's government."
+        },
+        {
+          "headline": "Ruling party wins legislative vote",
+          "summary": "Compaore's CDP takes May's parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso miss 2008 AFCON",
+        "summary": "The Stallions fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 15258000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Food price riots hit Ouagadougou",
+          "summary": "February protests over living costs turn violent in the capital."
+        },
+        {
+          "headline": "Government reshuffles cabinet",
+          "summary": "Compaore changes ministers in response to the unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso compete at Beijing Olympics",
+        "summary": "Burkinabe athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 15710000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Floods devastate Ouagadougou",
+          "summary": "September deluges kill several people and displace thousands in the capital."
+        },
+        {
+          "headline": "Gold boom transforms economy",
+          "summary": "Mining overtakes cotton as Burkina Faso's top export earner."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso qualify for 2010 AFCON",
+        "summary": "The Stallions book a place at the Angola tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 16176000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Compaore re-elected president",
+          "summary": "The incumbent wins November's vote amid opposition fraud claims."
+        },
+        {
+          "headline": "Burkina mediates Guinea's transition",
+          "summary": "Compaore brokers the Ouagadougou accords guiding Guinea toward elections."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso exit AFCON at group stage",
+        "summary": "The Stallions go home early from the 2010 tournament in Angola."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 16662000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Army mutinies shake the regime",
+          "summary": "Months of soldier revolts over pay rattle Compaore's two-decade rule."
+        },
+        {
+          "headline": "Protests spread beyond the barracks",
+          "summary": "Students and traders join demonstrations against the cost of living."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso qualify for 2012 AFCON",
+        "summary": "The Stallions reach the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 17172000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party wins legislative elections",
+          "summary": "Compaore's CDP takes December's parliamentary vote."
+        },
+        {
+          "headline": "Burkina mediates in Mali crisis",
+          "summary": "Compaore leads ECOWAS efforts as northern Mali falls to rebels and jihadists."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso exit AFCON winless",
+        "summary": "Three defeats at the 2012 tournament send the Stallions home bottom of their group."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 17695000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Senate plan sparks protests",
+          "summary": "Opposition marches denounce a new senate seen as a ploy to extend Compaore's rule."
+        },
+        {
+          "headline": "Burkina contributes troops to Mali",
+          "summary": "Burkinabe soldiers join the African force fighting Islamists in northern Mali."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso reach AFCON final",
+        "summary": "A penalty shootout win over Ghana takes the Stallions to the final, lost 1-0 to Nigeria."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 18229000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Popular uprising ousts Compaore",
+          "summary": "Hundreds of thousands march in October; parliament is torched and the president flees to Ivory Coast."
+        },
+        {
+          "headline": "Military seizes power",
+          "summary": "The army takes over after Compaore's fall, promising a civilian transition."
+        },
+        {
+          "headline": "Transitional government formed",
+          "summary": "Diplomat Michel Kafando is named interim president in November under a transition charter."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso lose World Cup playoff",
+        "summary": "Algeria edge the Stallions on away goals to deny them a first World Cup."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 18777000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt fails",
+          "summary": "General Diendere's September power grab collapses within a week under popular and regional pressure."
+        },
+        {
+          "headline": "Kabore wins presidential election",
+          "summary": "Roch Kabore wins November's vote, completing the return to civilian rule."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso exit AFCON at group stage",
+        "summary": "The Stallions finish bottom of their group at the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 19335000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ouagadougou hotel attack kills dozens",
+          "summary": "AQIM gunmen storm the Splendid Hotel in January in the capital's worst terror attack."
+        },
+        {
+          "headline": "Kabore inaugurated president",
+          "summary": "The new president takes office promising security and reconciliation."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso compete at Rio Olympics",
+        "summary": "Burkinabe athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 19894000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Restaurant attack hits Ouagadougou",
+          "summary": "Gunmen kill diners at a Turkish restaurant in August in a second major capital attack."
+        },
+        {
+          "headline": "Jihadist insurgency spreads",
+          "summary": "Violence escalates in the north as militant groups multiply."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso win AFCON bronze",
+        "summary": "Victory over Ghana in the third-place match caps the Stallions' best AFCON since 2013."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 20438000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Twin attacks hit army HQ and French embassy",
+          "summary": "Coordinated March assaults in Ouagadougou kill several soldiers and attackers."
+        },
+        {
+          "headline": "Insurgency worsens in the north",
+          "summary": "Jihadist ambushes displace tens of thousands in the Sahel region."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso miss 2018 World Cup",
+        "summary": "The Stallions fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 20962000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Jihadist violence escalates sharply",
+          "summary": "Massacres of civilians mount as the state loses control of rural areas."
+        },
+        {
+          "headline": "Kabore under growing pressure",
+          "summary": "Opposition and citizens demand action as insecurity dominates politics."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso miss 2019 AFCON",
+        "summary": "The Stallions fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 21479000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kabore re-elected president",
+          "summary": "The incumbent wins November's vote despite the raging insurgency."
+        },
+        {
+          "headline": "Displacement crisis deepens",
+          "summary": "More than a million Burkinabe flee jihadist violence."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Burkina Faso's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 21995000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Inata massacre kills dozens of gendarmes",
+          "summary": "A November jihadist raid on a northern outpost becomes one of the army's deadliest losses."
+        },
+        {
+          "headline": "Coup rumors swirl around Kabore",
+          "summary": "Growing military discontent fuels speculation of a putsch."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso qualify for 2021 AFCON",
+        "summary": "The Stallions reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 22509000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Damiba ousts Kabore in January coup",
+          "summary": "Soldiers seize power on January 24, citing failure to stop the insurgency."
+        },
+        {
+          "headline": "Traore ousts Damiba in September coup",
+          "summary": "Captain Ibrahim Traore takes power in a second putsch within eight months."
+        },
+        {
+          "headline": "Junta pivots toward Russia",
+          "summary": "Ouagadougou expels French forces and deepens ties with Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso reach AFCON semifinals",
+        "summary": "A run to the last four in Cameroon ends with defeat to Senegal."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 23026000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "French troops complete withdrawal",
+          "summary": "The last French soldiers leave in February at the junta's demand."
+        },
+        {
+          "headline": "Burkina, Mali, Niger form AES alliance",
+          "summary": "September's Liptako-Gourma charter creates a Sahel states mutual-defense pact."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso qualify for 2023 AFCON",
+        "summary": "The Stallions book a place at the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 23554000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "AES states quit ECOWAS",
+          "summary": "Burkina Faso, Mali and Niger announce their joint withdrawal in January."
+        },
+        {
+          "headline": "Junta extends transition by five years",
+          "summary": "May's national dialogue allows Traore to remain in power until 2029."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso exit AFCON in round of 16",
+        "summary": "A 2-1 defeat to Mali ends the Stallions' 2023 campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 24095000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "AES confederation takes shape",
+          "summary": "The Sahel alliance deepens integration with joint institutions and a common passport."
+        },
+        {
+          "headline": "Jihadist attacks continue unabated",
+          "summary": "Large-scale raids on towns and military bases persist across the north and east."
+        }
+      ],
+      "sport": {
+        "headline": "Burkina Faso qualify for 2025 AFCON",
+        "summary": "The Stallions secure a place at the Morocco tournament."
+      }
+    }
+  ]
+}

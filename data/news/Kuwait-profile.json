@@ -1,0 +1,396 @@
+{
+  "country": "Kuwait",
+  "iso3": "KWT",
+  "currency": "KWD",
+  "currency_name": "Kuwaiti Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2328000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Emir dies, succession crisis",
+          "summary": "Sheikh Jaber dies; parliament deposes the ailing successor."
+        },
+        {
+          "headline": "Sabah becomes emir",
+          "summary": "Sheikh Sabah Al-Ahmad takes the throne in January."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Kuwaiti athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2411000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament dissolved",
+          "summary": "The emir dissolves the assembly amid government feuds."
+        },
+        {
+          "headline": "Oil boom",
+          "summary": "Record crude prices swell state coffers."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Kuwait contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2778000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament dissolved again",
+          "summary": "Fresh elections follow another assembly-government clash."
+        },
+        {
+          "headline": "Women MPs elected",
+          "summary": "Four women win seats for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Kuwaiti athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2778000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held",
+          "summary": "May polls return an opposition-tinged parliament."
+        },
+        {
+          "headline": "Gridlock continues",
+          "summary": "The assembly and cabinet remain at loggerheads."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Kuwait contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2933000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament stormed",
+          "summary": "Opposition MPs and protesters briefly seize the assembly."
+        },
+        {
+          "headline": "Political crisis deepens",
+          "summary": "Repeated dissolutions paralyze policymaking."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup triumph",
+        "summary": "Kuwait win the Gulf Cup in Yemen."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3247000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring protests",
+          "summary": "Demonstrations demand the PM's ouster."
+        },
+        {
+          "headline": "PM resigns",
+          "summary": "Sheikh Nasser quits under opposition pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Kuwait exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3428000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Court dissolves parliament",
+          "summary": "Judges annul the February election results."
+        },
+        {
+          "headline": "Boycott calls",
+          "summary": "The opposition shuns December polls."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Kuwaiti athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3588000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held",
+          "summary": "July polls proceed amid opposition boycott."
+        },
+        {
+          "headline": "Political calm",
+          "summary": "A quieter assembly allows some legislation."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Kuwait contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3744000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price crash",
+          "summary": "Falling crude squeezes the welfare state."
+        },
+        {
+          "headline": "Deficit looms",
+          "summary": "Kuwait faces its first budget shortfall in years."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Kuwaiti athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3925000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mosque bombing",
+          "summary": "An ISIS suicide attack kills worshippers in June."
+        },
+        {
+          "headline": "FIFA suspends Kuwait",
+          "summary": "Government interference triggers a football ban."
+        }
+      ],
+      "sport": {
+        "headline": "Banned by FIFA",
+        "summary": "The suspension sidelines Kuwait from qualifiers."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4083000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held",
+          "summary": "November polls return opposition gains."
+        },
+        {
+          "headline": "Oil cuts",
+          "summary": "OPEC deals aim to lift crude prices."
+        }
+      ],
+      "sport": {
+        "headline": "Still suspended",
+        "summary": "The FIFA ban keeps Kuwait out of the Rio qualifiers."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4227000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Qatar mediation",
+          "summary": "The emir shuttles between Gulf rivals in the blockade."
+        },
+        {
+          "headline": "FIFA ban lifted",
+          "summary": "Kuwait returns to international football."
+        }
+      ],
+      "sport": {
+        "headline": "Return to football",
+        "summary": "Kuwait rejoin international competition."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 4420000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary tensions",
+          "summary": "Grillings of ministers resume."
+        },
+        {
+          "headline": "Silk City plans",
+          "summary": "Megaproject ambitions persist amid deficits."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Kuwaiti athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 4465000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government resigns",
+          "summary": "The cabinet quits after parliamentary pressure."
+        },
+        {
+          "headline": "New PM named",
+          "summary": "Sheikh Sabah Al-Khaled forms a government."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Kuwait contest the Gulf Cup in Qatar."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 4336000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Emir Sabah dies",
+          "summary": "The 91-year-old ruler dies in September."
+        },
+        {
+          "headline": "Nawaf becomes emir",
+          "summary": "Crown Prince Nawaf succeeds his half-brother."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Kuwaiti football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 4386000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections aftermath",
+          "summary": "Parliament-government feuds continue."
+        },
+        {
+          "headline": "Amnesty",
+          "summary": "The emir pardons political dissidents."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Kuwait contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 4794000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament dissolved",
+          "summary": "The emir calls fresh elections."
+        },
+        {
+          "headline": "Opposition wins",
+          "summary": "September polls deliver opposition gains."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup hosted",
+        "summary": "Kuwait prepares to host the Gulf Cup."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 4913000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Emir Nawaf dies",
+          "summary": "The ruler dies in December aged 86."
+        },
+        {
+          "headline": "Mishal becomes emir",
+          "summary": "Sheikh Mishal succeeds to the throne."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Kuwait contest the Gulf Cup in Iraq."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5012000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament dissolved again",
+          "summary": "The new emir suspends parts of the constitution."
+        },
+        {
+          "headline": "Crackdown on dissent",
+          "summary": "Critics face prosecution under the new order."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup hosted",
+        "summary": "Kuwait host the Gulf Cup tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5112000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political freeze",
+          "summary": "Parliament remains suspended under the emir's decree."
+        },
+        {
+          "headline": "Economic reforms",
+          "summary": "The government pushes diversification plans."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Kuwait contest 2026 World Cup qualifying."
+      }
+    }
+  ]
+}

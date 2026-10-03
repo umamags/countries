@@ -1,0 +1,396 @@
+{
+  "country": "Bahamas",
+  "iso3": "BHS",
+  "currency": "BSD",
+  "currency_name": "Bahamian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 332000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Christie's PLP under pressure",
+          "summary": "Crime and immigration dominate debate in the government's final year ahead of 2007 elections, with polls tightening."
+        },
+        {
+          "headline": "Tourism stays strong",
+          "summary": "Visitor arrivals hold steady despite regional hurricane worries in a solid year for the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Sprinters at the Commonwealth Games",
+        "summary": "Bahamian track athletes compete in March at the Melbourne Commonwealth Games as the athletics program rebuilds."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 337000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ingraham returns to power",
+          "summary": "May election gives the FNM victory over Christie's PLP on crime and the economy."
+        },
+        {
+          "headline": "Baha Mar project proposed",
+          "summary": "A proposed mega-resort on Cable Beach in Nassau promises thousands of jobs and investment."
+        }
+      ],
+      "sport": {
+        "headline": "Medals at the Rio Pan Ams",
+        "summary": "Bahamian athletes win medals in July at the Pan American Games, led by the sprinters."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 342000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits tourism",
+          "summary": "The global meltdown slashes visitor arrivals and government revenue through the fall, forcing budget cuts."
+        },
+        {
+          "headline": "Crime wave alarms Nassau",
+          "summary": "A rising murder count prompts new policing measures in Nassau as the year turns violent."
+        }
+      ],
+      "sport": {
+        "headline": "No medals in Beijing",
+        "summary": "The Bahamas leaves the Beijing Olympics without a medal in a disappointing August for the sprint squad."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 347000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Recession grips the islands",
+          "summary": "Tourism revenues plunge and unemployment climbs through the year as the global crisis lingers into 2009."
+        },
+        {
+          "headline": "Baha Mar stalls",
+          "summary": "Financing troubles stall the Cable Beach mega-resort project amid the credit crunch, leaving workers waiting."
+        }
+      ],
+      "sport": {
+        "headline": "Finalists at the Berlin Worlds",
+        "summary": "Bahamian sprinters reach finals in August at the World Championships but miss the medals."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 351000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chinese financing revives Baha Mar",
+          "summary": "Beijing-backed loans restart the stalled Cable Beach mega-resort in a major deal signed in 2010."
+        },
+        {
+          "headline": "Crime remains top concern",
+          "summary": "The murder rate stays high in Nassau despite new crime-fighting initiatives through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Youth Olympians in Singapore",
+        "summary": "Young Bahamian athletes compete in August at the inaugural Youth Olympics, gaining international experience."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 355000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Election fever builds",
+          "summary": "Parties trade blows ahead of the 2012 general election as the economy sputters and crime persists."
+        },
+        {
+          "headline": "Baha Mar breaks ground",
+          "summary": "Construction finally begins on the long-delayed Cable Beach resort, promising thousands of jobs."
+        }
+      ],
+      "sport": {
+        "headline": "Pan Am medals in Guadalajara",
+        "summary": "Bahamian athletes medal at the October Pan American Games, led by track and swimming performances."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 359000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Christie returns as PM",
+          "summary": "May election brings the PLP back to power as voters oust Ingraham amid economic gloom."
+        },
+        {
+          "headline": "Gambling referendum promised",
+          "summary": "The new government pledges a referendum on legalizing web-shop gambling, a divisive issue."
+        }
+      ],
+      "sport": {
+        "headline": "Relay gold stuns the US",
+        "summary": "The men's 4x400m team beats the Americans for Olympic gold at the London Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 362000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gambling referendum fails",
+          "summary": "January vote rejects legalizing numbers houses in a blow to Christie; shops stay open anyway."
+        },
+        {
+          "headline": "VAT debate heats up",
+          "summary": "Plans for a value-added tax spark business opposition ahead of its launch, amid street protests."
+        }
+      ],
+      "sport": {
+        "headline": "Miller's breakout season",
+        "summary": "Shaunae Miller emerges as a world-class 400m contender with Diamond League wins through the summer."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 366000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "VAT implementation looms",
+          "summary": "Businesses brace for the new value-added tax in January amid confusion and opposition warnings."
+        },
+        {
+          "headline": "Crime wave continues",
+          "summary": "Nassau's murder toll climbs despite official crackdowns, making security the top issue for residents through 2014."
+        }
+      ],
+      "sport": {
+        "headline": "Commonwealth medals in Glasgow",
+        "summary": "Bahamian athletes win medals in July and August at the Commonwealth Games, led by the sprinters."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 370000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Baha Mar goes bankrupt",
+          "summary": "The Baha Mar mega-resort files for bankruptcy in June amid contractor disputes, stunning the government."
+        },
+        {
+          "headline": "VAT takes effect",
+          "summary": "January launch of the 7.5% tax reshapes prices across the islands amid grumbling from businesses."
+        }
+      ],
+      "sport": {
+        "headline": "Miller's 400m silver in Beijing",
+        "summary": "Shaunae Miller takes 400m silver behind Allyson Felix at the World Championships in August in a photo finish."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 373000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gender referendum fails",
+          "summary": "A June referendum on constitutional gender equality fails in a low-turnout vote, disappointing activists."
+        },
+        {
+          "headline": "Baha Mar sold",
+          "summary": "The bankrupt Baha Mar resort is sold to new Asian owners in December, reviving completion hopes."
+        }
+      ],
+      "sport": {
+        "headline": "Miller's golden dive in Rio",
+        "summary": "Shaunae Miller dives across the line in August to win 400m gold, edging Allyson Felix."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 377000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Minnis sweeps to power",
+          "summary": "May election gives the FNM a landslide over the PLP as voters punish Christie over the economy."
+        },
+        {
+          "headline": "Baha Mar finally opens",
+          "summary": "The long-delayed resort opens its doors in phases in April, boosting tourism hopes."
+        }
+      ],
+      "sport": {
+        "headline": "Miller-Uibo's 200m bronze",
+        "summary": "Shaunae Miller-Uibo takes world 200m bronze in London in August in a world-class field."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 381000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "VAT hike to 12%",
+          "summary": "July increase from 7.5% sparks protests and business anger across Nassau in a controversial budget."
+        },
+        {
+          "headline": "Oban oil refinery controversy",
+          "summary": "A murky oil refinery deal collapses amid forgery allegations, embarrassing the government in early 2018."
+        }
+      ],
+      "sport": {
+        "headline": "Commonwealth gold in Gold Coast",
+        "summary": "Miller-Uibo wins 200m gold in April at the Commonwealth Games, dominating the final."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 385000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hurricane Dorian devastates islands",
+          "summary": "September's Category 5 storm ravages Abaco and Grand Bahama, killing dozens and displacing thousands."
+        },
+        {
+          "headline": "Slow recovery begins",
+          "summary": "International aid pours in as thousands remain homeless through the fall amid rebuilding debates."
+        }
+      ],
+      "sport": {
+        "headline": "Miller-Uibo's 400m silver in Doha",
+        "summary": "She clocks a national record in October but settles for world silver behind Salwa Eid Naser."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 389000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID crushes tourism",
+          "summary": "Pandemic border closures in March wipe out the islands' economic lifeline, with hotels shuttered for months."
+        },
+        {
+          "headline": "Dorian recovery continues",
+          "summary": "Dorian rebuilding crawls on Grand Bahama and Abaco amid the pandemic's added economic strain."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo dreams on hold",
+        "summary": "The Olympic postponement delays Bahamian medal hopes by a year as athletes train in limbo."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 394000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Davis wins snap election",
+          "summary": "September vote returns the PLP under Philip Davis as voters reject Minnis over the pandemic response."
+        },
+        {
+          "headline": "Tourism rebound begins",
+          "summary": "Vaccinated travel corridors slowly revive the battered economy in the year's second half, with US visitors returning."
+        }
+      ],
+      "sport": {
+        "headline": "Double gold in Tokyo",
+        "summary": "Gardiner and Miller-Uibo both win 400m Olympic titles in August, a historic Bahamian double."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 399000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tourism roars back",
+          "summary": "Record visitor arrivals signal a full post-COVID recovery through the year, boosting government coffers."
+        },
+        {
+          "headline": "Crime and gangs",
+          "summary": "Nassau grapples with gang violence despite the tourism gains, as murders rise again prompting new measures."
+        }
+      ],
+      "sport": {
+        "headline": "Miller-Uibo's world title",
+        "summary": "She wins the 400m world title in Eugene in July, completing her medal set."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 404000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boom times return",
+          "summary": "Tourism and foreign investment surge as the economy outperforms regional peers in a banner year."
+        },
+        {
+          "headline": "Crime stays in focus",
+          "summary": "Gang-related murders keep security atop the national agenda despite the boom, with new policing pledges."
+        }
+      ],
+      "sport": {
+        "headline": "Medal-less Worlds in Budapest",
+        "summary": "The Bahamas leaves the World Championships in August without a medal as stars sit out."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 408000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Steady recovery continues",
+          "summary": "Economic growth holds through 2024 as tourism arrivals stay strong, with low unemployment."
+        },
+        {
+          "headline": "Crime crackdown",
+          "summary": "New anti-gang operations target Nassau's violent hotspots amid public pressure for safer streets."
+        }
+      ],
+      "sport": {
+        "headline": "No medals in Paris",
+        "summary": "The Bahamas leaves the Paris Olympics in August without a medal, ending a golden era."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 413000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Election looms",
+          "summary": "Parties position for a 2026 vote as the term ends, with the economy central to the debate."
+        },
+        {
+          "headline": "US relations in focus",
+          "summary": "Migration and security cooperation top the bilateral agenda with Washington under Trump's second term."
+        }
+      ],
+      "sport": {
+        "headline": "Sprinters chase Tokyo finals",
+        "summary": "Bahamian sprinters contest the World Championships in Tokyo in September, seeking a return to the podium."
+      }
+    }
+  ]
+}

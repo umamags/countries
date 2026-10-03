@@ -175,7 +175,23 @@
       "gross_debt_pct_gdp": 69.8,
       "gross_debt_usd_billion": 12.34,
       "inflation_cpi_pct": 6.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 300000,
+      "exchange_rate_usd": 69.8468,
+      "main_events": [
+        {
+          "headline": "Iceland's boom continues",
+          "summary": "Banking expansion fuels rapid growth."
+        },
+        {
+          "headline": "Whaling row with West",
+          "summary": "Iceland resumes commercial whaling amid protests."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2008 qualifying hopes",
+        "summary": "Iceland struggle in their qualifying group."
+      }
     },
     {
       "year": 2007,
@@ -183,7 +199,23 @@
       "gross_debt_pct_gdp": 67.4,
       "gross_debt_usd_billion": 14.8,
       "inflation_cpi_pct": 5.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 308000,
+      "exchange_rate_usd": 64.0331,
+      "main_events": [
+        {
+          "headline": "Independence Party wins election",
+          "summary": "Geir Haarde stays PM after May's parliamentary elections."
+        },
+        {
+          "headline": "Banking bubble grows",
+          "summary": "Iceland's banks expand aggressively abroad."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2008",
+        "summary": "Iceland finish sixth in their qualifying group."
+      }
     },
     {
       "year": 2008,
@@ -191,7 +223,23 @@
       "gross_debt_pct_gdp": 109.3,
       "gross_debt_usd_billion": 19.95,
       "inflation_cpi_pct": 12.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 315000,
+      "exchange_rate_usd": 100.2319,
+      "main_events": [
+        {
+          "headline": "Banking system collapses",
+          "summary": "Kaupthing, Landsbanki and Glitnir fall in October."
+        },
+        {
+          "headline": "Iceland takes IMF loan",
+          "summary": "Reykjavik accepts a $2 billion rescue package."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin 2010 World Cup qualifying",
+        "summary": "Iceland open their qualifying campaign."
+      }
     },
     {
       "year": 2009,
@@ -199,7 +247,23 @@
       "gross_debt_pct_gdp": 128.2,
       "gross_debt_usd_billion": 16.94,
       "inflation_cpi_pct": 12,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 319000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Haarde resigns amid protests",
+          "summary": "Kitchenware protests force the PM out in January."
+        },
+        {
+          "headline": "Sigurdardottir becomes PM",
+          "summary": "Johanna Sigurdardottir leads a left-green coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss 2010 World Cup",
+        "summary": "Iceland finish third in their qualifying group."
+      }
     },
     {
       "year": 2010,
@@ -207,7 +271,23 @@
       "gross_debt_pct_gdp": 131.5,
       "gross_debt_usd_billion": 18.31,
       "inflation_cpi_pct": 5.4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 318000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Eyjafjallajokull eruption",
+          "summary": "Volcanic ash grounds European flights in April."
+        },
+        {
+          "headline": "Icesave referendum rejects deal",
+          "summary": "Voters reject repaying Britain and the Netherlands in March."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin Euro 2012 qualifying",
+        "summary": "Iceland open their qualifying campaign."
+      }
     },
     {
       "year": 2011,
@@ -215,7 +295,23 @@
       "gross_debt_pct_gdp": 136.6,
       "gross_debt_usd_billion": 21.03,
       "inflation_cpi_pct": 4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 312000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Second Icesave referendum fails",
+          "summary": "Voters again reject the repayment deal in April."
+        },
+        {
+          "headline": "Iceland's recovery begins",
+          "summary": "Capital controls stabilise the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2012",
+        "summary": "Iceland finish fourth in their qualifying group."
+      }
     },
     {
       "year": 2012,
@@ -223,7 +319,23 @@
       "gross_debt_pct_gdp": 132.2,
       "gross_debt_usd_billion": 19.76,
       "inflation_cpi_pct": 5.2,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 313000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Iceland debates EU membership",
+          "summary": "Accession talks proceed slowly."
+        },
+        {
+          "headline": "Haarde acquitted mostly",
+          "summary": "The former PM is cleared of most crisis charges."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland begin 2014 World Cup qualifying",
+        "summary": "Iceland open their campaign with promise."
+      }
     },
     {
       "year": 2013,
@@ -231,7 +343,23 @@
       "gross_debt_pct_gdp": 121.1,
       "gross_debt_usd_billion": 19.67,
       "inflation_cpi_pct": 3.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 316000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Centre-right wins election",
+          "summary": "The Independence and Progressive parties return to power."
+        },
+        {
+          "headline": "Iceland freezes EU talks",
+          "summary": "The new government halts accession negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia deny Iceland World Cup",
+        "summary": "Iceland lose their playoff to Croatia."
+      }
     },
     {
       "year": 2014,
@@ -239,7 +367,23 @@
       "gross_debt_pct_gdp": 114.1,
       "gross_debt_usd_billion": 20.6,
       "inflation_cpi_pct": 2,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 320000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Iceland's economy recovers",
+          "summary": "Growth returns; capital controls remain."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "The centre-right coalition governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland beat Netherlands twice",
+        "summary": "Shock qualifying wins launch the Euro 2016 dream."
+      }
     },
     {
       "year": 2015,
@@ -247,7 +391,23 @@
       "gross_debt_pct_gdp": 96.3,
       "gross_debt_usd_billion": 17.05,
       "inflation_cpi_pct": 1.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 323000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Panama Papers loom",
+          "summary": "Offshore leaks will soon implicate the PM."
+        },
+        {
+          "headline": "Iceland's boom returns",
+          "summary": "Tourism and fishing drive strong growth."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland qualify for Euro 2016",
+        "summary": "Iceland reach a first major tournament."
+      }
     },
     {
       "year": 2016,
@@ -255,7 +415,23 @@
       "gross_debt_pct_gdp": 81.3,
       "gross_debt_usd_billion": 17.14,
       "inflation_cpi_pct": 1.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 326000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "PM resigns over Panama Papers",
+          "summary": "Sigmundur Gunnlaugsson quits in April."
+        },
+        {
+          "headline": "Snap election: no clear winner",
+          "summary": "October elections produce a fragmented parliament."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland reach Euro 2016 quarter-finals",
+        "summary": "Iceland stun England before losing to France."
+      }
     },
     {
       "year": 2017,
@@ -263,7 +439,23 @@
       "gross_debt_pct_gdp": 70.8,
       "gross_debt_usd_billion": 17.74,
       "inflation_cpi_pct": 1.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 333000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "New government formed",
+          "summary": "A centre-right coalition takes office in January."
+        },
+        {
+          "headline": "Snap election again",
+          "summary": "September elections follow a scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland qualify for 2018 World Cup",
+        "summary": "Iceland top their group, the smallest nation ever to qualify."
+      }
     },
     {
       "year": 2018,
@@ -271,7 +463,23 @@
       "gross_debt_pct_gdp": 62.3,
       "gross_debt_usd_billion": 16.62,
       "inflation_cpi_pct": 2.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 342000,
+      "exchange_rate_usd": 108.8424,
+      "main_events": [
+        {
+          "headline": "Government stabilises",
+          "summary": "Katrin Jakobsdottir leads a left-right coalition."
+        },
+        {
+          "headline": "Iceland's tourism boom",
+          "summary": "Visitor numbers transform the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland draw with Argentina at World Cup",
+        "summary": "A debut draw with Messi's Argentina thrills Iceland."
+      }
     },
     {
       "year": 2019,
@@ -279,7 +487,23 @@
       "gross_debt_pct_gdp": 65.7,
       "gross_debt_usd_billion": 16.42,
       "inflation_cpi_pct": 3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 349000,
+      "exchange_rate_usd": 122.6473,
+      "main_events": [
+        {
+          "headline": "Iceland weathers slowdown",
+          "summary": "Tourism dip cools the economy."
+        },
+        {
+          "headline": "Wage deal averts strikes",
+          "summary": "Unions and employers agree pay rises."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss Euro 2020 automatically",
+        "summary": "Iceland finish third but keep playoff hopes."
+      }
     },
     {
       "year": 2020,
@@ -287,7 +511,23 @@
       "gross_debt_pct_gdp": 76.1,
       "gross_debt_usd_billion": 16.77,
       "inflation_cpi_pct": 2.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 354000,
+      "exchange_rate_usd": 135.3834,
+      "main_events": [
+        {
+          "headline": "Iceland manages COVID well",
+          "summary": "Testing and tracing keep the virus at bay."
+        },
+        {
+          "headline": "Tourism collapses",
+          "summary": "The pandemic empties Iceland's hotels."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary deny Iceland Euro 2020",
+        "summary": "Iceland lose their playoff final in Budapest."
+      }
     },
     {
       "year": 2021,
@@ -295,7 +535,23 @@
       "gross_debt_pct_gdp": 73.6,
       "gross_debt_usd_billion": 19.31,
       "inflation_cpi_pct": 4.5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 358000,
+      "exchange_rate_usd": 126.9981,
+      "main_events": [
+        {
+          "headline": "Government re-elected",
+          "summary": "September elections keep the coalition in power."
+        },
+        {
+          "headline": "Volcano erupts near Reykjavik",
+          "summary": "Fagradalsfjall draws lava tourists."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland miss 2022 World Cup",
+        "summary": "Iceland finish fifth in their qualifying group."
+      }
     },
     {
       "year": 2022,
@@ -303,7 +559,23 @@
       "gross_debt_pct_gdp": 66.4,
       "gross_debt_usd_billion": 19.37,
       "inflation_cpi_pct": 8.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 365000,
+      "exchange_rate_usd": 135.3417,
+      "main_events": [
+        {
+          "headline": "Iceland backs Ukraine",
+          "summary": "Reykjavik supports Kyiv and sanctions."
+        },
+        {
+          "headline": "Inflation surges",
+          "summary": "Rising prices squeeze households."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland compete in Nations League",
+        "summary": "Iceland finish mid-table in their League B group."
+      }
     },
     {
       "year": 2023,
@@ -311,7 +583,23 @@
       "gross_debt_pct_gdp": 61.5,
       "gross_debt_usd_billion": 19.5,
       "inflation_cpi_pct": 8.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 375000,
+      "exchange_rate_usd": 137.9576,
+      "main_events": [
+        {
+          "headline": "Iceland's whaling debate",
+          "summary": "The government pauses then allows whaling."
+        },
+        {
+          "headline": "Volcanic eruptions continue",
+          "summary": "Grindavik is evacuated amid eruptions."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine deny Iceland Euro 2024",
+        "summary": "Iceland lose their playoff semi-final."
+      }
     },
     {
       "year": 2024,
@@ -319,7 +607,23 @@
       "gross_debt_pct_gdp": 60.4,
       "gross_debt_usd_billion": 20.04,
       "inflation_cpi_pct": 5.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 384000,
+      "exchange_rate_usd": 137.9584,
+      "main_events": [
+        {
+          "headline": "New president elected",
+          "summary": "Halla Tomasdottir wins June's presidential election."
+        },
+        {
+          "headline": "Volcano disrupts Grindavik",
+          "summary": "Eruptions keep the town evacuated."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland compete in Nations League",
+        "summary": "Iceland battle in their League B group."
+      }
     },
     {
       "year": 2025,
@@ -327,7 +631,23 @@
       "gross_debt_pct_gdp": 56.1,
       "gross_debt_usd_billion": 21.65,
       "inflation_cpi_pct": 4.1,
-      "status": "IMF estimate / projection"
+      "status": "IMF estimate / projection",
+      "population": 389000,
+      "exchange_rate_usd": 128.2933,
+      "main_events": [
+        {
+          "headline": "Iceland's EU debate revives",
+          "summary": "Membership talk returns amid economic shifts."
+        },
+        {
+          "headline": "Government focuses on housing",
+          "summary": "Reykjavik tackles the housing crunch."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland chase World Cup qualification",
+        "summary": "Iceland compete in qualifying for the 2026 World Cup."
+      }
     }
   ]
 }

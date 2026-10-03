@@ -1,0 +1,397 @@
+{
+  "country": "Sao Tome and Principe",
+  "iso3": "STP",
+  "currency": "STN",
+  "currency_name": "São Tomé and Príncipe Dobra",
+  "period": "2006-2025",
+  "currency_note": "Dobra redenominated Jan 2018 (STD→STN, 1,000:1).",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 166000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Menezes re-elected president",
+          "summary": "Fradique de Menezes wins July's vote, extending his rule."
+        },
+        {
+          "headline": "Oil hopes rise",
+          "summary": "Offshore prospects with Nigeria excite the islands."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome fall short in AFCON qualifying",
+        "summary": "The Green-Yellows miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 170000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government changes hands",
+          "summary": "Prime ministers rotate amid coalition instability."
+        },
+        {
+          "headline": "Oil zone disputes",
+          "summary": "The joint development zone with Nigeria yields little."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2008 AFCON",
+        "summary": "The national team fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 174000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt foiled",
+          "summary": "Authorities claim to thwart a military plot."
+        },
+        {
+          "headline": "Political instability persists",
+          "summary": "Governments change frequently."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome compete at Beijing Olympics",
+        "summary": "Santomean athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 178000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Menezes's rule continues",
+          "summary": "The president maintains a fragile stability."
+        },
+        {
+          "headline": "Cocoa economy struggles",
+          "summary": "The islands remain aid-dependent."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome chase 2010 World Cup spot",
+        "summary": "The Green-Yellows compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 182000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "August's vote reshuffles parliament."
+        },
+        {
+          "headline": "Menezes prepares exit",
+          "summary": "The president's term nears its end."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2010 World Cup",
+        "summary": "The Green-Yellows fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 186000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pinto da Costa returns",
+          "summary": "The ex-president wins August's election."
+        },
+        {
+          "headline": "Democratic rotation",
+          "summary": "Power changes hands peacefully."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2012 AFCON",
+        "summary": "The Green-Yellows fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 189000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government instability",
+          "summary": "Prime ministers come and go."
+        },
+        {
+          "headline": "Sao Tome seeks investment",
+          "summary": "The islands court tourism and oil partners."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome compete at London Olympics",
+        "summary": "Santomean athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 193000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political calm",
+          "summary": "The presidency maintains stability."
+        },
+        {
+          "headline": "Oil exploration stalls",
+          "summary": "Offshore drilling disappoints."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2013 AFCON",
+        "summary": "The Green-Yellows fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 197000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "October's vote brings a new government."
+        },
+        {
+          "headline": "Trovoada returns as PM",
+          "summary": "Patrice Trovoada takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2014 World Cup",
+        "summary": "The Green-Yellows fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 200000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government stable",
+          "summary": "Trovoada's administration holds."
+        },
+        {
+          "headline": "Sao Tome deepens ties",
+          "summary": "The islands strengthen relations with partners."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2015 AFCON",
+        "summary": "The Green-Yellows fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 204000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Carvalho wins presidency",
+          "summary": "Evaristo Carvalho defeats Pinto da Costa in August's runoff."
+        },
+        {
+          "headline": "Taiwan ties cut",
+          "summary": "Sao Tome switches recognition to Beijing."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome compete at Rio Olympics",
+        "summary": "Santomean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 207000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "China ties deepen",
+          "summary": "Beijing funds infrastructure after the switch."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "Trovoada remains prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2017 AFCON",
+        "summary": "The Green-Yellows fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 210000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "October's vote reshuffles parliament."
+        },
+        {
+          "headline": "Opposition takes government",
+          "summary": "Jorge Bom Jesus becomes prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2018 World Cup",
+        "summary": "The Green-Yellows fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 213000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government changes",
+          "summary": "Coalition politics shift again."
+        },
+        {
+          "headline": "Sao Tome's economy steady",
+          "summary": "Tourism and cocoa sustain modest growth."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2019 AFCON",
+        "summary": "The Green-Yellows fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 217000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits islands",
+          "summary": "The pandemic strains the small health system."
+        },
+        {
+          "headline": "Tourism collapses",
+          "summary": "Visitor arrivals dry up."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Sao Tome's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 222000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vila Nova wins presidency",
+          "summary": "Carlos Vila Nova defeats the ruling party's candidate in September's runoff."
+        },
+        {
+          "headline": "Peaceful transfer",
+          "summary": "Power changes hands smoothly."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2021 AFCON",
+        "summary": "The Green-Yellows fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 226000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "September's vote brings Trovoada back as PM."
+        },
+        {
+          "headline": "Coup attempt alleged",
+          "summary": "November's claims of a plot lead to deaths in custody."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2022 World Cup",
+        "summary": "The Green-Yellows fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 231000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government stable",
+          "summary": "Trovoada's administration holds."
+        },
+        {
+          "headline": "Sao Tome seeks investment",
+          "summary": "The islands promote tourism and fisheries."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome miss 2023 AFCON",
+        "summary": "The Green-Yellows fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 236000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political tensions",
+          "summary": "The president and prime minister clash."
+        },
+        {
+          "headline": "Sao Tome's economy steady",
+          "summary": "Modest growth continues."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome compete at Paris Olympics",
+        "summary": "Santomean athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 240000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government reshuffled",
+          "summary": "The prime minister changes ministers."
+        },
+        {
+          "headline": "Sao Tome prepares elections",
+          "summary": "The 2026 vote looms."
+        }
+      ],
+      "sport": {
+        "headline": "Sao Tome chase 2026 World Cup spot",
+        "summary": "The Green-Yellows compete in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

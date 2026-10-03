@@ -1,0 +1,396 @@
+{
+  "country": "Australia",
+  "iso3": "AUS",
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 20628000,
+      "fx_lcu_per_usd_annual_avg": 1.3282,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Larry devastates far north Queensland",
+          "summary": "Category 4 Cyclone Larry struck near Innisfail in March, destroying crops and homes across the region."
+        },
+        {
+          "headline": "Cole inquiry finds AWB paid kickbacks to Saddam regime",
+          "summary": "The oil-for-food inquiry reported the wheat exporter paid bribes to Iraq, embarrassing the Howard government."
+        }
+      ],
+      "sport": {
+        "headline": "Melbourne hosts the Commonwealth Games",
+        "summary": "Australia topped the medal table at the Melbourne 2006 Games in front of home crowds."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 21016000,
+      "fx_lcu_per_usd_annual_avg": 1.1949,
+      "geopolitical_news": [
+        {
+          "headline": "Kevin Rudd sweeps Labor to power",
+          "summary": "Labor defeated John Howard's Coalition in November, ending eleven years of conservative government."
+        },
+        {
+          "headline": "Australia ratifies the Kyoto Protocol",
+          "summary": "Rudd signed ratification in December, reversing Australia's long refusal to join the climate treaty."
+        }
+      ],
+      "sport": {
+        "headline": "Australia wins third straight Cricket World Cup",
+        "summary": "Ricky Ponting's side went unbeaten through the Caribbean tournament, beating Sri Lanka in the final."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 21476000,
+      "fx_lcu_per_usd_annual_avg": 1.1962,
+      "geopolitical_news": [
+        {
+          "headline": "Rudd delivers national apology to Stolen Generations",
+          "summary": "The February apology in parliament acknowledged past policies removing Indigenous children from families."
+        },
+        {
+          "headline": "Government unveils stimulus as global crisis hits",
+          "summary": "Bank deposit guarantees and cash payments were announced as the financial crisis reached Australia."
+        }
+      ],
+      "sport": {
+        "headline": "Australia finishes sixth at Beijing Olympics",
+        "summary": "Swimmers led a 46-medal haul, with Stephanie Rice winning three golds in the pool."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 21866000,
+      "fx_lcu_per_usd_annual_avg": 1.2791,
+      "geopolitical_news": [
+        {
+          "headline": "Black Saturday bushfires kill 173 in Victoria",
+          "summary": "The February fires became Australia's deadliest bushfire disaster, destroying whole towns including Marysville."
+        },
+        {
+          "headline": "Senate rejects Rudd's carbon pollution scheme",
+          "summary": "The emissions trading legislation was voted down twice, stalling Labor's climate agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Nadal outlasts Federer in epic Australian Open final",
+        "summary": "Rafael Nadal won a five-set classic in Melbourne, his first hard-court major title."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 22172000,
+      "fx_lcu_per_usd_annual_avg": 1.0895,
+      "geopolitical_news": [
+        {
+          "headline": "Gillard ousts Rudd to become first female PM",
+          "summary": "Labor dumped Kevin Rudd in a June leadership spill, installing deputy Julia Gillard unopposed."
+        },
+        {
+          "headline": "Hung parliament forces Labor-Green deal",
+          "summary": "The August election delivered no majority; Gillard formed a minority government with Greens and independents."
+        }
+      ],
+      "sport": {
+        "headline": "Melbourne Storm stripped of titles in salary-cap scandal",
+        "summary": "The NRL found systematic cap breaches and stripped two premierships, fining the club heavily."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 22522000,
+      "fx_lcu_per_usd_annual_avg": 0.9695,
+      "geopolitical_news": [
+        {
+          "headline": "Queensland floods and Cyclone Yasi batter the state",
+          "summary": "Summer floods inundated Brisbane before Yasi, a huge cyclone, struck the north Queensland coast."
+        },
+        {
+          "headline": "Carbon tax legislation passes parliament",
+          "summary": "Gillard's minority government secured the Clean Energy Act after a bruising political fight."
+        }
+      ],
+      "sport": {
+        "headline": "Socceroos lose Asian Cup final to Japan",
+        "summary": "Australia fell in extra time in Doha, missing a first continental title."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 22928000,
+      "fx_lcu_per_usd_annual_avg": 0.9659,
+      "geopolitical_news": [
+        {
+          "headline": "Gillard's misogyny speech goes global",
+          "summary": "The prime minister's October attack on Tony Abbott's sexism became an internationally watched moment."
+        },
+        {
+          "headline": "Asylum policy: offshore processing reopens",
+          "summary": "After the Malaysia Solution was struck down, parliament restored processing on Nauru and Manus."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics brings leanest haul in decades",
+        "summary": "Australia won 35 medals and finished tenth, prompting a review of elite sport funding."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 23298000,
+      "fx_lcu_per_usd_annual_avg": 1.0369,
+      "geopolitical_news": [
+        {
+          "headline": "Abbott ends six years of Labor government",
+          "summary": "The Coalition won the September election decisively after Rudd's brief return as prime minister."
+        },
+        {
+          "headline": "Operation Sovereign Borders launched",
+          "summary": "The new government began turning back asylum boats under a military-led border policy."
+        }
+      ],
+      "sport": {
+        "headline": "Australia reclaims the Ashes in 5-0 whitewash",
+        "summary": "Mitchell Johnson terrorised England as Australia swept the home series across the summer."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 23640000,
+      "fx_lcu_per_usd_annual_avg": 1.1092,
+      "geopolitical_news": [
+        {
+          "headline": "Lindt Cafe siege ends in tragedy in Sydney",
+          "summary": "A gunman held hostages for 16 hours in December; two hostages and the gunman died."
+        },
+        {
+          "headline": "Brisbane hosts G20 leaders' summit",
+          "summary": "World leaders met in November amid tensions over Russia and climate inaction."
+        }
+      ],
+      "sport": {
+        "headline": "Phillip Hughes dies after on-field injury",
+        "summary": "The Test batsman's death from a bouncer strike shocked world cricket and prompted safety reviews."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 23985000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Turnbull ousts Abbott as prime minister",
+          "summary": "Malcolm Turnbull won a September leadership spill, promising a new style of economic leadership."
+        },
+        {
+          "headline": "China-Australia free trade deal enters into force",
+          "summary": "The long-negotiated ChAFTA took effect in December, cutting tariffs on farm goods and resources."
+        }
+      ],
+      "sport": {
+        "headline": "Australia wins fifth Cricket World Cup at home",
+        "summary": "Michael Clarke's team beat New Zealand in the Melbourne final before a record crowd."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 24385000,
+      "fx_lcu_per_usd_annual_avg": 1.3449,
+      "geopolitical_news": [
+        {
+          "headline": "Turnbull returned with razor-thin majority",
+          "summary": "The July double-dissolution election left the Coalition clinging to a one-seat lower house majority."
+        },
+        {
+          "headline": "Census website crashes on launch night",
+          "summary": "The online census collapsed under load in August, drawing ridicule and an official inquiry."
+        }
+      ],
+      "sport": {
+        "headline": "Women's sevens team wins Olympic gold",
+        "summary": "Australia's women claimed rugby sevens gold on the sport's Olympic debut in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 24759000,
+      "fx_lcu_per_usd_annual_avg": 1.305,
+      "geopolitical_news": [
+        {
+          "headline": "Postal survey backs same-sex marriage",
+          "summary": "Australians voted yes in the voluntary survey, and parliament legalised marriage equality in December."
+        },
+        {
+          "headline": "Manus Island detention centre closes",
+          "summary": "The PNG centre shut in October, leaving a tense standoff between detainees and authorities."
+        }
+      ],
+      "sport": {
+        "headline": "Socceroos qualify for fourth straight World Cup",
+        "summary": "Australia beat Honduras in a playoff to book a place at Russia 2018."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 25146000,
+      "fx_lcu_per_usd_annual_avg": 1.339,
+      "geopolitical_news": [
+        {
+          "headline": "Morrison becomes PM after Turnbull dumped",
+          "summary": "Scott Morrison won an August leadership ballot after conservatives torpedoed Malcolm Turnbull."
+        },
+        {
+          "headline": "Banking royal commission exposes misconduct",
+          "summary": "The Hayne inquiry's interim report detailed fee-gouging and misconduct across the big banks."
+        }
+      ],
+      "sport": {
+        "headline": "Ball-tampering scandal rocks Australian cricket",
+        "summary": "Smith, Warner and Bancroft were banned after the Cape Town sandpaper affair stunned the sport."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 25520000,
+      "fx_lcu_per_usd_annual_avg": 1.4393,
+      "geopolitical_news": [
+        {
+          "headline": "Morrison wins surprise 'miracle' election",
+          "summary": "The Coalition was re-elected in May against polling expectations, confounding Labor."
+        },
+        {
+          "headline": "Black Summer bushfires begin",
+          "summary": "Catastrophic fires ignited across the east coast late in the year, foreshadowing a horror summer."
+        }
+      ],
+      "sport": {
+        "headline": "Australia retains the Ashes in England",
+        "summary": "A drawn series kept the urn in Australian hands for the first time in England since 2001."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 25631000,
+      "fx_lcu_per_usd_annual_avg": 1.4519,
+      "geopolitical_news": [
+        {
+          "headline": "Borders shut as COVID-19 pandemic hits",
+          "summary": "International borders closed in March and states locked down to suppress the virus."
+        },
+        {
+          "headline": "China imposes tariffs amid diplomatic freeze",
+          "summary": "Beijing hit barley, wine and coal with trade measures as relations sank to historic lows."
+        }
+      ],
+      "sport": {
+        "headline": "AFL Grand Final played outside Victoria",
+        "summary": "Richmond beat Geelong in Brisbane in the first grand final held outside Melbourne."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 25774000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "AUKUS pact announced with US and UK",
+          "summary": "The September security deal promised nuclear-powered submarines and angered France and China."
+        },
+        {
+          "headline": "Australia commits to net zero by 2050",
+          "summary": "Morrison announced the target before COP26 after long resistance from the Coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics delivers record-equalling haul",
+        "summary": "Australia won 46 medals including 17 gold, matching its best gold tally from Athens 2004."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 26320000,
+      "fx_lcu_per_usd_annual_avg": 1.4428,
+      "geopolitical_news": [
+        {
+          "headline": "Albanese ends nine years of Coalition rule",
+          "summary": "Labor won the May election as Anthony Albanese became prime minister."
+        },
+        {
+          "headline": "Floods devastate eastern Australia",
+          "summary": "Record floods inundated Lismore and parts of Sydney in a repeated La Nina disaster."
+        }
+      ],
+      "sport": {
+        "headline": "Australia tops Birmingham Commonwealth Games table",
+        "summary": "The team dominated the medal count in Birmingham ahead of the home 2026 Games."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 26957000,
+      "fx_lcu_per_usd_annual_avg": 1.5066,
+      "geopolitical_news": [
+        {
+          "headline": "Indigenous Voice referendum defeated",
+          "summary": "The October referendum to enshrine an Indigenous advisory body failed in every state."
+        },
+        {
+          "headline": "AUKUS submarine plan detailed",
+          "summary": "Canberra unveiled the pathway to nuclear-powered submarines with Washington and London."
+        }
+      ],
+      "sport": {
+        "headline": "Matildas' World Cup run captivates the nation",
+        "summary": "Australia finished fourth at the home Women's World Cup, smashing television ratings records."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 27388000,
+      "fx_lcu_per_usd_annual_avg": 1.5153,
+      "geopolitical_news": [
+        {
+          "headline": "Under-16 social media ban legislated",
+          "summary": "Parliament passed world-first age restrictions for social media platforms in November."
+        },
+        {
+          "headline": "King Charles visits Australia",
+          "summary": "The monarch's October tour was his first to Australia as king."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics brings record 53 medals",
+        "summary": "Australia finished fourth on the table with 18 golds, its biggest Olympic haul ever."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 27730000,
+      "fx_lcu_per_usd_annual_avg": 1.5515,
+      "geopolitical_news": [
+        {
+          "headline": "Labor wins second term in landslide",
+          "summary": "Anthony Albanese secured a thumping May re-election victory over the Coalition."
+        },
+        {
+          "headline": "Erin Patterson convicted of mushroom murders",
+          "summary": "The Victorian woman was found guilty of murdering three relatives with a poisoned beef Wellington."
+        }
+      ],
+      "sport": {
+        "headline": "Lions defeat Wallabies 2-1 in series",
+        "summary": "The British and Irish Lions won the Test series in Australia despite a Wallabies fightback."
+      }
+    }
+  ]
+}

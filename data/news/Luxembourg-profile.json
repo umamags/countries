@@ -1,0 +1,396 @@
+{
+  "country": "Luxembourg",
+  "iso3": "LUX",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 469000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Juncker government stable",
+          "summary": "The long-serving PM's coalition governs steadily."
+        },
+        {
+          "headline": "Luxembourg's finance sector booms",
+          "summary": "Banking and funds drive strong growth."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg struggle in Euro qualifying",
+        "summary": "Luxembourg battle in their Euro 2008 qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 476000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg backs EU reform treaty",
+          "summary": "The Grand Duchy supports the Lisbon Treaty."
+        },
+        {
+          "headline": "Economy strong",
+          "summary": "Growth continues on financial services."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss Euro 2008",
+        "summary": "Luxembourg finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 484000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits banks",
+          "summary": "Fortis and other banks need state rescues."
+        },
+        {
+          "headline": "Luxembourg weathers storm",
+          "summary": "The financial centre proves resilient."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg stun Switzerland in qualifier",
+        "summary": "A 2-1 win in Zurich is a famous World Cup qualifying upset."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 494000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Juncker wins election",
+          "summary": "The CSV triumphs in June's parliamentary elections."
+        },
+        {
+          "headline": "Banking secrecy under pressure",
+          "summary": "Luxembourg agrees to loosen bank secrecy rules."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss 2010 World Cup",
+        "summary": "Luxembourg finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 502000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg's economy recovers",
+          "summary": "Growth returns after the crisis."
+        },
+        {
+          "headline": "Juncker leads eurogroup",
+          "summary": "The PM chairs eurozone finance ministers."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg begin Euro 2012 qualifying",
+        "summary": "Luxembourg open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 512000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Euro crisis tests Luxembourg",
+          "summary": "The Grand Duchy backs rescue packages."
+        },
+        {
+          "headline": "Banking transparency advances",
+          "summary": "Automatic tax exchange moves closer."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss Euro 2012",
+        "summary": "Luxembourg finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 525000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg adopts tax transparency",
+          "summary": "Vaduz-style secrecy gives way to exchange deals."
+        },
+        {
+          "headline": "Juncker quits eurogroup",
+          "summary": "The PM steps down as eurozone chief."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg begin World Cup qualifying",
+        "summary": "Luxembourg open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 537000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Juncker resigns over spy scandal",
+          "summary": "The PM quits in July after an intelligence affair."
+        },
+        {
+          "headline": "Bettel becomes prime minister",
+          "summary": "Xavier Bettel forms a three-party coalition in December."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss 2014 World Cup",
+        "summary": "Luxembourg finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 550000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "LuxLeaks scandal erupts",
+          "summary": "Leaked tax deals embarrass Luxembourg in November."
+        },
+        {
+          "headline": "Juncker becomes Commission president",
+          "summary": "The former PM takes the EU's top job."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg compete in Euro 2016 qualifying",
+        "summary": "Luxembourg record rare wins in qualifying."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 563000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum rejects reforms",
+          "summary": "Voters say no to foreigner voting rights in June."
+        },
+        {
+          "headline": "Same-sex marriage legalised",
+          "summary": "Luxembourg approves marriage equality."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss Euro 2016",
+        "summary": "Luxembourg finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 576000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg's economy strong",
+          "summary": "Growth continues on finance and tech."
+        },
+        {
+          "headline": "Space mining law passed",
+          "summary": "Luxembourg courts asteroid mining firms."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg begin World Cup qualifying",
+        "summary": "Luxembourg open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 591000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Bettel government stable",
+          "summary": "The coalition governs steadily."
+        },
+        {
+          "headline": "Luxembourg backs EU integration",
+          "summary": "The Grand Duchy champions deeper union."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg hold France to famous draw",
+        "summary": "A 0-0 draw in Toulouse stuns the eventual world champions."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 602000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Bettel wins re-election",
+          "summary": "October elections keep the PM in office."
+        },
+        {
+          "headline": "Luxembourg legalises cannabis",
+          "summary": "The coalition pledges recreational legalisation."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg compete in Nations League D",
+        "summary": "Luxembourg win promotion from League D."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 614000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg's finance hub grows",
+          "summary": "Funds and fintech expand."
+        },
+        {
+          "headline": "Climate policy advances",
+          "summary": "The government sets ambitious green targets."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg miss Euro 2020",
+        "summary": "Luxembourg finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 626000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Luxembourg",
+          "summary": "The pandemic strains the small country's hospitals."
+        },
+        {
+          "headline": "Luxembourg weathers downturn",
+          "summary": "The economy proves resilient."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg compete in Nations League C",
+        "summary": "Luxembourg battle in their League C group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 635000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg's vaccine rollout",
+          "summary": "Vaccinations proceed swiftly."
+        },
+        {
+          "headline": "Bettel hospitalised with COVID",
+          "summary": "The PM spends days in hospital in July."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg stun Ireland in Dublin",
+        "summary": "A 1-0 win over Ireland is a famous World Cup qualifying upset."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 645000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg backs Ukraine",
+          "summary": "The Grand Duchy supports Kyiv and sanctions."
+        },
+        {
+          "headline": "Housing costs soar",
+          "summary": "Property prices become a political issue."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg compete in Nations League C",
+        "summary": "Luxembourg finish mid-table in League C."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 661000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Frieden wins election",
+          "summary": "Luc Frieden's CSV triumphs in October elections."
+        },
+        {
+          "headline": "Bettel era ends",
+          "summary": "Xavier Bettel leaves the premiership after a decade."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg reach Euro 2024 playoff",
+        "summary": "A third-place finish earns a first-ever playoff."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 672000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "New coalition takes office",
+          "summary": "Frieden forms a CSV-DP government."
+        },
+        {
+          "headline": "Luxembourg's economy steady",
+          "summary": "Growth continues modestly."
+        }
+      ],
+      "sport": {
+        "headline": "Georgia deny Luxembourg Euro 2024",
+        "summary": "Luxembourg lose their playoff semi-final."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 682000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Luxembourg boosts defence",
+          "summary": "The Grand Duchy raises military spending."
+        },
+        {
+          "headline": "Frieden government stable",
+          "summary": "The coalition governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "Luxembourg chase World Cup qualifying points",
+        "summary": "Luxembourg compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

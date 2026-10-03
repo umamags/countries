@@ -1,0 +1,396 @@
+{
+  "country": "Myanmar",
+  "iso3": "MMR",
+  "currency": "MMK",
+  "currency_name": "Myanmar Kyat",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 47814000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Capital moves to Naypyidaw",
+          "summary": "The junta relocates the capital to a remote purpose-built city."
+        },
+        {
+          "headline": "Sanctions tighten",
+          "summary": "The US extends penalties over rights abuses."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Myanmar contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 48113000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saffron Revolution",
+          "summary": "Monk-led protests are brutally crushed in September."
+        },
+        {
+          "headline": "Global outrage",
+          "summary": "The crackdown draws worldwide condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Myanmar competes at the regional Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 48423000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Nargis",
+          "summary": "The May storm kills over 130,000 in the Irrawaddy delta."
+        },
+        {
+          "headline": "Junta blocks aid",
+          "summary": "Generals obstruct relief while pushing a sham referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Myanmar's athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 48745000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suu Kyi sentenced",
+          "summary": "The opposition leader gets 18 more months of house arrest."
+        },
+        {
+          "headline": "Election laws",
+          "summary": "The junta sets rules for 2010 polls."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Laos",
+        "summary": "Myanmar competes in Vientiane."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 49085000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sham election",
+          "summary": "November polls entrench military rule; Suu Kyi is freed days later."
+        },
+        {
+          "headline": "Suu Kyi released",
+          "summary": "The icon walks free after seven years."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Myanmar's athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 49447000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thein Sein reforms",
+          "summary": "The new president launches surprising liberalization."
+        },
+        {
+          "headline": "Suu Kyi meets president",
+          "summary": "A landmark meeting signals change."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Myanmar competes in Jakarta-Palembang."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 49834000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suu Kyi wins by-election",
+          "summary": "The NLD takes 43 of 45 seats in April."
+        },
+        {
+          "headline": "Rohingya violence",
+          "summary": "Deadly riots erupt in Rakhine state."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Myanmar's athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 50248000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "SEA Games hosted",
+          "summary": "Naypyidaw stages the Southeast Asian Games."
+        },
+        {
+          "headline": "Anti-Muslim riots",
+          "summary": "Violence spreads beyond Rakhine."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the SEA Games",
+        "summary": "Myanmar host the SEA Games, finishing second."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 50682000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Census controversy",
+          "summary": "The count excludes Rohingya self-identification."
+        },
+        {
+          "headline": "Reform stalls",
+          "summary": "Constitutional change hopes fade."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Myanmar's athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 51089000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "NLD wins landslide",
+          "summary": "Suu Kyi's party takes November elections."
+        },
+        {
+          "headline": "Peace deal signed",
+          "summary": "A partial nationwide ceasefire is agreed."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Singapore",
+        "summary": "Myanmar finish seventh in Singapore."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 51496000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suu Kyi takes power",
+          "summary": "The NLD forms government; she becomes state counsellor."
+        },
+        {
+          "headline": "Rohingya crackdown",
+          "summary": "Army operations displace tens of thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Myanmar's athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 51895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rohingya exodus",
+          "summary": "Army atrocities drive 700,000 into Bangladesh."
+        },
+        {
+          "headline": "Genocide accusations",
+          "summary": "The UN calls for prosecutions over the campaign."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Myanmar compete in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 52272000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suu Kyi defends army",
+          "summary": "She rejects genocide charges at The Hague."
+        },
+        {
+          "headline": "Reuters journalists jailed",
+          "summary": "Reporters probing the massacre get seven years."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Myanmar's athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 52641000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ genocide case",
+          "summary": "Gambia brings Myanmar to the world court."
+        },
+        {
+          "headline": "Rakhine war",
+          "summary": "Fighting with the Arakan Army displaces civilians."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Myanmar compete in Manila."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 53017000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "NLD wins again",
+          "summary": "November polls give Suu Kyi another landslide."
+        },
+        {
+          "headline": "Army cries fraud",
+          "summary": "Generals allege irregularities."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Myanmar football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 53387000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military coup",
+          "summary": "The army seizes power on February 1, jailing Suu Kyi."
+        },
+        {
+          "headline": "Protests crushed",
+          "summary": "Security forces kill hundreds of demonstrators."
+        }
+      ],
+      "sport": {
+        "headline": "Players protest",
+        "summary": "Footballers flash three-finger salutes at qualifiers."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 53757000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suu Kyi jailed",
+          "summary": "The ousted leader gets decades in stacked trials."
+        },
+        {
+          "headline": "Resistance grows",
+          "summary": "Armed opposition gains ground."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Vietnam",
+        "summary": "Myanmar compete at the Hanoi Games."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 54134000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Operation 1027",
+          "summary": "Rebel offensives seize towns and border crossings."
+        },
+        {
+          "headline": "Junta on back foot",
+          "summary": "The military loses territory across the country."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Cambodia",
+        "summary": "Myanmar compete at the Phnom Penh Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 54500000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Conscription imposed",
+          "summary": "The junta drafts young men as losses mount."
+        },
+        {
+          "headline": "Rebels advance",
+          "summary": "Resistance forces capture regional capitals."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Myanmar's athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 54851000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Devastating earthquake",
+          "summary": "A March quake kills thousands amid the civil war."
+        },
+        {
+          "headline": "Junta promises polls",
+          "summary": "Sham elections are planned for late 2025."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Myanmar compete at the Southeast Asian Games."
+      }
+    }
+  ]
+}

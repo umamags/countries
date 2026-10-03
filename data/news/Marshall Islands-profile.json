@@ -1,0 +1,396 @@
+{
+  "country": "Marshall Islands",
+  "iso3": "MHL",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 51000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear legacy dominates politics",
+          "summary": "Compensation and health claims from US testing shaped the national agenda."
+        },
+        {
+          "headline": "Majuro hosts regional fisheries talks",
+          "summary": "Tuna management discussions brought Pacific officials to the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands athletes at Melbourne Games",
+        "summary": "The nation's team competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 52000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tomeing elected president",
+          "summary": "Litokwa Tomeing won the presidency in January after the general election."
+        },
+        {
+          "headline": "New government reviews Compact funds",
+          "summary": "The administration scrutinised American assistance spending."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Apia Pacific Games",
+        "summary": "The nation's athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 52000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tomeing administration settles in",
+          "summary": "The new government pursued its development agenda."
+        },
+        {
+          "headline": "Majuro Declaration on climate looms",
+          "summary": "Climate advocacy became central to Marshallese diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands debuts at Beijing Olympics",
+        "summary": "The nation sent its first Olympic team to Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 52000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tomeing ousted; Zedkaia becomes president",
+          "summary": "Jurelang Zedkaia won an October no-confidence vote."
+        },
+        {
+          "headline": "Political instability rattles Majuro",
+          "summary": "The leadership change was the latest in frequent turnover."
+        }
+      ],
+      "sport": {
+        "headline": "Marshallese lifters target Delhi 2010",
+        "summary": "Weightlifters prepared for the Commonwealth Games."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 53000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Zedkaia government consolidates",
+          "summary": "The new administration built its parliamentary base."
+        },
+        {
+          "headline": "Nuclear claims tribunal struggles",
+          "summary": "Compensation funds ran dry as claims mounted."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Delhi Commonwealth Games",
+        "summary": "The nation's athletes competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 53000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "General election held",
+          "summary": "Voters went to the polls in November amid political fragmentation."
+        },
+        {
+          "headline": "Coalition talks follow election",
+          "summary": "Parties negotiated to form a government."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Noumea Pacific Games",
+        "summary": "The nation's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 53000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Christopher Loeak elected president",
+          "summary": "Parliament chose Loeak as president in January."
+        },
+        {
+          "headline": "Majuro hosts Pacific Islands Forum",
+          "summary": "Regional leaders met in Majuro in August."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at London Olympics",
+        "summary": "The nation's small team competed in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 52000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Majuro Declaration on climate leadership signed",
+          "summary": "Forum leaders committed to climate action at the Majuro summit."
+        },
+        {
+          "headline": "Marshall Islands champions 1.5-degree target",
+          "summary": "Majuro pushed the ambitious warming limit ahead of Paris talks."
+        }
+      ],
+      "sport": {
+        "headline": "Marshallese athletes in regional competition",
+        "summary": "The nation's teams contested Oceania championships."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 51000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Loeak government pursues climate diplomacy",
+          "summary": "The president carried the 1.5-degree campaign to world capitals."
+        },
+        {
+          "headline": "Fisheries revenue reforms advance",
+          "summary": "Vessel day scheme income boosted government coffers."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Glasgow Commonwealth Games",
+        "summary": "The nation's athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 50000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Marshall Islands sues nuclear powers",
+          "summary": "Majuro took nuclear-armed states to the International Court of Justice."
+        },
+        {
+          "headline": "King tides flood Majuro",
+          "summary": "Extreme tides inundated the capital, underscoring climate vulnerability."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Port Moresby Pacific Games",
+        "summary": "The nation's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 49000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hilda Heine elected first female president",
+          "summary": "Parliament chose Heine in January, a Pacific first."
+        },
+        {
+          "headline": "ICJ dismisses nuclear cases",
+          "summary": "The court ruled it lacked jurisdiction over the Marshall Islands' claims."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Rio Olympics",
+        "summary": "The nation's small team competed in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 47000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Heine government advances reforms",
+          "summary": "The administration pushed education and fisheries reforms."
+        },
+        {
+          "headline": "Runit Dome nuclear concerns raised",
+          "summary": "The president warned about the leaking US nuclear waste dome."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Pacific Mini Games",
+        "summary": "The nation's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 45000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Heine survives no-confidence vote",
+          "summary": "The president held on after a parliamentary challenge."
+        },
+        {
+          "headline": "Majuro hosts climate discussions",
+          "summary": "Regional talks on ocean and climate were staged in the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Gold Coast Commonwealth Games",
+        "summary": "The nation's athletes competed in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 44000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Heine loses no-confidence vote",
+          "summary": "Parliament ousted the president in November."
+        },
+        {
+          "headline": "Taiwan ties debated amid switch speculation",
+          "summary": "Majuro weighed its diplomatic relationship with Taipei."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Apia Pacific Games",
+        "summary": "The nation's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 44000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "David Kabua becomes president",
+          "summary": "Parliament elected Kabua in January after Heine's ouster."
+        },
+        {
+          "headline": "Marshall Islands stays COVID-free",
+          "summary": "Closed borders kept the virus out through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 42000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kabua government navigates Compact talks",
+          "summary": "Majuro negotiated renewed US assistance with Washington."
+        },
+        {
+          "headline": "Marshall Islands records COVID cases",
+          "summary": "The virus eventually reached the islands."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Tokyo Olympics",
+        "summary": "The nation's athletes competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 41000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Majuro pushes nuclear justice campaign",
+          "summary": "The government demanded more US compensation for testing."
+        },
+        {
+          "headline": "Compact negotiations advance",
+          "summary": "Talks with Washington on renewed assistance progressed."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Birmingham Commonwealth Games",
+        "summary": "The nation's athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 40000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Compact of Free Association renewed",
+          "summary": "Majuro signed a new twenty-year agreement with Washington in October."
+        },
+        {
+          "headline": "General election held",
+          "summary": "Voters went to the polls in November."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Honiara Pacific Games",
+        "summary": "The nation's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 38000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hilda Heine returns as president",
+          "summary": "Parliament re-elected Heine in January."
+        },
+        {
+          "headline": "US Congress approves Compact funding",
+          "summary": "Washington passed the funding package in March."
+        }
+      ],
+      "sport": {
+        "headline": "Marshall Islands at Paris Olympics",
+        "summary": "The nation's small team competed in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 36000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Heine government pursues development agenda",
+          "summary": "The administration focused on Compact implementation and climate resilience."
+        },
+        {
+          "headline": "Nuclear legacy claims continue",
+          "summary": "Majuro kept pressing Washington on testing compensation."
+        }
+      ],
+      "sport": {
+        "headline": "Marshallese athletes target regional Games",
+        "summary": "The nation's teams prepared for upcoming Pacific competitions."
+      }
+    }
+  ]
+}

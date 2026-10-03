@@ -1,0 +1,397 @@
+{
+  "country": "Zambia",
+  "iso3": "ZMB",
+  "currency": "ZMW",
+  "currency_name": "Zambian Kwacha",
+  "period": "2006-2025",
+  "currency_note": "Kwacha rebased Jan 2013 (ZMK→ZMW, 1,000:1).",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 12130000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mwanawasa re-elected",
+          "summary": "October's vote extends the president's rule."
+        },
+        {
+          "headline": "Chinese investment debated",
+          "summary": "Labor unrest at Chinese mines raises tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia reach AFCON",
+        "summary": "The Chipolopolo qualify for the 2006 tournament in Egypt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 12565000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mwanawasa's health fails",
+          "summary": "The president suffers a stroke."
+        },
+        {
+          "headline": "Succession speculation",
+          "summary": "Vice President Banda stands by."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia qualify for 2008 AFCON",
+        "summary": "The Chipolopolo reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 13021000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mwanawasa dies",
+          "summary": "The president dies in August; Rupiah Banda succeeds him."
+        },
+        {
+          "headline": "Banda wins by-election",
+          "summary": "October's vote confirms the vice president."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia reach AFCON quarterfinals",
+        "summary": "Cameroon end the Chipolopolo's run in the 2008 last eight."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 13490000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Banda's government",
+          "summary": "The new president consolidates power."
+        },
+        {
+          "headline": "Copper prices recover",
+          "summary": "The mining economy rebounds."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia chase 2010 World Cup spot",
+        "summary": "The Chipolopolo compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 13966000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Banda's popularity slides",
+          "summary": "Corruption allegations hurt the president."
+        },
+        {
+          "headline": "Sata's PF rises",
+          "summary": "The opposition leader gains ground."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia reach AFCON semifinals",
+        "summary": "The Chipolopolo finish third at the 2010 tournament in Angola."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 14438000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sata wins presidency",
+          "summary": "September's vote ends MMD's 20-year rule."
+        },
+        {
+          "headline": "Peaceful transfer",
+          "summary": "Banda concedes gracefully."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia qualify for 2012 AFCON",
+        "summary": "The Chipolopolo reach the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 14914000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sata's government begins",
+          "summary": "The new president launches infrastructure projects."
+        },
+        {
+          "headline": "Labor unrest",
+          "summary": "Mine workers strike over conditions."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia win Africa Cup of Nations",
+        "summary": "An 8-7 shootout victory over Ivory Coast delivers Zambia's first title."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 15399000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sata's health rumors",
+          "summary": "The president's absences fuel speculation."
+        },
+        {
+          "headline": "Opposition harassed",
+          "summary": "Critics face arrests."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia exit AFCON at group stage",
+        "summary": "The holders go home early from the 2013 tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 15895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sata dies",
+          "summary": "The president dies in October; Vice President Scott takes over."
+        },
+        {
+          "headline": "White interim president",
+          "summary": "Guy Scott becomes Africa's first white leader since apartheid."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia miss 2014 World Cup",
+        "summary": "The Chipolopolo fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 16399000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lungu wins by-election",
+          "summary": "Edgar Lungu defeats Hichilema in January's vote."
+        },
+        {
+          "headline": "Copper crash hits economy",
+          "summary": "Falling prices squeeze revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia exit AFCON at group stage",
+        "summary": "The Chipolopolo go home early from the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 16914000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lungu re-elected narrowly",
+          "summary": "August's vote extends his rule; Hichilema alleges fraud."
+        },
+        {
+          "headline": "Opposition leader jailed",
+          "summary": "Hichilema is detained on treason charges."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia compete at Rio Olympics",
+        "summary": "Zambian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 17441000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "State of emergency",
+          "summary": "July's decree follows alleged opposition sabotage."
+        },
+        {
+          "headline": "Hichilema released",
+          "summary": "The opposition leader is freed after 100 days."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia miss 2017 AFCON",
+        "summary": "The Chipolopolo fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 17974000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lungu seeks third term",
+          "summary": "The president maneuvers to stay beyond 2021."
+        },
+        {
+          "headline": "Debt crisis looms",
+          "summary": "Chinese loans push Zambia toward default."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia miss 2018 World Cup",
+        "summary": "The Chipolopolo fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 18514000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Copperbelt tensions",
+          "summary": "Mine disputes strain the economy."
+        },
+        {
+          "headline": "Lungu's popularity slides",
+          "summary": "Economic woes hurt the president."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia miss 2019 AFCON",
+        "summary": "The Chipolopolo fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 19059000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Zambia defaults on debt",
+          "summary": "November's missed payment makes it Africa's first pandemic-era defaulter."
+        },
+        {
+          "headline": "COVID-19 strains economy",
+          "summary": "The pandemic compounds the debt crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Barbra Banda's hat-tricks",
+        "summary": "Zambia's star scores back-to-back Olympic hat-tricks at Tokyo 2020."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 19604000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hichilema wins presidency",
+          "summary": "August's landslide ends Lungu's rule."
+        },
+        {
+          "headline": "Peaceful transfer",
+          "summary": "Lungu concedes, a democratic milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia's women debut at Olympics",
+        "summary": "The Copper Queens compete at Tokyo 2020."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 20153000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hichilema's reforms",
+          "summary": "The new president tackles debt restructuring."
+        },
+        {
+          "headline": "IMF bailout agreed",
+          "summary": "A $1.3 billion program is approved."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia miss 2022 World Cup",
+        "summary": "The Chipolopolo fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 20724000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Debt deal agreed",
+          "summary": "Creditors approve restructuring terms."
+        },
+        {
+          "headline": "Hichilema's popularity tested",
+          "summary": "Economic pain persists."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia's women debut at World Cup",
+        "summary": "The Copper Queens beat Costa Rica at Australia-New Zealand 2023."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 21315000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Drought devastates harvests",
+          "summary": "El Nino-driven dry spells trigger a food crisis."
+        },
+        {
+          "headline": "Lungu barred from 2026 race",
+          "summary": "Courts rule the ex-president ineligible."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia's women at Paris Olympics",
+        "summary": "The Copper Queens compete at the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 21914000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lungu dies",
+          "summary": "The former president dies in June in South Africa."
+        },
+        {
+          "headline": "Hichilema's government",
+          "summary": "The president prepares for the 2026 vote."
+        }
+      ],
+      "sport": {
+        "headline": "Zambia qualify for 2025 AFCON",
+        "summary": "The Chipolopolo reach the Morocco tournament."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Guam",
+  "iso3": null,
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-Japan realignment plans Guam buildup",
+          "summary": "Washington and Tokyo agreed to move thousands of Marines to Guam."
+        },
+        {
+          "headline": "Buildup debate divides the island",
+          "summary": "Residents weighed economic benefits against environmental and cultural costs."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes at Melbourne Games",
+        "summary": "The territory does not compete at the Commonwealth Games; athletes focused on regional events."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam buildup planning advances",
+          "summary": "Environmental impact studies began for the massive military expansion."
+        },
+        {
+          "headline": "Camacho administration backs buildup",
+          "summary": "The governor supported the realignment while seeking local benefits."
+        }
+      ],
+      "sport": {
+        "headline": "Guam at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam's political status debate continues",
+          "summary": "Decolonisation and self-determination remained live issues."
+        },
+        {
+          "headline": "Tourism growth from Asia",
+          "summary": "Japanese and Korean visitors drove the island's economy."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's team at Beijing Olympics",
+        "summary": "Guamanian athletes competed in athletics and swimming."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Draft buildup impact statement released",
+          "summary": "The Pentagon's plan detailed the Marines' move and its island impact."
+        },
+        {
+          "headline": "Guam pushes back on buildup scale",
+          "summary": "Local leaders demanded a smaller footprint and more local hiring."
+        }
+      ],
+      "sport": {
+        "headline": "Matao footballers in World Cup qualifying",
+        "summary": "Guam's national football team contested Asian qualifiers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Eddie Calvo elected governor",
+          "summary": "Calvo won the November gubernatorial election."
+        },
+        {
+          "headline": "Buildup scaled back",
+          "summary": "Washington and Tokyo agreed to move fewer Marines than first planned."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes in regional competition",
+        "summary": "The territory's teams contested Pacific tournaments."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Calvo takes office",
+          "summary": "The new governor pledged fiscal reform and buildup negotiations."
+        },
+        {
+          "headline": "Guam hosts regional security talks",
+          "summary": "The island's strategic role grew in US Pacific planning."
+        }
+      ],
+      "sport": {
+        "headline": "Guam at Noumea Pacific Games",
+        "summary": "The territory's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-Japan revise Guam realignment",
+          "summary": "The allies delinked the Marine move from Okinawa base politics."
+        },
+        {
+          "headline": "Guam's economy weathers global slowdown",
+          "summary": "Tourism and military spending sustained growth."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes at London Olympics",
+        "summary": "Guamanian competitors represented the territory in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam buildup moves forward slowly",
+          "summary": "Construction planning continued for the Marine Corps base."
+        },
+        {
+          "headline": "Typhoon threats test preparedness",
+          "summary": "Seasonal storms kept emergency agencies busy."
+        }
+      ],
+      "sport": {
+        "headline": "Matao climbs FIFA rankings",
+        "summary": "Guam's football team rose through Asian qualifying competitions."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Calvo re-elected governor",
+          "summary": "The governor won a second term in the November election."
+        },
+        {
+          "headline": "Camp Blaz construction begins",
+          "summary": "Work started on the new Marine Corps base in northern Guam."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's footballers impress in Asian Cup qualifying",
+        "summary": "The Matao earned surprise results against higher-ranked sides."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam's strategic importance grows",
+          "summary": "The Pentagon highlighted Guam in its Asia-Pacific rebalance."
+        },
+        {
+          "headline": "Tourism hits records",
+          "summary": "Visitor arrivals climbed on strong Asian demand."
+        }
+      ],
+      "sport": {
+        "headline": "Guam at Port Moresby Pacific Games",
+        "summary": "The territory's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam debates statehood and status options",
+          "summary": "The decolonisation commission advanced self-determination education."
+        },
+        {
+          "headline": "THAAD missile defence deployed",
+          "summary": "The US stationed the anti-missile system on Guam amid North Korea tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes at Rio Olympics",
+        "summary": "Guamanian competitors represented the territory in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "North Korea threatens Guam with missiles",
+          "summary": "Pyongyang's August threat to strike near Guam made global headlines."
+        },
+        {
+          "headline": "Island stays calm amid threats",
+          "summary": "Guam's leaders urged calm as US bombers flew deterrence missions."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's footballers in World Cup qualifying",
+        "summary": "The Matao contested the Asian road to Russia 2018."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Leon Guerrero elected first female governor",
+          "summary": "Lou Leon Guerrero won the November election."
+        },
+        {
+          "headline": "New administration takes office",
+          "summary": "The governor pledged healthcare and education reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes in regional tournaments",
+        "summary": "The territory's teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Leon Guerrero administration begins",
+          "summary": "The new government tackled the hospital and fiscal challenges."
+        },
+        {
+          "headline": "Guam hosts Pacific security dialogues",
+          "summary": "The island's strategic role kept growing."
+        }
+      ],
+      "sport": {
+        "headline": "Guam at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "USS Theodore Roosevelt COVID outbreak",
+          "summary": "The virus swept the docked carrier in March, killing a sailor and sickening hundreds."
+        },
+        {
+          "headline": "Guam's tourism collapses",
+          "summary": "Border closures wiped out the visitor economy."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the territory's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam reopens to tourists",
+          "summary": "Vaccinated travel bubbles revived the visitor industry."
+        },
+        {
+          "headline": "Missile defence plans expand",
+          "summary": "The Pentagon detailed enhanced air defences for the island."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes at Tokyo Olympics",
+        "summary": "Guamanian competitors represented the territory at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Leon Guerrero re-elected governor",
+          "summary": "The governor won a second term in the November election."
+        },
+        {
+          "headline": "Guam's military role expands",
+          "summary": "New facilities and rotations reinforced the island's strategic position."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's footballers in Asian competitions",
+        "summary": "The Matao continued contesting Asian qualifiers."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Typhoon Mawar devastates Guam",
+          "summary": "The May Category 4 storm was the strongest to hit in decades."
+        },
+        {
+          "headline": "Federal aid funds recovery",
+          "summary": "Washington declared a disaster as the island rebuilt."
+        }
+      ],
+      "sport": {
+        "headline": "Guam at Honiara Pacific Games",
+        "summary": "The territory's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Aegis missile defence plans advance",
+          "summary": "The Pentagon moved ahead with the Guam missile defence system."
+        },
+        {
+          "headline": "Guam hosts multinational exercises",
+          "summary": "Allied forces trained on and around the island."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's athletes at Paris Olympics",
+        "summary": "Guamanian competitors represented the territory in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guam's buildup enters new phase",
+          "summary": "Marine Corps facilities neared completion as rotations grew."
+        },
+        {
+          "headline": "Island balances growth and culture",
+          "summary": "Leaders weighed military expansion against Chamorro heritage concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Guam's footballers chase Asian Cup qualification",
+        "summary": "The Matao continued their steady rise in Asian football."
+      }
+    }
+  ]
+}

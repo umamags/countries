@@ -1,0 +1,400 @@
+{
+  "country": "Guatemala",
+  "iso3": "GTM",
+  "currency": "GTQ",
+  "currency_name": "Guatemalan Quetzal",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 13367000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN anti-impunity commission created",
+          "summary": "December pact with the UN creates CICIG to fight organized crime and entrenched corruption in a landmark deal."
+        },
+        {
+          "headline": "Berger's final year",
+          "summary": "Outgoing president Berger touts economic stability as November elections approach, with crime the top concern for voters."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup dream dies early",
+        "summary": "Guatemala falls short in CONCACAF qualifying for the Germany World Cup, exiting in the semifinal round."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 13652000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Colom wins the presidency",
+          "summary": "November runoff gives the UNE candidate victory over Pérez Molina on promises to fight poverty and crime."
+        },
+        {
+          "headline": "Salvadoran politicians murdered",
+          "summary": "February killing of three Central American parliament deputies shocks the region, exposing police-criminal links in a major scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup quarterfinal run",
+        "summary": "Guatemala reaches the knockout stage in June before falling to Canada in a narrow defeat."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 13935000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Colom takes office",
+          "summary": "January inauguration brings a social-democrat agenda and high hopes amid gang violence and entrenched poverty."
+        },
+        {
+          "headline": "CICIG begins work",
+          "summary": "The UN anti-impunity commission opens investigations into clandestine criminal networks in its first year."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying failure",
+        "summary": "Guatemala exits 2010 World Cup qualifying in the third round, missing the final hexagonal once again."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 14216000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rosenberg murder scandal",
+          "summary": "A lawyer's videotaped accusation against the president in May triggers a political crisis before investigators debunk it."
+        },
+        {
+          "headline": "CICIG clears Colom",
+          "summary": "The UN commission finds the president innocent in the Rosenberg case in its landmark investigation."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup group-stage exit",
+        "summary": "Guatemala fails to advance at the 2009 Gold Cup in July after a winless campaign."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 14500000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Storm Agatha and Pacaya eruption",
+          "summary": "May's volcanic eruption and tropical storm kill dozens and wreck infrastructure in the year's worst disaster."
+        },
+        {
+          "headline": "Drug violence spreads",
+          "summary": "Mexican cartels push into Guatemala, corrupting police and officials as the drug corridor shifts south."
+        }
+      ],
+      "sport": {
+        "headline": "Medals at the CAC Games",
+        "summary": "Guatemalan athletes win medals at July's Central American and Caribbean Games in Puerto Rico."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 14792000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pérez Molina wins presidency",
+          "summary": "November victory brings a former general to power on security promises, defeating Baldizón in a runoff."
+        },
+        {
+          "headline": "CICIG's mandate extended",
+          "summary": "The UN commission wins more time amid political resistance in Guatemala City as it jails crime bosses."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup quarterfinal again",
+        "summary": "Guatemala reaches the last eight in June before losing to Mexico in a hard-fought match."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 15090000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pérez Molina's mano dura",
+          "summary": "New president deploys troops against gangs and drug traffickers in January, with mixed results."
+        },
+        {
+          "headline": "Ríos Montt genocide case advances",
+          "summary": "Ex-dictator Ríos Montt is ordered to face trial for 1980s atrocities in a historic ruling."
+        }
+      ],
+      "sport": {
+        "headline": "Barrondo wins historic silver",
+        "summary": "Erick Barrondo takes 20km walk silver in August at the London Games, Guatemala's first Olympic medal."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 15387000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ríos Montt convicted, then freed",
+          "summary": "May genocide conviction is overturned days later on procedural grounds, outraging victims' families and human rights groups."
+        },
+        {
+          "headline": "Customs corruption exposed",
+          "summary": "CICIG investigations begin unraveling the La Línea customs corruption network that will topple a president two years later."
+        }
+      ],
+      "sport": {
+        "headline": "Quiet year for Guatemalan sport",
+        "summary": "Athletes medal across several disciplines at the Central American Games in San José in March."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 15682000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Drug trafficking deepens",
+          "summary": "Cartels tighten their grip with record cocaine seizures along trafficking routes as the state struggles to respond."
+        },
+        {
+          "headline": "Child migrant crisis",
+          "summary": "Thousands of unaccompanied Guatemalan minors surge toward the US border in a summer humanitarian crisis straining shelters."
+        }
+      ],
+      "sport": {
+        "headline": "CAC Games medals in Veracruz",
+        "summary": "Guatemala's athletes win medals in November at the regional games in Mexico across athletics and racquet sports."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 15972000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "La Línea scandal erupts",
+          "summary": "April revelations expose a customs bribery ring run by top officials, reaching the presidency and investigated by CICIG."
+        },
+        {
+          "headline": "President resigns and is jailed",
+          "summary": "Pérez Molina quits in September after mass street protests demanding his ouster and is jailed over corruption."
+        },
+        {
+          "headline": "Outsider Morales wins presidency",
+          "summary": "Comedian Jimmy Morales sweeps October elections on an anti-corruption wave, defeating Torres in a runoff."
+        }
+      ],
+      "sport": {
+        "headline": "Cordón's badminton gold in Toronto",
+        "summary": "Kevin Cordón wins Pan Am badminton gold in July at the Toronto Games, defending his 2011 title."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 16269000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Morales takes office",
+          "summary": "January inauguration brings promises of honesty and a new era after his surprise victory over the establishment."
+        },
+        {
+          "headline": "CICIG targets the president's circle",
+          "summary": "UN investigators close in on the president's family and party finances, straining the relationship with the commission."
+        }
+      ],
+      "sport": {
+        "headline": "FIFA suspends Guatemala",
+        "summary": "October suspension over governance failures bans teams from international play amid federation corruption probes and government interference."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 16567000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hogar Seguro fire kills 41",
+          "summary": "March blaze at a state shelter kills 41 girls, exposing abuse and sparking national outrage."
+        },
+        {
+          "headline": "Morales moves against CICIG",
+          "summary": "August bid to expel the UN commissioner triggers a constitutional crisis as courts block him."
+        }
+      ],
+      "sport": {
+        "headline": "Ban sidelines Guatemalan football",
+        "summary": "The FIFA suspension keeps teams out of World Cup qualifying throughout the year, stalling the national program."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 16846000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "CICIG's mandate terminated",
+          "summary": "Morales refuses to renew the UN commission in a blow to anti-corruption efforts, ending its 12-year run."
+        },
+        {
+          "headline": "Migrant caravans head north",
+          "summary": "October caravans of Hondurans and Guatemalans march toward the US, drawing Trump's ire and border crackdowns."
+        }
+      ],
+      "sport": {
+        "headline": "FIFA lifts the suspension",
+        "summary": "A May decision readmits Guatemala to international football after governance reforms, ending an 18-month exile."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 17104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Giammattei wins the presidency",
+          "summary": "August runoff victory brings a hardline conservative to power over Torres amid low turnout."
+        },
+        {
+          "headline": "Safe third country deal with US",
+          "summary": "July pact forces asylum seekers to claim refuge in Guatemala despite domestic opposition and court challenges."
+        }
+      ],
+      "sport": {
+        "headline": "Return to international football",
+        "summary": "Guatemala rejoins CONCACAF competitions in September after the long FIFA ban, starting in the Nations League."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 17357000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pandemic and hurricanes batter Guatemala",
+          "summary": "COVID-19 strains hospitals before Eta and Iota strike in November, displacing thousands in the year's twin disasters."
+        },
+        {
+          "headline": "Giammattei's rocky first year",
+          "summary": "Corruption allegations and a struggling response dog the new president amid congressional battles over the budget."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by COVID",
+        "summary": "The pandemic suspends Guatemala's leagues and national team fixtures in March for most of the year."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 17599000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Protests against Giammattei",
+          "summary": "Street demonstrations in the capital denounce corruption and the government's pandemic response through the year."
+        },
+        {
+          "headline": "Harris visits Guatemala",
+          "summary": "The US vice president's June visit presses Guatemala on corruption and migration with stern warnings against traveling north."
+        }
+      ],
+      "sport": {
+        "headline": "Comunicaciones wins CONCACAF League",
+        "summary": "The club beats Motagua in December for Guatemala's first regional title in a historic triumph."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17848000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-corruption exodus",
+          "summary": "Prosecutors and judges flee as Giammattei's allies capture the courts, dismantling CICIG's legacy case by case."
+        },
+        {
+          "headline": "Top journalist jailed",
+          "summary": "July arrest of elPeriódico's founder deepens a crackdown on the press, drawing international condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "Rebuild under coach Tena",
+        "summary": "Luis Fernando Tena takes over a national team in transition as Guatemala eyes the 2026 World Cup cycle."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 18125000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arévalo's surprise victory",
+          "summary": "Anti-corruption candidate Bernardo Arévalo wins the August runoff, stunning the establishment despite legal attacks on his candidacy."
+        },
+        {
+          "headline": "Prosecutors target the winners",
+          "summary": "The attorney general moves to annul results in the fall, sparking mass protests in defense of democracy."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup quarterfinal run",
+        "summary": "Guatemala reaches the last eight in July before falling to Jamaica in Cincinnati."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 18406000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arévalo takes office amid coup fears",
+          "summary": "January inauguration survives prosecutors' bid to block the transfer of power in a tense ceremony."
+        },
+        {
+          "headline": "President battles the old guard",
+          "summary": "Arévalo battles entrenched prosecutors while pushing anti-corruption reforms through a difficult first year in office."
+        }
+      ],
+      "sport": {
+        "headline": "First Olympic gold for Guatemala",
+        "summary": "Adriana Ruano wins trap shooting gold in August; Brol takes bronze in Paris in a historic double."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18664000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arévalo's reform push stalls",
+          "summary": "Congress blocks key reforms in his second year as the president's approval slides amid elite resistance."
+        },
+        {
+          "headline": "US deportations strain ties",
+          "summary": "A surge in US deportation flights in 2025 tests Guatemala's reception capacity and bilateral relations."
+        }
+      ],
+      "sport": {
+        "headline": "Historic Gold Cup semifinal",
+        "summary": "Guatemala reaches the last four in July, falling 2-1 to the US."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Eswatini",
+  "iso3": "SWZ",
+  "currency": "SZL",
+  "currency_name": "Swazi Lilangeni",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1002000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mswati's absolute rule continues",
+          "summary": "Africa's last absolute monarch faces growing pro-democracy pressure."
+        },
+        {
+          "headline": "Constitution adopted",
+          "summary": "A new charter retains the king's sweeping powers."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini fall short in AFCON qualifying",
+        "summary": "The King's Shield miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1007000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-democracy protests",
+          "summary": "Unions and activists march for multiparty democracy."
+        },
+        {
+          "headline": "Government bans protests",
+          "summary": "Police break up demonstrations in Mbabane."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2008 AFCON",
+        "summary": "The national team fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1014000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held without parties",
+          "summary": "September's vote under the tinkhundla system excludes political parties."
+        },
+        {
+          "headline": "King's lavish lifestyle criticized",
+          "summary": "Mswati's wealth contrasts with widespread poverty."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini compete at Beijing Olympics",
+        "summary": "Swazi athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1021000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic crisis looms",
+          "summary": "Falling customs revenues squeeze the budget."
+        },
+        {
+          "headline": "Pro-democracy pressure builds",
+          "summary": "Activists demand constitutional reform."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini chase 2010 World Cup spot",
+        "summary": "The King's Shield compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1027000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fiscal crisis deepens",
+          "summary": "The government struggles to pay civil servants."
+        },
+        {
+          "headline": "South Africa offers bailout",
+          "summary": "Pretoria conditions aid on political reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2010 World Cup",
+        "summary": "The King's Shield fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1032000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass protests shake kingdom",
+          "summary": "April's uprising is the biggest challenge to Mswati's rule."
+        },
+        {
+          "headline": "Security forces crack down",
+          "summary": "Police crush demonstrations demanding democracy."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2012 AFCON",
+        "summary": "The King's Shield fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1038000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King's rule unchallenged",
+          "summary": "Mswati weathers the protest wave without concessions."
+        },
+        {
+          "headline": "Economy stabilizes",
+          "summary": "Customs revenues recover modestly."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini compete at London Olympics",
+        "summary": "Swazi athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1044000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held without parties",
+          "summary": "September's tinkhundla vote returns a loyalist parliament."
+        },
+        {
+          "headline": "Opposition boycotts",
+          "summary": "Pro-democracy groups reject the process."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2013 AFCON",
+        "summary": "The King's Shield fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1049000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US suspends trade benefits",
+          "summary": "Washington cites labor rights in revoking AGOA eligibility."
+        },
+        {
+          "headline": "King's spending criticized",
+          "summary": "Royal luxury purchases draw public anger."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2014 World Cup",
+        "summary": "The King's Shield fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1055000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-democracy activists tried",
+          "summary": "Courts jail critics of the monarchy."
+        },
+        {
+          "headline": "Eswatini seeks investment",
+          "summary": "The kingdom promotes sugar and tourism."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2015 AFCON",
+        "summary": "The King's Shield fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1062000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King's birthday celebrated",
+          "summary": "Lavish ceremonies mark Mswati's 48th birthday."
+        },
+        {
+          "headline": "Reform pressure continues",
+          "summary": "Unions keep demanding multiparty democracy."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini compete at Rio Olympics",
+        "summary": "Swazi athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1070000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Student protests",
+          "summary": "University demonstrations over allowances are suppressed."
+        },
+        {
+          "headline": "Monarchy's grip firm",
+          "summary": "Mswati shows no appetite for reform."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2017 AFCON",
+        "summary": "The King's Shield fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1080000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Swaziland renamed Eswatini",
+          "summary": "The king renames the country on the 50th independence anniversary in April."
+        },
+        {
+          "headline": "Elections held without parties",
+          "summary": "September's vote maintains the tinkhundla system."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2018 World Cup",
+        "summary": "The King's Shield fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1090000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New prime minister appointed",
+          "summary": "Ambrose Dlamini takes office promising economic revival."
+        },
+        {
+          "headline": "Protests over economy",
+          "summary": "Public workers strike over unpaid salaries."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2019 AFCON",
+        "summary": "The King's Shield fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1102000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Prime minister dies of COVID-19",
+          "summary": "Ambrose Dlamini dies in December, the first world leader to die of the virus."
+        },
+        {
+          "headline": "Pandemic strains kingdom",
+          "summary": "COVID-19 overwhelms the health system."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Eswatini's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1114000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-democracy protests turn deadly",
+          "summary": "June-July demonstrations are met with lethal force; dozens are killed."
+        },
+        {
+          "headline": "King accused of ordering crackdown",
+          "summary": "Activists say Mswati unleashed the army on protesters."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2021 AFCON",
+        "summary": "The King's Shield fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1126000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Crackdown aftermath",
+          "summary": "Trials of protesters continue as the monarchy refuses dialogue."
+        },
+        {
+          "headline": "Eswatini's isolation grows",
+          "summary": "International criticism mounts over the 2021 killings."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2022 World Cup",
+        "summary": "The King's Shield fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1138000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held without parties",
+          "summary": "September's tinkhundla vote returns loyalists amid an opposition boycott."
+        },
+        {
+          "headline": "Activist murdered",
+          "summary": "The killing of human rights lawyer Thulani Maseko in January shocks the nation."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini miss 2023 AFCON",
+        "summary": "The King's Shield fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1150000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New prime minister appointed",
+          "summary": "Russell Dlamini takes office as the kingdom's chief executive."
+        },
+        {
+          "headline": "Dialogue demands persist",
+          "summary": "Pro-democracy groups keep pressing for talks with the king."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini compete at Paris Olympics",
+        "summary": "Swazi athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1163000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Monarchy resists reform",
+          "summary": "Mswati shows no sign of conceding multiparty democracy."
+        },
+        {
+          "headline": "Eswatini accepts US deportees",
+          "summary": "Mbabane agrees to take third-country deportees from Washington."
+        }
+      ],
+      "sport": {
+        "headline": "Eswatini chase 2026 World Cup spot",
+        "summary": "The King's Shield compete in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

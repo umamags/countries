@@ -1,0 +1,677 @@
+{
+  "country": "Saint Lucia",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "population": "179,744",
+  "currency": "East Caribbean Dollar (XCD)",
+  "area": "616",
+  "landmarks": [
+    {
+      "name": "The Pitons",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Pitons are two mountainous volcanic plugs, volcanic spires, located in Saint Lucia. Petit Piton is 743\u00a0m (2,438\u00a0ft) high and Gros Piton is 798.25\u00a0m (2,618.9\u00a0ft) high; they are linked by the Piton Mitan ridge. Piton means mountain peak in French, so Petit and Gros Piton respectively refer to the smaller and larger peak. The Pitons are a World Heritage Site, 2,909\u00a0ha in size, and located near the town of Soufri\u00e8re.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pitons-aerial.jpg/330px-Pitons-aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Pitons_(Saint_Lucia)",
+        "coordinates": {
+          "lat": 13.81,
+          "lon": -61.06555556
+        }
+      }
+    },
+    {
+      "name": "Pigeon Island National Landmark",
+      "writeup": "",
+      "wiki": {
+        "extract": "Pigeon Island is a 44-acre (180,000\u00a0m2) islet located in Gros Islet in the northern region of Saint Lucia. Once isolated from the country in the Caribbean Sea, the island was artificially joined to the western coast of mainland in 1972 by a man-made causeway built from dirt excavated to form the Rodney Bay Marina. Composed of two peaks the island is a historic site with numerous forts such as an 18th-century British fort and Fort Rodney both used by the British to spy on French Ships from neighbouring Martinique. In 1979 it was named a national park and again in 1992 it became a national landmark under the control of the Saint Lucia National Trust (SLNT). Today, Pigeon Island is the home and major venue of the Saint Lucia Jazz Festival.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pigeon_Island_historical_marker_for_Fort_Rodney.jpg/330px-Pigeon_Island_historical_marker_for_Fort_Rodney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Pigeon_Island_(Saint_Lucia)",
+        "coordinates": {
+          "lat": 14.08333333,
+          "lon": -60.96666667
+        }
+      }
+    },
+    {
+      "name": "Marigot Bay",
+      "writeup": "",
+      "wiki": {
+        "extract": "Marigot Bay is located on the western coast of the Caribbean island country of Saint Lucia, 3.75 miles southwest from Castries and a short distance from the Saint Lucian National Marine Reserve. It is surrounded on three sides by steep, forested hills.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Marigot_Bay%2C_St._Lucia.jpg/330px-Marigot_Bay%2C_St._Lucia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Marigot_Bay",
+        "coordinates": {
+          "lat": 13.96376,
+          "lon": -61.025979
+        }
+      }
+    },
+    {
+      "name": "Sulphur Springs Park",
+      "writeup": "",
+      "wiki": {
+        "extract": "Sulphur Springs is a geothermal field on the island of Saint Lucia. It is located to the southwest in the district of Soufriere, a name given by the French meaning 'sulphur mine', because of the proximity of the town to the site. It is the most popular tourist destination in Saint Lucia, with approximately 200,000 annual patrons to the park, and is known as 'the world's only drive-in volcano'.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Sulphur_Springs_2003.jpg/330px-Sulphur_Springs_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Sulphur_Springs%2C_Saint_Lucia",
+        "coordinates": {
+          "lat": 13.838,
+          "lon": -61.046
+        }
+      }
+    },
+    {
+      "name": "Castries Market",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Castries Market and Vendor's Arcade is the largest open-air market in Castries, Saint Lucia. It is located in the middle of the capital and has over 300 regular vendors and a hundred or more local sellers on market days.",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Castries_Market_from_Jeremie_Street.JPG/330px-Castries_Market_from_Jeremie_Street.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://en.wikipedia.org/wiki/Castries_Market",
+        "coordinates": {
+          "lat": 14.0118,
+          "lon": -60.9894
+        }
+      }
+    }
+  ],
+  "head_of_state": "Prime Minister Philip J. Pierre",
+  "cultural_events": [
+    {
+      "name": "Saint Lucia Carnival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The culture of Saint Lucia blends the influences of African, French, and English heritage. The official language of the island is English but Kw\u00e9y\u00f2l remains an influential secondary language with an English Creole spoken as well. The people are predominantly Catholic but the religious climate is tolerant.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Culture_of_Saint_Lucia"
+      }
+    },
+    {
+      "name": "Saint Lucia Jazz and Arts Festival",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Saint Lucia Jazz and Arts Festival is an annual event on the Caribbean island of Saint Lucia that brings together local and international musicians and other performing artists, as well as artisans. The festival presents jazz, R&B, and Calypso music, dance, theatre, and international couture.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Saint_Lucia_Jazz_and_Arts_Festival"
+      }
+    },
+    {
+      "name": "Jounen Kw\u00e9y\u00f2l",
+      "writeup": "",
+      "wiki": {
+        "extract": "Jounen Kw\u00e9y\u00f2l is celebrated in the Caribbean islands of Dominica and Saint Lucia, on the last Friday of October and the last Sunday of October respectively and has been held annually since 1984. Throughout the preceding week, the various towns on both islands host cultural events and festivals which showcase different elements of their heritage and culture.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Jounen_Kw%C3%A9y%C3%B2l"
+      }
+    },
+    {
+      "name": "Atlantic Rally for Cruisers",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Atlantic Rally for Cruisers (ARC) is an annual transatlantic sailing event for cruiser yachts held since 1986. It also includes a sailing competition for racers. The ARC starts at the end of November in Las Palmas de Gran Canaria and ends before Christmas at Rodney Bay, Saint Lucia, in the Caribbean.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Atlantic_Rally_for_Cruisers"
+      }
+    },
+    {
+      "name": "La Rose and La Marguerite Flower Festivals",
+      "writeup": "",
+      "wiki": {
+        "extract": "The culture of Saint Lucia blends the influences of African, French, and English heritage. The official language of the island is English but Kw\u00e9y\u00f2l remains an influential secondary language with an English Creole spoken as well. The people are predominantly Catholic but the religious climate is tolerant.",
+        "image": null,
+        "url": "https://en.wikipedia.org/wiki/Culture_of_Saint_Lucia"
+      }
+    }
+  ],
+  "food_writeup": "Saint Lucian food is Creole at heart, mixing African, French and British flavours. The national dish is green fig (banana) and saltfish, served with hearty bouyon stews, callaloo soup and fresh seafood. Local cocoa, grown on the island for centuries, features in teas and desserts.",
+  "brief_history": "Contested by France and Britain fourteen times, the 'Helen of the West Indies' finally became British in 1814, with an economy built on sugar and enslaved labour. Slavery was abolished in 1834 and the island gained independence in 1979. Today Saint Lucia is known for tourism, its two Nobel laureates and, since 2024, Olympic champion Julien Alfred.",
+  "important_people": [
+    {
+      "name": "Derek Walcott",
+      "description": ""
+    },
+    {
+      "name": "Arthur Lewis",
+      "description": ""
+    },
+    {
+      "name": "Julien Alfred",
+      "description": ""
+    },
+    {
+      "name": "Darren Sammy",
+      "description": ""
+    },
+    {
+      "name": "John Compton",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "Saint Lucia has no armed conflict, though gang-related violent crime is the country's main security worry. There are no active territorial or political disputes.",
+  "five_youtube_video_titles": [
+    "Saint Lucia - Geography Now!",
+    "The Pitons of Saint Lucia - Drone Tour",
+    "Julien Alfred: Saint Lucia's Olympic Champion",
+    "Top 10 Things to Do in Saint Lucia",
+    "History of Saint Lucia"
+  ],
+  "cities": [
+    {
+      "name": "Castries",
+      "capital": true,
+      "lat": 14.01083333,
+      "lon": -60.98944444
+    },
+    {
+      "name": "Vieux Fort",
+      "capital": false,
+      "lat": 13.75,
+      "lon": -60.95
+    },
+    {
+      "name": "Soufri\u00e8re",
+      "capital": false,
+      "lat": 13.854,
+      "lon": -61.0592
+    },
+    {
+      "name": "Gros Islet",
+      "capital": false,
+      "lat": 14.08083333,
+      "lon": -60.9525
+    },
+    {
+      "name": "Dennery",
+      "capital": false,
+      "lat": 13.91409,
+      "lon": -60.89132
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/saint-lucia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Saint_Lucia-CIA_WFB_Map.png",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 1.27,
+      "gross_debt_pct_gdp": 48,
+      "gross_debt_usd_billion": 0.61,
+      "inflation_cpi_pct": 3.6,
+      "status": "Historical / IMF estimate",
+      "population": 166639,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Compton returns as PM at 81",
+          "summary": "John Compton's UWP ousts Kenny Anthony's Labour Party in the December election; Compton becomes PM again."
+        },
+        {
+          "headline": "Tourism boom continues",
+          "summary": "Strong visitor arrivals and hotel construction power the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Beausejour readied for the Cricket World Cup",
+        "summary": "Gros Islet's Beausejour Stadium is upgraded to host 2007 Cricket World Cup matches."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 1.33,
+      "gross_debt_pct_gdp": 48.2,
+      "gross_debt_usd_billion": 0.64,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate",
+      "population": 167758,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Compton dies; Stephenson King takes over",
+          "summary": "Compton dies in September months after his election win; deputy Stephenson King becomes prime minister."
+        },
+        {
+          "headline": "Beausejour hosts the Cricket World Cup",
+          "summary": "Saint Lucia stages World Cup matches at Beausejour, including a semifinal."
+        }
+      ],
+      "sport": {
+        "headline": "Darren Sammy's Test debut",
+        "summary": "St Lucian all-rounder Darren Sammy makes his West Indies Test debut against England."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 1.43,
+      "gross_debt_pct_gdp": 46.9,
+      "gross_debt_usd_billion": 0.67,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate",
+      "population": 168808,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Global crisis slams tourism",
+          "summary": "The financial crisis hits Saint Lucia's tourism-dependent economy hard."
+        },
+        {
+          "headline": "King government holds on",
+          "summary": "The UWP government pushes stimulus spending as revenues fall."
+        }
+      ],
+      "sport": {
+        "headline": "Levern Spencer at the Beijing Olympics",
+        "summary": "High jumper Levern Spencer represents Saint Lucia at the Beijing Games."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 1.4,
+      "gross_debt_pct_gdp": 50.2,
+      "gross_debt_usd_billion": 0.7,
+      "inflation_cpi_pct": -0.2,
+      "status": "Historical / IMF estimate",
+      "population": 169869,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Tourism slump deepens",
+          "summary": "Visitor arrivals keep falling in the global downturn; hotels cut staff."
+        },
+        {
+          "headline": "Government launches stimulus",
+          "summary": "King unveils public works spending to cushion the recession."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer competes at the Berlin World Championships",
+        "summary": "Levern Spencer jumps for Saint Lucia at the World Championships in Berlin."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 1.48,
+      "gross_debt_pct_gdp": 52.2,
+      "gross_debt_usd_billion": 0.77,
+      "inflation_cpi_pct": 3.3,
+      "status": "Historical / IMF estimate",
+      "population": 170906,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Hurricane Tomas devastates the island",
+          "summary": "Tomas strikes in late October, killing 14 and causing hundreds of millions in damage."
+        },
+        {
+          "headline": "Reconstruction begins after Tomas",
+          "summary": "The government launches a massive rebuilding effort with international aid."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy becomes first St Lucian Windies captain",
+        "summary": "Darren Sammy is named West Indies captain in October, a first for Saint Lucia."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 1.57,
+      "gross_debt_pct_gdp": 54.9,
+      "gross_debt_usd_billion": 0.86,
+      "inflation_cpi_pct": 2.8,
+      "status": "Historical / IMF estimate",
+      "population": 171801,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Kenny Anthony returns to power",
+          "summary": "Anthony's Labour Party wins the November election 11-6, ousting the UWP."
+        },
+        {
+          "headline": "VAT on the agenda",
+          "summary": "The new government plans a value-added tax to repair public finances."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy captains at the Cricket World Cup",
+        "summary": "Darren Sammy leads the West Indies at the World Cup in Asia."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 1.6,
+      "gross_debt_pct_gdp": 60.2,
+      "gross_debt_usd_billion": 0.96,
+      "inflation_cpi_pct": 4.2,
+      "status": "Historical / IMF estimate",
+      "population": 172587,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "VAT introduced amid protests",
+          "summary": "A 15% VAT takes effect in October as the Anthony government tackles the deficit."
+        },
+        {
+          "headline": "Tourism recovery begins",
+          "summary": "Arrivals start climbing back as the global economy stabilizes."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy lifts the World T20 trophy",
+        "summary": "Darren Sammy captains the West Indies to the World Twenty20 title in Sri Lanka."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 1.66,
+      "gross_debt_pct_gdp": 61.2,
+      "gross_debt_usd_billion": 1.02,
+      "inflation_cpi_pct": 1.5,
+      "status": "Historical / IMF estimate",
+      "population": 173369,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "IMPACS police-killings probe strains US ties",
+          "summary": "An investigation into alleged extrajudicial police killings damages security cooperation with Washington."
+        },
+        {
+          "headline": "CIP debated",
+          "summary": "The government weighs a citizenship-by-investment programme to raise revenue."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy leads the St Lucia Zouks",
+        "summary": "Darren Sammy captains the St Lucia Zouks in the first Caribbean Premier League."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 1.75,
+      "gross_debt_pct_gdp": 61.9,
+      "gross_debt_usd_billion": 1.08,
+      "inflation_cpi_pct": 3.5,
+      "status": "Historical / IMF estimate",
+      "population": 174138,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "US suspends security aid over IMPACS",
+          "summary": "Washington withholds assistance pending the outcome of the police-killings investigation."
+        },
+        {
+          "headline": "Economy grows slowly",
+          "summary": "Tourism-led growth resumes, though debt remains above 60% of GDP."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer wins Commonwealth bronze",
+        "summary": "Levern Spencer takes high jump bronze at the Glasgow Commonwealth Games."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 1.81,
+      "gross_debt_pct_gdp": 60.6,
+      "gross_debt_usd_billion": 1.1,
+      "inflation_cpi_pct": -1,
+      "status": "Historical / IMF estimate",
+      "population": 174905,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Citizenship by Investment launched",
+          "summary": "Saint Lucia launches its CIP late in the year to attract foreign capital."
+        },
+        {
+          "headline": "Anthony government under pressure",
+          "summary": "The opposition UWP, now led by Allen Chastanet, gains ground ahead of 2016 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer wins Pan Am gold",
+        "summary": "Levern Spencer wins high jump gold at the Pan American Games in Toronto."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 1.87,
+      "gross_debt_pct_gdp": 60.2,
+      "gross_debt_usd_billion": 1.13,
+      "inflation_cpi_pct": -3.1,
+      "status": "Historical / IMF estimate",
+      "population": 175646,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Chastanet's UWP sweeps to power",
+          "summary": "Allen Chastanet leads the UWP to an 11-6 election win in June, ousting Anthony."
+        },
+        {
+          "headline": "New government bets on investment",
+          "summary": "Chastanet promises major tourism and infrastructure projects, including the controversial DSH resort deal."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy leads Windies to second World T20 crown",
+        "summary": "Darren Sammy captains the West Indies to another World Twenty20 title in India."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 2.0,
+      "gross_debt_pct_gdp": 59.9,
+      "gross_debt_usd_billion": 1.2,
+      "inflation_cpi_pct": 0.1,
+      "status": "Historical / IMF estimate",
+      "population": 176342,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Irma and Maria spare Saint Lucia the worst",
+          "summary": "The island escapes major damage from the two monster hurricanes and shelters Dominican evacuees."
+        },
+        {
+          "headline": "DSH project sparks controversy",
+          "summary": "The opposition attacks the government's US$2.6 billion Desert Star Holdings resort deal."
+        }
+      ],
+      "sport": {
+        "headline": "Julien Alfred wins Commonwealth Youth gold",
+        "summary": "Teen sprinter Julien Alfred wins 100m gold at the Commonwealth Youth Games in the Bahamas."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 2.06,
+      "gross_debt_pct_gdp": 60.3,
+      "gross_debt_usd_billion": 1.24,
+      "inflation_cpi_pct": 1.9,
+      "status": "Historical / IMF estimate",
+      "population": 177017,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Tourism arrivals climb",
+          "summary": "Stayover arrivals rise as new resorts and airlift boost the sector."
+        },
+        {
+          "headline": "DSH deal stalls",
+          "summary": "The signature Desert Star Holdings project fails to break ground amid financing doubts."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer wins Commonwealth gold",
+        "summary": "Levern Spencer wins high jump gold at the Commonwealth Games on the Gold Coast."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 2.1,
+      "gross_debt_pct_gdp": 62.1,
+      "gross_debt_usd_billion": 1.3,
+      "inflation_cpi_pct": 0.5,
+      "status": "Historical / IMF estimate",
+      "population": 177661,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "40 years of independence celebrated",
+          "summary": "Saint Lucia marks four decades since independence from Britain in 1979."
+        },
+        {
+          "headline": "Chastanet under fire over spending",
+          "summary": "The opposition accuses the government of wasteful spending ahead of elections."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer takes Pan Am silver",
+        "summary": "Levern Spencer wins high jump silver at the Pan American Games in Lima."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 1.51,
+      "gross_debt_pct_gdp": 94.4,
+      "gross_debt_usd_billion": 1.43,
+      "inflation_cpi_pct": -1.8,
+      "status": "Historical / IMF estimate",
+      "population": 178250,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "COVID shutters tourism",
+          "summary": "Border closures and lockdowns devastate the tourism economy; GDP plunges."
+        },
+        {
+          "headline": "Government rolls out relief",
+          "summary": "The Chastanet administration launches stimulus and income support programmes."
+        }
+      ],
+      "sport": {
+        "headline": "Zouks reach the CPL final",
+        "summary": "The St Lucia Zouks reach the Caribbean Premier League final, losing to Trinbago Knight Riders."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 1.87,
+      "gross_debt_pct_gdp": 81.9,
+      "gross_debt_usd_billion": 1.53,
+      "inflation_cpi_pct": 2.4,
+      "status": "Historical / IMF estimate",
+      "population": 178522,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Pierre's SLP storms back",
+          "summary": "Philip J. Pierre leads Labour to a 13-2 landslide in the July snap election."
+        },
+        {
+          "headline": "Vaccination drive amid Delta wave",
+          "summary": "The new government battles a deadly COVID wave while pushing vaccinations."
+        }
+      ],
+      "sport": {
+        "headline": "Spencer at her fourth Olympics",
+        "summary": "Levern Spencer competes in the high jump at the Tokyo Olympics."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 2.33,
+      "gross_debt_pct_gdp": 73.9,
+      "gross_debt_usd_billion": 1.72,
+      "inflation_cpi_pct": 9.7,
+      "status": "Historical / IMF estimate",
+      "population": 178781,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Pierre government settles in",
+          "summary": "Labour marks a year in office with infrastructure and youth employment pledges."
+        },
+        {
+          "headline": "Tourism rebounds strongly",
+          "summary": "Visitor arrivals surge back toward pre-pandemic levels."
+        }
+      ],
+      "sport": {
+        "headline": "Alfred wins Commonwealth silver",
+        "summary": "Julien Alfred takes 100m silver at the Commonwealth Games in Birmingham."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 2.4,
+      "gross_debt_pct_gdp": 75.2,
+      "gross_debt_usd_billion": 1.8,
+      "inflation_cpi_pct": 3.8,
+      "status": "Historical / IMF estimate",
+      "population": 179285,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "CIP revenues buoy the budget",
+          "summary": "Citizenship by Investment inflows help fund public spending."
+        },
+        {
+          "headline": "Tourism boom continues",
+          "summary": "Arrivals keep climbing as Saint Lucia cements its luxury destination status."
+        }
+      ],
+      "sport": {
+        "headline": "Alfred wins World bronze",
+        "summary": "Julien Alfred takes 100m bronze at the World Championships in Budapest."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 2.57,
+      "gross_debt_pct_gdp": 76.7,
+      "gross_debt_usd_billion": 1.97,
+      "inflation_cpi_pct": -0.7,
+      "status": "Historical / IMF estimate",
+      "population": 179744,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Julien Alfred wins Olympic gold",
+          "summary": "Alfred storms to 100m gold, Saint Lucia's first Olympic medal, and adds 200m silver in Paris."
+        },
+        {
+          "headline": "Beryl spares Saint Lucia the worst",
+          "summary": "Hurricane Beryl passes south in July; the island escapes major damage."
+        }
+      ],
+      "sport": {
+        "headline": "National honours for Alfred",
+        "summary": "The government showers Julien Alfred with national honours after her Paris triumph."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 2.65,
+      "gross_debt_pct_gdp": 77.1,
+      "gross_debt_usd_billion": 2.04,
+      "inflation_cpi_pct": 2,
+      "status": "IMF projection",
+      "population": 180149,
+      "exchange_rate_usd": 2.7,
+      "main_events": [
+        {
+          "headline": "Elections loom by mid-2026",
+          "summary": "The Pierre government touts infrastructure projects as the next election approaches."
+        },
+        {
+          "headline": "Tourism stays strong",
+          "summary": "The island maintains high visitor arrivals despite regional competition."
+        }
+      ],
+      "sport": {
+        "headline": "Sammy takes charge of the Windies in all formats",
+        "summary": "Darren Sammy is appointed West Indies head coach across all formats."
+      }
+    }
+  ]
+}

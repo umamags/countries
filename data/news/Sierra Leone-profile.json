@@ -1,0 +1,397 @@
+{
+  "country": "Sierra Leone",
+  "iso3": "SLE",
+  "currency": "SLE",
+  "currency_name": "Sierra Leonean Leone",
+  "period": "2006-2025",
+  "currency_note": "Leone redenominated Jul 2022 (SLL→SLE, 1,000:1).",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 5624000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kabbah's final years",
+          "summary": "The president prepares to step down in 2007."
+        },
+        {
+          "headline": "Taylor trial begins",
+          "summary": "The war crimes case opens at The Hague."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone fall short in AFCON qualifying",
+        "summary": "The Leone Stars miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5749000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Koroma wins presidency",
+          "summary": "Ernest Bai Koroma defeats Berewa in September's runoff."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Kabbah hands over, a post-war milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2008 AFCON",
+        "summary": "The Leone Stars fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 5895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Koroma's government begins",
+          "summary": "The new president pledges infrastructure and anti-corruption."
+        },
+        {
+          "headline": "Drug plane scandal",
+          "summary": "A cocaine aircraft bust exposes trafficking."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone compete at Beijing Olympics",
+        "summary": "Sierra Leonean athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 6056000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition clashes",
+          "summary": "March violence between APC and SLPP supporters."
+        },
+        {
+          "headline": "Koroma's popularity steady",
+          "summary": "Road projects boost the president."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone chase 2010 World Cup spot",
+        "summary": "The Leone Stars compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 6223000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Free health care launched",
+          "summary": "Koroma's flagship program for mothers and children begins."
+        },
+        {
+          "headline": "Sierra Leone's recovery",
+          "summary": "Mining investments return."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2010 World Cup",
+        "summary": "The Leone Stars fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 6387000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Election preparations",
+          "summary": "The 2012 vote looms over improving stability."
+        },
+        {
+          "headline": "Iron ore boom",
+          "summary": "Mining revenues surge."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2012 AFCON",
+        "summary": "The Leone Stars fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 6551000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Koroma re-elected president",
+          "summary": "The incumbent wins November's vote."
+        },
+        {
+          "headline": "Taylor convicted",
+          "summary": "The Hague finds Charles Taylor guilty."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone compete at London Olympics",
+        "summary": "Sierra Leonean athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 6714000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Koroma's second term",
+          "summary": "The president pushes development projects."
+        },
+        {
+          "headline": "Constitutional review",
+          "summary": "Debate over term limits begins."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2013 AFCON",
+        "summary": "The Leone Stars fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 6876000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ebola ravages Sierra Leone",
+          "summary": "The epidemic kills thousands; Freetown is overwhelmed."
+        },
+        {
+          "headline": "State of emergency",
+          "summary": "Lockdowns and quarantines are imposed."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone banned from home games",
+        "summary": "Ebola forces the Leone Stars to play qualifiers abroad."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 7038000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ebola declared over",
+          "summary": "WHO ends the emergency after the outbreak fades."
+        },
+        {
+          "headline": "Economic recovery begins",
+          "summary": "Sierra Leone rebuilds after the epidemic."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2015 AFCON",
+        "summary": "The Leone Stars fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 7205000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Koroma's succession question",
+          "summary": "The president grooms a successor for 2018."
+        },
+        {
+          "headline": "Iron ore crash hits economy",
+          "summary": "Falling prices squeeze revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone compete at Rio Olympics",
+        "summary": "Sierra Leonean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 7379000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Freetown mudslide kills hundreds",
+          "summary": "August's disaster devastates the capital's outskirts."
+        },
+        {
+          "headline": "Election preparations",
+          "summary": "The 2018 vote looms."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2017 AFCON",
+        "summary": "The Leone Stars fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 7555000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bio wins presidency",
+          "summary": "Julius Maada Bio defeats Kamara in March's runoff."
+        },
+        {
+          "headline": "Transfer of power",
+          "summary": "Koroma hands over peacefully."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2018 World Cup",
+        "summary": "The Leone Stars fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 7732000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bio's government begins",
+          "summary": "The new president launches free education."
+        },
+        {
+          "headline": "Anti-corruption drive",
+          "summary": "Officials face graft probes."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2019 AFCON",
+        "summary": "The Leone Stars fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 7913000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Sierra Leone",
+          "summary": "The pandemic strains the recovering health system."
+        },
+        {
+          "headline": "Prison riot kills dozens",
+          "summary": "April's Freetown unrest turns deadly."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Sierra Leone's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 8095000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sierra Leone qualifies for AFCON",
+          "summary": "June's win over Benin ends a 25-year absence."
+        },
+        {
+          "headline": "Bio's popularity tested",
+          "summary": "Economic woes hurt the president."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone return to AFCON",
+        "summary": "The Leone Stars reach the 2021 tournament after 25 years away."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 8277000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "August protests turn deadly",
+          "summary": "Cost-of-living demonstrations leave dozens dead."
+        },
+        {
+          "headline": "Government blames opposition",
+          "summary": "Bio accuses rivals of orchestrating unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone draw Algeria at AFCON",
+        "summary": "The Leone Stars hold the champions in a famous 2021 group-stage result."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 8461000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bio re-elected amid dispute",
+          "summary": "June's vote extends his rule; observers question the tally."
+        },
+        {
+          "headline": "Opposition rejects result",
+          "summary": "The APC alleges fraud."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone miss 2023 AFCON",
+        "summary": "The Leone Stars fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 8642000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt alleged",
+          "summary": "November 2023's barracks attacks are called a coup attempt."
+        },
+        {
+          "headline": "Koroma charged",
+          "summary": "The ex-president faces treason charges."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone compete at Paris Olympics",
+        "summary": "Sierra Leonean athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 8820000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bio chairs ECOWAS",
+          "summary": "The president takes the regional bloc's helm."
+        },
+        {
+          "headline": "Political tensions persist",
+          "summary": "The opposition disputes Bio's legitimacy."
+        }
+      ],
+      "sport": {
+        "headline": "Sierra Leone chase 2026 World Cup spot",
+        "summary": "The Leone Stars compete in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

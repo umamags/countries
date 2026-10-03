@@ -1,0 +1,396 @@
+{
+  "country": "Iraq",
+  "iso3": "IRQ",
+  "currency": "IQD",
+  "currency_name": "Iraqi Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 28064000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saddam executed",
+          "summary": "The former dictator is hanged in December after a Baghdad trial."
+        },
+        {
+          "headline": "Sectarian war rages",
+          "summary": "Daily bombings push Iraq toward civil war."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers compete",
+        "summary": "Iraq's team plays on amid the violence."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 28741000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US surge",
+          "summary": "Thirty thousand extra American troops deploy to Baghdad."
+        },
+        {
+          "headline": "Awakening councils",
+          "summary": "Sunni tribes turn against al-Qaeda in Anbar."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup triumph",
+        "summary": "Iraq win the Asian Cup, beating Saudi Arabia in the final."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 29430000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Violence ebbs",
+          "summary": "The surge and Sunni turn cut attacks sharply."
+        },
+        {
+          "headline": "Status of forces deal",
+          "summary": "Baghdad and Washington agree US troops leave by 2011."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic quarterfinal",
+        "summary": "Iraq's footballers reach the Beijing Olympic quarterfinals."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 30163000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US combat exit",
+          "summary": "American troops withdraw from Iraqi cities."
+        },
+        {
+          "headline": "Bombings persist",
+          "summary": "Deadly attacks hit ministries and markets."
+        }
+      ],
+      "sport": {
+        "headline": "Confederations Cup",
+        "summary": "Iraq compete at the Confederations Cup in South Africa."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 30962000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deadlocked election",
+          "summary": "March polls produce no winner; Maliki clings to power."
+        },
+        {
+          "headline": "US combat mission ends",
+          "summary": "Operation Iraqi Freedom formally closes."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Iraq contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 31760000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US troops leave",
+          "summary": "The last American soldiers withdraw in December."
+        },
+        {
+          "headline": "Political crisis",
+          "summary": "Maliki moves against Sunni leaders as the US exits."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup quarterfinal",
+        "summary": "Iraq's title defence ends in the last eight."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 32578000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bombings surge",
+          "summary": "Insurgent attacks kill scores monthly."
+        },
+        {
+          "headline": "Syria spillover",
+          "summary": "The Syrian war fuels Iraq's Sunni insurgency."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic qualifiers",
+        "summary": "Iraq's footballers contest Olympic qualifying."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 33417000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hawija crackdown",
+          "summary": "Security forces kill Sunni protesters, igniting fury."
+        },
+        {
+          "headline": "Al-Qaeda regroups",
+          "summary": "The Islamic State of Iraq rebuilds in the west."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Iraq contest the Gulf Cup in Bahrain."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 35000000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ISIS seizes Mosul",
+          "summary": "Militants rout the army and capture a third of Iraq in June."
+        },
+        {
+          "headline": "US bombs ISIS",
+          "summary": "Washington launches airstrikes as Yazidis flee Sinjar."
+        }
+      ],
+      "sport": {
+        "headline": "Football amid war",
+        "summary": "Iraq play home games abroad due to insecurity."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 35213000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tikrit retaken",
+          "summary": "Iraqi forces recapture Saddam's hometown from ISIS."
+        },
+        {
+          "headline": "Protests over services",
+          "summary": "Summer demonstrations demand electricity and reform."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup fourth place",
+        "summary": "Iraq reach the Asian Cup semifinals in Australia."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 36169000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fallujah retaken",
+          "summary": "Government forces recapture the ISIS stronghold."
+        },
+        {
+          "headline": "Mosul offensive begins",
+          "summary": "A massive operation to retake the north starts in October."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic bronze push",
+        "summary": "Iraq's footballers compete at the Rio Olympics."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 37140000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mosul liberated",
+          "summary": "Iraqi forces retake the city after nine months of battle."
+        },
+        {
+          "headline": "Kurdish referendum",
+          "summary": "The KRG independence vote triggers a Baghdad backlash."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Iraq contest the Gulf Cup in Kuwait."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 38124000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sadr wins election",
+          "summary": "The cleric's bloc tops May parliamentary polls."
+        },
+        {
+          "headline": "Basra protests",
+          "summary": "Deadly unrest erupts over services and corruption."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Iraqi athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 39128000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tishreen uprising",
+          "summary": "Mass protests demand the government's fall; hundreds are killed."
+        },
+        {
+          "headline": "PM resigns",
+          "summary": "Adel Abdul-Mahdi quits under protest pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Iraq contest the Gulf Cup in Qatar."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 40150000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Soleimani killed in Baghdad",
+          "summary": "A US drone strike kills Iran's general and an Iraqi commander."
+        },
+        {
+          "headline": "Parliament expels US troops",
+          "summary": "MPs vote to end the foreign military presence."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic suspends Iraqi football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 41191000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sadr wins again",
+          "summary": "October elections give the cleric's bloc the most seats."
+        },
+        {
+          "headline": "Deadlock",
+          "summary": "A year-long impasse blocks government formation."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football",
+        "summary": "Iraq's team competes at the Tokyo Olympics."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 42249000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sadr quits politics",
+          "summary": "The cleric's withdrawal sparks deadly Green Zone clashes."
+        },
+        {
+          "headline": "Government formed",
+          "summary": "A Sudani-led cabinet ends the year-long deadlock."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup hosted",
+        "summary": "Basra prepares to host the Gulf Cup."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 43324000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup won at home",
+          "summary": "Iraq lift the Gulf Cup in Basra, beating Oman in the final."
+        },
+        {
+          "headline": "Dinar crisis",
+          "summary": "US dollar curbs trigger currency turmoil."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup champions",
+        "summary": "Iraq win the Gulf Cup on home soil."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 44415000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-Iraq talks",
+          "summary": "Negotiations begin on ending the coalition mission."
+        },
+        {
+          "headline": "Regional tensions",
+          "summary": "Militia attacks on US bases spike amid the Gaza war."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football in Paris",
+        "summary": "Iraq's footballers compete at the Paris Olympics."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 45521000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition mission winds down",
+          "summary": "The anti-ISIS coalition transitions toward bilateral ties."
+        },
+        {
+          "headline": "Elections loom",
+          "summary": "Parliamentary polls are scheduled for November."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying push",
+        "summary": "Iraq contest the final rounds of 2026 World Cup qualifying."
+      }
+    }
+  ]
+}

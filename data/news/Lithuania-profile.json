@@ -1,0 +1,397 @@
+{
+  "country": "Lithuania",
+  "iso3": "LTU",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "currency_note": "Lithuanian Litas (LTL) until Dec 2014; Euro (EUR) from Jan 2015.",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3270000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania pursues euro bid",
+          "summary": "Vilnius aims for euro adoption but misses inflation criteria."
+        },
+        {
+          "headline": "Coalition politics fluid",
+          "summary": "Minority governments come and go."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2008 qualifying hopes",
+        "summary": "Lithuania struggle in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3231000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Energy dependence on Russia debated",
+          "summary": "Vilnius worries over Russian gas leverage."
+        },
+        {
+          "headline": "Economy booms",
+          "summary": "Double-digit growth continues."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2008",
+        "summary": "Lithuania finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3198000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Homeland Union wins election",
+          "summary": "Andrius Kubilius becomes PM after October elections."
+        },
+        {
+          "headline": "Financial crisis hits Baltics",
+          "summary": "The economy contracts sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania begin 2010 World Cup qualifying",
+        "summary": "Lithuania open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3163000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Grybauskaite elected president",
+          "summary": "Dalia Grybauskaite wins May's presidential election."
+        },
+        {
+          "headline": "Austerity bites hard",
+          "summary": "Deep cuts stabilise finances amid a GDP collapse."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss 2010 World Cup",
+        "summary": "Lithuania finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 3097000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economy rebounds",
+          "summary": "Lithuania returns to growth."
+        },
+        {
+          "headline": "Vilnius hosts... diplomacy",
+          "summary": "Lithuania engages actively in EU affairs."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania begin Euro 2012 qualifying",
+        "summary": "Lithuania open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3028000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania backs EU fiscal pact",
+          "summary": "Vilnius supports budget discipline rules."
+        },
+        {
+          "headline": "Energy independence push",
+          "summary": "Plans for an LNG terminal advance."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2012",
+        "summary": "Lithuania finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2989000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Social Democrats win election",
+          "summary": "Algirdas Butkevicius becomes PM after October elections."
+        },
+        {
+          "headline": "Nuclear plant referendum",
+          "summary": "Voters reject a new atomic plant in October."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania begin 2014 World Cup qualifying",
+        "summary": "Lithuania open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2961000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania holds EU presidency",
+          "summary": "Vilnius hosts the Eastern Partnership summit in November."
+        },
+        {
+          "headline": "Ukraine turns from EU deal",
+          "summary": "Yanukovych's snub at Vilnius sparks the Maidan protests."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss 2014 World Cup",
+        "summary": "Lithuania finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2937000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Grybauskaite re-elected",
+          "summary": "The president wins a second term in May."
+        },
+        {
+          "headline": "Lithuania alarmed by Crimea",
+          "summary": "Vilnius urges NATO to reinforce the Baltics."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania begin Euro 2016 qualifying",
+        "summary": "Lithuania open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2911000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania adopts the euro",
+          "summary": "The euro replaces the litas in January."
+        },
+        {
+          "headline": "NATO battlegroup deployed",
+          "summary": "Allied troops arrive as reassurance."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2016",
+        "summary": "Lithuania finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2877000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Peasants win election",
+          "summary": "The Peasant and Greens Union triumphs in October."
+        },
+        {
+          "headline": "Skvernelis becomes PM",
+          "summary": "Saulius Skvernelis forms a coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania begin 2018 World Cup qualifying",
+        "summary": "Lithuania open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2843000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania's economy grows",
+          "summary": "Steady growth continues."
+        },
+        {
+          "headline": "Vilnius hosts NATO meetings",
+          "summary": "Baltic security tops the agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss 2018 World Cup",
+        "summary": "Lithuania finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2819000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania marks centenary",
+          "summary": "100 years of independence are celebrated."
+        },
+        {
+          "headline": "Nauseda rises in polls",
+          "summary": "The economist leads presidential polling."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania relegated in Nations League",
+        "summary": "Lithuania finish bottom of their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2811000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Nauseda elected president",
+          "summary": "Gitanas Nauseda wins May's presidential election."
+        },
+        {
+          "headline": "Skvernelis stays PM",
+          "summary": "The coalition continues."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2020",
+        "summary": "Lithuania finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2810000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Homeland Union wins election",
+          "summary": "Ingrida Simonyte becomes PM after October elections."
+        },
+        {
+          "headline": "Lithuania manages COVID",
+          "summary": "The pandemic is handled with moderate restrictions."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania compete in Nations League",
+        "summary": "Lithuania battle in their group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2808000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Taiwan office row with China",
+          "summary": "Vilnius allows a Taiwanese office; Beijing retaliates."
+        },
+        {
+          "headline": "Belarus border crisis",
+          "summary": "Migrants mass at Lithuania's eastern border."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss 2022 World Cup",
+        "summary": "Lithuania finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2832000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Lithuania backs Ukraine strongly",
+          "summary": "Vilnius gives generously and hosts refugees."
+        },
+        {
+          "headline": "Kaliningrad transit row",
+          "summary": "EU sanctions enforcement angers Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania compete in Nations League",
+        "summary": "Lithuania battle in their group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2872000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "NATO summit in Vilnius",
+          "summary": "Allied leaders meet in July."
+        },
+        {
+          "headline": "Lithuania boosts defence",
+          "summary": "Military spending rises sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania miss Euro 2024",
+        "summary": "Lithuania finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2888000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Nauseda re-elected president",
+          "summary": "The incumbent wins May's presidential election."
+        },
+        {
+          "headline": "Social Democrats win election",
+          "summary": "October elections return the left to power."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania compete in Nations League",
+        "summary": "Lithuania battle in their group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2891000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "New left government takes office",
+          "summary": "A Social Democrat-led coalition governs."
+        },
+        {
+          "headline": "Baltic grid disconnects from Russia",
+          "summary": "Lithuania joins the Baltic split from Russia's power grid."
+        }
+      ],
+      "sport": {
+        "headline": "Lithuania chase World Cup qualifying points",
+        "summary": "Lithuania compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

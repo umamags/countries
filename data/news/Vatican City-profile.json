@@ -1,0 +1,396 @@
+{
+  "country": "Vatican City",
+  "iso3": null,
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Regensburg speech row",
+          "summary": "The Pope's lecture on Islam sparks Muslim protests."
+        },
+        {
+          "headline": "Benedict XVI's papacy",
+          "summary": "The German pope consolidates his reign."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "Priests and seminarians contest the Clericus Cup."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Pope allows Latin Mass",
+          "summary": "Benedict XVI liberalises the traditional liturgy."
+        },
+        {
+          "headline": "Vatican diplomacy active",
+          "summary": "The Holy See engages on global issues."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "The Clericus Cup continues in Rome."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits US and France",
+          "summary": "Benedict XVI makes major foreign trips."
+        },
+        {
+          "headline": "Vatican-China tensions",
+          "summary": "Beijing-Vatican relations remain frozen."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "Seminarians compete in Rome's priestly league."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Williamson affair",
+          "summary": "A Holocaust-denying bishop's rehabilitation causes outrage."
+        },
+        {
+          "headline": "Pope visits Africa",
+          "summary": "Benedict XVI tours Cameroon and Angola."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "The Clericus Cup remains a Roman fixture."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Abuse scandal engulfs Church",
+          "summary": "Revelations rock dioceses across Europe."
+        },
+        {
+          "headline": "Pope visits Britain",
+          "summary": "Benedict XVI's UK trip defies protests."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "Priests' football continues in Rome."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "John Paul II beatified",
+          "summary": "The late pope is beatified in May."
+        },
+        {
+          "headline": "Pope visits Germany",
+          "summary": "Benedict XVI returns to his homeland."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "The Clericus Cup continues."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Vatileaks scandal",
+          "summary": "The Pope's butler leaks secret documents."
+        },
+        {
+          "headline": "Vatican bank probed",
+          "summary": "Money laundering investigations hit the IOR."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican's clergy football thrives",
+        "summary": "Seminarians play on in Rome."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Benedict XVI resigns",
+          "summary": "The Pope stands down in February, a first in 600 years."
+        },
+        {
+          "headline": "Francis elected pope",
+          "summary": "Argentina's Bergoglio becomes pontiff in March."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican launches cricket team",
+        "summary": "St Peter's Cricket Club is founded in Rome."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Popes canonised",
+          "summary": "John Paul II and John XXIII are made saints."
+        },
+        {
+          "headline": "Vatican bank reformed",
+          "summary": "Francis overhauls the scandal-hit IOR."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team debuts",
+        "summary": "The new team plays its first matches."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits US and Cuba",
+          "summary": "Francis addresses Congress and brokers the thaw."
+        },
+        {
+          "headline": "Climate encyclical",
+          "summary": "Laudato Si' makes the Pope a green icon."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team tours",
+        "summary": "The team plays friendlies in England."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Holy Year of Mercy",
+          "summary": "Francis declares an extraordinary jubilee."
+        },
+        {
+          "headline": "Pope meets Russian patriarch",
+          "summary": "A historic Cuba encounter with Kirill."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team plays on",
+        "summary": "The team continues its friendly programme."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Pope's diplomacy",
+          "summary": "Francis engages on migration and peace."
+        },
+        {
+          "headline": "Vatican-China talks",
+          "summary": "Negotiations on bishop appointments advance."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team tours England",
+        "summary": "The team plays Anglican sides."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Vatican-China deal signed",
+          "summary": "A provisional accord on bishops is reached."
+        },
+        {
+          "headline": "Abuse summit looms",
+          "summary": "The Church faces continued scandal fallout."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket continues",
+        "summary": "The team plays its annual fixtures."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Amazon synod",
+          "summary": "A Vatican summit debates married priests."
+        },
+        {
+          "headline": "Pope visits Asia",
+          "summary": "Francis tours Thailand and Japan."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team plays on",
+        "summary": "Friendlies continue in Rome and abroad."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Pope's lonely Easter",
+          "summary": "COVID empties St Peter's Square."
+        },
+        {
+          "headline": "Vatican finances strained",
+          "summary": "The pandemic hits donations."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican sport paused",
+        "summary": "The pandemic halts the cricket team's fixtures."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits Iraq",
+          "summary": "A historic trip to the war-scarred country."
+        },
+        {
+          "headline": "Vatican-China deal renewed",
+          "summary": "The provisional accord is extended."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket resumes",
+        "summary": "The team returns to the field."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Pope condemns Ukraine war",
+          "summary": "Francis decries Russia's invasion."
+        },
+        {
+          "headline": "Benedict XVI dies",
+          "summary": "The pope emeritus dies in December."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team plays on",
+        "summary": "The team continues its fixtures."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Synod on synodality",
+          "summary": "A major Vatican assembly debates Church reform."
+        },
+        {
+          "headline": "Pope's health concerns",
+          "summary": "Hospital stays raise succession questions."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team tours",
+        "summary": "The team plays its annual matches."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Holy Door preparations",
+          "summary": "The Vatican readies the 2025 Jubilee."
+        },
+        {
+          "headline": "Pope's diplomacy continues",
+          "summary": "Francis engages on Ukraine and Gaza."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team plays on",
+        "summary": "The team continues its friendly programme."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Pope Francis dies",
+          "summary": "The pontiff dies in April aged 88."
+        },
+        {
+          "headline": "Leo XIV elected",
+          "summary": "Cardinal Prevost becomes the first American pope in May."
+        }
+      ],
+      "sport": {
+        "headline": "Vatican cricket team plays on",
+        "summary": "The team continues under a new pontificate."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Jordan",
+  "iso3": "JOR",
+  "currency": "JOD",
+  "currency_name": "Jordanian Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 6076000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Zarqawi killed",
+          "summary": "The al-Qaeda in Iraq leader, a Jordanian, dies in a US airstrike."
+        },
+        {
+          "headline": "Hamas ties strained",
+          "summary": "Amman accuses Hamas of arms smuggling."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifiers",
+        "summary": "Jordan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 6473000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections",
+          "summary": "November polls return a pro-government parliament."
+        },
+        {
+          "headline": "Iraqi refugees",
+          "summary": "Hundreds of thousands of Iraqis shelter in Jordan."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Jordan's team contests regional qualifiers."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 6633000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war diplomacy",
+          "summary": "Amman condemns Israel's offensive while hosting talks."
+        },
+        {
+          "headline": "Economic pressures",
+          "summary": "Fuel subsidy cuts spark protests."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Jordanian athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 6780000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "King dissolves parliament",
+          "summary": "Abdullah II calls early elections for 2010."
+        },
+        {
+          "headline": "CIA bombing",
+          "summary": "A Jordanian double agent kills CIA officers in Khost."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Jordan contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 6931000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections boycotted",
+          "summary": "The Islamist opposition shuns November polls."
+        },
+        {
+          "headline": "Fuel protests",
+          "summary": "Demonstrations erupt over subsidy cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Jordanian athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7110000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring protests",
+          "summary": "Demonstrations demand reform; the king sacks governments."
+        },
+        {
+          "headline": "Syrian refugees arrive",
+          "summary": "Thousands flee across the northern border."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup quarterfinal",
+        "summary": "Jordan reach the Asian Cup quarterfinals in Qatar."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7212000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fuel riots",
+          "summary": "November price hikes trigger the biggest protests in years."
+        },
+        {
+          "headline": "Elections called",
+          "summary": "The king dissolves parliament again."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Jordanian athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 7695000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Elections held",
+          "summary": "January polls proceed amid opposition boycott."
+        },
+        {
+          "headline": "Za'atari camp swells",
+          "summary": "The Syrian refugee camp becomes Jordan's fourth city."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup playoff",
+        "summary": "Jordan lose the intercontinental playoff to Uruguay."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8658000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ISIS threat",
+          "summary": "The militant advance in Iraq alarms Amman."
+        },
+        {
+          "headline": "Pilot captured",
+          "summary": "ISIS seizes a Jordanian F-16 pilot in December."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Jordanian athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 9494000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pilot burned alive",
+          "summary": "ISIS murders Muath al-Kasasbeh, provoking Jordanian airstrikes."
+        },
+        {
+          "headline": "Revenge strikes",
+          "summary": "Jordan bombs ISIS targets after the killing."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Jordan exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 9965000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Amman shooting",
+          "summary": "A gunman kills US trainers at a military base."
+        },
+        {
+          "headline": "Karak attack",
+          "summary": "Militants storm a Crusader castle, killing security forces."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Ahmad Abughaush wins taekwondo gold, Jordan's first medal."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10215000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Trump Jerusalem row",
+          "summary": "Amman, custodian of Al-Aqsa, condemns the US move."
+        },
+        {
+          "headline": "Tax protests",
+          "summary": "Demonstrations against IMF-backed taxes grow."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Jordan qualify for the 2019 Asian Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10460000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "PM ousted by protests",
+          "summary": "Mass tax protests force the premier's resignation."
+        },
+        {
+          "headline": "New government",
+          "summary": "Omar Razzaz takes over promising reform."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Jordanian athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10699000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Teacher strikes",
+          "summary": "A month-long strike wins pay rises."
+        },
+        {
+          "headline": "Gulf aid",
+          "summary": "Gulf states pledge billions to stabilize Jordan."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup last 16",
+        "summary": "Jordan reach the Asian Cup knockouts in the UAE."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10865000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID lockdowns",
+          "summary": "Strict curfews contain the virus but hurt the economy."
+        },
+        {
+          "headline": "Elections held",
+          "summary": "November polls proceed under pandemic rules."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Jordanian football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 11066000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Prince Hamzah affair",
+          "summary": "The king's half-brother is accused of a destabilization plot."
+        },
+        {
+          "headline": "Royal rift",
+          "summary": "A rare public feud shakes the monarchy."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Jordanian athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 11256000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fuel protests",
+          "summary": "Truckers' strikes over diesel prices spread."
+        },
+        {
+          "headline": "Regional diplomacy",
+          "summary": "Amman hosts summits on Iraq and Palestine."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Jordan contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 11439000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war stance",
+          "summary": "Jordan recalls its envoy and condemns Israel's campaign."
+        },
+        {
+          "headline": "Aid to Gaza",
+          "summary": "Amman leads airdrops and field hospitals for Gaza."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup final",
+        "summary": "Jordan reach a first Asian Cup final, losing to Qatar."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 11553000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Iranian missiles intercepted",
+          "summary": "Jordan helps down Iranian drones bound for Israel."
+        },
+        {
+          "headline": "Elections held",
+          "summary": "September polls see Islamists gain seats."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic taekwondo",
+        "summary": "Jordanian fighters compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 11521000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup 2026 qualified",
+          "summary": "Jordan qualify for a first-ever World Cup."
+        },
+        {
+          "headline": "Trump Gaza row",
+          "summary": "Amman rejects US proposals to displace Gazans to Jordan."
+        }
+      ],
+      "sport": {
+        "headline": "Historic World Cup berth",
+        "summary": "Jordan seal qualification for their first World Cup."
+      }
+    }
+  ]
+}

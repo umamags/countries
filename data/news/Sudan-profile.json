@@ -1,0 +1,400 @@
+{
+  "country": "Sudan",
+  "iso3": "SDN",
+  "currency": "SDG",
+  "currency_name": "Sudanese Pound",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 36218000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Darfur war rages",
+          "summary": "Janjaweed attacks displace hundreds of thousands."
+        },
+        {
+          "headline": "Peace deal signed",
+          "summary": "May's Abuja accord with one rebel faction fails to stop fighting."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan's football struggles",
+        "summary": "The Falcons miss out on major tournaments."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 37159000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN-AU force authorized",
+          "summary": "July's resolution creates the UNAMID peacekeeping mission."
+        },
+        {
+          "headline": "Darfur violence continues",
+          "summary": "Attacks on civilians persist."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan qualify for 2008 AFCON",
+        "summary": "The Falcons reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 38126000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ICC charges Bashir",
+          "summary": "July's indictment accuses the president of Darfur war crimes."
+        },
+        {
+          "headline": "Khartoum defiant",
+          "summary": "The government rejects the court's authority."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan exit AFCON at group stage",
+        "summary": "The Falcons go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 39117000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ICC issues arrest warrant",
+          "summary": "March's warrant makes Bashir the first sitting head of state indicted."
+        },
+        {
+          "headline": "Aid groups expelled",
+          "summary": "Khartoum kicks out agencies over the warrant."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan chase 2010 World Cup spot",
+        "summary": "The Falcons compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 40134000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bashir re-elected",
+          "summary": "April's vote extends his rule; the opposition boycotts."
+        },
+        {
+          "headline": "Referendum preparations",
+          "summary": "The south gears up for the 2011 secession vote."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2010 World Cup",
+        "summary": "The Falcons fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 32661000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "South Sudan secedes",
+          "summary": "July's independence costs Khartoum most of its oil."
+        },
+        {
+          "headline": "Abyei and border clashes",
+          "summary": "Fighting erupts in disputed regions."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2012 AFCON",
+        "summary": "The Falcons fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 35056000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Heglig oil war",
+          "summary": "April's fighting with South Sudan shuts production."
+        },
+        {
+          "headline": "Austerity protests",
+          "summary": "Khartoum demonstrations over subsidy cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan reach AFCON quarterfinals",
+        "summary": "The Falcons reach the 2012 last eight in Gabon."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 36164000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Protests crushed",
+          "summary": "September demonstrations over fuel prices leave scores dead."
+        },
+        {
+          "headline": "Bashir's grip tightens",
+          "summary": "The president purges rivals."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2013 AFCON",
+        "summary": "The Falcons fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 37289000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "National dialogue launched",
+          "summary": "Bashir's talks initiative draws limited participation."
+        },
+        {
+          "headline": "Darfur violence continues",
+          "summary": "The decade-old conflict grinds on."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2014 World Cup",
+        "summary": "The Falcons fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 38435000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bashir re-elected",
+          "summary": "April's vote extends his rule amid an opposition boycott."
+        },
+        {
+          "headline": "Sudan joins Yemen war",
+          "summary": "Khartoum sends troops to the Saudi-led coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2015 AFCON",
+        "summary": "The Falcons fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 39599000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US eases sanctions",
+          "summary": "Obama lifts some measures in his final days."
+        },
+        {
+          "headline": "Protests over prices",
+          "summary": "Demonstrations rock Khartoum."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan compete at Rio Olympics",
+        "summary": "Sudanese athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 40783000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US lifts sanctions",
+          "summary": "October's decision ends 20 years of embargo."
+        },
+        {
+          "headline": "Sudan's economy hopes",
+          "summary": "Khartoum anticipates investment."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2017 AFCON",
+        "summary": "The Falcons fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 41985000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bread protests erupt",
+          "summary": "December demonstrations in Atbara spark a national uprising."
+        },
+        {
+          "headline": "Bashir's rule wobbles",
+          "summary": "The protests grow into a revolution."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2018 World Cup",
+        "summary": "The Falcons fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 43222000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bashir ousted by military",
+          "summary": "April 11's coup ends 30 years of rule after months of protests."
+        },
+        {
+          "headline": "Khartoum massacre",
+          "summary": "June 3 troops kill scores of sit-in protesters."
+        },
+        {
+          "headline": "Transitional government formed",
+          "summary": "August's deal creates a civilian-military council."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan miss 2019 AFCON",
+        "summary": "The Falcons fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 44345000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sudan normalizes with Israel",
+          "summary": "October's Abraham Accords deal follows US terror-list removal."
+        },
+        {
+          "headline": "Juba peace deal signed",
+          "summary": "Agreements with rebel groups advance the transition."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Sudan's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 45498000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military seizes power",
+          "summary": "October's coup ousts Prime Minister Hamdok."
+        },
+        {
+          "headline": "Protests crushed",
+          "summary": "Security forces kill demonstrators opposing the putsch."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan return to AFCON",
+        "summary": "The Falcons reach the 2021 tournament in Cameroon."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 46681000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Protests continue",
+          "summary": "Resistance committees keep marching against the junta."
+        },
+        {
+          "headline": "Economic collapse",
+          "summary": "The pound crashes and inflation soars."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan exit AFCON at group stage",
+        "summary": "The Falcons go home early from the 2021 tournament."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 47895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "War erupts in Khartoum",
+          "summary": "April 15 fighting between the army and RSF devastates the capital."
+        },
+        {
+          "headline": "Millions flee",
+          "summary": "The conflict creates the world's largest displacement crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan's footballers defy war",
+        "summary": "The Falcons continue playing qualifiers from exile."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 49140000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "El Fasher besieged",
+          "summary": "The RSF assault on Darfur's last army holdout displaces hundreds of thousands."
+        },
+        {
+          "headline": "Famine declared",
+          "summary": "Starvation grips displacement camps."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan qualify for 2025 AFCON",
+        "summary": "The war-torn Falcons reach the Morocco tournament against the odds."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 50418000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "War grinds into third year",
+          "summary": "The army retakes Khartoum; the RSF declares a parallel government."
+        },
+        {
+          "headline": "Humanitarian catastrophe",
+          "summary": "Millions face hunger as aid access shrinks."
+        }
+      ],
+      "sport": {
+        "headline": "Sudan chase 2026 World Cup spot",
+        "summary": "The Falcons contend in qualifying despite the war."
+      }
+    }
+  ]
+}

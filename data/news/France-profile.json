@@ -1,0 +1,396 @@
+{
+  "country": "France",
+  "iso3": "FRA",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 63186000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Suburbs calm after 2005 riots",
+          "summary": "Tensions ease but underlying grievances remain unresolved."
+        },
+        {
+          "headline": "Villepin government weakens",
+          "summary": "The PM's authority ebbs ahead of 2007 elections."
+        }
+      ],
+      "sport": {
+        "headline": "France lose World Cup final",
+        "summary": "Italy win on penalties after Zidane's infamous headbutt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 63601000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Sarkozy elected president",
+          "summary": "Nicolas Sarkozy defeats Segolene Royal in May's runoff."
+        },
+        {
+          "headline": "Sarkozy launches reform drive",
+          "summary": "The new president promises economic and institutional reforms."
+        }
+      ],
+      "sport": {
+        "headline": "France qualify for Euro 2008",
+        "summary": "France book their place at the finals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 63962000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "France holds EU presidency",
+          "summary": "Paris leads EU mediation in the Georgia war in August."
+        },
+        {
+          "headline": "Financial crisis hits France",
+          "summary": "Bank rescues cushion the economy from the global meltdown."
+        }
+      ],
+      "sport": {
+        "headline": "France exit Euro 2008 in group stage",
+        "summary": "France finish bottom of their group with one point."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 64305000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Sarkozy's stimulus plan",
+          "summary": "Paris launches a major spending package against the recession."
+        },
+        {
+          "headline": "France rejoins NATO command",
+          "summary": "Sarkozy returns France to NATO's integrated military structure."
+        }
+      ],
+      "sport": {
+        "headline": "Henry handball sends France to World Cup",
+        "summary": "A controversial playoff win over Ireland sparks outrage in Dublin."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 64613000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Pension reform sparks strikes",
+          "summary": "Raising the retirement age triggers mass protests."
+        },
+        {
+          "headline": "Sarkozy reshuffles government",
+          "summary": "Fillon stays PM but ministers change in November."
+        }
+      ],
+      "sport": {
+        "headline": "France's World Cup mutiny",
+        "summary": "Player revolt overshadows a group-stage exit in South Africa."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 64933000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "DSK arrested in New York",
+          "summary": "IMF chief Dominique Strauss-Kahn's arrest upends French politics."
+        },
+        {
+          "headline": "France intervenes in Libya",
+          "summary": "Paris leads the NATO campaign against Gaddafi."
+        }
+      ],
+      "sport": {
+        "headline": "France qualify for Euro 2012",
+        "summary": "France top their qualifying group under Laurent Blanc."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 65241000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Hollande elected president",
+          "summary": "Francois Hollande defeats Sarkozy in May's runoff."
+        },
+        {
+          "headline": "Socialists win parliament",
+          "summary": "The left takes the National Assembly in June."
+        }
+      ],
+      "sport": {
+        "headline": "France exit Euro 2012 in quarter-finals",
+        "summary": "Spain knock France out in Donetsk."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 65565000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "France intervenes in Mali",
+          "summary": "French troops deploy against Islamists in January."
+        },
+        {
+          "headline": "Gay marriage legalised",
+          "summary": "Same-sex marriage becomes law despite mass protests."
+        }
+      ],
+      "sport": {
+        "headline": "France reach World Cup via playoff",
+        "summary": "A 3-0 comeback against Ukraine seals qualification."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 66131000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Hollande's popularity collapses",
+          "summary": "The president's ratings sink to record lows."
+        },
+        {
+          "headline": "Valls becomes prime minister",
+          "summary": "Manuel Valls replaces Ayrault in a March reshuffle."
+        }
+      ],
+      "sport": {
+        "headline": "France exit World Cup in quarter-finals",
+        "summary": "Germany knock France out in Rio."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 66422000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Charlie Hebdo attack",
+          "summary": "Gunmen kill 12 at the satirical magazine in January."
+        },
+        {
+          "headline": "November Paris attacks kill 130",
+          "summary": "Coordinated attacks kill 130 in the deadliest assault since WWII."
+        }
+      ],
+      "sport": {
+        "headline": "France prepare as Euro 2016 hosts",
+        "summary": "France play friendlies ahead of hosting the European Championship."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 66603000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Labour law protests",
+          "summary": "Months of demonstrations oppose the El Khomri labour reforms."
+        },
+        {
+          "headline": "Nice truck attack kills 86",
+          "summary": "A Bastille Day attack devastates the Riviera city."
+        }
+      ],
+      "sport": {
+        "headline": "France lose Euro 2016 final",
+        "summary": "Portugal win in extra time at the Stade de France."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 66774000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Macron elected president",
+          "summary": "Emmanuel Macron defeats Marine Le Pen in May's runoff."
+        },
+        {
+          "headline": "Macron's party sweeps parliament",
+          "summary": "La Republique En Marche wins June's legislative elections."
+        }
+      ],
+      "sport": {
+        "headline": "France qualify for 2018 World Cup",
+        "summary": "France top their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 66992000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Yellow vest protests erupt",
+          "summary": "Fuel tax anger explodes into months of nationwide protests."
+        },
+        {
+          "headline": "Macron offers concessions",
+          "summary": "The president announces wage and tax measures in December."
+        }
+      ],
+      "sport": {
+        "headline": "France win the World Cup",
+        "summary": "France beat Croatia 4-2 in the Moscow final."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 67258000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Notre-Dame fire devastates Paris",
+          "summary": "The cathedral burns in April, prompting global pledges."
+        },
+        {
+          "headline": "Pension strikes paralyse France",
+          "summary": "December strikes oppose Macron's pension overhaul."
+        }
+      ],
+      "sport": {
+        "headline": "France qualify for Euro 2020",
+        "summary": "France finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 67442000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 lockdowns",
+          "summary": "France imposes some of Europe's strictest lockdowns."
+        },
+        {
+          "headline": "Teacher beheaded near Paris",
+          "summary": "Samuel Paty's murder sparks a national reckoning."
+        }
+      ],
+      "sport": {
+        "headline": "France win Nations League group",
+        "summary": "France top their group to reach the finals."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 67697000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Regional elections held",
+          "summary": "June regionals show low turnout and right-wing gains."
+        },
+        {
+          "headline": "France-Australia submarine row",
+          "summary": "The AUKUS deal torpedoes a French contract, straining alliances."
+        }
+      ],
+      "sport": {
+        "headline": "France win Nations League",
+        "summary": "France beat Spain in the Milan final in October."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 68060000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Macron re-elected president",
+          "summary": "Macron defeats Le Pen again in April's runoff."
+        },
+        {
+          "headline": "Macron loses parliament majority",
+          "summary": "June legislatives leave the president without a majority."
+        }
+      ],
+      "sport": {
+        "headline": "France lose World Cup final",
+        "summary": "Argentina win a penalty shootout in a Qatar classic."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 68405000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Pension reform forced through",
+          "summary": "Macron raises the retirement age by decree amid mass protests."
+        },
+        {
+          "headline": "Nahel riots rock France",
+          "summary": "A police killing sparks nights of rioting in June-July."
+        }
+      ],
+      "sport": {
+        "headline": "France qualify for Euro 2024",
+        "summary": "France dominate their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 68638000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election produces hung parliament",
+          "summary": "Macron's gamble backfires in June-July elections."
+        },
+        {
+          "headline": "Paris hosts Olympic Games",
+          "summary": "France stages an acclaimed Summer Olympics."
+        }
+      ],
+      "sport": {
+        "headline": "France exit Euro 2024 in semi-finals",
+        "summary": "Spain knock France out in Munich."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 68852000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Government instability continues",
+          "summary": "Prime ministers come and go amid parliamentary deadlock."
+        },
+        {
+          "headline": "France boosts defence spending",
+          "summary": "Paris pledges higher military budgets."
+        }
+      ],
+      "sport": {
+        "headline": "France chase World Cup qualification",
+        "summary": "France compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

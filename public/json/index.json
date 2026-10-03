@@ -898,12 +898,22 @@
     {
       "name": "North America",
       "slug": "north-america",
-      "countryCount": 6,
+      "countryCount": 17,
       "countries": [
+        {
+          "name": "Antigua and Barbuda",
+          "slug": "antigua-and-barbuda",
+          "map_name": "Antigua and Barbuda"
+        },
         {
           "name": "Bahamas",
           "slug": "bahamas",
           "map_name": "Bahamas"
+        },
+        {
+          "name": "Barbados",
+          "slug": "barbados",
+          "map_name": "Barbados"
         },
         {
           "name": "Canada",
@@ -916,14 +926,59 @@
           "map_name": "Cuba"
         },
         {
+          "name": "Dominica",
+          "slug": "dominica",
+          "map_name": "Dominica"
+        },
+        {
+          "name": "Dominican Republic",
+          "slug": "dominican-republic",
+          "map_name": "Dominican Republic"
+        },
+        {
+          "name": "Grenada",
+          "slug": "grenada",
+          "map_name": "Grenada"
+        },
+        {
           "name": "Guatemala",
           "slug": "guatemala",
           "map_name": "Guatemala"
         },
         {
+          "name": "Haiti",
+          "slug": "haiti",
+          "map_name": "Haiti"
+        },
+        {
+          "name": "Jamaica",
+          "slug": "jamaica",
+          "map_name": "Jamaica"
+        },
+        {
           "name": "Mexico",
           "slug": "mexico",
           "map_name": "Mexico"
+        },
+        {
+          "name": "Saint Kitts and Nevis",
+          "slug": "saint-kitts-and-nevis",
+          "map_name": "Saint Kitts and Nevis"
+        },
+        {
+          "name": "Saint Lucia",
+          "slug": "saint-lucia",
+          "map_name": "Saint Lucia"
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "slug": "saint-vincent-and-the-grenadines",
+          "map_name": "Saint Vincent and the Grenadines"
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "slug": "trinidad-and-tobago",
+          "map_name": "Trinidad and Tobago"
         },
         {
           "name": "United States of America",

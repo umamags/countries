@@ -1,0 +1,404 @@
+{
+  "country": "Chad",
+  "iso3": "TCD",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10457000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deby re-elected amid boycott",
+          "summary": "The president wins May's vote as rebels advance on N'Djamena."
+        },
+        {
+          "headline": "Rebels attack the capital",
+          "summary": "An April assault on N'Djamena is repelled with French help."
+        }
+      ],
+      "sport": {
+        "headline": "Chad fall short in AFCON qualifying",
+        "summary": "Les Sao miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10818000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "EU force deploys to the east",
+          "summary": "European troops arrive to protect Darfur refugees in eastern Chad."
+        },
+        {
+          "headline": "Rebel factions splinter",
+          "summary": "Divisions weaken the insurgency against Deby."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2008 AFCON",
+        "summary": "Les Sao fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 11184000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rebels storm N'Djamena again",
+          "summary": "February's assault reaches the presidential palace before French-backed forces repel it."
+        },
+        {
+          "headline": "Deby survives second rebellion",
+          "summary": "The president consolidates power after the failed coup attempt."
+        }
+      ],
+      "sport": {
+        "headline": "Chad compete at Beijing Olympics",
+        "summary": "Chadian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 11560000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chad-Sudan tensions ease",
+          "summary": "N'Djamena and Khartoum agree to stop backing each other's rebels."
+        },
+        {
+          "headline": "UN mission takes over in east",
+          "summary": "MINURCAT replaces the EU force protecting refugees."
+        }
+      ],
+      "sport": {
+        "headline": "Chad chase 2010 World Cup spot",
+        "summary": "Les Sao compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 11952000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Peace deal with Sudan",
+          "summary": "January's accord ends proxy warfare between the neighbors."
+        },
+        {
+          "headline": "UN mission withdraws",
+          "summary": "MINURCAT leaves at Chad's request despite refugee concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2010 World Cup",
+        "summary": "Les Sao fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 12361000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deby re-elected president",
+          "summary": "The incumbent wins April's vote; the opposition boycotts."
+        },
+        {
+          "headline": "Chad joins anti-Gaddafi coalition",
+          "summary": "N'Djamena's stance shifts as Libya's war unfolds."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2012 AFCON",
+        "summary": "Les Sao fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 12785000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling party wins February's parliamentary vote."
+        },
+        {
+          "headline": "Oil revenues transform budget",
+          "summary": "Pipeline income funds infrastructure and military spending."
+        }
+      ],
+      "sport": {
+        "headline": "Chad compete at London Olympics",
+        "summary": "Chadian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 13220000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chad intervenes in Mali",
+          "summary": "Chadian troops join France's operation against Islamists in northern Mali."
+        },
+        {
+          "headline": "Chadian soldiers die in Mali",
+          "summary": "Heavy casualties in the Ifoghas mountains earn Chad regional praise."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2013 AFCON",
+        "summary": "Les Sao fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 13664000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chad fights Boko Haram",
+          "summary": "N'Djamena deploys troops to Nigeria and Niger against the jihadists."
+        },
+        {
+          "headline": "Chad hosts regional summit",
+          "summary": "Deby coordinates the multinational task force against Boko Haram."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2014 World Cup",
+        "summary": "Les Sao fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 14111000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boko Haram strikes N'Djamena",
+          "summary": "June suicide bombings kill dozens in the capital's first major jihadist attack."
+        },
+        {
+          "headline": "Chad leads regional offensive",
+          "summary": "Chadian forces spearhead assaults on Boko Haram strongholds."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2015 AFCON",
+        "summary": "Les Sao fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 14562000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deby wins fifth term",
+          "summary": "The president takes April's vote amid opposition protests."
+        },
+        {
+          "headline": "Economic crisis bites",
+          "summary": "Falling oil prices trigger austerity and public anger."
+        }
+      ],
+      "sport": {
+        "headline": "Chad compete at Rio Olympics",
+        "summary": "Chadian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 15017000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chad's troops overstretched",
+          "summary": "Regional deployments strain the military and budget."
+        },
+        {
+          "headline": "US travel ban includes Chad",
+          "summary": "Washington's restrictions surprise N'Djamena, a counter-terrorism ally."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2017 AFCON",
+        "summary": "Les Sao fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 15478000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution extends Deby's rule",
+          "summary": "April's charter could keep the president in power until 2033."
+        },
+        {
+          "headline": "Rebels threaten from Libya",
+          "summary": "Armed groups based in southern Libya menace northern Chad."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2018 World Cup",
+        "summary": "Les Sao fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 15947000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boko Haram massacres soldiers",
+          "summary": "Jihadist raids kill scores of Chadian troops around Lake Chad."
+        },
+        {
+          "headline": "Deby launches counter-offensive",
+          "summary": "The president personally leads operations against the insurgents."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2019 AFCON",
+        "summary": "Les Sao fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 16426000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boma attack kills nearly 100 soldiers",
+          "summary": "March's jihadist assault is the army's deadliest single loss."
+        },
+        {
+          "headline": "Deby named field marshal",
+          "summary": "Parliament grants the president the army's highest rank."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Chad's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 16915000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deby killed fighting rebels",
+          "summary": "The president dies in April battling FACT insurgents advancing from Libya."
+        },
+        {
+          "headline": "Son Mahamat seizes power",
+          "summary": "The army installs Deby's son as transitional leader, dissolving parliament."
+        },
+        {
+          "headline": "FIFA suspends Chad",
+          "summary": "Government interference in football triggers an international ban."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2021 AFCON",
+        "summary": "Les Sao fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17414000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "National dialogue extends transition",
+          "summary": "October talks allow Mahamat Deby to stay in power two more years."
+        },
+        {
+          "headline": "Protests crushed in N'Djamena",
+          "summary": "October demonstrations leave dozens dead as security forces crack down."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2022 World Cup",
+        "summary": "Les Sao fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 17921000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Exiled opposition leader returns",
+          "summary": "Succes Masra comes home under a reconciliation deal."
+        },
+        {
+          "headline": "Referendum approves new constitution",
+          "summary": "December's vote paves the way for elections."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2023 AFCON",
+        "summary": "Les Sao fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 18437000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mahamat Deby wins presidential election",
+          "summary": "The transitional leader takes May's vote; the opposition cries foul."
+        },
+        {
+          "headline": "Chad ends defense pact with France",
+          "summary": "N'Djamena terminates military cooperation with Paris in November."
+        },
+        {
+          "headline": "Opposition figure killed in shootout",
+          "summary": "Yaya Dillo dies in February clashes with security forces."
+        }
+      ],
+      "sport": {
+        "headline": "Chad miss 2025 AFCON",
+        "summary": "Les Sao fall short in qualifying for the Morocco tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18961000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "French troops complete withdrawal",
+          "summary": "The last French soldiers leave Chad in January."
+        },
+        {
+          "headline": "Chad pivots to new partners",
+          "summary": "N'Djamena deepens ties with Russia, Turkey and Gulf states."
+        }
+      ],
+      "sport": {
+        "headline": "Chad chase 2026 World Cup spot",
+        "summary": "Les Sao compete in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "country": "Mali",
+  "iso3": "MLI",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 13990000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Toure's democracy praised",
+          "summary": "Mali remains a West African democratic model under ATT."
+        },
+        {
+          "headline": "Tuareg tensions simmer",
+          "summary": "Northern grievances persist despite peace deals."
+        }
+      ],
+      "sport": {
+        "headline": "Mali reach AFCON quarterfinals",
+        "summary": "The Eagles lose to Guinea in the 2006 last eight in Egypt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 14458000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Toure re-elected president",
+          "summary": "The incumbent wins April's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Tuareg rebellion flares",
+          "summary": "Northern fighters attack garrisons, reviving the insurgency."
+        }
+      ],
+      "sport": {
+        "headline": "Mali qualify for 2008 AFCON",
+        "summary": "The Eagles reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 14941000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Algerian hostages crisis",
+          "summary": "AQIM kidnaps Austrian tourists in Mali's north."
+        },
+        {
+          "headline": "Government negotiates with Tuaregs",
+          "summary": "Algiers-brokered talks aim to calm the north."
+        }
+      ],
+      "sport": {
+        "headline": "Mali exit AFCON at group stage",
+        "summary": "The Eagles go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 15436000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "AQIM executes British hostage",
+          "summary": "The killing of Edwin Dyer shocks the West."
+        },
+        {
+          "headline": "Mali's north lawless",
+          "summary": "Kidnappings and smuggling flourish in the desert."
+        }
+      ],
+      "sport": {
+        "headline": "Mali chase 2010 World Cup spot",
+        "summary": "The Eagles compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 15945000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Toure's final years",
+          "summary": "The president prepares to step down in 2012."
+        },
+        {
+          "headline": "Drug trafficking grows",
+          "summary": "Cocaine flows through the Sahel fund militants."
+        }
+      ],
+      "sport": {
+        "headline": "Mali reach AFCON semifinals",
+        "summary": "The Eagles finish third at the 2010 tournament in Angola."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 16469000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Libya war fallout",
+          "summary": "Armed Tuareg fighters return from Libya, destabilizing the north."
+        },
+        {
+          "headline": "Elections planned",
+          "summary": "Mali prepares for the 2012 vote."
+        }
+      ],
+      "sport": {
+        "headline": "Mali qualify for 2012 AFCON",
+        "summary": "The Eagles reach the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 16957000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Toure",
+          "summary": "March's coup topples the president weeks before elections."
+        },
+        {
+          "headline": "Tuaregs and jihadists seize north",
+          "summary": "Rebels declare Azawad's independence; Islamists hijack the revolt."
+        },
+        {
+          "headline": "ECOWAS imposes sanctions",
+          "summary": "Regional leaders demand a return to civilian rule."
+        }
+      ],
+      "sport": {
+        "headline": "Mali win AFCON bronze",
+        "summary": "The Eagles take third place at the 2012 tournament."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 17460000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "France intervenes",
+          "summary": "January's Operation Serval halts the jihadist march on Bamako."
+        },
+        {
+          "headline": "Keita elected president",
+          "summary": "Ibrahim Boubacar Keita wins August's vote, restoring civilian rule."
+        }
+      ],
+      "sport": {
+        "headline": "Mali win AFCON bronze again",
+        "summary": "Back-to-back third-place finishes cap the Eagles' golden run."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 18020000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kidal clashes",
+          "summary": "May fighting between the army and Tuareg rebels kills dozens."
+        },
+        {
+          "headline": "Peace talks begin",
+          "summary": "Algiers hosts negotiations with northern armed groups."
+        }
+      ],
+      "sport": {
+        "headline": "Mali miss 2014 World Cup",
+        "summary": "The Eagles fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 18593000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bamako hotel attack kills dozens",
+          "summary": "November's Radisson Blu siege by jihadists shocks the capital."
+        },
+        {
+          "headline": "Algiers peace deal signed",
+          "summary": "June's accord with northern rebels aims to end the conflict."
+        }
+      ],
+      "sport": {
+        "headline": "Mali exit AFCON at group stage",
+        "summary": "The Eagles go home early from the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 19191000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Jihadist attacks spread",
+          "summary": "Central Mali becomes the insurgency's new front."
+        },
+        {
+          "headline": "French force reorganized",
+          "summary": "Operation Barkhane takes over the counter-terrorism fight."
+        }
+      ],
+      "sport": {
+        "headline": "Mali compete at Rio Olympics",
+        "summary": "Malian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 19813000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suicide bombing kills dozens",
+          "summary": "January's Gao attack on soldiers is among the deadliest."
+        },
+        {
+          "headline": "Keita's popularity slides",
+          "summary": "Insecurity erodes support ahead of 2018."
+        }
+      ],
+      "sport": {
+        "headline": "Mali exit AFCON at group stage",
+        "summary": "The Eagles go home early from the 2017 tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 20442000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Keita re-elected president",
+          "summary": "The incumbent wins August's runoff amid low turnout."
+        },
+        {
+          "headline": "Ethnic massacres in central Mali",
+          "summary": "Dogon-Fulani violence kills hundreds."
+        }
+      ],
+      "sport": {
+        "headline": "Mali miss 2018 World Cup",
+        "summary": "The Eagles fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 21068000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ogossagou massacre kills scores",
+          "summary": "March's slaughter of Fulani villagers shocks the nation."
+        },
+        {
+          "headline": "Protests demand Keita's exit",
+          "summary": "The M5 movement mobilizes against the president."
+        }
+      ],
+      "sport": {
+        "headline": "Mali exit AFCON in round of 16",
+        "summary": "Ivory Coast eliminate the Eagles at Egypt 2019."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 21714000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Keita",
+          "summary": "August's coup topples the president after months of protests."
+        },
+        {
+          "headline": "ECOWAS imposes sanctions",
+          "summary": "Regional leaders demand a civilian transition."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Mali's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 22389000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Goita seizes power again",
+          "summary": "May's second coup ousts the civilian transitional leaders."
+        },
+        {
+          "headline": "France suspends operations",
+          "summary": "Paris clashes with the junta over Russian mercenaries."
+        }
+      ],
+      "sport": {
+        "headline": "Mali exit AFCON at group stage",
+        "summary": "The Eagles go home early from the 2021 tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 23073000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "France withdraws troops",
+          "summary": "Barkhane ends in August; Wagner mercenaries fill the void."
+        },
+        {
+          "headline": "ECOWAS sanctions bite",
+          "summary": "Border closures squeeze the junta."
+        }
+      ],
+      "sport": {
+        "headline": "Mali miss 2022 World Cup",
+        "summary": "Tunisia edge the Eagles in the qualifying playoff."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 23769000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN mission expelled",
+          "summary": "The junta forces MINUSMA's withdrawal by December."
+        },
+        {
+          "headline": "Kidal retaken",
+          "summary": "The army seizes the Tuareg stronghold in November."
+        }
+      ],
+      "sport": {
+        "headline": "Mali qualify for 2023 AFCON",
+        "summary": "The Eagles reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 24497000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mali quits ECOWAS with allies",
+          "summary": "January's joint withdrawal with Burkina Faso and Niger reshapes West Africa."
+        },
+        {
+          "headline": "Junta extends transition",
+          "summary": "The military postpones promised elections."
+        }
+      ],
+      "sport": {
+        "headline": "Mali reach AFCON quarterfinals",
+        "summary": "A last-eight defeat to Ivory Coast ends the 2023 campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 25247000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "AES confederation advances",
+          "summary": "Mali deepens integration with its Sahel allies."
+        },
+        {
+          "headline": "Jihadist blockade of Bamako",
+          "summary": "Militants choke fuel supplies to the capital late in the year."
+        }
+      ],
+      "sport": {
+        "headline": "Mali qualify for 2025 AFCON",
+        "summary": "The Eagles reach the Morocco tournament."
+      }
+    }
+  ]
+}

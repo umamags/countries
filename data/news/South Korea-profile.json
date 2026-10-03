@@ -1,0 +1,396 @@
+{
+  "country": "South Korea",
+  "iso3": "KOR",
+  "currency": "KRW",
+  "currency_name": "South Korean Won",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 48438000,
+      "fx_lcu_per_usd_annual_avg": 955.0091,
+      "geopolitical_news": [
+        {
+          "headline": "North's nuclear test",
+          "summary": "Pyongyang's test alarms Seoul."
+        },
+        {
+          "headline": "Roh's lame duck",
+          "summary": "The president's popularity slumps."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Germany",
+        "summary": "South Korea exit the World Cup in the group stage."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 48684000,
+      "fx_lcu_per_usd_annual_avg": 929.0962,
+      "geopolitical_news": [
+        {
+          "headline": "Inter-Korean summit",
+          "summary": "Roh meets Kim Jong-il in Pyongyang."
+        },
+        {
+          "headline": "Conservatives rise",
+          "summary": "Lee Myung-bak leads presidential polls."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup semifinal",
+        "summary": "South Korea reach the Asian Cup semifinals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 49055000,
+      "fx_lcu_per_usd_annual_avg": 1101.9556,
+      "geopolitical_news": [
+        {
+          "headline": "Lee elected",
+          "summary": "Lee Myung-bak wins the presidency."
+        },
+        {
+          "headline": "Beef protests",
+          "summary": "US beef imports spark mass rallies."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "South Korea win 31 medals in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 49308000,
+      "fx_lcu_per_usd_annual_avg": 1275.9896,
+      "geopolitical_news": [
+        {
+          "headline": "Roh dies",
+          "summary": "The ex-president's suicide shocks the nation."
+        },
+        {
+          "headline": "Kim Dae-jung dies",
+          "summary": "The Nobel laureate passes away."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "South Korea qualify for the 2010 World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 49554000,
+      "fx_lcu_per_usd_annual_avg": 1156.6766,
+      "geopolitical_news": [
+        {
+          "headline": "Cheonan sinking",
+          "summary": "46 sailors die; Seoul blames the North."
+        },
+        {
+          "headline": "Yeonpyeong shelling",
+          "summary": "Northern artillery kills four southerners."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last 16",
+        "summary": "South Korea reach the knockouts in South Africa."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 49937000,
+      "fx_lcu_per_usd_annual_avg": 1108.134,
+      "geopolitical_news": [
+        {
+          "headline": "Kim Jong-il dies",
+          "summary": "Seoul watches the succession nervously."
+        },
+        {
+          "headline": "FTA with US",
+          "summary": "The KORUS deal is ratified."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup semifinal",
+        "summary": "South Korea reach the Asian Cup semifinals in Qatar."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 50200000,
+      "fx_lcu_per_usd_annual_avg": 1127.09,
+      "geopolitical_news": [
+        {
+          "headline": "Park elected",
+          "summary": "Park Geun-hye becomes the first female president."
+        },
+        {
+          "headline": "Rocket launch",
+          "summary": "The North's satellite launch alarms Seoul."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic bronze",
+        "summary": "Footballers win bronze at the London Olympics."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 50429000,
+      "fx_lcu_per_usd_annual_avg": 1095.1139,
+      "geopolitical_news": [
+        {
+          "headline": "Park takes office",
+          "summary": "The conservative begins her term."
+        },
+        {
+          "headline": "Kaesong crisis",
+          "summary": "The joint industrial zone shuts temporarily."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "South Korea qualify for the 2014 World Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 50747000,
+      "fx_lcu_per_usd_annual_avg": 1053.0472,
+      "geopolitical_news": [
+        {
+          "headline": "Sewol ferry disaster",
+          "summary": "The sinking kills over 300, mostly schoolchildren."
+        },
+        {
+          "headline": "National trauma",
+          "summary": "The botched rescue devastates Park's standing."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games hosted",
+        "summary": "Incheon stages the Asian Games."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 51015000,
+      "fx_lcu_per_usd_annual_avg": 1132.7208,
+      "geopolitical_news": [
+        {
+          "headline": "MERS outbreak",
+          "summary": "The virus kills dozens and hits tourism."
+        },
+        {
+          "headline": "Comfort women deal",
+          "summary": "Seoul and Tokyo reach a wartime agreement."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup final",
+        "summary": "South Korea lose the final to Australia."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 51218000,
+      "fx_lcu_per_usd_annual_avg": 1160.4961,
+      "geopolitical_news": [
+        {
+          "headline": "Park impeached",
+          "summary": "The Choi Soon-sil scandal brings her down."
+        },
+        {
+          "headline": "Mass candlelight rallies",
+          "summary": "Millions demand her removal."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "South Korea win 21 medals in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 51362000,
+      "fx_lcu_per_usd_annual_avg": 1130.8182,
+      "geopolitical_news": [
+        {
+          "headline": "Moon elected",
+          "summary": "Moon Jae-in wins the May presidential vote."
+        },
+        {
+          "headline": "THAAD row",
+          "summary": "The missile shield angers China."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "South Korea scrape into the 2018 World Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 51585000,
+      "fx_lcu_per_usd_annual_avg": 1100.726,
+      "geopolitical_news": [
+        {
+          "headline": "Pyeongchang Olympics",
+          "summary": "The Winter Games enable North-South diplomacy."
+        },
+        {
+          "headline": "Inter-Korean summits",
+          "summary": "Moon and Kim meet three times."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the Winter Olympics",
+        "summary": "Pyeongchang stages a successful Winter Games."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 51765000,
+      "fx_lcu_per_usd_annual_avg": 1166.2773,
+      "geopolitical_news": [
+        {
+          "headline": "Hanoi summit fails",
+          "summary": "Hopes for peninsula peace fade."
+        },
+        {
+          "headline": "Japan trade row",
+          "summary": "Export curbs spark a bilateral feud."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup quarterfinal",
+        "summary": "South Korea exit the Asian Cup in the last eight."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 51836000,
+      "fx_lcu_per_usd_annual_avg": 1179.3574,
+      "geopolitical_news": [
+        {
+          "headline": "COVID success",
+          "summary": "Testing and tracing win global praise."
+        },
+        {
+          "headline": "Parliamentary win",
+          "summary": "Moon's party takes April polls."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic disrupts Korean football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 51770000,
+      "fx_lcu_per_usd_annual_avg": 1145.5055,
+      "geopolitical_news": [
+        {
+          "headline": "Housing scandal",
+          "summary": "A land speculation row hurts the ruling party."
+        },
+        {
+          "headline": "Succession race",
+          "summary": "Yoon and Lee emerge as contenders."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic medals",
+        "summary": "South Korea win 20 medals in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 51673000,
+      "fx_lcu_per_usd_annual_avg": 1292.9822,
+      "geopolitical_news": [
+        {
+          "headline": "Yoon elected",
+          "summary": "Yoon Suk Yeol wins a tight March vote."
+        },
+        {
+          "headline": "Halloween crush",
+          "summary": "The Itaewon stampede kills 159."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last 16",
+        "summary": "South Korea beat Portugal to reach the knockouts."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 51713000,
+      "fx_lcu_per_usd_annual_avg": 1306.8511,
+      "geopolitical_news": [
+        {
+          "headline": "Japan rapprochement",
+          "summary": "Yoon mends ties with Tokyo."
+        },
+        {
+          "headline": "Camp David summit",
+          "summary": "A trilateral pact with the US and Japan."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "South Korean athletes medal in Hangzhou."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 51751000,
+      "fx_lcu_per_usd_annual_avg": 1363.5284,
+      "geopolitical_news": [
+        {
+          "headline": "Martial law shock",
+          "summary": "Yoon's December decree lasts hours before reversal."
+        },
+        {
+          "headline": "Impeachment",
+          "summary": "Parliament votes to remove him."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympic medals",
+        "summary": "South Korea win 32 medals in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 51685000,
+      "fx_lcu_per_usd_annual_avg": 1421.5224,
+      "geopolitical_news": [
+        {
+          "headline": "Yoon removed",
+          "summary": "The court upholds his impeachment."
+        },
+        {
+          "headline": "Lee elected",
+          "summary": "Lee Jae-myung wins the June snap election."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualified",
+        "summary": "South Korea seal qualification for 2026."
+      }
+    }
+  ]
+}

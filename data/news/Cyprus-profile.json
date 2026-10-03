@@ -1,0 +1,396 @@
+{
+  "country": "Cyprus",
+  "iso3": "CYP",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 744000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Cyprus prepares for euro adoption",
+          "summary": "Nicosia readies the 2008 switch to the euro."
+        },
+        {
+          "headline": "Reunification talks remain stalled",
+          "summary": "Divisions persist in the aftermath of the Annan Plan's failure."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus thrash Ireland 5-2",
+        "summary": "A stunning qualifying win highlights Cyprus's best campaign."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 758000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Euro adoption confirmed",
+          "summary": "The EU approves Cyprus's euro entry for 2008."
+        },
+        {
+          "headline": "Presidential campaign begins",
+          "summary": "Candidates spar over the stalled reunification process."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus end Euro qualifying campaign",
+        "summary": "Cyprus finish mid-table after famous wins over Ireland and Wales."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 776000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Christofias elected president",
+          "summary": "Demetris Christofias wins February's presidential election."
+        },
+        {
+          "headline": "Cyprus adopts the euro",
+          "summary": "The euro replaces the Cypriot pound in January."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in World Cup qualifying",
+        "summary": "Cyprus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 797000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Reunification talks resume",
+          "summary": "Christofias and Talat restart direct negotiations."
+        },
+        {
+          "headline": "Cyprus-Israel ties deepen",
+          "summary": "Nicosia and Jerusalem move closer amid Turkey tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss 2010 World Cup",
+        "summary": "Cyprus finish fourth in their group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 819000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Talat loses northern election",
+          "summary": "Hardliner Dervis Eroglu wins the Turkish Cypriot leadership."
+        },
+        {
+          "headline": "Talks stall under Eroglu",
+          "summary": "Reunification negotiations falter after the leadership change."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus struggle in Euro qualifying",
+        "summary": "Cyprus finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 840000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Naval base explosion kills 13",
+          "summary": "A munitions blast at Mari kills 13 and knocks out the main power station."
+        },
+        {
+          "headline": "Christofias under pressure",
+          "summary": "The blast triggers calls for the president's resignation."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss Euro 2012",
+        "summary": "Cyprus finish fifth in their group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 862000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Cyprus seeks EU bailout",
+          "summary": "Nicosia requests international rescue in June."
+        },
+        {
+          "headline": "Cyprus holds EU presidency",
+          "summary": "Nicosia steers the EU Council in the second half of the year."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in World Cup qualifying",
+        "summary": "Cyprus finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 863000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Bail-in bailout agreed",
+          "summary": "Depositors take losses in a controversial March rescue deal."
+        },
+        {
+          "headline": "Anastasiades elected president",
+          "summary": "Nicos Anastasiades wins February's presidential election."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss 2014 World Cup",
+        "summary": "Cyprus finish fifth in their group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 860000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Turkey-Cyprus gas row escalates",
+          "summary": "Turkish survey ships enter Cypriot waters, halting reunification talks."
+        },
+        {
+          "headline": "Economy stabilises after bail-in",
+          "summary": "Cyprus exits recession as banking reforms take hold."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in Euro 2016 qualifying",
+        "summary": "Cyprus finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 861000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Reunification talks resume",
+          "summary": "Anastasiades and Akinci restart negotiations in May."
+        },
+        {
+          "headline": "Cyprus exits bailout programme",
+          "summary": "Nicosia completes its EU-IMF adjustment programme."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss Euro 2016",
+        "summary": "Cyprus finish fifth in their group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 864000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "DISY wins parliamentary elections",
+          "summary": "The ruling party triumphs in May's legislative vote."
+        },
+        {
+          "headline": "Reunification talks intensify",
+          "summary": "Leaders meet frequently amid hopes of a settlement."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in World Cup qualifying",
+        "summary": "Cyprus finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 870000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Crans-Montana talks collapse",
+          "summary": "UN-backed reunification talks in Switzerland fail in July."
+        },
+        {
+          "headline": "Reunification hopes dashed",
+          "summary": "The collapse ends the most promising talks in years."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss 2018 World Cup",
+        "summary": "Cyprus finish fifth in their group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 879000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Anastasiades re-elected",
+          "summary": "The incumbent wins February's presidential election."
+        },
+        {
+          "headline": "Turkey blocks ENI drillship",
+          "summary": "Turkish warships stop an Italian energy ship in Cypriot waters."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in Nations League C",
+        "summary": "Cyprus finish third in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 890000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Turkey sends drillships to Cypriot waters",
+          "summary": "Ankara escalates gas exploration, drawing EU sanctions threats."
+        },
+        {
+          "headline": "Cyprus backs EastMed pipeline",
+          "summary": "Cyprus, Greece and Israel advance the gas pipeline project."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss Euro 2020",
+        "summary": "Cyprus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 902000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Turkey partially reopens Varosha",
+          "summary": "Ankara reopens part of the fenced ghost town, angering Nicosia."
+        },
+        {
+          "headline": "Passport-for-cash scandal erupts",
+          "summary": "An undercover probe exposes the citizenship-by-investment scheme."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus struggle in Nations League",
+        "summary": "Cyprus finish bottom of their League C group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 914000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Geneva informal talks fail",
+          "summary": "UN-hosted talks in April produce no breakthrough."
+        },
+        {
+          "headline": "Erdogan backs two-state solution",
+          "summary": "Turkey's president pushes partition during a Varosha visit."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus miss 2022 World Cup",
+        "summary": "Cyprus finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 930000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Cyprus backs Ukraine sanctions",
+          "summary": "Nicosia supports EU sanctions despite Russian business ties."
+        },
+        {
+          "headline": "Russian assets face scrutiny",
+          "summary": "Cyprus comes under pressure over Russian money in its banks."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in Nations League",
+        "summary": "Cyprus finish runners-up in their League C group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 949000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Christodoulides elected president",
+          "summary": "Nikos Christodoulides wins February's presidential election."
+        },
+        {
+          "headline": "Cyprus pushes for new talks",
+          "summary": "The new president seeks to restart reunification negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus endure winless Euro qualifying",
+        "summary": "Cyprus lose all eight of their qualifiers."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 966000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Reunification efforts stall",
+          "summary": "No breakthrough emerges in talks with the Turkish Cypriot side."
+        },
+        {
+          "headline": "Cyprus backs EU defence push",
+          "summary": "Nicosia supports stronger European defence cooperation."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus compete in Nations League C",
+        "summary": "Cyprus finish third in their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 983000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "UN envoy pushes Cyprus talks",
+          "summary": "New UN efforts aim to revive reunification negotiations."
+        },
+        {
+          "headline": "Cyprus prepares EU presidency",
+          "summary": "Nicosia readies its 2026 turn leading the EU Council."
+        }
+      ],
+      "sport": {
+        "headline": "Cyprus chase World Cup qualifying points",
+        "summary": "Cyprus compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

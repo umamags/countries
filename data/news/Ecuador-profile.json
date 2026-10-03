@@ -1,0 +1,400 @@
+{
+  "country": "Ecuador",
+  "iso3": "ECU",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 13852000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Correa elected president",
+          "summary": "Rafael Correa wins November's runoff on a leftist, anti-establishment platform."
+        },
+        {
+          "headline": "Oil protests in the Amazon",
+          "summary": "Violent demonstrations demand a bigger state share of petroleum revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Best World Cup run ever",
+        "summary": "Ecuador reaches the last 16 in Germany before falling to England."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 14107000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Correa takes office",
+          "summary": "He is inaugurated in January vowing a 'citizens' revolution' and a new constitution."
+        },
+        {
+          "headline": "Constituent assembly elected",
+          "summary": "Correa's movement dominates the September vote to rewrite the charter."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Ecuador loses all three group matches in Venezuela in a dismal Copa América campaign."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 14359000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Colombia's Reyes raid ruptures ties",
+          "summary": "The March killing of a FARC leader on Ecuadorian soil triggers a regional crisis."
+        },
+        {
+          "headline": "New constitution approved",
+          "summary": "Voters back the charter in September; Ecuador defaults on 'illegitimate' debt in December."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying struggles",
+        "summary": "Ecuador sits mid-table in the race for South Africa 2010."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 14616000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Correa re-elected",
+          "summary": "He wins April's vote under the new constitution with a first-round majority."
+        },
+        {
+          "headline": "Manta US base closed",
+          "summary": "Ecuador declines to renew the American anti-drug base lease."
+        }
+      ],
+      "sport": {
+        "headline": "Ecuador misses South Africa 2010",
+        "summary": "A sixth-place finish in CONMEBOL qualifying ends Ecuador's hopes for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 14884000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "'30S' police uprising",
+          "summary": "Police revolt over benefit cuts on September 30; Correa is trapped in a hospital for hours."
+        },
+        {
+          "headline": "Coup attempt alleged",
+          "summary": "The government calls the mutiny a coup; several people die in the clashes."
+        }
+      ],
+      "sport": {
+        "headline": "Benítez stars in Mexico",
+        "summary": "Christian Benítez finishes as a top scorer in the Mexican league."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 15161000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum backs judicial reforms",
+          "summary": "Voters approve Correa's May package amid opposition cries of power-grabbing."
+        },
+        {
+          "headline": "El Universo libel case",
+          "summary": "A court fines the newspaper and jails its directors in a suit brought by Correa."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Ecuador draws twice but fails to advance in Argentina."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 15441000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Assange granted asylum",
+          "summary": "Ecuador shelters the WikiLeaks founder in its London embassy in June."
+        },
+        {
+          "headline": "Chevron ordered to pay billions",
+          "summary": "Courts uphold a massive judgment against the oil giant over Amazon pollution."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying push",
+        "summary": "Ecuador climbs into the automatic qualifying places, building momentum toward Brazil 2014."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 15718000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Correa re-elected again",
+          "summary": "He wins February's vote with a wide margin for a third term."
+        },
+        {
+          "headline": "Yasuní-ITT initiative abandoned",
+          "summary": "Correa scraps the plan to leave Amazon oil untapped, citing insufficient funds."
+        }
+      ],
+      "sport": {
+        "headline": "Benítez dies suddenly",
+        "summary": "Star striker Christian Benítez dies of a heart attack in Qatar in July aged 27."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 15994000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price crash hits economy",
+          "summary": "Plunging crude prices strain the dollarized economy and public finances."
+        },
+        {
+          "headline": "Correa's popularity wanes",
+          "summary": "Austerity measures and the oil-price crash erode support for the once-dominant president."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup group-stage exit",
+        "summary": "Ecuador draws with France but fails to advance in Brazil."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 16269000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Protests over inheritance taxes",
+          "summary": "Months of demonstrations erupt against proposed tax and constitutional changes."
+        },
+        {
+          "headline": "Indefinite re-election approved",
+          "summary": "The assembly scraps term limits in December, though Correa pledges not to run."
+        }
+      ],
+      "sport": {
+        "headline": "Flying start to 2018 qualifying",
+        "summary": "Ecuador wins its first four qualifiers, including a famous victory in Argentina."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 16532000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Devastating 7.8 earthquake",
+          "summary": "The April 16 Pedernales quake kills hundreds and flattens coastal towns."
+        },
+        {
+          "headline": "Reconstruction begins",
+          "summary": "The government launches a massive rebuilding effort amid corruption claims."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final run",
+        "summary": "Ecuador reaches the knockouts in the United States before losing to the hosts."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 16793000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Moreno elected president",
+          "summary": "Lenín Moreno narrowly wins April's runoff as Correa's chosen successor."
+        },
+        {
+          "headline": "Break with Correa begins",
+          "summary": "Moreno swiftly distances himself from his mentor, stunning the left."
+        }
+      ],
+      "sport": {
+        "headline": "Ecuador misses Russia 2018",
+        "summary": "A late collapse in qualifying ends World Cup hopes."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 17078000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum ends indefinite re-election",
+          "summary": "Voters back Moreno's February package, barring Correa from returning."
+        },
+        {
+          "headline": "Border journalists murdered",
+          "summary": "Dissident FARC fighters kill an El Comercio press team, shocking the nation."
+        }
+      ],
+      "sport": {
+        "headline": "No World Cup for Ecuador",
+        "summary": "Ecuador watches the Russia 2018 World Cup from home after a late qualifying collapse."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 17357000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "October fuel-subsidy protests",
+          "summary": "An IMF-backed decree scrapping subsidies ignites 11 days of indigenous-led unrest."
+        },
+        {
+          "headline": "Decree repealed, government retreats",
+          "summary": "Moreno withdraws the measure after deaths and chaos in Quito."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Ecuador goes out winless in Brazil, finishing bottom of its Copa América group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 17526000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID devastates Guayaquil",
+          "summary": "Bodies pile up in the streets in April as the health system collapses."
+        },
+        {
+          "headline": "Debt restructuring agreed",
+          "summary": "Ecuador seals an IMF-backed deal to ease its crushing obligations."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Leagues and qualifiers halt; play resumes behind closed doors."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 17614000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lasso elected president",
+          "summary": "Banker Guillermo Lasso wins April's runoff, ending a decade of leftist rule."
+        },
+        {
+          "headline": "Prison massacres shock nation",
+          "summary": "Gang wars inside penitentiaries kill scores through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final run",
+        "summary": "Ecuador reaches the Copa América knockouts in Brazil before losing to eventual champions Argentina."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17715000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "June indigenous protests",
+          "summary": "CONAIE leads 18 days of roadblocks over fuel and living costs."
+        },
+        {
+          "headline": "Violence spirals",
+          "summary": "Homicides soar as drug gangs battle for trafficking routes."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup group-stage exit",
+        "summary": "Ecuador beats Qatar in the opener but fails to advance; the Castillo eligibility saga overshadows."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 17835000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lasso dissolves parliament",
+          "summary": "Facing impeachment, he invokes 'muerte cruzada' in May, triggering snap elections."
+        },
+        {
+          "headline": "Villavicencio assassinated",
+          "summary": "Anti-corruption candidate Fernando Villavicencio is murdered in Quito in August."
+        },
+        {
+          "headline": "Noboa elected president",
+          "summary": "Daniel Noboa wins October's runoff at 35, the country's youngest president."
+        }
+      ],
+      "sport": {
+        "headline": "Qualifiers begin with points deduction",
+        "summary": "Ecuador starts 2026 qualifying on minus three points over the Castillo case."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 17967000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "'Internal armed conflict' declared",
+          "summary": "Noboa declares war on gangs in January after a TV station is stormed live on air."
+        },
+        {
+          "headline": "Mexican embassy raided",
+          "summary": "Police storm the embassy in April to arrest ex-VP Glas, rupturing diplomatic ties."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final run",
+        "summary": "Ecuador loses to Argentina on penalties in the Houston quarter-final after a late equalizer."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Noboa re-elected",
+          "summary": "He defeats Luisa González in April's runoff on a hardline security platform."
+        },
+        {
+          "headline": "Blackouts and gang war persist",
+          "summary": "Drought-driven power cuts compound the security crisis as Noboa begins his full term."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualification secured",
+        "summary": "Ecuador books its ticket with games to spare despite the points deduction."
+      }
+    }
+  ]
+}

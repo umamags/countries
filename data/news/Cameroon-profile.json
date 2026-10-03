@@ -1,0 +1,396 @@
+{
+  "country": "Cameroon",
+  "iso3": "CMR",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 17550000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya marks 24 years in power",
+          "summary": "The president's long rule faces little challenge as the opposition remains divided."
+        },
+        {
+          "headline": "Bakassi handover begins",
+          "summary": "Nigeria starts transferring the disputed peninsula under the 2002 ICJ ruling."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon miss 2006 World Cup",
+        "summary": "A last-day qualifying defeat to Egypt denies the Indomitable Lions a fifth straight World Cup."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 18050000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections favor ruling party",
+          "summary": "Biya's RDPC wins July's parliamentary vote amid opposition fraud claims."
+        },
+        {
+          "headline": "Corruption crackdown hits elites",
+          "summary": "Operation Sparrowhawk jails ministers in an anti-graft campaign."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2008 AFCON",
+        "summary": "The Indomitable Lions book a place at the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 18574000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution amended to scrap term limits",
+          "summary": "April's change lets Biya seek re-election indefinitely, sparking protests."
+        },
+        {
+          "headline": "Food riots shake cities",
+          "summary": "February protests over prices leave dozens dead in Douala and Yaounde."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon reach AFCON final",
+        "summary": "The Indomitable Lions lose 1-0 to Egypt in the 2008 final in Accra."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 19114000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya reshuffles government",
+          "summary": "Cabinet changes aim to refresh the regime ahead of the 2011 election."
+        },
+        {
+          "headline": "Piracy hits Gulf of Guinea",
+          "summary": "Attacks on shipping off Cameroon's coast draw international concern."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2010 World Cup",
+        "summary": "The Indomitable Lions reach South Africa 2010, their sixth World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 19668000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya celebrates 50 years of independence",
+          "summary": "Lavish May ceremonies mark the anniversary amid opposition boycotts."
+        },
+        {
+          "headline": "Journalist dies in custody",
+          "summary": "The death of editor Bibi Ngota sparks outcry over press freedom."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon exit World Cup winless",
+        "summary": "Three defeats at South Africa 2010, including to Denmark and the Netherlands, end a poor campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 20232000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya re-elected for sixth term",
+          "summary": "The 78-year-old wins October's vote; observers cite irregularities."
+        },
+        {
+          "headline": "Opposition cries foul",
+          "summary": "Rivals reject the result as the ruling party machine rolls on."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon miss 2012 AFCON",
+        "summary": "Shock qualifying failure keeps the Indomitable Lions out of the 2012 tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 20810000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Plane crash kills officials",
+          "summary": "A May crash claims senior government figures."
+        },
+        {
+          "headline": "Boko Haram threat grows",
+          "summary": "The Nigerian jihadist group begins cross-border raids in the Far North."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon miss 2013 AFCON",
+        "summary": "A second straight qualifying failure, losing a playoff to Cape Verde."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 21402000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "French priest kidnapped",
+          "summary": "Boko Haram abducts Father Georges Vandenbeusch in the Far North."
+        },
+        {
+          "headline": "Senate elections held",
+          "summary": "Cameroon's first senate is chosen under the ruling party's dominance."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2014 World Cup",
+        "summary": "A playoff win over Tunisia takes the Indomitable Lions to Brazil 2014."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 22060000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Boko Haram war escalates",
+          "summary": "Suicide bombings and raids devastate the Far North; Cameroon joins the regional task force."
+        },
+        {
+          "headline": "Biya declares war on Boko Haram",
+          "summary": "The president vows to crush the insurgents after mass abductions."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon exit World Cup in disarray",
+        "summary": "Three defeats and a dressing-room brawl mar a miserable Brazil 2014 campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 22763000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Suicide bombings hit the Far North",
+          "summary": "Boko Haram attacks kill dozens in border towns throughout the year."
+        },
+        {
+          "headline": "Cameroon hosts regional summit",
+          "summary": "Yaounde coordinates the multinational fight against the jihadists."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon reach 2015 AFCON",
+        "summary": "The Indomitable Lions return to the tournament but exit at the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 23454000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Anglophone crisis erupts",
+          "summary": "October strikes by lawyers and teachers in English-speaking regions turn into a separatist uprising."
+        },
+        {
+          "headline": "Train disaster kills dozens",
+          "summary": "An October derailment near Eseka becomes one of Cameroon's worst rail accidents."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2017 AFCON",
+        "summary": "The Indomitable Lions book a place at the Gabon tournament."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 24129000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Anglophone crackdown intensifies",
+          "summary": "Leaders are arrested, the internet is cut in English regions, and protests turn violent."
+        },
+        {
+          "headline": "Biya's long absences questioned",
+          "summary": "The aging president's extended stays abroad fuel succession speculation."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon win Africa Cup of Nations",
+        "summary": "A 2-1 final victory over Egypt in Libreville delivers Cameroon's fifth AFCON title."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 24806000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya wins seventh term",
+          "summary": "The 85-year-old takes October's vote as the Anglophone conflict rages."
+        },
+        {
+          "headline": "Anglophone violence worsens",
+          "summary": "Separatist ambushes and army reprisals displace hundreds of thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon stripped of 2019 AFCON hosting",
+        "summary": "CAF moves the tournament to Egypt over Cameroon's slow preparations."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 25506000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "National dialogue on Anglophone crisis",
+          "summary": "September talks grant special status to English regions but exclude separatist leaders."
+        },
+        {
+          "headline": "Opposition leader Kamto jailed",
+          "summary": "Maurice Kamto is imprisoned after disputing the 2018 election."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon exit AFCON in round of 16",
+        "summary": "A 3-2 defeat to Nigeria ends the holders' 2019 campaign in Egypt."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 26211000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ngarbuh massacre shocks nation",
+          "summary": "Soldiers kill civilians including children in a February Anglophone village raid."
+        },
+        {
+          "headline": "Regional elections held",
+          "summary": "December's vote implements decentralization promised in the national dialogue."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Cameroon's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 26916000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Anglophone conflict grinds on",
+          "summary": "Separatist attacks and military operations continue with no political settlement."
+        },
+        {
+          "headline": "Biya's health rumors swirl",
+          "summary": "The 88-year-old president's rare appearances fuel speculation."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon prepare to host AFCON",
+        "summary": "Stadiums are completed for the delayed 2021 tournament kicking off in January 2022."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 27633000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cameroon hosts Africa Cup of Nations",
+          "summary": "The January-February tournament proceeds amid separatist threats in host cities."
+        },
+        {
+          "headline": "Stadium crush kills eight",
+          "summary": "A deadly stampede at Yaounde's Olembe stadium mars the tournament."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon reach World Cup, beat Brazil",
+        "summary": "The Indomitable Lions stun Brazil 1-0 at Qatar 2022 but exit at the group stage."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 28373000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya marks 90th birthday in power",
+          "summary": "The world's oldest head of state shows no sign of stepping aside."
+        },
+        {
+          "headline": "Anglophone crisis festers",
+          "summary": "Kidnappings and school boycotts continue in the English-speaking regions."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2023 AFCON",
+        "summary": "The Indomitable Lions book a place at the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 29124000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya's absences spark succession talk",
+          "summary": "Weeks out of public view in 2024 fuel rumors about the 91-year-old's health."
+        },
+        {
+          "headline": "Opposition unites for 2025 vote",
+          "summary": "Rivals begin coordinating to challenge Biya's expected re-election bid."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon exit AFCON in round of 16",
+        "summary": "A 2-0 defeat to Nigeria ends Cameroon's 2023 campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 29879000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Biya wins eighth term at 92",
+          "summary": "October's election extends the president's 43-year rule amid fraud claims."
+        },
+        {
+          "headline": "Post-election protests crushed",
+          "summary": "Security forces suppress demonstrations disputing the result."
+        }
+      ],
+      "sport": {
+        "headline": "Cameroon qualify for 2025 AFCON",
+        "summary": "The Indomitable Lions reach the Morocco tournament."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Federated States of Micronesia",
+  "iso3": "FSM",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 105000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM pursues Compact funding goals",
+          "summary": "The government worked with Washington on amended Compact implementation."
+        },
+        {
+          "headline": "Climate change tops national agenda",
+          "summary": "Rising seas threatened the low-lying atolls of the federation."
+        }
+      ],
+      "sport": {
+        "headline": "FSM athletes at Melbourne Commonwealth Games",
+        "summary": "Micronesian competitors represented the nation in Melbourne."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Manny Mori elected president",
+          "summary": "Congress chose Manny Mori as president in May."
+        },
+        {
+          "headline": "New administration sets priorities",
+          "summary": "Mori pledged focus on education, health and infrastructure."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Apia Pacific Games",
+        "summary": "Micronesian athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mori administration settles in",
+          "summary": "The new government advanced Compact-funded projects."
+        },
+        {
+          "headline": "FSM attends Pacific Islands Forum",
+          "summary": "Palikir engaged on climate and fisheries at regional meetings."
+        }
+      ],
+      "sport": {
+        "headline": "FSM's team at Beijing Olympics",
+        "summary": "Micronesian athletes competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM deepens US partnership",
+          "summary": "Compact consultations continued with Washington."
+        },
+        {
+          "headline": "Fisheries access fees debated",
+          "summary": "Congress discussed maximising tuna revenue from foreign fleets."
+        }
+      ],
+      "sport": {
+        "headline": "Micronesian lifters target Delhi 2010",
+        "summary": "Weightlifters prepared for the Commonwealth Games."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM hosts regional meetings",
+          "summary": "Palikir staged Micronesian chief executives' discussions."
+        },
+        {
+          "headline": "Infrastructure projects advance",
+          "summary": "Compact funds built roads, schools and clinics across the states."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Delhi Commonwealth Games",
+        "summary": "Micronesian athletes competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mori re-elected president",
+          "summary": "Congress returned Manny Mori for a second term."
+        },
+        {
+          "headline": "FSM pushes climate agenda",
+          "summary": "The federation demanded stronger action at global climate talks."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Noumea Pacific Games",
+        "summary": "Micronesian athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM marks Compact milestones",
+          "summary": "Palikir and Washington reviewed amended Compact progress."
+        },
+        {
+          "headline": "Chuuk secession debate resurfaces",
+          "summary": "Independence sentiment in Chuuk state drew national attention."
+        }
+      ],
+      "sport": {
+        "headline": "FSM's athletes at London Olympics",
+        "summary": "Micronesian competitors represented the nation in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 104000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM engages on regional security",
+          "summary": "The federation participated in Pacific security dialogues."
+        },
+        {
+          "headline": "Fisheries revenue grows",
+          "summary": "Vessel day scheme income boosted the national budget."
+        }
+      ],
+      "sport": {
+        "headline": "Micronesian footballers in qualifying",
+        "summary": "FSM's team contested Oceania youth competitions."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM hosts Micronesian Games",
+          "summary": "Pohnpei staged the regional Micronesian Games."
+        },
+        {
+          "headline": "Congress debates Compact trust fund",
+          "summary": "Lawmakers discussed the fund meant to replace grants after 2023."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Glasgow Commonwealth Games",
+        "summary": "Micronesian athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Peter Christian elected president",
+          "summary": "Congress chose Peter Christian to succeed Mori."
+        },
+        {
+          "headline": "Typhoon Maysak devastates Chuuk and Yap",
+          "summary": "The March storm killed people and destroyed homes across the states."
+        }
+      ],
+      "sport": {
+        "headline": "FSM footballers endure record Pacific Games defeats",
+        "summary": "Micronesia conceded heavily at the Port Moresby tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Christian administration begins",
+          "summary": "The new government set its development priorities."
+        },
+        {
+          "headline": "FSM attends Forum leaders' meeting",
+          "summary": "Palikir engaged on climate and ocean issues."
+        }
+      ],
+      "sport": {
+        "headline": "FSM's athletes at Rio Olympics",
+        "summary": "Micronesian competitors represented the nation in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 101000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM deepens ties with China",
+          "summary": "Beijing-funded projects expanded across the four states."
+        },
+        {
+          "headline": "Compact renegotiation looms",
+          "summary": "Palikir began preparing for post-2023 Compact talks with Washington."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Pacific Mini Games",
+        "summary": "Micronesian athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM prepares Compact negotiations",
+          "summary": "The government formulated its position for renewed US assistance."
+        },
+        {
+          "headline": "Chuuk independence referendum delayed",
+          "summary": "A planned plebiscite on secession was postponed."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Gold Coast Commonwealth Games",
+        "summary": "Micronesian athletes competed in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 98000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "David Panuelo elected president",
+          "summary": "Congress chose David Panuelo in May."
+        },
+        {
+          "headline": "Panuelo warns on Chinese influence",
+          "summary": "The new president voiced concerns about Beijing's Pacific activities."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Apia Pacific Games",
+        "summary": "Micronesian athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 97000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM stays COVID-free",
+          "summary": "Closed borders kept the virus out of the federation."
+        },
+        {
+          "headline": "Compact talks with US advance",
+          "summary": "Negotiations on renewed American assistance progressed."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 96000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM records first COVID cases",
+          "summary": "The virus reached the federation as borders cautiously reopened."
+        },
+        {
+          "headline": "Panuelo's Taiwan-China letter leaks",
+          "summary": "The president's warnings about Beijing drew international attention."
+        }
+      ],
+      "sport": {
+        "headline": "FSM's athletes at Tokyo Olympics",
+        "summary": "Micronesian competitors represented the nation at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 95000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM navigates US-China rivalry",
+          "summary": "Palikir balanced Compact ties with Washington against Beijing's offers."
+        },
+        {
+          "headline": "FSM attends Pacific summits",
+          "summary": "The federation engaged actively in regional diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Birmingham Commonwealth Games",
+        "summary": "Micronesian athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 95000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Wesley Simina elected president",
+          "summary": "Congress chose Wesley Simina in May."
+        },
+        {
+          "headline": "FSM renews Compact with United States",
+          "summary": "A new twenty-year assistance agreement was signed in May."
+        }
+      ],
+      "sport": {
+        "headline": "FSM at Honiara Pacific Games",
+        "summary": "Micronesian athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 95000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US Congress approves Compact funding",
+          "summary": "Washington passed the funding package for FSM, Palau and Marshalls in March."
+        },
+        {
+          "headline": "Simina government implements Compact",
+          "summary": "Palikir began rolling out the renewed American assistance."
+        }
+      ],
+      "sport": {
+        "headline": "FSM's athletes at Paris Olympics",
+        "summary": "Micronesian competitors represented the nation in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 95000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "FSM deepens development partnerships",
+          "summary": "Palikir courted Japan, Australia and the US for infrastructure funding."
+        },
+        {
+          "headline": "Climate adaptation remains priority",
+          "summary": "Sea-level rise kept adaptation at the top of the national agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Micronesian athletes target regional medals",
+        "summary": "FSM's teams prepared for upcoming Pacific competitions."
+      }
+    }
+  ]
+}

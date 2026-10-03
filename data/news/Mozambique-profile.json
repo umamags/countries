@@ -1,0 +1,396 @@
+{
+  "country": "Mozambique",
+  "iso3": "MOZ",
+  "currency": "MZN",
+  "currency_name": "Mozambican Metical",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 21080000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guebuza's government stable",
+          "summary": "Frelimo maintains its dominance of Mozambican politics."
+        },
+        {
+          "headline": "Gas discoveries announced",
+          "summary": "Offshore finds promise an economic transformation."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique fall short in AFCON qualifying",
+        "summary": "The Mambas miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 21673000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Floods displace thousands",
+          "summary": "Zambezi basin deluges hit central Mozambique."
+        },
+        {
+          "headline": "Mozambique's growth strong",
+          "summary": "The economy remains among Africa's fastest-growing."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2008 AFCON",
+        "summary": "The Mambas fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 22277000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Food riots hit Maputo",
+          "summary": "September protests over prices turn deadly."
+        },
+        {
+          "headline": "Government cuts tariffs",
+          "summary": "Bread and fuel levies are reduced."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique compete at Beijing Olympics",
+        "summary": "Mozambican athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 22895000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guebuza re-elected president",
+          "summary": "The incumbent wins October's vote; Renamo alleges fraud."
+        },
+        {
+          "headline": "Frelimo dominates",
+          "summary": "The ruling party sweeps parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique qualify for 2010 AFCON",
+        "summary": "The Mambas reach the Angola tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 23532000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Maputo riots over prices",
+          "summary": "September's bread protests leave several dead."
+        },
+        {
+          "headline": "Government backtracks",
+          "summary": "Price hikes are reversed after the unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique exit AFCON at group stage",
+        "summary": "The Mambas go home early from the 2010 tournament."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 24188000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Renamo threatens return to war",
+          "summary": "Afonso Dhlakama's warnings raise tensions."
+        },
+        {
+          "headline": "Coal boom begins",
+          "summary": "Tete province mining investments surge."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2012 AFCON",
+        "summary": "The Mambas fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 24863000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dhlakama retreats to bush",
+          "summary": "The Renamo leader establishes a base in Gorongosa."
+        },
+        {
+          "headline": "Clashes erupt",
+          "summary": "Sporadic fighting breaks out in central Mozambique."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique compete at London Olympics",
+        "summary": "Mozambican athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 25561000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Renamo attacks escalate",
+          "summary": "Ambushes on roads and rails spread insecurity."
+        },
+        {
+          "headline": "Peace talks begin",
+          "summary": "Government and Renamo negotiate in Maputo."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2013 AFCON",
+        "summary": "The Mambas fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 26286000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nyusi wins presidency",
+          "summary": "Filipe Nyusi defeats Dhlakama in October's vote."
+        },
+        {
+          "headline": "Ceasefire signed",
+          "summary": "September's deal pauses the Renamo conflict."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2014 World Cup",
+        "summary": "The Mambas fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 27042000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hidden debt scandal erupts",
+          "summary": "Secret $2 billion loans surface, triggering donor fury."
+        },
+        {
+          "headline": "IMF suspends aid",
+          "summary": "The Fund freezes support over the undisclosed borrowing."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2015 AFCON",
+        "summary": "The Mambas fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 27830000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Debt crisis deepens",
+          "summary": "Mozambique defaults as the metical collapses."
+        },
+        {
+          "headline": "Renamo conflict resumes",
+          "summary": "Fighting flares in the center despite the truce."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique compete at Rio Olympics",
+        "summary": "Mozambican athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 28649000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Insurgency erupts in Cabo Delgado",
+          "summary": "October's Mocimboa attacks launch a jihadist rebellion."
+        },
+        {
+          "headline": "Gas projects threatened",
+          "summary": "Total's LNG investment faces security risks."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2017 AFCON",
+        "summary": "The Mambas fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 29424000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dhlakama dies",
+          "summary": "The Renamo leader's May death removes a war spoiler."
+        },
+        {
+          "headline": "Insurgency spreads",
+          "summary": "Beheadings and village burnings terrorize the north."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2018 World Cup",
+        "summary": "The Mambas fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 30286000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nyusi re-elected president",
+          "summary": "The incumbent wins October's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Cyclones Idai and Kenneth strike",
+          "summary": "Twin storms kill hundreds and devastate Beira."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2019 AFCON",
+        "summary": "The Mambas fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 31178000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Insurgents seize Mocimboa",
+          "summary": "August's capture of the port town shocks the nation."
+        },
+        {
+          "headline": "Total suspends LNG project",
+          "summary": "The gas giant halts work after nearby attacks."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Mozambique's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 32077000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Palma attack kills dozens",
+          "summary": "March's assault on the gas town triggers a mass evacuation."
+        },
+        {
+          "headline": "Rwanda and SADC intervene",
+          "summary": "Foreign troops deploy to fight the insurgents."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2021 AFCON",
+        "summary": "The Mambas fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 32970000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Insurgency pushed back",
+          "summary": "Rwandan-led forces retake key towns."
+        },
+        {
+          "headline": "Total eyes LNG restart",
+          "summary": "The gas project inches toward resumption."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2022 World Cup",
+        "summary": "The Mambas fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 33897000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Local elections disputed",
+          "summary": "October's vote sparks opposition protests over fraud claims."
+        },
+        {
+          "headline": "Insurgency simmers",
+          "summary": "Attacks continue despite military gains."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique qualify for 2023 AFCON",
+        "summary": "The Mambas reach the Ivory Coast tournament, ending a long absence."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 34858000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chapo wins disputed election",
+          "summary": "October's vote extends Frelimo rule; protests erupt over fraud claims."
+        },
+        {
+          "headline": "Post-election unrest kills dozens",
+          "summary": "Security forces crush demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique exit AFCON at group stage",
+        "summary": "The Mambas go home early from the 2023 tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 35835000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chapo inaugurated amid tensions",
+          "summary": "The new president takes office as opposition rejects the result."
+        },
+        {
+          "headline": "Insurgency persists in north",
+          "summary": "Jihadist attacks continue in Cabo Delgado."
+        }
+      ],
+      "sport": {
+        "headline": "Mozambique miss 2025 AFCON",
+        "summary": "The Mambas fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

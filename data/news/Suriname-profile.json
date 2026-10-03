@@ -1,0 +1,396 @@
+{
+  "country": "Suriname",
+  "iso3": "SUR",
+  "currency": "SRD",
+  "currency_name": "Surinamese Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 507000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Venetiaan's second term continues",
+          "summary": "Ronald Venetiaan governs through a fragile multi-ethnic coalition in his second term."
+        },
+        {
+          "headline": "December murders trial proceeds",
+          "summary": "The case against Desi Bouterse over the 1982 killings grinds through court."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying exit",
+        "summary": "Suriname is eliminated early in CONCACAF qualifying for Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 514000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition strains",
+          "summary": "Rivalries between the coalition's ethnic parties test the stability of the government."
+        },
+        {
+          "headline": "Gold mining disputes",
+          "summary": "Clashes over small-scale mining concessions flare in the interior."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying push",
+        "summary": "Suriname chases a first-ever continental finals berth in the Gold Cup qualifying rounds."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 521000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse trial continues",
+          "summary": "Witness hearings in the December murders case draw national attention."
+        },
+        {
+          "headline": "Economic growth holds",
+          "summary": "High gold and oil prices buoy Suriname's small, resource-dependent economy through the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying exit",
+        "summary": "Suriname is eliminated early in CONCACAF qualifying, falling short of South Africa 2010."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 528000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Election maneuvering begins",
+          "summary": "Bouterse's NDP builds a coalition ahead of 2010 polls."
+        },
+        {
+          "headline": "Floods hit interior",
+          "summary": "Weeks of heavy seasonal rains flood Suriname's interior, displacing many vulnerable riverside communities."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying exit",
+        "summary": "Suriname misses the continental finals again after another early elimination in Gold Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 536000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse elected president",
+          "summary": "The former dictator wins parliament's vote in July, returning to power."
+        },
+        {
+          "headline": "Amnesty debate ignites",
+          "summary": "Allies move to shield him from the December murders prosecution."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying hopes fade",
+        "summary": "Suriname is eliminated in CONCACAF qualifying, missing out on South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 541000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse consolidates power",
+          "summary": "Bouterse's new government rewards loyalists while systematically sidelining critics and independent media."
+        },
+        {
+          "headline": "Dutch aid frozen",
+          "summary": "The Netherlands suspends aid over the amnesty law plans."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying exit",
+        "summary": "Suriname falls in the Caribbean qualifying rounds, missing out on the continental championship again."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 546000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Amnesty law passed",
+          "summary": "Parliament grants immunity for the 1982 December murders in April."
+        },
+        {
+          "headline": "International condemnation",
+          "summary": "The Netherlands and human rights groups denounce the law."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying exit",
+        "summary": "Suriname is eliminated in CONCACAF qualifying, missing the Brazil 2014 World Cup."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 554000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Amnesty law challenged",
+          "summary": "Domestic courts and the Inter-American system question the validity of the amnesty law."
+        },
+        {
+          "headline": "Oil exploration interest",
+          "summary": "Suriname's promising offshore oil blocks draw growing attention from major international energy firms."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying push",
+        "summary": "Suriname competes in Caribbean Cup qualifying, still chasing a long-sought continental championship berth."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 563000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse's son convicted in US",
+          "summary": "Dino Bouterse gets 16 years from an American court on drug and terror charges."
+        },
+        {
+          "headline": "Economic slowdown",
+          "summary": "Falling global gold prices squeeze government revenues and steadily widen the fiscal deficit."
+        }
+      ],
+      "sport": {
+        "headline": "Caribbean Cup campaign",
+        "summary": "Suriname competes in the regional qualifying rounds for the Caribbean Cup championship tournament."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 567000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse re-elected",
+          "summary": "His NDP wins May's parliamentary vote and he secures a second term."
+        },
+        {
+          "headline": "Amnesty law partially struck",
+          "summary": "A court rules the immunity cannot halt the murders trial."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying exit",
+        "summary": "Suriname misses the continental finals following elimination in the Gold Cup qualifying rounds."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 576000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Currency collapse and emergency IMF talks dominate the year as reserves run dry."
+        },
+        {
+          "headline": "Austerity protests",
+          "summary": "Street demonstrations erupt across Paramaribo over painful subsidy cuts and soaring living costs."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying exit",
+        "summary": "Suriname is eliminated in CONCACAF qualifying, missing the Russia 2018 World Cup."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 583000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF program agreed",
+          "summary": "Suriname seals an IMF standby arrangement as the deepening economic downturn bites harder."
+        },
+        {
+          "headline": "Murders trial verdict nears",
+          "summary": "The marathon December murders trial finally approaches judgment after years of legal delays."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying push",
+        "summary": "Suriname builds toward the continental championship with a young and improving national squad."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 590000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Staatsolie oil hopes rise",
+          "summary": "Offshore exploration optimism grows in Suriname as neighboring Guyana strikes massive crude reserves."
+        },
+        {
+          "headline": "Government reshuffles",
+          "summary": "President Bouterse rotates cabinet ministers amid spreading economic discontent and painful austerity protests."
+        }
+      ],
+      "sport": {
+        "headline": "Nations League campaign",
+        "summary": "Suriname competes in the qualifying rounds of the inaugural CONCACAF Nations League tournament."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 598000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse convicted of murder",
+          "summary": "A military court sentences him to 20 years in December for the 1982 killings."
+        },
+        {
+          "headline": "President refuses to step down",
+          "summary": "Bouterse appeals the murder verdict and clings to the presidency despite the conviction."
+        }
+      ],
+      "sport": {
+        "headline": "Nations League progress",
+        "summary": "Suriname earns promotion with diaspora stars joining the squad."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 609000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Santokhi elected president",
+          "summary": "Chan Santokhi's VHP wins May's vote, ending the Bouterse era."
+        },
+        {
+          "headline": "Bouterse evades prison",
+          "summary": "The convicted ex-president fails to report to serve his sentence."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by pandemic",
+        "summary": "World Cup qualifiers and domestic leagues are suspended for months by COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 618000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic reforms bite",
+          "summary": "The new government unifies the exchange rate and cuts subsidies."
+        },
+        {
+          "headline": "Debt restructuring talks",
+          "summary": "Cash-strapped Suriname negotiates debt restructuring with foreign creditors including China and private bondholders."
+        }
+      ],
+      "sport": {
+        "headline": "First-ever Gold Cup appearance",
+        "summary": "Suriname debuts at the continental finals in the United States."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 628000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "TotalEnergies oil project advances",
+          "summary": "A final investment decision on the major offshore oil project moves closer."
+        },
+        {
+          "headline": "IMF program review",
+          "summary": "The Fund backs the reform course despite social pain."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying exit",
+        "summary": "Suriname is eliminated in CONCACAF qualifying, missing the Qatar 2022 World Cup."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 637000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse's appeal fails",
+          "summary": "Courts uphold his 20-year murder sentence; he goes into hiding."
+        },
+        {
+          "headline": "Oil investment decision nears",
+          "summary": "The long-awaited final investment approval for the Block 58 offshore oil project approaches."
+        }
+      ],
+      "sport": {
+        "headline": "Nations League campaign",
+        "summary": "Suriname competes strongly in the Nations League, fielding a squad rich with Dutch-born diaspora talent."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 647000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bouterse dies as a fugitive",
+          "summary": "The former dictator dies in December while evading his murder sentence."
+        },
+        {
+          "headline": "Oil project approved",
+          "summary": "TotalEnergies greenlights the $10bn GranMorgu offshore development, the largest investment in Suriname's history."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup qualifying push",
+        "summary": "Suriname reaches the final qualifying rounds for the 2025 Gold Cup, chasing another finals berth."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 657000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Simons elected first woman president",
+          "summary": "Jennifer Simons's NDP wins May's vote; she takes office in July."
+        },
+        {
+          "headline": "Oil era dawns",
+          "summary": "First production from offshore fields promises to transform the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Second Gold Cup appearance",
+        "summary": "Suriname returns to the continental finals, powered by its diaspora squad."
+      }
+    }
+  ]
+}

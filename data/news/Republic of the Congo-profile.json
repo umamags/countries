@@ -1,0 +1,396 @@
+{
+  "country": "Republic of the Congo",
+  "iso3": "COG",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3813000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou's rule continues",
+          "summary": "The president's long grip on power faces little challenge."
+        },
+        {
+          "headline": "Oil wealth flows",
+          "summary": "Crude revenues fund the patronage state."
+        }
+      ],
+      "sport": {
+        "headline": "Congo fall short in AFCON qualifying",
+        "summary": "The Red Devils miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3956000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling PCT wins June's parliamentary vote."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals reject the results."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2008 AFCON",
+        "summary": "The Red Devils fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4090000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou consolidates power",
+          "summary": "The president tightens control ahead of 2009."
+        },
+        {
+          "headline": "Oil prices buoy economy",
+          "summary": "Record crude prices fill state coffers."
+        }
+      ],
+      "sport": {
+        "headline": "Congo compete at Beijing Olympics",
+        "summary": "Congolese athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4257000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou re-elected president",
+          "summary": "The incumbent wins July's vote; the opposition boycotts."
+        },
+        {
+          "headline": "Opposition marginalized",
+          "summary": "Rivals are excluded from meaningful contest."
+        }
+      ],
+      "sport": {
+        "headline": "Congo chase 2010 World Cup spot",
+        "summary": "The Red Devils compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4438000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Congo's stability praised",
+          "summary": "The country remains calm amid regional turmoil."
+        },
+        {
+          "headline": "Oil economy grows",
+          "summary": "New fields boost production."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2010 World Cup",
+        "summary": "The Red Devils fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4584000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou's succession question",
+          "summary": "The aging president shows no sign of stepping aside."
+        },
+        {
+          "headline": "Congo hosts African Games",
+          "summary": "Brazzaville prepares for the 2015 continental games."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2012 AFCON",
+        "summary": "The Red Devils fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 4713000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arms depot blasts kill hundreds",
+          "summary": "March explosions in Brazzaville devastate neighborhoods."
+        },
+        {
+          "headline": "Government promises inquiry",
+          "summary": "Officials blame a short circuit for the disaster."
+        }
+      ],
+      "sport": {
+        "headline": "Congo compete at London Olympics",
+        "summary": "Congolese athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 4828000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Blast victims compensated",
+          "summary": "The government pays out to survivors."
+        },
+        {
+          "headline": "Congo's oil output steady",
+          "summary": "Production underpins the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2013 AFCON",
+        "summary": "The Red Devils fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 4945000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform debated",
+          "summary": "Sassou maneuvers to extend his rule beyond 2016."
+        },
+        {
+          "headline": "Opposition resists",
+          "summary": "Critics denounce the third-term push."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2014 World Cup",
+        "summary": "The Red Devils fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5064000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum scraps term limits",
+          "summary": "October's vote lets Sassou seek re-election."
+        },
+        {
+          "headline": "Protests suppressed",
+          "summary": "Security forces crush anti-referendum demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Congo reach AFCON quarterfinals",
+        "summary": "The Red Devils lose a thriller to DR Congo in the 2015 last eight."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5187000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou re-elected president",
+          "summary": "The incumbent wins March's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Pool region clashes",
+          "summary": "Fighting erupts with Ninja militias."
+        }
+      ],
+      "sport": {
+        "headline": "Congo compete at Rio Olympics",
+        "summary": "Congolese athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5312000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pool conflict displaces thousands",
+          "summary": "Army operations against militias devastate the region."
+        },
+        {
+          "headline": "Ceasefire signed",
+          "summary": "December's deal pauses the fighting."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2017 AFCON",
+        "summary": "The Red Devils fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 5441000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling PCT sweeps July's parliamentary vote."
+        },
+        {
+          "headline": "Debt crisis deepens",
+          "summary": "Oil-backed loans squeeze the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2018 World Cup",
+        "summary": "The Red Devils fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 5571000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF bailout agreed",
+          "summary": "Brazzaville secures Fund support amid the debt crisis."
+        },
+        {
+          "headline": "Sassou's rule unchallenged",
+          "summary": "The president's four-decade grip endures."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2019 AFCON",
+        "summary": "The Red Devils fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5702000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 batters oil economy",
+          "summary": "The pandemic compounds the crude price collapse."
+        },
+        {
+          "headline": "Debt restructuring",
+          "summary": "Brazzaville negotiates with creditors."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Congo's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5836000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou re-elected president",
+          "summary": "The incumbent wins March's vote; the main rival dies of COVID-19 on election day."
+        },
+        {
+          "headline": "Opposition weakened",
+          "summary": "Guy Brice Parfait Kolelas's death removes Sassou's chief challenger."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2021 AFCON",
+        "summary": "The Red Devils fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5970000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling PCT dominates July's vote."
+        },
+        {
+          "headline": "Congo seeks investment",
+          "summary": "Brazzaville courts partners for diversification."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2022 World Cup",
+        "summary": "The Red Devils fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 6138000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou's rule continues",
+          "summary": "The 80-year-old president shows no retirement plans."
+        },
+        {
+          "headline": "Congo hosts summits",
+          "summary": "Brazzaville remains active in Central African diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2023 AFCON",
+        "summary": "The Red Devils fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 6309000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Congo's economy steadies",
+          "summary": "Oil prices support a modest recovery."
+        },
+        {
+          "headline": "Sassou grooms successor",
+          "summary": "Speculation grows over the president's eventual replacement."
+        }
+      ],
+      "sport": {
+        "headline": "Congo compete at Paris Olympics",
+        "summary": "Congolese athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 6486000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sassou eyes another term",
+          "summary": "The president signals he will seek re-election."
+        },
+        {
+          "headline": "Congo's oil output steady",
+          "summary": "Production underpins state finances."
+        }
+      ],
+      "sport": {
+        "headline": "Congo miss 2025 AFCON",
+        "summary": "The Red Devils fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

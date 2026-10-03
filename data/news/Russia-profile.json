@@ -1,0 +1,396 @@
+{
+  "country": "Russia",
+  "iso3": "RUS",
+  "currency": "RUB",
+  "currency_name": "Russian Ruble",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 144103000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Putin consolidates power",
+          "summary": "The Kremlin tightens control ahead of 2008 succession."
+        },
+        {
+          "headline": "Litvinenko poisoned in London",
+          "summary": "The ex-spy's polonium murder shocks the West."
+        }
+      ],
+      "sport": {
+        "headline": "Russia miss 2006 World Cup",
+        "summary": "Russia fail to qualify for the finals."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 143860000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russia's boom continues",
+          "summary": "Oil wealth fuels rapid growth."
+        },
+        {
+          "headline": "Duma election: United Russia wins",
+          "summary": "December elections entrench Kremlin control."
+        }
+      ],
+      "sport": {
+        "headline": "Russia qualify for Euro 2008",
+        "summary": "Russia edge England to reach the finals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 143812000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Medvedev elected president",
+          "summary": "Dmitry Medvedev succeeds Putin in March."
+        },
+        {
+          "headline": "Georgia war",
+          "summary": "Russia invades Georgia in August over South Ossetia."
+        }
+      ],
+      "sport": {
+        "headline": "Russia reach Euro 2008 semi-finals",
+        "summary": "Spain end a thrilling run in Vienna."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 143869000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Medvedev-Putin tandem rules",
+          "summary": "The power-sharing arrangement holds."
+        },
+        {
+          "headline": "Russia weathers crisis",
+          "summary": "The economy contracts but stabilises."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia deny Russia World Cup",
+        "summary": "Russia lose their playoff and miss South Africa."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 143934000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russia awarded 2018 World Cup",
+          "summary": "FIFA grants Russia the tournament in December."
+        },
+        {
+          "headline": "Wildfires choke Moscow",
+          "summary": "Summer fires and smog kill thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Russia begin Euro 2012 qualifying",
+        "summary": "Russia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 144044000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Duma election sparks protests",
+          "summary": "Fraud claims trigger the Bolotnaya demonstrations."
+        },
+        {
+          "headline": "Putin announces return",
+          "summary": "The PM declares he will seek the presidency again."
+        }
+      ],
+      "sport": {
+        "headline": "Russia qualify for Euro 2012",
+        "summary": "Russia top their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 144291000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Putin re-elected amid protests",
+          "summary": "March elections return Putin to the Kremlin."
+        },
+        {
+          "headline": "Pussy Riot jailed",
+          "summary": "The punk group's trial draws global condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "Russia exit Euro 2012 in group stage",
+        "summary": "Russia bow out after defeat to Greece."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 144604000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-gay law passed",
+          "summary": "A June law bans 'gay propaganda'."
+        },
+        {
+          "headline": "Snowden granted asylum",
+          "summary": "The NSA leaker stays in Russia."
+        }
+      ],
+      "sport": {
+        "headline": "Russia qualify for 2014 World Cup",
+        "summary": "Russia top their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 144926000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sochi Olympics held",
+          "summary": "Russia stages the Winter Games in February."
+        },
+        {
+          "headline": "Crimea annexed",
+          "summary": "Russia seizes Crimea in March; the West imposes sanctions."
+        }
+      ],
+      "sport": {
+        "headline": "Russia exit World Cup in group stage",
+        "summary": "Russia bow out winless in Brazil."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 145308000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Nemtsov murdered",
+          "summary": "Opposition leader Boris Nemtsov is shot in February."
+        },
+        {
+          "headline": "Russia intervenes in Syria",
+          "summary": "Moscow launches airstrikes in September."
+        }
+      ],
+      "sport": {
+        "headline": "Russia qualify for Euro 2016",
+        "summary": "Russia finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 145779000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Duma election: United Russia wins",
+          "summary": "September elections entrench Kremlin dominance."
+        },
+        {
+          "headline": "US election interference alleged",
+          "summary": "Washington accuses Moscow of meddling."
+        }
+      ],
+      "sport": {
+        "headline": "Russia exit Euro 2016 bottom of group",
+        "summary": "Russia bow out with one point."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 146187000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Navalny barred from election",
+          "summary": "The opposition leader is blocked from running."
+        },
+        {
+          "headline": "Russia hosts Confederations Cup",
+          "summary": "The World Cup warm-up passes smoothly."
+        }
+      ],
+      "sport": {
+        "headline": "Russia exit Confederations Cup early",
+        "summary": "The hosts bow out in the group stage."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 146430000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Putin re-elected",
+          "summary": "March elections extend his rule to 2024."
+        },
+        {
+          "headline": "Skripal poisoning fallout",
+          "summary": "The Salisbury attack triggers mass diplomat expulsions."
+        }
+      ],
+      "sport": {
+        "headline": "Russia reach World Cup quarter-finals",
+        "summary": "The hosts thrill before losing to Croatia on penalties."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 146533000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Moscow election protests",
+          "summary": "Summer demonstrations demand fair local elections."
+        },
+        {
+          "headline": "Ukraine prisoner swap",
+          "summary": "Kyiv and Moscow exchange detainees."
+        }
+      ],
+      "sport": {
+        "headline": "Russia qualify for Euro 2020",
+        "summary": "Russia finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 146371000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional changes",
+          "summary": "Reforms allow Putin to rule until 2036."
+        },
+        {
+          "headline": "Navalny poisoned",
+          "summary": "The opposition leader is poisoned with Novichok in August."
+        }
+      ],
+      "sport": {
+        "headline": "Russia compete in Nations League B",
+        "summary": "Russia battle in their League B group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 145836000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Navalny jailed",
+          "summary": "The opposition leader is imprisoned on return to Russia."
+        },
+        {
+          "headline": "Duma election: United Russia wins",
+          "summary": "September elections are marred by fraud claims."
+        }
+      ],
+      "sport": {
+        "headline": "Russia exit Euro 2020 bottom of group",
+        "summary": "Russia bow out with one win."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 145580000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Russia invades Ukraine",
+          "summary": "Full-scale invasion begins on February 24."
+        },
+        {
+          "headline": "West imposes crushing sanctions",
+          "summary": "Unprecedented sanctions isolate the Russian economy."
+        }
+      ],
+      "sport": {
+        "headline": "Russia banned from world football",
+        "summary": "FIFA and UEFA expel Russian teams; the playoff is forfeited."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 145441000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Wagner mutiny",
+          "summary": "Prigozhin's mercenaries march on Moscow in June."
+        },
+        {
+          "headline": "Prigozhin killed",
+          "summary": "The Wagner chief dies in a plane crash in August."
+        }
+      ],
+      "sport": {
+        "headline": "Russia remain banned",
+        "summary": "Russian teams stay excluded from international football."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 144820000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Putin re-elected",
+          "summary": "March elections extend his rule amid no real opposition."
+        },
+        {
+          "headline": "Navalny dies in prison",
+          "summary": "The opposition leader's death in February sparks outrage."
+        }
+      ],
+      "sport": {
+        "headline": "Russia remain banned",
+        "summary": "The suspension from international football continues."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 143997000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ukraine war grinds on",
+          "summary": "Fighting continues into a fourth year."
+        },
+        {
+          "headline": "US-Russia talks",
+          "summary": "Washington engages Moscow on ending the war."
+        }
+      ],
+      "sport": {
+        "headline": "Russia remain banned",
+        "summary": "Russian teams stay excluded from FIFA and UEFA."
+      }
+    }
+  ]
+}

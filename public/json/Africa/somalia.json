@@ -123,7 +123,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Islamic Courts seize Mogadishu",
+          "summary": "June's takeover brings brief stability to the capital."
+        },
+        {
+          "headline": "Ethiopia invades",
+          "summary": "December's offensive topples the Courts Union."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia fall short in AFCON qualifying",
+        "summary": "The Ocean Stars miss out on the 2008 Africa Cup of Nations."
+      }
     },
     {
       "year": 2007,
@@ -131,7 +147,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Insurgency erupts in Mogadishu",
+          "summary": "Al-Shabaab leads a brutal guerrilla war against Ethiopians."
+        },
+        {
+          "headline": "African Union deploys",
+          "summary": "Ugandan troops arrive as AMISOM's first contingent."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2008 AFCON",
+        "summary": "The Ocean Stars fail to qualify for the Ghana tournament."
+      }
     },
     {
       "year": 2008,
@@ -139,7 +171,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Djibouti peace deal signed",
+          "summary": "June's agreement charts a path to a unity government."
+        },
+        {
+          "headline": "Piracy explodes",
+          "summary": "Hijackings off the coast trigger international naval patrols."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia compete at Beijing Olympics",
+        "summary": "Somali athletes take part in the 2008 Games."
+      }
     },
     {
       "year": 2009,
@@ -147,7 +195,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Sheikh Sharif elected president",
+          "summary": "January's Djibouti vote makes the moderate Islamist president."
+        },
+        {
+          "headline": "Ethiopia withdraws",
+          "summary": "Addis Ababa pulls troops out, leaving AMISOM exposed."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia chase 2010 World Cup spot",
+        "summary": "The Ocean Stars compete in qualifying for South Africa 2010."
+      }
     },
     {
       "year": 2010,
@@ -155,7 +219,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Famine grips Somalia",
+          "summary": "Drought and war push millions toward starvation."
+        },
+        {
+          "headline": "Kampala bombings",
+          "summary": "Al-Shabaab's July attacks kill dozens in Uganda."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2010 World Cup",
+        "summary": "The Ocean Stars fall short in qualifying for South Africa 2010."
+      }
     },
     {
       "year": 2011,
@@ -163,7 +243,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": null,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Famine declared",
+          "summary": "The UN calls the crisis the worst in decades."
+        },
+        {
+          "headline": "Kenya invades",
+          "summary": "October's Operation Linda Nchi targets al-Shabaab."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2012 AFCON",
+        "summary": "The Ocean Stars fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
     },
     {
       "year": 2012,
@@ -171,7 +267,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": null,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 11846000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Hassan Sheikh elected president",
+          "summary": "September's vote ends the transitional era."
+        },
+        {
+          "headline": "New constitution adopted",
+          "summary": "August's charter creates a federal republic."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia compete at London Olympics",
+        "summary": "Somali athletes take part in the 2012 Games."
+      }
     },
     {
       "year": 2013,
@@ -179,7 +291,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 2.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 12178000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Westgate attack in Nairobi",
+          "summary": "Al-Shabaab's September mall siege kills dozens in Kenya."
+        },
+        {
+          "headline": "Mogadishu bombings",
+          "summary": "The militants strike the capital repeatedly."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2013 AFCON",
+        "summary": "The Ocean Stars fail to reach the South Africa tournament."
+      }
     },
     {
       "year": 2014,
@@ -187,7 +315,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 1.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 12519000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "AMISOM offensive",
+          "summary": "African troops retake towns from al-Shabaab."
+        },
+        {
+          "headline": "Government reshuffled",
+          "summary": "Prime ministers rotate amid instability."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2014 World Cup",
+        "summary": "The Ocean Stars fall short in qualifying for Brazil 2014."
+      }
     },
     {
       "year": 2015,
@@ -195,7 +339,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 0.9,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 12870000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Garissa massacre in Kenya",
+          "summary": "Al-Shabaab kills nearly 150 students across the border."
+        },
+        {
+          "headline": "Mogadishu hotel attacks",
+          "summary": "Militants storm hotels in the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2015 AFCON",
+        "summary": "The Ocean Stars fail to qualify for the Equatorial Guinea tournament."
+      }
     },
     {
       "year": 2016,
@@ -203,7 +363,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 0,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 13230000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Election preparations",
+          "summary": "Somalia gears up for the 2016-17 indirect vote."
+        },
+        {
+          "headline": "Al-Shabaab attacks persist",
+          "summary": "Bombings rock Mogadishu throughout the year."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia compete at Rio Olympics",
+        "summary": "Somali athletes take part in the Rio 2016 Games."
+      }
     },
     {
       "year": 2017,
@@ -211,7 +387,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 4,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 13600000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Farmajo elected president",
+          "summary": "February's vote makes Mohamed Abdullahi Mohamed president."
+        },
+        {
+          "headline": "Mogadishu truck bombing kills hundreds",
+          "summary": "October's blast is Somalia's deadliest terror attack."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2017 AFCON",
+        "summary": "The Ocean Stars fail to reach the Gabon tournament."
+      }
     },
     {
       "year": 2018,
@@ -219,7 +411,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 4.3,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 13981000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Farmajo's government tested",
+          "summary": "Federal-regional tensions strain the administration."
+        },
+        {
+          "headline": "Al-Shabaab resilient",
+          "summary": "The militants retain rural strongholds."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2018 World Cup",
+        "summary": "The Ocean Stars fall short in qualifying for Russia 2018."
+      }
     },
     {
       "year": 2019,
@@ -227,7 +435,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 4.7,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 14373000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Kismayo hotel attack",
+          "summary": "July's siege kills a prominent journalist among dozens."
+        },
+        {
+          "headline": "US airstrikes intensify",
+          "summary": "Washington ramps up drone attacks on militants."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2019 AFCON",
+        "summary": "The Ocean Stars fail to qualify for the Egypt tournament."
+      }
     },
     {
       "year": 2020,
@@ -235,7 +459,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 4.1,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 14775000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Election crisis brews",
+          "summary": "Farmajo's term expires with no vote held."
+        },
+        {
+          "headline": "Mogadishu clashes",
+          "summary": "Troops split along clan lines in April 2021 standoff."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Somalia's leagues halt for months amid COVID-19."
+      }
     },
     {
       "year": 2021,
@@ -243,7 +483,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 4.6,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 15189000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Farmajo extends term, then backtracks",
+          "summary": "April's extension triggers violence; he reverses course."
+        },
+        {
+          "headline": "Election deadlock",
+          "summary": "The vote slips repeatedly amid disputes."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2021 AFCON",
+        "summary": "The Ocean Stars fail to reach the Cameroon tournament."
+      }
     },
     {
       "year": 2022,
@@ -251,7 +507,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 6.8,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 15614000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Hassan Sheikh returns",
+          "summary": "May's election restores the former president."
+        },
+        {
+          "headline": "Government offensive",
+          "summary": "Clan militias and the army retake territory from al-Shabaab."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2022 World Cup",
+        "summary": "The Ocean Stars fall short in qualifying for Qatar 2022."
+      }
     },
     {
       "year": 2023,
@@ -259,7 +531,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 6.2,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 16051000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Offensive stalls",
+          "summary": "Al-Shabaab counterattacks blunt government gains."
+        },
+        {
+          "headline": "ATMIS drawdown begins",
+          "summary": "African troops start handing over to Somali forces."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia miss 2023 AFCON",
+        "summary": "The Ocean Stars fail to qualify for the Ivory Coast tournament."
+      }
     },
     {
       "year": 2024,
@@ -267,7 +555,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 5.5,
-      "status": "Historical / IMF estimate"
+      "status": "Historical / IMF estimate",
+      "population": 16501000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Ethiopia-Somaliland deal angers Mogadishu",
+          "summary": "January's MoU offering Addis Ababa sea access triggers a crisis."
+        },
+        {
+          "headline": "Somalia-Turkey defense pact",
+          "summary": "February's deal deepens Ankara's role."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia compete at Paris Olympics",
+        "summary": "Somali athletes take part in the 2024 Games."
+      }
     },
     {
       "year": 2025,
@@ -275,7 +579,23 @@
       "gross_debt_pct_gdp": null,
       "gross_debt_usd_billion": null,
       "inflation_cpi_pct": 3.7,
-      "status": "IMF estimate / projection"
+      "status": "IMF estimate / projection",
+      "population": 16963000,
+      "exchange_rate_usd": null,
+      "main_events": [
+        {
+          "headline": "Al-Shabaab advances on Mogadishu",
+          "summary": "Militants overrun towns near the capital early in the year."
+        },
+        {
+          "headline": "Turkey mediates Ethiopia deal",
+          "summary": "Ankara brokers the Ankara Declaration easing tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Somalia chase 2026 World Cup spot",
+        "summary": "The Ocean Stars compete in qualifying for the expanded tournament."
+      }
     }
   ]
 }

@@ -1,0 +1,396 @@
+{
+  "country": "Sri Lanka",
+  "iso3": "LKA",
+  "currency": "LKR",
+  "currency_name": "Sri Lankan Rupee",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 19696000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ceasefire collapses",
+          "summary": "Fighting with the Tamil Tigers resumes fully."
+        },
+        {
+          "headline": "Rajapaksa's war",
+          "summary": "The president commits to a military solution."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket tour of England",
+        "summary": "Sri Lanka's cricketers tour England."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 19842000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "War intensifies",
+          "summary": "The army pushes into Tiger territory."
+        },
+        {
+          "headline": "Eastern polls",
+          "summary": "Provincial elections are held in the east."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup final",
+        "summary": "Sri Lanka lose the Cricket World Cup final to Australia."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 19984000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ceasefire scrapped",
+          "summary": "Colombo formally withdraws from the truce."
+        },
+        {
+          "headline": "Army advances",
+          "summary": "Troops capture Tiger strongholds."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup triumph",
+        "summary": "Sri Lanka win the Asia Cup at home."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 20124000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tigers defeated",
+          "summary": "The army crushes the LTTE in May, ending the 26-year war."
+        },
+        {
+          "headline": "Prabhakaran killed",
+          "summary": "The rebel leader dies in the final battle."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup final",
+        "summary": "Sri Lanka lose the World T20 final to Pakistan."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 20262000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rajapaksa re-elected",
+          "summary": "The president wins January polls."
+        },
+        {
+          "headline": "Fonseka jailed",
+          "summary": "The defeated general is imprisoned."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup semifinal",
+        "summary": "Sri Lanka reach the World T20 semifinals."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 20398000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup co-hosted",
+          "summary": "Sri Lanka stage matches with India and Bangladesh."
+        },
+        {
+          "headline": "UN war crimes report",
+          "summary": "A panel alleges atrocities in the war's end."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup final again",
+        "summary": "Sri Lanka lose the final to India in Mumbai."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 20425000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chief justice sacked",
+          "summary": "Shirani Bandaranayake is impeached."
+        },
+        {
+          "headline": "UNHRC resolution",
+          "summary": "The rights council presses for accountability."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup final",
+        "summary": "Sri Lanka lose the home World T20 final to West Indies."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 20585000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Northern polls",
+          "summary": "Tamils vote in provincial elections."
+        },
+        {
+          "headline": "CHOGM hosted",
+          "summary": "Colombo stages the Commonwealth summit."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy semifinal",
+        "summary": "Sri Lanka reach the Champions Trophy semifinals."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 20778000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rajapaksa loses",
+          "summary": "Maithripala Sirisena wins the January upset."
+        },
+        {
+          "headline": "Sangakkara's farewell",
+          "summary": "Off the pitch, the legend nears retirement."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup champions",
+        "summary": "Sri Lanka win the World Twenty20 in Bangladesh."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 20970000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary win",
+          "summary": "Sirisena's coalition takes August polls."
+        },
+        {
+          "headline": "Reform promises",
+          "summary": "A 100-day programme pledges change."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarterfinal",
+        "summary": "Sri Lanka reach the Cricket World Cup quarterfinals."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 21203000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform",
+          "summary": "The 19th amendment curbs presidential powers."
+        },
+        {
+          "headline": "Floods",
+          "summary": "Deadly rains displace thousands."
+        }
+      ],
+      "sport": {
+        "headline": "England tour",
+        "summary": "Sri Lanka's cricketers tour England."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 21444000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bond scandal",
+          "summary": "A central bank bond scam rocks the government."
+        },
+        {
+          "headline": "Local polls",
+          "summary": "Rajapaksa's new party wins big."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy",
+        "summary": "Sri Lanka compete at the Champions Trophy."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 21670000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional crisis",
+          "summary": "Sirisena sacks the PM; courts reverse him."
+        },
+        {
+          "headline": "Political chaos",
+          "summary": "Two men claim the premiership."
+        }
+      ],
+      "sport": {
+        "headline": "England tour",
+        "summary": "Sri Lanka host England."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 21803000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Easter bombings",
+          "summary": "ISIS-linked blasts kill over 250 on Easter Sunday."
+        },
+        {
+          "headline": "Gotabaya elected",
+          "summary": "The ex-defence chief wins November polls."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup campaign",
+        "summary": "Sri Lanka's World Cup run ends in the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 21919000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rajapaksas consolidate",
+          "summary": "August polls give the family a supermajority."
+        },
+        {
+          "headline": "20th amendment",
+          "summary": "Presidential powers are restored."
+        }
+      ],
+      "sport": {
+        "headline": "LPL launches",
+        "summary": "The Lanka Premier League debuts."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 22156000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic crisis brews",
+          "summary": "Reserves dwindle; the organic farming ban backfires."
+        },
+        {
+          "headline": "COVID wave",
+          "summary": "The Delta variant overwhelms hospitals."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup",
+        "summary": "Sri Lanka compete at the T20 World Cup."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 22181000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Aragalaya uprising",
+          "summary": "Mass protests storm the presidency; Gotabaya flees."
+        },
+        {
+          "headline": "Economic collapse",
+          "summary": "Sri Lanka defaults on its foreign debt."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup champions",
+        "summary": "Sri Lanka win the T20 Asia Cup in the UAE."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 22037000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "IMF bailout",
+          "summary": "A $3 billion programme begins."
+        },
+        {
+          "headline": "Austerity",
+          "summary": "Tax hikes and reforms bite."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup final",
+        "summary": "Sri Lanka lose the ODI Asia Cup final to India."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 21916000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dissanayake elected",
+          "summary": "The leftist wins September polls."
+        },
+        {
+          "headline": "Political reset",
+          "summary": "The NPP sweeps parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup",
+        "summary": "Sri Lanka co-host? Compete at the T20 World Cup."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Recovery continues",
+          "summary": "The economy stabilizes under the IMF programme."
+        },
+        {
+          "headline": "Local polls",
+          "summary": "The NPP extends its winning streak."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup campaign",
+        "summary": "Sri Lanka contest the T20 Asia Cup."
+      }
+    }
+  ]
+}

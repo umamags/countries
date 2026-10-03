@@ -1,0 +1,396 @@
+{
+  "country": "Nigeria",
+  "iso3": "NGA",
+  "currency": "NGN",
+  "currency_name": "Nigerian Naira",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 148489000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Obasanjo's third-term bid fails",
+          "summary": "May's Senate vote kills the president's constitutional amendment."
+        },
+        {
+          "headline": "Militancy grips Niger Delta",
+          "summary": "MEND attacks slash oil output."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria reach AFCON semifinals",
+        "summary": "The Super Eagles finish third at the 2006 tournament in Egypt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 152833000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yar'Adua wins flawed election",
+          "summary": "April's vote is condemned as deeply rigged; the winner admits flaws."
+        },
+        {
+          "headline": "Power transfer",
+          "summary": "Obasanjo hands over in Nigeria's first civilian-to-civilian transition."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria qualify for 2008 AFCON",
+        "summary": "The Super Eagles reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 157304000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yar'Adua's health fails",
+          "summary": "The president's absences trigger a succession crisis."
+        },
+        {
+          "headline": "Militants declare ceasefire",
+          "summary": "MEND pauses attacks amid amnesty talks."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria reach AFCON semifinals",
+        "summary": "Ghana end the Super Eagles' run in the 2008 last four."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 161906000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Amnesty for Delta militants",
+          "summary": "June's program pays fighters to disarm."
+        },
+        {
+          "headline": "Boko Haram uprising crushed",
+          "summary": "July's revolt ends with leader Mohammed Yusuf killed in custody."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria qualify for 2010 World Cup",
+        "summary": "A last-day win takes the Super Eagles to South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 166643000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yar'Adua dies",
+          "summary": "The president dies in May; Vice President Jonathan succeeds him."
+        },
+        {
+          "headline": "Jonathan assumes power",
+          "summary": "Goodluck Jonathan becomes president under the doctrine of necessity."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria exit World Cup at group stage",
+        "summary": "A Sani Kaita red card and defeat to Greece doom the 2010 campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 171380000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Jonathan wins presidency",
+          "summary": "The incumbent defeats Buhari in April's vote."
+        },
+        {
+          "headline": "Post-election violence",
+          "summary": "Northern riots kill hundreds after the result."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria miss 2012 AFCON",
+        "summary": "Shock qualifying failure keeps the Super Eagles out of the 2012 tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 176201000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fuel subsidy protests",
+          "summary": "January's Occupy Nigeria demonstrations force a partial reversal."
+        },
+        {
+          "headline": "Boko Haram bombs Kano",
+          "summary": "Coordinated January attacks kill scores."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria compete at London Olympics",
+        "summary": "Nigerian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 181049000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "APC opposition formed",
+          "summary": "Mega-merger creates a united front against Jonathan."
+        },
+        {
+          "headline": "State of emergency in northeast",
+          "summary": "The army's offensive fails to stop Boko Haram."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria win Africa Cup of Nations",
+        "summary": "A 1-0 final victory over Burkina Faso delivers the title in South Africa."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 185897000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Chibok girls kidnapped",
+          "summary": "April's abduction of 276 schoolgirls sparks global #BringBackOurGirls outrage."
+        },
+        {
+          "headline": "Boko Haram seizes territory",
+          "summary": "The jihadists capture towns across the northeast."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria reach World Cup last 16",
+        "summary": "France end the Super Eagles' run in the 2014 knockouts."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 190672000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Buhari wins presidency",
+          "summary": "March's victory is Nigeria's first opposition win at the ballot box."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Jonathan concedes, a democratic milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria miss 2015 AFCON",
+        "summary": "The holders fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 195444000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Recession hits",
+          "summary": "Nigeria enters its worst economic crisis in decades."
+        },
+        {
+          "headline": "Buhari's health fails",
+          "summary": "The president's London medical trips fuel concern."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria win Olympic football bronze",
+        "summary": "The Dream Team take bronze at Rio 2016."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 200255000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Buhari returns from treatment",
+          "summary": "The president resumes duties after months in London."
+        },
+        {
+          "headline": "Biafra tensions",
+          "summary": "IPOB agitation leads to a military crackdown."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria qualify for 2018 World Cup",
+        "summary": "The Super Eagles reach Russia 2018 with a game to spare."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 204939000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dapchi girls kidnapped",
+          "summary": "Boko Haram abducts 110 schoolgirls in February."
+        },
+        {
+          "headline": "Buhari seeks re-election",
+          "summary": "The president confirms his 2019 bid."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria exit World Cup at group stage",
+        "summary": "A late Marcos Rojo goal for Argentina ends the 2018 campaign."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 209486000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Buhari re-elected president",
+          "summary": "The incumbent defeats Atiku in February's vote."
+        },
+        {
+          "headline": "Opposition rejects result",
+          "summary": "Atiku alleges rigging and goes to court."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria win AFCON bronze",
+        "summary": "The Super Eagles take third place at Egypt 2019."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 213996000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "#EndSARS protests rock Nigeria",
+          "summary": "October demonstrations against police brutality end in the Lekki toll gate shootings."
+        },
+        {
+          "headline": "Government cracks down",
+          "summary": "Security forces disperse protesters; dozens are killed."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Nigeria's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 218529000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Twitter banned",
+          "summary": "June's suspension follows the deletion of Buhari's tweet."
+        },
+        {
+          "headline": "Banditry ravages northwest",
+          "summary": "Mass kidnappings for ransom spread."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria exit AFCON in round of 16",
+        "summary": "Tunisia stun the group winners at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 223151000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cash crisis hits",
+          "summary": "The naira redesign triggers chaos ahead of elections."
+        },
+        {
+          "headline": "Tinubu wins APC primary",
+          "summary": "The former Lagos governor secures the ruling party ticket."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria miss 2022 World Cup",
+        "summary": "Ghana edge the Super Eagles on away goals in the playoff."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 227883000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tinubu wins presidency",
+          "summary": "February's disputed vote gives Bola Tinubu the presidency."
+        },
+        {
+          "headline": "Fuel subsidy scrapped",
+          "summary": "May's shock removal triggers a cost-of-living crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria qualify for 2023 AFCON",
+        "summary": "The Super Eagles reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 232679000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic reforms bite",
+          "summary": "Naira float and subsidy removal fuel record inflation."
+        },
+        {
+          "headline": "#EndBadGovernance protests",
+          "summary": "August demonstrations over hardship are suppressed."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria reach AFCON final",
+        "summary": "The Super Eagles lose 2-1 to hosts Ivory Coast in the 2023 final."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 237577000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tinubu's reforms show results",
+          "summary": "Stabilizing indicators contrast with persistent hardship."
+        },
+        {
+          "headline": "Insecurity persists",
+          "summary": "Banditry and insurgency continue in the north."
+        }
+      ],
+      "sport": {
+        "headline": "Nigeria miss 2026 World Cup",
+        "summary": "The Super Eagles fall short in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

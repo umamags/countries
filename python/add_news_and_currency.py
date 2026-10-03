@@ -15,9 +15,6 @@ def add_news_and_currency():
         reader = csv.DictReader(f)
         countries = list(reader)
 
-    # Countries that have profile data
-    profile_countries = {'China', 'Germany', 'India', 'Japan', 'United States of America'}
-
     updated = 0
     skipped = 0
 
@@ -26,16 +23,12 @@ def add_news_and_currency():
         slug = country_info['slug']
         continent = country_info['continent']
 
-        # Skip if not in the 5 countries with profile data
-        if country_name not in profile_countries:
-            skipped += 1
-            continue
-
         # Path to profile file
         profile_file = news_base / f"{country_name}-profile.json"
 
+        # Skip if no profile file exists
         if not profile_file.exists():
-            print(f"⚠ Warning: Profile file not found for {country_name}")
+            skipped += 1
             continue
 
         # Path to country JSON file
@@ -79,6 +72,10 @@ def add_news_and_currency():
                     # Add main events
                     if 'geopolitical_news' in profile_entry:
                         econ_entry['main_events'] = profile_entry['geopolitical_news']
+
+                    # Add sport section
+                    if 'sport' in profile_entry:
+                        econ_entry['sport'] = profile_entry['sport']
 
             # Write back
             with open(country_json_file, 'w') as f:

@@ -1,0 +1,396 @@
+{
+  "country": "Lesotho",
+  "iso3": "LSO",
+  "currency": "LSL",
+  "currency_name": "Lesotho Loti",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1945000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mosisili's government stable",
+          "summary": "The prime minister's LCD maintains its parliamentary dominance."
+        },
+        {
+          "headline": "Lesotho's textile industry grows",
+          "summary": "AGOA trade preferences boost garment exports."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho fall short in AFCON qualifying",
+        "summary": "Likuena miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1953000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election sparks violence",
+          "summary": "February's vote triggers opposition protests and army crackdowns."
+        },
+        {
+          "headline": "SADC mediates",
+          "summary": "Regional envoys broker talks between government and opposition."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2008 AFCON",
+        "summary": "Likuena fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1967000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political tensions persist",
+          "summary": "The opposition rejects dialogue outcomes."
+        },
+        {
+          "headline": "Lesotho's economy steady",
+          "summary": "Water exports and remittances sustain growth."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho compete at Beijing Olympics",
+        "summary": "Basotho athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1981000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Assassination attempt on premier",
+          "summary": "April gunmen attack Mosisili's residence; soldiers repel them."
+        },
+        {
+          "headline": "Mercenaries implicated",
+          "summary": "The government blames foreign plotters."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho chase 2010 World Cup spot",
+        "summary": "Likuena compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1996000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition politics shift",
+          "summary": "Party splits reshape the parliamentary landscape."
+        },
+        {
+          "headline": "Lesotho hosts SADC meetings",
+          "summary": "Maseru remains active in regional diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2010 World Cup",
+        "summary": "Likuena fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2014000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mosisili's party splits",
+          "summary": "The premier forms a new party ahead of 2012 elections."
+        },
+        {
+          "headline": "Opposition unites",
+          "summary": "Rivals coordinate to challenge LCD dominance."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2012 AFCON",
+        "summary": "Likuena fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2034000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "First coalition government formed",
+          "summary": "May's election ends LCD rule; Thabane leads a three-party coalition."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Mosisili steps aside after 14 years."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho compete at London Olympics",
+        "summary": "Basotho athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2057000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition strains",
+          "summary": "Thabane's partners clash over power-sharing."
+        },
+        {
+          "headline": "Army-police tensions",
+          "summary": "Rivalry between security services destabilizes the government."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2013 AFCON",
+        "summary": "Likuena fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2080000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Attempted coup shakes Lesotho",
+          "summary": "August's army power grab forces Thabane to flee to South Africa."
+        },
+        {
+          "headline": "SADC brokers deal",
+          "summary": "Regional mediation restores the premier and schedules elections."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2014 World Cup",
+        "summary": "Likuena fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2105000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mosisili returns to power",
+          "summary": "February's election brings the former premier back at the head of a coalition."
+        },
+        {
+          "headline": "Army chief assassinated",
+          "summary": "The killing of General Mahao deepens the security crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2015 AFCON",
+        "summary": "Likuena fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2130000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "SADC commission probes abuses",
+          "summary": "Regional investigators document military impunity."
+        },
+        {
+          "headline": "Opposition protests",
+          "summary": "Rivals demand electoral reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho compete at Rio Olympics",
+        "summary": "Basotho athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2157000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thabane wins election again",
+          "summary": "June's vote returns the ABC leader to power."
+        },
+        {
+          "headline": "Army chief assassinated again",
+          "summary": "September's killing of General Motšomotšo shocks the nation."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2017 AFCON",
+        "summary": "Likuena fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2184000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Reforms commission launched",
+          "summary": "SADC pushes constitutional and security reforms."
+        },
+        {
+          "headline": "Political murders probed",
+          "summary": "Trials open over military-era killings."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2018 World Cup",
+        "summary": "Likuena fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2209000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thabane implicated in murder",
+          "summary": "Police link the premier to his estranged wife's 2017 killing."
+        },
+        {
+          "headline": "SADC presses for his exit",
+          "summary": "Regional leaders demand Thabane step down."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2019 AFCON",
+        "summary": "Likuena fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2236000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Thabane resigns",
+          "summary": "The premier steps down in May amid the murder scandal."
+        },
+        {
+          "headline": "Majoro takes over",
+          "summary": "Finance minister Moeketsi Majoro becomes prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Lesotho's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2262000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Majoro's government stable",
+          "summary": "The coalition holds as reforms advance slowly."
+        },
+        {
+          "headline": "COVID-19 strains Lesotho",
+          "summary": "The pandemic hits the mountain kingdom hard."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2021 AFCON",
+        "summary": "Likuena fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2286000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Matekane wins election",
+          "summary": "Businessman Sam Matekane's new party triumphs in October's vote."
+        },
+        {
+          "headline": "Reform hopes rise",
+          "summary": "The newcomer pledges to fix the economy and politics."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2022 World Cup",
+        "summary": "Likuena fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2311000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Matekane's reforms stall",
+          "summary": "The prime minister struggles to deliver on promises."
+        },
+        {
+          "headline": "Lesotho seeks investment",
+          "summary": "Maseru courts partners for water and energy projects."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho miss 2023 AFCON",
+        "summary": "Likuena fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2337000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition tensions",
+          "summary": "Matekane's alliance partners grumble over patronage."
+        },
+        {
+          "headline": "Lesotho's economy steady",
+          "summary": "Water royalties and textiles sustain modest growth."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho impress in World Cup qualifying",
+        "summary": "Likuena top their 2026 qualifying group at stages, a historic run."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2366000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Matekane's government wobbles",
+          "summary": "Opposition no-confidence threats test the coalition."
+        },
+        {
+          "headline": "US tariffs hit textiles",
+          "summary": "American trade measures threaten Lesotho's garment industry."
+        }
+      ],
+      "sport": {
+        "headline": "Lesotho narrowly miss World Cup",
+        "summary": "A brave qualifying campaign ends just short of the 2026 finals."
+      }
+    }
+  ]
+}

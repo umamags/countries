@@ -1,0 +1,396 @@
+{
+  "country": "Czech Republic",
+  "iso3": "CZE",
+  "currency": "CZK",
+  "currency_name": "Czech Koruna",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10224000,
+      "fx_lcu_per_usd_annual_avg": 22.598,
+      "geopolitical_news": [
+        {
+          "headline": "Inconclusive election leads to deadlock",
+          "summary": "June elections produce stalemate between left and right blocs."
+        },
+        {
+          "headline": "Topolanek forms fragile government",
+          "summary": "Mirek Topolanek assembles a weak coalition after months of talks."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs exit World Cup in group stage",
+        "summary": "The Czechs bow out in Germany after defeats to Ghana and Italy."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10254000,
+      "fx_lcu_per_usd_annual_avg": 20.304,
+      "geopolitical_news": [
+        {
+          "headline": "Topolanek government survives",
+          "summary": "The fragile coalition wins a confidence vote."
+        },
+        {
+          "headline": "US radar base row divides country",
+          "summary": "Plans for an American missile-defence radar split public opinion."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs qualify for Euro 2008",
+        "summary": "The Czech Republic top their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10343000,
+      "fx_lcu_per_usd_annual_avg": 17.0636,
+      "geopolitical_news": [
+        {
+          "headline": "Lisbon Treaty ratified",
+          "summary": "Parliament approves the treaty despite President Klaus's objections."
+        },
+        {
+          "headline": "US radar deal signed",
+          "summary": "Prague signs the missile-defence agreement with Washington in July."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey stun Czechs at Euro 2008",
+        "summary": "A late collapse sees the Czechs lose 3-2 and exit."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10426000,
+      "fx_lcu_per_usd_annual_avg": 19.0345,
+      "geopolitical_news": [
+        {
+          "headline": "Government falls during EU presidency",
+          "summary": "A March no-confidence vote topples the cabinet mid-presidency."
+        },
+        {
+          "headline": "Klaus signs Lisbon Treaty",
+          "summary": "The reluctant president signs the treaty in November."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs miss 2010 World Cup",
+        "summary": "The Czech Republic finish third in their group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10462000,
+      "fx_lcu_per_usd_annual_avg": 19.1126,
+      "geopolitical_news": [
+        {
+          "headline": "Necas wins election",
+          "summary": "Petr Necas's ODS triumphs in May's parliamentary elections."
+        },
+        {
+          "headline": "Austerity government takes office",
+          "summary": "A centre-right coalition promises deep budget cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs reach Euro 2012 playoff",
+        "summary": "The Czechs finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10487000,
+      "fx_lcu_per_usd_annual_avg": 17.6925,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption scandals shake government",
+          "summary": "Ministers resign amid a wave of graft allegations."
+        },
+        {
+          "headline": "Klaus opposes euro entry",
+          "summary": "The president resists any move toward eurozone membership."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs qualify for Euro 2012",
+        "summary": "The Czechs beat Montenegro in the playoffs."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10505000,
+      "fx_lcu_per_usd_annual_avg": 19.5908,
+      "geopolitical_news": [
+        {
+          "headline": "Methanol poisonings kill dozens",
+          "summary": "Bootleg alcohol kills dozens, prompting a temporary spirits ban."
+        },
+        {
+          "headline": "Church restitution law passed",
+          "summary": "Parliament approves returning seized property to churches."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs reach Euro 2012 quarter-finals",
+        "summary": "Portugal knock the Czechs out in Warsaw."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10516000,
+      "fx_lcu_per_usd_annual_avg": 19.565,
+      "geopolitical_news": [
+        {
+          "headline": "Necas resigns over spy scandal",
+          "summary": "The PM quits in June amid a surveillance and corruption affair."
+        },
+        {
+          "headline": "Zeman wins first direct presidential vote",
+          "summary": "Milos Zeman triumphs in January's historic direct election."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs miss 2014 World Cup",
+        "summary": "The Czech Republic finish third in their group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10512000,
+      "fx_lcu_per_usd_annual_avg": 20.7629,
+      "geopolitical_news": [
+        {
+          "headline": "Sobotka forms centre-left government",
+          "summary": "Bohuslav Sobotka becomes PM of a three-party coalition."
+        },
+        {
+          "headline": "Prague torn over Russia sanctions",
+          "summary": "The government backs EU sanctions while Zeman courts Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs stun Netherlands in qualifier",
+        "summary": "A 2-1 win in Prague launches a successful Euro 2016 campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 10538000,
+      "fx_lcu_per_usd_annual_avg": 24.6,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee quotas opposed",
+          "summary": "Prague rejects EU migrant redistribution quotas."
+        },
+        {
+          "headline": "Zeman attends Moscow parade",
+          "summary": "The president attends Russia's Victory Day parade in May."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs qualify for Euro 2016",
+        "summary": "The Czech Republic win their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 10579000,
+      "fx_lcu_per_usd_annual_avg": 24.436,
+      "geopolitical_news": [
+        {
+          "headline": "Country adopts short name Czechia",
+          "summary": "The government approves 'Czechia' as the official short name."
+        },
+        {
+          "headline": "ANO wins regional elections",
+          "summary": "Andrej Babis's movement triumphs in October's regional vote."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs exit Euro 2016 in group stage",
+        "summary": "The Czechs finish bottom of their group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10610000,
+      "fx_lcu_per_usd_annual_avg": 23.3717,
+      "geopolitical_news": [
+        {
+          "headline": "Babis's ANO wins election",
+          "summary": "The billionaire's movement triumphs in October elections."
+        },
+        {
+          "headline": "Babis faces EU fraud charges",
+          "summary": "The PM-elect is charged over subsidy fraud allegations."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs miss 2018 World Cup",
+        "summary": "The Czech Republic finish third in their group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10650000,
+      "fx_lcu_per_usd_annual_avg": 21.7429,
+      "geopolitical_news": [
+        {
+          "headline": "Zeman re-elected president",
+          "summary": "The incumbent wins January's presidential runoff."
+        },
+        {
+          "headline": "Babis survives no-confidence vote",
+          "summary": "The PM keeps power despite fraud charges."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs compete in Nations League B",
+        "summary": "The Czechs finish second in their League B group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10694000,
+      "fx_lcu_per_usd_annual_avg": 22.9345,
+      "geopolitical_news": [
+        {
+          "headline": "Mass protests against Babis",
+          "summary": "Hundreds of thousands rally against the prime minister."
+        },
+        {
+          "headline": "EU auditors slam Babis conflict of interest",
+          "summary": "Brussels finds the PM conflicted over subsidy payments."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs beat England in Euro qualifier",
+        "summary": "A 2-1 win in Prague ends England's long qualifying unbeaten run."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10702000,
+      "fx_lcu_per_usd_annual_avg": 23.1959,
+      "geopolitical_news": [
+        {
+          "headline": "Czechs hit by brutal COVID wave",
+          "summary": "The country records Europe's worst infection rates in autumn."
+        },
+        {
+          "headline": "Prague honours murdered Russian dissident",
+          "summary": "The capital names a square after Boris Nemtsov."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs win Nations League promotion",
+        "summary": "The Czech Republic top their League B group to reach League A."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 10517000,
+      "fx_lcu_per_usd_annual_avg": 21.6878,
+      "geopolitical_news": [
+        {
+          "headline": "SPOLU wins election, Babis out",
+          "summary": "A centre-right alliance triumphs in October elections."
+        },
+        {
+          "headline": "Fiala becomes prime minister",
+          "summary": "Petr Fiala forms a five-party coalition in November."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs reach Euro 2020 quarter-finals",
+        "summary": "Denmark end the Czechs' run in Baku."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 10828000,
+      "fx_lcu_per_usd_annual_avg": 23.3808,
+      "geopolitical_news": [
+        {
+          "headline": "Czechs hold EU presidency",
+          "summary": "Prague leads the EU Council in the second half of the year."
+        },
+        {
+          "headline": "Prague hosts EU summit on Ukraine",
+          "summary": "European leaders meet to discuss energy and Ukraine."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs relegated from Nations League A",
+        "summary": "The Czech Republic finish bottom of their League A group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10851000,
+      "fx_lcu_per_usd_annual_avg": 22.2069,
+      "geopolitical_news": [
+        {
+          "headline": "Pavel elected president",
+          "summary": "Petr Pavel wins January's presidential election."
+        },
+        {
+          "headline": "Prague university shooting shocks nation",
+          "summary": "A gunman kills 14 at Charles University in December."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs qualify for Euro 2024",
+        "summary": "The Czech Republic finish second in their group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 10935000,
+      "fx_lcu_per_usd_annual_avg": 23.2143,
+      "geopolitical_news": [
+        {
+          "headline": "Floods batter central Europe",
+          "summary": "September floods cause major damage across the Czech lands."
+        },
+        {
+          "headline": "ANO wins regional elections",
+          "summary": "Babis's movement triumphs in September's regional vote."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs exit Euro 2024 in group stage",
+        "summary": "The Czechs finish bottom of their group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10904000,
+      "fx_lcu_per_usd_annual_avg": 21.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Babis returns toward power",
+          "summary": "ANO wins October's parliamentary election decisively."
+        },
+        {
+          "headline": "New coalition talks begin",
+          "summary": "Babis negotiates a return to the premiership."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs chase World Cup qualification",
+        "summary": "The Czech Republic compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "United Arab Emirates",
+  "iso3": "ARE",
+  "currency": "AED",
+  "currency_name": "UAE Dirham",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4910000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dubai boom",
+          "summary": "The emirate's property frenzy peaks."
+        },
+        {
+          "headline": "Federal elections",
+          "summary": "Limited polls choose half the FNC."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Emirati athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5595000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup triumph",
+          "summary": "The UAE win the Gulf Cup on home soil."
+        },
+        {
+          "headline": "Property frenzy",
+          "summary": "Dubai's towers multiply."
+        }
+      ],
+      "sport": {
+        "headline": "First Gulf Cup title",
+        "summary": "The UAE beat Oman to win the Gulf Cup."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 6498000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Debt crisis looms",
+          "summary": "Dubai World's debts rattle markets."
+        },
+        {
+          "headline": "Abu Dhabi bails out",
+          "summary": "The capital rescues its neighbour."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Emirati athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 6774000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Dubai debt standstill",
+          "summary": "Dubai World seeks a debt freeze."
+        },
+        {
+          "headline": "Burj Khalifa opens",
+          "summary": "The world's tallest tower is unveiled."
+        }
+      ],
+      "sport": {
+        "headline": "F1 debut in Abu Dhabi",
+        "summary": "The Abu Dhabi Grand Prix joins the calendar."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 6965000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Debt restructuring",
+          "summary": "Dubai World's deal calms markets."
+        },
+        {
+          "headline": "Recovery",
+          "summary": "The economy stabilizes."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Emirati athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7244000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring caution",
+          "summary": "The UAE cracks down on dissent preemptively."
+        },
+        {
+          "headline": "Island dispute",
+          "summary": "Tensions with Iran over Abu Musa persist."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "The UAE exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7539000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Muslim Brotherhood arrests",
+          "summary": "Dozens are detained in a crackdown."
+        },
+        {
+          "headline": "Syria stance",
+          "summary": "Abu Dhabi backs the Syrian opposition."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Emirati athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 7847000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mass trial",
+          "summary": "94 Islamists face terrorism charges."
+        },
+        {
+          "headline": "Expo 2020 won",
+          "summary": "Dubai is awarded the world expo."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup triumph",
+        "summary": "The UAE win the Gulf Cup in Bahrain."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8272000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen war role",
+          "summary": "The UAE joins the Saudi-led coalition."
+        },
+        {
+          "headline": "Oil price fall",
+          "summary": "The crude slump tests finances."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Emirati athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 8738000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen quagmire",
+          "summary": "Emirati troops suffer losses."
+        },
+        {
+          "headline": "Space programme",
+          "summary": "The Mars probe project is announced."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup third place",
+        "summary": "The UAE finish third at the Asian Cup."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 9132000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mohammed bin Zayed rises",
+          "summary": "The Abu Dhabi crown prince dominates policy."
+        },
+        {
+          "headline": "Yemen drawdown",
+          "summary": "The UAE scales back its role."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Emirati athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 9315000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Qatar blockade",
+          "summary": "The UAE joins the boycott of Doha."
+        },
+        {
+          "headline": "Yemen split",
+          "summary": "Abu Dhabi backs southern separatists."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "The UAE contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 9379000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen's Hodeidah",
+          "summary": "Emirati-backed forces assault the port."
+        },
+        {
+          "headline": "Socotra row",
+          "summary": "A standoff with Saudi Arabia over the island."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Emirati athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 9513000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup hosted",
+          "summary": "The UAE stage the expanded tournament."
+        },
+        {
+          "headline": "Yemen withdrawal",
+          "summary": "Troops pull back from the south."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the Asian Cup",
+        "summary": "The UAE host the Asian Cup, reaching the semifinals."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 9289000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Abraham Accords",
+          "summary": "The UAE normalizes ties with Israel."
+        },
+        {
+          "headline": "Mars probe launches",
+          "summary": "The Hope probe heads to Mars."
+        }
+      ],
+      "sport": {
+        "headline": "Abu Dhabi F1 finale",
+        "summary": "The title decider captivates the finale."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 9861000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Expo 2020 opens",
+          "summary": "Dubai's delayed expo launches."
+        },
+        {
+          "headline": "Qatar ties restored",
+          "summary": "The blockade ends."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Emirati athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 10289000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sheikh Khalifa dies",
+          "summary": "The president dies in May."
+        },
+        {
+          "headline": "MBZ becomes president",
+          "summary": "Mohammed bin Zayed takes the top post."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "The UAE contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10679000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COP28 hosted",
+          "summary": "Dubai stages the UN climate summit."
+        },
+        {
+          "headline": "BRICS invited",
+          "summary": "The UAE is asked to join the bloc."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "The UAE reach the Asian Cup knockouts."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 11294000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza diplomacy",
+          "summary": "Abu Dhabi navigates the war carefully."
+        },
+        {
+          "headline": "AI investments",
+          "summary": "The UAE pours billions into artificial intelligence."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Emirati athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 11380000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US ties deepen",
+          "summary": "Trump's visit yields AI and investment deals."
+        },
+        {
+          "headline": "Regional mediation",
+          "summary": "Abu Dhabi plays a diplomatic role."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "The UAE contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

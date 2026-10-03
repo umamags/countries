@@ -1,0 +1,677 @@
+{
+  "country": "Jamaica",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "population": "2,839,175",
+  "currency": "Jamaican Dollar (JMD)",
+  "area": "10,991",
+  "landmarks": [
+    {
+      "name": "Dunn's River Falls",
+      "writeup": "",
+      "wiki": {
+        "extract": "Dunn's River Falls, near Ocho Rios, is a 180-meter terraced waterfall cascading directly into the Caribbean Sea. Visitors climb its limestone steps with guides, making it Jamaica's most famous natural attraction.",
+        "image": "https://bynder.onthebeach.co.uk/cdn-cgi/image/width=1400,quality=60,fit=cover,format=auto,height=934/m/5931677050365d41/original/Dunn-s-River-Falls-Jamaica.jpg",
+        "url": "https://en.wikipedia.org/wiki/Dunn%27s_River_Falls",
+        "coordinates": {
+          "lat": 18.4158,
+          "lon": -77.1381
+        }
+      }
+    },
+    {
+      "name": "Blue Mountains",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Blue Mountains, rising to 2,256 meters at Blue Mountain Peak, are Jamaica's highest range and a UNESCO World Heritage Site. Their misty slopes grow the world-renowned Blue Mountain coffee.",
+        "image": "https://www.villaparadisojamaica.com/wp-content/uploads/2021/11/Blue-Mountain.jpg",
+        "url": "https://en.wikipedia.org/wiki/Blue_Mountains_(Jamaica)",
+        "coordinates": {
+          "lat": 18.1,
+          "lon": -76.667
+        }
+      }
+    },
+    {
+      "name": "Bob Marley Museum",
+      "writeup": "",
+      "wiki": {
+        "extract": "The Bob Marley Museum, in the reggae legend's former home at 56 Hope Road, Kingston, preserves his recording studio, bedroom, and personal artifacts. It is Jamaica's most visited cultural attraction and a shrine to the global ambassador of reggae.",
+        "image": "https://bookitlist.com/uploads/images/_1920x1280_crop_center-center_75_none/148165/Kingston.webp",
+        "url": "https://en.wikipedia.org/wiki/Bob_Marley_Museum",
+        "coordinates": {
+          "lat": 18.019615,
+          "lon": -76.779832
+        }
+      }
+    },
+    {
+      "name": "Seven Mile Beach",
+      "writeup": "",
+      "wiki": {
+        "extract": "Seven Mile Beach in Negril is Jamaica's most celebrated stretch of sand, famed for sunsets, snorkeling, and cliff diving at nearby Rick's Cafe. It anchors the resort town of Negril on the island's western tip.",
+        "image": "https://islanddreamtour.com/wp-content/uploads/2021/07/seven-mile-beach-negril-jamaica.jpg",
+        "url": "https://en.wikipedia.org/wiki/Negril",
+        "coordinates": {
+          "lat": 18.30575,
+          "lon": -78.33801
+        }
+      }
+    },
+    {
+      "name": "Port Royal",
+      "writeup": "",
+      "wiki": {
+        "extract": "Port Royal, at the mouth of Kingston Harbour, was the 17th-century 'wickedest city on earth,' a pirate haven destroyed by the 1692 earthquake that sank much of it beneath the sea. Its submerged ruins and surviving forts make it a unique archaeological treasure.",
+        "image": "https://caribbean-maritime.com/images/stories/issue-21/port_royal_ren_aer.jpg",
+        "url": "https://en.wikipedia.org/wiki/Port_Royal",
+        "coordinates": {
+          "lat": 17.93861,
+          "lon": -76.84043
+        }
+      }
+    }
+  ],
+  "head_of_state": "Prime Minister Andrew Holness",
+  "cultural_events": [
+    {
+      "name": "Jamaica Carnival",
+      "writeup": "",
+      "wiki": {
+        "extract": "Jamaica Carnival, also known as Bacchanal Jamaica, is an annual Caribbean carnival held mainly in Kingston a week after Easter. Week-long fetes culminate in the Road March, a parade of costumed revellers blending soca, dancehall, and reggae revelry.",
+        "image": "https://carnivalvibez.com/wp-content/uploads/2026/08/Jamaica-Carnival-masqueraders-on-Road-March-day.webp",
+        "url": "https://en.wikipedia.org/wiki/Jamaica_Carnival"
+      }
+    },
+    {
+      "name": "Reggae Sumfest",
+      "writeup": "",
+      "wiki": {
+        "extract": "Reggae Sumfest, held in Montego Bay, is Jamaica's largest annual reggae festival, featuring the biggest names in reggae and dancehall alongside international stars. It is billed as the greatest reggae show on earth.",
+        "image": "https://jcvtt.com/blog/wp-content/uploads/Reggae_Sumfest_Shuttle_Service.png",
+        "url": "https://en.wikipedia.org/wiki/Reggae_Sumfest"
+      }
+    },
+    {
+      "name": "Rebel Salute",
+      "writeup": "",
+      "wiki": {
+        "extract": "Rebel Salute, founded by reggae artist Tony Rebel, is an annual roots-reggae festival known for its strictly conscious, family-friendly lineup. It celebrates Rastafari culture and positive roots music each January.",
+        "image": "https://www.rebelsalutejamaica.com/wp-content/uploads/2025/12/Rebel-Salute_2027_Logo_Generic_512px_H.png",
+        "url": "https://en.wikipedia.org/wiki/Rebel_Salute"
+      }
+    },
+    {
+      "name": "Reggae Sunsplash",
+      "writeup": "",
+      "wiki": {
+        "extract": "Reggae Sunsplash, launched in Montego Bay in 1978, was the pioneering festival that carried reggae to a global audience with legendary performances. Revived in later editions, it remains an icon of Jamaica's music history.",
+        "image": "https://i0.wp.com/jamaicayourway.com/wp-content/uploads/2025/03/jamaica-271120.jpg?fit=1200%2C800&ssl=1",
+        "url": "https://en.wikipedia.org/wiki/Reggae_Sunsplash"
+      }
+    },
+    {
+      "name": "Jonkonnu",
+      "writeup": "",
+      "wiki": {
+        "extract": "Jonkonnu is a traditional Jamaican Christmas-time street parade rooted in West African masquerade, with masked dancers, fife-and-drum bands, and characters like the horned Cow Head. Though rarer today, it remains a cherished folk tradition.",
+        "image": "https://i0.wp.com/samuelecherubini.com/wp-content/uploads/2020/04/Gnd-08491-scaled.jpg?resize=1024%2C683&ssl=1",
+        "url": "https://en.wikipedia.org/wiki/Jonkonnu_parades"
+      }
+    }
+  ],
+  "food_writeup": "Jamaican cuisine is a bold fusion of African, European, and Asian influences, famous for jerk seasoning - fiery pimento-smoked meat - and the national dish of ackee and saltfish. Curried goat, oxtail, patties, and festival dumplings are staples, while Blue Mountain coffee and Appleton rum are world-renowned exports.",
+  "brief_history": "Jamaica was a Spanish then British sugar colony built on enslaved African labor; it gained independence in 1962. The island gave the world reggae, Rastafari, and sprinting legends like Usain Bolt, while navigating political turbulence, IMF programs, and high crime. Today it is the Caribbean's cultural superpower, with tourism and the diaspora driving its economy.",
+  "important_people": [
+    {
+      "name": "Bob Marley",
+      "description": ""
+    },
+    {
+      "name": "Usain Bolt",
+      "description": ""
+    },
+    {
+      "name": "Marcus Garvey",
+      "description": ""
+    },
+    {
+      "name": "Michael Manley",
+      "description": ""
+    },
+    {
+      "name": "Louise Bennett-Coverley",
+      "description": ""
+    }
+  ],
+  "current_conflicts": "Jamaica has no active armed conflict. Its main security challenge is violent gang-related crime, which the government combats with states of emergency and security operations; the island was also devastated by Category 5 Hurricane Melissa in October 2025.",
+  "five_youtube_video_titles": [
+    "Jamaica - Geography Now!",
+    "Top 10 Things to Do in Jamaica",
+    "Usain Bolt: The Fastest Man Ever",
+    "How Reggae Conquered the World",
+    "Hurricane Melissa Hits Jamaica"
+  ],
+  "cities": [
+    {
+      "name": "Kingston",
+      "capital": true,
+      "lat": 17.97092,
+      "lon": -76.78827
+    },
+    {
+      "name": "Montego Bay",
+      "capital": false,
+      "lat": 18.47502,
+      "lon": -77.92238
+    },
+    {
+      "name": "Spanish Town",
+      "capital": false,
+      "lat": 17.99191,
+      "lon": -76.95247
+    },
+    {
+      "name": "Portmore",
+      "capital": false,
+      "lat": 17.96884,
+      "lon": -76.85129
+    },
+    {
+      "name": "Ocho Rios",
+      "capital": false,
+      "lat": 18.41141,
+      "lon": -77.10022
+    }
+  ],
+  "reference_map": {
+    "image": "maps/countries/North America/jamaica.jpg",
+    "source_url": "https://en.wikipedia.org/wiki/Jamaica",
+    "attribution": "CIA, The World Factbook",
+    "license": "Public domain"
+  },
+  "economics": [
+    {
+      "year": 2006,
+      "gdp_usd_billion": 12.26,
+      "gross_debt_pct_gdp": 114.2,
+      "gross_debt_usd_billion": 14.0,
+      "inflation_cpi_pct": 8.5,
+      "status": "Historical / IMF estimate",
+      "population": 2700968,
+      "exchange_rate_usd": 65.7439,
+      "main_events": [
+        {
+          "headline": "Simpson-Miller becomes first woman PM",
+          "summary": "Portia Simpson-Miller succeeds P.J. Patterson in March as Jamaica's first female prime minister."
+        },
+        {
+          "headline": "Crime tops agenda",
+          "summary": "Soaring murders dominate politics as the government pledges new anti-crime measures."
+        }
+      ],
+      "sport": {
+        "headline": "Sprinters medal at Commonwealths",
+        "summary": "Jamaica's sprinters win medals at the Commonwealth Games in Melbourne."
+      }
+    },
+    {
+      "year": 2007,
+      "gdp_usd_billion": 13.21,
+      "gross_debt_pct_gdp": 111.6,
+      "gross_debt_usd_billion": 14.75,
+      "inflation_cpi_pct": 9.3,
+      "status": "Historical / IMF estimate",
+      "population": 2713800,
+      "exchange_rate_usd": 69.1922,
+      "main_events": [
+        {
+          "headline": "Golding's JLP wins election",
+          "summary": "Bruce Golding leads the Jamaica Labour Party to victory in the September general election."
+        },
+        {
+          "headline": "Caribbean hosts Cricket World Cup",
+          "summary": "Sabina Park stages World Cup matches as the region hosts cricket's showpiece."
+        }
+      ],
+      "sport": {
+        "headline": "Campbell strikes 100m gold",
+        "summary": "Veronica Campbell wins 100m gold at the Osaka World Championships."
+      }
+    },
+    {
+      "year": 2008,
+      "gdp_usd_billion": 14.1,
+      "gross_debt_pct_gdp": 123.8,
+      "gross_debt_usd_billion": 17.45,
+      "inflation_cpi_pct": 22,
+      "status": "Historical / IMF estimate",
+      "population": 2725635,
+      "exchange_rate_usd": 72.7562,
+      "main_events": [
+        {
+          "headline": "Global crisis hits remittances",
+          "summary": "The financial crisis squeezes tourism and remittances, forcing an IMF standby deal."
+        },
+        {
+          "headline": "Golding government settles in",
+          "summary": "The JLP administration pushes tax reform amid the downturn."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt's golden Beijing",
+        "summary": "Usain Bolt wins the 100m, 200m, and 4x100m at the Beijing Olympics in world-record times."
+      }
+    },
+    {
+      "year": 2009,
+      "gdp_usd_billion": 12.42,
+      "gross_debt_pct_gdp": 138.3,
+      "gross_debt_usd_billion": 17.18,
+      "inflation_cpi_pct": 9.6,
+      "status": "Historical / IMF estimate",
+      "population": 2736995,
+      "exchange_rate_usd": 87.8941,
+      "main_events": [
+        {
+          "headline": "IMF deal signed",
+          "summary": "Jamaica secures IMF support as debt pressures mount."
+        },
+        {
+          "headline": "Dudus extradition standoff",
+          "summary": "The government's refusal to extradite Christopher 'Dudus' Coke strains U.S. relations."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt's Berlin world records",
+        "summary": "Usain Bolt smashes the 100m (9.58) and 200m (19.19) world records at the Berlin World Championships."
+      }
+    },
+    {
+      "year": 2010,
+      "gdp_usd_billion": 13.54,
+      "gross_debt_pct_gdp": 137.8,
+      "gross_debt_usd_billion": 18.65,
+      "inflation_cpi_pct": 12.6,
+      "status": "Historical / IMF estimate",
+      "population": 2748568,
+      "exchange_rate_usd": 87.1961,
+      "main_events": [
+        {
+          "headline": "Tivoli incursion",
+          "summary": "Security forces storm Tivoli Gardens in May to capture Coke; some 70 people die in the operation."
+        },
+        {
+          "headline": "Coke extradited to U.S.",
+          "summary": "Christopher Coke is captured and extradited to face U.S. drug charges."
+        }
+      ],
+      "sport": {
+        "headline": "Jamaica at Delhi Commonwealths",
+        "summary": "Jamaican athletes medal at the Commonwealth Games in Delhi."
+      }
+    },
+    {
+      "year": 2011,
+      "gdp_usd_billion": 14.79,
+      "gross_debt_pct_gdp": 135.9,
+      "gross_debt_usd_billion": 20.1,
+      "inflation_cpi_pct": 7.5,
+      "status": "Historical / IMF estimate",
+      "population": 2760494,
+      "exchange_rate_usd": 85.8935,
+      "main_events": [
+        {
+          "headline": "Holness becomes PM, then loses",
+          "summary": "Andrew Holness succeeds Golding in October but loses December's snap election to Portia Simpson-Miller."
+        },
+        {
+          "headline": "Simpson-Miller returns",
+          "summary": "The PNP wins decisively, returning Simpson-Miller to the premiership."
+        }
+      ],
+      "sport": {
+        "headline": "Drama in Daegu",
+        "summary": "Bolt false-starts out of the 100m but wins the 200m at the World Championships; Yohan Blake takes the 100m."
+      }
+    },
+    {
+      "year": 2012,
+      "gdp_usd_billion": 15.15,
+      "gross_debt_pct_gdp": 140.3,
+      "gross_debt_usd_billion": 21.25,
+      "inflation_cpi_pct": 6.9,
+      "status": "Historical / IMF estimate",
+      "population": 2772430,
+      "exchange_rate_usd": 88.7498,
+      "main_events": [
+        {
+          "headline": "Jamaica 50th independence",
+          "summary": "The island celebrates 50 years of independence with national festivities."
+        },
+        {
+          "headline": "IMF talks drag on",
+          "summary": "Negotiations for a new IMF agreement stall over debt and wage demands."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt's triple-triple in London",
+        "summary": "Usain Bolt defends his 100m, 200m, and 4x100m Olympic titles at the London Games."
+      }
+    },
+    {
+      "year": 2013,
+      "gdp_usd_billion": 14.58,
+      "gross_debt_pct_gdp": 135.2,
+      "gross_debt_usd_billion": 19.71,
+      "inflation_cpi_pct": 9.4,
+      "status": "Historical / IMF estimate",
+      "population": 2783687,
+      "exchange_rate_usd": 100.3979,
+      "main_events": [
+        {
+          "headline": "New IMF deal sealed",
+          "summary": "Jamaica signs an extended IMF arrangement, unlocking multilateral support."
+        },
+        {
+          "headline": "NIDS debate begins",
+          "summary": "Plans for a national ID system spark privacy debates."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt takes three Moscow golds",
+        "summary": "Usain Bolt wins the 100m, 200m, and 4x100m at the Moscow World Championships."
+      }
+    },
+    {
+      "year": 2014,
+      "gdp_usd_billion": 14.22,
+      "gross_debt_pct_gdp": 134.4,
+      "gross_debt_usd_billion": 19.12,
+      "inflation_cpi_pct": 8.3,
+      "status": "Historical / IMF estimate",
+      "population": 2793749,
+      "exchange_rate_usd": 110.9345,
+      "main_events": [
+        {
+          "headline": "Reform program on track",
+          "summary": "IMF reviews praise Jamaica's fiscal discipline as debt begins falling."
+        },
+        {
+          "headline": "Chikungunya outbreak",
+          "summary": "A mosquito-borne chikungunya epidemic sweeps the island."
+        }
+      ],
+      "sport": {
+        "headline": "Jamaica shines at Glasgow",
+        "summary": "Jamaican sprinters star at the Commonwealth Games in Glasgow."
+      }
+    },
+    {
+      "year": 2015,
+      "gdp_usd_billion": 14.93,
+      "gross_debt_pct_gdp": 115.9,
+      "gross_debt_usd_billion": 17.3,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate",
+      "population": 2802534,
+      "exchange_rate_usd": 116.9698,
+      "main_events": [
+        {
+          "headline": "Petrojam scandal brews",
+          "summary": "Opposition alleges corruption at the state oil refinery."
+        },
+        {
+          "headline": "Zika reaches Jamaica",
+          "summary": "The Zika virus arrives, threatening tourism and public health."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt beats Gatlin in Beijing",
+        "summary": "Usain Bolt defeats Justin Gatlin to win 100m and 200m gold at the Beijing World Championships."
+      }
+    },
+    {
+      "year": 2016,
+      "gdp_usd_billion": 14.93,
+      "gross_debt_pct_gdp": 106.9,
+      "gross_debt_usd_billion": 15.96,
+      "inflation_cpi_pct": 2.3,
+      "status": "Historical / IMF estimate",
+      "population": 2809915,
+      "exchange_rate_usd": 125.095,
+      "main_events": [
+        {
+          "headline": "Holness wins election",
+          "summary": "Andrew Holness's JLP edges the PNP in the February general election."
+        },
+        {
+          "headline": "Matthew brushes Jamaica",
+          "summary": "Hurricane Matthew passes east of the island, sparing it the worst."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt's triple-triple in Rio",
+        "summary": "Bolt completes an unprecedented third straight Olympic 100m-200m-4x100m sweep; Elaine Thompson wins the women's sprint double."
+      }
+    },
+    {
+      "year": 2017,
+      "gdp_usd_billion": 15.73,
+      "gross_debt_pct_gdp": 95.1,
+      "gross_debt_usd_billion": 14.96,
+      "inflation_cpi_pct": 4.4,
+      "status": "Historical / IMF estimate",
+      "population": 2815764,
+      "exchange_rate_usd": 127.9645,
+      "main_events": [
+        {
+          "headline": "States of emergency declared",
+          "summary": "The government imposes emergency security measures in St. James parish amid gang violence."
+        },
+        {
+          "headline": "Economy keeps improving",
+          "summary": "Debt falls and growth steadies under the IMF program."
+        }
+      ],
+      "sport": {
+        "headline": "Bolt's farewell in London",
+        "summary": "Usain Bolt takes 100m bronze and pulls up injured in the 4x100m in his final World Championships."
+      }
+    },
+    {
+      "year": 2018,
+      "gdp_usd_billion": 16.77,
+      "gross_debt_pct_gdp": 88.3,
+      "gross_debt_usd_billion": 14.81,
+      "inflation_cpi_pct": 3.7,
+      "status": "Historical / IMF estimate",
+      "population": 2820097,
+      "exchange_rate_usd": 128.8715,
+      "main_events": [
+        {
+          "headline": "SOEs extended",
+          "summary": "Controversial states of emergency continue as murders decline."
+        },
+        {
+          "headline": "NIDS law struck down",
+          "summary": "The Supreme Court voids the national ID law on privacy grounds."
+        }
+      ],
+      "sport": {
+        "headline": "Jamaica at Gold Coast games",
+        "summary": "Jamaican athletes compete at the Commonwealth Games on Australia's Gold Coast."
+      }
+    },
+    {
+      "year": 2019,
+      "gdp_usd_billion": 17.0,
+      "gross_debt_pct_gdp": 87.7,
+      "gross_debt_usd_billion": 14.91,
+      "inflation_cpi_pct": 3.9,
+      "status": "Historical / IMF estimate",
+      "population": 2823271,
+      "exchange_rate_usd": 133.3121,
+      "main_events": [
+        {
+          "headline": "Holness consolidates power",
+          "summary": "The JLP wins key by-elections as the economy improves."
+        },
+        {
+          "headline": "Cornwall Regional crisis",
+          "summary": "The troubled hospital rebuild becomes a political flashpoint."
+        }
+      ],
+      "sport": {
+        "headline": "Fraser-Pryce's Doha gold",
+        "summary": "Shelly-Ann Fraser-Pryce wins 100m gold at the Doha World Championships."
+      }
+    },
+    {
+      "year": 2020,
+      "gdp_usd_billion": 15.08,
+      "gross_debt_pct_gdp": 101.3,
+      "gross_debt_usd_billion": 15.28,
+      "inflation_cpi_pct": 5.2,
+      "status": "Historical / IMF estimate",
+      "population": 2830739,
+      "exchange_rate_usd": 142.4028,
+      "main_events": [
+        {
+          "headline": "Holness wins snap election",
+          "summary": "The JLP wins a crushing September victory as Holness calls an early vote during COVID."
+        },
+        {
+          "headline": "Pandemic batters tourism",
+          "summary": "COVID-19 shutters resorts and triggers the sharpest economic contraction in decades."
+        }
+      ],
+      "sport": {
+        "headline": "Olympics delayed",
+        "summary": "Jamaica's sprint stars wait an extra year as Tokyo 2020 is postponed."
+      }
+    },
+    {
+      "year": 2021,
+      "gdp_usd_billion": 15.98,
+      "gross_debt_pct_gdp": 86.3,
+      "gross_debt_usd_billion": 13.79,
+      "inflation_cpi_pct": 5.9,
+      "status": "Historical / IMF estimate",
+      "population": 2837682,
+      "exchange_rate_usd": 150.7901,
+      "main_events": [
+        {
+          "headline": "Vaccination drive struggles",
+          "summary": "Vaccine hesitancy slows Jamaica's COVID immunization campaign."
+        },
+        {
+          "headline": "Crime remains top concern",
+          "summary": "States of emergency return as murders stay stubbornly high."
+        }
+      ],
+      "sport": {
+        "headline": "Women's 100m sweep in Tokyo",
+        "summary": "Elaine Thompson-Herah leads a Jamaican 1-2-3 in the women's 100m at the Tokyo Olympics."
+      }
+    },
+    {
+      "year": 2022,
+      "gdp_usd_billion": 18.71,
+      "gross_debt_pct_gdp": 70.2,
+      "gross_debt_usd_billion": 13.13,
+      "inflation_cpi_pct": 10.3,
+      "status": "Historical / IMF estimate",
+      "population": 2839144,
+      "exchange_rate_usd": 153.4268,
+      "main_events": [
+        {
+          "headline": "Royal visit sparks republic debate",
+          "summary": "Prince William and Kate's March visit fuels Jamaica's push to become a republic."
+        },
+        {
+          "headline": "Jamaica turns 60",
+          "summary": "Diamond jubilee independence celebrations mark 60 years since 1962."
+        }
+      ],
+      "sport": {
+        "headline": "Sprint glory in Eugene",
+        "summary": "Jamaica's women sweep the 100m medals again at the Eugene World Championships; Shericka Jackson wins the 200m."
+      }
+    },
+    {
+      "year": 2023,
+      "gdp_usd_billion": 21.3,
+      "gross_debt_pct_gdp": 66.5,
+      "gross_debt_usd_billion": 14.16,
+      "inflation_cpi_pct": 6.5,
+      "status": "Historical / IMF estimate",
+      "population": 2839786,
+      "exchange_rate_usd": 154.1588,
+      "main_events": [
+        {
+          "headline": "Republic transition work",
+          "summary": "The government advances plans to remove the British monarch as head of state."
+        },
+        {
+          "headline": "SOEs face court challenges",
+          "summary": "Opposition and courts push back on repeated states of emergency."
+        }
+      ],
+      "sport": {
+        "headline": "Jackson's 200m gold",
+        "summary": "Shericka Jackson defends her 200m world title at the Budapest World Championships."
+      }
+    },
+    {
+      "year": 2024,
+      "gdp_usd_billion": 21.9,
+      "gross_debt_pct_gdp": 62.5,
+      "gross_debt_usd_billion": 13.69,
+      "inflation_cpi_pct": 5.5,
+      "status": "Historical / IMF estimate",
+      "population": 2839175,
+      "exchange_rate_usd": 156.4395,
+      "main_events": [
+        {
+          "headline": "Hurricane Beryl brushes south coast",
+          "summary": "Category 4 Beryl passes just south in July, damaging farms and infrastructure."
+        },
+        {
+          "headline": "Holness eyes third term",
+          "summary": "The prime minister positions the JLP for the 2025 election."
+        }
+      ],
+      "sport": {
+        "headline": "Paris sprint battles",
+        "summary": "Kishane Thompson takes men's 100m silver at the Paris Olympics as Jamaica's sprint dominance faces new rivals."
+      }
+    },
+    {
+      "year": 2025,
+      "gdp_usd_billion": 22.31,
+      "gross_debt_pct_gdp": 67.7,
+      "gross_debt_usd_billion": 15.11,
+      "inflation_cpi_pct": 3.9,
+      "status": "IMF projection",
+      "population": 2837077,
+      "exchange_rate_usd": 159.0964,
+      "main_events": [
+        {
+          "headline": "Holness wins third term",
+          "summary": "Andrew Holness secures a third consecutive term in the September 3 general election."
+        },
+        {
+          "headline": "Hurricane Melissa devastates Jamaica",
+          "summary": "Category 5 Melissa makes landfall near New Hope on October 28 with 185 mph winds, the island's worst storm in modern history."
+        }
+      ],
+      "sport": {
+        "headline": "Jamaica at Tokyo worlds",
+        "summary": "Jamaican sprinters contest the World Athletics Championships in Tokyo."
+      }
+    }
+  ]
+}

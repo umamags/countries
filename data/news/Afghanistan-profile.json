@@ -1,0 +1,396 @@
+{
+  "country": "Afghanistan",
+  "iso3": "AFG",
+  "currency": "AFN",
+  "currency_name": "Afghan Afghani",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 25443000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "NATO takes command across the south",
+          "summary": "ISAF assumes control of southern provinces as the Taliban insurgency intensifies sharply."
+        },
+        {
+          "headline": "Operation Medusa in Kandahar",
+          "summary": "Major NATO-Canadian offensive targets Taliban strongholds in Panjwaii district."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers climb world ranks",
+        "summary": "The national cricket team rises through ICC divisions, building toward full recognition."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 25903000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Taliban kidnap South Korean missionaries",
+          "summary": "Twenty-three aid workers seized in Ghazni; two are killed before a deal frees the rest."
+        },
+        {
+          "headline": "Suicide bombings surge nationwide",
+          "summary": "A record wave of Taliban bomb attacks hits Kabul and the provinces."
+        }
+      ],
+      "sport": {
+        "headline": "Footballers eye regional stage",
+        "summary": "The national football team competes in South Asian qualifiers amid growing domestic interest."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 26427000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kabul hotel and embassy bombings",
+          "summary": "Deadly attacks on the Serena Hotel and Indian embassy signal the insurgency's reach."
+        },
+        {
+          "headline": "US weighs troop surge",
+          "summary": "Washington debates reinforcements as violence reaches its worst level since 2001."
+        }
+      ],
+      "sport": {
+        "headline": "Nikpai wins historic Olympic bronze",
+        "summary": "Taekwondo fighter Rohullah Nikpai takes bronze in Beijing, Afghanistan's first Olympic medal."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 27385000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Obama orders troop surge",
+          "summary": "Thirty thousand extra US troops deploy under a new counterinsurgency strategy."
+        },
+        {
+          "headline": "Fraud mars presidential election",
+          "summary": "Hamid Karzai is declared winner after a runoff is abandoned over massive fraud."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket team earns ODI status",
+        "summary": "Strong World Cup qualifying results secure one-day international status for Afghanistan."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 28190000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Marjah offensive launched",
+          "summary": "Thousands of US, British and Afghan troops assault the Taliban hub in Helmand."
+        },
+        {
+          "headline": "War logs leak",
+          "summary": "WikiLeaks publishes tens of thousands of classified US military documents on the war."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games cricket silver",
+        "summary": "Afghanistan reaches the cricket final in Guangzhou, losing to Bangladesh."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 29249000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bin Laden killed in Pakistan",
+          "summary": "The al-Qaeda leader's death across the border reshapes the war's rationale."
+        },
+        {
+          "headline": "US begins troop drawdown",
+          "summary": "Obama announces phased withdrawals as peace envoy Rabbani is assassinated."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers win World League Division One",
+        "summary": "Victory in the ICC division secures a path toward the 2015 World Cup."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 30466000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Quran burning sparks deadly protests",
+          "summary": "US troops' burning of Qurans triggers nationwide riots and insider attacks."
+        },
+        {
+          "headline": "Strategic pact signed with US",
+          "summary": "Kabul and Washington agree a long-term partnership beyond the 2014 withdrawal."
+        }
+      ],
+      "sport": {
+        "headline": "World T20 debut in Sri Lanka",
+        "summary": "Afghanistan competes at the ICC World Twenty20, its first global tournament."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 31541000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Afghans take security lead",
+          "summary": "NATO hands combat leadership to Afghan forces as the 2014 exit nears."
+        },
+        {
+          "headline": "Taliban office opens in Doha",
+          "summary": "A political office in Qatar opens a channel for future peace talks."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship triumph",
+        "summary": "Afghanistan beats India in the final to win the South Asian football title."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 32716000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ghani wins disputed election",
+          "summary": "A US-brokered unity deal makes Ashraf Ghani president after a bitter runoff."
+        },
+        {
+          "headline": "NATO combat mission ends",
+          "summary": "ISAF formally closes as Afghan forces assume full responsibility for security."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers stun Bangladesh in Asia Cup",
+        "summary": "A 32-run win over Bangladesh marks Afghanistan's first victory against a Test nation."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 33753000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kunduz falls to the Taliban",
+          "summary": "Insurgents briefly seize a major city, their biggest gain since 2001."
+        },
+        {
+          "headline": "US hospital bombing in Kunduz",
+          "summary": "An American airstrike destroys an MSF hospital, killing dozens of patients and staff."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup debut Down Under",
+        "summary": "Afghanistan plays its first Cricket World Cup, beating Scotland for a maiden win."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 34636000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Battle for Kunduz rages again",
+          "summary": "Taliban fighters storm the northern city a second time before being repelled."
+        },
+        {
+          "headline": "Peace deal with Hekmatyar",
+          "summary": "Warlord Gulbuddin Hekmatyar signs an accord and returns to Kabul."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers stun West Indies at World T20",
+        "summary": "A famous six-run win over the eventual champions in Nagpur delights fans."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 35643000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Trump unveils new war strategy",
+          "summary": "Washington commits more troops with no timeline, pressuring Pakistan on sanctuaries."
+        },
+        {
+          "headline": "Kabul truck bomb devastates district",
+          "summary": "A massive blast in the diplomatic quarter kills scores and wounds hundreds."
+        }
+      ],
+      "sport": {
+        "headline": "Afghanistan granted Test status",
+        "summary": "The ICC awards full membership, elevating the team to cricket's top tier."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 36687000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections held",
+          "summary": "Long-delayed polls proceed amid Taliban attacks on voters and polling stations."
+        },
+        {
+          "headline": "Khalilzad appointed US envoy",
+          "summary": "Zalmay Khalilzad is tasked with driving direct talks with the Taliban."
+        }
+      ],
+      "sport": {
+        "headline": "Historic debut Test against India",
+        "summary": "Afghanistan plays its first Test match, in Bengaluru against India."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 37769000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ghani re-elected amid fraud claims",
+          "summary": "A low-turnout presidential poll returns Ghani to office; rivals reject the result."
+        },
+        {
+          "headline": "US-Taliban talks collapse",
+          "summary": "Trump abruptly cancels negotiations after a bombing kills an American soldier."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup campaign in England",
+        "summary": "Afghanistan competes at the Cricket World Cup, pushing several top sides close."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 38972000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US-Taliban deal signed in Doha",
+          "summary": "February accord sets a timetable for full American withdrawal from Afghanistan."
+        },
+        {
+          "headline": "Intra-Afghan talks open",
+          "summary": "Government and Taliban negotiators meet in Doha, but violence continues."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket survives the pandemic pause",
+        "summary": "Domestic and international fixtures resume behind closed doors after COVID halts play."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 40099000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Taliban seize Kabul",
+          "summary": "The government collapses on August 15 as insurgents sweep into the capital."
+        },
+        {
+          "headline": "Kabul airport bombing",
+          "summary": "An ISIS-K suicide attack during the evacuation kills US troops and scores of Afghans."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers play on amid turmoil",
+        "summary": "The team competes at the T20 World Cup weeks after the Taliban takeover."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 40579000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economy collapses under sanctions",
+          "summary": "Frozen reserves and halted aid push millions toward hunger and poverty."
+        },
+        {
+          "headline": "Girls' schools stay shut",
+          "summary": "The Taliban reneges on reopening secondary schools for girls, drawing global condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup Super Four run",
+        "summary": "Afghanistan reaches the Super Four stage of the T20 Asia Cup in the UAE."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 41455000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Women banned from universities",
+          "summary": "The Taliban extends education bans, barring women from higher education and NGOs."
+        },
+        {
+          "headline": "Deadly Herat earthquakes",
+          "summary": "A series of powerful quakes devastates villages in western Afghanistan."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup upsets in India",
+        "summary": "Afghanistan stuns England and Pakistan at the ODI World Cup."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 42647000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Morality law tightens control",
+          "summary": "New vice-and-virtue laws further restrict women's public life and freedoms."
+        },
+        {
+          "headline": "Taliban join Doha talks",
+          "summary": "Kabul's rulers attend UN-led talks, seeking engagement without concessions."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup semifinal run",
+        "summary": "Afghanistan beats Australia and reaches a first-ever World Cup semifinal."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 43844000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Border clashes with Pakistan",
+          "summary": "Cross-border fighting erupts as ties between Kabul and Islamabad deteriorate."
+        },
+        {
+          "headline": "Women's rights curbs deepen",
+          "summary": "New decrees further squeeze women's access to work, education and public space."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy semifinal",
+        "summary": "Afghanistan reaches the semifinals, beating England along the way."
+      }
+    }
+  ]
+}

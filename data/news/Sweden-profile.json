@@ -1,0 +1,396 @@
+{
+  "country": "Sweden",
+  "iso3": "SWE",
+  "currency": "SEK",
+  "currency_name": "Swedish Krona",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 9113000,
+      "fx_lcu_per_usd_annual_avg": 7.3793,
+      "geopolitical_news": [
+        {
+          "headline": "Reinfeldt wins election",
+          "summary": "The centre-right Alliance triumphs in September."
+        },
+        {
+          "headline": "Moderates return to power",
+          "summary": "Fredrik Reinfeldt becomes prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Germany end Sweden's World Cup run",
+        "summary": "Sweden lose their last-16 tie in Munich."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 9183000,
+      "fx_lcu_per_usd_annual_avg": 6.7585,
+      "geopolitical_news": [
+        {
+          "headline": "Alliance government stable",
+          "summary": "The four-party coalition governs."
+        },
+        {
+          "headline": "Tax cuts enacted",
+          "summary": "The government trims income taxes."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden qualify for Euro 2008",
+        "summary": "Sweden book their finals place."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 9256000,
+      "fx_lcu_per_usd_annual_avg": 6.5874,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits Sweden",
+          "summary": "The export economy contracts."
+        },
+        {
+          "headline": "Government stimulus",
+          "summary": "Stockholm cushions the downturn."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden exit Euro 2008 in group stage",
+        "summary": "Sweden bow out after defeat to Russia."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 9341000,
+      "fx_lcu_per_usd_annual_avg": 7.6446,
+      "geopolitical_news": [
+        {
+          "headline": "Sweden weathers crisis",
+          "summary": "The economy rebounds quickly."
+        },
+        {
+          "headline": "Pirate Party wins EU seat",
+          "summary": "The newcomers enter the European Parliament."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden miss 2010 World Cup",
+        "summary": "Sweden finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 9416000,
+      "fx_lcu_per_usd_annual_avg": 7.2062,
+      "geopolitical_news": [
+        {
+          "headline": "Reinfeldt wins, loses majority",
+          "summary": "September elections produce a hung parliament."
+        },
+        {
+          "headline": "Sweden Democrats enter parliament",
+          "summary": "The far right wins seats for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden begin Euro 2012 qualifying",
+        "summary": "Sweden open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 9483000,
+      "fx_lcu_per_usd_annual_avg": 6.4939,
+      "geopolitical_news": [
+        {
+          "headline": "Minority government navigates",
+          "summary": "The Alliance seeks opposition support."
+        },
+        {
+          "headline": "Norway attacks shock Sweden",
+          "summary": "The Utoya massacre reverberates across Scandinavia."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden qualify for Euro 2012",
+        "summary": "Sweden qualify as the best runners-up."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 9556000,
+      "fx_lcu_per_usd_annual_avg": 6.7772,
+      "geopolitical_news": [
+        {
+          "headline": "Reinfeldt's authority ebbs",
+          "summary": "The PM faces internal dissent."
+        },
+        {
+          "headline": "Economy slows",
+          "summary": "The euro crisis dents exports."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden exit Euro 2012 in group stage",
+        "summary": "Sweden bow out despite beating France."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 9645000,
+      "fx_lcu_per_usd_annual_avg": 6.5149,
+      "geopolitical_news": [
+        {
+          "headline": "Alliance strains",
+          "summary": "Coalition unity frays ahead of 2014 elections."
+        },
+        {
+          "headline": "Snowden... FRA law debated",
+          "summary": "Surveillance laws draw criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Ronaldo denies Sweden World Cup",
+        "summary": "Sweden lose their playoff to Portugal."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 9747000,
+      "fx_lcu_per_usd_annual_avg": 6.8636,
+      "geopolitical_news": [
+        {
+          "headline": "Lofven wins election",
+          "summary": "The red-greens triumph in September elections."
+        },
+        {
+          "headline": "Minority government formed",
+          "summary": "Stefan Lofven becomes PM in October."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden begin Euro 2016 qualifying",
+        "summary": "Sweden open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 9851000,
+      "fx_lcu_per_usd_annual_avg": 8.4347,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee crisis: Sweden U-turns",
+          "summary": "Asylum rules tighten after record arrivals."
+        },
+        {
+          "headline": "December Agreement collapses",
+          "summary": "The cross-bloc budget deal falls apart."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden qualify for Euro 2016",
+        "summary": "Sweden beat Denmark in the playoffs."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 9995000,
+      "fx_lcu_per_usd_annual_avg": 8.5611,
+      "geopolitical_news": [
+        {
+          "headline": "Sweden tightens asylum rules",
+          "summary": "Border checks with Denmark are introduced."
+        },
+        {
+          "headline": "Terror truck attack plot foiled",
+          "summary": "Police arrest suspects in Stockholm."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden exit Euro 2016 winless",
+        "summary": "Ibrahimovic retires from internationals after the finals."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10120000,
+      "fx_lcu_per_usd_annual_avg": 8.5443,
+      "geopolitical_news": [
+        {
+          "headline": "Stockholm truck attack",
+          "summary": "An April attack kills five on Drottninggatan."
+        },
+        {
+          "headline": "Sweden debates security",
+          "summary": "The attack prompts policy reviews."
+        }
+      ],
+      "sport": {
+        "headline": "Italy denied: Sweden qualify",
+        "summary": "Sweden beat Italy in the playoffs to reach Russia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10230000,
+      "fx_lcu_per_usd_annual_avg": 8.6976,
+      "geopolitical_news": [
+        {
+          "headline": "Election deadlock",
+          "summary": "September elections produce a hung parliament."
+        },
+        {
+          "headline": "Record-long formation",
+          "summary": "Talks drag into January 2019."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden reach World Cup quarter-finals",
+        "summary": "England knock Sweden out in Samara."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10328000,
+      "fx_lcu_per_usd_annual_avg": 9.4615,
+      "geopolitical_news": [
+        {
+          "headline": "Lofven returns as PM",
+          "summary": "The January Agreement restores him in January."
+        },
+        {
+          "headline": "Centre-right split",
+          "summary": "The Alliance formally dissolves."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden qualify for Euro 2020",
+        "summary": "Sweden finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10379000,
+      "fx_lcu_per_usd_annual_avg": 9.1997,
+      "geopolitical_news": [
+        {
+          "headline": "Sweden's light-touch COVID approach",
+          "summary": "No lockdowns; the strategy draws global attention."
+        },
+        {
+          "headline": "Death toll debated",
+          "summary": "Sweden's per-capita deaths exceed its neighbours."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden relegated from Nations League A",
+        "summary": "Sweden finish bottom of their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 10452000,
+      "fx_lcu_per_usd_annual_avg": 8.5842,
+      "geopolitical_news": [
+        {
+          "headline": "Lofven ousted, returns",
+          "summary": "A no-confidence vote topples then restores him."
+        },
+        {
+          "headline": "Andersson becomes first female PM",
+          "summary": "Magdalena Andersson takes office in November."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine end Sweden's Euro 2020 run",
+        "summary": "Sweden lose in extra time in the last 16."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 10522000,
+      "fx_lcu_per_usd_annual_avg": 10.1227,
+      "geopolitical_news": [
+        {
+          "headline": "Right bloc wins election",
+          "summary": "September elections bring a right-wing majority."
+        },
+        {
+          "headline": "Kristersson becomes PM",
+          "summary": "Ulf Kristersson forms a government in October."
+        }
+      ],
+      "sport": {
+        "headline": "Poland deny Sweden World Cup",
+        "summary": "Sweden lose their playoff final in Chorzow."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10552000,
+      "fx_lcu_per_usd_annual_avg": 10.6187,
+      "geopolitical_news": [
+        {
+          "headline": "Sweden's NATO bid stalls",
+          "summary": "Turkey and Hungary delay ratification."
+        },
+        {
+          "headline": "Quran burnings strain ties",
+          "summary": "Protests follow burnings in Stockholm."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden miss Euro 2024",
+        "summary": "Sweden finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 10588000,
+      "fx_lcu_per_usd_annual_avg": 10.5659,
+      "geopolitical_news": [
+        {
+          "headline": "Sweden joins NATO",
+          "summary": "Membership takes effect in March."
+        },
+        {
+          "headline": "Historic neutrality ends",
+          "summary": "Two centuries of non-alignment conclude."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden win Nations League promotion",
+        "summary": "Sweden top their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10676000,
+      "fx_lcu_per_usd_annual_avg": 9.8166,
+      "geopolitical_news": [
+        {
+          "headline": "Kristersson government stable",
+          "summary": "The Tidö coalition holds."
+        },
+        {
+          "headline": "Sweden boosts defence",
+          "summary": "Military spending rises sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden's World Cup hopes fade",
+        "summary": "Shock defeats leave qualification in doubt."
+      }
+    }
+  ]
+}

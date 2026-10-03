@@ -1,0 +1,400 @@
+{
+  "country": "Gabon",
+  "iso3": "GAB",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1398000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo's four-decade rule continues",
+          "summary": "Omar Bongo remains one of Africa's longest-serving leaders."
+        },
+        {
+          "headline": "Oil wealth funds patronage",
+          "summary": "Crude revenues sustain the ruling PDG's political machine."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon fall short in AFCON qualifying",
+        "summary": "The Panthers miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1440000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections favor PDG",
+          "summary": "The ruling party wins December's parliamentary vote."
+        },
+        {
+          "headline": "Bongo's health rumors",
+          "summary": "The aging president's absences fuel succession speculation."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon miss 2008 AFCON",
+        "summary": "The Panthers fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1494000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo hospitalized",
+          "summary": "The president's health deteriorates, intensifying succession talk."
+        },
+        {
+          "headline": "Oil prices buoy economy",
+          "summary": "Record crude prices fill state coffers."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon compete at Beijing Olympics",
+        "summary": "Gabonese athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1551000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Omar Bongo dies",
+          "summary": "The president dies in June after 42 years in power."
+        },
+        {
+          "headline": "Ali Bongo wins disputed election",
+          "summary": "The son takes August's vote amid opposition fraud claims and riots."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon qualify for 2010 AFCON",
+        "summary": "The Panthers reach the Angola tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1610000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ali Bongo consolidates power",
+          "summary": "The new president purges rivals and asserts control."
+        },
+        {
+          "headline": "AFCON 2012 preparations",
+          "summary": "Libreville builds stadiums for the co-hosted tournament."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon exit AFCON at group stage",
+        "summary": "The Panthers go home early from the 2010 tournament."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1671000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections boycotted",
+          "summary": "The opposition shuns December's vote; the PDG sweeps."
+        },
+        {
+          "headline": "Bongo's reforms stall",
+          "summary": "Pledges of change yield little."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon prepare to host AFCON",
+        "summary": "The Panthers gear up for the 2012 tournament on home soil."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1735000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gabon co-hosts AFCON",
+          "summary": "January's tournament showcases Libreville's new stadiums."
+        },
+        {
+          "headline": "Oil economy booms",
+          "summary": "High crude prices fund infrastructure spending."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon reach AFCON quarterfinals",
+        "summary": "The hosts lose to Mali on penalties in the 2012 last eight."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1803000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo's government stable",
+          "summary": "The president tightens his grip on the PDG."
+        },
+        {
+          "headline": "Gabon hosts African summit",
+          "summary": "Libreville welcomes continental leaders."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon miss 2013 AFCON",
+        "summary": "The Panthers fail to qualify for the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1868000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo's health scare",
+          "summary": "The president's brief disappearance sparks rumors."
+        },
+        {
+          "headline": "Oil price crash hits Gabon",
+          "summary": "Falling crude revenues force budget cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon qualify for 2015 AFCON",
+        "summary": "Aubameyang's goals take the Panthers to Equatorial Guinea 2015."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1930000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition unites for 2016",
+          "summary": "Jean Ping emerges as Bongo's main challenger."
+        },
+        {
+          "headline": "Gabon prepares AFCON 2017",
+          "summary": "Libreville builds for the hosting tournament."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon exit AFCON at group stage",
+        "summary": "The Panthers go home early from the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1980000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo re-elected amid violence",
+          "summary": "August's razor-thin official victory sparks riots; parliament is torched."
+        },
+        {
+          "headline": "Opposition cries fraud",
+          "summary": "Jean Ping claims victory as security forces crack down."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon prepare to host AFCON",
+        "summary": "The Panthers gear up for the 2017 tournament on home soil."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2025000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gabon hosts AFCON",
+          "summary": "January's tournament proceeds amid opposition boycott calls."
+        },
+        {
+          "headline": "EU questions election",
+          "summary": "European observers criticize the 2016 vote's credibility."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon exit AFCON at group stage",
+        "summary": "The hosts fail to win a game at their own 2017 tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2053000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo suffers stroke",
+          "summary": "The president is hospitalized in Saudi Arabia in October."
+        },
+        {
+          "headline": "Power vacuum fears",
+          "summary": "The president's long absence fuels uncertainty."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon miss 2018 World Cup",
+        "summary": "The Panthers fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2080000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt fails",
+          "summary": "Junior officers seize state radio in January but are quickly overpowered."
+        },
+        {
+          "headline": "Bongo returns home",
+          "summary": "The president comes back in March, visibly weakened."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon miss 2019 AFCON",
+        "summary": "The Panthers fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2108000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits oil economy",
+          "summary": "The pandemic compounds the crude price collapse."
+        },
+        {
+          "headline": "Bongo's health watched",
+          "summary": "The president's rare appearances fuel speculation."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Gabon's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2135000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bongo consolidates family rule",
+          "summary": "The president's son Noureddin gains prominence."
+        },
+        {
+          "headline": "Opposition fragmented",
+          "summary": "Rivals fail to unite ahead of 2023."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon qualify for 2021 AFCON",
+        "summary": "Aubameyang leads the Panthers to the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2161000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gabon joins Commonwealth",
+          "summary": "Libreville is admitted to the club of mostly former British colonies."
+        },
+        {
+          "headline": "Bongo prepares re-election bid",
+          "summary": "The president signals he will seek a third term."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon exit AFCON in round of 16",
+        "summary": "Burkina Faso eliminate the Panthers on penalties at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2209000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Ali Bongo",
+          "summary": "Officers seize power in August after a disputed election, ending 56 years of Bongo rule."
+        },
+        {
+          "headline": "Oligui Nguema takes charge",
+          "summary": "General Brice Oligui Nguema is sworn in as transitional president."
+        },
+        {
+          "headline": "Bongo family detained",
+          "summary": "The ousted president's wife and son face corruption charges."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon miss 2023 AFCON",
+        "summary": "The Panthers fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2258000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Transition charter adopted",
+          "summary": "The junta promises elections after a two-year transition."
+        },
+        {
+          "headline": "National dialogue held",
+          "summary": "April talks chart the path to civilian rule."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon chase 2026 World Cup spot",
+        "summary": "Aubameyang's Panthers contend in qualifying for the expanded tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2306000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oligui elected president",
+          "summary": "The junta leader wins April's vote, formalizing his rule."
+        },
+        {
+          "headline": "Gabon returns to constitutional order",
+          "summary": "The transition officially ends with the elected presidency."
+        }
+      ],
+      "sport": {
+        "headline": "Gabon qualify for 2025 AFCON",
+        "summary": "The Panthers reach the Morocco tournament."
+      }
+    }
+  ]
+}

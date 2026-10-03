@@ -1,0 +1,396 @@
+{
+  "country": "Timor-Leste",
+  "iso3": "TLS",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 962000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Crisis erupts",
+          "summary": "Army splits spark violence; Australian troops intervene."
+        },
+        {
+          "headline": "PM resigns",
+          "summary": "Mari Alkatiri quits under pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Timor-Leste contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 991000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ramos-Horta elected",
+          "summary": "The Nobel laureate wins the presidency."
+        },
+        {
+          "headline": "Parliamentary polls",
+          "summary": "Fretilin loses its majority."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Timorese athletes compete in Thailand."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1019000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Assassination attempts",
+          "summary": "Rebels shoot the president and attack the PM."
+        },
+        {
+          "headline": "Reinado killed",
+          "summary": "The rebel leader dies in the attack."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Timorese athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1046000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Recovery",
+          "summary": "Stability returns after the 2008 attacks."
+        },
+        {
+          "headline": "IDP camps close",
+          "summary": "Displaced families resettle."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Laos",
+        "summary": "Timor-Leste compete in Vientiane."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1072000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Oil fund grows",
+          "summary": "Petroleum revenues swell the sovereign fund."
+        },
+        {
+          "headline": "Development push",
+          "summary": "Infrastructure projects begin."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Timorese athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1098000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN mission winds down",
+          "summary": "UNMIT prepares to leave."
+        },
+        {
+          "headline": "Election prep",
+          "summary": "The young democracy readies for polls."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Timor-Leste compete in Jakarta-Palembang."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1123000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Taur Matan Ruak elected",
+          "summary": "The ex-guerrilla wins the presidency."
+        },
+        {
+          "headline": "Parliamentary polls",
+          "summary": "CNRT-led coalition keeps power."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Timorese athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1147000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gusmão stays PM",
+          "summary": "The independence hero continues in office."
+        },
+        {
+          "headline": "Oil dependence",
+          "summary": "The economy relies on petroleum."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Myanmar",
+        "summary": "Timor-Leste compete in Naypyidaw."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1170000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Budget battles",
+          "summary": "Parliament fights over spending."
+        },
+        {
+          "headline": "Veterans' pensions",
+          "summary": "Resistance fighters' benefits are debated."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Timorese athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1193000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gusmão resigns",
+          "summary": "The PM steps down; Rui Araujo takes over."
+        },
+        {
+          "headline": "New government",
+          "summary": "A unity cabinet forms."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Singapore",
+        "summary": "Timor-Leste compete in Singapore."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1217000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Australia sea border",
+          "summary": "Timor takes Canberra to arbitration."
+        },
+        {
+          "headline": "Greater Sunrise row",
+          "summary": "The oil field dispute deepens."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Timorese athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1240000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Guterres elected",
+          "summary": "Francisco Guterres wins the presidency."
+        },
+        {
+          "headline": "Parliamentary deadlock",
+          "summary": "No party wins a majority."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Timor-Leste compete in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1264000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sea border treaty",
+          "summary": "Australia and Timor settle the maritime boundary."
+        },
+        {
+          "headline": "New government",
+          "summary": "Gusmão's coalition takes power."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Timorese athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1288000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political impasse",
+          "summary": "Budget blockages paralyze government."
+        },
+        {
+          "headline": "Oil fund worries",
+          "summary": "Petroleum revenues decline."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Timor-Leste compete in Manila."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1314000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government collapses",
+          "summary": "The coalition falls; a new cabinet forms."
+        },
+        {
+          "headline": "COVID",
+          "summary": "The pandemic strains the fragile state."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Timorese football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1339000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Floods devastate",
+          "summary": "Easter floods kill dozens in Dili."
+        },
+        {
+          "headline": "Vaccine rollout",
+          "summary": "COVID jabs arrive."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Timorese athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1362000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Ramos-Horta returns",
+          "summary": "The Nobel laureate wins the presidency again."
+        },
+        {
+          "headline": "ASEAN bid",
+          "summary": "Membership negotiations advance."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Vietnam",
+        "summary": "Timor-Leste compete at the Hanoi Games."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1377000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary polls",
+          "summary": "Gusmão's CNRT wins May elections."
+        },
+        {
+          "headline": "ASEAN progress",
+          "summary": "The membership path continues."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Cambodia",
+        "summary": "Timor-Leste compete at the Phnom Penh Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1392000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pope visits",
+          "summary": "Pope Francis draws huge crowds in Dili."
+        },
+        {
+          "headline": "ASEAN nears",
+          "summary": "Full membership approaches."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Timorese athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1410000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN membership",
+          "summary": "Timor-Leste joins ASEAN as its 11th member."
+        },
+        {
+          "headline": "Historic accession",
+          "summary": "The young nation enters the regional bloc."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Timor-Leste compete at the Southeast Asian Games."
+      }
+    }
+  ]
+}
