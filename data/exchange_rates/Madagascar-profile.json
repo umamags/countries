@@ -1,0 +1,396 @@
+{
+  "country": "Madagascar",
+  "iso3": "MDG",
+  "currency": "MGA",
+  "currency_name": "Malagasy Ariary",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 17996000,
+      "fx_lcu_per_usd_annual_avg": 2142.3017,
+      "geopolitical_news": [
+        {
+          "headline": "Ravalomanana re-elected",
+          "summary": "The president wins December's vote amid opposition fraud claims."
+        },
+        {
+          "headline": "Madagascar's economy grows",
+          "summary": "Mining investments boost the island economy."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar fall short in AFCON qualifying",
+        "summary": "The Barea miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 18538000,
+      "fx_lcu_per_usd_annual_avg": 1873.8767,
+      "geopolitical_news": [
+        {
+          "headline": "Ravalomanana consolidates power",
+          "summary": "The president's TIM party dominates parliament."
+        },
+        {
+          "headline": "Madagascar hosts summits",
+          "summary": "Antananarivo welcomes regional leaders."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2008 AFCON",
+        "summary": "The Barea fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 19096000,
+      "fx_lcu_per_usd_annual_avg": 1708.3708,
+      "geopolitical_news": [
+        {
+          "headline": "Rajoelina rises in Antananarivo",
+          "summary": "The young mayor becomes the president's fiercest critic."
+        },
+        {
+          "headline": "Political tensions mount",
+          "summary": "Rivalry between the two men paralyzes politics."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar compete at Beijing Olympics",
+        "summary": "Malagasy athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 19670000,
+      "fx_lcu_per_usd_annual_avg": 1956.2058,
+      "geopolitical_news": [
+        {
+          "headline": "Rajoelina seizes power",
+          "summary": "March's military-backed takeover ousts Ravalomanana, who flees abroad."
+        },
+        {
+          "headline": "African Union suspends Madagascar",
+          "summary": "The continental body condemns the unconstitutional change."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar chase 2010 World Cup spot",
+        "summary": "The Barea compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 20262000,
+      "fx_lcu_per_usd_annual_avg": 2089.95,
+      "geopolitical_news": [
+        {
+          "headline": "Transition stalls",
+          "summary": "Rajoelina's regime fails to organize promised elections."
+        },
+        {
+          "headline": "Sanctions bite",
+          "summary": "International isolation squeezes the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2010 World Cup",
+        "summary": "The Barea fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 20872000,
+      "fx_lcu_per_usd_annual_avg": 2025.1175,
+      "geopolitical_news": [
+        {
+          "headline": "Roadmap to elections signed",
+          "summary": "September's SADC-brokered deal charts a path to polls."
+        },
+        {
+          "headline": "Rajoelina's rule persists",
+          "summary": "The transitional leader delays the vote."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2012 AFCON",
+        "summary": "The Barea fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 21501000,
+      "fx_lcu_per_usd_annual_avg": 2194.9667,
+      "geopolitical_news": [
+        {
+          "headline": "Election delays continue",
+          "summary": "The presidential vote slips to 2013."
+        },
+        {
+          "headline": "Poverty deepens",
+          "summary": "Sanctions and instability devastate livelihoods."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar compete at London Olympics",
+        "summary": "Malagasy athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 22148000,
+      "fx_lcu_per_usd_annual_avg": 2206.9142,
+      "geopolitical_news": [
+        {
+          "headline": "Rajaonarimampianina wins presidency",
+          "summary": "Rajoelina's ally defeats Robinson in December's runoff."
+        },
+        {
+          "headline": "Democracy restored",
+          "summary": "Elected government returns after the 2009 coup."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2013 AFCON",
+        "summary": "The Barea fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 22814000,
+      "fx_lcu_per_usd_annual_avg": 2414.8117,
+      "geopolitical_news": [
+        {
+          "headline": "New president inaugurated",
+          "summary": "Hery Rajaonarimampianina takes office in January."
+        },
+        {
+          "headline": "AU readmits Madagascar",
+          "summary": "The continental body lifts its suspension."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2014 World Cup",
+        "summary": "The Barea fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 23501000,
+      "fx_lcu_per_usd_annual_avg": 2933.5083,
+      "geopolitical_news": [
+        {
+          "headline": "Impeachment attempt fails",
+          "summary": "Parliament tries to oust the president in May."
+        },
+        {
+          "headline": "Political instability persists",
+          "summary": "Rivalry with Rajoelina paralyzes governance."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2015 AFCON",
+        "summary": "The Barea fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 24209000,
+      "fx_lcu_per_usd_annual_avg": 3176.5392,
+      "geopolitical_news": [
+        {
+          "headline": "President's authority weakens",
+          "summary": "Rajaonarimampianina struggles against his former patron."
+        },
+        {
+          "headline": "Madagascar's poverty persists",
+          "summary": "The island remains among the world's poorest."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar compete at Rio Olympics",
+        "summary": "Malagasy athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 24937000,
+      "fx_lcu_per_usd_annual_avg": 3116.11,
+      "geopolitical_news": [
+        {
+          "headline": "Plague outbreak kills scores",
+          "summary": "Pneumonic plague spreads in cities, alarming health authorities."
+        },
+        {
+          "headline": "Election preparations",
+          "summary": "The 2018 vote looms over fractured politics."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2017 AFCON",
+        "summary": "The Barea fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 25674000,
+      "fx_lcu_per_usd_annual_avg": 3334.7523,
+      "geopolitical_news": [
+        {
+          "headline": "Rajoelina wins presidency",
+          "summary": "The former coup leader defeats Ravalomanana in December's runoff."
+        },
+        {
+          "headline": "Rivals' rematch",
+          "summary": "The 2009 foes face off at the ballot box."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar qualify for first AFCON",
+        "summary": "The Barea reach Egypt 2019, a historic breakthrough."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 26525000,
+      "fx_lcu_per_usd_annual_avg": 3618.3219,
+      "geopolitical_news": [
+        {
+          "headline": "Rajoelina inaugurated",
+          "summary": "The new president takes office in January."
+        },
+        {
+          "headline": "COVID herbal remedy promoted",
+          "summary": "The president touts an unproven tonic against the pandemic."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar reach AFCON quarterfinals",
+        "summary": "The debutants stun Nigeria and reach the last eight in Egypt."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 27340000,
+      "fx_lcu_per_usd_annual_avg": 3787.7541,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Madagascar",
+          "summary": "The pandemic strains the fragile health system."
+        },
+        {
+          "headline": "Locust plague devastates crops",
+          "summary": "Swarms compound the island's food crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Madagascar's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 28178000,
+      "fx_lcu_per_usd_annual_avg": 3829.9778,
+      "geopolitical_news": [
+        {
+          "headline": "Famine grips the south",
+          "summary": "Drought pushes hundreds of thousands toward starvation."
+        },
+        {
+          "headline": "Coup plot alleged",
+          "summary": "Authorities claim to foil a July conspiracy."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2021 AFCON",
+        "summary": "The Barea fail to build on 2019, missing the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 28961000,
+      "fx_lcu_per_usd_annual_avg": 4096.1162,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclones batter the island",
+          "summary": "Successive storms kill dozens and displace thousands."
+        },
+        {
+          "headline": "Rajoelina's popularity slides",
+          "summary": "Economic woes hurt the president ahead of 2023."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2022 World Cup",
+        "summary": "The Barea fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 29766000,
+      "fx_lcu_per_usd_annual_avg": 4429.5792,
+      "geopolitical_news": [
+        {
+          "headline": "Rajoelina re-elected amid boycott",
+          "summary": "November's vote is shunned by rivals alleging fraud."
+        },
+        {
+          "headline": "Opposition protests",
+          "summary": "Demonstrations against the election are suppressed."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar miss 2023 AFCON",
+        "summary": "The Barea fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 30594000,
+      "fx_lcu_per_usd_annual_avg": 4525.4247,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The ruling party wins May's parliamentary vote."
+        },
+        {
+          "headline": "Poverty and hunger persist",
+          "summary": "The south faces another lean season."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar compete at Paris Olympics",
+        "summary": "Malagasy athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 31444000,
+      "fx_lcu_per_usd_annual_avg": 4529.7513,
+      "geopolitical_news": [
+        {
+          "headline": "Military seizes power",
+          "summary": "October's coup ousts Rajoelina, who flees the country."
+        },
+        {
+          "headline": "AU suspends Madagascar again",
+          "summary": "The continental body condemns the unconstitutional takeover."
+        }
+      ],
+      "sport": {
+        "headline": "Madagascar chase 2026 World Cup spot",
+        "summary": "The Barea compete in qualifying for the expanded tournament."
+      }
+    }
+  ]
+}

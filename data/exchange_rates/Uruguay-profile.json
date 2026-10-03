@@ -1,0 +1,396 @@
+{
+  "country": "Uruguay",
+  "iso3": "URY",
+  "currency": "UYU",
+  "currency_name": "Uruguayan Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3358000,
+      "fx_lcu_per_usd_annual_avg": 24.0734,
+      "geopolitical_news": [
+        {
+          "headline": "Pulp mill row with Argentina deepens",
+          "summary": "Argentine protesters blockade border bridges over mills on the shared Uruguay river."
+        },
+        {
+          "headline": "Vázquez's leftist government advances",
+          "summary": "Tabaré Vázquez pushes tax and health reforms in the Frente Amplio's first term."
+        }
+      ],
+      "sport": {
+        "headline": "Uruguay misses the World Cup",
+        "summary": "A playoff defeat to Australia in 2005 keeps Uruguay out of Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3359000,
+      "fx_lcu_per_usd_annual_avg": 23.471,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ hears pulp mill case",
+          "summary": "The Hague takes up Argentina's suit against Uruguay over the river mills."
+        },
+        {
+          "headline": "Trade deal with US signed",
+          "summary": "A bilateral trade and investment framework pact deepens Uruguay's economic ties with Washington."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América semi-final run",
+        "summary": "Uruguay finishes fourth in Venezuela; the under-20s impress at the World Cup."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3363000,
+      "fx_lcu_per_usd_annual_avg": 20.9493,
+      "geopolitical_news": [
+        {
+          "headline": "Vázquez popularity stays high",
+          "summary": "The president maintains strong approval into his final years."
+        },
+        {
+          "headline": "Tax reform beds in",
+          "summary": "The Frente Amplio's new personal income-tax system reshapes public finances and reduces inequality."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying push",
+        "summary": "Uruguay climbs the CONMEBOL table behind Forlán and Suárez."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3378000,
+      "fx_lcu_per_usd_annual_avg": 22.568,
+      "geopolitical_news": [
+        {
+          "headline": "Mujica elected president",
+          "summary": "Ex-guerrilla José Mujica wins November's runoff for the Frente Amplio."
+        },
+        {
+          "headline": "Amnesty referendum fails",
+          "summary": "Voters narrowly keep the law shielding dictatorship-era crimes from prosecution."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification via playoff",
+        "summary": "Uruguay beats Costa Rica over two legs to reach South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 3397000,
+      "fx_lcu_per_usd_annual_avg": 20.0593,
+      "geopolitical_news": [
+        {
+          "headline": "Mujica takes office",
+          "summary": "The famously austere former Tupamaro guerrilla José Mujica becomes president in March 2010."
+        },
+        {
+          "headline": "Pulp mill deal with Argentina",
+          "summary": "The neighbors agree joint monitoring of the river, easing the long dispute."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup semi-final run",
+        "summary": "Uruguay finishes fourth; Forlán wins the Golden Ball and Suárez's handball stuns Ghana."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3413000,
+      "fx_lcu_per_usd_annual_avg": 19.3142,
+      "geopolitical_news": [
+        {
+          "headline": "Amnesty law repealed",
+          "summary": "Congress scraps the amnesty law, reopening long-blocked prosecutions for dictatorship-era human rights crimes."
+        },
+        {
+          "headline": "Marijuana legalization proposed",
+          "summary": "President Mujica unveils a pioneering plan for state-regulated cannabis production and retail sales."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América champions",
+        "summary": "Uruguay beats Paraguay 3-0 for a record 15th continental title."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3428000,
+      "fx_lcu_per_usd_annual_avg": 20.3106,
+      "geopolitical_news": [
+        {
+          "headline": "Cannabis bill advances",
+          "summary": "The lower house debates the pioneering cannabis legalization bill at length through the year."
+        },
+        {
+          "headline": "Mujica's fame grows",
+          "summary": "The 'world's poorest president' becomes a global media phenomenon."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football campaign",
+        "summary": "Suárez leads Uruguay at the London games; the team exits early."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3442000,
+      "fx_lcu_per_usd_annual_avg": 20.4816,
+      "geopolitical_news": [
+        {
+          "headline": "Marijuana fully legalized",
+          "summary": "Uruguay becomes the first country to legalize cannabis in December."
+        },
+        {
+          "headline": "Vázquez favored for 2014",
+          "summary": "The ex-president leads polls for a return to office."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification via playoff",
+        "summary": "Uruguay thrashes Jordan 5-0 on aggregate in the playoff to book Brazil 2014."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3457000,
+      "fx_lcu_per_usd_annual_avg": 23.246,
+      "geopolitical_news": [
+        {
+          "headline": "Vázquez re-elected president",
+          "summary": "He beats Luis Lacalle Pou in November's runoff to return to the presidency."
+        },
+        {
+          "headline": "Guantánamo refugees arrive",
+          "summary": "Uruguay resettles six former Guantánamo detainees on humanitarian grounds in a December transfer."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last-16 exit",
+        "summary": "Suárez is banned for biting Chiellini; Colombia knocks Uruguay out."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3473000,
+      "fx_lcu_per_usd_annual_avg": 27.3274,
+      "geopolitical_news": [
+        {
+          "headline": "Vázquez begins second term",
+          "summary": "He takes office in March promising continuity with a moderate touch."
+        },
+        {
+          "headline": "Cannabis sales delayed",
+          "summary": "Pharmacy sales of legal marijuana are pushed back amid regulatory wrangling."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Uruguay loses to hosts Chile in a heated Santiago quarter-final, with Cavani sent off."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 3486000,
+      "fx_lcu_per_usd_annual_avg": 30.1626,
+      "geopolitical_news": [
+        {
+          "headline": "Economy weathers regional storm",
+          "summary": "Uruguay's stable economy outperforms its crisis-hit neighbors Argentina and Brazil this year."
+        },
+        {
+          "headline": "Ex-dictator Alvarez dies",
+          "summary": "Gregorio Álvarez dies in December while serving time for dictatorship crimes."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Uruguay suffers a shock early exit in the United States after group-stage defeats."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 3497000,
+      "fx_lcu_per_usd_annual_avg": 28.6764,
+      "geopolitical_news": [
+        {
+          "headline": "Pharmacy marijuana sales begin",
+          "summary": "Registered users can buy legal cannabis in pharmacies from July."
+        },
+        {
+          "headline": "UPM pulp mill deal",
+          "summary": "The government signs an investment pact for a second giant mill."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification sealed",
+        "summary": "Uruguay books its Russia 2018 ticket with games to spare in qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3504000,
+      "fx_lcu_per_usd_annual_avg": 30.7253,
+      "geopolitical_news": [
+        {
+          "headline": "Election race takes shape",
+          "summary": "Lacalle Pou emerges as the opposition frontrunner for 2019."
+        },
+        {
+          "headline": "Cannabis tourism debated",
+          "summary": "Government officials weigh extending legal cannabis sales to the foreign tourists visiting Uruguay."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final run",
+        "summary": "Uruguay beats Portugal before falling to eventual champions France."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3508000,
+      "fx_lcu_per_usd_annual_avg": 35.2554,
+      "geopolitical_news": [
+        {
+          "headline": "Lacalle Pou elected president",
+          "summary": "He narrowly beats Daniel Martínez in November's runoff, ending 15 years of leftist rule."
+        },
+        {
+          "headline": "Military reform referendum fails",
+          "summary": "Voters reject Lacalle Pou's hardline military-backed security overhaul in the October plebiscite."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Uruguay loses to Peru on penalties in the Copa América quarter-finals in Brazil."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 3510000,
+      "fx_lcu_per_usd_annual_avg": 42.0133,
+      "geopolitical_news": [
+        {
+          "headline": "Lacalle takes office",
+          "summary": "He is inaugurated in March days before the pandemic hits."
+        },
+        {
+          "headline": "Uruguay praised for COVID response",
+          "summary": "Low case counts make it a regional model early in the pandemic."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Leagues and qualifiers halt; Tabárez's long reign nears its end."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 3508000,
+      "fx_lcu_per_usd_annual_avg": 43.5546,
+      "geopolitical_news": [
+        {
+          "headline": "LUC referendum campaign",
+          "summary": "The opposition gathers signatures to repeal parts of the flagship omnibus law."
+        },
+        {
+          "headline": "Vaccination campaign succeeds",
+          "summary": "High COVID-19 vaccination rates allow Uruguay one of the region's earliest economic reopenings."
+        }
+      ],
+      "sport": {
+        "headline": "Tabárez sacked as coach",
+        "summary": "The historic 15-year tenure ends in November amid poor qualifying results."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 3501000,
+      "fx_lcu_per_usd_annual_avg": 41.1711,
+      "geopolitical_news": [
+        {
+          "headline": "Government wins LUC referendum",
+          "summary": "Voters back the omnibus law in March, a boost for Lacalle."
+        },
+        {
+          "headline": "Drug-trafficking scandals",
+          "summary": "A passport-issuance scandal and contraband smuggling cases embarrass President Lacalle's struggling government."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup group-stage exit",
+        "summary": "Uruguay goes out on goals scored; Suárez and Cavani bow out."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3496000,
+      "fx_lcu_per_usd_annual_avg": 38.8239,
+      "geopolitical_news": [
+        {
+          "headline": "Pension reform passed",
+          "summary": "Congress raises the retirement age to 65 despite fierce union and leftist opposition."
+        },
+        {
+          "headline": "Water crisis hits Montevideo",
+          "summary": "Severe drought forces brackish tap water on the capital in Montevideo's worst shortage on record."
+        }
+      ],
+      "sport": {
+        "headline": "Bielsa era begins brightly",
+        "summary": "Uruguay beats Brazil and Argentina in 2026 qualifying under the new coach."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3492000,
+      "fx_lcu_per_usd_annual_avg": 40.2128,
+      "geopolitical_news": [
+        {
+          "headline": "Orsi elected president",
+          "summary": "Yamandú Orsi wins November's runoff, returning the Frente Amplio to power."
+        },
+        {
+          "headline": "Plebiscites fail",
+          "summary": "Voters reject pension and police-raid constitutional reforms in October."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América third place",
+        "summary": "Uruguay beats Canada for bronze; Suárez retires from international football."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3486000,
+      "fx_lcu_per_usd_annual_avg": 41.191,
+      "geopolitical_news": [
+        {
+          "headline": "Orsi takes office",
+          "summary": "He is inaugurated in March promising dialogue and social investment."
+        },
+        {
+          "headline": "Economy steadies",
+          "summary": "The new government inherits stable growth and low inflation."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualification secured",
+        "summary": "Uruguay books its ticket with games to spare under Bielsa."
+      }
+    }
+  ]
+}

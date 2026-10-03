@@ -1,0 +1,397 @@
+{
+  "country": "Latvia",
+  "iso3": "LVA",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "currency_note": "Latvian Lats (LVL) until Dec 2013; Euro (EUR) from Jan 2014.",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average, accessed Oct 2026); post euro-adoption years use ECB reference rates via Frankfurter"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2228000,
+      "fx_lcu_per_usd_annual_avg": 0.5604,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia holds EU... steady course",
+          "summary": "Riga pursues euro adoption plans."
+        },
+        {
+          "headline": "Coalition governs",
+          "summary": "A centre-right government holds office."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss Euro 2008 qualifying hopes",
+        "summary": "Latvia struggle in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2209000,
+      "fx_lcu_per_usd_annual_avg": 0.5138,
+      "geopolitical_news": [
+        {
+          "headline": "Zatlers elected president",
+          "summary": "Valdis Zatlers becomes president in May."
+        },
+        {
+          "headline": "Economy overheats",
+          "summary": "A credit boom pushes wages and prices sky-high."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss Euro 2008",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2192000,
+      "fx_lcu_per_usd_annual_avg": 0.4808,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia takes EU-IMF bailout",
+          "summary": "A 7.5 billion euro rescue follows the banking collapse."
+        },
+        {
+          "headline": "Parex bank nationalised",
+          "summary": "The state seizes the failing bank in November."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia begin 2010 World Cup qualifying",
+        "summary": "Latvia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2163000,
+      "fx_lcu_per_usd_annual_avg": 0.5056,
+      "geopolitical_news": [
+        {
+          "headline": "Godmanis resigns",
+          "summary": "The PM quits in February amid economic collapse."
+        },
+        {
+          "headline": "Dombrovskis takes charge",
+          "summary": "Valdis Dombrovskis leads an austerity government."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss 2010 World Cup",
+        "summary": "Latvia finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2121000,
+      "fx_lcu_per_usd_annual_avg": 0.5305,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition wins election",
+          "summary": "Dombrovskis's alliance triumphs in October elections."
+        },
+        {
+          "headline": "Austerity shows results",
+          "summary": "The economy returns to growth."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia begin Euro 2012 qualifying",
+        "summary": "Latvia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2075000,
+      "fx_lcu_per_usd_annual_avg": 0.5012,
+      "geopolitical_news": [
+        {
+          "headline": "Zatlers dissolves parliament",
+          "summary": "The president triggers snap elections in May."
+        },
+        {
+          "headline": "Snap election: reformists win",
+          "summary": "Zatlers's new party triumphs in September."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss Euro 2012",
+        "summary": "Latvia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2045000,
+      "fx_lcu_per_usd_annual_avg": 0.5469,
+      "geopolitical_news": [
+        {
+          "headline": "Language referendum fails",
+          "summary": "Voters reject Russian as a second official language."
+        },
+        {
+          "headline": "Latvia's recovery continues",
+          "summary": "Growth returns strongly."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia begin 2014 World Cup qualifying",
+        "summary": "Latvia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2024000,
+      "fx_lcu_per_usd_annual_avg": 0.5294,
+      "geopolitical_news": [
+        {
+          "headline": "Supermarket collapse kills dozens",
+          "summary": "The Zolitde roof disaster kills 54 in November."
+        },
+        {
+          "headline": "Dombrovskis resigns",
+          "summary": "The PM quits over the Riga tragedy."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss 2014 World Cup",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2001000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia adopts the euro",
+          "summary": "The euro replaces the lats in January."
+        },
+        {
+          "headline": "Straujuma becomes PM",
+          "summary": "Laimdota Straujuma forms a government in January."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia begin Euro 2016 qualifying",
+        "summary": "Latvia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1986000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Vejonis elected president",
+          "summary": "Raimonds Vejonis becomes president in June."
+        },
+        {
+          "headline": "Refugee quotas debated",
+          "summary": "Riga reluctantly accepts EU relocation quotas."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss Euro 2016",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1969000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Kucinskis becomes PM",
+          "summary": "Maris Kucinskis forms a coalition in February."
+        },
+        {
+          "headline": "Latvia backs NATO buildup",
+          "summary": "Riga welcomes allied battlegroups."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia begin 2018 World Cup qualifying",
+        "summary": "Latvia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1950000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia's economy grows",
+          "summary": "Strong growth continues."
+        },
+        {
+          "headline": "OECD membership",
+          "summary": "Latvia joins the OECD in 2016-17."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss 2018 World Cup",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1934000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Election: populists surge",
+          "summary": "October elections fragment parliament."
+        },
+        {
+          "headline": "Karins becomes PM",
+          "summary": "Krisjanis Karins forms a broad coalition in January 2019."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia compete in Nations League D",
+        "summary": "Latvia finish second in their League D group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1920000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Karins government takes office",
+          "summary": "A five-party coalition begins work."
+        },
+        {
+          "headline": "Latvia's banking cleanup",
+          "summary": "Riga tackles money laundering after scandals."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia endure dismal Euro qualifying",
+        "summary": "Latvia finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1908000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia manages COVID well",
+          "summary": "Low case numbers mark the first wave."
+        },
+        {
+          "headline": "Economy weathers pandemic",
+          "summary": "EU funds cushion the downturn."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia compete in Nations League D",
+        "summary": "Latvia battle in their League D group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1893000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia's vaccination drive",
+          "summary": "The rollout lags then accelerates."
+        },
+        {
+          "headline": "Belarus border crisis",
+          "summary": "Migrants mass at Latvia's eastern border."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss 2022 World Cup",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1876000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia backs Ukraine strongly",
+          "summary": "Riga gives generously and hosts refugees."
+        },
+        {
+          "headline": "Karins wins re-election",
+          "summary": "October elections keep the PM in office."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia win Nations League promotion",
+        "summary": "Latvia top their League D group to climb up."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1883000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Rinkevics elected president",
+          "summary": "Edgars Rinkevics becomes president in May."
+        },
+        {
+          "headline": "Silina becomes PM",
+          "summary": "Evika Silina forms a new coalition in September."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia miss Euro 2024",
+        "summary": "Latvia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1872000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia boosts defence spending",
+          "summary": "Riga raises military budgets."
+        },
+        {
+          "headline": "Russian media banned",
+          "summary": "Latvia restricts Russian propaganda channels."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia compete in Nations League C",
+        "summary": "Latvia battle in their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1861000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Latvia's coalition holds",
+          "summary": "The Silina government governs steadily."
+        },
+        {
+          "headline": "Baltic grid disconnects from Russia",
+          "summary": "Latvia joins the Baltic split from Russia's power grid."
+        }
+      ],
+      "sport": {
+        "headline": "Latvia chase World Cup qualifying points",
+        "summary": "Latvia compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

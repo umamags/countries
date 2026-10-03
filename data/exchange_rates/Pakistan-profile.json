@@ -1,0 +1,396 @@
+{
+  "country": "Pakistan",
+  "iso3": "PAK",
+  "currency": "PKR",
+  "currency_name": "Pakistani Rupee",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 156810000,
+      "fx_lcu_per_usd_annual_avg": 60.2713,
+      "geopolitical_news": [
+        {
+          "headline": "Musharraf's grip slips",
+          "summary": "The general faces judicial and opposition challenges."
+        },
+        {
+          "headline": "Bugti killed",
+          "summary": "The Baloch leader's death sparks provincial fury."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket controversies",
+        "summary": "The Oval forfeit row rocks Pakistan cricket."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 160670000,
+      "fx_lcu_per_usd_annual_avg": 60.7385,
+      "geopolitical_news": [
+        {
+          "headline": "Bhutto assassinated",
+          "summary": "Benazir Bhutto is killed at a Rawalpindi rally in December."
+        },
+        {
+          "headline": "Emergency rule",
+          "summary": "Musharraf suspends the constitution in November."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup final",
+        "summary": "Pakistan lose the inaugural World T20 final to India."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 164630000,
+      "fx_lcu_per_usd_annual_avg": 70.408,
+      "geopolitical_news": [
+        {
+          "headline": "PPP wins election",
+          "summary": "February polls bring Bhutto's party to power."
+        },
+        {
+          "headline": "Musharraf resigns",
+          "summary": "The president quits under impeachment threat."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy moved",
+        "summary": "Security fears shift the tournament from Pakistan."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 168690000,
+      "fx_lcu_per_usd_annual_avg": 81.7129,
+      "geopolitical_news": [
+        {
+          "headline": "Sri Lanka team attacked",
+          "summary": "Gunmen attack cricketers in Lahore; Pakistan is isolated."
+        },
+        {
+          "headline": "Swat offensive",
+          "summary": "The army retakes the valley from the Taliban."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup champions",
+        "summary": "Pakistan win the World Twenty20 in England."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 172860000,
+      "fx_lcu_per_usd_annual_avg": 85.1938,
+      "geopolitical_news": [
+        {
+          "headline": "Floods devastate",
+          "summary": "The worst floods in memory affect millions."
+        },
+        {
+          "headline": "Spot-fixing scandal",
+          "summary": "Pakistani cricketers are caught in a betting sting."
+        }
+      ],
+      "sport": {
+        "headline": "Spot-fixing shame",
+        "summary": "Three players are banned and later jailed."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 177130000,
+      "fx_lcu_per_usd_annual_avg": 86.3434,
+      "geopolitical_news": [
+        {
+          "headline": "Bin Laden killed",
+          "summary": "US commandos kill the al-Qaeda chief in Abbottabad."
+        },
+        {
+          "headline": "US-Pakistan crisis",
+          "summary": "The raid humiliates the military."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup semifinal",
+        "summary": "Pakistan lose to India in the Mohali semifinal."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 181520000,
+      "fx_lcu_per_usd_annual_avg": 93.3952,
+      "geopolitical_news": [
+        {
+          "headline": "NATO routes reopen",
+          "summary": "Pakistan ends its blockade after a US apology."
+        },
+        {
+          "headline": "Malala shot",
+          "summary": "The schoolgirl activist survives a Taliban attack."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup triumph",
+        "summary": "Pakistan win the Asia Cup in Mirpur."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 186010000,
+      "fx_lcu_per_usd_annual_avg": 101.6289,
+      "geopolitical_news": [
+        {
+          "headline": "Sharif wins election",
+          "summary": "Nawaz Sharif returns as PM in May polls."
+        },
+        {
+          "headline": "Historic transfer",
+          "summary": "Pakistan's first civilian-to-civilian handover."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy",
+        "summary": "Pakistan compete at the Champions Trophy in England."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 190620000,
+      "fx_lcu_per_usd_annual_avg": 101.1001,
+      "geopolitical_news": [
+        {
+          "headline": "PTI protests",
+          "summary": "Imran Khan's sit-in paralyzes Islamabad."
+        },
+        {
+          "headline": "Peshawar school massacre",
+          "summary": "Taliban gunmen kill over 140, mostly children."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Pakistani athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 195350000,
+      "fx_lcu_per_usd_annual_avg": 102.7693,
+      "geopolitical_news": [
+        {
+          "headline": "Executions resume",
+          "summary": "A moratorium ends after the Peshawar attack."
+        },
+        {
+          "headline": "CPEC launched",
+          "summary": "China's corridor projects begin."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarterfinal",
+        "summary": "Pakistan reach the Cricket World Cup quarterfinals."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 200190000,
+      "fx_lcu_per_usd_annual_avg": 104.7691,
+      "geopolitical_news": [
+        {
+          "headline": "Uri fallout",
+          "summary": "Kashmir tensions spike after the attack in India."
+        },
+        {
+          "headline": "Quetta attacks",
+          "summary": "Militants strike lawyers and cadets."
+        }
+      ],
+      "sport": {
+        "headline": "Olympics without medals",
+        "summary": "Pakistan's athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 205170000,
+      "fx_lcu_per_usd_annual_avg": 105.4552,
+      "geopolitical_news": [
+        {
+          "headline": "Sharif disqualified",
+          "summary": "The PM is ousted over the Panama Papers."
+        },
+        {
+          "headline": "New PM",
+          "summary": "Shahid Khaqan Abbasi takes over."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy win",
+        "summary": "Pakistan stun India to win the Champions Trophy."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 209750000,
+      "fx_lcu_per_usd_annual_avg": 121.8241,
+      "geopolitical_news": [
+        {
+          "headline": "Imran Khan wins",
+          "summary": "The PTI takes July elections amid rigging claims."
+        },
+        {
+          "headline": "Khan becomes PM",
+          "summary": "The cricket star reaches the top office."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup campaign",
+        "summary": "Pakistan exit the Asia Cup in the Super Four."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 213950000,
+      "fx_lcu_per_usd_annual_avg": 150.0363,
+      "geopolitical_news": [
+        {
+          "headline": "Pulwama-Balakot crisis",
+          "summary": "India bombs inside Pakistan; a pilot is captured and freed."
+        },
+        {
+          "headline": "Kashmir tensions",
+          "summary": "India's Article 370 move enrages Islamabad."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup campaign",
+        "summary": "Pakistan narrowly miss the World Cup semifinals."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 218240000,
+      "fx_lcu_per_usd_annual_avg": 161.8385,
+      "geopolitical_news": [
+        {
+          "headline": "COVID toll",
+          "summary": "The pandemic strains the health system."
+        },
+        {
+          "headline": "PIA crash",
+          "summary": "A Karachi crash kills nearly 100."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket in England",
+        "summary": "Pakistan tour England in the bio-secure summer."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 222590000,
+      "fx_lcu_per_usd_annual_avg": 162.9063,
+      "geopolitical_news": [
+        {
+          "headline": "Afghan fallout",
+          "summary": "The Taliban victory reshapes Pakistan's security calculus."
+        },
+        {
+          "headline": "TLP protests",
+          "summary": "Deadly Islamist rallies rock cities."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup semifinal",
+        "summary": "Pakistan beat India, then lose the semifinal to Australia."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 227000000,
+      "fx_lcu_per_usd_annual_avg": 204.8672,
+      "geopolitical_news": [
+        {
+          "headline": "Khan ousted",
+          "summary": "A no-confidence vote removes the PM in April."
+        },
+        {
+          "headline": "Floods devastate",
+          "summary": "Catastrophic floods submerge a third of the country."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup final",
+        "summary": "Pakistan lose the final to England in Melbourne."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 231450000,
+      "fx_lcu_per_usd_annual_avg": 280.3561,
+      "geopolitical_news": [
+        {
+          "headline": "Khan arrested",
+          "summary": "The ex-PM's detention sparks nationwide riots."
+        },
+        {
+          "headline": "May 9 crackdown",
+          "summary": "The military crushes PTI protests."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup hosted",
+        "summary": "Pakistan co-host the Asia Cup with Sri Lanka."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 235950000,
+      "fx_lcu_per_usd_annual_avg": 278.5807,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election",
+          "summary": "February polls favour the military-backed PML-N."
+        },
+        {
+          "headline": "Sharif's brother PM",
+          "summary": "Shehbaz Sharif forms a coalition government."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup shock",
+        "summary": "Pakistan lose to the USA and exit early."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 240490000,
+      "fx_lcu_per_usd_annual_avg": 281.143,
+      "geopolitical_news": [
+        {
+          "headline": "India-Pakistan clash",
+          "summary": "May strikes trigger a four-day military confrontation."
+        },
+        {
+          "headline": "Khan still jailed",
+          "summary": "The ex-PM remains imprisoned as PTI protests."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy hosted",
+        "summary": "Pakistan stage the Champions Trophy."
+      }
+    }
+  ]
+}

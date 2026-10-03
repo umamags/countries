@@ -1,0 +1,396 @@
+{
+  "country": "Taiwan",
+  "iso3": null,
+  "currency": "TWD",
+  "currency_name": "Taiwan Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 32.5309,
+      "geopolitical_news": [
+        {
+          "headline": "Chen under pressure",
+          "summary": "Corruption scandals besiege the president."
+        },
+        {
+          "headline": "Red Shirt protests",
+          "summary": "Mass rallies demand Chen Shui-bian's ouster."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Taiwanese athletes compete as Chinese Taipei."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 32.8515,
+      "geopolitical_news": [
+        {
+          "headline": "UN referendum push",
+          "summary": "Chen promotes a UN membership referendum."
+        },
+        {
+          "headline": "Beijing's ire",
+          "summary": "China condemns the referendum drive."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball World Cup",
+        "summary": "Taiwan's baseball team competes internationally."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 31.5397,
+      "geopolitical_news": [
+        {
+          "headline": "Ma elected president",
+          "summary": "Ma Ying-jeou wins, promising China détente."
+        },
+        {
+          "headline": "Chen jailed",
+          "summary": "The ex-president is detained on graft charges."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Chinese Taipei athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 33.0371,
+      "geopolitical_news": [
+        {
+          "headline": "Typhoon Morakot",
+          "summary": "The storm kills hundreds in the south."
+        },
+        {
+          "headline": "China thaw",
+          "summary": "Direct flights and trade deals begin."
+        }
+      ],
+      "sport": {
+        "headline": "World Games hosted",
+        "summary": "Kaohsiung stages the World Games."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 31.5289,
+      "geopolitical_news": [
+        {
+          "headline": "ECFA signed",
+          "summary": "A landmark trade pact with China is sealed."
+        },
+        {
+          "headline": "Opposition fears",
+          "summary": "The DPP warns of overdependence."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Taiwanese athletes medal in China."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 29.4017,
+      "geopolitical_news": [
+        {
+          "headline": "Centenary",
+          "summary": "The ROC marks 100 years."
+        },
+        {
+          "headline": "Election looms",
+          "summary": "Ma faces Tsai Ing-wen."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball World Cup",
+        "summary": "Taiwan's team competes in the Baseball World Cup."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 29.58,
+      "geopolitical_news": [
+        {
+          "headline": "Ma re-elected",
+          "summary": "The president wins a second term in January."
+        },
+        {
+          "headline": "China ties deepen",
+          "summary": "Cross-strait trade grows."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Chinese Taipei athletes medal in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 29.6887,
+      "geopolitical_news": [
+        {
+          "headline": "Ma's popularity slumps",
+          "summary": "Scandals and slow growth hurt the president."
+        },
+        {
+          "headline": "Wang Jin-pyng row",
+          "summary": "A political feud paralyzes the legislature."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball Classic",
+        "summary": "Taiwan compete at the World Baseball Classic."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 30.3094,
+      "geopolitical_news": [
+        {
+          "headline": "Sunflower Movement",
+          "summary": "Students occupy parliament over a China trade bill."
+        },
+        {
+          "headline": "KMT routed",
+          "summary": "Local elections punish the ruling party."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Taiwanese athletes medal in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 31.7697,
+      "geopolitical_news": [
+        {
+          "headline": "Ma-Xi meeting",
+          "summary": "The leaders meet in Singapore, a historic first."
+        },
+        {
+          "headline": "Election shift",
+          "summary": "The DPP heads for victory."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball Premier12",
+        "summary": "Taiwan compete in the WBSC Premier12."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 32.2404,
+      "geopolitical_news": [
+        {
+          "headline": "Tsai elected",
+          "summary": "Tsai Ing-wen becomes Taiwan's first female president."
+        },
+        {
+          "headline": "China freezes ties",
+          "summary": "Beijing suspends official contact."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Chinese Taipei athletes medal in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 30.4334,
+      "geopolitical_news": [
+        {
+          "headline": "Trump-Tsai call",
+          "summary": "The US president-elect speaks with Tsai."
+        },
+        {
+          "headline": "Beijing's fury",
+          "summary": "China protests the breach of protocol."
+        }
+      ],
+      "sport": {
+        "headline": "Universiade hosted",
+        "summary": "Taipei stages the Summer Universiade."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 30.159,
+      "geopolitical_news": [
+        {
+          "headline": "DPP routed",
+          "summary": "Local elections punish the ruling party."
+        },
+        {
+          "headline": "Referendums",
+          "summary": "Voters reject same-sex marriage in polls."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Taiwanese athletes win medals in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 30.9134,
+      "geopolitical_news": [
+        {
+          "headline": "Same-sex marriage legalized",
+          "summary": "Taiwan becomes the first in Asia to allow it."
+        },
+        {
+          "headline": "Hong Kong solidarity",
+          "summary": "Taiwan backs the city's protesters."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball Premier12",
+        "summary": "Taiwan host and compete in the Premier12."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 29.6673,
+      "geopolitical_news": [
+        {
+          "headline": "Tsai re-elected",
+          "summary": "A landslide January win follows Hong Kong's unrest."
+        },
+        {
+          "headline": "COVID success",
+          "summary": "Taiwan's response wins global praise."
+        }
+      ],
+      "sport": {
+        "headline": "Baseball season played",
+        "summary": "Taiwan's baseball league plays on amid COVID."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID wave",
+          "summary": "A May outbreak ends the virus-free run."
+        },
+        {
+          "headline": "Lithuania row",
+          "summary": "A Taiwan office in Vilnius angers Beijing."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Chinese Taipei win medals in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pelosi visits",
+          "summary": "The US Speaker's trip triggers Chinese military drills."
+        },
+        {
+          "headline": "Strait tensions",
+          "summary": "Beijing's exercises encircle the island."
+        }
+      ],
+      "sport": {
+        "headline": "World Games",
+        "summary": "Taiwanese athletes compete in Birmingham."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tsai meets McCarthy",
+          "summary": "The president meets the US Speaker in California."
+        },
+        {
+          "headline": "Chinese drills",
+          "summary": "Beijing stages more exercises."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Hangzhou",
+        "summary": "Taiwanese athletes medal in China."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Lai elected",
+          "summary": "Lai Ching-te wins the January presidency."
+        },
+        {
+          "headline": "Chinese pressure",
+          "summary": "Beijing holds drills after the inauguration."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Lin Yu-ting wins boxing gold amid a gender row."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "US tariff tensions",
+          "summary": "Washington's duties hit Taiwan's exporters."
+        },
+        {
+          "headline": "Cross-strait freeze",
+          "summary": "Beijing keeps military pressure high."
+        }
+      ],
+      "sport": {
+        "headline": "World Baseball Classic",
+        "summary": "Taiwan compete at the World Baseball Classic."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Moldova",
+  "iso3": "MDA",
+  "currency": "MDL",
+  "currency_name": "Moldovan Leu",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2890000,
+      "fx_lcu_per_usd_annual_avg": 13.1311,
+      "geopolitical_news": [
+        {
+          "headline": "Voronin consolidates power",
+          "summary": "The communist president dominates politics."
+        },
+        {
+          "headline": "Wine ban hurts economy",
+          "summary": "Russia's embargo on Moldovan wine bites."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss Euro 2008 qualifying hopes",
+        "summary": "Moldova struggle in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2883000,
+      "fx_lcu_per_usd_annual_avg": 12.1399,
+      "geopolitical_news": [
+        {
+          "headline": "Moldova-EU ties cool",
+          "summary": "Relations with Brussels stagnate under Voronin."
+        },
+        {
+          "headline": "Transnistria deadlock persists",
+          "summary": "The frozen conflict remains unresolved."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss Euro 2008",
+        "summary": "Moldova finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2879000,
+      "fx_lcu_per_usd_annual_avg": 10.392,
+      "geopolitical_news": [
+        {
+          "headline": "Moldova weathers crisis",
+          "summary": "The economy proves relatively resilient."
+        },
+        {
+          "headline": "Election tensions build",
+          "summary": "The opposition prepares to challenge the communists."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova begin World Cup qualifying",
+        "summary": "Moldova open their 2010 campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2876000,
+      "fx_lcu_per_usd_annual_avg": 11.1096,
+      "geopolitical_news": [
+        {
+          "headline": "'Twitter revolution' protests",
+          "summary": "April election protests turn violent in Chisinau."
+        },
+        {
+          "headline": "Pro-EU alliance takes power",
+          "summary": "July elections bring a liberal coalition to office."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss 2010 World Cup",
+        "summary": "Moldova finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2873000,
+      "fx_lcu_per_usd_annual_avg": 12.3693,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum fails",
+          "summary": "A September vote on electing the president flops."
+        },
+        {
+          "headline": "Alliance wins election",
+          "summary": "November elections keep the pro-EU coalition in power."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova begin Euro 2012 qualifying",
+        "summary": "Moldova open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2873000,
+      "fx_lcu_per_usd_annual_avg": 11.7386,
+      "geopolitical_news": [
+        {
+          "headline": "Presidential deadlock",
+          "summary": "Parliament repeatedly fails to elect a president."
+        },
+        {
+          "headline": "EU talks advance",
+          "summary": "Association agreement negotiations progress."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss Euro 2012",
+        "summary": "Moldova finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2873000,
+      "fx_lcu_per_usd_annual_avg": 12.1114,
+      "geopolitical_news": [
+        {
+          "headline": "Timofti elected president",
+          "summary": "Nicolae Timofti ends the deadlock in March."
+        },
+        {
+          "headline": "Moldova-EU ties deepen",
+          "summary": "Brussels engagement intensifies."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova begin World Cup qualifying",
+        "summary": "Moldova open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2871000,
+      "fx_lcu_per_usd_annual_avg": 12.5868,
+      "geopolitical_news": [
+        {
+          "headline": "Leanca becomes PM",
+          "summary": "Iurie Leanca forms a pro-EU government in May."
+        },
+        {
+          "headline": "Russia pressures Moldova",
+          "summary": "Moscow warns against the EU association deal."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss 2014 World Cup",
+        "summary": "Moldova finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2869000,
+      "fx_lcu_per_usd_annual_avg": 14.0356,
+      "geopolitical_news": [
+        {
+          "headline": "Moldova signs EU association deal",
+          "summary": "The agreement is signed in June."
+        },
+        {
+          "headline": "$1 billion bank fraud exposed",
+          "summary": "A massive banking theft shocks the country in November."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova begin Euro 2016 qualifying",
+        "summary": "Moldova open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2845000,
+      "fx_lcu_per_usd_annual_avg": 18.8185,
+      "geopolitical_news": [
+        {
+          "headline": "Bank fraud protests erupt",
+          "summary": "Mass demonstrations demand accountability."
+        },
+        {
+          "headline": "Governments come and go",
+          "summary": "Three cabinets fall in a turbulent year."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss Euro 2016",
+        "summary": "Moldova finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2824000,
+      "fx_lcu_per_usd_annual_avg": 19.9238,
+      "geopolitical_news": [
+        {
+          "headline": "Dodon wins presidency",
+          "summary": "Pro-Russian Igor Dodon triumphs in November."
+        },
+        {
+          "headline": "Moldova torn east-west",
+          "summary": "The vote highlights the country's divisions."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova begin World Cup qualifying",
+        "summary": "Moldova open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2780000,
+      "fx_lcu_per_usd_annual_avg": 18.499,
+      "geopolitical_news": [
+        {
+          "headline": "Dodon courts Moscow",
+          "summary": "The president seeks closer Russian ties."
+        },
+        {
+          "headline": "EU aid conditional",
+          "summary": "Brussels ties support to reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss 2018 World Cup",
+        "summary": "Moldova finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2730000,
+      "fx_lcu_per_usd_annual_avg": 16.8021,
+      "geopolitical_news": [
+        {
+          "headline": "Plahotniuc dominates politics",
+          "summary": "The oligarch's influence pervades the state."
+        },
+        {
+          "headline": "EU freezes aid",
+          "summary": "Brussels suspends support over democratic backsliding."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova compete in Nations League D",
+        "summary": "Moldova battle in their League D group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2685000,
+      "fx_lcu_per_usd_annual_avg": 17.5735,
+      "geopolitical_news": [
+        {
+          "headline": "Sandu becomes PM, then ousted",
+          "summary": "Maia Sandu briefly leads a reform government."
+        },
+        {
+          "headline": "Plahotniuc flees",
+          "summary": "The oligarch leaves the country in June."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss Euro 2020",
+        "summary": "Moldova finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2644000,
+      "fx_lcu_per_usd_annual_avg": 17.3218,
+      "geopolitical_news": [
+        {
+          "headline": "Sandu wins presidency",
+          "summary": "Maia Sandu defeats Dodon in November."
+        },
+        {
+          "headline": "Pro-EU turn",
+          "summary": "The vote signals a westward shift."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova compete in Nations League",
+        "summary": "Moldova battle in their group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2627000,
+      "fx_lcu_per_usd_annual_avg": 17.6805,
+      "geopolitical_news": [
+        {
+          "headline": "PAS wins snap election",
+          "summary": "Sandu's party triumphs in July elections."
+        },
+        {
+          "headline": "Reform government formed",
+          "summary": "A pro-EU cabinet takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova miss 2022 World Cup",
+        "summary": "Moldova finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2565000,
+      "fx_lcu_per_usd_annual_avg": 18.8972,
+      "geopolitical_news": [
+        {
+          "headline": "Moldova gains EU candidate status",
+          "summary": "Brussels awards candidacy in June."
+        },
+        {
+          "headline": "Energy crisis bites",
+          "summary": "Gazprom cuts gas supplies in winter."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova win Nations League promotion",
+        "summary": "Moldova top their League D group to climb up."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2492000,
+      "fx_lcu_per_usd_annual_avg": 18.1639,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-EU course holds",
+          "summary": "Chisinau pushes reforms toward Brussels."
+        },
+        {
+          "headline": "Russian destabilisation feared",
+          "summary": "Moldova warns of Moscow-backed plots."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova stun Poland in qualifier",
+        "summary": "A 3-2 comeback win is a famous Euro qualifying upset."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2423000,
+      "fx_lcu_per_usd_annual_avg": 17.7919,
+      "geopolitical_news": [
+        {
+          "headline": "Sandu re-elected",
+          "summary": "The president wins October's runoff."
+        },
+        {
+          "headline": "EU referendum passes narrowly",
+          "summary": "Voters back EU membership by a whisker."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova compete in Nations League C",
+        "summary": "Moldova battle in their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2381000,
+      "fx_lcu_per_usd_annual_avg": 17.3778,
+      "geopolitical_news": [
+        {
+          "headline": "PAS wins parliamentary election",
+          "summary": "September elections keep the pro-EU party in power."
+        },
+        {
+          "headline": "Moldova's EU path advances",
+          "summary": "Accession talks edge forward."
+        }
+      ],
+      "sport": {
+        "headline": "Moldova endure tough World Cup qualifying",
+        "summary": "Moldova struggle in their qualifying group."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Syria",
+  "iso3": "SYR",
+  "currency": "SYP",
+  "currency_name": "Syrian Pound",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 19596000,
+      "fx_lcu_per_usd_annual_avg": 11.225,
+      "geopolitical_news": [
+        {
+          "headline": "Hariri tribunal",
+          "summary": "International pressure over the Lebanon assassination grows."
+        },
+        {
+          "headline": "Iraq ties",
+          "summary": "Damascus restores relations with Baghdad."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Syria contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 20083000,
+      "fx_lcu_per_usd_annual_avg": 11.225,
+      "geopolitical_news": [
+        {
+          "headline": "Israeli reactor strike",
+          "summary": "Jets destroy a suspected nuclear site."
+        },
+        {
+          "headline": "Bush isolated",
+          "summary": "Damascus deepens ties with Iran."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Syrian footballers contest qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 20581000,
+      "fx_lcu_per_usd_annual_avg": 11.225,
+      "geopolitical_news": [
+        {
+          "headline": "Damascus car bombing",
+          "summary": "A September blast kills civilians."
+        },
+        {
+          "headline": "French thaw",
+          "summary": "Sarkozy visits, ending isolation."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Syrian athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 21092000,
+      "fx_lcu_per_usd_annual_avg": 11.225,
+      "geopolitical_news": [
+        {
+          "headline": "US engagement",
+          "summary": "Obama sends an envoy to Damascus."
+        },
+        {
+          "headline": "Iraq bombings row",
+          "summary": "Baghdad accuses Syria of harbouring militants."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Syria contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 21393000,
+      "fx_lcu_per_usd_annual_avg": 11.225,
+      "geopolitical_news": [
+        {
+          "headline": "Assad's standing",
+          "summary": "The president is courted by the West."
+        },
+        {
+          "headline": "Drought",
+          "summary": "Years of drought displace farmers."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Syrian athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 48.3367,
+      "geopolitical_news": [
+        {
+          "headline": "Uprising begins",
+          "summary": "March protests in Daraa are met with gunfire."
+        },
+        {
+          "headline": "Crackdown",
+          "summary": "The regime's violence escalates into civil war."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Syria exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 64.5808,
+      "geopolitical_news": [
+        {
+          "headline": "Civil war rages",
+          "summary": "Aleppo and Damascus see heavy fighting."
+        },
+        {
+          "headline": "Houla massacre",
+          "summary": "Over 100 civilians are killed in May."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Syrian athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 108.7333,
+      "geopolitical_news": [
+        {
+          "headline": "Ghouta chemical attack",
+          "summary": "Sarin kills hundreds; the US threatens strikes."
+        },
+        {
+          "headline": "Deal averts strikes",
+          "summary": "Syria agrees to give up chemical weapons."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Syria's qualifying campaign proceeds amid war."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 154.13,
+      "geopolitical_news": [
+        {
+          "headline": "ISIS rises",
+          "summary": "The militants seize Raqqa and eastern Syria."
+        },
+        {
+          "headline": "Assad re-elected",
+          "summary": "June polls return him amid the war."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Syrian athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 237.0292,
+      "geopolitical_news": [
+        {
+          "headline": "Russia intervenes",
+          "summary": "Moscow's air campaign saves Assad in September."
+        },
+        {
+          "headline": "Refugee exodus",
+          "summary": "Millions flee to Turkey, Lebanon and Europe."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Syria contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 460.2758,
+      "geopolitical_news": [
+        {
+          "headline": "Aleppo falls",
+          "summary": "Regime forces retake the city in December."
+        },
+        {
+          "headline": "Siege starvation",
+          "summary": "Besieged towns face famine."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Syrian athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 492.6108,
+      "geopolitical_news": [
+        {
+          "headline": "US strikes Shayrat",
+          "summary": "Trump bombs the airbase after a chemical attack."
+        },
+        {
+          "headline": "Raqqa liberated",
+          "summary": "Kurdish-led forces oust ISIS."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup playoff",
+        "summary": "Syria narrowly miss the World Cup, losing to Australia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 436.5,
+      "geopolitical_news": [
+        {
+          "headline": "Ghouta retaken",
+          "summary": "The regime captures the rebel enclave."
+        },
+        {
+          "headline": "Douma chemical claims",
+          "summary": "Western strikes follow alleged gas use."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Syrian athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 436.5,
+      "geopolitical_news": [
+        {
+          "headline": "Baghouz falls",
+          "summary": "ISIS loses its last territory."
+        },
+        {
+          "headline": "Turkey invades north",
+          "summary": "Ankara seizes border areas from Kurds."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Syria exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 877.9453,
+      "geopolitical_news": [
+        {
+          "headline": "Idlib offensive",
+          "summary": "Regime forces advance; Turkey intervenes."
+        },
+        {
+          "headline": "Caesar sanctions",
+          "summary": "US penalties crush the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Syrian football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1256,
+      "geopolitical_news": [
+        {
+          "headline": "Assad re-elected",
+          "summary": "May polls extend his rule."
+        },
+        {
+          "headline": "Economic collapse",
+          "summary": "The pound crashes; poverty soars."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Syrian athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 2505.7469,
+      "geopolitical_news": [
+        {
+          "headline": "Arab normalization",
+          "summary": "Regional states re-engage Damascus."
+        },
+        {
+          "headline": "Ukraine stance",
+          "summary": "Syria backs Russia's invasion."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Syria contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Arab League return",
+          "summary": "Syria is readmitted in May."
+        },
+        {
+          "headline": "Earthquake",
+          "summary": "The February quake kills thousands in the north."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Syria reach the Asian Cup knockouts."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Assad falls",
+          "summary": "Rebels seize Damascus in December; Assad flees to Russia."
+        },
+        {
+          "headline": "New era",
+          "summary": "HTS-led forces take power."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Syrian athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Sharaa takes charge",
+          "summary": "The interim president consolidates power."
+        },
+        {
+          "headline": "Sanctions lifted",
+          "summary": "Western penalties are eased."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Syria contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

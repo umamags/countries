@@ -1,0 +1,396 @@
+{
+  "country": "American Samoa",
+  "iso3": null,
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "Fixed at 1.0 (US dollar)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Togiola Tulafono's administration continues",
+          "summary": "The governor's government focused on economic development and federal relations."
+        },
+        {
+          "headline": "Tuna canneries anchor the economy",
+          "summary": "The canning industry remained the territory's largest private employer."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's athletes at Melbourne Games",
+        "summary": "The territory's team competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Tulafono administration pursues federal funds",
+          "summary": "The government lobbied Washington for infrastructure investment."
+        },
+        {
+          "headline": "Minimum wage debate heats up",
+          "summary": "US-mandated wage hikes threatened the tuna canning industry."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Apia Pacific Games",
+        "summary": "The territory's athletes competed in neighbouring Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Tulafono re-elected governor",
+          "summary": "The governor won a second term in the November election."
+        },
+        {
+          "headline": "Cannery closures loom",
+          "summary": "Rising costs pushed tuna processors toward shutting Pago Pago plants."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's team at Beijing Olympics",
+        "summary": "The territory's athletes competed in athletics and judo."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Tsunami devastates American Samoa",
+          "summary": "The September tsunami killed over 30 people and wrecked Pago Pago."
+        },
+        {
+          "headline": "Federal disaster aid pours in",
+          "summary": "Washington declared a major disaster, unlocking reconstruction funds."
+        }
+      ],
+      "sport": {
+        "headline": "Tsunami disrupts sporting life",
+        "summary": "The disaster damaged facilities across the territory."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Tsunami recovery continues",
+          "summary": "Rebuilding homes and infrastructure dominated the government's agenda."
+        },
+        {
+          "headline": "Chicken of the Sea cannery closes",
+          "summary": "The plant shutdown cost the territory hundreds of jobs."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Delhi Commonwealth Games",
+        "summary": "The territory does not compete at the Commonwealth Games; athletes focused on regional events."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Tulafono's final year in office",
+          "summary": "The governor prepared to leave after two terms."
+        },
+        {
+          "headline": "Economy struggles after cannery closure",
+          "summary": "Job losses and federal aid debates shaped the political agenda."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's first-ever football win",
+        "summary": "The national team beat Tonga 2-1 for its maiden international victory."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Lolo Matalasi Moliga elected governor",
+          "summary": "Moliga won the November gubernatorial election."
+        },
+        {
+          "headline": "New administration faces economic woes",
+          "summary": "The incoming government inherited high unemployment and debt."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's athletes at London Olympics",
+        "summary": "The territory's small team competed in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Moliga administration settles in",
+          "summary": "The new government pursued federal grants and fiscal reforms."
+        },
+        {
+          "headline": "StarKist cannery remains economic pillar",
+          "summary": "The last tuna plant stayed open amid wage pressures."
+        }
+      ],
+      "sport": {
+        "headline": "'Next Goal Wins' documentary released",
+        "summary": "The film chronicled American Samoa's football team and its famous 2011 win."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "American Samoa hosts regional talks",
+          "summary": "Pacific officials met in Pago Pago on fisheries and development."
+        },
+        {
+          "headline": "Federal funding disputes continue",
+          "summary": "The territory pressed Washington for Medicaid and infrastructure parity."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Glasgow events",
+        "summary": "The territory's athletes competed in regional competitions."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Moliga administration mid-term review",
+          "summary": "The government touted infrastructure projects and fiscal discipline."
+        },
+        {
+          "headline": "Climate change threatens the territory",
+          "summary": "Rising seas and stronger storms worried the low-lying islands."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Port Moresby Pacific Games",
+        "summary": "The territory's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Moliga re-elected governor",
+          "summary": "The governor won a second term in the November election."
+        },
+        {
+          "headline": "Tuna industry stabilises",
+          "summary": "StarKist's continued operation steadied the fragile economy."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's athletes at Rio Olympics",
+        "summary": "The territory's small team competed in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Moliga's second term begins",
+          "summary": "The governor outlined infrastructure and health priorities."
+        },
+        {
+          "headline": "Tropical storms test recovery",
+          "summary": "Seasonal cyclones battered the territory's infrastructure."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Pacific Mini Games",
+        "summary": "The territory's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "American Samoa's LBJ hospital crisis",
+          "summary": "The territory's only hospital faced funding and staffing shortages."
+        },
+        {
+          "headline": "Federal aid negotiations continue",
+          "summary": "Pago Pago lobbied for better Medicaid funding from Washington."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's footballers in qualifying",
+        "summary": "The national team contested Oceania World Cup qualifiers."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Moliga's final year; succession looms",
+          "summary": "Candidates lined up for the 2020 gubernatorial election."
+        },
+        {
+          "headline": "Measles vaccination drive",
+          "summary": "The territory immunised widely as measles spread through the Pacific."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Lemanu Peleti Mauga elected governor",
+          "summary": "Mauga won the November election to succeed Moliga."
+        },
+        {
+          "headline": "American Samoa stays largely COVID-free",
+          "summary": "Strict border controls kept the virus out through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the territory's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Mauga takes office",
+          "summary": "The new governor pledged economic recovery and better healthcare."
+        },
+        {
+          "headline": "American Samoa records COVID cases",
+          "summary": "The virus eventually reached the territory."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's athletes at Tokyo Olympics",
+        "summary": "The territory's small team competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Mauga administration pursues federal funds",
+          "summary": "The government sought infrastructure money from Washington."
+        },
+        {
+          "headline": "Tuna industry faces headwinds",
+          "summary": "Global competition pressured the StarKist cannery."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's footballers in regional play",
+        "summary": "The national team contested Oceania competitions."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "American Samoa's Medicaid funding debated",
+          "summary": "The territory pressed Congress for funding parity with states."
+        },
+        {
+          "headline": "Infrastructure projects advance",
+          "summary": "Federal money funded roads, port and hospital upgrades."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa at Honiara Pacific Games",
+        "summary": "The territory's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Pula Nikolao Pula elected governor",
+          "summary": "Pula won the November gubernatorial election."
+        },
+        {
+          "headline": "New administration takes shape",
+          "summary": "The incoming government prepared its policy agenda."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's athletes at Paris Olympics",
+        "summary": "The territory's small team competed in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Pula administration begins",
+          "summary": "The new governor took office in January."
+        },
+        {
+          "headline": "American Samoa pursues economic diversification",
+          "summary": "The government sought investment beyond tuna canning."
+        }
+      ],
+      "sport": {
+        "headline": "American Samoa's footballers chase regional honours",
+        "summary": "The national team continued competing in Oceania tournaments."
+      }
+    }
+  ]
+}

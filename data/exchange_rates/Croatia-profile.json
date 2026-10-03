@@ -1,0 +1,397 @@
+{
+  "country": "Croatia",
+  "iso3": "HRV",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "currency_note": "Kuna (HRK) until Dec 2022; Euro (EUR) from Jan 2023 — FX series switches currency in 2023.",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average, accessed Oct 2026); post euro-adoption years use ECB reference rates via Frankfurter"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4311000,
+      "fx_lcu_per_usd_annual_avg": 5.8378,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia advances EU talks",
+          "summary": "Accession negotiations with the EU progress steadily."
+        },
+        {
+          "headline": "Croatia-Slovenia border row simmers",
+          "summary": "The Piran Bay dispute with Slovenia strains relations."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit World Cup in group stage",
+        "summary": "Croatia bow out in Germany after the infamous three-yellow-card match."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 4310000,
+      "fx_lcu_per_usd_annual_avg": 5.3645,
+      "geopolitical_news": [
+        {
+          "headline": "HDZ wins parliamentary election",
+          "summary": "Ivo Sanader's party triumphs in November elections."
+        },
+        {
+          "headline": "Sanader forms new government",
+          "summary": "The HDZ leader secures a second term as prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia knock England out of Euro 2008",
+        "summary": "A 3-2 win at Wembley denies England a finals place."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4310000,
+      "fx_lcu_per_usd_annual_avg": 4.935,
+      "geopolitical_news": [
+        {
+          "headline": "Slovenia blocks Croatia's EU talks",
+          "summary": "Ljubljana vetoes negotiating chapters over the border dispute."
+        },
+        {
+          "headline": "Journalist Pukanic murdered",
+          "summary": "Investigative reporter Ivo Pukanic dies in an October car bombing."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey end Croatia's Euro 2008 run",
+        "summary": "Croatia lose a dramatic quarter-final on penalties."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4305000,
+      "fx_lcu_per_usd_annual_avg": 5.2839,
+      "geopolitical_news": [
+        {
+          "headline": "Sanader abruptly resigns",
+          "summary": "The prime minister quits suddenly in July."
+        },
+        {
+          "headline": "Kosor becomes first female PM",
+          "summary": "Jadranka Kosor succeeds Sanader as prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia miss 2010 World Cup",
+        "summary": "Croatia finish third behind England and Ukraine."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4295000,
+      "fx_lcu_per_usd_annual_avg": 5.498,
+      "geopolitical_news": [
+        {
+          "headline": "Sanader arrested in corruption probe",
+          "summary": "The former PM is detained in December over graft allegations."
+        },
+        {
+          "headline": "Border deal unblocks EU talks",
+          "summary": "An arbitration agreement with Slovenia revives accession negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia reach Euro 2012 playoff",
+        "summary": "Croatia finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4281000,
+      "fx_lcu_per_usd_annual_avg": 5.3439,
+      "geopolitical_news": [
+        {
+          "headline": "Gotovina convicted at The Hague",
+          "summary": "The wartime general is sentenced to 24 years in April."
+        },
+        {
+          "headline": "Centre-left wins election",
+          "summary": "Zoran Milanovic's coalition triumphs in December elections."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia qualify for Euro 2012",
+        "summary": "Croatia beat Turkey in the playoffs to reach the finals."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 4260000,
+      "fx_lcu_per_usd_annual_avg": 5.8503,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia ratifies EU accession treaty",
+          "summary": "Parliament approves the treaty ahead of 2013 membership."
+        },
+        {
+          "headline": "Gotovina acquitted on appeal",
+          "summary": "The Hague overturns the general's conviction in November."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit Euro 2012 in group stage",
+        "summary": "Croatia bow out after defeats to Spain and Italy."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 4234000,
+      "fx_lcu_per_usd_annual_avg": 5.7049,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia joins the European Union",
+          "summary": "Croatia becomes the EU's 28th member on July 1."
+        },
+        {
+          "headline": "Croatia elects first MEPs",
+          "summary": "European Parliament elections are held for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia reach World Cup playoff",
+        "summary": "Croatia finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 4202000,
+      "fx_lcu_per_usd_annual_avg": 5.7482,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia backs EU Russia sanctions",
+          "summary": "Zagreb supports sanctions over Ukraine despite tourism ties."
+        },
+        {
+          "headline": "Floods devastate Slavonia",
+          "summary": "May floods cause widespread destruction across eastern Croatia."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit World Cup in group stage",
+        "summary": "Croatia bow out in Brazil after defeats to Brazil and Mexico."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 4152000,
+      "fx_lcu_per_usd_annual_avg": 6.8583,
+      "geopolitical_news": [
+        {
+          "headline": "Grabar-Kitarovic becomes president",
+          "summary": "Kolinda Grabar-Kitarovic wins January's presidential election."
+        },
+        {
+          "headline": "Migrant crisis hits Croatia",
+          "summary": "Thousands transit Croatia after Hungary seals its border."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia qualify for Euro 2016",
+        "summary": "Croatia finish second in their group to reach the finals."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4107000,
+      "fx_lcu_per_usd_annual_avg": 6.806,
+      "geopolitical_news": [
+        {
+          "headline": "HDZ wins snap election",
+          "summary": "Andrej Plenkovic's party triumphs in September elections."
+        },
+        {
+          "headline": "Plenkovic becomes prime minister",
+          "summary": "The HDZ leader forms a centre-right government."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit Euro 2016 in last 16",
+        "summary": "Portugal knock Croatia out in extra time."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4041000,
+      "fx_lcu_per_usd_annual_avg": 6.6238,
+      "geopolitical_news": [
+        {
+          "headline": "Agrokor crisis shakes economy",
+          "summary": "The collapse of food giant Agrokor threatens the wider economy."
+        },
+        {
+          "headline": "Arbitration ruling backs Croatia",
+          "summary": "An international panel rules on the Slovenia border dispute; Ljubljana rejects it."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia reach World Cup via playoff",
+        "summary": "Croatia beat Greece in the playoffs to reach Russia 2018."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3989000,
+      "fx_lcu_per_usd_annual_avg": 6.279,
+      "geopolitical_news": [
+        {
+          "headline": "Istanbul Convention protests",
+          "summary": "Conservatives rally against ratifying the anti-violence treaty."
+        },
+        {
+          "headline": "Government survives no-confidence votes",
+          "summary": "Plenkovic's coalition weathers opposition challenges."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia reach World Cup final",
+        "summary": "Croatia lose 4-2 to France in Moscow after a fairy-tale run."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3949000,
+      "fx_lcu_per_usd_annual_avg": 6.6225,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia prepares for euro and Schengen",
+          "summary": "Zagreb pushes to join Schengen and adopt the euro."
+        },
+        {
+          "headline": "Slovenia border row persists",
+          "summary": "The arbitration dispute with Slovenia remains unresolved."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia qualify for Euro 2020",
+        "summary": "Croatia top their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 3914000,
+      "fx_lcu_per_usd_annual_avg": 6.6141,
+      "geopolitical_news": [
+        {
+          "headline": "HDZ wins parliamentary election",
+          "summary": "Plenkovic's party triumphs in July elections."
+        },
+        {
+          "headline": "Zagreb earthquake causes damage",
+          "summary": "A March quake damages the capital's historic centre."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia survive Nations League relegation",
+        "summary": "Croatia stay up in League A on goal difference."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 3879000,
+      "fx_lcu_per_usd_annual_avg": 6.3601,
+      "geopolitical_news": [
+        {
+          "headline": "COVID second wave strains Croatia",
+          "summary": "The pandemic hits hospitals and the tourism season hard."
+        },
+        {
+          "headline": "Tomašević wins Zagreb mayoralty",
+          "summary": "A green-left candidate takes the capital in May local elections."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit Euro 2020 in last 16",
+        "summary": "Spain win a thriller in Copenhagen to knock Croatia out."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 3856000,
+      "fx_lcu_per_usd_annual_avg": 7.1597,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia backs Ukraine",
+          "summary": "Zagreb sends aid to Ukraine and hosts refugees."
+        },
+        {
+          "headline": "Croatia prepares euro changeover",
+          "summary": "Zagreb readies the switch to the euro amid inflation fears."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia finish third at World Cup",
+        "summary": "Croatia beat Morocco in the playoff for another podium finish."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3860000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Croatia adopts euro, joins Schengen",
+          "summary": "Croatia enters the eurozone and Schengen on January 1."
+        },
+        {
+          "headline": "HDZ faces corruption scandals",
+          "summary": "Ministerial resignations shake Plenkovic's government."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia reach Nations League final",
+        "summary": "Spain beat Croatia on penalties in the Rotterdam final."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3866000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "HDZ wins parliamentary election",
+          "summary": "Plenkovic's party triumphs again in April elections."
+        },
+        {
+          "headline": "Plenkovic forms third government",
+          "summary": "The HDZ leader secures a third term with far-right support."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia exit Euro 2024 in group stage",
+        "summary": "A stoppage-time Italy equaliser sends Croatia home."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3874000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Milanovic re-elected president",
+          "summary": "Zoran Milanovic wins January's presidential election."
+        },
+        {
+          "headline": "Croatia boosts defence spending",
+          "summary": "Zagreb pledges higher military budgets amid NATO pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia chase World Cup qualification",
+        "summary": "Croatia lead their qualifying group for the 2026 World Cup."
+      }
+    }
+  ]
+}

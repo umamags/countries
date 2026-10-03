@@ -1,0 +1,396 @@
+{
+  "country": "Nauru",
+  "iso3": "NRU",
+  "currency": "AUD",
+  "currency_name": "Australian Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 1.3282,
+      "geopolitical_news": [
+        {
+          "headline": "Scotty government faces challenges",
+          "summary": "President Ludwig Scotty's administration battled parliamentary instability."
+        },
+        {
+          "headline": "Phosphate revenues underpin economy",
+          "summary": "Mining income remained the island's main revenue source."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's lifters at Melbourne Commonwealth Games",
+        "summary": "Weightlifters carried the nation's hopes in Melbourne."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 1.1949,
+      "geopolitical_news": [
+        {
+          "headline": "Marcus Stephen elected president",
+          "summary": "The former weightlifting champion became president in December."
+        },
+        {
+          "headline": "New government seeks stability",
+          "summary": "Stephen promised to end the revolving-door politics."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Apia Pacific Games",
+        "summary": "The nation's weightlifters dominated in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 1.1962,
+      "geopolitical_news": [
+        {
+          "headline": "Stephen government consolidates",
+          "summary": "The president built his parliamentary majority."
+        },
+        {
+          "headline": "Nauru engages Taiwan and Pacific partners",
+          "summary": "Taipei's aid continued to fund development projects."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's team at Beijing Olympics",
+        "summary": "Weightlifter Itte Detenamo represented Nauru in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 1.2791,
+      "geopolitical_news": [
+        {
+          "headline": "Political deadlock triggers elections",
+          "summary": "Parliamentary stalemate forced voters back to the polls."
+        },
+        {
+          "headline": "Nauru's economy struggles",
+          "summary": "Falling phosphate income squeezed government finances."
+        }
+      ],
+      "sport": {
+        "headline": "Nauruan lifters in regional competition",
+        "summary": "The nation's weightlifters contested Oceania titles."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 1.0895,
+      "geopolitical_news": [
+        {
+          "headline": "Stephen survives political turmoil",
+          "summary": "The president held on through no-confidence attempts."
+        },
+        {
+          "headline": "Nauru's weightlifters medal at Delhi",
+          "summary": "The sporting success contrasted with political instability."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru medals at Delhi Commonwealth Games",
+        "summary": "Weightlifters won medals for the tiny island nation."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 0.9695,
+      "geopolitical_news": [
+        {
+          "headline": "Sprent Dabwido becomes president",
+          "summary": "Dabwido won the presidency in November after Stephen's resignation."
+        },
+        {
+          "headline": "Leadership merry-go-round continues",
+          "summary": "Nauru cycled through presidents amid parliamentary deadlock."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Noumea Pacific Games",
+        "summary": "Weightlifters led the nation's medal hunt."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10000,
+      "fx_lcu_per_usd_annual_avg": 0.9659,
+      "geopolitical_news": [
+        {
+          "headline": "Australia reopens Nauru detention centre",
+          "summary": "Canberra revived offshore processing on the island in August."
+        },
+        {
+          "headline": "Detention deal transforms economy",
+          "summary": "Australian payments became a major revenue stream."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's athletes at London Olympics",
+        "summary": "Weightlifter Itte Detenamo carried the flag in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.0369,
+      "geopolitical_news": [
+        {
+          "headline": "Baron Waqa elected president",
+          "summary": "Waqa won the June parliamentary vote."
+        },
+        {
+          "headline": "Detention centre expands",
+          "summary": "Asylum seeker numbers grew under Australia's border policies."
+        }
+      ],
+      "sport": {
+        "headline": "Nauruan lifters chase Glasgow medals",
+        "summary": "Weightlifters prepared for the 2014 Commonwealth Games."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.1092,
+      "geopolitical_news": [
+        {
+          "headline": "Waqa government consolidates power",
+          "summary": "The administration tightened its grip on parliament."
+        },
+        {
+          "headline": "Detention centre riots erupt",
+          "summary": "Unrest at the Australian-run facility drew international scrutiny."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Glasgow Commonwealth Games",
+        "summary": "Weightlifters represented the island in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Government crackdown on opposition",
+          "summary": "MPs were suspended and critics prosecuted in a political purge."
+        },
+        {
+          "headline": "New Zealand suspends aid to Nauru",
+          "summary": "Wellington halted assistance over rule-of-law concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Port Moresby Pacific Games",
+        "summary": "Weightlifters led the nation's campaign."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.3449,
+      "geopolitical_news": [
+        {
+          "headline": "Waqa re-elected president",
+          "summary": "The president retained office after the July general election."
+        },
+        {
+          "headline": "Pacific Islands Forum hosted in Nauru",
+          "summary": "Regional leaders met in Nauru in September amid controversy."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's athletes at Rio Olympics",
+        "summary": "Weightlifters represented the island in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.305,
+      "geopolitical_news": [
+        {
+          "headline": "Detention centre winds down",
+          "summary": "Asylum seeker numbers fell as Australia's policies shifted."
+        },
+        {
+          "headline": "Nauru's human rights record criticised",
+          "summary": "International bodies condemned the treatment of detainees and critics."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Pacific Mini Games",
+        "summary": "Weightlifters competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 11000,
+      "fx_lcu_per_usd_annual_avg": 1.339,
+      "geopolitical_news": [
+        {
+          "headline": "Nauru hosts Pacific Islands Forum",
+          "summary": "Leaders met in Nauru in September; journalists faced visa bans."
+        },
+        {
+          "headline": "Forum overshadowed by press freedom row",
+          "summary": "Nauru's treatment of media drew regional criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Gold Coast Commonwealth Games",
+        "summary": "Weightlifters carried the island's hopes in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.4393,
+      "geopolitical_news": [
+        {
+          "headline": "Lionel Aingimea elected president",
+          "summary": "Aingimea won the August parliamentary vote after Waqa lost his seat."
+        },
+        {
+          "headline": "New government reviews detention deal",
+          "summary": "The administration renegotiated terms with Canberra."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Apia Pacific Games",
+        "summary": "Weightlifters led the medal hunt in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.4519,
+      "geopolitical_news": [
+        {
+          "headline": "Nauru stays COVID-free",
+          "summary": "Strict border controls kept the virus out."
+        },
+        {
+          "headline": "Detention centre nearly empty",
+          "summary": "Few asylum seekers remained in the Australian-run facility."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.3324,
+      "geopolitical_news": [
+        {
+          "headline": "Aingimea government continues",
+          "summary": "The administration maintained its parliamentary majority."
+        },
+        {
+          "headline": "Nauru's economy diversifies slowly",
+          "summary": "Fisheries and Australian payments sustained the budget."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's athletes at Tokyo Olympics",
+        "summary": "Weightlifters represented the island at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.4428,
+      "geopolitical_news": [
+        {
+          "headline": "Russ Kun elected president",
+          "summary": "Kun won the September parliamentary vote."
+        },
+        {
+          "headline": "Nauru deepens regional engagement",
+          "summary": "The government participated actively in Pacific forums."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Birmingham Commonwealth Games",
+        "summary": "Weightlifters competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.5066,
+      "geopolitical_news": [
+        {
+          "headline": "David Adeang elected president",
+          "summary": "Adeang won the October parliamentary vote."
+        },
+        {
+          "headline": "New government reviews foreign ties",
+          "summary": "The administration reassessed diplomatic relationships."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru at Honiara Pacific Games",
+        "summary": "Weightlifters led the nation's campaign."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.5153,
+      "geopolitical_news": [
+        {
+          "headline": "Nauru switches recognition to China",
+          "summary": "Nauru cut ties with Taiwan in January and recognised Beijing."
+        },
+        {
+          "headline": "Switch follows regional trend",
+          "summary": "The move aligned Nauru with other Pacific nations courting China."
+        }
+      ],
+      "sport": {
+        "headline": "Nauru's athletes at Paris Olympics",
+        "summary": "Weightlifters represented the island in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 12000,
+      "fx_lcu_per_usd_annual_avg": 1.5515,
+      "geopolitical_news": [
+        {
+          "headline": "Adeang government deepens China ties",
+          "summary": "Beijing-funded projects expanded after the diplomatic switch."
+        },
+        {
+          "headline": "Nauru pursues economic reforms",
+          "summary": "The government sought new revenue beyond phosphate and detention."
+        }
+      ],
+      "sport": {
+        "headline": "Nauruan lifters target regional titles",
+        "summary": "Weightlifting remained the island's best medal prospect."
+      }
+    }
+  ]
+}

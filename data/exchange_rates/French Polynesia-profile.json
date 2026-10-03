@@ -1,0 +1,396 @@
+{
+  "country": "French Polynesia",
+  "iso3": null,
+  "currency": "XPF",
+  "currency_name": "CFP Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Temaru's pro-independence government rules",
+          "summary": "Oscar Temaru's coalition held power in Papeete amid French political tensions."
+        },
+        {
+          "headline": "Nuclear test legacy debate continues",
+          "summary": "Veterans pressed Paris for recognition of test-related illnesses."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's footballers in Oceania competitions",
+        "summary": "The national team contested regional tournaments."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Political instability grips Papeete",
+          "summary": "Governments changed repeatedly as alliances shifted in the assembly."
+        },
+        {
+          "headline": "Paris watches Polynesian politics",
+          "summary": "France monitored the territory's turbulent coalition manoeuvring."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Flosse returns to power",
+          "summary": "Gaston Flosse's party won the territorial elections in early 2008."
+        },
+        {
+          "headline": "Assembly majorities remain fragile",
+          "summary": "Shifting alliances kept Papeete politics unstable."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's athletes at Beijing Olympics",
+        "summary": "French Polynesian athletes competed for France in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Temaru regains presidency",
+          "summary": "Oscar Temaru returned as president after assembly manoeuvres."
+        },
+        {
+          "headline": "Independence debate resurfaces",
+          "summary": "Temaru pushed for UN reinscription on the decolonisation list."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's footballers chase World Cup",
+        "summary": "The national team contested Oceania qualifiers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Papeete's revolving-door politics",
+          "summary": "Presidents changed as the assembly's factions realigned."
+        },
+        {
+          "headline": "Nuclear compensation law debated",
+          "summary": "Paris discussed compensation for test veterans."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's athletes in regional Games",
+        "summary": "The territory's teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Temaru consolidates presidency",
+          "summary": "The pro-independence leader held the presidency through the year."
+        },
+        {
+          "headline": "UN decolonisation push advances",
+          "summary": "Pacific nations backed reinscription of French Polynesia."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Noumea Pacific Games",
+        "summary": "The territory's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tahiti wins Oceania Nations Cup",
+          "summary": "The football team's triumph qualified it for the 2013 Confederations Cup."
+        },
+        {
+          "headline": "Temaru's party wins elections",
+          "summary": "Pro-independence forces performed strongly in the territorial poll."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti qualifies for Confederations Cup",
+        "summary": "The Oceania title sent Tahiti to Brazil 2013, a historic first."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "UN reinscribes French Polynesia",
+          "summary": "The General Assembly returned the territory to the decolonisation list in May."
+        },
+        {
+          "headline": "Flosse elected president",
+          "summary": "Gaston Flosse's party won the May territorial elections."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti hosts Beach Soccer World Cup",
+        "summary": "Papeete staged the FIFA beach soccer tournament; Tahiti shone at the Confederations Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Flosse convicted and removed",
+          "summary": "A corruption conviction ended Flosse's presidency in September."
+        },
+        {
+          "headline": "Edouard Fritch becomes president",
+          "summary": "Flosse's former deputy succeeded him as president."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's footballers in Pacific competitions",
+        "summary": "The national team contested regional tournaments."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fritch consolidates power",
+          "summary": "The new president built his own political base."
+        },
+        {
+          "headline": "Nuclear test report released",
+          "summary": "New studies examined the health impact of France's Pacific tests."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Port Moresby Pacific Games",
+        "summary": "The territory's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fritch's party dominates politics",
+          "summary": "The president's Tapura movement controlled the assembly."
+        },
+        {
+          "headline": "Paris pledges test compensation",
+          "summary": "France promised faster compensation for nuclear test victims."
+        }
+      ],
+      "sport": {
+        "headline": "Tahitian athletes at Rio Olympics",
+        "summary": "French Polynesian athletes competed for France in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Macron visits French Polynesia",
+          "summary": "The French president toured the territory and addressed the nuclear legacy."
+        },
+        {
+          "headline": "Independence referendum debate continues",
+          "summary": "Pro-independence parties pressed for a self-determination vote."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Pacific Mini Games",
+        "summary": "The territory's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fritch re-elected president",
+          "summary": "The president's party won the April territorial elections."
+        },
+        {
+          "headline": "Autonomists retain control",
+          "summary": "Pro-autonomy forces kept their assembly majority."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's surfers gain world prominence",
+        "summary": "Teahupo'o's legendary wave kept producing world-class surfers."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fritch government pursues development",
+          "summary": "The administration pushed tourism and infrastructure projects."
+        },
+        {
+          "headline": "Nuclear legacy compensation expanded",
+          "summary": "Paris widened eligibility for test victim compensation."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID reaches French Polynesia",
+          "summary": "The virus arrived after borders reopened to tourists mid-year."
+        },
+        {
+          "headline": "Tourism collapse hits economy",
+          "summary": "The pandemic devastated the visitor-dependent economy."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the territory's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "French Polynesia's COVID wave",
+          "summary": "The territory suffered one of the Pacific's worst outbreaks."
+        },
+        {
+          "headline": "Independence parties gain ground",
+          "summary": "Pro-independence forces performed strongly in French legislative elections."
+        }
+      ],
+      "sport": {
+        "headline": "Tahitian athletes at Tokyo Olympics",
+        "summary": "French Polynesian athletes competed for France in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Macron acknowledges nuclear test impact",
+          "summary": "France recognised the harm of its Pacific nuclear tests more explicitly."
+        },
+        {
+          "headline": "Territorial politics heats up",
+          "summary": "Parties positioned for the 2023 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's surfers eye Olympic qualification",
+        "summary": "Local surfers chased places at the Paris Games' Tahiti venue."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-independence Brotherson elected president",
+          "summary": "Moetai Brotherson's victory in May was a historic win for independence supporters."
+        },
+        {
+          "headline": "New government shifts priorities",
+          "summary": "The administration promised a referendum pathway and social reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti at Honiara Pacific Games",
+        "summary": "The territory's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Olympic surfing held at Teahupo'o",
+          "summary": "The Paris Games' surfing events ran on Tahiti's famous wave."
+        },
+        {
+          "headline": "Brotherson government navigates Paris ties",
+          "summary": "The pro-independence president managed relations with France."
+        }
+      ],
+      "sport": {
+        "headline": "Teahupo'o hosts Olympic surfing",
+        "summary": "The world's best surfers competed at the legendary break."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Independence referendum debate continues",
+          "summary": "Brotherson's government kept pressing France on self-determination."
+        },
+        {
+          "headline": "French Polynesia seeks greater autonomy",
+          "summary": "Papeete negotiated expanded powers with Paris."
+        }
+      ],
+      "sport": {
+        "headline": "Tahiti's surfers dominate world tour events",
+        "summary": "Local talent continued to shine at Teahupo'o competitions."
+      }
+    }
+  ]
+}

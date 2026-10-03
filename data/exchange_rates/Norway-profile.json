@@ -1,0 +1,396 @@
+{
+  "country": "Norway",
+  "iso3": "NOR",
+  "currency": "NOK",
+  "currency_name": "Norwegian Krone",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4672000,
+      "fx_lcu_per_usd_annual_avg": 6.4141,
+      "geopolitical_news": [
+        {
+          "headline": "Stoltenberg government stable",
+          "summary": "The red-green coalition governs steadily."
+        },
+        {
+          "headline": "Oil fund grows",
+          "summary": "Soaring crude prices swell the sovereign fund."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss 2006 World Cup",
+        "summary": "Norway fail to qualify for the finals."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 4722000,
+      "fx_lcu_per_usd_annual_avg": 5.8609,
+      "geopolitical_news": [
+        {
+          "headline": "Norway's boom continues",
+          "summary": "Oil wealth funds generous welfare."
+        },
+        {
+          "headline": "Climate policy advances",
+          "summary": "Oslo pledges carbon neutrality goals."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss Euro 2008",
+        "summary": "Norway finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4787000,
+      "fx_lcu_per_usd_annual_avg": 5.6383,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits Norway",
+          "summary": "The oil price collapse ends the boom."
+        },
+        {
+          "headline": "Statoil... economy weathers storm",
+          "summary": "Reserves cushion the downturn."
+        }
+      ],
+      "sport": {
+        "headline": "Norway begin 2010 World Cup qualifying",
+        "summary": "Norway open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4843000,
+      "fx_lcu_per_usd_annual_avg": 6.2811,
+      "geopolitical_news": [
+        {
+          "headline": "Stoltenberg wins re-election",
+          "summary": "The red-green coalition triumphs in September."
+        },
+        {
+          "headline": "Norway's recovery begins",
+          "summary": "Stimulus spending revives growth."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss 2010 World Cup",
+        "summary": "Norway finish second but rank as worst runners-up."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4908000,
+      "fx_lcu_per_usd_annual_avg": 6.0476,
+      "geopolitical_news": [
+        {
+          "headline": "Oslo hosts Nobel... diplomacy",
+          "summary": "Norway remains an active peace broker."
+        },
+        {
+          "headline": "Oil fund hits records",
+          "summary": "The sovereign fund keeps growing."
+        }
+      ],
+      "sport": {
+        "headline": "Norway begin Euro 2012 qualifying",
+        "summary": "Norway open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4973000,
+      "fx_lcu_per_usd_annual_avg": 5.6048,
+      "geopolitical_news": [
+        {
+          "headline": "July 22 terror attacks",
+          "summary": "Breivik kills 77 in Oslo and Utoya."
+        },
+        {
+          "headline": "Norway mourns",
+          "summary": "The nation unites in grief after the massacre."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss Euro 2012",
+        "summary": "Norway finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5038000,
+      "fx_lcu_per_usd_annual_avg": 5.8213,
+      "geopolitical_news": [
+        {
+          "headline": "Breivik trial",
+          "summary": "The terrorist is sentenced to 21 years in August."
+        },
+        {
+          "headline": "Norway debates security",
+          "summary": "The attacks prompt intelligence reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Norway begin World Cup qualifying",
+        "summary": "Norway open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5096000,
+      "fx_lcu_per_usd_annual_avg": 5.8772,
+      "geopolitical_news": [
+        {
+          "headline": "Solberg wins election",
+          "summary": "Erna Solberg's Hoyre triumphs in September."
+        },
+        {
+          "headline": "Conservatives return",
+          "summary": "A centre-right coalition takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss 2014 World Cup",
+        "summary": "Norway finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5156000,
+      "fx_lcu_per_usd_annual_avg": 6.3026,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price crash hits Norway",
+          "summary": "Plunging crude strains the economy."
+        },
+        {
+          "headline": "Solberg government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Norway begin Euro 2016 qualifying",
+        "summary": "Norway open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5205000,
+      "fx_lcu_per_usd_annual_avg": 8.0716,
+      "geopolitical_news": [
+        {
+          "headline": "Asylum seekers surge",
+          "summary": "Thousands cross from Russia into Norway."
+        },
+        {
+          "headline": "Norway tightens borders",
+          "summary": "Oslo hardens immigration rules."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary deny Norway Euro 2016",
+        "summary": "Norway lose their playoff."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5252000,
+      "fx_lcu_per_usd_annual_avg": 8.3965,
+      "geopolitical_news": [
+        {
+          "headline": "Oil downturn bites",
+          "summary": "Layoffs hit the petroleum sector."
+        },
+        {
+          "headline": "Norway's fund adapts",
+          "summary": "The sovereign fund weathers the slump."
+        }
+      ],
+      "sport": {
+        "headline": "Norway begin World Cup qualifying",
+        "summary": "Norway open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5290000,
+      "fx_lcu_per_usd_annual_avg": 8.2658,
+      "geopolitical_news": [
+        {
+          "headline": "Solberg wins re-election",
+          "summary": "September elections keep Hoyre in power."
+        },
+        {
+          "headline": "Coalition expanded",
+          "summary": "The Liberals join the government."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss 2018 World Cup",
+        "summary": "Norway finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 5324000,
+      "fx_lcu_per_usd_annual_avg": 8.1345,
+      "geopolitical_news": [
+        {
+          "headline": "Solberg government stable",
+          "summary": "The coalition holds together."
+        },
+        {
+          "headline": "Norway's oil future debated",
+          "summary": "Climate pressures mount on drilling."
+        }
+      ],
+      "sport": {
+        "headline": "Norway win Nations League promotion",
+        "summary": "Norway top their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 5357000,
+      "fx_lcu_per_usd_annual_avg": 8.8023,
+      "geopolitical_news": [
+        {
+          "headline": "Right-wing coalition complete",
+          "summary": "The Progress Party joins fully in January."
+        },
+        {
+          "headline": "5G Huawei debate",
+          "summary": "Oslo weighs Chinese telecom equipment."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss Euro 2020",
+        "summary": "Norway finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5385000,
+      "fx_lcu_per_usd_annual_avg": 9.4041,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Norway",
+          "summary": "Strict measures keep the virus in check."
+        },
+        {
+          "headline": "Oil price collapses",
+          "summary": "The pandemic crashes crude demand."
+        }
+      ],
+      "sport": {
+        "headline": "Haaland announces himself",
+        "summary": "The teenage striker's goals electrify Europe."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5415000,
+      "fx_lcu_per_usd_annual_avg": 8.5968,
+      "geopolitical_news": [
+        {
+          "headline": "Store wins election",
+          "summary": "Jonas Gahr Store's Labour triumphs in September."
+        },
+        {
+          "headline": "Centre-left government formed",
+          "summary": "A Labour-Centre coalition takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss 2022 World Cup",
+        "summary": "Haaland's injury-hit Norway finish third."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5475000,
+      "fx_lcu_per_usd_annual_avg": 9.6203,
+      "geopolitical_news": [
+        {
+          "headline": "Norway profits from gas crisis",
+          "summary": "Europe's energy crunch fills Oslo's coffers."
+        },
+        {
+          "headline": "Norway backs Ukraine",
+          "summary": "Oslo sends arms and aid."
+        }
+      ],
+      "sport": {
+        "headline": "Norway compete in Nations League B",
+        "summary": "Norway battle in their League B group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5534000,
+      "fx_lcu_per_usd_annual_avg": 10.5685,
+      "geopolitical_news": [
+        {
+          "headline": "Norway's oil fund hits records",
+          "summary": "The sovereign fund keeps growing."
+        },
+        {
+          "headline": "Government unpopular",
+          "summary": "Polls punish the centre-left coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Norway miss Euro 2024",
+        "summary": "Norway finish third behind Spain and Scotland."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5585000,
+      "fx_lcu_per_usd_annual_avg": 10.7466,
+      "geopolitical_news": [
+        {
+          "headline": "Støre government reshuffled",
+          "summary": "The coalition is reworked in February."
+        },
+        {
+          "headline": "Norway recognises Palestine",
+          "summary": "Oslo joins Spain and Ireland in May."
+        }
+      ],
+      "sport": {
+        "headline": "Norway win Nations League promotion",
+        "summary": "Haaland fires Norway into League A."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5618000,
+      "fx_lcu_per_usd_annual_avg": 10.3883,
+      "geopolitical_news": [
+        {
+          "headline": "Norway's election looms",
+          "summary": "September elections approach with Labour struggling."
+        },
+        {
+          "headline": "Oslo's wealth debate",
+          "summary": "The oil fund's future divides politicians."
+        }
+      ],
+      "sport": {
+        "headline": "Norway thrash Italy in qualifier",
+        "summary": "A 3-0 win launches a dream World Cup qualifying campaign."
+      }
+    }
+  ]
+}

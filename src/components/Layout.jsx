@@ -9,7 +9,12 @@ export default function Layout() {
         <Link to="/" className="site-title">
           Countries Explorer
         </Link>
-        <SearchBox />
+        <div className="header-controls">
+          <SearchBox />
+          <Link to="/compare" className="compare-button">
+            Compare Countries
+          </Link>
+        </div>
       </header>
       <main>
         <Outlet />

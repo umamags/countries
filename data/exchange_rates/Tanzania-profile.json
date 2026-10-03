@@ -1,0 +1,396 @@
+{
+  "country": "Tanzania",
+  "iso3": "TZA",
+  "currency": "TZS",
+  "currency_name": "Tanzanian Shilling",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 38598000,
+      "fx_lcu_per_usd_annual_avg": 1251.9,
+      "geopolitical_news": [
+        {
+          "headline": "Kikwete's government begins",
+          "summary": "The new president pledges to fight corruption."
+        },
+        {
+          "headline": "Tanzania's growth strong",
+          "summary": "The economy remains among Africa's fastest-growing."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania fall short in AFCON qualifying",
+        "summary": "The Taifa Stars miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 39695000,
+      "fx_lcu_per_usd_annual_avg": 1245.0355,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption scandals",
+          "summary": "The Richmond energy affair taints the government."
+        },
+        {
+          "headline": "Kikwete reshuffles cabinet",
+          "summary": "Ministers are sacked over the scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2008 AFCON",
+        "summary": "The Taifa Stars fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 40792000,
+      "fx_lcu_per_usd_annual_avg": 1196.3107,
+      "geopolitical_news": [
+        {
+          "headline": "Richmond scandal deepens",
+          "summary": "Parliamentary probes implicate top officials."
+        },
+        {
+          "headline": "Prime minister resigns",
+          "summary": "Edward Lowassa steps down in February."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania compete at Beijing Olympics",
+        "summary": "Tanzanian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 41879000,
+      "fx_lcu_per_usd_annual_avg": 1320.3121,
+      "geopolitical_news": [
+        {
+          "headline": "Kikwete's popularity slides",
+          "summary": "Corruption allegations hurt the president."
+        },
+        {
+          "headline": "Tanzania's economy steady",
+          "summary": "Growth continues despite the scandals."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania chase 2010 World Cup spot",
+        "summary": "The Taifa Stars compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 42857000,
+      "fx_lcu_per_usd_annual_avg": 1395.625,
+      "geopolitical_news": [
+        {
+          "headline": "Kikwete re-elected",
+          "summary": "October's vote extends his rule; the opposition alleges fraud."
+        },
+        {
+          "headline": "Zanzibar power-sharing",
+          "summary": "The islands form a unity government."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2010 World Cup",
+        "summary": "The Taifa Stars fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 44063000,
+      "fx_lcu_per_usd_annual_avg": 1557.4333,
+      "geopolitical_news": [
+        {
+          "headline": "Protests over prices",
+          "summary": "Demonstrations rock Dar es Salaam."
+        },
+        {
+          "headline": "Kikwete's second term",
+          "summary": "The president pledges reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2012 AFCON",
+        "summary": "The Taifa Stars fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 45325000,
+      "fx_lcu_per_usd_annual_avg": 1571.6983,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional review",
+          "summary": "Debate over a new charter intensifies."
+        },
+        {
+          "headline": "Gas discoveries excite",
+          "summary": "Offshore finds promise transformation."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania compete at London Olympics",
+        "summary": "Tanzanian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 46674000,
+      "fx_lcu_per_usd_annual_avg": 1597.5558,
+      "geopolitical_news": [
+        {
+          "headline": "Arusha bombings",
+          "summary": "Church attacks raise sectarian tensions."
+        },
+        {
+          "headline": "Gas deals signed",
+          "summary": "Statoil and others commit to LNG."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2013 AFCON",
+        "summary": "The Taifa Stars fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 48141000,
+      "fx_lcu_per_usd_annual_avg": 1653.2308,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional assembly",
+          "summary": "The charter-drafting process stalls."
+        },
+        {
+          "headline": "Kikwete's succession",
+          "summary": "The CCM picks Magufuli as its candidate."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2014 World Cup",
+        "summary": "The Taifa Stars fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 49640000,
+      "fx_lcu_per_usd_annual_avg": 1991.3908,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli wins presidency",
+          "summary": "The 'bulldozer' defeats Lowassa in October's vote."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Zanzibar's vote is annulled amid rigging claims."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2015 AFCON",
+        "summary": "The Taifa Stars fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 51383000,
+      "fx_lcu_per_usd_annual_avg": 2177.0867,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli's crackdown",
+          "summary": "The president bans rallies and squeezes the media."
+        },
+        {
+          "headline": "Mining reforms",
+          "summary": "New laws demand greater state stakes."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania compete at Rio Olympics",
+        "summary": "Tanzanian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 53142000,
+      "fx_lcu_per_usd_annual_avg": 2228.8567,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition suppressed",
+          "summary": "Tundu Lissu is shot and flees abroad."
+        },
+        {
+          "headline": "Magufuli's authoritarianism",
+          "summary": "Rights groups condemn the shrinking civic space."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2017 AFCON",
+        "summary": "The Taifa Stars fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 54934000,
+      "fx_lcu_per_usd_annual_avg": 2263.7817,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli's rule tightens",
+          "summary": "The president's grip on power strengthens."
+        },
+        {
+          "headline": "Economic nationalism",
+          "summary": "Mining companies face huge tax bills."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2018 World Cup",
+        "summary": "The Taifa Stars fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 56607000,
+      "fx_lcu_per_usd_annual_avg": 2288.2067,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli's popularity",
+          "summary": "Infrastructure projects win support."
+        },
+        {
+          "headline": "Opposition harassed",
+          "summary": "Critics face arrests and bans."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania return to AFCON",
+        "summary": "The Taifa Stars reach Egypt 2019, ending a 39-year absence."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 58309000,
+      "fx_lcu_per_usd_annual_avg": 2294.1462,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli re-elected amid fraud claims",
+          "summary": "October's vote is condemned by observers."
+        },
+        {
+          "headline": "COVID denial",
+          "summary": "The president declares Tanzania virus-free through prayer."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania's leagues play on",
+        "summary": "Magufuli keeps football running despite the pandemic."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 60062000,
+      "fx_lcu_per_usd_annual_avg": 2297.7642,
+      "geopolitical_news": [
+        {
+          "headline": "Magufuli dies",
+          "summary": "The president dies in March; Vice President Samia Suluhu Hassan succeeds him."
+        },
+        {
+          "headline": "First female president",
+          "summary": "Samia takes office pledging unity and reform."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2021 AFCON",
+        "summary": "The Taifa Stars fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 61869000,
+      "fx_lcu_per_usd_annual_avg": 2303.0337,
+      "geopolitical_news": [
+        {
+          "headline": "Samia's reforms",
+          "summary": "The president eases Magufuli-era restrictions."
+        },
+        {
+          "headline": "Lissu returns",
+          "summary": "The exiled opposition figure comes home."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania miss 2022 World Cup",
+        "summary": "The Taifa Stars fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 63729000,
+      "fx_lcu_per_usd_annual_avg": 2383.0426,
+      "geopolitical_news": [
+        {
+          "headline": "Samia consolidates power",
+          "summary": "The president asserts control of the CCM."
+        },
+        {
+          "headline": "LNG deal signed",
+          "summary": "The long-delayed gas project advances."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania qualify for 2023 AFCON",
+        "summary": "The Taifa Stars reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 65645000,
+      "fx_lcu_per_usd_annual_avg": 2597.9004,
+      "geopolitical_news": [
+        {
+          "headline": "Election preparations",
+          "summary": "The 2025 vote looms over opening politics."
+        },
+        {
+          "headline": "Samia's balancing act",
+          "summary": "The president juggles reform and party hardliners."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania exit AFCON at group stage",
+        "summary": "The Taifa Stars go home early from the 2023 tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 67619000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Samia re-elected amid protests",
+          "summary": "October's vote extends her rule; the opposition alleges fraud."
+        },
+        {
+          "headline": "Post-election unrest",
+          "summary": "Demonstrations are suppressed."
+        }
+      ],
+      "sport": {
+        "headline": "Tanzania qualify for 2025 AFCON",
+        "summary": "The Taifa Stars reach the Morocco tournament."
+      }
+    }
+  ]
+}

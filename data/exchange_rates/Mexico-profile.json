@@ -1,0 +1,396 @@
+{
+  "country": "Mexico",
+  "iso3": "MEX",
+  "currency": "MXN",
+  "currency_name": "Mexican Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 107886000,
+      "fx_lcu_per_usd_annual_avg": 10.9023,
+      "geopolitical_news": [
+        {
+          "headline": "Calderón wins disputed election",
+          "summary": "July vote gives the PAN candidate a narrow win; López Obrador cries fraud and leads mass protests."
+        },
+        {
+          "headline": "Drug war begins in Michoacán",
+          "summary": "A December military operation in Michoacán launches Calderón's cartel crackdown as violence starts to climb."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup ends in extra time",
+        "summary": "Mexico falls to Argentina in the round of 16 on a stunning late goal."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 109539000,
+      "fx_lcu_per_usd_annual_avg": 10.928,
+      "geopolitical_news": [
+        {
+          "headline": "Cartel violence escalates",
+          "summary": "Drug war killings surge across northern Mexico as the military takes on trafficking organizations through the year."
+        },
+        {
+          "headline": "Mérida Initiative proposed",
+          "summary": "US offers security aid worth hundreds of millions to Mexico in an October anti-drug pact."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup final loss to the US",
+        "summary": "Mexico falls 2-1 to the Americans in the Chicago final in June after leading early."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 111276000,
+      "fx_lcu_per_usd_annual_avg": 11.148,
+      "geopolitical_news": [
+        {
+          "headline": "Pemex reform battle",
+          "summary": "Calderón pushes a limited oil reform through Congress in October amid protests over the state monopoly."
+        },
+        {
+          "headline": "Juárez becomes murder capital",
+          "summary": "Cartel wars turn Ciudad Juárez into one of the world's deadliest cities as killings soar."
+        }
+      ],
+      "sport": {
+        "headline": "Taekwondo golds at Beijing",
+        "summary": "Mexico wins two taekwondo golds in August, its only titles of the Beijing Olympics."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 113030000,
+      "fx_lcu_per_usd_annual_avg": 13.5025,
+      "geopolitical_news": [
+        {
+          "headline": "Swine flu outbreak alarms world",
+          "summary": "H1N1 emerges in Mexico in April; schools close and travel stalls as the WHO declares a pandemic."
+        },
+        {
+          "headline": "Drug war rages on",
+          "summary": "Massacres and military operations continue as cartel violence spreads nationwide with no end in sight."
+        }
+      ],
+      "sport": {
+        "headline": "Mexico routs US in Gold Cup final",
+        "summary": "El Tri thrashes the Americans 5-0 in July at the Meadowlands to lift the continental crown."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 114756000,
+      "fx_lcu_per_usd_annual_avg": 12.6287,
+      "geopolitical_news": [
+        {
+          "headline": "Drug war's bloodiest year",
+          "summary": "Massacres, including 72 migrants, mark a peak in cartel violence as the death toll climbs."
+        },
+        {
+          "headline": "PRI surges in midterms",
+          "summary": "July elections signal the PRI's comeback ahead of 2012 as voters punish the PAN over the drug war."
+        }
+      ],
+      "sport": {
+        "headline": "Another World Cup, same exit",
+        "summary": "Mexico falls to Argentina again in the South Africa round of 16 in June."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 116446000,
+      "fx_lcu_per_usd_annual_avg": 12.4383,
+      "geopolitical_news": [
+        {
+          "headline": "Violence grinds on",
+          "summary": "Cartel killings continue at record pace; the August Monterrey casino attack kills dozens, shocking the nation."
+        },
+        {
+          "headline": "Guadalajara hosts Pan Am Games",
+          "summary": "The October Pan American Games showcase Guadalajara despite security worries, drawing thousands of athletes from across the Americas."
+        }
+      ],
+      "sport": {
+        "headline": "Mexico wins U-17 World Cup",
+        "summary": "El Tri's youngsters lift the trophy on home soil in July, beating Uruguay in the final."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 118061000,
+      "fx_lcu_per_usd_annual_avg": 13.1626,
+      "geopolitical_news": [
+        {
+          "headline": "Peña Nieto returns PRI to power",
+          "summary": "July victory ends 12 years of PAN rule; the Pact for Mexico follows in December."
+        },
+        {
+          "headline": "Pact for Mexico signed",
+          "summary": "Parties agree a reform agenda in a December deal covering energy, education and telecoms."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football gold at London",
+        "summary": "Mexico beats Brazil 2-1 at Wembley in August for its first Olympic football title."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 119598000,
+      "fx_lcu_per_usd_annual_avg": 12.7696,
+      "geopolitical_news": [
+        {
+          "headline": "Energy reform opens Pemex",
+          "summary": "A December constitutional reform ends Pemex's decades-old oil monopoly, inviting foreign investment for the first time in 75 years."
+        },
+        {
+          "headline": "Vigilantes rise in Michoacán",
+          "summary": "Self-defense groups take up arms against the Knights Templar cartel as the state loses control."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying scare",
+        "summary": "Mexico squeezes into Brazil 2014 via a playoff against New Zealand after a dismal campaign."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 121049000,
+      "fx_lcu_per_usd_annual_avg": 13.3021,
+      "geopolitical_news": [
+        {
+          "headline": "Ayotzinapa students disappear",
+          "summary": "September abduction of 43 students in Guerrero sparks national outrage, implicating local officials in a still-unsolved mystery."
+        },
+        {
+          "headline": "Energy reform enacted",
+          "summary": "Secondary laws in August open oil and power to private firms, implementing the constitutional overhaul amid leftist protests."
+        }
+      ],
+      "sport": {
+        "headline": "Quinto partido curse continues",
+        "summary": "Mexico falls to the Netherlands in the World Cup round of 16 on a late controversial penalty."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 122368000,
+      "fx_lcu_per_usd_annual_avg": 15.8833,
+      "geopolitical_news": [
+        {
+          "headline": "El Chapo escapes prison",
+          "summary": "July tunnel escape from a maximum-security jail humiliates the government; he is recaptured in 2016."
+        },
+        {
+          "headline": "Midterms weaken Peña Nieto",
+          "summary": "June elections cost the PRI ground amid scandals and slow growth, as independents make history."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup champions again",
+        "summary": "Mexico beats Jamaica in the July final to reclaim the CONCACAF crown."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 123587000,
+      "fx_lcu_per_usd_annual_avg": 18.6852,
+      "geopolitical_news": [
+        {
+          "headline": "Trump victory rattles Mexico",
+          "summary": "November US election threatens the wall, deportations and NAFTA's future, sending the peso tumbling to record lows."
+        },
+        {
+          "headline": "Gasolinazo protests erupt",
+          "summary": "January fuel price hikes spark riots and looting nationwide as subsidies end under the energy reform."
+        }
+      ],
+      "sport": {
+        "headline": "Canelo knocks out Khan",
+        "summary": "Saúl Álvarez's brutal sixth-round KO in Las Vegas in May cements his stardom in a middleweight showcase."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 124777000,
+      "fx_lcu_per_usd_annual_avg": 18.9113,
+      "geopolitical_news": [
+        {
+          "headline": "Trump pressures Mexico on wall",
+          "summary": "Wall demands and NAFTA threats dominate a tense bilateral year as renegotiation talks begin in August."
+        },
+        {
+          "headline": "Deadly September earthquakes",
+          "summary": "Twin September quakes kill hundreds, toppling buildings across Mexico City in the year's worst disaster."
+        }
+      ],
+      "sport": {
+        "headline": "Chicharito becomes top scorer",
+        "summary": "Javier Hernández passes Hugo Sánchez as Mexico's all-time leading scorer with his 47th international goal."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 125996000,
+      "fx_lcu_per_usd_annual_avg": 19.2407,
+      "geopolitical_news": [
+        {
+          "headline": "AMLO wins in a landslide",
+          "summary": "July victory gives Morena the presidency and Congress with a sweeping majority; the old order crumbles."
+        },
+        {
+          "headline": "USMCA replaces NAFTA",
+          "summary": "September deal with Washington and Ottawa preserves North American trade after a year of brinkmanship in a trilateral pact."
+        }
+      ],
+      "sport": {
+        "headline": "Mexico stuns Germany at World Cup",
+        "summary": "El Tri beats the defending champions 1-0 in June in the Moscow opener."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 127216000,
+      "fx_lcu_per_usd_annual_avg": 19.2575,
+      "geopolitical_news": [
+        {
+          "headline": "AMLO's first year",
+          "summary": "Austerity, referendums and mega-projects define a polarizing debut in power as institutions bend to his will."
+        },
+        {
+          "headline": "Culiacán chaos over El Chapo's son",
+          "summary": "October operation to catch Ovidio Guzmán collapses amid cartel gunfire, forcing his release in a national humiliation."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup win over the US",
+        "summary": "Mexico beats the Americans 1-0 in the Chicago final in July to reclaim regional bragging rights."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 128209000,
+      "fx_lcu_per_usd_annual_avg": 21.4848,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 batters Mexico",
+          "summary": "One of the world's highest death tolls as hospitals overflow through a grim year with limited testing."
+        },
+        {
+          "headline": "General Cienfuegos arrested, then freed",
+          "summary": "US drug arrest of the ex-defense chief strains ties in November; Mexico drops charges."
+        }
+      ],
+      "sport": {
+        "headline": "Liga MX season cancelled",
+        "summary": "The Clausura 2020 tournament is scrapped in May as the pandemic halts football, with no champion crowned."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 128983000,
+      "fx_lcu_per_usd_annual_avg": 20.2862,
+      "geopolitical_news": [
+        {
+          "headline": "Morena holds Congress in midterms",
+          "summary": "June vote keeps AMLO's majority but costs him Mexico City ground to the opposition."
+        },
+        {
+          "headline": "Metro Line 12 collapse kills 26",
+          "summary": "May overpass collapse in a rush-hour disaster exposes corruption and negligence, shocking the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football bronze at Tokyo",
+        "summary": "Mexico beats Japan in August to take bronze in the men's tournament, repeating London's podium magic."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 129961000,
+      "fx_lcu_per_usd_annual_avg": 20.1136,
+      "geopolitical_news": [
+        {
+          "headline": "Energy reform fails in Congress",
+          "summary": "April defeat blocks AMLO's bid to restore state power dominance in a major legislative loss."
+        },
+        {
+          "headline": "Journalist killings spark outcry",
+          "summary": "A deadly year for reporters across the country draws US and EU condemnation as impunity persists."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup streak snapped",
+        "summary": "Mexico exits in the group stage, missing the knockouts for the first time since 1978."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 131135000,
+      "fx_lcu_per_usd_annual_avg": 17.746,
+      "geopolitical_news": [
+        {
+          "headline": "Sheinbaum chosen as successor",
+          "summary": "Morena taps the Mexico City mayor in September to carry AMLO's project into 2024."
+        },
+        {
+          "headline": "Nearshoring boom transforms north",
+          "summary": "Factories multiply as US firms shift supply chains, making Mexico America's top trade partner."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup title in Las Vegas",
+        "summary": "Mexico beats Panama in the July final to win the regional crown."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 132274000,
+      "fx_lcu_per_usd_annual_avg": 18.3254,
+      "geopolitical_news": [
+        {
+          "headline": "Sheinbaum elected first woman president",
+          "summary": "A June landslide makes Claudia Sheinbaum Mexico's first woman president, continuing Morena's dominance with a broad mandate."
+        },
+        {
+          "headline": "Judicial reform sparks alarm",
+          "summary": "September reform to elect judges draws market jitters and US warnings as the peso slides amid investor unease."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América early exit",
+        "summary": "Mexico crashes out in the group stage in June, costing the coach his job."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 133367000,
+      "fx_lcu_per_usd_annual_avg": 19.2128,
+      "geopolitical_news": [
+        {
+          "headline": "Sheinbaum navigates Trump 2.0",
+          "summary": "Tariff threats and cartel pressure test the new president in a tense bilateral year with Washington."
+        },
+        {
+          "headline": "Security crackdown intensifies",
+          "summary": "Operations against cartels multiply through 2025 with high-profile arrests and extraditions as the US demands results."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup glory over the US",
+        "summary": "Mexico beats the Americans 2-1 in the Houston final in July to defend the regional title."
+      }
+    }
+  ]
+}

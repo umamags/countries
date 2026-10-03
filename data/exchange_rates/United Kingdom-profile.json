@@ -1,0 +1,396 @@
+{
+  "country": "United Kingdom",
+  "iso3": "GBR",
+  "currency": "GBP",
+  "currency_name": "British Pound",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 60827000,
+      "fx_lcu_per_usd_annual_avg": 0.5436,
+      "geopolitical_news": [
+        {
+          "headline": "Blair's final full year",
+          "summary": "The PM prepares to hand over to Gordon Brown."
+        },
+        {
+          "headline": "Cash-for-honours probe",
+          "summary": "Police investigate peerage nominations."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal end England's World Cup run",
+        "summary": "England lose a quarter-final shootout in Gelsenkirchen."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 61319000,
+      "fx_lcu_per_usd_annual_avg": 0.4997,
+      "geopolitical_news": [
+        {
+          "headline": "Brown becomes prime minister",
+          "summary": "Gordon Brown succeeds Blair in June."
+        },
+        {
+          "headline": "Brown bottles election",
+          "summary": "The PM rules out an autumn vote."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia deny England Euro 2008",
+        "summary": "England lose at Wembley and miss the finals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 61824000,
+      "fx_lcu_per_usd_annual_avg": 0.5451,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis: banks bailed out",
+          "summary": "The state rescues RBS and Lloyds."
+        },
+        {
+          "headline": "Brown's poll surge",
+          "summary": "Crisis management briefly revives the PM."
+        }
+      ],
+      "sport": {
+        "headline": "Capello rebuilds England",
+        "summary": "England make a flying start to 2010 qualifying."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 62261000,
+      "fx_lcu_per_usd_annual_avg": 0.6406,
+      "geopolitical_news": [
+        {
+          "headline": "MPs' expenses scandal",
+          "summary": "Revelations engulf Westminster."
+        },
+        {
+          "headline": "Speaker resigns",
+          "summary": "Michael Martin quits over the scandal."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for 2010 World Cup",
+        "summary": "England win nine of ten qualifiers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 62760000,
+      "fx_lcu_per_usd_annual_avg": 0.6478,
+      "geopolitical_news": [
+        {
+          "headline": "Hung parliament; coalition formed",
+          "summary": "Cameron and Clegg form a coalition in May."
+        },
+        {
+          "headline": "Austerity begins",
+          "summary": "Osborne announces deep spending cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Germany end England's World Cup run",
+        "summary": "England lose 4-1 in Bloemfontein amid the ghost-goal row."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 63285000,
+      "fx_lcu_per_usd_annual_avg": 0.6238,
+      "geopolitical_news": [
+        {
+          "headline": "Phone hacking scandal",
+          "summary": "The News of the World closes in July."
+        },
+        {
+          "headline": "Summer riots",
+          "summary": "Looting spreads across English cities in August."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for Euro 2012",
+        "summary": "England top their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 63711000,
+      "fx_lcu_per_usd_annual_avg": 0.6313,
+      "geopolitical_news": [
+        {
+          "headline": "London hosts Olympics",
+          "summary": "Britain stages an acclaimed Summer Games."
+        },
+        {
+          "headline": "Coalition mid-term blues",
+          "summary": "The government struggles in polls."
+        }
+      ],
+      "sport": {
+        "headline": "Italy end England's Euro 2012 run",
+        "summary": "England lose a quarter-final shootout in Kyiv."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 64138000,
+      "fx_lcu_per_usd_annual_avg": 0.6397,
+      "geopolitical_news": [
+        {
+          "headline": "Cameron promises EU referendum",
+          "summary": "The PM pledges an in-out vote in January."
+        },
+        {
+          "headline": "Thatcher dies",
+          "summary": "The former PM's death in April divides the nation."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for 2014 World Cup",
+        "summary": "England top their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 64619000,
+      "fx_lcu_per_usd_annual_avg": 0.6074,
+      "geopolitical_news": [
+        {
+          "headline": "Scotland votes No",
+          "summary": "The independence referendum fails in September."
+        },
+        {
+          "headline": "UKIP surges",
+          "summary": "Farage's party wins the European elections."
+        }
+      ],
+      "sport": {
+        "headline": "England humiliated at World Cup",
+        "summary": "England bow out in the group stage in Brazil."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 65087000,
+      "fx_lcu_per_usd_annual_avg": 0.6543,
+      "geopolitical_news": [
+        {
+          "headline": "Cameron wins majority",
+          "summary": "The Conservatives triumph in May's election."
+        },
+        {
+          "headline": "SNP sweeps Scotland",
+          "summary": "The nationalists take 56 of 59 Scottish seats."
+        }
+      ],
+      "sport": {
+        "headline": "England win all Euro 2016 qualifiers",
+        "summary": "England take maximum points."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 65606000,
+      "fx_lcu_per_usd_annual_avg": 0.7409,
+      "geopolitical_news": [
+        {
+          "headline": "Brexit referendum: Leave wins",
+          "summary": "Britain votes to leave the EU in June."
+        },
+        {
+          "headline": "May becomes prime minister",
+          "summary": "Theresa May succeeds Cameron in July."
+        }
+      ],
+      "sport": {
+        "headline": "Iceland humiliate England at Euro 2016",
+        "summary": "England lose their last-16 tie in Nice."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 65964000,
+      "fx_lcu_per_usd_annual_avg": 0.777,
+      "geopolitical_news": [
+        {
+          "headline": "May's snap election backfires",
+          "summary": "The PM loses her majority in June."
+        },
+        {
+          "headline": "Brexit talks begin",
+          "summary": "Negotiations with the EU open."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for 2018 World Cup",
+        "summary": "England top their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 66287000,
+      "fx_lcu_per_usd_annual_avg": 0.7499,
+      "geopolitical_news": [
+        {
+          "headline": "Brexit deal rejected",
+          "summary": "Parliament repeatedly votes down May's agreement."
+        },
+        {
+          "headline": "Chequers plan splits Tories",
+          "summary": "Cabinet resignations follow."
+        }
+      ],
+      "sport": {
+        "headline": "England reach World Cup semi-finals",
+        "summary": "Croatia end the run in Moscow."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 66628000,
+      "fx_lcu_per_usd_annual_avg": 0.7842,
+      "geopolitical_news": [
+        {
+          "headline": "Johnson wins big majority",
+          "summary": "December elections deliver an 80-seat Tory majority."
+        },
+        {
+          "headline": "Brexit done in January 2020",
+          "summary": "The withdrawal deal passes."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for Euro 2020",
+        "summary": "England top their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 66740000,
+      "fx_lcu_per_usd_annual_avg": 0.7796,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 lockdowns",
+          "summary": "Britain imposes repeated lockdowns."
+        },
+        {
+          "headline": "Brexit transition ends",
+          "summary": "The UK leaves the single market in December."
+        }
+      ],
+      "sport": {
+        "headline": "England compete in Nations League A",
+        "summary": "England battle in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 66978000,
+      "fx_lcu_per_usd_annual_avg": 0.727,
+      "geopolitical_news": [
+        {
+          "headline": "Vaccine rollout success",
+          "summary": "Britain leads Europe in vaccinations."
+        },
+        {
+          "headline": "Sleaze rows hit Johnson",
+          "summary": "Lobbying scandals dog the PM."
+        }
+      ],
+      "sport": {
+        "headline": "Italy break English hearts at Wembley",
+        "summary": "England lose the Euro 2020 final on penalties."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 67636000,
+      "fx_lcu_per_usd_annual_avg": 0.8121,
+      "geopolitical_news": [
+        {
+          "headline": "Johnson resigns; Truss implodes",
+          "summary": "Two PMs fall in a chaotic autumn."
+        },
+        {
+          "headline": "Sunak becomes PM",
+          "summary": "Rishi Sunak takes office in October."
+        }
+      ],
+      "sport": {
+        "headline": "France end England's World Cup run",
+        "summary": "England lose their quarter-final in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 68526000,
+      "fx_lcu_per_usd_annual_avg": 0.8046,
+      "geopolitical_news": [
+        {
+          "headline": "Sunak stabilises government",
+          "summary": "The PM steadies the ship."
+        },
+        {
+          "headline": "Strikes sweep Britain",
+          "summary": "NHS and rail walkouts disrupt the country."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for Euro 2024",
+        "summary": "England top their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 69281000,
+      "fx_lcu_per_usd_annual_avg": 0.7823,
+      "geopolitical_news": [
+        {
+          "headline": "Starmer wins landslide",
+          "summary": "Labour triumphs in July's election."
+        },
+        {
+          "headline": "Tories' worst defeat",
+          "summary": "The Conservatives collapse to 121 seats."
+        }
+      ],
+      "sport": {
+        "headline": "Spain break English hearts again",
+        "summary": "England lose the Euro 2024 final in Berlin."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 69487000,
+      "fx_lcu_per_usd_annual_avg": 0.7592,
+      "geopolitical_news": [
+        {
+          "headline": "Starmer government struggles",
+          "summary": "Polls punish Labour within a year."
+        },
+        {
+          "headline": "Farage's Reform surges",
+          "summary": "The right-wing party tops national polls."
+        }
+      ],
+      "sport": {
+        "headline": "England qualify for 2026 World Cup",
+        "summary": "Tuchel's England seal qualification early."
+      }
+    }
+  ]
+}

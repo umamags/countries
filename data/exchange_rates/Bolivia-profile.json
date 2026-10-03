@@ -1,0 +1,400 @@
+{
+  "country": "Bolivia",
+  "iso3": "BOL",
+  "currency": "BOB",
+  "currency_name": "Bolivian Boliviano",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 9522000,
+      "fx_lcu_per_usd_annual_avg": 8.0116,
+      "geopolitical_news": [
+        {
+          "headline": "Evo Morales inaugurated as first indigenous president",
+          "summary": "The coca-grower leader takes office in January promising nationalization and constitutional reform."
+        },
+        {
+          "headline": "Hydrocarbons nationalized on May Day",
+          "summary": "Morales decrees state control of gas fields, forcing foreign firms to renegotiate contracts."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying struggles",
+        "summary": "Bolivia finishes near the bottom of CONMEBOL qualifying for Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 9686000,
+      "fx_lcu_per_usd_annual_avg": 7.8512,
+      "geopolitical_news": [
+        {
+          "headline": "Constituent assembly deadlock deepens",
+          "summary": "Fights over the new constitution and Sucre's capital status turn violent in November."
+        },
+        {
+          "headline": "Nationalizations expand to mining",
+          "summary": "The government takes over the Vinto tin smelter and moves against foreign miners."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Bolivia draws twice but fails to reach the knockout rounds in Venezuela."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 9851000,
+      "fx_lcu_per_usd_annual_avg": 7.2383,
+      "geopolitical_news": [
+        {
+          "headline": "Autonomy referendums defy La Paz",
+          "summary": "Eastern 'media luna' departments approve autonomy statutes the government calls illegal."
+        },
+        {
+          "headline": "US ambassador expelled",
+          "summary": "Morales expels Philip Goldberg in September, accusing him of backing separatists."
+        }
+      ],
+      "sport": {
+        "headline": "FIFA altitude-ban controversy",
+        "summary": "FIFA briefly bans high-altitude qualifiers, threatening Bolivia's La Paz home advantage."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10016000,
+      "fx_lcu_per_usd_annual_avg": 7.02,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution approved",
+          "summary": "Voters back Morales's charter in a January referendum, allowing his re-election later that year."
+        },
+        {
+          "headline": "Morales wins second term",
+          "summary": "He is re-elected in December with about two-thirds of the vote."
+        }
+      ],
+      "sport": {
+        "headline": "Historic 6-1 rout of Argentina",
+        "summary": "Bolivia thrashes Maradona's Argentina in La Paz, the visitors' worst defeat in decades."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10182000,
+      "fx_lcu_per_usd_annual_avg": 7.0167,
+      "geopolitical_news": [
+        {
+          "headline": "'Gasolinazo' fuel hike reversed",
+          "summary": "Morales scraps a steep fuel price rise after days of nationwide protests in December."
+        },
+        {
+          "headline": "Judicial elections held",
+          "summary": "Bolivia holds the world's first popular vote for top judges in October."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying failure",
+        "summary": "Bolivia again finishes near the foot of the table for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10349000,
+      "fx_lcu_per_usd_annual_avg": 6.937,
+      "geopolitical_news": [
+        {
+          "headline": "TIPNIS highway protests",
+          "summary": "An indigenous march against a road through a national park is violently dispersed in September."
+        },
+        {
+          "headline": "Police mutiny over pay",
+          "summary": "Low-ranking officers protest in June, briefly occupying plazas nationwide."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group exit",
+        "summary": "Bolivia draws all three matches but fails to advance in Argentina."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10516000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Spanish utility REE nationalized",
+          "summary": "Morales expropriates Red Eléctrica's Bolivian grid in May, straining ties with Madrid."
+        },
+        {
+          "headline": "Colquiri mine clashes",
+          "summary": "Rival miners fight over the tin mine, forcing a government takeover."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying campaign falters",
+        "summary": "Bolivia's hopes for Brazil 2014 fade with heavy away defeats."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10683000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Morales's plane diverted in Snowden affair",
+          "summary": "European airspace closures force his jet to land in Vienna in July amid US pressure."
+        },
+        {
+          "headline": "Sea-access case filed against Chile",
+          "summary": "Bolivia takes its claim for sovereign Pacific access to the International Court of Justice."
+        }
+      ],
+      "sport": {
+        "headline": "Altitude debate resurfaces",
+        "summary": "FIFA again discusses high-altitude matches as Bolivia leans on its La Paz fortress."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10849000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Morales wins third term",
+          "summary": "He is re-elected in October with about 60 percent of the vote."
+        },
+        {
+          "headline": "Pope Francis visits Bolivia",
+          "summary": "The July visit draws huge crowds in El Alto and Santa Cruz."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying ends in failure",
+        "summary": "Bolivia finishes second-to-last in a dismal CONMEBOL campaign, missing the Brazil 2014 World Cup."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11015000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party loses key regions",
+          "summary": "The opposition wins La Paz and El Alto in March local elections."
+        },
+        {
+          "headline": "ICJ hears sea-access case",
+          "summary": "The Hague holds hearings on Bolivia's claim against Chile."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final run",
+        "summary": "Bolivia reaches the knockouts for the first time in 18 years, losing to Peru."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11180000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum rejects fourth Morales term",
+          "summary": "Voters narrowly say No in February to letting Morales run again in 2019."
+        },
+        {
+          "headline": "Cooperative miners kill deputy minister",
+          "summary": "Rodolfo Illanes is beaten to death during protests in August."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América Centenario group exit",
+        "summary": "Bolivia loses all three matches in the United States."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11345000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Court allows Morales re-election bid",
+          "summary": "The constitutional court scraps term limits in November, overriding the 2016 referendum."
+        },
+        {
+          "headline": "Water crisis hits La Paz",
+          "summary": "Severe drought depletes reservoirs, forcing water rationing across La Paz neighborhoods for months."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying ends",
+        "summary": "Bolivia misses Russia 2018 despite strong home form in La Paz."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 11508000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ rejects Bolivia's sea claim",
+          "summary": "The court rules in October that Chile has no obligation to negotiate ocean access."
+        },
+        {
+          "headline": "Morales confirms 2019 candidacy",
+          "summary": "He announces his re-election bid despite the referendum defeat."
+        }
+      ],
+      "sport": {
+        "headline": "No World Cup for Bolivia",
+        "summary": "The team watches Russia 2018 from home after another failed campaign."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 11671000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election sparks crisis",
+          "summary": "Morales claims victory in October amid fraud allegations; an OAS audit finds irregularities."
+        },
+        {
+          "headline": "Morales resigns and flees",
+          "summary": "After military pressure in November, he resigns and accepts asylum in Mexico."
+        },
+        {
+          "headline": "Áñez takes interim presidency",
+          "summary": "Senator Jeanine Áñez declares herself president amid deadly clashes in Sacaba and Senkata."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group exit",
+        "summary": "Bolivia loses all three group matches in Brazil, extending its Copa América winless streak."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 11816000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Arce wins election, MAS returns",
+          "summary": "Luis Arce wins October's vote outright, and Morales returns from exile in November."
+        },
+        {
+          "headline": "Interim government ends",
+          "summary": "The Áñez interim administration oversees the twice-postponed elections amid the COVID-19 pandemic."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by pandemic",
+        "summary": "Domestic leagues and World Cup qualifiers are suspended for months by COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 11937000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Áñez arrested over 2019 crisis",
+          "summary": "The former interim president is detained in March on sedition and terrorism charges."
+        },
+        {
+          "headline": "COVID vaccination campaign",
+          "summary": "Bolivia rolls out vaccines amid a deadly second wave of infections."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group exit",
+        "summary": "Bolivia loses all five matches in Brazil, conceding heavily in a dismal Copa América campaign."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 12077000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Census dispute fuels Santa Cruz strike",
+          "summary": "A 36-day civic strike demands an earlier census to reset funding and legislative seats."
+        },
+        {
+          "headline": "Camacho arrested",
+          "summary": "The Santa Cruz governor is detained in December over the 2019 political crisis."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying failure",
+        "summary": "Bolivia misses the Qatar 2022 World Cup, finishing second-to-last in CONMEBOL qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 12244000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Lithium deals signed",
+          "summary": "Bolivia signs extraction deals with Chinese and Russian firms for its vast reserves."
+        },
+        {
+          "headline": "Fuel and dollar shortages bite",
+          "summary": "Diesel scarcities and a parallel exchange rate signal deepening economic stress."
+        }
+      ],
+      "sport": {
+        "headline": "Martins retires from national team",
+        "summary": "All-time top scorer Marcelo Martins Moreno bows out in November."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 12413000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Failed coup attempt shakes La Paz",
+          "summary": "General Zúñiga storms the presidential palace with troops in June before backing down."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Dollar shortages and fuel lines worsen as foreign reserves dwindle."
+        }
+      ],
+      "sport": {
+        "headline": "Shock qualifying win over Colombia",
+        "summary": "Bolivia beats Colombia 1-0 in El Alto, reigniting 2026 World Cup hopes."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 12582000,
+      "fx_lcu_per_usd_annual_avg": 6.91,
+      "geopolitical_news": [
+        {
+          "headline": "Right wins presidency, ending MAS era",
+          "summary": "Rodrigo Paz wins the October runoff, closing two decades of leftist rule."
+        },
+        {
+          "headline": "Economic emergency declared",
+          "summary": "The new government inherits empty reserves, fuel shortages and soaring prices."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup playoff berth secured",
+        "summary": "Bolivia clinches seventh place and the inter-confederation playoff for 2026."
+      }
+    }
+  ]
+}

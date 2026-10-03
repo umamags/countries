@@ -13,7 +13,7 @@
       "name": "Mount Erebus",
       "writeup": "An active volcano and one of the southernmost active volcanoes on Earth.",
       "wiki": {
-        "extract": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441 ft), it is the second most prominent mountain in Antarctica and the second-highest volcano in Antarctica. It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova. It makes Ross Island the sixth-highest island on Earth by highest point.",
+        "extract": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441\u00a0ft), it is the second most prominent mountain in Antarctica and the second-highest volcano in Antarctica. It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova. It makes Ross Island the sixth-highest island on Earth by highest point.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mt_erebus.jpg",
         "url": "https://en.wikipedia.org/wiki/Mount_Erebus",
         "coordinates": {
@@ -26,7 +26,7 @@
       "name": "Ross Ice Shelf",
       "writeup": "The largest ice shelf of Antarctica, extending into the Ross Sea.",
       "wiki": {
-        "extract": "The Ross Ice Shelf is the largest ice shelf of Antarctica. It is several hundred metres thick. The nearly vertical ice front to the open sea is more than 600 km (370 mi) long, and between 15 and 50 m high above the water surface. Ninety percent of the floating ice, however, is below the water surface.",
+        "extract": "The Ross Ice Shelf is the largest ice shelf of Antarctica. It is several hundred metres thick. The nearly vertical ice front to the open sea is more than 600\u00a0km (370\u00a0mi) long, and between 15 and 50\u00a0m high above the water surface. Ninety percent of the floating ice, however, is below the water surface.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Corp2401_-_Flickr_-_NOAA_Photo_Library.jpg",
         "url": "https://en.wikipedia.org/wiki/Ross_Ice_Shelf",
         "coordinates": {
@@ -62,7 +62,7 @@
       "name": "Lemaire Channel",
       "writeup": "A scenic strait between the Antarctic Peninsula and Booth Island, popular for cruises.",
       "wiki": {
-        "extract": "Lemaire Channel is a strait off Antarctica, between Kyiv Peninsula in the mainland's Graham Land and Booth Island. Nicknamed \"Kodak Gap\" by some, it is one of the top tourist destinations in Antarctica; steep cliffs hem in the iceberg-filled passage, which is 11 km (6.8 mi) long and just 600 metres (2,000 ft) wide at its narrowest point.",
+        "extract": "Lemaire Channel is a strait off Antarctica, between Kyiv Peninsula in the mainland's Graham Land and Booth Island. Nicknamed \"Kodak Gap\" by some, it is one of the top tourist destinations in Antarctica; steep cliffs hem in the iceberg-filled passage, which is 11\u00a0km (6.8\u00a0mi) long and just 600 metres (2,000\u00a0ft) wide at its narrowest point.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ant-pen-map-Kiev.PNG",
         "url": "https://en.wikipedia.org/wiki/Lemaire_Channel",
         "coordinates": {
@@ -78,7 +78,7 @@
       "name": "Antarctic Treaty Consultative Meetings",
       "writeup": "Annual meetings where member countries discuss preservation and scientific cooperation.",
       "wiki": {
-        "extract": "The Antarctic Treaty and related agreements, collectively known as the Antarctic Treaty System (ATS), regulate international relations with respect to Antarctica, Earth's only continent without a native human population. It was the first arms control agreement established during the Cold War, designating the continent as a scientific preserve, establishing freedom of scientific investigation, and banning military activity; for the purposes of the treaty system, Antarctica is defined as all the land and ice shelves south of 60°S latitude. Since September 2004, the Antarctic Treaty Secretariat, which implements the treaty system, is headquartered in Buenos Aires, Argentina.",
+        "extract": "The Antarctic Treaty and related agreements, collectively known as the Antarctic Treaty System (ATS), regulate international relations with respect to Antarctica, Earth's only continent without a native human population. It was the first arms control agreement established during the Cold War, designating the continent as a scientific preserve, establishing freedom of scientific investigation, and banning military activity; for the purposes of the treaty system, Antarctica is defined as all the land and ice shelves south of 60\u00b0S latitude. Since September 2004, the Antarctic Treaty Secretariat, which implements the treaty system, is headquartered in Buenos Aires, Argentina.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_the_Antarctic_Treaty.svg/960px-Flag_of_the_Antarctic_Treaty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "url": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
       }
@@ -143,7 +143,7 @@
       "lon": 110.536214
     },
     {
-      "name": "Amundsen–Scott South Pole Station",
+      "name": "Amundsen\u2013Scott South Pole Station",
       "capital": false,
       "lat": -90,
       "lon": 176.994452

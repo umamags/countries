@@ -1,0 +1,396 @@
+{
+  "country": "Qatar",
+  "iso3": "QAT",
+  "currency": "QAR",
+  "currency_name": "Qatari Riyal",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 968000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Games hosted",
+          "summary": "Doha stages the Asian Games."
+        },
+        {
+          "headline": "Al Jazeera English launches",
+          "summary": "The English channel goes on air."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the Asian Games",
+        "summary": "Doha hosts the Asian Games, a coming-out party."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1152000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Gas boom",
+          "summary": "LNG expansion makes Qatar the top exporter."
+        },
+        {
+          "headline": "Regional mediation",
+          "summary": "Doha brokers deals in Lebanon and Darfur."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Qatar exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1554000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Doha Accord",
+          "summary": "Qatari mediation ends Lebanon's crisis."
+        },
+        {
+          "headline": "Financial crisis",
+          "summary": "The state fund snaps up distressed Western assets."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Qatari athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1639000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Darfur mediation",
+          "summary": "Doha hosts Sudan peace talks."
+        },
+        {
+          "headline": "Education City",
+          "summary": "Western university branches expand."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Qatar contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1715000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup 2022 awarded",
+          "summary": "FIFA grants Qatar the 2022 tournament."
+        },
+        {
+          "headline": "Bribery allegations",
+          "summary": "The vote immediately draws corruption claims."
+        }
+      ],
+      "sport": {
+        "headline": "Winning the World Cup bid",
+        "summary": "Qatar's shock victory reshapes football politics."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1733000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring role",
+          "summary": "Doha backs rebels in Libya and Syria."
+        },
+        {
+          "headline": "Al Jazeera influence",
+          "summary": "The channel amplifies uprisings."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup hosted",
+        "summary": "Qatar stage the Asian Cup."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1833000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Syria support",
+          "summary": "Qatar arms Syrian rebels."
+        },
+        {
+          "headline": "Wealth fund buys",
+          "summary": "QIA acquires stakes in global giants."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Qatari athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2004000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Emir abdicates",
+          "summary": "Sheikh Hamad hands power to son Tamim."
+        },
+        {
+          "headline": "New emir",
+          "summary": "The 33-year-old Tamim takes the throne."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Qatar contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2216000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf rift",
+          "summary": "Neighbours withdraw ambassadors over Qatar's policies."
+        },
+        {
+          "headline": "Labour scrutiny",
+          "summary": "World Cup worker conditions draw criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup triumph",
+        "summary": "Qatar win the Gulf Cup in Riyadh."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2438000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Handball Worlds hosted",
+          "summary": "Doha stages the handball championship."
+        },
+        {
+          "headline": "Yemen role",
+          "summary": "Qatar joins the Saudi-led coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Qatar exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2618000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Al Jazeera America closed",
+          "summary": "The US channel shuts down."
+        },
+        {
+          "headline": "Oil price diplomacy",
+          "summary": "Doha hosts producer talks."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Qatari athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2725000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf blockade",
+          "summary": "Saudi Arabia, UAE, Bahrain and Egypt cut ties in June."
+        },
+        {
+          "headline": "Defiance",
+          "summary": "Qatar weathers the embargo with Turkish and Iranian help."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Qatar's 2018 qualifying campaign ends."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2760000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Blockade persists",
+          "summary": "The Gulf crisis grinds into a second year."
+        },
+        {
+          "headline": "US base expansion",
+          "summary": "Al Udeid's role grows."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Qatari athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2799000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup triumph",
+          "summary": "Qatar win the Asian Cup in the UAE amid the blockade."
+        },
+        {
+          "headline": "OPEC exit",
+          "summary": "Doha leaves the oil cartel."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup champions",
+        "summary": "Qatar beat Japan 3-1 to win a first Asian Cup."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2834000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "COVID",
+          "summary": "The pandemic hits migrant workers hard."
+        },
+        {
+          "headline": "World Cup prep",
+          "summary": "Stadium construction nears completion."
+        }
+      ],
+      "sport": {
+        "headline": "AFC Champions League",
+        "summary": "Doha hosts the pandemic-compressed tournament."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2748000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Blockade ends",
+          "summary": "The Al-Ula declaration restores Gulf ties."
+        },
+        {
+          "headline": "Afghan evacuation",
+          "summary": "Doha becomes the hub for the Kabul airlift."
+        }
+      ],
+      "sport": {
+        "headline": "Gold Cup semifinal",
+        "summary": "Qatar reach the CONCACAF Gold Cup semifinals."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2932000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup hosted",
+          "summary": "Qatar stages the first Middle Eastern World Cup."
+        },
+        {
+          "headline": "Messi's triumph",
+          "summary": "Argentina beat France in a classic final."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the World Cup",
+        "summary": "Qatar host the World Cup; Morocco stun the field."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3063000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza mediation",
+          "summary": "Doha brokers hostage deals between Israel and Hamas."
+        },
+        {
+          "headline": "LNG expansion",
+          "summary": "The North Field project advances."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup hosted",
+        "summary": "Qatar prepare to host the Asian Cup."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3143000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup retained",
+          "summary": "Qatar win a second straight Asian Cup at home."
+        },
+        {
+          "headline": "Gaza talks",
+          "summary": "Doha remains the key mediator."
+        }
+      ],
+      "sport": {
+        "headline": "Back-to-back Asian Cups",
+        "summary": "Qatar beat Jordan to retain the Asian Cup."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3175000,
+      "fx_lcu_per_usd_annual_avg": 3.64,
+      "geopolitical_news": [
+        {
+          "headline": "Israeli strike on Doha",
+          "summary": "An Israeli attack targeting Hamas shocks the Gulf."
+        },
+        {
+          "headline": "Mediation role",
+          "summary": "Qatar stays central to Gaza diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Qatar contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

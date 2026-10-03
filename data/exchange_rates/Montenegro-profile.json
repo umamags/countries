@@ -1,0 +1,396 @@
+{
+  "country": "Montenegro",
+  "iso3": "MNE",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 615000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro votes for independence",
+          "summary": "A May referendum backs splitting from Serbia."
+        },
+        {
+          "headline": "Independence declared",
+          "summary": "Parliament proclaims independence on June 3."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro's players at the World Cup",
+        "summary": "Montenegrins play for Serbia and Montenegro in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 616000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution adopted",
+          "summary": "Parliament passes a new constitution in October."
+        },
+        {
+          "headline": "Montenegro builds statehood",
+          "summary": "Podgorica establishes institutions and diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro play first match",
+        "summary": "The new national team beat Hungary 2-1 in March."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 617000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Dukanovic returns as PM",
+          "summary": "Milo Dukanovic takes office again in February."
+        },
+        {
+          "headline": "Montenegro recognises Kosovo",
+          "summary": "Podgorica recognises Kosovo in October."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro debut in World Cup qualifying",
+        "summary": "The new team open their first qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 618000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "DPS wins election",
+          "summary": "The ruling party triumphs in March elections."
+        },
+        {
+          "headline": "Montenegro weathers crisis",
+          "summary": "The economy proves resilient."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss 2010 World Cup",
+        "summary": "Montenegro finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 619000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Dukanovic resigns",
+          "summary": "The long-time leader steps down in December."
+        },
+        {
+          "headline": "Montenegro gains EU candidate status",
+          "summary": "Brussels awards candidacy in December."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro reach Euro 2012 playoff",
+        "summary": "A second-place finish earns a playoff shot."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 620000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Luksic leads government",
+          "summary": "Igor Luksic becomes Europe's youngest PM."
+        },
+        {
+          "headline": "EU talks loom",
+          "summary": "Brussels prepares to open accession negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs deny Montenegro Euro 2012",
+        "summary": "Montenegro lose their playoff."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 621000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "EU opens accession talks",
+          "summary": "Negotiations begin in June."
+        },
+        {
+          "headline": "DPS wins election",
+          "summary": "October elections keep the ruling party in power."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro lead World Cup qualifying group",
+        "summary": "A stunning start puts Montenegro top of their group."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 623000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Dukanovic returns as PM",
+          "summary": "The veteran leader takes office again in December 2012."
+        },
+        {
+          "headline": "EU talks progress",
+          "summary": "Accession chapters begin opening."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss 2014 World Cup",
+        "summary": "Montenegro finish third behind England and Ukraine."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 624000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro backs Russia sanctions",
+          "summary": "Podgorica joins EU sanctions over Ukraine."
+        },
+        {
+          "headline": "NATO path advances",
+          "summary": "Membership talks intensify."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro begin Euro 2016 qualifying",
+        "summary": "Montenegro open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 625000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "NATO invites Montenegro",
+          "summary": "The alliance invites Podgorica in December."
+        },
+        {
+          "headline": "Protests rock Podgorica",
+          "summary": "Opposition demonstrations turn violent in October."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss Euro 2016",
+        "summary": "Montenegro finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 625000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Election amid coup plot claims",
+          "summary": "October elections are marred by alleged Russian coup plotting."
+        },
+        {
+          "headline": "DPS wins disputed vote",
+          "summary": "The ruling party triumphs narrowly."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro begin World Cup qualifying",
+        "summary": "Montenegro open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 626000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro joins NATO",
+          "summary": "Podgorica becomes the alliance's 29th member in June."
+        },
+        {
+          "headline": "Russia fumes",
+          "summary": "Moscow condemns the accession."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss 2018 World Cup",
+        "summary": "Montenegro finish third behind Poland and Denmark."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 626000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Dukanovic elected president",
+          "summary": "The veteran leader wins April's presidential vote."
+        },
+        {
+          "headline": "Markovic leads government",
+          "summary": "Dusko Markovic serves as PM."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro compete in Nations League C",
+        "summary": "Montenegro finish second in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 627000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Church law protests",
+          "summary": "A religion law sparks mass Serbian Orthodox protests."
+        },
+        {
+          "headline": "EU talks slow",
+          "summary": "Accession progress stalls."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss Euro 2020",
+        "summary": "Montenegro finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 627000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "DPS loses historic election",
+          "summary": "The ruling party falls in August elections, a first."
+        },
+        {
+          "headline": "Krivokapic becomes PM",
+          "summary": "Zdravko Krivokapic forms a new government in December."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro compete in Nations League C",
+        "summary": "Montenegro battle in their League C group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 625000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Government crisis",
+          "summary": "The new coalition feuds constantly."
+        },
+        {
+          "headline": "Church tensions persist",
+          "summary": "The religion law row continues."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss 2022 World Cup",
+        "summary": "Montenegro finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 624000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Government falls",
+          "summary": "Parliament topples the cabinet in February."
+        },
+        {
+          "headline": "Abazovic becomes PM",
+          "summary": "Dritan Abazovic forms a minority government."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro compete in Nations League B",
+        "summary": "Montenegro battle in their League B group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 624000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Milatovic beats Dukanovic",
+          "summary": "Jakov Milatovic wins April's presidential election."
+        },
+        {
+          "headline": "PES wins parliamentary election",
+          "summary": "June elections bring Europe Now to power; Spajic becomes PM."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro miss Euro 2024",
+        "summary": "Montenegro finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 624000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "New government settles in",
+          "summary": "Spajic's cabinet pursues EU reforms."
+        },
+        {
+          "headline": "Montenegro's EU push",
+          "summary": "Podgorica aims to close accession chapters."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro relegated from Nations League B",
+        "summary": "Montenegro finish bottom of their group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 624000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro's EU bid advances",
+          "summary": "Accession talks make progress."
+        },
+        {
+          "headline": "Coalition holds",
+          "summary": "The government remains stable."
+        }
+      ],
+      "sport": {
+        "headline": "Montenegro chase World Cup qualification",
+        "summary": "Montenegro compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

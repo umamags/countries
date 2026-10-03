@@ -1,0 +1,396 @@
+{
+  "country": "Serbia",
+  "iso3": "SRB",
+  "currency": "RSD",
+  "currency_name": "Serbian Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7412000,
+      "fx_lcu_per_usd_annual_avg": 67.1551,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro votes to leave",
+          "summary": "Serbia becomes independent after the May referendum."
+        },
+        {
+          "headline": "Milosevic dies at The Hague",
+          "summary": "The former strongman dies in March during his trial."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia and Montenegro exit World Cup",
+        "summary": "The joint team bow out in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 7382000,
+      "fx_lcu_per_usd_annual_avg": 58.4496,
+      "geopolitical_news": [
+        {
+          "headline": "Radicals win plurality",
+          "summary": "January elections give the far right the most seats."
+        },
+        {
+          "headline": "Kostunica forms government",
+          "summary": "A fragile coalition takes office in May."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia miss Euro 2008",
+        "summary": "Serbia finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 7350000,
+      "fx_lcu_per_usd_annual_avg": 55.7293,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo declares independence",
+          "summary": "Belgrade rejects Pristina's February secession."
+        },
+        {
+          "headline": "Tadic wins presidency",
+          "summary": "Boris Tadic defeats the Radical candidate in February."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia top World Cup qualifying group",
+        "summary": "Serbia make a flying start to 2010 qualifying."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 7321000,
+      "fx_lcu_per_usd_annual_avg": 67.6049,
+      "geopolitical_news": [
+        {
+          "headline": "Karadzic extradited",
+          "summary": "The Bosnian Serb leader faces trial at The Hague."
+        },
+        {
+          "headline": "Serbia applies for EU membership",
+          "summary": "Belgrade submits its application in December."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia qualify for 2010 World Cup",
+        "summary": "Serbia win their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 7291000,
+      "fx_lcu_per_usd_annual_avg": 77.7228,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ rules on Kosovo",
+          "summary": "The court says Kosovo's declaration did not break international law."
+        },
+        {
+          "headline": "Belgrade fumes",
+          "summary": "Serbia rejects the advisory opinion."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia exit World Cup in group stage",
+        "summary": "Serbia bow out despite beating Germany."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7237000,
+      "fx_lcu_per_usd_annual_avg": 73.3554,
+      "geopolitical_news": [
+        {
+          "headline": "Mladic arrested",
+          "summary": "The wartime general is captured in May."
+        },
+        {
+          "headline": "EU candidacy granted",
+          "summary": "Brussels awards candidate status in 2012 process."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia miss Euro 2012",
+        "summary": "Serbia finish third after the abandoned Italy match."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7201000,
+      "fx_lcu_per_usd_annual_avg": 87.9588,
+      "geopolitical_news": [
+        {
+          "headline": "Nikolic wins presidency",
+          "summary": "Tomislav Nikolic defeats Tadic in May."
+        },
+        {
+          "headline": "SNS wins election",
+          "summary": "The Progressives triumph; Dacic becomes PM."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia begin World Cup qualifying",
+        "summary": "Serbia open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 7167000,
+      "fx_lcu_per_usd_annual_avg": 85.1588,
+      "geopolitical_news": [
+        {
+          "headline": "Brussels Agreement signed",
+          "summary": "Serbia and Kosovo agree normalisation steps in April."
+        },
+        {
+          "headline": "EU talks open",
+          "summary": "Accession negotiations begin in January 2014."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia miss 2014 World Cup",
+        "summary": "Serbia finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 7132000,
+      "fx_lcu_per_usd_annual_avg": 88.4053,
+      "geopolitical_news": [
+        {
+          "headline": "Vucic wins election",
+          "summary": "The Progressives triumph in March elections."
+        },
+        {
+          "headline": "Floods devastate Serbia",
+          "summary": "May floods cause widespread destruction."
+        }
+      ],
+      "sport": {
+        "headline": "Drone halts Serbia-Albania match",
+        "summary": "A flag drone stops the Belgrade qualifier; Serbia are punished."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 7095000,
+      "fx_lcu_per_usd_annual_avg": 108.8114,
+      "geopolitical_news": [
+        {
+          "headline": "Migrant crisis hits Serbia",
+          "summary": "Thousands transit Serbia on the Balkan route."
+        },
+        {
+          "headline": "EU chapters open",
+          "summary": "The first accession chapters begin."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia miss Euro 2016",
+        "summary": "Serbia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 7058000,
+      "fx_lcu_per_usd_annual_avg": 111.2779,
+      "geopolitical_news": [
+        {
+          "headline": "Vucic wins election again",
+          "summary": "The Progressives triumph in April elections."
+        },
+        {
+          "headline": "Serbia's EU path continues",
+          "summary": "More accession chapters open."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia top World Cup qualifying group",
+        "summary": "Serbia lead their 2018 qualifying group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 7021000,
+      "fx_lcu_per_usd_annual_avg": 107.7588,
+      "geopolitical_news": [
+        {
+          "headline": "Vucic elected president",
+          "summary": "The PM wins April's presidential election."
+        },
+        {
+          "headline": "Brnabic becomes PM",
+          "summary": "Ana Brnabic forms a new government."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia qualify for 2018 World Cup",
+        "summary": "Serbia top their group to reach Russia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 6983000,
+      "fx_lcu_per_usd_annual_avg": 100.1751,
+      "geopolitical_news": [
+        {
+          "headline": "Belgrade-Pristina tensions",
+          "summary": "The Kosovo dialogue stalls."
+        },
+        {
+          "headline": "Protests begin",
+          "summary": "Opposition rallies start in December."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia exit World Cup in group stage",
+        "summary": "Serbia bow out in Russia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 6945000,
+      "fx_lcu_per_usd_annual_avg": 105.2496,
+      "geopolitical_news": [
+        {
+          "headline": "Protests continue",
+          "summary": "Weekly opposition demonstrations persist."
+        },
+        {
+          "headline": "Serbia's EU talks slow",
+          "summary": "Accession progress stalls."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia miss Euro 2020 automatically",
+        "summary": "Serbia finish third but keep playoff hopes."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 6899000,
+      "fx_lcu_per_usd_annual_avg": 103.1633,
+      "geopolitical_news": [
+        {
+          "headline": "SNS wins boycotted election",
+          "summary": "June elections are shunned by the opposition."
+        },
+        {
+          "headline": "COVID-19 hits Serbia",
+          "summary": "The pandemic strains hospitals."
+        }
+      ],
+      "sport": {
+        "headline": "Scotland deny Serbia Euro 2020",
+        "summary": "Serbia lose their playoff final on penalties."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 6834000,
+      "fx_lcu_per_usd_annual_avg": 99.3959,
+      "geopolitical_news": [
+        {
+          "headline": "Serbia's vaccine diplomacy",
+          "summary": "Belgrade sources doses from China and Russia."
+        },
+        {
+          "headline": "Environmental protests",
+          "summary": "Lithium mining plans spark demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia stun Portugal to qualify",
+        "summary": "A late win in Lisbon tops the World Cup qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 6664000,
+      "fx_lcu_per_usd_annual_avg": 111.6622,
+      "geopolitical_news": [
+        {
+          "headline": "Vucic re-elected",
+          "summary": "The president wins April's election; SNS wins parliament."
+        },
+        {
+          "headline": "Serbia balances Russia and EU",
+          "summary": "Belgrade refuses to sanction Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia exit World Cup in group stage",
+        "summary": "Serbia bow out in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 6623000,
+      "fx_lcu_per_usd_annual_avg": 108.4027,
+      "geopolitical_news": [
+        {
+          "headline": "Mass shootings shock Serbia",
+          "summary": "May gun massacres kill 18 and spark protests."
+        },
+        {
+          "headline": "SNS wins snap election",
+          "summary": "December elections keep the Progressives in power."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia qualify for Euro 2024",
+        "summary": "Serbia reach a first European Championship as an independent nation."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 6586000,
+      "fx_lcu_per_usd_annual_avg": 108.2077,
+      "geopolitical_news": [
+        {
+          "headline": "Election fraud protests",
+          "summary": "Opposition alleges fraud in the December vote."
+        },
+        {
+          "headline": "Lithium mine approved",
+          "summary": "The government backs the Jadar project amid protests."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia exit Euro 2024 in group stage",
+        "summary": "Serbia bow out with two draws."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 6540000,
+      "fx_lcu_per_usd_annual_avg": 103.9754,
+      "geopolitical_news": [
+        {
+          "headline": "Novi Sad disaster sparks protests",
+          "summary": "A station canopy collapse kills 16; mass rallies follow."
+        },
+        {
+          "headline": "Government reshuffled",
+          "summary": "Vucevic resigns as PM in January amid unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Serbia chase World Cup qualification",
+        "summary": "Serbia compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

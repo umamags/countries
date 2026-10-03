@@ -1,0 +1,396 @@
+{
+  "country": "Turkmenistan",
+  "iso3": "TKM",
+  "currency": "TMT",
+  "currency_name": "Turkmenistani Manat",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4996000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Niyazov dies",
+          "summary": "The eccentric dictator dies in December."
+        },
+        {
+          "headline": "Succession",
+          "summary": "Gurbanguly Berdimuhamedow takes power."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Turkmen athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5055000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Berdimuhamedow elected",
+          "summary": "The new president wins February polls."
+        },
+        {
+          "headline": "Cautious opening",
+          "summary": "Some Niyazov-era excesses are reversed."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Turkmenistan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 5117000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gas boom",
+          "summary": "High prices fund the personality cult's successor."
+        },
+        {
+          "headline": "Neutrality",
+          "summary": "Ashgabat maintains its isolationist stance."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Turkmen athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 5181000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gas pipeline to China",
+          "summary": "The Central Asia-China line opens."
+        },
+        {
+          "headline": "Pipeline blast",
+          "summary": "An explosion halts Russian gas imports."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Turkmenistan contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 5268000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "China gas flows",
+          "summary": "Exports to Beijing transform revenues."
+        },
+        {
+          "headline": "Personality cult",
+          "summary": "The new president builds his own image."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Turkmen athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 5361000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary polls",
+          "summary": "Rubber-stamp elections are held."
+        },
+        {
+          "headline": "Gas disputes",
+          "summary": "Pricing rows with buyers persist."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Turkmenistan contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5459000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Berdimuhamedow re-elected",
+          "summary": "The president wins with 97 percent."
+        },
+        {
+          "headline": "Sham democracy",
+          "summary": "A second party is created as window dressing."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Turkmen athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5560000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gas wealth",
+          "summary": "Marble-clad Ashgabat gleams."
+        },
+        {
+          "headline": "Isolation",
+          "summary": "The hermit state stays closed."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Turkmenistan contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5663000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "TAPI pipeline",
+          "summary": "The Turkmenistan-Afghanistan-Pakistan-India line is promoted."
+        },
+        {
+          "headline": "Economic strain",
+          "summary": "Falling gas prices bite."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Turkmen athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5766000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Currency crisis",
+          "summary": "The manat is devalued."
+        },
+        {
+          "headline": "Austerity",
+          "summary": "Subsidies are cut."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Turkmenistan contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5869000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution changed",
+          "summary": "Term limits are scrapped for the president."
+        },
+        {
+          "headline": "Economic woes",
+          "summary": "Gas price falls hurt."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Turkmen athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5968000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Indoor Games hosted",
+          "summary": "Ashgabat stages the lavish event."
+        },
+        {
+          "headline": "Berdimuhamedow re-elected",
+          "summary": "Another 97-percent victory."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the Asian Indoor Games",
+        "summary": "Ashgabat host a $5 billion sporting showcase."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 6065000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Gas deal with China",
+          "summary": "Supply contracts are extended."
+        },
+        {
+          "headline": "Food shortages",
+          "summary": "Bread lines form amid the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Turkmen athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 6158000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Asian Cup campaign",
+          "summary": "Off the pitch, the president's son rises."
+        },
+        {
+          "headline": "Succession talk",
+          "summary": "Serdar Berdimuhamedow is promoted."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup debut",
+        "summary": "Turkmenistan play at the Asian Cup."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 6250000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "COVID denial",
+          "summary": "Ashgabat claims zero cases."
+        },
+        {
+          "headline": "Economic crisis",
+          "summary": "The pandemic worsens hardships."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Turkmen football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 6342000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Horse racing diplomacy",
+          "summary": "The president's equestrian passion is showcased."
+        },
+        {
+          "headline": "Gas exports",
+          "summary": "China remains the lifeline."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Polina Guryeva wins weightlifting silver, a first medal."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 6431000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Father-to-son handover",
+          "summary": "Serdar wins a snap presidential election."
+        },
+        {
+          "headline": "Dynastic succession",
+          "summary": "Central Asia's first family transfer."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Turkmenistan contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 6516000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Serdar consolidates",
+          "summary": "The son builds his administration."
+        },
+        {
+          "headline": "Gas diplomacy",
+          "summary": "TAPI and China talks continue."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Turkmen athletes compete in Hangzhou."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 6598000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Methane scrutiny",
+          "summary": "Satellite data exposes huge gas leaks."
+        },
+        {
+          "headline": "Climate pledges",
+          "summary": "Ashgabat promises cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Turkmen athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 6680000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Neutrality celebrated",
+          "summary": "Thirty years of neutrality are marked."
+        },
+        {
+          "headline": "Gas expansion",
+          "summary": "New fields and pipelines are pursued."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Turkmenistan contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

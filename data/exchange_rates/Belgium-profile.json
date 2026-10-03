@@ -1,0 +1,396 @@
+{
+  "country": "Belgium",
+  "iso3": "BEL",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10511000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Local elections shake politics",
+          "summary": "October municipal elections show gains for the far right in Flanders."
+        },
+        {
+          "headline": "Brussels district row paralyses politics",
+          "summary": "The dispute over the Brussels-Halle-Vilvoorde district poisons coalition talks."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium miss 2006 World Cup",
+        "summary": "Belgium fail to qualify for the first time since 1978."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10585000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Record coalition talks begin",
+          "summary": "June elections trigger marathon negotiations amid Flemish-Walloon tensions."
+        },
+        {
+          "headline": "Leterme struggles to form government",
+          "summary": "Months of deadlock follow the federal election."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium miss Euro 2008",
+        "summary": "Belgium finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10667000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Fortis bailed out and broken up",
+          "summary": "Belgium, the Netherlands and Luxembourg rescue Fortis, then dismantle it."
+        },
+        {
+          "headline": "Leterme government falls",
+          "summary": "The prime minister resigns in December over the Fortis affair."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium begin 2010 World Cup qualifying",
+        "summary": "Belgium start qualifying with a promising new generation of talent."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10753000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Van Rompuy becomes first EU president",
+          "summary": "Herman Van Rompuy is chosen as the EU's first permanent Council president."
+        },
+        {
+          "headline": "Leterme returns as prime minister",
+          "summary": "Yves Leterme forms a new government in November."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium miss 2010 World Cup",
+        "summary": "Belgium finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10840000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Government collapses over BHV",
+          "summary": "The coalition falls in April over the Brussels electoral district row."
+        },
+        {
+          "headline": "World-record government deadlock begins",
+          "summary": "June elections lead to a record-breaking formation crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium's young stars shine in qualifying",
+        "summary": "Belgium mount a credible Euro 2012 qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 11001000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Di Rupo ends 541-day deadlock",
+          "summary": "Elio Di Rupo forms a government in December, ending the crisis."
+        },
+        {
+          "headline": "Belgium agrees sixth state reform",
+          "summary": "A landmark deal splits Brussels-Halle-Vilvoorde and devolves powers."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium narrowly miss Euro 2012",
+        "summary": "Belgium finish third in their group, just missing the playoffs."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 11076000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "N-VA triumphs in local elections",
+          "summary": "Bart De Wever's nationalists win big in October, taking Antwerp."
+        },
+        {
+          "headline": "Belgium backs EU fiscal compact",
+          "summary": "Brussels signs the fiscal treaty amid austerity debates."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium storm World Cup qualifying",
+        "summary": "Belgium top their group to reach a first World Cup since 2002."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11138000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "King Albert II abdicates",
+          "summary": "Philippe becomes king after his father's abdication in July."
+        },
+        {
+          "headline": "Belgian spying revelations emerge",
+          "summary": "Reports surface of British intelligence hacking Belgacom."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium seal World Cup return",
+        "summary": "Belgium qualify with ease as Europe's rising force."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 11181000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "N-VA wins federal election",
+          "summary": "Flemish nationalists top May's parliamentary elections."
+        },
+        {
+          "headline": "Michel forms centre-right government",
+          "summary": "Charles Michel becomes PM of a right-leaning coalition in October."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium reach World Cup quarter-finals",
+        "summary": "Belgium lose to Argentina in the last eight in Brazil."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11237000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Brussels locked down after Paris attacks",
+          "summary": "The capital is paralysed for days as police hunt terror suspects."
+        },
+        {
+          "headline": "Belgium raises terror threat level",
+          "summary": "Army patrols deploy amid fears of follow-on attacks."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium top FIFA rankings",
+        "summary": "Belgium reach world number one for the first time."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11311000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Brussels bombings kill dozens",
+          "summary": "Suicide bombings at the airport and metro kill over 30 people."
+        },
+        {
+          "headline": "Belgium extends anti-terror operations",
+          "summary": "Molenbeek raids and army patrols follow the March attacks."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium flop at Euro 2016",
+        "summary": "Belgium lose to Wales in the quarter-finals."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11352000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Belgium first in Europe to qualify for World Cup",
+          "summary": "Belgium book their Russia 2018 spot in September."
+        },
+        {
+          "headline": "Puigdemont flees to Belgium",
+          "summary": "Catalonia's ousted leader seeks refuge in Brussels, straining ties with Spain."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium qualify for World Cup in style",
+        "summary": "Belgium dominate their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 11399000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Michel government collapses",
+          "summary": "The N-VA quits the coalition over the UN migration pact in December."
+        },
+        {
+          "headline": "Migration pact row splits Belgium",
+          "summary": "The UN compact dispute brings down the government."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium finish third at World Cup",
+        "summary": "Belgium beat England in the playoff for their best-ever finish."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 11456000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Election produces fragmented parliament",
+          "summary": "May elections leave Belgium facing another marathon government formation."
+        },
+        {
+          "headline": "Long coalition talks begin",
+          "summary": "Seven parties eventually needed for a majority emerge slowly."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium dominate Euro 2020 qualifying",
+        "summary": "Belgium win all ten of their qualifiers."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 11522000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "De Croo forms government after 493 days",
+          "summary": "A seven-party coalition takes office in October."
+        },
+        {
+          "headline": "Belgium hit hard by COVID-19",
+          "summary": "Belgium records one of Europe's highest per-capita death tolls."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium win Nations League group",
+        "summary": "Belgium top their group to reach the Nations League finals."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 11555000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly floods hit eastern Belgium",
+          "summary": "July floods kill dozens and cause massive damage in Wallonia."
+        },
+        {
+          "headline": "Brussels hosts NATO summit",
+          "summary": "Biden meets allied leaders in Brussels in June."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium exit Euro 2020 in quarter-finals",
+        "summary": "Italy end Belgium's run in Munich."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 11618000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Belgium extends nuclear reactors",
+          "summary": "The energy crisis forces a U-turn on the nuclear phase-out."
+        },
+        {
+          "headline": "Belgium backs Ukraine",
+          "summary": "Brussels supplies aid and hosts Ukrainian refugees."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium crash out of World Cup",
+        "summary": "Belgium exit in the group stage in Qatar; Martinez resigns."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 11743000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Qatargate fallout rocks Brussels",
+          "summary": "The EU Parliament cash-for-influence scandal centres on Belgium's capital."
+        },
+        {
+          "headline": "Far right rises in polls",
+          "summary": "Vlaams Belang tops Flemish polls ahead of 2024 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium qualify for Euro 2024",
+        "summary": "Belgium top their qualifying group unbeaten."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 11817000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Elections bring rightward shift",
+          "summary": "June elections strengthen the right; marathon talks follow."
+        },
+        {
+          "headline": "Belgium holds EU presidency",
+          "summary": "Brussels steers the EU Council in the first half of the year."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium exit Euro 2024 in last 16",
+        "summary": "France knock Belgium out in Dusseldorf."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 11883000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "De Wever becomes prime minister",
+          "summary": "N-VA leader Bart De Wever takes office after long coalition talks."
+        },
+        {
+          "headline": "Belgium boosts defence spending",
+          "summary": "Brussels pledges higher military spending amid NATO pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium chase World Cup qualification",
+        "summary": "Belgium compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

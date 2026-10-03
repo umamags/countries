@@ -1,0 +1,400 @@
+{
+  "country": "Central African Republic",
+  "iso3": "CAF",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4339000,
+      "fx_lcu_per_usd_annual_avg": 522.4256,
+      "geopolitical_news": [
+        {
+          "headline": "Bush war rages in the north",
+          "summary": "Rebel offensives seize towns as Bozize's army struggles to respond."
+        },
+        {
+          "headline": "French troops back government",
+          "summary": "Paris deploys forces to stop rebels advancing on Bangui."
+        }
+      ],
+      "sport": {
+        "headline": "CAR fall short in AFCON qualifying",
+        "summary": "Les Fauves miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 4416000,
+      "fx_lcu_per_usd_annual_avg": 478.6337,
+      "geopolitical_news": [
+        {
+          "headline": "Peace deals signed with rebels",
+          "summary": "Syrte and Birao agreements aim to end the bush war."
+        },
+        {
+          "headline": "UN mission proposed",
+          "summary": "The Security Council plans a force for CAR and Chad."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2008 AFCON",
+        "summary": "Les Fauves fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4509000,
+      "fx_lcu_per_usd_annual_avg": 446.0,
+      "geopolitical_news": [
+        {
+          "headline": "Inclusive political dialogue held",
+          "summary": "December talks bring rebels and opposition into a unity process."
+        },
+        {
+          "headline": "EU force deploys",
+          "summary": "European troops arrive to protect refugees near the Darfur border."
+        }
+      ],
+      "sport": {
+        "headline": "CAR compete at Beijing Olympics",
+        "summary": "Central African athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4609000,
+      "fx_lcu_per_usd_annual_avg": 470.2934,
+      "geopolitical_news": [
+        {
+          "headline": "Rebel disarmament stalls",
+          "summary": "Fighters refuse to demobilize as peace deals fray."
+        },
+        {
+          "headline": "Bozize consolidates power",
+          "summary": "The president tightens control ahead of elections."
+        }
+      ],
+      "sport": {
+        "headline": "CAR chase 2010 World Cup spot",
+        "summary": "Les Fauves compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4449000,
+      "fx_lcu_per_usd_annual_avg": 494.7943,
+      "geopolitical_news": [
+        {
+          "headline": "Elections delayed repeatedly",
+          "summary": "The presidential vote is pushed back amid opposition protests."
+        },
+        {
+          "headline": "LRA atrocities in the east",
+          "summary": "Joseph Kony's rebels massacre civilians in remote regions."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2010 World Cup",
+        "summary": "Les Fauves fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4537000,
+      "fx_lcu_per_usd_annual_avg": 471.2486,
+      "geopolitical_news": [
+        {
+          "headline": "Bozize re-elected amid fraud claims",
+          "summary": "The president wins January's vote; the opposition rejects the result."
+        },
+        {
+          "headline": "Rebels regroup in the north",
+          "summary": "Former bush-war fighters begin reorganizing."
+        }
+      ],
+      "sport": {
+        "headline": "CAR narrowly miss 2012 AFCON",
+        "summary": "Les Fauves come agonizingly close to a first AFCON before final-day heartbreak."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 4593000,
+      "fx_lcu_per_usd_annual_avg": 510.5563,
+      "geopolitical_news": [
+        {
+          "headline": "Seleka rebellion erupts",
+          "summary": "A rebel coalition seizes northern towns in December, threatening Bangui."
+        },
+        {
+          "headline": "Regional mediation begins",
+          "summary": "Central African leaders broker a January power-sharing deal."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2013 AFCON",
+        "summary": "Les Fauves fall in the final qualifying round."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 4628000,
+      "fx_lcu_per_usd_annual_avg": 493.8996,
+      "geopolitical_news": [
+        {
+          "headline": "Seleka seizes Bangui, Bozize flees",
+          "summary": "Rebels take the capital in March; Michel Djotodia declares himself president."
+        },
+        {
+          "headline": "Sectarian violence explodes",
+          "summary": "Christian anti-balaka militias massacre Muslims as the state collapses."
+        },
+        {
+          "headline": "France launches Sangaris operation",
+          "summary": "French troops deploy in December as massacres mount."
+        }
+      ],
+      "sport": {
+        "headline": "CAR's footballers defy chaos",
+        "summary": "Les Fauves continue playing qualifiers despite the country's collapse."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 4656000,
+      "fx_lcu_per_usd_annual_avg": 493.7573,
+      "geopolitical_news": [
+        {
+          "headline": "Djotodia resigns under pressure",
+          "summary": "Regional leaders force the rebel chief out in January."
+        },
+        {
+          "headline": "Samba-Panza named interim president",
+          "summary": "Bangui's mayor becomes Africa's third female head of state."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2014 World Cup",
+        "summary": "Les Fauves fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 4590000,
+      "fx_lcu_per_usd_annual_avg": 591.2117,
+      "geopolitical_news": [
+        {
+          "headline": "Violence flares again in Bangui",
+          "summary": "September clashes kill dozens and displace thousands."
+        },
+        {
+          "headline": "Referendum approves new constitution",
+          "summary": "December's vote paves the way for elections."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2015 AFCON",
+        "summary": "Les Fauves fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4669000,
+      "fx_lcu_per_usd_annual_avg": 592.6056,
+      "geopolitical_news": [
+        {
+          "headline": "Touadera wins presidential election",
+          "summary": "The former prime minister defeats Dologuele in February's runoff."
+        },
+        {
+          "headline": "UN mission struggles",
+          "summary": "MINUSCA fails to stop armed groups controlling most of the country."
+        }
+      ],
+      "sport": {
+        "headline": "CAR compete at Rio Olympics",
+        "summary": "Central African athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4759000,
+      "fx_lcu_per_usd_annual_avg": 580.6567,
+      "geopolitical_news": [
+        {
+          "headline": "Sectarian massacres continue",
+          "summary": "Armed groups kill hundreds as the state controls only Bangui."
+        },
+        {
+          "headline": "Russia enters the fray",
+          "summary": "Moscow sends arms and instructors, beginning a deep engagement."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2017 AFCON",
+        "summary": "Les Fauves fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 4828000,
+      "fx_lcu_per_usd_annual_avg": 555.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Khartoum peace talks begin",
+          "summary": "The African Union brokers negotiations with 14 armed groups."
+        },
+        {
+          "headline": "Wagner mercenaries arrive",
+          "summary": "Russian paramilitaries deploy to protect the presidency and mines."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2018 World Cup",
+        "summary": "Les Fauves fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 4929000,
+      "fx_lcu_per_usd_annual_avg": 585.911,
+      "geopolitical_news": [
+        {
+          "headline": "Peace deal signed in Khartoum",
+          "summary": "February's accord with armed groups quickly unravels."
+        },
+        {
+          "headline": "Wagner entrenches itself",
+          "summary": "Russian mercenaries expand control over gold and diamond mines."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2019 AFCON",
+        "summary": "Les Fauves fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 4961000,
+      "fx_lcu_per_usd_annual_avg": 575.586,
+      "geopolitical_news": [
+        {
+          "headline": "Rebels launch pre-election offensive",
+          "summary": "The CPC coalition seizes towns in December, threatening Bangui."
+        },
+        {
+          "headline": "Touadera re-elected amid violence",
+          "summary": "The president wins December's vote as rebels disrupt polling."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "CAR's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5093000,
+      "fx_lcu_per_usd_annual_avg": 554.5307,
+      "geopolitical_news": [
+        {
+          "headline": "Government retakes towns with Russian help",
+          "summary": "Wagner-backed forces push rebels back from Bangui."
+        },
+        {
+          "headline": "Atrocities alleged by all sides",
+          "summary": "UN investigators document abuses by rebels, soldiers and mercenaries."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2021 AFCON",
+        "summary": "Les Fauves fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5131000,
+      "fx_lcu_per_usd_annual_avg": 623.7597,
+      "geopolitical_news": [
+        {
+          "headline": "French troops withdraw",
+          "summary": "Paris ends its military presence in December amid Russian influence."
+        },
+        {
+          "headline": "Touadera seeks third term",
+          "summary": "The president moves to scrap term limits via constitutional reform."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2022 World Cup",
+        "summary": "Les Fauves fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5065000,
+      "fx_lcu_per_usd_annual_avg": 606.5698,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum scraps term limits",
+          "summary": "July's vote lets Touadera seek re-election indefinitely."
+        },
+        {
+          "headline": "Wagner mutiny ripples reach Bangui",
+          "summary": "The Russian group's turmoil raises questions about CAR's security."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2023 AFCON",
+        "summary": "Les Fauves fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5331000,
+      "fx_lcu_per_usd_annual_avg": 606.3453,
+      "geopolitical_news": [
+        {
+          "headline": "Touadera deepens Russian ties",
+          "summary": "Bangui signs new security and mining deals with Moscow."
+        },
+        {
+          "headline": "Rebel violence persists",
+          "summary": "CPC factions continue attacks despite government offensives."
+        }
+      ],
+      "sport": {
+        "headline": "CAR chase 2026 World Cup spot",
+        "summary": "Les Fauves stay in contention in qualifying for the expanded tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5513000,
+      "fx_lcu_per_usd_annual_avg": 581.9285,
+      "geopolitical_news": [
+        {
+          "headline": "Touadera seeks new term",
+          "summary": "The president prepares a re-election bid under the revised constitution."
+        },
+        {
+          "headline": "Russian Africa Corps replaces Wagner",
+          "summary": "Moscow's rebranded force maintains its grip on CAR's security."
+        }
+      ],
+      "sport": {
+        "headline": "CAR miss 2025 AFCON",
+        "summary": "Les Fauves fall short in qualifying for the Morocco tournament."
+      }
+    }
+  ]
+}

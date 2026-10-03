@@ -1,0 +1,396 @@
+{
+  "country": "Portugal",
+  "iso3": "PRT",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10522000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Cavaco Silva elected president",
+          "summary": "Anibal Cavaco Silva wins January's presidential vote."
+        },
+        {
+          "headline": "Socrates government stable",
+          "summary": "The Socialist PM governs with a majority."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal finish fourth at World Cup",
+        "summary": "Germany win the third-place playoff in Stuttgart."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10543000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Portugal holds EU presidency",
+          "summary": "Lisbon brokers the Treaty of Lisbon in late 2007."
+        },
+        {
+          "headline": "Treaty of Lisbon signed",
+          "summary": "EU leaders sign the reform treaty in December."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal qualify for Euro 2008",
+        "summary": "Portugal finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10558000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis reaches Portugal",
+          "summary": "The downturn exposes fiscal weaknesses."
+        },
+        {
+          "headline": "Socrates weakens",
+          "summary": "The PM's majority frays."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal exit Euro 2008 in quarter-finals",
+        "summary": "Germany knock Portugal out in Basel."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10568000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Socrates wins election",
+          "summary": "The Socialists triumph in September but lose their majority."
+        },
+        {
+          "headline": "Debt crisis looms",
+          "summary": "Borrowing costs climb."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal reach World Cup via playoff",
+        "summary": "Portugal beat Bosnia in the playoffs."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10573000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Austerity begins",
+          "summary": "Lisbon imposes spending cuts."
+        },
+        {
+          "headline": "Portugal's bailout looms",
+          "summary": "Markets bet against Portuguese debt."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal exit World Cup in last 16",
+        "summary": "Spain knock Portugal out in Cape Town."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10575000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Bailout agreed",
+          "summary": "The EU and IMF approve a 78 billion euro rescue in May."
+        },
+        {
+          "headline": "Passos Coelho wins election",
+          "summary": "The centre-right triumphs in June elections."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal reach Euro 2012 via playoff",
+        "summary": "Portugal beat Bosnia in the playoffs again."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10531000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Austerity bites hard",
+          "summary": "Tax rises and cuts spark mass protests."
+        },
+        {
+          "headline": "Portugal's pain",
+          "summary": "Unemployment soars past 15 percent."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal reach Euro 2012 semi-finals",
+        "summary": "Spain win a penalty shootout in Donetsk."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10474000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Government crisis",
+          "summary": "Coalition rows shake Passos Coelho's cabinet."
+        },
+        {
+          "headline": "Portugal's recovery hopes",
+          "summary": "Bond yields fall as confidence returns."
+        }
+      ],
+      "sport": {
+        "headline": "Ronaldo fires Portugal to World Cup",
+        "summary": "A playoff hat-trick against Sweden seals qualification."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10420000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Portugal exits bailout",
+          "summary": "Lisbon leaves the rescue programme in May."
+        },
+        {
+          "headline": "BES bank collapses",
+          "summary": "The Espirito Santo empire falls in August."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal exit World Cup in group stage",
+        "summary": "Portugal bow out in Brazil."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 10382000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Costa becomes prime minister",
+          "summary": "Antonio Costa forms a left alliance government in November."
+        },
+        {
+          "headline": "Election upset",
+          "summary": "The right wins most votes but loses power."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal qualify for Euro 2016",
+        "summary": "Portugal top their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 10357000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Left government stable",
+          "summary": "Costa's alliance holds together."
+        },
+        {
+          "headline": "Portugal's recovery builds",
+          "summary": "Growth returns."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal win Euro 2016",
+        "summary": "Eder's extra-time goal beats France in Paris."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10340000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Costa government popular",
+          "summary": "The left alliance delivers growth."
+        },
+        {
+          "headline": "Pedrogao fire kills dozens",
+          "summary": "June wildfires kill 66."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal qualify for 2018 World Cup",
+        "summary": "Portugal top their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10335000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Portugal's boom",
+          "summary": "Tourism and exports drive growth."
+        },
+        {
+          "headline": "Costa stable",
+          "summary": "The PM's position strengthens."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal exit World Cup in last 16",
+        "summary": "Uruguay knock Portugal out in Sochi."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10354000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Costa wins election",
+          "summary": "The Socialists triumph in October elections."
+        },
+        {
+          "headline": "Web Summit in Lisbon",
+          "summary": "The tech conference boosts Portugal's image."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal win Nations League",
+        "summary": "Portugal beat the Netherlands in the Porto final."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10385000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Portugal",
+          "summary": "The pandemic strains hospitals."
+        },
+        {
+          "headline": "Portugal's tourism collapses",
+          "summary": "The key sector shuts down."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal compete in Nations League A",
+        "summary": "Portugal battle in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 10408000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Portugal's vaccine success",
+          "summary": "One of the world's fastest rollouts."
+        },
+        {
+          "headline": "Government falls",
+          "summary": "The budget defeat triggers snap elections."
+        }
+      ],
+      "sport": {
+        "headline": "Belgium knock Portugal out of Euro 2020",
+        "summary": "Portugal bow out in the last 16 in Seville."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 10469000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Costa wins absolute majority",
+          "summary": "Snap elections deliver a Socialist majority in January."
+        },
+        {
+          "headline": "Portugal backs Ukraine",
+          "summary": "Lisbon sends aid and hosts refugees."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco end Portugal's World Cup run",
+        "summary": "Portugal lose their quarter-final in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10578000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Costa resigns",
+          "summary": "The PM quits in November amid a corruption probe."
+        },
+        {
+          "headline": "Snap election called",
+          "summary": "Portugal heads to March 2024 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal win all Euro 2024 qualifiers",
+        "summary": "Portugal take maximum points in qualifying."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 10695000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro wins election",
+          "summary": "The centre-right triumphs in March elections."
+        },
+        {
+          "headline": "New government formed",
+          "summary": "Luis Montenegro becomes PM in April."
+        }
+      ],
+      "sport": {
+        "headline": "France end Portugal's Euro 2024 run",
+        "summary": "Portugal lose a quarter-final shootout in Hamburg."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10770000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Montenegro wins snap election",
+          "summary": "May elections keep the PM in office."
+        },
+        {
+          "headline": "Portugal's economy steady",
+          "summary": "Growth continues modestly."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal win Nations League",
+        "summary": "Portugal beat Spain on penalties in the Munich final."
+      }
+    }
+  ]
+}

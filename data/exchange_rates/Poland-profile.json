@@ -1,0 +1,396 @@
+{
+  "country": "Poland",
+  "iso3": "POL",
+  "currency": "PLN",
+  "currency_name": "Polish Zloty",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 38157000,
+      "fx_lcu_per_usd_annual_avg": 3.1053,
+      "geopolitical_news": [
+        {
+          "headline": "Kaczynski twins in power",
+          "summary": "Lech is president; Jaroslaw becomes PM in July."
+        },
+        {
+          "headline": "Poland's populist turn",
+          "summary": "The Law and Justice government alarms liberals."
+        }
+      ],
+      "sport": {
+        "headline": "Poland exit World Cup in group stage",
+        "summary": "Poland bow out in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 38125000,
+      "fx_lcu_per_usd_annual_avg": 2.7672,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk wins election",
+          "summary": "Civic Platform triumphs in October elections."
+        },
+        {
+          "headline": "Centrists return",
+          "summary": "Donald Tusk becomes prime minister in November."
+        }
+      ],
+      "sport": {
+        "headline": "Poland qualify for Euro 2008",
+        "summary": "Poland top their group to reach a first Euros."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 38116000,
+      "fx_lcu_per_usd_annual_avg": 2.4075,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk government stable",
+          "summary": "The Civic Platform-PSL coalition governs."
+        },
+        {
+          "headline": "Financial crisis: Poland resilient",
+          "summary": "Poland avoids recession, the EU's only green island."
+        }
+      ],
+      "sport": {
+        "headline": "Poland exit Euro 2008 in group stage",
+        "summary": "Debutants Poland bow out with one point."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 38136000,
+      "fx_lcu_per_usd_annual_avg": 3.117,
+      "geopolitical_news": [
+        {
+          "headline": "Poland weathers crisis",
+          "summary": "The economy keeps growing through the downturn."
+        },
+        {
+          "headline": "Kaczynski-Tusk feud",
+          "summary": "The president and PM clash constantly."
+        }
+      ],
+      "sport": {
+        "headline": "Poland's World Cup hopes fade",
+        "summary": "Poland endure a dismal 2010 qualifying campaign."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 38023000,
+      "fx_lcu_per_usd_annual_avg": 3.0207,
+      "geopolitical_news": [
+        {
+          "headline": "Smolensk crash kills president",
+          "summary": "Lech Kaczynski dies in an April plane crash in Russia."
+        },
+        {
+          "headline": "Komorowski elected president",
+          "summary": "Bronislaw Komorowski wins July's vote."
+        }
+      ],
+      "sport": {
+        "headline": "Poland miss 2010 World Cup",
+        "summary": "Poland finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 38063000,
+      "fx_lcu_per_usd_annual_avg": 2.9661,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk wins re-election",
+          "summary": "Civic Platform triumphs in October elections."
+        },
+        {
+          "headline": "Poland holds EU presidency",
+          "summary": "Warsaw leads the Council in late 2011."
+        }
+      ],
+      "sport": {
+        "headline": "Poland prepare as Euro 2012 co-hosts",
+        "summary": "Poland play friendlies ahead of hosting the finals."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 38064000,
+      "fx_lcu_per_usd_annual_avg": 3.2596,
+      "geopolitical_news": [
+        {
+          "headline": "Poland co-hosts Euro 2012",
+          "summary": "The tournament boosts infrastructure and pride."
+        },
+        {
+          "headline": "Tusk government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Poland exit Euro 2012 in group stage",
+        "summary": "Co-hosts Poland bow out with two draws."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 38063000,
+      "fx_lcu_per_usd_annual_avg": 3.1618,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk's popularity slides",
+          "summary": "Austerity and scandals dent the government."
+        },
+        {
+          "headline": "Poland's economy slows",
+          "summary": "Growth cools."
+        }
+      ],
+      "sport": {
+        "headline": "Poland miss 2014 World Cup",
+        "summary": "Poland finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 38018000,
+      "fx_lcu_per_usd_annual_avg": 3.1551,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk becomes EU Council president",
+          "summary": "The PM is appointed to the EU's top job in August."
+        },
+        {
+          "headline": "Kopacz becomes PM",
+          "summary": "Ewa Kopacz succeeds Tusk in September."
+        }
+      ],
+      "sport": {
+        "headline": "Poland stun Germany in qualifier",
+        "summary": "A 2-0 win in Warsaw launches a successful Euro 2016 bid."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 38006000,
+      "fx_lcu_per_usd_annual_avg": 3.7731,
+      "geopolitical_news": [
+        {
+          "headline": "Duda wins presidency",
+          "summary": "Andrzej Duda defeats Komorowski in May."
+        },
+        {
+          "headline": "PiS wins election",
+          "summary": "Law and Justice triumphs in October elections."
+        }
+      ],
+      "sport": {
+        "headline": "Poland qualify for Euro 2016",
+        "summary": "Poland finish second in their group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 37967000,
+      "fx_lcu_per_usd_annual_avg": 3.9444,
+      "geopolitical_news": [
+        {
+          "headline": "PiS reforms spark EU row",
+          "summary": "Constitutional court changes alarm Brussels."
+        },
+        {
+          "headline": "NATO summit in Warsaw",
+          "summary": "The alliance bolsters its eastern flank in July."
+        }
+      ],
+      "sport": {
+        "headline": "Poland reach Euro 2016 quarter-finals",
+        "summary": "Portugal win a penalty shootout in Marseille."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 37973000,
+      "fx_lcu_per_usd_annual_avg": 3.7771,
+      "geopolitical_news": [
+        {
+          "headline": "Judicial overhaul crisis",
+          "summary": "EU triggers Article 7 over court reforms."
+        },
+        {
+          "headline": "Mass protests",
+          "summary": "Thousands rally against the government's changes."
+        }
+      ],
+      "sport": {
+        "headline": "Poland qualify for 2018 World Cup",
+        "summary": "Poland top their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 37977000,
+      "fx_lcu_per_usd_annual_avg": 3.6133,
+      "geopolitical_news": [
+        {
+          "headline": "Poland's EU standoff deepens",
+          "summary": "The rule-of-law row with Brussels intensifies."
+        },
+        {
+          "headline": "Local elections: PiS strong",
+          "summary": "October votes keep PiS dominant."
+        }
+      ],
+      "sport": {
+        "headline": "Poland exit World Cup in group stage",
+        "summary": "Poland bow out in Russia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 37973000,
+      "fx_lcu_per_usd_annual_avg": 3.8397,
+      "geopolitical_news": [
+        {
+          "headline": "PiS wins election",
+          "summary": "Law and Justice triumphs in October elections."
+        },
+        {
+          "headline": "Opposition takes senate",
+          "summary": "The upper house slips from PiS control."
+        }
+      ],
+      "sport": {
+        "headline": "Poland qualify for Euro 2020",
+        "summary": "Poland top their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 37958000,
+      "fx_lcu_per_usd_annual_avg": 3.8952,
+      "geopolitical_news": [
+        {
+          "headline": "Duda re-elected narrowly",
+          "summary": "The president wins July's runoff by a whisker."
+        },
+        {
+          "headline": "Abortion ruling sparks protests",
+          "summary": "A court ban on most abortions triggers mass demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Poland compete in Nations League A",
+        "summary": "Poland battle in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 37073000,
+      "fx_lcu_per_usd_annual_avg": 3.8629,
+      "geopolitical_news": [
+        {
+          "headline": "Belarus border crisis",
+          "summary": "Migrants mass at Poland's eastern border."
+        },
+        {
+          "headline": "Poland's EU row escalates",
+          "summary": "Brussels withholds funds over rule-of-law concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Poland exit Euro 2020 in group stage",
+        "summary": "Poland bow out with one point."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 36890000,
+      "fx_lcu_per_usd_annual_avg": 4.463,
+      "geopolitical_news": [
+        {
+          "headline": "Poland backs Ukraine strongly",
+          "summary": "Warsaw leads aid and hosts millions of refugees."
+        },
+        {
+          "headline": "Missile lands in Poland",
+          "summary": "A November blast kills two near the Ukrainian border."
+        }
+      ],
+      "sport": {
+        "headline": "Poland reach World Cup last 16",
+        "summary": "France knock Poland out in Doha."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 36754000,
+      "fx_lcu_per_usd_annual_avg": 4.2022,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins election",
+          "summary": "Civic Coalition triumphs in October elections."
+        },
+        {
+          "headline": "Tusk returns as PM",
+          "summary": "Donald Tusk forms a government in December."
+        }
+      ],
+      "sport": {
+        "headline": "Poland miss Euro 2024 automatically",
+        "summary": "A third-place finish forces a playoff route."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 36621000,
+      "fx_lcu_per_usd_annual_avg": 3.9792,
+      "geopolitical_news": [
+        {
+          "headline": "Tusk's reforms begin",
+          "summary": "The new government unpicks PiS-era changes."
+        },
+        {
+          "headline": "Local and EU elections",
+          "summary": "Civic Coalition performs strongly in both."
+        }
+      ],
+      "sport": {
+        "headline": "Poland reach Euro 2024 via playoff",
+        "summary": "A shootout win over Wales seals qualification."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 36497000,
+      "fx_lcu_per_usd_annual_avg": 3.7586,
+      "geopolitical_news": [
+        {
+          "headline": "Nawrocki wins presidency",
+          "summary": "The PiS-backed candidate triumphs in June."
+        },
+        {
+          "headline": "Cohabitation tensions",
+          "summary": "The president and PM clash."
+        }
+      ],
+      "sport": {
+        "headline": "Poland chase World Cup qualification",
+        "summary": "Poland compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

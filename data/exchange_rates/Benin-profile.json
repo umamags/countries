@@ -1,0 +1,396 @@
+{
+  "country": "Benin",
+  "iso3": "BEN",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 8693000,
+      "fx_lcu_per_usd_annual_avg": 522.4256,
+      "geopolitical_news": [
+        {
+          "headline": "Yayi Boni wins presidency",
+          "summary": "The former banker defeats Adrien Houngbedji in March's runoff, ending Mathieu Kerekou's long rule."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Kerekou steps aside gracefully, cementing Benin's democratic reputation."
+        }
+      ],
+      "sport": {
+        "headline": "Benin fall short in World Cup qualifying",
+        "summary": "The Squirrels miss out on Germany 2006 after a difficult qualifying campaign."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 8954000,
+      "fx_lcu_per_usd_annual_avg": 478.6337,
+      "geopolitical_news": [
+        {
+          "headline": "Pro-Yayi coalition wins legislative vote",
+          "summary": "March's parliamentary elections give the president's allies a working majority."
+        },
+        {
+          "headline": "Anti-corruption drive launched",
+          "summary": "Yayi Boni pledges to clean up customs and public procurement."
+        }
+      ],
+      "sport": {
+        "headline": "Benin qualify for 2008 AFCON",
+        "summary": "The Squirrels book a place at the Ghana tournament, only their second AFCON ever."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 9228000,
+      "fx_lcu_per_usd_annual_avg": 446.0,
+      "geopolitical_news": [
+        {
+          "headline": "Yayi Boni consolidates power",
+          "summary": "The president pushes economic reforms while the opposition accuses him of authoritarian drift."
+        },
+        {
+          "headline": "Benin strengthens regional trade ties",
+          "summary": "Cotonou port upgrades aim to capture transit trade with landlocked neighbors."
+        }
+      ],
+      "sport": {
+        "headline": "Benin exit AFCON winless",
+        "summary": "Three defeats at Ghana 2008 send the Squirrels home without a point."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 9509000,
+      "fx_lcu_per_usd_annual_avg": 470.2934,
+      "geopolitical_news": [
+        {
+          "headline": "Benin weathers global financial crisis",
+          "summary": "Cotton exports cushion the economy as the government maintains steady growth."
+        },
+        {
+          "headline": "Voter registration disputes emerge",
+          "summary": "Opposition parties clash with the government over the electoral roll ahead of 2011."
+        }
+      ],
+      "sport": {
+        "headline": "Benin qualify for 2010 AFCON",
+        "summary": "Back-to-back qualifications mark the Squirrels' best-ever international run."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 9797000,
+      "fx_lcu_per_usd_annual_avg": 494.7943,
+      "geopolitical_news": [
+        {
+          "headline": "Floods displace tens of thousands",
+          "summary": "Exceptional rains in October flood Cotonou and the south, destroying homes and crops."
+        },
+        {
+          "headline": "Election preparations begin",
+          "summary": "The electoral commission gears up for the 2011 presidential vote amid opposition distrust."
+        }
+      ],
+      "sport": {
+        "headline": "Benin exit AFCON at group stage",
+        "summary": "A draw with Mozambique is the only point from three games at Angola 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10094000,
+      "fx_lcu_per_usd_annual_avg": 471.2486,
+      "geopolitical_news": [
+        {
+          "headline": "Yayi Boni re-elected president",
+          "summary": "The incumbent wins March's first-round vote; the opposition rejects the result."
+        },
+        {
+          "headline": "Opposition cries foul",
+          "summary": "Rival candidates allege fraud in the voter roll and call for protests."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2012 AFCON",
+        "summary": "The Squirrels fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10398000,
+      "fx_lcu_per_usd_annual_avg": 510.5563,
+      "geopolitical_news": [
+        {
+          "headline": "Alleged poison plot against president",
+          "summary": "Authorities claim a foiled October plot to poison Yayi Boni, implicating businessman Patrice Talon."
+        },
+        {
+          "headline": "Talon flees into exile",
+          "summary": "The president's former ally escapes abroad as the poisoning affair deepens."
+        }
+      ],
+      "sport": {
+        "headline": "Benin chase 2014 World Cup place",
+        "summary": "The Squirrels stay in contention in a qualifying group with Algeria and Mali."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10709000,
+      "fx_lcu_per_usd_annual_avg": 493.8996,
+      "geopolitical_news": [
+        {
+          "headline": "President's feud with Talon deepens",
+          "summary": "The exiled tycoon is sentenced in absentia as the rivalry dominates politics."
+        },
+        {
+          "headline": "Legislative elections repeatedly delayed",
+          "summary": "Parliament extends its own term as the vote, due since 2011, is postponed."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2013 AFCON",
+        "summary": "The Squirrels fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 11030000,
+      "fx_lcu_per_usd_annual_avg": 493.7573,
+      "geopolitical_news": [
+        {
+          "headline": "Third-term speculation surrounds Yayi",
+          "summary": "Fears grow that the president may seek to extend his rule beyond 2016."
+        },
+        {
+          "headline": "Cotton exports buoy economy",
+          "summary": "Record cotton output supports growth despite political uncertainty."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2014 World Cup",
+        "summary": "The Squirrels fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11361000,
+      "fx_lcu_per_usd_annual_avg": 591.2117,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins legislative elections",
+          "summary": "April's vote delivers a rebuke to Yayi Boni ahead of the presidential race."
+        },
+        {
+          "headline": "Benin joins anti-Boko Haram force",
+          "summary": "Cotonou pledges troops to the regional task force fighting the jihadists."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2015 AFCON",
+        "summary": "The Squirrels fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11698000,
+      "fx_lcu_per_usd_annual_avg": 592.6056,
+      "geopolitical_news": [
+        {
+          "headline": "Patrice Talon wins presidency",
+          "summary": "The businessman defeats Prime Minister Lionel Zinsou in March's runoff."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Yayi Boni steps down after a decade, and Talon is inaugurated in April."
+        }
+      ],
+      "sport": {
+        "headline": "Benin send small team to Rio Olympics",
+        "summary": "A handful of Beninese athletes compete at the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 12040000,
+      "fx_lcu_per_usd_annual_avg": 580.6567,
+      "geopolitical_news": [
+        {
+          "headline": "Talon's constitutional reform fails",
+          "summary": "Parliament rejects the president's reform package in April, a major political defeat."
+        },
+        {
+          "headline": "Opposition protests grow",
+          "summary": "Critics accuse Talon of concentrating power and harassing rivals."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2017 AFCON",
+        "summary": "The Squirrels fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 12383000,
+      "fx_lcu_per_usd_annual_avg": 555.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Talon consolidates power",
+          "summary": "New party laws and court rulings squeeze the opposition ahead of 2019 elections."
+        },
+        {
+          "headline": "Benin-Niger border cooperation",
+          "summary": "Cotonou deepens trade ties with Niamey despite regional tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2018 World Cup",
+        "summary": "The Squirrels fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 12727000,
+      "fx_lcu_per_usd_annual_avg": 585.9508,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition barred from legislative vote",
+          "summary": "Only pro-Talon parties contest April's election after rivals are disqualified."
+        },
+        {
+          "headline": "Post-election violence erupts",
+          "summary": "Protests and an internet shutdown follow the vote; security forces crack down in Cotonou."
+        }
+      ],
+      "sport": {
+        "headline": "Benin reach AFCON quarterfinals",
+        "summary": "A penalty shootout win over Morocco takes the Squirrels to a historic last-eight finish in Egypt."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 13070000,
+      "fx_lcu_per_usd_annual_avg": 574.2945,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 reaches Benin",
+          "summary": "The pandemic prompts border closures and strains the health system."
+        },
+        {
+          "headline": "Talon pushes economic reforms",
+          "summary": "The government advances its development program despite the global slowdown."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Benin's leagues and qualifiers halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 13413000,
+      "fx_lcu_per_usd_annual_avg": 554.6078,
+      "geopolitical_news": [
+        {
+          "headline": "Talon re-elected amid boycott",
+          "summary": "The president wins April's vote after key rivals are jailed or barred."
+        },
+        {
+          "headline": "Pre-election violence",
+          "summary": "Clashes in opposition strongholds mar the campaign period."
+        }
+      ],
+      "sport": {
+        "headline": "Benin narrowly miss 2021 AFCON",
+        "summary": "A controversial final qualifier against Sierra Leone denies the Squirrels a place in Cameroon."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 13760000,
+      "fx_lcu_per_usd_annual_avg": 622.9123,
+      "geopolitical_news": [
+        {
+          "headline": "Jihadist attacks spread south",
+          "summary": "Al-Qaeda-linked fighters strike in the north near the Burkina Faso border."
+        },
+        {
+          "headline": "Government launches counter-terrorism drive",
+          "summary": "Cotonou deploys troops to the W-Arly-Pendjari park complex."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2022 World Cup",
+        "summary": "The Squirrels fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 14111000,
+      "fx_lcu_per_usd_annual_avg": 606.655,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition returns to parliament",
+          "summary": "January's legislative vote, with rivals allowed to run, is won by pro-Talon parties."
+        },
+        {
+          "headline": "Northern insecurity persists",
+          "summary": "Deadly ambushes continue in the departments bordering the Sahel."
+        }
+      ],
+      "sport": {
+        "headline": "Benin miss 2023 AFCON",
+        "summary": "The Squirrels fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 14500000,
+      "fx_lcu_per_usd_annual_avg": 606.3453,
+      "geopolitical_news": [
+        {
+          "headline": "Alleged coup plot foiled",
+          "summary": "September arrests, including of presidential ally Olivier Boko, follow claims of a plot."
+        },
+        {
+          "headline": "Benin-Niger border dispute",
+          "summary": "Niamey's junta keeps the frontier closed, hurting Benin's port revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Benin top World Cup qualifying group",
+        "summary": "Surprise wins put the Squirrels atop their 2026 World Cup qualifying group mid-campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 14923000,
+      "fx_lcu_per_usd_annual_avg": 581.9285,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt thwarted in Cotonou",
+          "summary": "Soldiers seizing state TV in December are quickly overpowered by loyalist forces."
+        },
+        {
+          "headline": "Jihadist violence continues in north",
+          "summary": "Insurgent attacks persist along the Burkina Faso and Niger borders."
+        }
+      ],
+      "sport": {
+        "headline": "Benin qualify for 2025 AFCON",
+        "summary": "The Squirrels finish second in their group to reach the Morocco tournament."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Niue",
+  "iso3": null,
+  "currency": "NZD",
+  "currency_name": "New Zealand Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.543,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's government pursues development",
+          "summary": "The tiny island nation focused on aid-funded infrastructure."
+        },
+        {
+          "headline": "Cyclone recovery continues",
+          "summary": "Rebuilding from 2004's Cyclone Heta progressed slowly."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in regional events",
+        "summary": "The island's small teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3608,
+      "geopolitical_news": [
+        {
+          "headline": "Niue hosts regional officials",
+          "summary": "Alofi staged small Pacific meetings."
+        },
+        {
+          "headline": "Tourism potential explored",
+          "summary": "The government promoted Niue's caves and reefs to visitors."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Apia Pacific Games",
+        "summary": "The island's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4246,
+      "geopolitical_news": [
+        {
+          "headline": "Toke Talagi elected premier",
+          "summary": "Talagi won the premiership after the general election."
+        },
+        {
+          "headline": "New government sets agenda",
+          "summary": "The administration prioritised economic development."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in Oceania tournaments",
+        "summary": "The island's teams contested regional championships."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5965,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi government settles in",
+          "summary": "The new administration pursued New Zealand aid projects."
+        },
+        {
+          "headline": "Niue's population decline debated",
+          "summary": "Depopulation to New Zealand remained the island's great challenge."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's rugby league development",
+        "summary": "The island nurtured its rugby league connections."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.3875,
+      "geopolitical_news": [
+        {
+          "headline": "Niue weathers global downturn",
+          "summary": "Aid from Wellington cushioned the tiny economy."
+        },
+        {
+          "headline": "Alofi's infrastructure upgraded",
+          "summary": "New Zealand funded roads and public buildings."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes at regional Games",
+        "summary": "The island's teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2654,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi re-elected premier",
+          "summary": "The premier retained office after the general election."
+        },
+        {
+          "headline": "Niue deepens NZ partnership",
+          "summary": "Wellington remained the island's main development partner."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Noumea Pacific Games",
+        "summary": "The island's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2355,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's internet project advances",
+          "summary": "Improved connectivity promised to transform the isolated island."
+        },
+        {
+          "headline": "Tourism numbers grow slowly",
+          "summary": "Visitor arrivals inched upward."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in Oceania events",
+        "summary": "The island's small teams contested regional tournaments."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2203,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi government continues",
+          "summary": "The administration maintained its development program."
+        },
+        {
+          "headline": "Niue's .nu domain revenue debated",
+          "summary": "The internet domain remained a modest income source."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's teams in Pacific competitions",
+        "summary": "The island's athletes contested regional championships."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.2058,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi re-elected premier",
+          "summary": "The premier won another term after the general election."
+        },
+        {
+          "headline": "Niue marks 40 years of self-government",
+          "summary": "The island celebrated four decades in free association with New Zealand."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes at regional Games",
+        "summary": "The island's teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4363,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's development agenda continues",
+          "summary": "The government pushed tourism and agriculture projects."
+        },
+        {
+          "headline": "Climate change threatens the island",
+          "summary": "Rising seas and storms worried the raised coral atoll."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Port Moresby Pacific Games",
+        "summary": "The island's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4353,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi government weathers challenges",
+          "summary": "The premier maintained his assembly majority."
+        },
+        {
+          "headline": "Niue's solar power expands",
+          "summary": "Renewable energy projects reduced diesel dependence."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in regional events",
+        "summary": "The island's small teams contested Pacific tournaments."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4074,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi re-elected premier",
+          "summary": "The premier retained office after the general election."
+        },
+        {
+          "headline": "Niue creates huge marine reserve",
+          "summary": "The government declared a large ocean protected area."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Pacific Mini Games",
+        "summary": "The island's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's tourism strategy advances",
+          "summary": "Direct flights and marketing boosted visitor numbers."
+        },
+        {
+          "headline": "Alofi's infrastructure improved",
+          "summary": "Aid-funded projects upgraded the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in Oceania tournaments",
+        "summary": "The island's teams contested regional championships."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5189,
+      "geopolitical_news": [
+        {
+          "headline": "Talagi's long premiership continues",
+          "summary": "The premier remained in office ahead of 2020 elections."
+        },
+        {
+          "headline": "Niue's China ties grow",
+          "summary": "Beijing-funded projects expanded on the island."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Apia Pacific Games",
+        "summary": "The island's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5401,
+      "geopolitical_news": [
+        {
+          "headline": "Dalton Tagelagi elected premier",
+          "summary": "Tagelagi succeeded Toke Talagi after the general election."
+        },
+        {
+          "headline": "Niue stays COVID-free",
+          "summary": "Strict border controls kept the virus out."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the island's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.4146,
+      "geopolitical_news": [
+        {
+          "headline": "Tagelagi government begins",
+          "summary": "The new premier set economic recovery priorities."
+        },
+        {
+          "headline": "Niue records COVID cases",
+          "summary": "The virus eventually reached the island."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in regional events",
+        "summary": "The island's small teams resumed Pacific competition."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.5786,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's tourism recovery begins",
+          "summary": "Borders reopened and visitors slowly returned."
+        },
+        {
+          "headline": "Alofi deepens development partnerships",
+          "summary": "The government courted aid from multiple partners."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's teams in Pacific tournaments",
+        "summary": "The island's athletes contested regional championships."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.63,
+      "geopolitical_news": [
+        {
+          "headline": "Tagelagi re-elected premier",
+          "summary": "The premier retained office after the general election."
+        },
+        {
+          "headline": "Niue pursues seabed mining debate",
+          "summary": "Mineral exploration divided opinion on the island."
+        }
+      ],
+      "sport": {
+        "headline": "Niue at Honiara Pacific Games",
+        "summary": "The island's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.6525,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's constitutional ties reviewed",
+          "summary": "The free association with New Zealand faced discussion."
+        },
+        {
+          "headline": "Alofi hosts regional meetings",
+          "summary": "Small Pacific gatherings came to the island."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes in regional competitions",
+        "summary": "The island's teams contested Oceania tournaments."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 1.7198,
+      "geopolitical_news": [
+        {
+          "headline": "Niue's development program continues",
+          "summary": "The government advanced tourism and infrastructure plans."
+        },
+        {
+          "headline": "Population decline remains challenge",
+          "summary": "Keeping young Niueans on the island stayed the top priority."
+        }
+      ],
+      "sport": {
+        "headline": "Niue's athletes target Pacific medals",
+        "summary": "The island's small teams prepared for regional Games."
+      }
+    }
+  ]
+}

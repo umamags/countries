@@ -1,0 +1,400 @@
+{
+  "country": "Burundi",
+  "iso3": "BDI",
+  "currency": "BIF",
+  "currency_name": "Burundian Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7866000,
+      "fx_lcu_per_usd_annual_avg": 1028.6836,
+      "geopolitical_news": [
+        {
+          "headline": "Ceasefire signed with last rebel group",
+          "summary": "September's deal with the FNL aims to end Burundi's 13-year civil war."
+        },
+        {
+          "headline": "Post-war reconstruction begins",
+          "summary": "The government demobilizes fighters and rebuilds institutions after the Arusha accords."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi fall short in AFCON qualifying",
+        "summary": "The Swallows miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 8162000,
+      "fx_lcu_per_usd_annual_avg": 1081.8697,
+      "geopolitical_news": [
+        {
+          "headline": "FNL ceasefire collapses",
+          "summary": "Fighting resumes around Bujumbura as the last rebel group abandons the truce."
+        },
+        {
+          "headline": "Political tensions rise",
+          "summary": "Opposition accuses President Nkurunziza's party of authoritarian drift."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2008 AFCON",
+        "summary": "The Swallows fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 8506000,
+      "fx_lcu_per_usd_annual_avg": 1185.6908,
+      "geopolitical_news": [
+        {
+          "headline": "FNL attacks the capital",
+          "summary": "April rebel shelling of Bujumbura kills civilians and shatters the ceasefire."
+        },
+        {
+          "headline": "Regional mediation resumes",
+          "summary": "Tanzania and South Africa push the FNL back to negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi compete at Beijing Olympics",
+        "summary": "Burundian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 8948000,
+      "fx_lcu_per_usd_annual_avg": 1230.1792,
+      "geopolitical_news": [
+        {
+          "headline": "FNL disarms and becomes a party",
+          "summary": "The last rebel movement lays down arms in April and registers as a political party."
+        },
+        {
+          "headline": "Civil war formally ends",
+          "summary": "With the FNL demobilized, Burundi's 16-year conflict is declared over."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi chase 2010 World Cup spot",
+        "summary": "The Swallows stay in contention early in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 9376000,
+      "fx_lcu_per_usd_annual_avg": 1230.7483,
+      "geopolitical_news": [
+        {
+          "headline": "Nkurunziza re-elected amid boycott",
+          "summary": "The president wins June's vote unopposed after rivals withdraw alleging intimidation."
+        },
+        {
+          "headline": "Opposition leaders flee",
+          "summary": "Key rivals go into exile as post-election repression intensifies."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2010 World Cup",
+        "summary": "The Swallows fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 9718000,
+      "fx_lcu_per_usd_annual_avg": 1261.0733,
+      "geopolitical_news": [
+        {
+          "headline": "Political violence resurges",
+          "summary": "Grenade attacks and assassinations target opposition figures in Bujumbura."
+        },
+        {
+          "headline": "Government denies crackdown",
+          "summary": "Authorities reject UN criticism of extrajudicial killings."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2012 AFCON",
+        "summary": "The Swallows fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10071000,
+      "fx_lcu_per_usd_annual_avg": 1442.5056,
+      "geopolitical_news": [
+        {
+          "headline": "Burundi sends troops to Somalia",
+          "summary": "Burundian soldiers join AMISOM's fight against al-Shabaab."
+        },
+        {
+          "headline": "Opposition regroups in exile",
+          "summary": "Exiled leaders form coalitions to challenge Nkurunziza's rule."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi compete at London Olympics",
+        "summary": "Burundian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10439000,
+      "fx_lcu_per_usd_annual_avg": 1555.0908,
+      "geopolitical_news": [
+        {
+          "headline": "UN warns of political tensions",
+          "summary": "Envoys caution that Nkurunziza may seek a disputed third term in 2015."
+        },
+        {
+          "headline": "Media crackdown intensifies",
+          "summary": "Independent radio stations face harassment and closures."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2013 AFCON",
+        "summary": "The Swallows fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10800000,
+      "fx_lcu_per_usd_annual_avg": 1546.6867,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party backs third term bid",
+          "summary": "The CNDD-FDD endorses Nkurunziza for 2015 despite constitutional term limits."
+        },
+        {
+          "headline": "Protests simmer in Bujumbura",
+          "summary": "Youth demonstrations against a third term are broken up by police."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2014 World Cup",
+        "summary": "The Swallows fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11048000,
+      "fx_lcu_per_usd_annual_avg": 1571.8983,
+      "geopolitical_news": [
+        {
+          "headline": "Nkurunziza seeks third term, crisis erupts",
+          "summary": "April's announcement triggers mass protests and a violent crackdown killing hundreds."
+        },
+        {
+          "headline": "Coup attempt fails",
+          "summary": "General Niyombare's May putsch collapses while Nkurunziza is abroad."
+        },
+        {
+          "headline": "Nkurunziza wins disputed election",
+          "summary": "July's vote, boycotted by rivals, extends his rule as refugees flee."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2015 AFCON",
+        "summary": "The Swallows fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11239000,
+      "fx_lcu_per_usd_annual_avg": 1654.6267,
+      "geopolitical_news": [
+        {
+          "headline": "Violence continues after failed coup",
+          "summary": "Assassinations and disappearances persist as the regime targets dissenters."
+        },
+        {
+          "headline": "African Union peacekeepers rejected",
+          "summary": "Bujumbura refuses an AU protection force despite regional pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi compete at Rio Olympics",
+        "summary": "Burundian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11507000,
+      "fx_lcu_per_usd_annual_avg": 1729.055,
+      "geopolitical_news": [
+        {
+          "headline": "Burundi quits International Criminal Court",
+          "summary": "Bujumbura becomes the first country to withdraw from the ICC in October."
+        },
+        {
+          "headline": "Refugee exodus continues",
+          "summary": "Hundreds of thousands remain in camps in Tanzania and Rwanda."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2017 AFCON",
+        "summary": "The Swallows fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 11859000,
+      "fx_lcu_per_usd_annual_avg": 1782.8769,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum extends presidential terms",
+          "summary": "May's vote could let Nkurunziza rule until 2034; the opposition calls it a sham."
+        },
+        {
+          "headline": "Border attack kills dozens",
+          "summary": "A May raid near the DRC frontier heightens regional tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2018 World Cup",
+        "summary": "The Swallows fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 12255000,
+      "fx_lcu_per_usd_annual_avg": 1845.6229,
+      "geopolitical_news": [
+        {
+          "headline": "Nkurunziza named 'supreme guide'",
+          "summary": "Parliament grants the president an exalted title as succession speculation grows."
+        },
+        {
+          "headline": "UN human rights investigators expelled",
+          "summary": "Bujumbura shuts the UN rights office in a defiant move."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi debut at AFCON",
+        "summary": "The Swallows reach their first Africa Cup of Nations in Egypt, exiting at the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 12617000,
+      "fx_lcu_per_usd_annual_avg": 1915.0462,
+      "geopolitical_news": [
+        {
+          "headline": "Nkurunziza dies suddenly",
+          "summary": "The president dies of reported cardiac arrest in June, days after his chosen successor wins election."
+        },
+        {
+          "headline": "Ndayishimiye takes power",
+          "summary": "General Evariste Ndayishimiye is inaugurated in June, pledging reconciliation."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Burundi's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 12965000,
+      "fx_lcu_per_usd_annual_avg": 1975.9509,
+      "geopolitical_news": [
+        {
+          "headline": "Ndayishimiye consolidates power",
+          "summary": "The new president purges Nkurunziza-era hardliners while keeping tight control."
+        },
+        {
+          "headline": "Sanctions pressure eases",
+          "summary": "The EU resumes dialogue as Bujumbura makes modest reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2021 AFCON",
+        "summary": "The Swallows fail to build on their 2019 debut, missing the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 13321000,
+      "fx_lcu_per_usd_annual_avg": 2034.3066,
+      "geopolitical_news": [
+        {
+          "headline": "EU lifts sanctions",
+          "summary": "Brussels resumes direct aid in February after years of suspension."
+        },
+        {
+          "headline": "Rwanda tensions flare",
+          "summary": "Bujumbura accuses Kigali of backing rebels along their shared border."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2022 World Cup",
+        "summary": "The Swallows fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 13689000,
+      "fx_lcu_per_usd_annual_avg": 2574.0517,
+      "geopolitical_news": [
+        {
+          "headline": "Burundi closes border with Rwanda",
+          "summary": "January's shutdown escalates a long-running feud over rebel support."
+        },
+        {
+          "headline": "Ndayishimiye hosts regional talks",
+          "summary": "Bujumbura positions itself in Great Lakes diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi miss 2023 AFCON",
+        "summary": "The Swallows fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 14048000,
+      "fx_lcu_per_usd_annual_avg": 2885.2455,
+      "geopolitical_news": [
+        {
+          "headline": "Rwanda border stays shut",
+          "summary": "The frontier remains closed as both sides trade accusations over armed groups."
+        },
+        {
+          "headline": "Burundi deploys troops to eastern DRC",
+          "summary": "Burundian soldiers fight alongside Congolese forces against M23 rebels."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi chase 2026 World Cup spot",
+        "summary": "The Swallows stay in contention in qualifying for the expanded 2026 tournament."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 14469000,
+      "fx_lcu_per_usd_annual_avg": 2943.1375,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party wins legislative elections",
+          "summary": "June's vote extends CNDD-FDD dominance amid opposition complaints."
+        },
+        {
+          "headline": "DRC conflict spills toward Burundi",
+          "summary": "M23 advances near the border raise fears of regional escalation."
+        }
+      ],
+      "sport": {
+        "headline": "Burundi qualify for 2025 AFCON",
+        "summary": "The Swallows reach the Morocco tournament, their second AFCON appearance."
+      }
+    }
+  ]
+}

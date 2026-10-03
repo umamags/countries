@@ -1,0 +1,396 @@
+{
+  "country": "Kosovo",
+  "iso3": "XKX",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1674000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "UN status talks begin",
+          "summary": "Ahtisaari-led negotiations on Kosovo's future open in Vienna."
+        },
+        {
+          "headline": "Rugova dies",
+          "summary": "President Ibrahim Rugova's death in January reshapes Kosovo politics."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers in limbo",
+        "summary": "Kosovo remains outside FIFA and UEFA with no recognised team."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1699000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Ahtisaari plan presented",
+          "summary": "The UN envoy proposes supervised independence for Kosovo."
+        },
+        {
+          "headline": "Thaci wins election",
+          "summary": "Hashim Thaci's PDK triumphs in November elections."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers in limbo",
+        "summary": "Without FIFA membership, Kosovo plays no recognised matches."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1720000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo declares independence",
+          "summary": "Pristina proclaims independence on February 17."
+        },
+        {
+          "headline": "Dozens recognise Kosovo",
+          "summary": "The US and most EU states swiftly recognise the new country."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "Kosovo's players cannot compete internationally."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1748000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "EULEX deploys",
+          "summary": "The EU's rule-of-law mission takes over from the UN."
+        },
+        {
+          "headline": "Kosovo builds statehood",
+          "summary": "Pristina establishes ministries and institutions."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "FIFA membership remains a distant goal."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1775000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "ICJ backs independence declaration",
+          "summary": "The world court rules the declaration did not violate international law."
+        },
+        {
+          "headline": "Thaci government falls",
+          "summary": "The coalition collapses in autumn."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "Kosovo still cannot play recognised internationals."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1802000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election: PDK wins",
+          "summary": "Thaci's party triumphs in December elections."
+        },
+        {
+          "headline": "North Kosovo tensions",
+          "summary": "Clashes erupt at northern border crossings."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "No international football for Kosovo yet."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1807000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Supervised independence ends",
+          "summary": "International overseers declare full sovereignty in September."
+        },
+        {
+          "headline": "Kosovo-Serbia talks begin",
+          "summary": "EU-mediated dialogue opens in Brussels."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "Kosovo pushes for FIFA recognition."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1815000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Brussels Agreement signed",
+          "summary": "Kosovo and Serbia agree normalisation steps in April."
+        },
+        {
+          "headline": "Local elections held",
+          "summary": "November votes include Serb-majority northern municipalities."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's footballers remain in limbo",
+        "summary": "FIFA allows only unofficial matches so far."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1805000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Election deadlock",
+          "summary": "June elections produce months of coalition wrangling."
+        },
+        {
+          "headline": "Thaci... government formed",
+          "summary": "A PDK-LDK coalition eventually takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo play first international match",
+        "summary": "FIFA-cleared friendlies begin with a draw against Haiti."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1772000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo signs EU association deal",
+          "summary": "A Stabilisation and Association Agreement is signed in October."
+        },
+        {
+          "headline": "Special court established",
+          "summary": "A war crimes tribunal for Kosovo is created."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo await UEFA decision",
+        "summary": "Membership applications to UEFA and FIFA advance."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1793000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo join UEFA and FIFA",
+          "summary": "Kosovo are admitted to both bodies in May."
+        },
+        {
+          "headline": "Thaci elected president",
+          "summary": "Hashim Thaci becomes president in February."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo debut in World Cup qualifying",
+        "summary": "Kosovo play their first competitive internationals."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1799000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election: PDK-led coalition wins",
+          "summary": "June elections return a PDK-led alliance."
+        },
+        {
+          "headline": "Haradinaj becomes PM",
+          "summary": "Ramush Haradinaj takes office in September."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's first qualifying campaign",
+        "summary": "Kosovo finish bottom of their World Cup qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1796000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo-Serbia land swap debated",
+          "summary": "Presidents float a land-swap idea, alarming many."
+        },
+        {
+          "headline": "Kosovo imposes Serbia tariffs",
+          "summary": "Pristina slaps 100 percent tariffs on Serbian goods."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo win Nations League promotion",
+        "summary": "Kosovo top their League D group unbeaten."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1782000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Haradinaj resigns",
+          "summary": "The PM quits in July after a war crimes summons."
+        },
+        {
+          "headline": "Vetevendosje wins election",
+          "summary": "Albin Kurti's party triumphs in October elections."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo's unbeaten run ends",
+        "summary": "A 15-match unbeaten streak ends against England."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1798000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Thaci indicted, resigns",
+          "summary": "The president quits in November over war crimes charges."
+        },
+        {
+          "headline": "Kurti government falls",
+          "summary": "A no-confidence vote topples the cabinet in March."
+        }
+      ],
+      "sport": {
+        "headline": "North Macedonia deny Kosovo Euro 2020",
+        "summary": "Kosovo lose their playoff semi-final."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1774000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Kurti wins landslide",
+          "summary": "Vetevendosje triumphs in February elections."
+        },
+        {
+          "headline": "Osmani elected president",
+          "summary": "Vjosa Osmani becomes president in April."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo compete in World Cup qualifying",
+        "summary": "Kosovo finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1762000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo backs Ukraine",
+          "summary": "Pristina supports Kyiv and hosts refugees."
+        },
+        {
+          "headline": "North tensions flare",
+          "summary": "Licence plate rows spark a northern crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo compete in Nations League C",
+        "summary": "Kosovo finish second in their League C group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1603000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "North Kosovo clashes",
+          "summary": "NATO peacekeepers are injured in May Serb protests."
+        },
+        {
+          "headline": "EU sanctions Kosovo",
+          "summary": "Brussels punishes Pristina over the northern crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo miss Euro 2024",
+        "summary": "Kosovo finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1586000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Kosovo's EU path stalls",
+          "summary": "The northern crisis freezes progress toward Brussels."
+        },
+        {
+          "headline": "Dinar ban angers Serbs",
+          "summary": "A ban on Serbia's currency inflames tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo win Nations League promotion",
+        "summary": "Kosovo top their League C group to reach League B."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1576000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Kurti wins election again",
+          "summary": "February elections keep Vetevendosje in power."
+        },
+        {
+          "headline": "Government formation drags",
+          "summary": "Coalition talks stall for months."
+        }
+      ],
+      "sport": {
+        "headline": "Kosovo stun Sweden in qualifier",
+        "summary": "A 2-0 win in Pristina fuels World Cup dreams."
+      }
+    }
+  ]
+}

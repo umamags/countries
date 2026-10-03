@@ -1,0 +1,397 @@
+{
+  "country": "Estonia",
+  "iso3": "EST",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "currency_note": "Estonian Kroon (EEK) until Dec 2010; Euro (EUR) from Jan 2011.",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average, accessed Oct 2026); post euro-adoption years use ECB reference rates via Frankfurter"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1347000,
+      "fx_lcu_per_usd_annual_avg": 12.4655,
+      "geopolitical_news": [
+        {
+          "headline": "EU warns on inflation ahead of euro bid",
+          "summary": "Brussels says Estonia misses euro entry criteria on inflation."
+        },
+        {
+          "headline": "Ansip coalition governs steadily",
+          "summary": "The Reform-led government holds firm."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia struggle in Euro qualifying",
+        "summary": "Estonia finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1341000,
+      "fx_lcu_per_usd_annual_avg": 11.4339,
+      "geopolitical_news": [
+        {
+          "headline": "Bronze Soldier riots rock Tallinn",
+          "summary": "Moving a Soviet war memorial triggers two nights of rioting in April."
+        },
+        {
+          "headline": "Estonia hit by Russian cyberattacks",
+          "summary": "Massive cyberattacks cripple Estonian websites amid the statue row."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss Euro 2008",
+        "summary": "Estonia finish sixth in their group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1337000,
+      "fx_lcu_per_usd_annual_avg": 10.6944,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia condemns Russia over Georgia",
+          "summary": "Tallinn strongly backs Georgia during the August war."
+        },
+        {
+          "headline": "Financial crisis hits Baltics",
+          "summary": "Estonia's economy contracts sharply as the crisis spreads."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia compete in World Cup qualifying",
+        "summary": "Estonia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1335000,
+      "fx_lcu_per_usd_annual_avg": 11.2574,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia meets euro criteria",
+          "summary": "Brussels confirms Estonia can join the euro in 2011."
+        },
+        {
+          "headline": "Austerity keeps deficit in check",
+          "summary": "Deep budget cuts hold Estonia's deficit within euro limits."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss 2010 World Cup",
+        "summary": "Estonia finish fifth in their group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1331000,
+      "fx_lcu_per_usd_annual_avg": 11.8068,
+      "geopolitical_news": [
+        {
+          "headline": "EU approves Estonia's euro entry",
+          "summary": "Estonia is cleared to adopt the euro in January 2011."
+        },
+        {
+          "headline": "Economy rebounds",
+          "summary": "Estonia returns to growth after a brutal recession."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia mount surprise Euro qualifying bid",
+        "summary": "Estonia challenge for qualification in a strong campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1327000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia adopts the euro",
+          "summary": "The euro replaces the kroon in January."
+        },
+        {
+          "headline": "Ansip wins re-election",
+          "summary": "The Reform Party triumphs in March's parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Ireland deny Estonia Euro 2012",
+        "summary": "Estonia lose their playoff to the Republic of Ireland."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1323000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia backs EU fiscal compact",
+          "summary": "Tallinn signs the fiscal treaty championing austerity."
+        },
+        {
+          "headline": "Estonia-Russia relations cool",
+          "summary": "Border treaty ratification remains frozen."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia struggle in World Cup qualifying",
+        "summary": "Estonia finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1318000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia champions digital government",
+          "summary": "Tallinn's e-governance model draws global attention."
+        },
+        {
+          "headline": "Estonians grumble over eurozone bailouts",
+          "summary": "Funding southern European rescues proves unpopular."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss 2014 World Cup",
+        "summary": "Estonia finish fifth in their group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1315000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia alarmed by Ukraine crisis",
+          "summary": "Tallinn urges NATO to bolster Baltic defences after Crimea."
+        },
+        {
+          "headline": "Russian agents abduct Estonian officer",
+          "summary": "Security officer Eston Kohver is seized at the border in September."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia compete in Euro qualifying",
+        "summary": "Estonia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1315000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Reform wins parliamentary election",
+          "summary": "The Reform Party triumphs in March; Roivas stays PM."
+        },
+        {
+          "headline": "NATO bolsters Baltic presence",
+          "summary": "Allied reassurance measures expand in Estonia."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss Euro 2016",
+        "summary": "Estonia finish fourth in their group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1316000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Kaljulaid elected president",
+          "summary": "Kersti Kaljulaid becomes Estonia's first female president in October."
+        },
+        {
+          "headline": "Ratas becomes prime minister",
+          "summary": "Juri Ratas forms a Centre-led coalition in November."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia struggle in World Cup qualifying",
+        "summary": "Estonia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1317000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia holds EU presidency",
+          "summary": "Tallinn leads the EU Council in the second half of the year."
+        },
+        {
+          "headline": "Tallinn hosts digital summit",
+          "summary": "EU leaders meet in Estonia to discuss the digital single market."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss 2018 World Cup",
+        "summary": "Estonia finish fourth in their group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1322000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia marks centenary",
+          "summary": "Estonia celebrates 100 years of independence."
+        },
+        {
+          "headline": "Far-right EKRE rises in polls",
+          "summary": "The nationalist party gains ahead of 2019 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia compete in Nations League C",
+        "summary": "Estonia finish bottom of their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1327000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Ratas forms coalition with far right",
+          "summary": "The Centre Party allies with EKRE in March."
+        },
+        {
+          "headline": "EKRE enters government",
+          "summary": "The far-right party joins the coalition, alarming liberals."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia endure poor Euro qualifying",
+        "summary": "Estonia finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1330000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia weathers COVID-19",
+          "summary": "The pandemic is managed with relatively light restrictions."
+        },
+        {
+          "headline": "Digital state proves resilient",
+          "summary": "Estonia's e-government keeps services running through the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia drop into Nations League D",
+        "summary": "Estonia finish bottom of their League C group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1331000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Kallas becomes first female PM",
+          "summary": "Kaja Kallas forms a Reform-Centre government in January."
+        },
+        {
+          "headline": "Karis elected president",
+          "summary": "Alar Karis wins the presidency in August."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia miss 2022 World Cup",
+        "summary": "Estonia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1349000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia backs Ukraine strongly",
+          "summary": "Tallinn gives among the most aid per capita to Ukraine."
+        },
+        {
+          "headline": "Estonia removes Soviet monuments",
+          "summary": "The government takes down Soviet-era war memorials."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia win Nations League promotion",
+        "summary": "Estonia top their League D group to climb back up."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1370000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Kallas wins re-election",
+          "summary": "The Reform Party triumphs in March's parliamentary elections."
+        },
+        {
+          "headline": "Estonia-Russia tensions rise",
+          "summary": "Tallinn expels Russian diplomats and restricts border crossings."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia endure winless Euro qualifying",
+        "summary": "Estonia finish bottom of their group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1372000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Kallas becomes EU foreign policy chief",
+          "summary": "The PM is appointed the EU's top diplomat in June."
+        },
+        {
+          "headline": "Michal becomes prime minister",
+          "summary": "Kristen Michal succeeds Kallas in July."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia compete in Nations League C",
+        "summary": "Estonia finish third in their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1369000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Estonia boosts defence spending",
+          "summary": "Tallinn raises military budgets amid Russian threats."
+        },
+        {
+          "headline": "Russian jets violate Estonian airspace",
+          "summary": "Airspace incursions prompt NATO responses in September."
+        }
+      ],
+      "sport": {
+        "headline": "Estonia chase World Cup qualifying points",
+        "summary": "Estonia compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

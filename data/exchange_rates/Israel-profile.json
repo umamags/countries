@@ -1,0 +1,396 @@
+{
+  "country": "Israel",
+  "iso3": "ISR",
+  "currency": "ILS",
+  "currency_name": "Israeli Shekel",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7052000,
+      "fx_lcu_per_usd_annual_avg": 4.4579,
+      "geopolitical_news": [
+        {
+          "headline": "Lebanon war",
+          "summary": "A 34-day war with Hezbollah ends in stalemate after 1,000+ deaths."
+        },
+        {
+          "headline": "Olmert wins election",
+          "summary": "Kadima takes power; Sharon lies in a coma after his stroke."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel contest 2006 World Cup qualifying in Europe."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 7176000,
+      "fx_lcu_per_usd_annual_avg": 4.1102,
+      "geopolitical_news": [
+        {
+          "headline": "Annapolis peace conference",
+          "summary": "Bush hosts Israeli-Palestinian talks aiming for a deal."
+        },
+        {
+          "headline": "Syria reactor strike",
+          "summary": "Israeli jets destroy a suspected Syrian nuclear site."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2008 qualifiers",
+        "summary": "Israel narrowly miss out on Euro 2008 qualification."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 7307000,
+      "fx_lcu_per_usd_annual_avg": 3.5846,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war launched",
+          "summary": "Operation Cast Lead bombards Gaza after rocket fire."
+        },
+        {
+          "headline": "Olmert resigns",
+          "summary": "Corruption probes force the premier out."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Israeli athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 7482000,
+      "fx_lcu_per_usd_annual_avg": 3.927,
+      "geopolitical_news": [
+        {
+          "headline": "Netanyahu returns",
+          "summary": "Likud wins February elections; Netanyahu becomes PM again."
+        },
+        {
+          "headline": "Gaza war ends",
+          "summary": "A ceasefire halts the three-week offensive."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel contest 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 7621000,
+      "fx_lcu_per_usd_annual_avg": 3.7333,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza flotilla raid",
+          "summary": "Commandos storm a Turkish aid ship, killing nine activists."
+        },
+        {
+          "headline": "Diplomatic fallout",
+          "summary": "Turkey downgrades ties over the deadly raid."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2012 qualifiers",
+        "summary": "Israel begin European Championship qualifying."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7763000,
+      "fx_lcu_per_usd_annual_avg": 3.5793,
+      "geopolitical_news": [
+        {
+          "headline": "Social justice protests",
+          "summary": "Tent cities sprout over housing costs in a mass movement."
+        },
+        {
+          "headline": "Shalit freed",
+          "summary": "The captive soldier is exchanged for 1,027 Palestinian prisoners."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2012 qualifying",
+        "summary": "Israel's qualifying campaign falls short."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7907000,
+      "fx_lcu_per_usd_annual_avg": 3.8577,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza escalation",
+          "summary": "Operation Pillar of Defense targets Hamas after rocket barrages."
+        },
+        {
+          "headline": "Iran red line",
+          "summary": "Netanyahu warns the UN over Tehran's nuclear programme."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Israeli athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 8056000,
+      "fx_lcu_per_usd_annual_avg": 3.6111,
+      "geopolitical_news": [
+        {
+          "headline": "Netanyahu re-elected",
+          "summary": "Likud wins January polls; a coalition forms."
+        },
+        {
+          "headline": "Peace talks resume",
+          "summary": "Kerry brokers a new round of Israeli-Palestinian negotiations."
+        }
+      ],
+      "sport": {
+        "headline": "U21 Euros hosted",
+        "summary": "Israel stage the UEFA Under-21 Championship."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8212000,
+      "fx_lcu_per_usd_annual_avg": 3.5775,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war",
+          "summary": "A 50-day conflict kills over 2,000 Palestinians and 70 Israelis."
+        },
+        {
+          "headline": "Teen murders spark war",
+          "summary": "The killing of three teens triggers the escalation."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel contest 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 8377000,
+      "fx_lcu_per_usd_annual_avg": 3.8868,
+      "geopolitical_news": [
+        {
+          "headline": "Netanyahu wins again",
+          "summary": "Likud triumphs in March elections."
+        },
+        {
+          "headline": "Iran deal opposed",
+          "summary": "Netanyahu addresses Congress against the nuclear accord."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2016 qualifying",
+        "summary": "Israel's qualifying campaign ends in disappointment."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 8543000,
+      "fx_lcu_per_usd_annual_avg": 3.8391,
+      "geopolitical_news": [
+        {
+          "headline": "UN settlement rebuke",
+          "summary": "The Security Council condemns settlements; the US abstains."
+        },
+        {
+          "headline": "Knife intifada",
+          "summary": "Lone-wolf attacks unsettle cities."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Israel win two judo bronzes in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 8710000,
+      "fx_lcu_per_usd_annual_avg": 3.5993,
+      "geopolitical_news": [
+        {
+          "headline": "Trump era begins",
+          "summary": "The new US president promises a friendlier approach."
+        },
+        {
+          "headline": "Temple Mount crisis",
+          "summary": "Metal detectors at Al-Aqsa spark deadly unrest."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 8879000,
+      "fx_lcu_per_usd_annual_avg": 3.595,
+      "geopolitical_news": [
+        {
+          "headline": "US embassy moves to Jerusalem",
+          "summary": "Washington recognizes Jerusalem, sparking Gaza border protests."
+        },
+        {
+          "headline": "Nation-state law",
+          "summary": "A law enshrines Israel as the Jewish nation-state."
+        }
+      ],
+      "sport": {
+        "headline": "Euro qualifiers",
+        "summary": "Israel begin Euro 2020 qualifying."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 9051000,
+      "fx_lcu_per_usd_annual_avg": 3.5636,
+      "geopolitical_news": [
+        {
+          "headline": "Two deadlocked elections",
+          "summary": "April and September polls produce no clear winner."
+        },
+        {
+          "headline": "Gaza flare-ups",
+          "summary": "Rocket exchanges punctuate the political stalemate."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2020 qualifying",
+        "summary": "Israel miss out on the Euros via the playoffs."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 9214000,
+      "fx_lcu_per_usd_annual_avg": 3.4401,
+      "geopolitical_news": [
+        {
+          "headline": "Abraham Accords",
+          "summary": "Israel normalizes ties with the UAE, Bahrain, Sudan and Morocco."
+        },
+        {
+          "headline": "Unity government",
+          "summary": "Netanyahu and Gantz form an emergency coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Euro playoff defeat",
+        "summary": "Israel lose the Euro 2020 playoff semifinal."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 9367000,
+      "fx_lcu_per_usd_annual_avg": 3.2295,
+      "geopolitical_news": [
+        {
+          "headline": "Bennett ousts Netanyahu",
+          "summary": "A broad coalition ends Netanyahu's 12-year rule."
+        },
+        {
+          "headline": "Gaza war",
+          "summary": "An 11-day May conflict follows Jerusalem unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Artem Dolgopyat wins gymnastics gold; Israel take four medals."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 9551000,
+      "fx_lcu_per_usd_annual_avg": 3.3616,
+      "geopolitical_news": [
+        {
+          "headline": "Netanyahu returns",
+          "summary": "November elections bring him back with far-right allies."
+        },
+        {
+          "headline": "Abraham Accords deepen",
+          "summary": "Trade and tourism with Arab partners expand."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 9845000,
+      "fx_lcu_per_usd_annual_avg": 3.6892,
+      "geopolitical_news": [
+        {
+          "headline": "October 7 attacks",
+          "summary": "Hamas kills around 1,200 Israelis; hostages are seized."
+        },
+        {
+          "headline": "Gaza war begins",
+          "summary": "Israel invades Gaza; the conflict reshapes the region."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Israel's qualifiers proceed amid the war."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 9988000,
+      "fx_lcu_per_usd_annual_avg": 3.7015,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war grinds on",
+          "summary": "Fighting continues; hostage deals stall."
+        },
+        {
+          "headline": "Iran exchanges strikes",
+          "summary": "Israel and Iran trade direct attacks in April and October."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic medals in Paris",
+        "summary": "Israel win seven medals, their best Olympic haul."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10123000,
+      "fx_lcu_per_usd_annual_avg": 3.4501,
+      "geopolitical_news": [
+        {
+          "headline": "Twelve-day war with Iran",
+          "summary": "Israel strikes Iran's nuclear sites; the US joins before a ceasefire."
+        },
+        {
+          "headline": "Gaza ceasefire efforts",
+          "summary": "Mediators push for truces and hostage releases."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Israel contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

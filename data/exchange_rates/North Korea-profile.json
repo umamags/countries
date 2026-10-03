@@ -1,0 +1,396 @@
+{
+  "country": "North Korea",
+  "iso3": null,
+  "currency": "KPW",
+  "currency_name": "North Korean Won",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "First nuclear test",
+          "summary": "Pyongyang detonates a nuclear device in October."
+        },
+        {
+          "headline": "Missile launches",
+          "summary": "Taepodong and other missiles are test-fired."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "North Korea contest 2006 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Six-party deal",
+          "summary": "Pyongyang agrees to disable nuclear facilities."
+        },
+        {
+          "headline": "Inter-Korean summit",
+          "summary": "Kim Jong-il meets Roh Moo-hyun in Pyongyang."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "North Korea contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kim's health rumours",
+          "summary": "The leader's stroke sparks succession speculation."
+        },
+        {
+          "headline": "Nuclear disablement",
+          "summary": "Cooling tower demolition proceeds fitfully."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "North Korean athletes medal in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Second nuclear test",
+          "summary": "Pyongyang conducts another test in May."
+        },
+        {
+          "headline": "Journalists detained",
+          "summary": "Two US reporters are seized and later freed."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "North Korea qualify for the 2010 World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Cheonan sinking",
+          "summary": "A South Korean warship sinks; Seoul blames Pyongyang."
+        },
+        {
+          "headline": "Yeonpyeong shelling",
+          "summary": "Northern artillery kills marines and civilians."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in South Africa",
+        "summary": "North Korea lose all three group games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kim Jong-il dies",
+          "summary": "The leader dies in December; Kim Jong-un takes over."
+        },
+        {
+          "headline": "Succession",
+          "summary": "The young heir is hailed as supreme leader."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "North Korea exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Rocket launch",
+          "summary": "A satellite launch fails in April; another succeeds in December."
+        },
+        {
+          "headline": "Kim consolidates",
+          "summary": "The new leader purges rivals."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "North Korea win four golds in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Third nuclear test",
+          "summary": "Pyongyang tests again in February."
+        },
+        {
+          "headline": "Jang executed",
+          "summary": "Kim's uncle is purged and executed."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "North Korea contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kim disappears",
+          "summary": "A six-week absence sparks health rumours."
+        },
+        {
+          "headline": "Sony hack",
+          "summary": "The US blames Pyongyang for the cyberattack."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "North Korean athletes medal in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "DMZ landmines",
+          "summary": "Blasts maim South Korean soldiers; tensions spike."
+        },
+        {
+          "headline": "Standoff defused",
+          "summary": "Talks end the crisis."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "North Korea contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fourth and fifth tests",
+          "summary": "Two nuclear tests in one year escalate the crisis."
+        },
+        {
+          "headline": "Sanctions tighten",
+          "summary": "The UN imposes its toughest penalties yet."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "North Korean athletes medal in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "ICBM tests",
+          "summary": "Missiles demonstrate range to reach the US."
+        },
+        {
+          "headline": "Sixth nuclear test",
+          "summary": "A claimed hydrogen bomb test shakes the region."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "North Korea contest 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Olympic diplomacy",
+          "summary": "Kim's sister attends the Pyeongchang Games."
+        },
+        {
+          "headline": "Singapore summit",
+          "summary": "Kim meets Trump in a historic June summit."
+        }
+      ],
+      "sport": {
+        "headline": "Unified Korean teams",
+        "summary": "North and South field joint teams at the Asian Games."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Hanoi summit fails",
+          "summary": "Trump-Kim talks collapse without a deal."
+        },
+        {
+          "headline": "Missile tests resume",
+          "summary": "Short-range launches restart."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "North Korea exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Borders seal shut",
+          "summary": "COVID prompts the world's strictest lockdown."
+        },
+        {
+          "headline": "Liaison office blown up",
+          "summary": "Pyongyang destroys the inter-Korean office."
+        }
+      ],
+      "sport": {
+        "headline": "Olympics skipped",
+        "summary": "North Korea boycott the Tokyo Games over COVID."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Missile tests resume",
+          "summary": "Cruise and ballistic launches restart."
+        },
+        {
+          "headline": "Food crisis",
+          "summary": "The sealed border deepens shortages."
+        }
+      ],
+      "sport": {
+        "headline": "Sporting isolation",
+        "summary": "North Korea remain absent from international sport."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Record missile launches",
+          "summary": "Dozens of tests, including ICBMs, rattle neighbours."
+        },
+        {
+          "headline": "Nuclear law",
+          "summary": "Pyongyang declares itself an irreversible nuclear state."
+        }
+      ],
+      "sport": {
+        "headline": "Return to competition",
+        "summary": "North Korean athletes reappear at regional events."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Spy satellite launch",
+          "summary": "Pyongyang puts a reconnaissance satellite in orbit."
+        },
+        {
+          "headline": "Russia ties deepen",
+          "summary": "Kim meets Putin; arms deals are alleged."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games return",
+        "summary": "North Korea compete at the Hangzhou Asian Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Troops to Russia",
+          "summary": "Pyongyang sends soldiers to fight in Ukraine."
+        },
+        {
+          "headline": "Russia pact",
+          "summary": "A mutual defence treaty is signed with Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic medals in Paris",
+        "summary": "North Korean divers and wrestlers medal in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Troops fight in Kursk",
+          "summary": "North Korean soldiers suffer heavy losses in Russia."
+        },
+        {
+          "headline": "Nuclear expansion",
+          "summary": "Pyongyang unveils new uranium facilities."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "North Korea contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

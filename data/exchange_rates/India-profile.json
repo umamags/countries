@@ -1,0 +1,396 @@
+{
+  "country": "India",
+  "iso3": "IND",
+  "currency": "INR",
+  "currency_name": "Indian Rupee",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1172879000,
+      "fx_lcu_per_usd_annual_avg": 45.2608,
+      "geopolitical_news": [
+        {
+          "headline": "Mumbai train bombings",
+          "summary": "Coordinated blasts on commuter trains kill scores; peace talks stall."
+        },
+        {
+          "headline": "Nuclear deal advances",
+          "summary": "A US visit seals the framework for the civil nuclear agreement."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy at home",
+        "summary": "India host the ICC Champions Trophy but exit early."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1190676000,
+      "fx_lcu_per_usd_annual_avg": 41.2259,
+      "geopolitical_news": [
+        {
+          "headline": "Nuclear deal crisis",
+          "summary": "Left allies threaten the government over the US nuclear pact."
+        },
+        {
+          "headline": "Samjhauta bombing",
+          "summary": "Blasts on the India-Pakistan train deepen mistrust."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup triumph",
+        "summary": "India win the inaugural World Twenty20 in South Africa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1207931000,
+      "fx_lcu_per_usd_annual_avg": 43.4477,
+      "geopolitical_news": [
+        {
+          "headline": "Mumbai terror attacks",
+          "summary": "Ten gunmen kill over 150 in a four-day November siege."
+        },
+        {
+          "headline": "Nuclear deal signed",
+          "summary": "The 123 Agreement ends India's nuclear isolation."
+        }
+      ],
+      "sport": {
+        "headline": "IPL launches",
+        "summary": "The Indian Premier League debuts, transforming world cricket."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1225525000,
+      "fx_lcu_per_usd_annual_avg": 48.3563,
+      "geopolitical_news": [
+        {
+          "headline": "Congress re-elected",
+          "summary": "The UPA wins a stronger mandate; Manmohan Singh stays PM."
+        },
+        {
+          "headline": "26/11 trial opens",
+          "summary": "The Mumbai attacks trial begins amid pressure on Pakistan."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup defence",
+        "summary": "India's title defence in England ends in the Super Eights."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1243482000,
+      "fx_lcu_per_usd_annual_avg": 45.7245,
+      "geopolitical_news": [
+        {
+          "headline": "Obama backs UNSC bid",
+          "summary": "A November visit elevates the strategic partnership."
+        },
+        {
+          "headline": "Commonwealth Games scandals",
+          "summary": "Delhi's Games are overshadowed by corruption allegations."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup win at home",
+        "summary": "India lift the Cricket World Cup in Mumbai after 28 years."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1261225000,
+      "fx_lcu_per_usd_annual_avg": 46.677,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-corruption movement",
+          "summary": "Anna Hazare's protests force a Lokpal bill promise."
+        },
+        {
+          "headline": "2G scam rocks government",
+          "summary": "The telecom scandal leads to high-profile arrests."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup champions",
+        "summary": "Dhoni's six seals World Cup glory at Wankhede."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1278675000,
+      "fx_lcu_per_usd_annual_avg": 53.4343,
+      "geopolitical_news": [
+        {
+          "headline": "Delhi gang rape protests",
+          "summary": "A brutal December assault triggers mass demonstrations."
+        },
+        {
+          "headline": "Agni-V tested",
+          "summary": "The long-range missile test extends strategic reach."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic medals in London",
+        "summary": "India win six medals, their best Olympic haul then."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1295830000,
+      "fx_lcu_per_usd_annual_avg": 58.6385,
+      "geopolitical_news": [
+        {
+          "headline": "Rupee crashes",
+          "summary": "The currency hits record lows in the taper tantrum."
+        },
+        {
+          "headline": "Mars mission launched",
+          "summary": "India becomes the first Asian nation to reach Mars orbit."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy win",
+        "summary": "India win the ICC Champions Trophy in England."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1312277000,
+      "fx_lcu_per_usd_annual_avg": 61.0228,
+      "geopolitical_news": [
+        {
+          "headline": "Modi sweeps to power",
+          "summary": "The BJP wins a single-party majority; Modi becomes PM."
+        },
+        {
+          "headline": "SAARC outreach",
+          "summary": "Pakistan's PM is invited to the swearing-in."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "India's athletes compete at the Asian Games."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1328024000,
+      "fx_lcu_per_usd_annual_avg": 64.1781,
+      "geopolitical_news": [
+        {
+          "headline": "Paris climate accord",
+          "summary": "India commits to ambitious renewable targets."
+        },
+        {
+          "headline": "Nepal blockade",
+          "summary": "An undeclared blockade strains ties with Kathmandu."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup semifinal",
+        "summary": "India reach the Cricket World Cup semifinals in Australia."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1343944000,
+      "fx_lcu_per_usd_annual_avg": 67.1975,
+      "geopolitical_news": [
+        {
+          "headline": "Uri attack fallout",
+          "summary": "A militant attack kills soldiers; India claims cross-border strikes."
+        },
+        {
+          "headline": "Demonetization shock",
+          "summary": "High-value notes are scrapped overnight in November."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "Sindhu and Sakshi win medals in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1359657000,
+      "fx_lcu_per_usd_annual_avg": 65.1289,
+      "geopolitical_news": [
+        {
+          "headline": "Doklam standoff",
+          "summary": "A 73-day border face-off with China ends in withdrawal."
+        },
+        {
+          "headline": "GST launched",
+          "summary": "A unified goods and services tax begins in July."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy final",
+        "summary": "India lose the final to Pakistan at The Oval."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1374659000,
+      "fx_lcu_per_usd_annual_avg": 68.4483,
+      "geopolitical_news": [
+        {
+          "headline": "2+2 dialogue debuts",
+          "summary": "Defence talks with the US deepen; COMCASA is signed."
+        },
+        {
+          "headline": "Section 377 struck down",
+          "summary": "The top court decriminalizes homosexuality."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games medals",
+        "summary": "India win 69 medals in Jakarta, a record haul."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1389030000,
+      "fx_lcu_per_usd_annual_avg": 70.4274,
+      "geopolitical_news": [
+        {
+          "headline": "Pulwama and Balakot",
+          "summary": "A suicide bombing kills troopers; India bombs inside Pakistan."
+        },
+        {
+          "headline": "Article 370 revoked",
+          "summary": "Kashmir's special status is scrapped in August."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup semifinal exit",
+        "summary": "India lose to New Zealand in the World Cup semifinal."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1402618000,
+      "fx_lcu_per_usd_annual_avg": 74.1082,
+      "geopolitical_news": [
+        {
+          "headline": "Galwan clash",
+          "summary": "Border fighting in Ladakh kills 20 Indian soldiers."
+        },
+        {
+          "headline": "COVID lockdown",
+          "summary": "A sudden nationwide lockdown strands migrant workers."
+        }
+      ],
+      "sport": {
+        "headline": "IPL in the UAE",
+        "summary": "The IPL relocates to the UAE amid the pandemic."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1414204000,
+      "fx_lcu_per_usd_annual_avg": 73.9448,
+      "geopolitical_news": [
+        {
+          "headline": "Delta wave devastates",
+          "summary": "The spring second wave overwhelms hospitals."
+        },
+        {
+          "headline": "Farm laws repealed",
+          "summary": "Modi withdraws the farm laws after year-long protests."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic gold",
+        "summary": "Neeraj Chopra wins javelin gold, India's first athletics gold."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1425423000,
+      "fx_lcu_per_usd_annual_avg": 78.6274,
+      "geopolitical_news": [
+        {
+          "headline": "G20 presidency begins",
+          "summary": "India takes the G20 chair ahead of the 2023 summit."
+        },
+        {
+          "headline": "Russian oil imports surge",
+          "summary": "Discounted crude imports jump amid Western sanctions."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup semifinal",
+        "summary": "India lose to England in the Adelaide semifinal."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1438070000,
+      "fx_lcu_per_usd_annual_avg": 82.5922,
+      "geopolitical_news": [
+        {
+          "headline": "Chandrayaan-3 lands",
+          "summary": "India becomes the fourth nation to soft-land on the Moon."
+        },
+        {
+          "headline": "G20 summit in Delhi",
+          "summary": "The September summit yields a joint declaration."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup final heartbreak",
+        "summary": "India lose the home World Cup final to Australia."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1450936000,
+      "fx_lcu_per_usd_annual_avg": 83.668,
+      "geopolitical_news": [
+        {
+          "headline": "Modi wins third term",
+          "summary": "The BJP loses its majority and rules via coalition."
+        },
+        {
+          "headline": "Canada row deepens",
+          "summary": "Diplomat expulsions follow Sikh separatism tensions."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup champions",
+        "summary": "India win the T20 World Cup in Barbados."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1463866000,
+      "fx_lcu_per_usd_annual_avg": 87.1662,
+      "geopolitical_news": [
+        {
+          "headline": "Pahalgam attack fallout",
+          "summary": "A terror attack kills tourists; strikes trigger confrontation with Pakistan."
+        },
+        {
+          "headline": "US tariff tensions",
+          "summary": "Washington's tariffs strain the trade relationship."
+        }
+      ],
+      "sport": {
+        "headline": "Champions Trophy win",
+        "summary": "India win the ICC Champions Trophy in Dubai."
+      }
+    }
+  ]
+}

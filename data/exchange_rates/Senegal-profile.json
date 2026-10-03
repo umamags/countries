@@ -1,0 +1,396 @@
+{
+  "country": "Senegal",
+  "iso3": "SEN",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 11382000,
+      "fx_lcu_per_usd_annual_avg": 522.4256,
+      "geopolitical_news": [
+        {
+          "headline": "Wade's government stable",
+          "summary": "The president prepares for the 2007 re-election bid."
+        },
+        {
+          "headline": "Casamance peace holds",
+          "summary": "The southern rebellion remains largely quiet."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal reach AFCON quarterfinals",
+        "summary": "The Lions lose to Guinea in the 2006 last eight in Egypt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 11687000,
+      "fx_lcu_per_usd_annual_avg": 478.6337,
+      "geopolitical_news": [
+        {
+          "headline": "Wade re-elected president",
+          "summary": "The incumbent wins February's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Opposition boycotts legislative vote",
+          "summary": "Rivals shun June's parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal qualify for 2008 AFCON",
+        "summary": "The Lions reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 12005000,
+      "fx_lcu_per_usd_annual_avg": 446.0,
+      "geopolitical_news": [
+        {
+          "headline": "Food riots hit Dakar",
+          "summary": "Protests over prices turn violent."
+        },
+        {
+          "headline": "Wade's son rises",
+          "summary": "Karim Wade's prominence fuels succession talk."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal exit AFCON at group stage",
+        "summary": "The Lions go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 12335000,
+      "fx_lcu_per_usd_annual_avg": 470.2934,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins local votes",
+          "summary": "March's municipal elections deliver a rebuke to Wade."
+        },
+        {
+          "headline": "Wade's popularity slides",
+          "summary": "Power cuts and price rises hurt the president."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal chase 2010 World Cup spot",
+        "summary": "The Lions compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 12678000,
+      "fx_lcu_per_usd_annual_avg": 494.7943,
+      "geopolitical_news": [
+        {
+          "headline": "Wade seeks third term",
+          "summary": "The president's bid for 2012 sparks controversy."
+        },
+        {
+          "headline": "Opposition unites",
+          "summary": "The M23 movement mobilizes against Wade."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal miss 2010 World Cup",
+        "summary": "The Lions fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 13034000,
+      "fx_lcu_per_usd_annual_avg": 471.2486,
+      "geopolitical_news": [
+        {
+          "headline": "Protests rock Dakar",
+          "summary": "June riots oppose Wade's third-term maneuver."
+        },
+        {
+          "headline": "Constitutional crisis",
+          "summary": "The president pushes electoral changes."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal qualify for 2012 AFCON",
+        "summary": "The Lions reach the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 13402000,
+      "fx_lcu_per_usd_annual_avg": 510.5563,
+      "geopolitical_news": [
+        {
+          "headline": "Sall defeats Wade",
+          "summary": "Macky Sall wins March's runoff, ending Wade's 12-year rule."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Wade concedes, a democratic milestone."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal exit AFCON at group stage",
+        "summary": "The Lions go home early from the 2012 tournament."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 13782000,
+      "fx_lcu_per_usd_annual_avg": 493.8996,
+      "geopolitical_news": [
+        {
+          "headline": "Karim Wade jailed",
+          "summary": "The ex-president's son faces corruption charges."
+        },
+        {
+          "headline": "Sall's reforms",
+          "summary": "The new president pushes infrastructure projects."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal miss 2013 AFCON",
+        "summary": "The Lions fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 14175000,
+      "fx_lcu_per_usd_annual_avg": 493.7573,
+      "geopolitical_news": [
+        {
+          "headline": "Casamance ceasefire",
+          "summary": "April's deal pauses the southern rebellion."
+        },
+        {
+          "headline": "Ebola contained",
+          "summary": "Senegal quickly stops its single imported case."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal miss 2014 World Cup",
+        "summary": "Ivory Coast edge the Lions in the qualifying playoff."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 14578000,
+      "fx_lcu_per_usd_annual_avg": 591.2117,
+      "geopolitical_news": [
+        {
+          "headline": "Sall's government stable",
+          "summary": "The president consolidates power."
+        },
+        {
+          "headline": "Senegal hosts summits",
+          "summary": "Dakar remains a diplomatic hub."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal exit AFCON at group stage",
+        "summary": "The Lions go home early from the 2015 tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 14994000,
+      "fx_lcu_per_usd_annual_avg": 592.6056,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum shortens terms",
+          "summary": "March's vote cuts presidential terms to five years."
+        },
+        {
+          "headline": "Sall's popularity steady",
+          "summary": "Infrastructure projects boost the president."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal compete at Rio Olympics",
+        "summary": "Senegalese athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 15419000,
+      "fx_lcu_per_usd_annual_avg": 580.6567,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "Sall's coalition wins July's parliamentary vote."
+        },
+        {
+          "headline": "Dakar's growth",
+          "summary": "The capital's development accelerates."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal reach AFCON quarterfinals",
+        "summary": "Cameroon edge the Lions on penalties in the 2017 last eight."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 15854000,
+      "fx_lcu_per_usd_annual_avg": 555.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Sall seeks re-election",
+          "summary": "The president confirms his 2019 bid."
+        },
+        {
+          "headline": "Opposition candidates barred",
+          "summary": "Karim Wade and Khalifa Sall are excluded."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal return to World Cup",
+        "summary": "The Lions reach Russia 2018, exiting on fair-play points."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 16296000,
+      "fx_lcu_per_usd_annual_avg": 585.911,
+      "geopolitical_news": [
+        {
+          "headline": "Sall re-elected president",
+          "summary": "The incumbent wins February's vote in the first round."
+        },
+        {
+          "headline": "Opposition cries foul",
+          "summary": "Rivals allege the playing field was tilted."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal reach AFCON final",
+        "summary": "Algeria edge the Lions 1-0 in the 2019 final."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 16744000,
+      "fx_lcu_per_usd_annual_avg": 575.586,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Senegal",
+          "summary": "The pandemic strains the health system."
+        },
+        {
+          "headline": "Senegal's response praised",
+          "summary": "Early action keeps cases relatively low."
+        }
+      ],
+      "sport": {
+        "headline": "Mane stars for Liverpool",
+        "summary": "Sadio Mane's goals power Liverpool's Premier League title."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 17204000,
+      "fx_lcu_per_usd_annual_avg": 554.5307,
+      "geopolitical_news": [
+        {
+          "headline": "Sonko protests turn deadly",
+          "summary": "March riots over the opposition leader's arrest kill several."
+        },
+        {
+          "headline": "Sall's third-term hints",
+          "summary": "The president refuses to rule out another run."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal win Africa Cup of Nations",
+        "summary": "Mane's winning penalty against Egypt delivers Senegal's first AFCON title."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17676000,
+      "fx_lcu_per_usd_annual_avg": 623.7597,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "Sall's coalition loses its majority in July's vote."
+        },
+        {
+          "headline": "Sonko's popularity surges",
+          "summary": "The opposition leader becomes Sall's chief rival."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal reach World Cup last 16",
+        "summary": "The Lions beat Ecuador to reach the knockouts at Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 18162000,
+      "fx_lcu_per_usd_annual_avg": 606.5698,
+      "geopolitical_news": [
+        {
+          "headline": "Sonko jailed, protests erupt",
+          "summary": "June's sentencing triggers deadly demonstrations."
+        },
+        {
+          "headline": "Sall abandons third term",
+          "summary": "July's announcement eases the political crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal exit AFCON in round of 16",
+        "summary": "Ivory Coast eliminate the holders on penalties at the 2023 tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 18661000,
+      "fx_lcu_per_usd_annual_avg": 606.3453,
+      "geopolitical_news": [
+        {
+          "headline": "Faye wins presidency",
+          "summary": "Bassirou Diomaye Faye triumphs in March's vote after Sall's election delay crisis."
+        },
+        {
+          "headline": "Youngest president elected",
+          "summary": "The 44-year-old's victory caps a dramatic democratic turnaround."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal compete at Paris Olympics",
+        "summary": "Senegalese athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 19173000,
+      "fx_lcu_per_usd_annual_avg": 581.9285,
+      "geopolitical_news": [
+        {
+          "headline": "Faye's government settles in",
+          "summary": "The new administration pursues reforms and sovereignty."
+        },
+        {
+          "headline": "Sonko becomes prime minister",
+          "summary": "The opposition firebrand takes the premiership."
+        }
+      ],
+      "sport": {
+        "headline": "Senegal qualify for 2026 World Cup",
+        "summary": "The Lions cruise through qualifying for the expanded finals."
+      }
+    }
+  ]
+}

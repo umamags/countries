@@ -1,0 +1,396 @@
+{
+  "country": "Palestine",
+  "iso3": "PSE",
+  "currency": "ILS",
+  "currency_name": "Israeli Shekel",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3612000,
+      "fx_lcu_per_usd_annual_avg": 4.4579,
+      "geopolitical_news": [
+        {
+          "headline": "Hamas wins election",
+          "summary": "The Islamist group takes January parliamentary polls."
+        },
+        {
+          "headline": "Aid boycott",
+          "summary": "Western donors cut funds over Hamas's refusal to recognize Israel."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Palestine contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3719000,
+      "fx_lcu_per_usd_annual_avg": 4.1102,
+      "geopolitical_news": [
+        {
+          "headline": "Hamas seizes Gaza",
+          "summary": "Fatah is routed in June; the territories split."
+        },
+        {
+          "headline": "Gaza blockade begins",
+          "summary": "Israel and Egypt seal the Strip."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Palestinian footballers contest qualifying."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3821000,
+      "fx_lcu_per_usd_annual_avg": 3.5846,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war",
+          "summary": "Operation Cast Lead bombards the Strip in December."
+        },
+        {
+          "headline": "Ceasefire collapses",
+          "summary": "A truce breaks down in November."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic appearance",
+        "summary": "Palestinian athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3922000,
+      "fx_lcu_per_usd_annual_avg": 3.927,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war ends",
+          "summary": "Israel declares a ceasefire in January."
+        },
+        {
+          "headline": "Goldstone report",
+          "summary": "A UN probe alleges war crimes by both sides."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Palestine contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4023000,
+      "fx_lcu_per_usd_annual_avg": 3.7333,
+      "geopolitical_news": [
+        {
+          "headline": "Flotilla raid",
+          "summary": "Israeli commandos kill activists on a Gaza-bound ship."
+        },
+        {
+          "headline": "Settlement freeze row",
+          "summary": "Peace talks stall over construction."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Palestinian athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4125000,
+      "fx_lcu_per_usd_annual_avg": 3.5793,
+      "geopolitical_news": [
+        {
+          "headline": "UN statehood bid",
+          "summary": "Abbas seeks full UN membership for Palestine."
+        },
+        {
+          "headline": "UNESCO admitted",
+          "summary": "Palestine joins the UN cultural agency."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Palestine contest World Cup qualifying."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 4226000,
+      "fx_lcu_per_usd_annual_avg": 3.8577,
+      "geopolitical_news": [
+        {
+          "headline": "UN upgrades status",
+          "summary": "The General Assembly recognizes Palestine as a non-member state."
+        },
+        {
+          "headline": "Gaza escalation",
+          "summary": "Operation Pillar of Defense hits the Strip."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Palestinian athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 4328000,
+      "fx_lcu_per_usd_annual_avg": 3.6111,
+      "geopolitical_news": [
+        {
+          "headline": "Kerry peace push",
+          "summary": "US-brokered talks resume and falter."
+        },
+        {
+          "headline": "Prisoner releases",
+          "summary": "Israel frees detainees as a goodwill gesture."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Palestine contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 4429000,
+      "fx_lcu_per_usd_annual_avg": 3.5775,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war",
+          "summary": "A 50-day conflict devastates the Strip."
+        },
+        {
+          "headline": "Unity government",
+          "summary": "Fatah and Hamas form a short-lived cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "AFC Challenge Cup win",
+        "summary": "Palestine win the Challenge Cup, qualifying for the Asian Cup."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 4530000,
+      "fx_lcu_per_usd_annual_avg": 3.8868,
+      "geopolitical_news": [
+        {
+          "headline": "ICC joins",
+          "summary": "Palestine accedes to the International Criminal Court."
+        },
+        {
+          "headline": "Knife attacks",
+          "summary": "A wave of lone-wolf violence erupts."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup debut",
+        "summary": "Palestine play at the Asian Cup for the first time."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4632000,
+      "fx_lcu_per_usd_annual_avg": 3.8391,
+      "geopolitical_news": [
+        {
+          "headline": "UN settlement vote",
+          "summary": "The Security Council condemns Israeli settlements."
+        },
+        {
+          "headline": "Paris conference",
+          "summary": "France hosts a peace summit."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Palestinian athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4733000,
+      "fx_lcu_per_usd_annual_avg": 3.5993,
+      "geopolitical_news": [
+        {
+          "headline": "Hamas-Fatah deal",
+          "summary": "A Cairo reconciliation agreement is signed."
+        },
+        {
+          "headline": "Trump Jerusalem move",
+          "summary": "US recognition of Jerusalem sparks protests."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup qualifying",
+        "summary": "Palestine qualify for the 2019 Asian Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 4854000,
+      "fx_lcu_per_usd_annual_avg": 3.595,
+      "geopolitical_news": [
+        {
+          "headline": "Great March of Return",
+          "summary": "Gaza border protests are met with deadly force."
+        },
+        {
+          "headline": "US cuts aid",
+          "summary": "Washington slashes funding to Palestinians."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Palestinian athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 4977000,
+      "fx_lcu_per_usd_annual_avg": 3.5636,
+      "geopolitical_news": [
+        {
+          "headline": "Deal of the century",
+          "summary": "Trump's plan is rejected by Palestinians."
+        },
+        {
+          "headline": "Gaza flare-ups",
+          "summary": "Rocket exchanges punctuate the year."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Palestine exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5101000,
+      "fx_lcu_per_usd_annual_avg": 3.4401,
+      "geopolitical_news": [
+        {
+          "headline": "Abraham Accords condemned",
+          "summary": "Palestinians denounce Arab normalization with Israel."
+        },
+        {
+          "headline": "Annexation threat",
+          "summary": "Israel plans West Bank annexation, then pauses."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Palestinian football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5227000,
+      "fx_lcu_per_usd_annual_avg": 3.2295,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war",
+          "summary": "An 11-day May conflict follows Jerusalem unrest."
+        },
+        {
+          "headline": "Elections cancelled",
+          "summary": "Abbas calls off the first polls in 15 years."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Palestinian athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5355000,
+      "fx_lcu_per_usd_annual_avg": 3.3616,
+      "geopolitical_news": [
+        {
+          "headline": "Jenin raids",
+          "summary": "Deadly Israeli operations intensify in the West Bank."
+        },
+        {
+          "headline": "UN probe",
+          "summary": "Investigations document rising settler violence."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Palestine contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5483000,
+      "fx_lcu_per_usd_annual_avg": 3.6892,
+      "geopolitical_news": [
+        {
+          "headline": "October 7 attacks",
+          "summary": "Hamas assaults Israel; Gaza war erupts."
+        },
+        {
+          "headline": "Gaza devastated",
+          "summary": "Israeli bombardment kills tens of thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Palestine reach the Asian Cup knockouts."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5613000,
+      "fx_lcu_per_usd_annual_avg": 3.7015,
+      "geopolitical_news": [
+        {
+          "headline": "Gaza war grinds on",
+          "summary": "Fighting continues amid famine warnings."
+        },
+        {
+          "headline": "Statehood recognitions",
+          "summary": "Spain, Ireland and Norway recognize Palestine."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic football",
+        "summary": "Palestinian athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5737000,
+      "fx_lcu_per_usd_annual_avg": 3.4501,
+      "geopolitical_news": [
+        {
+          "headline": "Ceasefire efforts",
+          "summary": "Mediators push truces and hostage deals."
+        },
+        {
+          "headline": "West Bank escalation",
+          "summary": "Israeli operations expand across the territory."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Palestine contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

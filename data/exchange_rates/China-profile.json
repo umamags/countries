@@ -1,0 +1,396 @@
+{
+  "country": "China",
+  "iso3": "CHN",
+  "currency": "CNY",
+  "currency_name": "Chinese Yuan",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1314480000,
+      "fx_lcu_per_usd_annual_avg": 7.9737,
+      "geopolitical_news": [
+        {
+          "headline": "Growth surges past 10 percent",
+          "summary": "China's economy booms as exports and investment drive double-digit growth."
+        },
+        {
+          "headline": "Rural unrest simmers",
+          "summary": "Land seizures spark thousands of local protests across the countryside."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic countdown begins",
+        "summary": "Beijing's preparations for the 2008 Games enter their final stretch."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1321290000,
+      "fx_lcu_per_usd_annual_avg": 7.6063,
+      "geopolitical_news": [
+        {
+          "headline": "Hu consolidates power",
+          "summary": "The 17th Party Congress cements Hu Jintao's leadership."
+        },
+        {
+          "headline": "Product safety scandals",
+          "summary": "Tainted exports trigger global recalls and domestic outrage."
+        }
+      ],
+      "sport": {
+        "headline": "Women's World Cup hosted",
+        "summary": "China stages the FIFA Women's World Cup."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1328020000,
+      "fx_lcu_per_usd_annual_avg": 6.9485,
+      "geopolitical_news": [
+        {
+          "headline": "Beijing Olympics dazzle",
+          "summary": "China tops the gold-medal table at a spectacular home Games."
+        },
+        {
+          "headline": "Sichuan earthquake devastates",
+          "summary": "A massive May quake kills tens of thousands in Sichuan province."
+        }
+      ],
+      "sport": {
+        "headline": "Topping the medal table",
+        "summary": "China wins the most golds at its home Olympics."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1334500000,
+      "fx_lcu_per_usd_annual_avg": 6.8311,
+      "geopolitical_news": [
+        {
+          "headline": "Xinjiang riots",
+          "summary": "Ethnic violence in Urumqi kills scores and prompts a crackdown."
+        },
+        {
+          "headline": "Stimulus powers recovery",
+          "summary": "A massive package shields China from the global financial crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Post-Olympic sports push",
+        "summary": "China leverages Olympic success to promote mass sports."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1340910000,
+      "fx_lcu_per_usd_annual_avg": 6.7678,
+      "geopolitical_news": [
+        {
+          "headline": "Nobel row with Oslo",
+          "summary": "Liu Xiaobo's peace prize freezes China-Norway ties."
+        },
+        {
+          "headline": "Shanghai Expo opens",
+          "summary": "The World Expo showcases China's rise to millions of visitors."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "China dominates the medals at the home Asian Games."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1349160000,
+      "fx_lcu_per_usd_annual_avg": 6.4624,
+      "geopolitical_news": [
+        {
+          "headline": "Wenzhou train crash",
+          "summary": "A high-speed rail collision kills dozens and sparks safety fury."
+        },
+        {
+          "headline": "Jasmine crackdown",
+          "summary": "Authorities crush faint echoes of the Arab Spring."
+        }
+      ],
+      "sport": {
+        "headline": "Li Na wins French Open",
+        "summary": "Li Na becomes Asia's first Grand Slam singles champion."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1359220000,
+      "fx_lcu_per_usd_annual_avg": 6.3094,
+      "geopolitical_news": [
+        {
+          "headline": "Xi takes power",
+          "summary": "Xi Jinping becomes party chief at the 18th Congress."
+        },
+        {
+          "headline": "Bo Xilai scandal",
+          "summary": "The Chongqing boss falls in a murder and corruption drama."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympic haul",
+        "summary": "China finishes second in the London medal table."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1367260000,
+      "fx_lcu_per_usd_annual_avg": 6.148,
+      "geopolitical_news": [
+        {
+          "headline": "Xi becomes president",
+          "summary": "Xi Jinping completes his ascent to China's top state post."
+        },
+        {
+          "headline": "Anti-corruption campaign",
+          "summary": "A sweeping graft crackdown targets tigers and flies."
+        }
+      ],
+      "sport": {
+        "headline": "Li Na's Australian triumph",
+        "summary": "Li Na wins the Australian Open, her second major title."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1376460000,
+      "fx_lcu_per_usd_annual_avg": 6.1612,
+      "geopolitical_news": [
+        {
+          "headline": "Hong Kong's Umbrella protests",
+          "summary": "Pro-democracy demonstrators occupy streets for 79 days."
+        },
+        {
+          "headline": "Xinjiang crackdown",
+          "summary": "A 'strike hard' campaign follows deadly attacks."
+        }
+      ],
+      "sport": {
+        "headline": "Youth Olympics in Nanjing",
+        "summary": "China hosts the Summer Youth Olympic Games."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1383260000,
+      "fx_lcu_per_usd_annual_avg": 6.2854,
+      "geopolitical_news": [
+        {
+          "headline": "Stock market turmoil",
+          "summary": "A summer crash wipes trillions off Chinese equities."
+        },
+        {
+          "headline": "Tianjin explosions",
+          "summary": "Chemical blasts devastate the port city, killing scores."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing wins 2022 Winter bid",
+        "summary": "Beijing is awarded the 2022 Winter Olympics."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1392320000,
+      "fx_lcu_per_usd_annual_avg": 6.6444,
+      "geopolitical_news": [
+        {
+          "headline": "South China Sea ruling",
+          "summary": "An international tribunal rejects Beijing's claims; China ignores it."
+        },
+        {
+          "headline": "Xi named core leader",
+          "summary": "The party elevates Xi to 'core' status."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic performance",
+        "summary": "China finishes third in the Rio medal table."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1400110000,
+      "fx_lcu_per_usd_annual_avg": 6.7587,
+      "geopolitical_news": [
+        {
+          "headline": "Xi's second term",
+          "summary": "The 19th Congress enshrines Xi Thought in the party charter."
+        },
+        {
+          "headline": "Doklam standoff",
+          "summary": "Chinese and Indian troops face off on the Bhutan plateau."
+        }
+      ],
+      "sport": {
+        "headline": "National Games",
+        "summary": "Tianjin hosts China's National Games."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1405410000,
+      "fx_lcu_per_usd_annual_avg": 6.6187,
+      "geopolitical_news": [
+        {
+          "headline": "Term limits abolished",
+          "summary": "The constitution is changed to let Xi rule indefinitely."
+        },
+        {
+          "headline": "Trade war erupts",
+          "summary": "US tariffs trigger retaliation and market turmoil."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "China tops the medal table in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1410080000,
+      "fx_lcu_per_usd_annual_avg": 6.9114,
+      "geopolitical_news": [
+        {
+          "headline": "Hong Kong protests explode",
+          "summary": "Months of massive demonstrations rock the city over an extradition bill."
+        },
+        {
+          "headline": "Trade war truce",
+          "summary": "A phase-one deal pauses escalation with Washington."
+        }
+      ],
+      "sport": {
+        "headline": "Military World Games",
+        "summary": "Wuhan hosts the Military World Games months before COVID."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1412120000,
+      "fx_lcu_per_usd_annual_avg": 6.9003,
+      "geopolitical_news": [
+        {
+          "headline": "COVID emerges from Wuhan",
+          "summary": "The coronavirus spreads globally after first appearing in Hubei."
+        },
+        {
+          "headline": "Hong Kong security law",
+          "summary": "Beijing imposes a sweeping national security law on the city."
+        }
+      ],
+      "sport": {
+        "headline": "Sports shut down",
+        "summary": "The pandemic halts Chinese leagues and events."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1412600000,
+      "fx_lcu_per_usd_annual_avg": 6.4491,
+      "geopolitical_news": [
+        {
+          "headline": "Party centenary",
+          "summary": "The Communist Party marks 100 years with Tiananmen pageantry."
+        },
+        {
+          "headline": "Tech crackdown",
+          "summary": "Regulators hammer Alibaba, Didi and tutoring firms."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympic haul",
+        "summary": "China ties the US for most golds in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1411750000,
+      "fx_lcu_per_usd_annual_avg": 6.7347,
+      "geopolitical_news": [
+        {
+          "headline": "Xi wins third term",
+          "summary": "The 20th Congress grants Xi an unprecedented third leadership term."
+        },
+        {
+          "headline": "Zero-COVID protests",
+          "summary": "Rare nationwide demonstrations force an abrupt reopening."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Winter Olympics",
+        "summary": "China hosts a closed-loop Winter Games amid COVID controls."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1409670000,
+      "fx_lcu_per_usd_annual_avg": 7.0846,
+      "geopolitical_news": [
+        {
+          "headline": "Post-COVID reopening",
+          "summary": "China abandons zero-COVID; the economy reopens unevenly."
+        },
+        {
+          "headline": "Spy balloon row",
+          "summary": "A US shootdown of a Chinese balloon spikes tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Hangzhou",
+        "summary": "China dominates the delayed home Asian Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1408280000,
+      "fx_lcu_per_usd_annual_avg": 7.1956,
+      "geopolitical_news": [
+        {
+          "headline": "Economic gloom",
+          "summary": "Property crisis and weak demand drag on growth."
+        },
+        {
+          "headline": "Taiwan tensions",
+          "summary": "Military drills around Taiwan follow Lai's inauguration."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympic success",
+        "summary": "China ties the US atop the Paris gold-medal table."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1405080000,
+      "fx_lcu_per_usd_annual_avg": 7.1874,
+      "geopolitical_news": [
+        {
+          "headline": "US tariff war escalates",
+          "summary": "Washington's sweeping tariffs trigger Chinese retaliation."
+        },
+        {
+          "headline": "Parade of power",
+          "summary": "A massive military parade marks 80 years since WWII's end."
+        }
+      ],
+      "sport": {
+        "headline": "National Games",
+        "summary": "The Greater Bay Area hosts China's National Games."
+      }
+    }
+  ]
+}

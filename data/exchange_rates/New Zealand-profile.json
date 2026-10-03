@@ -1,0 +1,404 @@
+{
+  "country": "New Zealand",
+  "iso3": "NZL",
+  "currency": "NZD",
+  "currency_name": "New Zealand Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 4185000,
+      "fx_lcu_per_usd_annual_avg": 1.543,
+      "geopolitical_news": [
+        {
+          "headline": "John Key takes over National leadership",
+          "summary": "Don Brash resigned in November and former currency trader John Key was elected leader unopposed."
+        },
+        {
+          "headline": "New Zealand troops join Timor-Leste force",
+          "summary": "Defence personnel deployed to Dili as communal violence destabilised the young nation."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks complete unbeaten Grand Slam tour",
+        "summary": "New Zealand swept England, France, Scotland and Wales on the end-of-year northern tour."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 4226000,
+      "fx_lcu_per_usd_annual_avg": 1.3608,
+      "geopolitical_news": [
+        {
+          "headline": "Police launch Urewera 'terror' raids",
+          "summary": "October raids in the central North Island led to firearms charges and a heated political debate."
+        },
+        {
+          "headline": "Electoral Finance Act passed amid protests",
+          "summary": "Labour pushed the controversial campaign finance law through in December despite opposition outcry."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks stunned by France at World Cup",
+        "summary": "A quarter-final defeat in Cardiff ended New Zealand's 2007 World Cup campaign in shock."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 4262000,
+      "fx_lcu_per_usd_annual_avg": 1.4246,
+      "geopolitical_news": [
+        {
+          "headline": "John Key's National wins election",
+          "summary": "National defeated Labour in November, ending nine years of Helen Clark's government."
+        },
+        {
+          "headline": "Sir Edmund Hillary dies aged 88",
+          "summary": "The Everest conqueror and Antarctic explorer died in January, prompting a state funeral."
+        }
+      ],
+      "sport": {
+        "headline": "Rowers and cyclists lead Beijing medal haul",
+        "summary": "New Zealand won nine medals at the Beijing Olympics, including three golds."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 4305000,
+      "fx_lcu_per_usd_annual_avg": 1.5965,
+      "geopolitical_news": [
+        {
+          "headline": "Auckland 'super city' reforms legislated",
+          "summary": "Parliament merged the region's councils into a single Auckland Council from 2010."
+        },
+        {
+          "headline": "Recession deepens as unemployment climbs",
+          "summary": "Joblessness hit decade highs as the global financial crisis dragged New Zealand through recession."
+        }
+      ],
+      "sport": {
+        "headline": "Black Caps reach Champions Trophy final",
+        "summary": "New Zealand lost to Australia in the Centurion final of the one-day tournament."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 4353000,
+      "fx_lcu_per_usd_annual_avg": 1.3875,
+      "geopolitical_news": [
+        {
+          "headline": "Pike River explosion kills 29 miners",
+          "summary": "The November blast on the West Coast became one of New Zealand's worst industrial disasters."
+        },
+        {
+          "headline": "Canterbury earthquake damages Christchurch",
+          "summary": "A powerful September quake struck near Darfield, wrecking buildings but causing no deaths."
+        },
+        {
+          "headline": "National's popularity holds amid recovery",
+          "summary": "John Key's government maintained strong polling as the economy slowly emerged from recession."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks complete unbeaten northern tour",
+        "summary": "New Zealand won every Test on the end-of-year tour of Britain, Ireland and France."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 4386000,
+      "fx_lcu_per_usd_annual_avg": 1.2654,
+      "geopolitical_news": [
+        {
+          "headline": "Christchurch earthquake kills 185",
+          "summary": "The February quake devastated the city centre, becoming New Zealand's deadliest peacetime disaster."
+        },
+        {
+          "headline": "Rena grounding causes worst oil spill",
+          "summary": "The container ship struck a reef off Tauranga in October, spilling oil onto Bay of Plenty beaches."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks win home Rugby World Cup",
+        "summary": "New Zealand edged France 8-7 in the Auckland final to lift the Webb Ellis Cup."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 4411000,
+      "fx_lcu_per_usd_annual_avg": 1.2355,
+      "geopolitical_news": [
+        {
+          "headline": "Kim Dotcom arrested in FBI-backed raid",
+          "summary": "The internet mogul was arrested at his Auckland mansion in January over copyright charges."
+        },
+        {
+          "headline": "Partial sale of state power companies begins",
+          "summary": "The government pressed ahead with asset sales despite opposition and a citizens' referendum."
+        }
+      ],
+      "sport": {
+        "headline": "Lisa Carrington wins kayak gold in London",
+        "summary": "The 23-year-old won the K1 200m, New Zealand's standout gold of the London Olympics."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 4447000,
+      "fx_lcu_per_usd_annual_avg": 1.2203,
+      "geopolitical_news": [
+        {
+          "headline": "Same-sex marriage legalised",
+          "summary": "Parliament passed marriage equality in April after a conscience vote and public gallery celebrations."
+        },
+        {
+          "headline": "GCSB spying bill passes amid protests",
+          "summary": "Expanded surveillance powers for the spy agency were legislated despite privacy concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Team NZ loses America's Cup after 8-1 lead",
+        "summary": "Oracle Team USA completed a stunning comeback in San Francisco to retain the Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 4520000,
+      "fx_lcu_per_usd_annual_avg": 1.2058,
+      "geopolitical_news": [
+        {
+          "headline": "National wins third term under Key",
+          "summary": "John Key's party secured a commanding September victory, its third consecutive election win."
+        },
+        {
+          "headline": "Internet Party-MANA alliance flops",
+          "summary": "Kim Dotcom's big-spending election vehicle failed to win a single seat."
+        }
+      ],
+      "sport": {
+        "headline": "McCullum hits NZ's first Test triple century",
+        "summary": "Brendon McCullum's 302 against India in Wellington rescued a famous draw."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 4613000,
+      "fx_lcu_per_usd_annual_avg": 1.4363,
+      "geopolitical_news": [
+        {
+          "headline": "Trans-Pacific Partnership concluded",
+          "summary": "Twelve nations including New Zealand finalised the huge trade deal in Atlanta in October."
+        },
+        {
+          "headline": "Flag referendum process begins",
+          "summary": "Voters were asked to choose a new flag design in the first of two referendums."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks win back-to-back World Cups",
+        "summary": "New Zealand beat Australia in the London final, the first team to defend the title."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4717000,
+      "fx_lcu_per_usd_annual_avg": 1.4353,
+      "geopolitical_news": [
+        {
+          "headline": "John Key resigns; Bill English takes over",
+          "summary": "Key's shock December resignation made deputy Bill English prime minister."
+        },
+        {
+          "headline": "Kaikoura earthquake strikes",
+          "summary": "The November quake killed two and severed road and rail links along the east coast."
+        }
+      ],
+      "sport": {
+        "headline": "Rio brings record 18 Olympic medals",
+        "summary": "New Zealand won four golds among a record medal haul at the Rio Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4815000,
+      "fx_lcu_per_usd_annual_avg": 1.4074,
+      "geopolitical_news": [
+        {
+          "headline": "Jacinda Ardern becomes prime minister",
+          "summary": "Labour formed a government with NZ First in October after Ardern's meteoric campaign."
+        },
+        {
+          "headline": "Edgecumbe floods force evacuations",
+          "summary": "Autumn floods inundated the Bay of Plenty town, displacing hundreds of residents."
+        }
+      ],
+      "sport": {
+        "headline": "Team New Zealand wins the America's Cup",
+        "summary": "The Kiwis swept Oracle in Bermuda to reclaim sailing's biggest prize."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 4901000,
+      "fx_lcu_per_usd_annual_avg": 1.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Ardern gives birth while in office",
+          "summary": "The prime minister had a daughter in June, a first for a New Zealand leader."
+        },
+        {
+          "headline": "Government bans new offshore oil exploration",
+          "summary": "No new exploration permits would be granted, a landmark climate policy decision."
+        }
+      ],
+      "sport": {
+        "headline": "Black Ferns Sevens win world title",
+        "summary": "New Zealand's women claimed the Sevens World Cup in San Francisco."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 4977000,
+      "fx_lcu_per_usd_annual_avg": 1.5189,
+      "geopolitical_news": [
+        {
+          "headline": "Christchurch mosque shootings kill 51",
+          "summary": "A gunman attacked two mosques in March in New Zealand's worst modern mass shooting."
+        },
+        {
+          "headline": "Parliament passes sweeping gun reforms",
+          "summary": "Military-style semi-automatics were banned within weeks of the Christchurch attacks."
+        },
+        {
+          "headline": "Whakaari eruption kills 22",
+          "summary": "The December volcanic eruption on White Island killed tourists and guides."
+        }
+      ],
+      "sport": {
+        "headline": "Black Caps lose World Cup final on boundary count",
+        "summary": "England won the Lord's final on a tiebreak rule after a tied Super Over."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5068000,
+      "fx_lcu_per_usd_annual_avg": 1.5401,
+      "geopolitical_news": [
+        {
+          "headline": "Elimination strategy drives hard lockdowns",
+          "summary": "New Zealand pursued zero-COVID with strict lockdowns and closed borders."
+        },
+        {
+          "headline": "Labour wins historic outright majority",
+          "summary": "Ardern's party won the October election outright, a first under MMP."
+        }
+      ],
+      "sport": {
+        "headline": "Crusaders win debut Super Rugby Aotearoa",
+        "summary": "The Christchurch side took out the domestic competition created during the pandemic."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5084000,
+      "fx_lcu_per_usd_annual_avg": 1.4146,
+      "geopolitical_news": [
+        {
+          "headline": "Trans-Tasman bubble opens then bursts",
+          "summary": "Quarantine-free travel with Australia launched in April but collapsed amid Delta outbreaks."
+        },
+        {
+          "headline": "Team NZ retains America's Cup in Auckland",
+          "summary": "The defenders beat Luna Rossa in March to keep the Auld Mug."
+        }
+      ],
+      "sport": {
+        "headline": "Black Caps win World Test Championship",
+        "summary": "New Zealand beat India in the Southampton final to become inaugural Test champions."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5090000,
+      "fx_lcu_per_usd_annual_avg": 1.5786,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament protest ends in riot",
+          "summary": "The three-week occupation of parliament grounds was cleared in March amid fires and clashes."
+        },
+        {
+          "headline": "Borders reopen after two years",
+          "summary": "New Zealand lifted COVID border restrictions in stages from May."
+        }
+      ],
+      "sport": {
+        "headline": "Black Ferns win home Rugby World Cup",
+        "summary": "New Zealand beat England in the Auckland final before a record crowd."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5199000,
+      "fx_lcu_per_usd_annual_avg": 1.63,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Gabrielle devastates North Island",
+          "summary": "The February cyclone caused deaths and massive damage across Hawke's Bay and Tairawhiti."
+        },
+        {
+          "headline": "Labour loses; Luxon becomes PM",
+          "summary": "National won the October election and Christopher Luxon formed a coalition government."
+        }
+      ],
+      "sport": {
+        "headline": "Football Ferns co-host Women's World Cup",
+        "summary": "New Zealand staged the tournament with Australia but exited in the group stage."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5290000,
+      "fx_lcu_per_usd_annual_avg": 1.6525,
+      "geopolitical_news": [
+        {
+          "headline": "Mass hikoi protests Treaty Principles Bill",
+          "summary": "Tens of thousands marched to parliament in November opposing the controversial bill."
+        },
+        {
+          "headline": "Government pushes through tax and spending cuts",
+          "summary": "The coalition delivered tax relief while cutting public sector jobs."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics brings record 20 medals",
+        "summary": "New Zealand won ten golds, its most successful Olympic Games ever."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5324000,
+      "fx_lcu_per_usd_annual_avg": 1.7198,
+      "geopolitical_news": [
+        {
+          "headline": "Parliament kills Treaty Principles Bill",
+          "summary": "The bill was defeated at second reading in April after record public submissions."
+        },
+        {
+          "headline": "Cook Islands-China deal strains NZ ties",
+          "summary": "The Cook Islands' partnership agreement with Beijing tested its constitutional relationship with Wellington."
+        }
+      ],
+      "sport": {
+        "headline": "All Blacks rebuild under new coaching era",
+        "summary": "New Zealand's rugby side worked through a transitional season with mixed results."
+      }
+    }
+  ]
+}

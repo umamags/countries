@@ -1,0 +1,400 @@
+{
+  "country": "Algeria",
+  "iso3": "DZA",
+  "currency": "DZD",
+  "currency_name": "Algerian Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 33351000,
+      "fx_lcu_per_usd_annual_avg": 72.6466,
+      "geopolitical_news": [
+        {
+          "headline": "Militants pledge allegiance to al-Qaeda",
+          "summary": "The Salafist Group for Preaching and Combat announces its merger with al-Qaeda in September, rebranding as AQIM."
+        },
+        {
+          "headline": "National reconciliation charter takes effect",
+          "summary": "Amnesty measures for Islamist militants are implemented as the state declares the 1990s civil conflict over."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria miss out on 2006 World Cup",
+        "summary": "The Desert Foxes finish well off the pace in qualifying, missing both the World Cup and the Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 33858000,
+      "fx_lcu_per_usd_annual_avg": 69.2924,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly bombings strike Algiers",
+          "summary": "Twin December suicide bombings hit UN offices and the constitutional court, killing dozens in the capital."
+        },
+        {
+          "headline": "Ruling coalition wins legislative elections",
+          "summary": "The FLN-led alliance takes May's parliamentary vote amid low turnout and opposition boycott calls."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria fail to reach 2008 AFCON",
+        "summary": "The national team misses a second straight Africa Cup of Nations after a poor qualifying campaign."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 34591000,
+      "fx_lcu_per_usd_annual_avg": 64.5828,
+      "geopolitical_news": [
+        {
+          "headline": "Constitution amended to allow third term",
+          "summary": "Parliament removes presidential term limits in November, clearing Bouteflika to seek re-election in 2009."
+        },
+        {
+          "headline": "Suicide bombing hits police academy",
+          "summary": "A deadly August attack in Issers kills dozens of recruits, one of AQIM's worst strikes that year."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria top World Cup qualifying group",
+        "summary": "The Desert Foxes win their second-round group to stay in the hunt for a 2010 World Cup place."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 35268000,
+      "fx_lcu_per_usd_annual_avg": 72.6474,
+      "geopolitical_news": [
+        {
+          "headline": "Bouteflika wins third term",
+          "summary": "The president is re-elected in April amid opposition claims of fraud and low turnout."
+        },
+        {
+          "headline": "Football playoff sparks row with Egypt",
+          "summary": "Violence around November's World Cup playoff in Khartoum triggers a diplomatic crisis between Algiers and Cairo."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria beat Egypt to reach 2010 World Cup",
+        "summary": "A 1-0 playoff win over Egypt in Khartoum sends Algeria to its first World Cup in 24 years."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 35978000,
+      "fx_lcu_per_usd_annual_avg": 74.386,
+      "geopolitical_news": [
+        {
+          "headline": "Sporadic protests over prices and housing",
+          "summary": "January demonstrations in Algiers foreshadow wider regional unrest, but are quickly contained by security forces."
+        },
+        {
+          "headline": "AQIM insurgency grinds on",
+          "summary": "Militant attacks persist in the Kabylie region even as the government claims the upper hand."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria reach AFCON semifinals",
+        "summary": "The Desert Foxes finish fourth at the 2010 Africa Cup of Nations, then hold England to a famous World Cup draw."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 36717000,
+      "fx_lcu_per_usd_annual_avg": 72.9379,
+      "geopolitical_news": [
+        {
+          "headline": "Protests force end of emergency law",
+          "summary": "Weeks of January demonstrations push the government to lift the 19-year state of emergency in February."
+        },
+        {
+          "headline": "Libya war strains Algiers",
+          "summary": "Algeria shelters members of the Gaddafi family in August before recognizing Libya's new authorities in September."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria miss 2012 AFCON",
+        "summary": "A shock qualifying failure keeps the Desert Foxes out of the 2012 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 37495000,
+      "fx_lcu_per_usd_annual_avg": 77.536,
+      "geopolitical_news": [
+        {
+          "headline": "FLN wins legislative elections",
+          "summary": "The ruling party takes May's parliamentary vote as the opposition alleges irregularities."
+        },
+        {
+          "headline": "Algeria mediates in Mali crisis",
+          "summary": "Algiers hosts talks as northern Mali falls to Tuareg rebels and Islamist militants."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria qualify for 2013 AFCON",
+        "summary": "A playoff win over Libya books Algeria's return to the Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 38297000,
+      "fx_lcu_per_usd_annual_avg": 79.3684,
+      "geopolitical_news": [
+        {
+          "headline": "In Amenas gas plant siege",
+          "summary": "Islamist militants seize a desert gas facility in January; the army assault leaves dozens of hostages dead."
+        },
+        {
+          "headline": "Bouteflika hospitalized in Paris",
+          "summary": "The president suffers a stroke in April, fueling speculation about his fitness to govern."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria exit AFCON at group stage",
+        "summary": "Three defeats in South Africa send the Desert Foxes home early from the 2013 tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 39114000,
+      "fx_lcu_per_usd_annual_avg": 80.579,
+      "geopolitical_news": [
+        {
+          "headline": "Bouteflika wins fourth term",
+          "summary": "The ailing president is re-elected in April despite rarely appearing in public during the campaign."
+        },
+        {
+          "headline": "Air Algerie plane crashes in Mali",
+          "summary": "Flight AH5017 goes down in July en route from Ouagadougou to Algiers, killing all 116 on board."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria reach World Cup last 16",
+        "summary": "Wins over South Korea and a draw with Russia take Algeria to the knockout stage, where Germany win in extra time."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 39963000,
+      "fx_lcu_per_usd_annual_avg": 100.6914,
+      "geopolitical_news": [
+        {
+          "headline": "Algeria brokers Mali peace deal",
+          "summary": "The Algiers Accord signed in June aims to end northern Mali's rebellion, with Algeria as guarantor."
+        },
+        {
+          "headline": "Oil price crash squeezes economy",
+          "summary": "Plunging crude revenues force subsidy cuts and austerity in the hydrocarbon-dependent state."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria fall in AFCON quarterfinals",
+        "summary": "A 3-1 defeat to eventual champions Ivory Coast ends Algeria's 2015 campaign in Equatorial Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 40836000,
+      "fx_lcu_per_usd_annual_avg": 109.4431,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform adopted",
+          "summary": "February amendments restore term limits and make Tamazight an official language."
+        },
+        {
+          "headline": "Succession questions grow",
+          "summary": "Bouteflika's prolonged absences from public life deepen uncertainty over who really governs Algeria."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria qualify for 2017 AFCON",
+        "summary": "The Desert Foxes top their qualifying group to book a place at the Gabon tournament."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 41721000,
+      "fx_lcu_per_usd_annual_avg": 110.973,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling parties win legislative vote",
+          "summary": "The FLN and RND take May's parliamentary elections amid record-low turnout."
+        },
+        {
+          "headline": "Algeria-Morocco border stays shut",
+          "summary": "Rabat-Algiers ties remain frozen over Western Sahara as the land border stays closed."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria exit AFCON in group stage",
+        "summary": "Defeats to Tunisia and Senegal condemn Algeria to an early exit in Gabon."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 42578000,
+      "fx_lcu_per_usd_annual_avg": 116.5938,
+      "geopolitical_news": [
+        {
+          "headline": "Military plane crash kills 257",
+          "summary": "An April crash near Boufarik becomes Algeria's deadliest aviation disaster."
+        },
+        {
+          "headline": "Cocaine seizure scandal rocks elite",
+          "summary": "A massive May drug bust at Oran port exposes corruption links reaching into the ruling circle."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria miss 2018 World Cup",
+        "summary": "A dismal qualifying campaign ends with Algeria bottom of their group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 43424000,
+      "fx_lcu_per_usd_annual_avg": 119.3536,
+      "geopolitical_news": [
+        {
+          "headline": "Hirak protests force Bouteflika out",
+          "summary": "Mass weekly demonstrations beginning in February compel the president to resign on April 2."
+        },
+        {
+          "headline": "Tebboune elected president",
+          "summary": "Abdelmadjid Tebboune wins December's election, which the protest movement boycotts."
+        },
+        {
+          "headline": "Army chief Gaid Salah dies",
+          "summary": "The powerful military chief who managed the transition dies of a heart attack in December."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria win Africa Cup of Nations",
+        "summary": "Mahrez's stoppage-time winner against Nigeria and a 1-0 final victory over Senegal deliver the title."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 43851000,
+      "fx_lcu_per_usd_annual_avg": 126.7768,
+      "geopolitical_news": [
+        {
+          "headline": "Hirak suspended by pandemic",
+          "summary": "Weekly protests halt in March as COVID-19 arrives; authorities jail protest figures during the pause."
+        },
+        {
+          "headline": "Constitutional referendum passes",
+          "summary": "November's vote on Tebboune's reforms passes amid very low turnout and a boycott."
+        }
+      ],
+      "sport": {
+        "headline": "Football shut down by pandemic",
+        "summary": "Domestic and international fixtures are suspended for months as Algeria battles COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 44577000,
+      "fx_lcu_per_usd_annual_avg": 135.0641,
+      "geopolitical_news": [
+        {
+          "headline": "Algeria severs ties with Morocco",
+          "summary": "Algiers cuts diplomatic relations in August, accusing Rabat of hostile acts over Western Sahara."
+        },
+        {
+          "headline": "Deadly wildfires ravage Kabylie",
+          "summary": "August blazes kill dozens and displace thousands in the worst wildfires in Algeria's history."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria's 35-match unbeaten run ends",
+        "summary": "A record unbeaten streak stretching back to 2018 is snapped by Equatorial Guinea at the Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 45291000,
+      "fx_lcu_per_usd_annual_avg": 141.995,
+      "geopolitical_news": [
+        {
+          "headline": "Algeria hosts Arab League summit",
+          "summary": "November's summit in Algiers is dominated by food security and the Palestinian question."
+        },
+        {
+          "headline": "Algeria freezes treaty with Spain",
+          "summary": "Algiers suspends its friendship treaty with Madrid in June after Spain backs Morocco on Western Sahara."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria lose World Cup playoff to Cameroon",
+        "summary": "A stoppage-time away-goals defeat in Blida denies Algeria a place at Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 45973000,
+      "fx_lcu_per_usd_annual_avg": 135.8429,
+      "geopolitical_news": [
+        {
+          "headline": "BRICS rejects Algeria's membership bid",
+          "summary": "Algiers' application to join the bloc fails at the August summit despite lobbying."
+        },
+        {
+          "headline": "Tebboune reshuffles government",
+          "summary": "Cabinet changes aim to revive the economy as the president eyes a second term."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria qualify for 2023 AFCON",
+        "summary": "The Desert Foxes top their qualifying group to reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 46626000,
+      "fx_lcu_per_usd_annual_avg": 134.0532,
+      "geopolitical_news": [
+        {
+          "headline": "Tebboune re-elected president",
+          "summary": "The incumbent wins September's vote, though turnout figures spark opposition skepticism."
+        },
+        {
+          "headline": "Algeria joins UN Security Council",
+          "summary": "Algiers takes a non-permanent seat in January, championing Palestinian statehood."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria crash out of AFCON group stage",
+        "summary": "A humiliating defeat to Mauritania seals a winless group-stage exit in Ivory Coast."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 47251000,
+      "fx_lcu_per_usd_annual_avg": 131.6059,
+      "geopolitical_news": [
+        {
+          "headline": "Algeria-France diplomatic crisis deepens",
+          "summary": "The detention of writer Boualem Sansal and disputes over Western Sahara freeze ties with Paris."
+        },
+        {
+          "headline": "Algeria downs Malian drone, sparking row",
+          "summary": "An April border incident prompts Mali, Burkina Faso and Niger to recall their ambassadors."
+        }
+      ],
+      "sport": {
+        "headline": "Algeria qualify for 2026 World Cup",
+        "summary": "An October win over Somalia seals Algeria's return to the World Cup after a 12-year absence."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Oman",
+  "iso3": "OMN",
+  "currency": "OMR",
+  "currency_name": "Omani Rial",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2670000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Qaboos consolidates",
+          "summary": "The sultan maintains Oman's quiet diplomacy."
+        },
+        {
+          "headline": "Economic growth",
+          "summary": "Oil revenues fund development."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Omani athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2726000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Gonu",
+          "summary": "The storm batters the coast, killing dozens."
+        },
+        {
+          "headline": "Recovery",
+          "summary": "Rebuilding follows the rare cyclone."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Oman contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2785000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Oil boom",
+          "summary": "High crude prices swell state coffers."
+        },
+        {
+          "headline": "Succession questions",
+          "summary": "The childless sultan's heir remains unclear."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Omani athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2883000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup triumph",
+          "summary": "Oman win the Gulf Cup on home soil."
+        },
+        {
+          "headline": "US free trade",
+          "summary": "The FTA with Washington takes effect."
+        }
+      ],
+      "sport": {
+        "headline": "First Gulf Cup title",
+        "summary": "Oman beat Saudi Arabia to win the Gulf Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2998000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Economic diversification",
+          "summary": "Tourism and ports grow."
+        },
+        {
+          "headline": "Regional mediation",
+          "summary": "Muscat hosts back-channel talks."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Omani athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3295000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring protests",
+          "summary": "Demonstrations in Sohar demand jobs and reform."
+        },
+        {
+          "headline": "Sultan's concessions",
+          "summary": "Qaboos grants legislative powers and jobs."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Oman exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3623000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Activists tried",
+          "summary": "Dozens face courts over protest roles."
+        },
+        {
+          "headline": "Calm restored",
+          "summary": "Concessions defuse unrest."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Omani athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3855000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "US-Iran back channel",
+          "summary": "Muscat hosts secret talks leading to the nuclear deal."
+        },
+        {
+          "headline": "Quiet diplomacy",
+          "summary": "Oman's mediation role grows."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup campaign",
+        "summary": "Oman contest the Gulf Cup."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3992000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Oil price crash",
+          "summary": "Falling crude strains finances."
+        },
+        {
+          "headline": "Sultan's health",
+          "summary": "Qaboos seeks treatment abroad."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Omani athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 4159000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen mediation",
+          "summary": "Muscat tries to broker peace in Yemen."
+        },
+        {
+          "headline": "Deficit",
+          "summary": "Low oil prices bite."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Oman exit the Asian Cup in the group stage."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 4414000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Austerity",
+          "summary": "Subsidy cuts and taxes address the deficit."
+        },
+        {
+          "headline": "Iran-Saudi mediation",
+          "summary": "Oman shuttles between the rivals."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Omani athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 4560000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Qatar crisis mediation",
+          "summary": "Muscat stays neutral in the Gulf blockade."
+        },
+        {
+          "headline": "Duqm port",
+          "summary": "The strategic port project advances."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup triumph",
+        "summary": "Oman win the Gulf Cup in Kuwait."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 4602000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Netanyahu visits",
+          "summary": "The Israeli PM makes a surprise trip to Muscat."
+        },
+        {
+          "headline": "Regional bridge",
+          "summary": "Oman's balancing act continues."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Omani athletes compete in Jakarta."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 4618000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup hosted",
+          "summary": "Qatar hosts; Oman defend their title."
+        },
+        {
+          "headline": "Economic strain",
+          "summary": "Debt rises as oil stays low."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup last 16",
+        "summary": "Oman reach the Asian Cup knockouts."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 4445000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Sultan Qaboos dies",
+          "summary": "The ruler of 50 years dies in January."
+        },
+        {
+          "headline": "Haitham succeeds",
+          "summary": "The culture minister becomes sultan."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Omani football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 4488000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Protests",
+          "summary": "Unemployed youth demonstrate in several cities."
+        },
+        {
+          "headline": "New sultan consolidates",
+          "summary": "Haitham reshapes the government."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Omani athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 4934000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Yemen truce role",
+          "summary": "Muscat helps broker the Yemen ceasefire."
+        },
+        {
+          "headline": "Economic recovery",
+          "summary": "High oil prices lift finances."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Oman contest 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5166000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Gulf Cup final",
+          "summary": "Oman lose the final to Iraq in Basra."
+        },
+        {
+          "headline": "Mediation continues",
+          "summary": "Muscat hosts Iran-West talks."
+        }
+      ],
+      "sport": {
+        "headline": "Gulf Cup runners-up",
+        "summary": "Oman reach the Gulf Cup final."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5219000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "Iran nuclear talks",
+          "summary": "Muscat hosts US-Iran indirect negotiations."
+        },
+        {
+          "headline": "Houthi diplomacy",
+          "summary": "Oman engages on Red Sea de-escalation."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Omani athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5307000,
+      "fx_lcu_per_usd_annual_avg": 0.3845,
+      "geopolitical_news": [
+        {
+          "headline": "US-Iran talks hosted",
+          "summary": "Muscat stages nuclear negotiations amid war fears."
+        },
+        {
+          "headline": "Economic diversification",
+          "summary": "Vision 2040 plans advance."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Oman contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Malta",
+  "iso3": "MLT",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 405000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Gonzi government stable",
+          "summary": "The Nationalist government governs steadily."
+        },
+        {
+          "headline": "Malta prepares euro bid",
+          "summary": "Valletta readies the 2008 switch to the euro."
+        }
+      ],
+      "sport": {
+        "headline": "Malta stun Hungary in qualifier",
+        "summary": "A 2-1 win in Ta' Qali is a famous Euro qualifying upset."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 406000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "EU approves Malta's euro entry",
+          "summary": "Brussels clears Malta for 2008 euro adoption."
+        },
+        {
+          "headline": "Migration pressures grow",
+          "summary": "Boat arrivals from Libya increase."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss Euro 2008",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 408000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Gonzi wins wafer-thin election",
+          "summary": "The Nationalists win March elections by one seat."
+        },
+        {
+          "headline": "Malta adopts the euro",
+          "summary": "The euro replaces the lira in January."
+        }
+      ],
+      "sport": {
+        "headline": "Malta begin World Cup qualifying",
+        "summary": "Malta open their 2010 campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 411000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Malta weathers recession",
+          "summary": "The economy proves relatively resilient."
+        },
+        {
+          "headline": "Abela... Labour regroups",
+          "summary": "The opposition prepares under Joseph Muscat."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss 2010 World Cup",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 414000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Malta's economy recovers",
+          "summary": "Growth returns after the downturn."
+        },
+        {
+          "headline": "Government majority fragile",
+          "summary": "The one-seat majority strains governance."
+        }
+      ],
+      "sport": {
+        "headline": "Malta begin Euro 2012 qualifying",
+        "summary": "Malta open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 415000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Divorce referendum passes",
+          "summary": "Voters approve divorce legalisation in May."
+        },
+        {
+          "headline": "Government survives crises",
+          "summary": "The thin majority holds through the year."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss Euro 2012",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 418000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Government loses majority",
+          "summary": "A rebel MP's defection topples the Nationalists in December."
+        },
+        {
+          "headline": "Snap election called",
+          "summary": "Malta heads to early elections."
+        }
+      ],
+      "sport": {
+        "headline": "Malta begin World Cup qualifying",
+        "summary": "Malta open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 421000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Muscat wins landslide",
+          "summary": "Labour triumphs in March elections."
+        },
+        {
+          "headline": "Labour returns after 15 years",
+          "summary": "Joseph Muscat becomes prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss 2014 World Cup",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 428000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Malta's economy booms",
+          "summary": "Growth surges on gaming and finance."
+        },
+        {
+          "headline": "Citizenship scheme launched",
+          "summary": "A passport-for-investment programme begins."
+        }
+      ],
+      "sport": {
+        "headline": "Malta begin Euro 2016 qualifying",
+        "summary": "Malta open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 439000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Migration crisis hits Malta",
+          "summary": "Rescue operations strain the island."
+        },
+        {
+          "headline": "Panama Papers loom",
+          "summary": "Offshore leaks will soon implicate Maltese figures."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss Euro 2016",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 450000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Panama Papers implicate Muscat aides",
+          "summary": "Leaks link the PM's circle to offshore firms."
+        },
+        {
+          "headline": "Opposition demands resignations",
+          "summary": "The scandal dominates politics."
+        }
+      ],
+      "sport": {
+        "headline": "Malta begin World Cup qualifying",
+        "summary": "Malta open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 459000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Caruana Galizia murdered",
+          "summary": "Investigative journalist Daphne Caruana Galizia is killed in October."
+        },
+        {
+          "headline": "Muscat wins snap election",
+          "summary": "Labour triumphs again in June elections."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss 2018 World Cup",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 475000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Murder probe stalls",
+          "summary": "The Caruana Galizia investigation drags on."
+        },
+        {
+          "headline": "Malta's boom continues",
+          "summary": "The economy keeps growing strongly."
+        }
+      ],
+      "sport": {
+        "headline": "Malta compete in Nations League D",
+        "summary": "Malta battle in their League D group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 493000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Muscat resigns over murder probe",
+          "summary": "The PM quits in December as the investigation closes in."
+        },
+        {
+          "headline": "Businessman charged",
+          "summary": "Yorgen Fenech is charged over the journalist's murder."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss Euro 2020",
+        "summary": "Malta finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 515000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Abela becomes prime minister",
+          "summary": "Robert Abela succeeds Muscat in January."
+        },
+        {
+          "headline": "COVID-19 hits tourism",
+          "summary": "The pandemic empties Malta's hotels."
+        }
+      ],
+      "sport": {
+        "headline": "Malta compete in Nations League D",
+        "summary": "Malta battle in their League D group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 516000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Malta's vaccine rollout",
+          "summary": "The island leads Europe in vaccination rates."
+        },
+        {
+          "headline": "Tourism reopens",
+          "summary": "Visitors return as restrictions ease."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss 2022 World Cup",
+        "summary": "Malta finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 520000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Abela wins election",
+          "summary": "Labour triumphs in March elections."
+        },
+        {
+          "headline": "Malta backs Ukraine",
+          "summary": "Valletta supports EU sanctions."
+        }
+      ],
+      "sport": {
+        "headline": "Malta compete in Nations League D",
+        "summary": "Malta battle in their League D group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 542000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Caruana Galizia inquiry concludes",
+          "summary": "A public inquiry blames the state for the murder."
+        },
+        {
+          "headline": "Malta's growth continues",
+          "summary": "The economy keeps expanding."
+        }
+      ],
+      "sport": {
+        "headline": "Malta miss Euro 2024",
+        "summary": "Malta finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 553000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Metsola re-elected EP president",
+          "summary": "Roberta Metsola keeps the EU Parliament's top job."
+        },
+        {
+          "headline": "Malta holds local elections",
+          "summary": "June votes keep Labour dominant."
+        }
+      ],
+      "sport": {
+        "headline": "Malta compete in Nations League D",
+        "summary": "Malta battle in their League D group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 563000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Malta's boom slows",
+          "summary": "Growth cools amid global headwinds."
+        },
+        {
+          "headline": "Abela government stable",
+          "summary": "Labour governs with a big majority."
+        }
+      ],
+      "sport": {
+        "headline": "Malta chase World Cup qualifying points",
+        "summary": "Malta compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

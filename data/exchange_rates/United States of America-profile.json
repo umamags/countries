@@ -1,0 +1,400 @@
+{
+  "country": "United States of America",
+  "iso3": "USA",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "Fixed at 1.0 (US dollar)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 298930000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Democrats retake Congress",
+          "summary": "November midterms punish Bush over Iraq; defense secretary Rumsfeld resigns after heavy losses."
+        },
+        {
+          "headline": "Iraq violence spirals",
+          "summary": "Sectarian bloodshed peaks in Baghdad; mounting US casualties deepen public opposition and political pressure."
+        }
+      ],
+      "sport": {
+        "headline": "Steelers win Super Bowl XL",
+        "summary": "Pittsburgh beats Seattle in Detroit in February for the franchise's fifth Super Bowl title."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 301903000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Bush orders Iraq troop surge",
+          "summary": "An extra 20,000 troops deploy in January; sectarian violence gradually falls by year-end under Petraeus' strategy."
+        },
+        {
+          "headline": "Subprime mortgage crisis erupts",
+          "summary": "Housing defaults spread through summer; Bear Stearns funds collapse in August as credit markets freeze."
+        }
+      ],
+      "sport": {
+        "headline": "Patriots complete perfect regular season",
+        "summary": "New England goes 16-0, the first perfect regular season since the schedule expanded to sixteen games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 304718000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Lehman collapse triggers global crisis",
+          "summary": "Lehman Brothers fails in September; credit markets convulse and governments worldwide rush massive bailouts."
+        },
+        {
+          "headline": "Obama elected president",
+          "summary": "November victory over McCain makes Barack Obama the first Black US president, with a decisive Electoral College margin."
+        }
+      ],
+      "sport": {
+        "headline": "Phelps wins eight golds in Beijing",
+        "summary": "Michael Phelps sweeps all eight swimming events, the most golds ever at one Olympics."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 307374000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Stimulus passes; health reform battle begins",
+          "summary": "The $787 billion ARRA passes in February; the fight over Obamacare dominates the year."
+        },
+        {
+          "headline": "Obama surges troops in Afghanistan",
+          "summary": "December order sends 30,000 more troops as the Taliban insurgency intensifies across the south and east."
+        }
+      ],
+      "sport": {
+        "headline": "Steelers win Super Bowl XLIII",
+        "summary": "Pittsburgh edges Arizona in Tampa in February on a last-minute Santonio Holmes touchdown catch."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 309737000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Affordable Care Act becomes law",
+          "summary": "Landmark health reform passes in March on party-line votes after a bruising fight in Congress."
+        },
+        {
+          "headline": "Tea Party wave in the midterms",
+          "summary": "Republicans retake the House in November amid backlash to Obama and stimulus spending."
+        }
+      ],
+      "sport": {
+        "headline": "Saints win first Super Bowl",
+        "summary": "New Orleans beats Indianapolis in Miami in February, lifting a city still rebuilding five years after Katrina."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 311944000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Bin Laden killed in Pakistan raid",
+          "summary": "May SEAL raid in Abbottabad ends the 9/11 mastermind's nearly decade on the run."
+        },
+        {
+          "headline": "Debt-ceiling crisis rattles markets",
+          "summary": "August standoff brings the US near default; S&P strips its AAA credit rating for the first time."
+        }
+      ],
+      "sport": {
+        "headline": "Packers win Super Bowl XLV",
+        "summary": "Green Bay beats Pittsburgh in Dallas in February for the franchise's fourth title behind Aaron Rodgers' MVP performance."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 314167000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Obama wins re-election",
+          "summary": "November victory over Romney; Democrats hold the Senate despite a sluggish economy and high unemployment."
+        },
+        {
+          "headline": "Benghazi attack kills four Americans",
+          "summary": "September assault on the US consulate in Libya, including the ambassador, sparks a political firestorm."
+        }
+      ],
+      "sport": {
+        "headline": "US tops the London medal table",
+        "summary": "Americans win 104 medals with 22 golds; Phelps retires as the most decorated Olympian ever."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 316331000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Government shutdown over Obamacare",
+          "summary": "A 16-day October shutdown follows a failed GOP bid to defund the health law."
+        },
+        {
+          "headline": "Snowden exposes NSA surveillance",
+          "summary": "June leaks reveal mass data collection; Snowden flees to Russia via Hong Kong, sparking a global privacy debate."
+        }
+      ],
+      "sport": {
+        "headline": "Heat repeat as NBA champions",
+        "summary": "Miami beats San Antonio in seven games in June; LeBron James earns Finals MVP again."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 318619000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "US leads sanctions over Crimea",
+          "summary": "Washington coordinates Western sanctions after Russia's March annexation of Crimea and backs Kyiv with aid."
+        },
+        {
+          "headline": "Airstrikes against ISIS begin",
+          "summary": "US bombs ISIS targets in Iraq and Syria in August as the group seizes Mosul."
+        }
+      ],
+      "sport": {
+        "headline": "Seahawks win first Super Bowl",
+        "summary": "Seattle crushes Denver in New York in February; the Legion of Boom defense dominates from kickoff."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 320926000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Iran nuclear deal signed",
+          "summary": "July JCPOA trades sanctions relief for strict curbs on Iran's nuclear program over the next decade."
+        },
+        {
+          "headline": "Paris climate accord adopted",
+          "summary": "December deal commits the US and nearly 200 nations to emissions cuts in a landmark global pact."
+        }
+      ],
+      "sport": {
+        "headline": "US women win the World Cup",
+        "summary": "The USWNT beats Japan 5-2 in Vancouver; Lloyd's hat trick seals a third star."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 323221000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump elected president",
+          "summary": "November upset over Clinton upends US politics and rattles global alliances, despite losing the popular vote."
+        },
+        {
+          "headline": "Russia accused of election interference",
+          "summary": "US intelligence blames Moscow for hacks and leaks aimed at the campaign in a January assessment."
+        }
+      ],
+      "sport": {
+        "headline": "Cubs end 108-year drought",
+        "summary": "Chicago beats Cleveland in seven games for its first World Series since 1908 in a November classic."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 325280000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Travel ban sparks protests",
+          "summary": "January order restricting entry from several Muslim-majority nations faces court blocks and airport demonstrations nationwide."
+        },
+        {
+          "headline": "Charlottesville rally turns deadly",
+          "summary": "August white-supremacist rally kills a counterprotester; Trump's response draws bipartisan condemnation after he blames both sides."
+        }
+      ],
+      "sport": {
+        "headline": "Patriots' historic Super Bowl comeback",
+        "summary": "New England erases a 25-point deficit to beat Atlanta in overtime in Houston in February."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 327023000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trade war with China begins",
+          "summary": "July tariffs on Chinese goods worth tens of billions open a multi-year conflict roiling global markets."
+        },
+        {
+          "headline": "Democrats retake the House",
+          "summary": "November midterms deliver a check on Trump's power amid record turnout and suburban revolt against the president."
+        }
+      ],
+      "sport": {
+        "headline": "Eagles win first Super Bowl",
+        "summary": "Philadelphia upsets New England in Minneapolis in February in a high-scoring thriller behind backup quarterback Nick Foles."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 328547000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump impeached over Ukraine",
+          "summary": "December impeachment on abuse-of-power charges for pressuring Kyiv; the Senate acquits him in 2020."
+        },
+        {
+          "headline": "Phase-one China trade deal",
+          "summary": "December truce pauses tariff escalation after 18 months of tensions as both sides claim wins."
+        }
+      ],
+      "sport": {
+        "headline": "USWNT wins World Cup again",
+        "summary": "The Americans beat the Netherlands in Lyon in July to repeat as world champions before a global audience."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 331307000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 pandemic ravages the US",
+          "summary": "Lockdowns spread in March; hundreds of thousands die as the economy craters, then partially recovers by fall."
+        },
+        {
+          "headline": "Biden defeats Trump",
+          "summary": "November victory ends a bitter campaign as mail-in ballots tip key states; Trump refuses to concede defeat."
+        }
+      ],
+      "sport": {
+        "headline": "Sports shut down, then bubble up",
+        "summary": "Leagues halt in March; the NBA finishes its season in a Florida bubble, won by the Lakers."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 332452000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Capitol riot shocks the nation",
+          "summary": "January 6 mob storms Congress in an unprecedented attack as lawmakers certify Biden's election victory."
+        },
+        {
+          "headline": "Chaotic withdrawal from Afghanistan",
+          "summary": "August exit ends 20 years of war as evacuations turn desperate; the Taliban swiftly retakes Kabul."
+        },
+        {
+          "headline": "Biden's domestic agenda advances",
+          "summary": "March stimulus and November infrastructure bill pass on party lines amid inflation worries."
+        }
+      ],
+      "sport": {
+        "headline": "US tops Tokyo's medal table",
+        "summary": "Americans win 113 medals at the delayed Games in August, edging China in golds."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 334252000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "US rallies behind Ukraine",
+          "summary": "February Russian invasion triggers massive American military aid and sanctions coordinated with European allies, worth tens of billions."
+        },
+        {
+          "headline": "Dobbs ends federal abortion rights",
+          "summary": "June Supreme Court ruling in a 6-3 decision overturns Roe v. Wade, returning the issue to states."
+        }
+      ],
+      "sport": {
+        "headline": "USMNT returns to the World Cup",
+        "summary": "The Americans reach the round of 16 in Qatar in a young squad's debut before falling to the Netherlands."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 336962000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Debt-ceiling standoff resolved",
+          "summary": "A June deal between Biden and McCarthy averts a first-ever US default after weeks of brinkmanship."
+        },
+        {
+          "headline": "US backs Israel after October 7",
+          "summary": "Hamas attack triggers American military aid and a regional crisis as the Gaza war begins, drawing protests at home."
+        }
+      ],
+      "sport": {
+        "headline": "Messi mania hits American soccer",
+        "summary": "Lionel Messi joins Inter Miami in July, transforming MLS's profile overnight and selling out stadiums nationwide."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 339989000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump wins comeback election",
+          "summary": "November victory over Kamala Harris makes him the second president to win non-consecutive terms in a decisive return."
+        },
+        {
+          "headline": "Biden drops out, Harris steps in",
+          "summary": "July withdrawal after a disastrous debate upends the Democratic ticket, making Harris the nominee with 100 days to go."
+        }
+      ],
+      "sport": {
+        "headline": "US shines at the Paris Olympics",
+        "summary": "Americans top the Paris medal table with 126 medals, most of any nation, led by Biles and Ledecky."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 341890000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Trump's second term begins",
+          "summary": "January inauguration launches mass deportations and a federal workforce overhaul with sweeping executive orders on day one."
+        },
+        {
+          "headline": "Liberation Day tariffs shock markets",
+          "summary": "Sweeping April tariffs ignite a global trade war and market turmoil, with rates unseen in a century."
+        }
+      ],
+      "sport": {
+        "headline": "Eagles deny Chiefs' three-peat",
+        "summary": "Philadelphia routs Kansas City in New Orleans in February to win Super Bowl LIX, ending the dynasty bid."
+      }
+    }
+  ]
+}

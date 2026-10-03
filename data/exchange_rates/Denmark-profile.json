@@ -1,0 +1,396 @@
+{
+  "country": "Denmark",
+  "iso3": "DNK",
+  "currency": "DKK",
+  "currency_name": "Danish Krone",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 5427000,
+      "fx_lcu_per_usd_annual_avg": 5.9462,
+      "geopolitical_news": [
+        {
+          "headline": "Cartoon crisis fallout continues",
+          "summary": "Denmark faces boycotts and threats over the Muhammad cartoons."
+        },
+        {
+          "headline": "Rasmussen coalition holds firm",
+          "summary": "The liberal-conservative government governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark miss 2006 World Cup",
+        "summary": "Denmark fail to qualify for the finals in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5447000,
+      "fx_lcu_per_usd_annual_avg": 5.4445,
+      "geopolitical_news": [
+        {
+          "headline": "Rasmussen wins third term",
+          "summary": "The PM triumphs in November's snap election."
+        },
+        {
+          "headline": "Municipal reform takes effect",
+          "summary": "Denmark's local government overhaul comes into force."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark miss Euro 2008",
+        "summary": "Denmark finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 5476000,
+      "fx_lcu_per_usd_annual_avg": 5.096,
+      "geopolitical_news": [
+        {
+          "headline": "Greenland backs self-rule",
+          "summary": "A November referendum approves expanded Greenlandic autonomy."
+        },
+        {
+          "headline": "Cartoonist assassination plot foiled",
+          "summary": "Police arrest suspects in a plot against Kurt Westergaard."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark make strong start to World Cup qualifying",
+        "summary": "Denmark open their 2010 campaign impressively."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 5511000,
+      "fx_lcu_per_usd_annual_avg": 5.3537,
+      "geopolitical_news": [
+        {
+          "headline": "Rasmussen becomes NATO chief",
+          "summary": "Anders Fogh Rasmussen is appointed NATO secretary general."
+        },
+        {
+          "headline": "Lokke Rasmussen becomes PM",
+          "summary": "Lars Lokke Rasmussen succeeds his namesake as prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark qualify for 2010 World Cup",
+        "summary": "Denmark top their group ahead of Portugal and Sweden."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 5535000,
+      "fx_lcu_per_usd_annual_avg": 5.6291,
+      "geopolitical_news": [
+        {
+          "headline": "Denmark tightens immigration rules",
+          "summary": "The government hardens asylum and family reunification laws."
+        },
+        {
+          "headline": "Copenhagen terror plot foiled",
+          "summary": "Police arrest suspects planning a Mumbai-style attack in December."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark exit World Cup in group stage",
+        "summary": "Denmark bow out in South Africa after defeats to the Netherlands and Japan."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 5561000,
+      "fx_lcu_per_usd_annual_avg": 5.3584,
+      "geopolitical_news": [
+        {
+          "headline": "Thorning-Schmidt becomes first female PM",
+          "summary": "Helle Thorning-Schmidt ends a decade of right-wing rule in September."
+        },
+        {
+          "headline": "Centre-left wins election",
+          "summary": "The red bloc triumphs in parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark qualify for Euro 2012",
+        "summary": "Denmark pip Portugal to top their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5581000,
+      "fx_lcu_per_usd_annual_avg": 5.7975,
+      "geopolitical_news": [
+        {
+          "headline": "Denmark holds EU presidency",
+          "summary": "Copenhagen leads the EU Council in the first half of the year."
+        },
+        {
+          "headline": "Fiscal compact signed",
+          "summary": "Denmark backs the EU's budget discipline treaty."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark exit Euro 2012 in group of death",
+        "summary": "Denmark beat the Netherlands but lose to Portugal and Germany."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5603000,
+      "fx_lcu_per_usd_annual_avg": 5.6175,
+      "geopolitical_news": [
+        {
+          "headline": "Government scraps fat tax",
+          "summary": "Denmark abolishes the world's first fat tax after a year."
+        },
+        {
+          "headline": "Coalition strains over economy",
+          "summary": "The Socialist People's Party threatens to quit the government."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark miss 2014 World Cup",
+        "summary": "Denmark finish second but rank as the worst runners-up."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5627000,
+      "fx_lcu_per_usd_annual_avg": 5.6202,
+      "geopolitical_news": [
+        {
+          "headline": "Socialists quit coalition",
+          "summary": "The SF party leaves the government over the DONG sale row."
+        },
+        {
+          "headline": "Copenhagen hosts Eurovision",
+          "summary": "Denmark stages the song contest in May."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark begin Euro 2016 qualifying",
+        "summary": "Denmark open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5660000,
+      "fx_lcu_per_usd_annual_avg": 6.7271,
+      "geopolitical_news": [
+        {
+          "headline": "Copenhagen terror attacks",
+          "summary": "Gun attacks on a synagogue and a free-speech event kill two in February."
+        },
+        {
+          "headline": "Right-wing bloc wins election",
+          "summary": "Lars Lokke Rasmussen returns as PM in June."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden deny Denmark Euro 2016",
+        "summary": "Denmark lose their playoff to neighbours Sweden."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5707000,
+      "fx_lcu_per_usd_annual_avg": 6.7296,
+      "geopolitical_news": [
+        {
+          "headline": "Denmark tightens border controls",
+          "summary": "Copenhagen extends temporary border checks amid the migration crisis."
+        },
+        {
+          "headline": "Government survives on thin majority",
+          "summary": "Lokke Rasmussen governs with Denmark's narrowest majority."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark begin World Cup qualifying",
+        "summary": "Denmark open their 2018 qualifying campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5749000,
+      "fx_lcu_per_usd_annual_avg": 6.5983,
+      "geopolitical_news": [
+        {
+          "headline": "Social Democrats hold in local elections",
+          "summary": "November municipal elections keep the party dominant locally."
+        },
+        {
+          "headline": "Government presents tax reform",
+          "summary": "Copenhagen proposes tax cuts to boost employment."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark qualify for 2018 World Cup",
+        "summary": "Denmark thrash Ireland in the playoffs to reach Russia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 5781000,
+      "fx_lcu_per_usd_annual_avg": 6.3173,
+      "geopolitical_news": [
+        {
+          "headline": "Burqa ban takes effect",
+          "summary": "Denmark bans face-covering veils in public in August."
+        },
+        {
+          "headline": "Denmark expels Russian diplomats",
+          "summary": "Copenhagen joins the Western response to the Salisbury poisoning."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark exit World Cup in last 16",
+        "summary": "Croatia beat Denmark on penalties."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 5806000,
+      "fx_lcu_per_usd_annual_avg": 6.6703,
+      "geopolitical_news": [
+        {
+          "headline": "Frederiksen becomes prime minister",
+          "summary": "Mette Frederiksen forms a Social Democrat government in June."
+        },
+        {
+          "headline": "Trump cancels visit over Greenland",
+          "summary": "Trump scraps a state visit after Denmark rebuffs his Greenland purchase idea."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark qualify for Euro 2020",
+        "summary": "Denmark finish second in their group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5823000,
+      "fx_lcu_per_usd_annual_avg": 6.5364,
+      "geopolitical_news": [
+        {
+          "headline": "Mink cull scandal",
+          "summary": "The government orders all mink culled over a COVID mutation."
+        },
+        {
+          "headline": "Denmark locks down early",
+          "summary": "Denmark is among Europe's first to lock down and reopen."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark compete in Nations League A",
+        "summary": "Denmark finish second in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5840000,
+      "fx_lcu_per_usd_annual_avg": 6.2916,
+      "geopolitical_news": [
+        {
+          "headline": "Denmark-US spying row",
+          "summary": "Reports emerge that Denmark helped the US spy on European leaders."
+        },
+        {
+          "headline": "Frederiksen pursues migration hardline",
+          "summary": "Denmark plans external asylum processing centres."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark reach Euro 2020 semi-finals",
+        "summary": "England end Denmark's emotional run at Wembley."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5873000,
+      "fx_lcu_per_usd_annual_avg": 7.0808,
+      "geopolitical_news": [
+        {
+          "headline": "Denmark votes to join EU defence pact",
+          "summary": "A June referendum abolishes the defence opt-out."
+        },
+        {
+          "headline": "Snap election: Frederiksen survives",
+          "summary": "November elections keep the PM in office."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark flop at World Cup",
+        "summary": "Denmark finish bottom of their group in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5933000,
+      "fx_lcu_per_usd_annual_avg": 6.8925,
+      "geopolitical_news": [
+        {
+          "headline": "Quran burnings strain ties",
+          "summary": "Protests in Muslim countries follow burnings in Copenhagen."
+        },
+        {
+          "headline": "Denmark bans Quran burnings",
+          "summary": "Parliament outlaws desecration of religious texts in December."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark qualify for Euro 2024",
+        "summary": "Denmark top their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5961000,
+      "fx_lcu_per_usd_annual_avg": 6.893,
+      "geopolitical_news": [
+        {
+          "headline": "Frederiksen attacked in Copenhagen",
+          "summary": "The PM is assaulted in central Copenhagen in June."
+        },
+        {
+          "headline": "King Frederik X ascends throne",
+          "summary": "Margrethe II abdicates in January after 52 years."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark exit Euro 2024 in last 16",
+        "summary": "Germany knock Denmark out in Dortmund."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5993000,
+      "fx_lcu_per_usd_annual_avg": 6.6177,
+      "geopolitical_news": [
+        {
+          "headline": "Trump renews Greenland threats",
+          "summary": "Washington's renewed interest in Greenland strains Danish-US ties."
+        },
+        {
+          "headline": "Denmark boosts Arctic defence",
+          "summary": "Copenhagen announces major military investment in Greenland."
+        }
+      ],
+      "sport": {
+        "headline": "Denmark chase World Cup qualification",
+        "summary": "Denmark compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

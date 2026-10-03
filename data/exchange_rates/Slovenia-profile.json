@@ -1,0 +1,396 @@
+{
+  "country": "Slovenia",
+  "iso3": "SVN",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 2003000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Jansa government stable",
+          "summary": "The centre-right coalition governs."
+        },
+        {
+          "headline": "Slovenia prepares euro bid",
+          "summary": "Ljubljana readies 2007 euro adoption."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss 2006 World Cup",
+        "summary": "Slovenia fail to qualify for the finals."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 2010000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Slovenia adopts the euro",
+          "summary": "The euro replaces the tolar in January."
+        },
+        {
+          "headline": "Economy booms",
+          "summary": "Growth surges."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss Euro 2008",
+        "summary": "Slovenia finish sixth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 2010000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Slovenia holds EU presidency",
+          "summary": "Ljubljana leads the Council in early 2008."
+        },
+        {
+          "headline": "Pahor wins election",
+          "summary": "Borut Pahor's Social Democrats triumph in September."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia mount World Cup qualifying bid",
+        "summary": "Slovenia challenge strongly in 2010 qualifying."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 2032000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Pahor government stable",
+          "summary": "The centre-left coalition holds."
+        },
+        {
+          "headline": "Financial crisis hits Slovenia",
+          "summary": "The downturn exposes banking weaknesses."
+        }
+      ],
+      "sport": {
+        "headline": "Russia denied: Slovenia qualify",
+        "summary": "A playoff win over Russia seals South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 2047000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Banking crisis brews",
+          "summary": "State banks' bad loans mount."
+        },
+        {
+          "headline": "Pahor weakens",
+          "summary": "The PM's authority ebbs."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia exit World Cup in group stage",
+        "summary": "Slovenia bow out after defeat to England."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 2050000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Jansa wins election",
+          "summary": "Janez Jansa returns as PM after December elections."
+        },
+        {
+          "headline": "Austerity begins",
+          "summary": "The new government pushes cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss Euro 2012",
+        "summary": "Slovenia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2055000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Bank bailout looms",
+          "summary": "Slovenia's banks need rescuing."
+        },
+        {
+          "headline": "Protests rock Ljubljana",
+          "summary": "Austerity demonstrations turn violent."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia begin World Cup qualifying",
+        "summary": "Slovenia open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2059000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Bratusek becomes PM",
+          "summary": "Alenka Bratusek forms a government in March."
+        },
+        {
+          "headline": "Bank bailout agreed",
+          "summary": "A rescue averts an international bailout."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss 2014 World Cup",
+        "summary": "Slovenia finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2061000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Cerar wins election",
+          "summary": "Miro Cerar triumphs in July elections."
+        },
+        {
+          "headline": "Privatisation drive",
+          "summary": "The government sells state assets."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia begin Euro 2016 qualifying",
+        "summary": "Slovenia open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2063000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Migrant crisis hits Slovenia",
+          "summary": "Thousands transit the country."
+        },
+        {
+          "headline": "Border fence built",
+          "summary": "Ljubljana erects barriers on the Croatian frontier."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine deny Slovenia Euro 2016",
+        "summary": "Slovenia lose their playoff."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2064000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Cerar government stable",
+          "summary": "The coalition holds."
+        },
+        {
+          "headline": "Banking cleanup continues",
+          "summary": "Bad assets are wound down."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia begin World Cup qualifying",
+        "summary": "Slovenia open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2066000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Pahor re-elected",
+          "summary": "The president wins November's vote."
+        },
+        {
+          "headline": "Economy recovers",
+          "summary": "Growth returns strongly."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss 2018 World Cup",
+        "summary": "Slovenia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2067000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Sarec wins inconclusive election",
+          "summary": "June elections fragment parliament."
+        },
+        {
+          "headline": "Minority government formed",
+          "summary": "Marjan Sarec becomes PM in September."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia compete in Nations League C",
+        "summary": "Slovenia battle in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2081000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Sarec government stable",
+          "summary": "The minority cabinet holds."
+        },
+        {
+          "headline": "Slovenia's economy grows",
+          "summary": "Growth continues."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss Euro 2020",
+        "summary": "Slovenia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2096000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Jansa returns as PM",
+          "summary": "Janez Jansa forms a government in March."
+        },
+        {
+          "headline": "COVID-19 hits Slovenia",
+          "summary": "The pandemic strains the country."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia win Nations League promotion",
+        "summary": "Slovenia top their League C group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2109000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Jansa's media rows",
+          "summary": "The PM clashes with journalists and Brussels."
+        },
+        {
+          "headline": "Slovenia holds EU presidency",
+          "summary": "Ljubljana leads the Council in late 2021."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia miss 2022 World Cup",
+        "summary": "Slovenia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2107000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Golob wins election",
+          "summary": "Robert Golob's Freedom Movement triumphs in April."
+        },
+        {
+          "headline": "Centre-left returns",
+          "summary": "A new coalition takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia compete in Nations League B",
+        "summary": "Slovenia battle in their League B group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2117000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Golob government stable",
+          "summary": "The coalition holds."
+        },
+        {
+          "headline": "Floods devastate Slovenia",
+          "summary": "August floods cause massive damage."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia qualify for Euro 2024",
+        "summary": "Slovenia finish second to reach a first Euros since 2000."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2124000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Slovenia's EU role",
+          "summary": "Ljubljana engages actively in Brussels."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal end Slovenia's Euro run",
+        "summary": "Slovenia lose a last-16 shootout, unbeaten in normal play."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2131000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Golob government holds",
+          "summary": "The coalition remains stable."
+        },
+        {
+          "headline": "Slovenia backs EU defence",
+          "summary": "Ljubljana supports higher military spending."
+        }
+      ],
+      "sport": {
+        "headline": "Slovenia chase World Cup qualification",
+        "summary": "Slovenia compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

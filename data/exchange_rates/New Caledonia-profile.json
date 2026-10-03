@@ -1,0 +1,396 @@
+{
+  "country": "New Caledonia",
+  "iso3": null,
+  "currency": "XPF",
+  "currency_name": "CFP Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Noumea Accord implementation continues",
+          "summary": "The power-sharing deal between loyalists and separatists held."
+        },
+        {
+          "headline": "Nickel boom transforms economy",
+          "summary": "High metal prices fuelled mining investment across the territory."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's footballers in Oceania play",
+        "summary": "Les Cagous contested regional tournaments."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Loyalists and separatists share power",
+          "summary": "The collegial government system continued under the Noumea Accord."
+        },
+        {
+          "headline": "Goro nickel project advances",
+          "summary": "The huge southern nickel plant moved toward production."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Noumea hosts Pacific arts festival",
+          "summary": "The Melanesian arts festival brought regional visitors."
+        },
+        {
+          "headline": "Nickel prices swing wildly",
+          "summary": "The global crisis hit the territory's mining-dependent economy."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonian athletes at Beijing Games",
+        "summary": "The territory's athletes competed for France in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Provincial elections held",
+          "summary": "Voters chose provincial assemblies under the Noumea Accord system."
+        },
+        {
+          "headline": "Loyalists retain congressional edge",
+          "summary": "Anti-independence parties kept their narrow majority."
+        }
+      ],
+      "sport": {
+        "headline": "Les Cagous in World Cup qualifying",
+        "summary": "New Caledonia's football team contested Oceania qualifiers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Flag debate divides Noumea",
+          "summary": "The Kanak flag's official use alongside the French tricolour sparked controversy."
+        },
+        {
+          "headline": "Nickel plant troubles mount",
+          "summary": "Technical problems plagued the Goro and Koniambo projects."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's athletes in regional Games",
+        "summary": "The territory's teams contested Pacific competitions."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Government collapses repeatedly",
+          "summary": "The collegial executive fell several times amid coalition disputes."
+        },
+        {
+          "headline": "Noumea Accord review begins",
+          "summary": "Stakeholders assessed progress toward the accord's endgame."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia hosts Pacific Games",
+        "summary": "Noumea staged the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "New government formed",
+          "summary": "Harold Martin became president of the collegial government."
+        },
+        {
+          "headline": "Independence referendum timeline debated",
+          "summary": "Parties discussed the vote due by 2018."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's footballers chase World Cup",
+        "summary": "Les Cagous reached the final round of Oceania qualifying."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum preparations begin",
+          "summary": "Electoral rolls were drawn up for the independence vote."
+        },
+        {
+          "headline": "Nickel industry restructuring",
+          "summary": "Falling prices forced rethinks at the territory's plants."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's athletes in Pacific competitions",
+        "summary": "The territory's teams contested regional tournaments."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Provincial elections; separatists gain",
+          "summary": "Pro-independence parties made gains in the May provincial vote."
+        },
+        {
+          "headline": "Congress balance shifts",
+          "summary": "The independence camp edged closer to a majority."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonian athletes at Glasgow events",
+        "summary": "The territory's athletes competed in regional competitions."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Germain becomes government president",
+          "summary": "Philippe Germain took over the collegial executive."
+        },
+        {
+          "headline": "Referendum date negotiations",
+          "summary": "Paris and local parties discussed the 2018 vote's terms."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia at Port Moresby Pacific Games",
+        "summary": "The territory's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Noumea Accord's future debated",
+          "summary": "Parties negotiated what follows the accord's referendum provisions."
+        },
+        {
+          "headline": "Nickel crisis deepens",
+          "summary": "Low prices threatened the territory's smelters and jobs."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonian athletes at Rio Games",
+        "summary": "The territory's athletes competed for France in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "French elections watched in Noumea",
+          "summary": "The territory voted in France's presidential and legislative polls."
+        },
+        {
+          "headline": "Referendum set for November 2018",
+          "summary": "The date for the independence vote was confirmed."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia at Pacific Mini Games",
+        "summary": "The territory's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Independence referendum: No wins",
+          "summary": "Voters rejected independence in November, but the yes vote was stronger than expected."
+        },
+        {
+          "headline": "Second referendum demanded",
+          "summary": "Separatists invoked their right to another vote within two years."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's footballers in Nations Cup",
+        "summary": "Les Cagous contested the Oceania Nations Cup."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Provincial elections held",
+          "summary": "The May vote shaped the congress ahead of the second referendum."
+        },
+        {
+          "headline": "Loyalists hold narrow edge",
+          "summary": "Anti-independence parties kept their slim majority."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia at Apia Pacific Games",
+        "summary": "The territory's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Second referendum: No wins narrowly",
+          "summary": "The October vote rejected independence by a slim margin amid high turnout."
+        },
+        {
+          "headline": "Third referendum looms",
+          "summary": "Separatists called for the final vote allowed under the accord."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the territory's sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Third referendum boycotted; No wins big",
+          "summary": "Separatists boycotted the December vote held during COVID mourning."
+        },
+        {
+          "headline": "Result's legitimacy disputed",
+          "summary": "Independence supporters rejected the boycotted outcome."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonian athletes at Tokyo Games",
+        "summary": "The territory's athletes competed for France in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Post-referendum talks stall",
+          "summary": "Paris and local parties failed to agree on the territory's future status."
+        },
+        {
+          "headline": "Nickel industry seeks rescue",
+          "summary": "The territory's plants needed state support to survive."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's footballers in World Cup qualifying",
+        "summary": "Les Cagous contested the Oceania road to Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Paris pushes electoral reform",
+          "summary": "Plans to expand the voter roll angered independence supporters."
+        },
+        {
+          "headline": "Tensions rise in Noumea",
+          "summary": "Protests grew against the proposed constitutional changes."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia at Honiara Pacific Games",
+        "summary": "The territory's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly riots erupt over electoral reform",
+          "summary": "May violence killed people and destroyed parts of Noumea."
+        },
+        {
+          "headline": "France declares state of emergency",
+          "summary": "Paris sent thousands of security forces to restore order."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonian athletes at Paris Games",
+        "summary": "The territory's athletes competed for France in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Bougival Accord signed on future status",
+          "summary": "Paris and local parties agreed a deal on New Caledonia's status in July."
+        },
+        {
+          "headline": "Accord faces ratification battles",
+          "summary": "Loyalists and separatists debated the agreement's terms."
+        }
+      ],
+      "sport": {
+        "headline": "New Caledonia's footballers chase World Cup",
+        "summary": "Les Cagous contested Oceania qualifying for 2026."
+      }
+    }
+  ]
+}

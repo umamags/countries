@@ -1,0 +1,396 @@
+{
+  "country": "Solomon Islands",
+  "iso3": "SLB",
+  "currency": "SBD",
+  "currency_name": "Solomon Islands Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 509000,
+      "fx_lcu_per_usd_annual_avg": 7.6095,
+      "geopolitical_news": [
+        {
+          "headline": "Honiara riots after Rini elected PM",
+          "summary": "April riots burned Chinatown after Snyder Rini's disputed election as prime minister."
+        },
+        {
+          "headline": "RAMSI restores order in capital",
+          "summary": "The Australian-led regional mission deployed extra forces to quell the unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Melbourne Commonwealth Games",
+        "summary": "The nation's athletes competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 523000,
+      "fx_lcu_per_usd_annual_avg": 7.652,
+      "geopolitical_news": [
+        {
+          "headline": "Earthquake and tsunami hit Western Province",
+          "summary": "The April disaster killed dozens and flattened villages in Gizo and Simbo."
+        },
+        {
+          "headline": "Sogavare ousted; Sikua becomes PM",
+          "summary": "Manasseh Sogavare lost a December no-confidence vote to Derek Sikua."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Apia Pacific Games",
+        "summary": "The nation's athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 537000,
+      "fx_lcu_per_usd_annual_avg": 7.7479,
+      "geopolitical_news": [
+        {
+          "headline": "Sikua government pursues stability",
+          "summary": "The new administration worked with RAMSI on governance reforms."
+        },
+        {
+          "headline": "Truth and reconciliation process begins",
+          "summary": "Hearings started into the ethnic tensions of the early 2000s."
+        }
+      ],
+      "sport": {
+        "headline": "Kurukuru futsal team shines internationally",
+        "summary": "The national futsal side remained Oceania's dominant team."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 552000,
+      "fx_lcu_per_usd_annual_avg": 8.055,
+      "geopolitical_news": [
+        {
+          "headline": "RAMSI drawdown debated",
+          "summary": "Honiara and Canberra discussed the future of the regional assistance mission."
+        },
+        {
+          "headline": "Economy hit by logging downturn",
+          "summary": "Falling timber prices squeezed government revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands footballers chase World Cup",
+        "summary": "The national team contested Oceania qualifiers."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 567000,
+      "fx_lcu_per_usd_annual_avg": 8.0645,
+      "geopolitical_news": [
+        {
+          "headline": "Danny Philip elected prime minister",
+          "summary": "Philip won the August parliamentary vote after the general election."
+        },
+        {
+          "headline": "New government pledges reform",
+          "summary": "The administration promised action on corruption and rural development."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Delhi Commonwealth Games",
+        "summary": "The nation's athletes competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 583000,
+      "fx_lcu_per_usd_annual_avg": 7.6413,
+      "geopolitical_news": [
+        {
+          "headline": "Philip resigns; Lilo becomes PM",
+          "summary": "Danny Philip stepped down in November and Gordon Darcy Lilo succeeded him."
+        },
+        {
+          "headline": "Honiara hosts Pacific arts festival",
+          "summary": "The Melanesian arts festival brought regional visitors to the capital."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Noumea Pacific Games",
+        "summary": "The team competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 599000,
+      "fx_lcu_per_usd_annual_avg": 7.3552,
+      "geopolitical_news": [
+        {
+          "headline": "Lilo government consolidates",
+          "summary": "The prime minister built his parliamentary majority through the year."
+        },
+        {
+          "headline": "Solomon Islands deepens China-Taiwan balancing",
+          "summary": "Honiara maintained ties with Taipei amid Beijing's Pacific push."
+        }
+      ],
+      "sport": {
+        "headline": "Kurukuru dominate Oceania futsal",
+        "summary": "The futsal team continued its regional supremacy."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 615000,
+      "fx_lcu_per_usd_annual_avg": 7.3021,
+      "geopolitical_news": [
+        {
+          "headline": "RAMSI military component withdraws",
+          "summary": "The mission's soldiers left, leaving a smaller police and civilian presence."
+        },
+        {
+          "headline": "Honiara prepares for elections",
+          "summary": "Voter registration began ahead of the 2014 general election."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands footballers in qualifying",
+        "summary": "The national team contested the Oceania road to Brazil 2014."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 631000,
+      "fx_lcu_per_usd_annual_avg": 7.3753,
+      "geopolitical_news": [
+        {
+          "headline": "Flash floods devastate Honiara",
+          "summary": "April floods killed over twenty people and left thousands homeless."
+        },
+        {
+          "headline": "Sogavare returns as prime minister",
+          "summary": "Manasseh Sogavare was elected PM in December after the general election."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Glasgow Commonwealth Games",
+        "summary": "The nation's athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 647000,
+      "fx_lcu_per_usd_annual_avg": 7.9147,
+      "geopolitical_news": [
+        {
+          "headline": "Sogavare government reviews RAMSI future",
+          "summary": "Honiara and partners planned the mission's eventual conclusion."
+        },
+        {
+          "headline": "Logging reform pressures mount",
+          "summary": "Unsustainable timber harvesting drew domestic and international criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Port Moresby Pacific Games",
+        "summary": "The team competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 663000,
+      "fx_lcu_per_usd_annual_avg": 7.9482,
+      "geopolitical_news": [
+        {
+          "headline": "Honiara debates federal system",
+          "summary": "Constitutional reform toward federalism was discussed in parliament."
+        },
+        {
+          "headline": "Solomon Islands hosts MSG summit",
+          "summary": "Melanesian leaders met in Honiara."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Rio Olympics",
+        "summary": "The nation's small team competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 679000,
+      "fx_lcu_per_usd_annual_avg": 7.8874,
+      "geopolitical_news": [
+        {
+          "headline": "RAMSI mission ends after 14 years",
+          "summary": "The regional assistance mission formally concluded in June."
+        },
+        {
+          "headline": "Sogavare ousted; Hou becomes PM",
+          "summary": "Rick Hou won a November no-confidence vote to become prime minister."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Pacific Mini Games",
+        "summary": "The nation's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 695000,
+      "fx_lcu_per_usd_annual_avg": 7.9525,
+      "geopolitical_news": [
+        {
+          "headline": "Hou government prepares for polls",
+          "summary": "The administration readied for the 2019 general election."
+        },
+        {
+          "headline": "Solomon Islands wins 2023 Pacific Games hosting",
+          "summary": "Honiara secured the rights to stage the 2023 Games."
+        }
+      ],
+      "sport": {
+        "headline": "Kurukuru at Futsal World Cup qualifying",
+        "summary": "The futsal side chased another World Cup appearance."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 711000,
+      "fx_lcu_per_usd_annual_avg": 8.1734,
+      "geopolitical_news": [
+        {
+          "headline": "Solomon Islands switches from Taiwan to China",
+          "summary": "Honiara cut ties with Taipei in September and recognised Beijing."
+        },
+        {
+          "headline": "Sogavare returns as prime minister",
+          "summary": "Manasseh Sogavare was elected PM again after the April election."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Apia Pacific Games",
+        "summary": "The nation's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 725000,
+      "fx_lcu_per_usd_annual_avg": 8.2134,
+      "geopolitical_news": [
+        {
+          "headline": "Solomon Islands stays largely COVID-free",
+          "summary": "Strict border controls limited the virus's reach through the year."
+        },
+        {
+          "headline": "Malaita-China tensions simmer",
+          "summary": "Malaita province's premier opposed the national government's Beijing ties."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID restrictions halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 740000,
+      "fx_lcu_per_usd_annual_avg": 8.0301,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-government riots burn Honiara",
+          "summary": "November unrest torched Chinatown businesses amid protests against Sogavare."
+        },
+        {
+          "headline": "Australia and Pacific forces restore order",
+          "summary": "Canberra-led personnel deployed to quell the riots."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Tokyo Olympics",
+        "summary": "The nation's athletes competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 754000,
+      "fx_lcu_per_usd_annual_avg": 8.1555,
+      "geopolitical_news": [
+        {
+          "headline": "China security pact signed",
+          "summary": "The April agreement with Beijing alarmed Australia and the United States."
+        },
+        {
+          "headline": "Honiara defends the pact",
+          "summary": "Sogavare insisted the deal did not allow a Chinese military base."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Birmingham Commonwealth Games",
+        "summary": "The nation's athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 769000,
+      "fx_lcu_per_usd_annual_avg": 8.3756,
+      "geopolitical_news": [
+        {
+          "headline": "Honiara hosts the Pacific Games",
+          "summary": "Thousands of athletes competed in November at the China-backed Games."
+        },
+        {
+          "headline": "Election delayed to 2024",
+          "summary": "Parliament postponed the general election to focus on the Games."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands hosts successful Pacific Games",
+        "summary": "The host nation competed strongly across the new Honiara stadiums."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 783000,
+      "fx_lcu_per_usd_annual_avg": 8.4548,
+      "geopolitical_news": [
+        {
+          "headline": "Jeremiah Manele becomes prime minister",
+          "summary": "Manele succeeded Sogavare after the April general election."
+        },
+        {
+          "headline": "New government maintains China ties",
+          "summary": "Honiara kept its security and economic partnership with Beijing."
+        }
+      ],
+      "sport": {
+        "headline": "Solomon Islands at Paris Olympics",
+        "summary": "The nation's athletes competed in France."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 798000,
+      "fx_lcu_per_usd_annual_avg": 8.3268,
+      "geopolitical_news": [
+        {
+          "headline": "Manele government navigates debt pressures",
+          "summary": "Repayments on Games-related loans strained the national budget."
+        },
+        {
+          "headline": "Solomon Islands balances major powers",
+          "summary": "Honiara courted Australia, China and the US for development funding."
+        }
+      ],
+      "sport": {
+        "headline": "Kurukuru remain futsal force",
+        "summary": "The national futsal team continued to dominate Oceania competition."
+      }
+    }
+  ]
+}

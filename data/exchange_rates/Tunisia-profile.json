@@ -1,0 +1,400 @@
+{
+  "country": "Tunisia",
+  "iso3": "TUN",
+  "currency": "TND",
+  "currency_name": "Tunisian Dinar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 10346000,
+      "fx_lcu_per_usd_annual_avg": 1.331,
+      "geopolitical_news": [
+        {
+          "headline": "Ben Ali's police state endures",
+          "summary": "The president's 19-year rule faces no organized opposition."
+        },
+        {
+          "headline": "Internet censorship",
+          "summary": "Bloggers and journalists face harassment."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia exit World Cup at group stage",
+        "summary": "The Carthage Eagles draw Saudi Arabia but lose to Spain and Ukraine at Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10442000,
+      "fx_lcu_per_usd_annual_avg": 1.2814,
+      "geopolitical_news": [
+        {
+          "headline": "Ben Ali's rule unchallenged",
+          "summary": "The president's RCD dominates all institutions."
+        },
+        {
+          "headline": "Soliman clashes",
+          "summary": "Security forces kill alleged militants near Tunis."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia qualify for 2008 AFCON",
+        "summary": "The Carthage Eagles reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10543000,
+      "fx_lcu_per_usd_annual_avg": 1.2321,
+      "geopolitical_news": [
+        {
+          "headline": "Gafsa mining protests",
+          "summary": "Unrest in the phosphate region is brutally suppressed."
+        },
+        {
+          "headline": "Ben Ali's succession question",
+          "summary": "The aging president shows no retirement plans."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia reach AFCON quarterfinals",
+        "summary": "Cameroon end the Carthage Eagles' run in the 2008 last eight."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10651000,
+      "fx_lcu_per_usd_annual_avg": 1.3503,
+      "geopolitical_news": [
+        {
+          "headline": "Ben Ali re-elected",
+          "summary": "October's vote gives the president another term amid fraud claims."
+        },
+        {
+          "headline": "Wikileaks exposes corruption",
+          "summary": "US cables detail the ruling family's excesses."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia chase 2010 World Cup spot",
+        "summary": "The Carthage Eagles compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10766000,
+      "fx_lcu_per_usd_annual_avg": 1.4314,
+      "geopolitical_news": [
+        {
+          "headline": "Bouazizi self-immolates",
+          "summary": "December 17's protest by the street vendor ignites the Arab Spring."
+        },
+        {
+          "headline": "Protests spread",
+          "summary": "Demonstrations engulf Sidi Bouzid and beyond."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia miss 2010 World Cup",
+        "summary": "A last-day qualifying defeat denies the Carthage Eagles a place."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10886000,
+      "fx_lcu_per_usd_annual_avg": 1.4078,
+      "geopolitical_news": [
+        {
+          "headline": "Ben Ali flees",
+          "summary": "January 14's uprising topples the president, who escapes to Saudi Arabia."
+        },
+        {
+          "headline": "Revolution's first victory",
+          "summary": "Tunisia's revolt inspires uprisings across the Arab world."
+        },
+        {
+          "headline": "Ennahda wins election",
+          "summary": "October's vote gives the Islamists a plurality."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia exit AFCON at group stage",
+        "summary": "The Carthage Eagles go home early from the 2012 tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 11010000,
+      "fx_lcu_per_usd_annual_avg": 1.5619,
+      "geopolitical_news": [
+        {
+          "headline": "Ennahda-led government",
+          "summary": "Hamadi Jebali becomes prime minister."
+        },
+        {
+          "headline": "Salafist tensions",
+          "summary": "Hardline Islamists clash with secularists."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia compete at London Olympics",
+        "summary": "Tunisian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11141000,
+      "fx_lcu_per_usd_annual_avg": 1.6247,
+      "geopolitical_news": [
+        {
+          "headline": "Politicians assassinated",
+          "summary": "The killings of Belaid and Brahmi plunge Tunisia into crisis."
+        },
+        {
+          "headline": "National dialogue saves transition",
+          "summary": "Unions broker a deal; Ennahda agrees to step down."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia exit AFCON at group stage",
+        "summary": "Controversial refereeing mars the Carthage Eagles' 2013 campaign."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 11274000,
+      "fx_lcu_per_usd_annual_avg": 1.6977,
+      "geopolitical_news": [
+        {
+          "headline": "New constitution adopted",
+          "summary": "January's charter is hailed as the Arab world's most progressive."
+        },
+        {
+          "headline": "Essebsi wins presidency",
+          "summary": "The secularist defeats Marzouki in December's runoff."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia miss 2014 World Cup",
+        "summary": "Cameroon edge the Carthage Eagles in the qualifying playoff."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11402000,
+      "fx_lcu_per_usd_annual_avg": 1.9616,
+      "geopolitical_news": [
+        {
+          "headline": "Bardo museum attack",
+          "summary": "March gunmen kill foreign tourists in Tunis."
+        },
+        {
+          "headline": "Sousse beach massacre",
+          "summary": "June's attack kills 38 tourists, devastating tourism."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia reach AFCON quarterfinals",
+        "summary": "Equatorial Guinea eliminate the Carthage Eagles in a controversial 2015 tie."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11529000,
+      "fx_lcu_per_usd_annual_avg": 2.148,
+      "geopolitical_news": [
+        {
+          "headline": "Unity government formed",
+          "summary": "Youssef Chahed becomes prime minister."
+        },
+        {
+          "headline": "Terror threat persists",
+          "summary": "Security forces battle lingering militant cells."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia compete at Rio Olympics",
+        "summary": "Tunisian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11650000,
+      "fx_lcu_per_usd_annual_avg": 2.4194,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-corruption drive",
+          "summary": "Businessmen are arrested in a graft crackdown."
+        },
+        {
+          "headline": "Truth commission hearings",
+          "summary": "Testimonies expose Ben Ali-era abuses."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia reach AFCON quarterfinals",
+        "summary": "Burkina Faso end the Carthage Eagles' run in the 2017 last eight."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 11766000,
+      "fx_lcu_per_usd_annual_avg": 2.6469,
+      "geopolitical_news": [
+        {
+          "headline": "Austerity protests",
+          "summary": "January demonstrations over prices turn violent."
+        },
+        {
+          "headline": "Essebsi's health fails",
+          "summary": "The 91-year-old president's condition deteriorates."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia return to World Cup",
+        "summary": "The Carthage Eagles reach Russia 2018, beating Panama for a first win in 40 years."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 11875000,
+      "fx_lcu_per_usd_annual_avg": 2.9344,
+      "geopolitical_news": [
+        {
+          "headline": "Essebsi dies",
+          "summary": "The president dies in July; the parliament speaker takes over."
+        },
+        {
+          "headline": "Saied wins presidency",
+          "summary": "Outsider Kais Saied triumphs in October's runoff."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia reach AFCON semifinals",
+        "summary": "Senegal end the Carthage Eagles' run in the 2019 last four."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 11974000,
+      "fx_lcu_per_usd_annual_avg": 2.8124,
+      "geopolitical_news": [
+        {
+          "headline": "Government instability",
+          "summary": "Prime ministers rotate amid parliamentary fragmentation."
+        },
+        {
+          "headline": "COVID-19 hits Tunisia",
+          "summary": "The pandemic strains the health system."
+        }
+      ],
+      "sport": {
+        "headline": "Jabeur breaks through",
+        "summary": "Ons Jabeur becomes the first Arab woman in a Grand Slam quarterfinal."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 12049000,
+      "fx_lcu_per_usd_annual_avg": 2.7945,
+      "geopolitical_news": [
+        {
+          "headline": "Saied seizes power",
+          "summary": "July 25's power grab suspends parliament and sacks the premier."
+        },
+        {
+          "headline": "Democracy in peril",
+          "summary": "Critics call the move a constitutional coup."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia exit AFCON in round of 16",
+        "summary": "Nigeria eliminate the Carthage Eagles at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 12119000,
+      "fx_lcu_per_usd_annual_avg": 3.1036,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum approves new constitution",
+          "summary": "July's vote entrenches Saied's presidential powers."
+        },
+        {
+          "headline": "Opposition boycotts",
+          "summary": "Rivals shun the process."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia at World Cup",
+        "summary": "The Carthage Eagles stun France 1-0 but exit at the group stage at Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 12200000,
+      "fx_lcu_per_usd_annual_avg": 3.1062,
+      "geopolitical_news": [
+        {
+          "headline": "Crackdown on opposition",
+          "summary": "Ennahda's Ghannouchi is jailed; parties face dissolution."
+        },
+        {
+          "headline": "Migration deal with EU",
+          "summary": "Brussels funds Tunisia to curb Mediterranean crossings."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia exit AFCON at group stage",
+        "summary": "A shock defeat to Namibia seals a dismal 2023 campaign."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 12277000,
+      "fx_lcu_per_usd_annual_avg": 3.1075,
+      "geopolitical_news": [
+        {
+          "headline": "Saied re-elected",
+          "summary": "October's vote extends his rule; rivals are jailed or barred."
+        },
+        {
+          "headline": "Authoritarian drift",
+          "summary": "Rights groups condemn the shrinking civic space."
+        }
+      ],
+      "sport": {
+        "headline": "Jabeur's career paused",
+        "summary": "Injury and form struggles sideline Tunisia's tennis star."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 12349000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Saied's grip tightens",
+          "summary": "The president jails more critics and journalists."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "IMF talks stall as finances deteriorate."
+        }
+      ],
+      "sport": {
+        "headline": "Tunisia qualify for 2026 World Cup",
+        "summary": "The Carthage Eagles seal an early return to the World Cup."
+      }
+    }
+  ]
+}

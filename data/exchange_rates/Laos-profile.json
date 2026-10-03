@@ -1,0 +1,396 @@
+{
+  "country": "Laos",
+  "iso3": "LAO",
+  "currency": "LAK",
+  "currency_name": "Lao Kip",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 5947000,
+      "fx_lcu_per_usd_annual_avg": 10153.6241,
+      "geopolitical_news": [
+        {
+          "headline": "Party congress",
+          "summary": "The ruling communists hold their eighth congress."
+        },
+        {
+          "headline": "New president",
+          "summary": "Choummaly Sayasone becomes state president."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Doha",
+        "summary": "Lao athletes compete in Qatar."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 6041000,
+      "fx_lcu_per_usd_annual_avg": 9602.7288,
+      "geopolitical_news": [
+        {
+          "headline": "Hmong repatriation",
+          "summary": "Thailand returns Hmong refugees to Laos."
+        },
+        {
+          "headline": "Economic growth",
+          "summary": "Hydropower and mining drive expansion."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Laos competes at the regional Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 6136000,
+      "fx_lcu_per_usd_annual_avg": 8740.1814,
+      "geopolitical_news": [
+        {
+          "headline": "Global crisis impact",
+          "summary": "Falling commodity prices slow the economy."
+        },
+        {
+          "headline": "Dam building",
+          "summary": "Hydropower projects multiply on the Mekong."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Lao athletes compete in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 6230000,
+      "fx_lcu_per_usd_annual_avg": 8511.3512,
+      "geopolitical_news": [
+        {
+          "headline": "SEA Games hosted",
+          "summary": "Vientiane stages the Southeast Asian Games."
+        },
+        {
+          "headline": "National showcase",
+          "summary": "New stadiums symbolize Laos's ambitions."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the SEA Games",
+        "summary": "Laos host the SEA Games for the first time."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 6323000,
+      "fx_lcu_per_usd_annual_avg": 8254.163,
+      "geopolitical_news": [
+        {
+          "headline": "Stock exchange opens",
+          "summary": "The Lao Securities Exchange launches in Vientiane."
+        },
+        {
+          "headline": "Dam concerns",
+          "summary": "Downstream nations worry over Mekong dams."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Guangzhou",
+        "summary": "Lao athletes compete in China."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 6416000,
+      "fx_lcu_per_usd_annual_avg": 8029.2626,
+      "geopolitical_news": [
+        {
+          "headline": "Party congress",
+          "summary": "The communists re-elect Choummaly at the ninth congress."
+        },
+        {
+          "headline": "Xayaburi dam row",
+          "summary": "The Mekong dam project alarms Vietnam and Cambodia."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Indonesia",
+        "summary": "Laos competes at the Jakarta-Palembang Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 6509000,
+      "fx_lcu_per_usd_annual_avg": 8006.582,
+      "geopolitical_news": [
+        {
+          "headline": "ASEM summit hosted",
+          "summary": "Vientiane stages the Asia-Europe Meeting."
+        },
+        {
+          "headline": "Sombath disappears",
+          "summary": "Activist Sombath Somphone vanishes at a police checkpoint."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Lao athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 6601000,
+      "fx_lcu_per_usd_annual_avg": 7833.23,
+      "geopolitical_news": [
+        {
+          "headline": "Plane crash",
+          "summary": "A Lao Airlines crash kills all 49 aboard."
+        },
+        {
+          "headline": "Dam boom",
+          "summary": "Dozens of hydropower projects advance."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Myanmar",
+        "summary": "Laos competes at the Naypyidaw Games."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 6691000,
+      "fx_lcu_per_usd_annual_avg": 8042.4216,
+      "geopolitical_news": [
+        {
+          "headline": "Deputy PM killed",
+          "summary": "A plane crash kills senior officials."
+        },
+        {
+          "headline": "Succession talk",
+          "summary": "The ageing leadership faces generational change."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Incheon",
+        "summary": "Lao athletes compete in South Korea."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 6787000,
+      "fx_lcu_per_usd_annual_avg": 8127.6106,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chairmanship",
+          "summary": "Laos prepares to chair the regional bloc."
+        },
+        {
+          "headline": "Railway deal",
+          "summary": "A China-Laos high-speed rail agreement is signed."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Singapore",
+        "summary": "Laos competes in Singapore."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 6891000,
+      "fx_lcu_per_usd_annual_avg": 8124.3668,
+      "geopolitical_news": [
+        {
+          "headline": "New leadership",
+          "summary": "Bounnhang Vorachit becomes party chief and president."
+        },
+        {
+          "headline": "ASEAN chair year",
+          "summary": "Vientiane hosts regional summits."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Lao athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 6998000,
+      "fx_lcu_per_usd_annual_avg": 8244.8432,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-corruption drive",
+          "summary": "Officials are sacked in a graft crackdown."
+        },
+        {
+          "headline": "Dam collapse fears",
+          "summary": "Mekong dam safety worries grow."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Kuala Lumpur",
+        "summary": "Laos competes in Malaysia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 7105000,
+      "fx_lcu_per_usd_annual_avg": 8401.3348,
+      "geopolitical_news": [
+        {
+          "headline": "Dam collapse kills dozens",
+          "summary": "The Xe-Pian Xe-Namnoy dam failure floods villages."
+        },
+        {
+          "headline": "National mourning",
+          "summary": "The disaster prompts aid and scrutiny."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games in Jakarta",
+        "summary": "Lao athletes compete in Indonesia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 7212000,
+      "fx_lcu_per_usd_annual_avg": 8679.4091,
+      "geopolitical_news": [
+        {
+          "headline": "Debt worries",
+          "summary": "Chinese-financed projects raise debt alarms."
+        },
+        {
+          "headline": "Dam scrutiny",
+          "summary": "Hydropower safety reviews follow the 2018 collapse."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Philippines",
+        "summary": "Laos competes in Manila."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 7319000,
+      "fx_lcu_per_usd_annual_avg": 9045.7878,
+      "geopolitical_news": [
+        {
+          "headline": "COVID success",
+          "summary": "Laos records among the world's lowest case counts."
+        },
+        {
+          "headline": "Railway nears completion",
+          "summary": "The China-Laos line approaches its opening."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Lao football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 7425000,
+      "fx_lcu_per_usd_annual_avg": 9697.9158,
+      "geopolitical_news": [
+        {
+          "headline": "New president",
+          "summary": "Thongloun Sisoulith takes the top posts."
+        },
+        {
+          "headline": "Railway opens",
+          "summary": "The China-Laos railway launches in December."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Lao athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 7477000,
+      "fx_lcu_per_usd_annual_avg": 14035.2267,
+      "geopolitical_news": [
+        {
+          "headline": "Debt crisis",
+          "summary": "Falling reserves and inflation squeeze the economy."
+        },
+        {
+          "headline": "Fuel shortages",
+          "summary": "Petrol queues form as the kip collapses."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Vietnam",
+        "summary": "Laos competes at the Hanoi Games."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 7582000,
+      "fx_lcu_per_usd_annual_avg": 17688.8736,
+      "geopolitical_news": [
+        {
+          "headline": "Economic strain",
+          "summary": "Inflation and debt dominate policymaking."
+        },
+        {
+          "headline": "Tourism relaunch",
+          "summary": "Visit Laos Year aims to revive arrivals."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Cambodia",
+        "summary": "Laos competes at the Phnom Penh Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 7686000,
+      "fx_lcu_per_usd_annual_avg": 20167.3314,
+      "geopolitical_news": [
+        {
+          "headline": "ASEAN chair again",
+          "summary": "Laos chairs ASEAN amid Myanmar deadlock."
+        },
+        {
+          "headline": "Debt talks",
+          "summary": "Vientiane negotiates with Chinese creditors."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Lao athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 7788000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Economic stabilization",
+          "summary": "Reforms aim to steady the kip and reserves."
+        },
+        {
+          "headline": "Railway dividends",
+          "summary": "The China-Laos line boosts trade and tourism."
+        }
+      ],
+      "sport": {
+        "headline": "SEA Games in Thailand",
+        "summary": "Laos competes at the Southeast Asian Games."
+      }
+    }
+  ]
+}

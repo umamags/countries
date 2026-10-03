@@ -1,0 +1,396 @@
+{
+  "country": "Guinea",
+  "iso3": "GIN",
+  "currency": "GNF",
+  "currency_name": "Guinean Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 9799000,
+      "fx_lcu_per_usd_annual_avg": 5148.75,
+      "geopolitical_news": [
+        {
+          "headline": "Conte's health fails",
+          "summary": "The aging president's absences fuel succession fears."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Strikes and inflation rattle the regime."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea reach AFCON quarterfinals",
+        "summary": "The Syli National lose to Senegal in the 2006 last eight."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 10047000,
+      "fx_lcu_per_usd_annual_avg": 4197.752,
+      "geopolitical_news": [
+        {
+          "headline": "General strike turns deadly",
+          "summary": "January-February protests leave scores dead; Conte declares martial law."
+        },
+        {
+          "headline": "PM appointed under pressure",
+          "summary": "Unions force the president to name Lansana Kouyate premier."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea qualify for 2008 AFCON",
+        "summary": "The Syli National reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 10315000,
+      "fx_lcu_per_usd_annual_avg": 4601.691,
+      "geopolitical_news": [
+        {
+          "headline": "Conte dies, army seizes power",
+          "summary": "The president dies in December; Captain Moussa Dadis Camara leads a coup."
+        },
+        {
+          "headline": "Junta promises elections",
+          "summary": "The CNDD pledges a democratic transition."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea reach AFCON quarterfinals",
+        "summary": "Ivory Coast end the Syli National's run in the 2008 last eight."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 10593000,
+      "fx_lcu_per_usd_annual_avg": 4801.0832,
+      "geopolitical_news": [
+        {
+          "headline": "Stadium massacre kills scores",
+          "summary": "September 28 troops gun down opposition protesters in Conakry's stadium."
+        },
+        {
+          "headline": "Camara shot by aide",
+          "summary": "The junta leader is wounded in December and flown to Morocco."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea chase 2010 World Cup spot",
+        "summary": "The Syli National compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10876000,
+      "fx_lcu_per_usd_annual_avg": 5726.071,
+      "geopolitical_news": [
+        {
+          "headline": "Conde wins presidency",
+          "summary": "Alpha Conde defeats Cellou Dalein Diallo in November's runoff."
+        },
+        {
+          "headline": "Junta hands over power",
+          "summary": "General Konate's transition ends with the democratic handover."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2010 World Cup",
+        "summary": "The Syli National fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 11162000,
+      "fx_lcu_per_usd_annual_avg": 6658.0313,
+      "geopolitical_news": [
+        {
+          "headline": "Conde survives assassination attempt",
+          "summary": "July's rocket attack on his residence fails."
+        },
+        {
+          "headline": "Opposition protests",
+          "summary": "Rivals demand electoral reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2012 AFCON",
+        "summary": "The Syli National fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 11451000,
+      "fx_lcu_per_usd_annual_avg": 6985.829,
+      "geopolitical_news": [
+        {
+          "headline": "Mining reforms launched",
+          "summary": "Conde reviews contracts with Rio Tinto and others."
+        },
+        {
+          "headline": "Simandou iron ore deals",
+          "summary": "The giant deposit's development advances."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea compete at London Olympics",
+        "summary": "Guinean athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11745000,
+      "fx_lcu_per_usd_annual_avg": 6907.8781,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "Conde's party wins September's long-delayed parliamentary vote."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals reject the results amid deadly protests."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2013 AFCON",
+        "summary": "The Syli National fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 12044000,
+      "fx_lcu_per_usd_annual_avg": 7014.1188,
+      "geopolitical_news": [
+        {
+          "headline": "Ebola ravages Guinea",
+          "summary": "The epidemic's epicenter suffers thousands of deaths."
+        },
+        {
+          "headline": "Health system overwhelmed",
+          "summary": "The outbreak exposes decades of underinvestment."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2014 World Cup",
+        "summary": "The Syli National fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 12345000,
+      "fx_lcu_per_usd_annual_avg": 7485.5167,
+      "geopolitical_news": [
+        {
+          "headline": "Conde re-elected president",
+          "summary": "The incumbent wins October's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Ebola declared over",
+          "summary": "WHO ends the emergency as cases fade."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea reach AFCON quarterfinals",
+        "summary": "Ghana end the Syli National's run in the 2015 last eight."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 12654000,
+      "fx_lcu_per_usd_annual_avg": 8967.9271,
+      "geopolitical_news": [
+        {
+          "headline": "Mining boom resumes",
+          "summary": "Iron ore and bauxite investments return post-Ebola."
+        },
+        {
+          "headline": "Conde's third-term hints",
+          "summary": "The president refuses to rule out extending his rule."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea compete at Rio Olympics",
+        "summary": "Guinean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 12970000,
+      "fx_lcu_per_usd_annual_avg": 9088.3195,
+      "geopolitical_news": [
+        {
+          "headline": "Protests over third term",
+          "summary": "Demonstrations against constitutional change turn deadly."
+        },
+        {
+          "headline": "Teachers strike",
+          "summary": "Months of school closures pressure the government."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea exit AFCON at group stage",
+        "summary": "The Syli National go home early from the 2017 tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 13294000,
+      "fx_lcu_per_usd_annual_avg": 9011.1342,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform pushed",
+          "summary": "Conde moves to scrap term limits via referendum."
+        },
+        {
+          "headline": "Opposition resists",
+          "summary": "The FNDC coalition mobilizes against the plan."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2018 World Cup",
+        "summary": "The Syli National fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 13627000,
+      "fx_lcu_per_usd_annual_avg": 9183.8759,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum approves third term",
+          "summary": "March 2020's vote, boycotted by rivals, resets Conde's term count."
+        },
+        {
+          "headline": "Protests crushed",
+          "summary": "Security forces kill demonstrators opposing the change."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea exit AFCON in round of 16",
+        "summary": "Algeria eliminate the Syli National at Egypt 2019."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 13967000,
+      "fx_lcu_per_usd_annual_avg": 9565.0822,
+      "geopolitical_news": [
+        {
+          "headline": "Conde wins disputed third term",
+          "summary": "October's election extends his rule; the opposition rejects the result."
+        },
+        {
+          "headline": "Post-election violence",
+          "summary": "Clashes kill dozens after the vote."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Guinea's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 14317000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Military ousts Conde",
+          "summary": "Colonel Mamady Doumbouya seizes power in a September coup."
+        },
+        {
+          "headline": "Junta promises transition",
+          "summary": "The CNRD pledges elections within a reasonable timeframe."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea exit AFCON in round of 16",
+        "summary": "Gambia eliminate the Syli National at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 14674000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Junta sets three-year transition",
+          "summary": "ECOWAS accepts a 24-month timeline after sanctions threats."
+        },
+        {
+          "headline": "Stadium massacre trial opens",
+          "summary": "Camara and others face justice for the 2009 killings."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea miss 2022 World Cup",
+        "summary": "The Syli National fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 15041000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Fuel depot blast kills dozens",
+          "summary": "December's Conakry explosion devastates the Kaloum district."
+        },
+        {
+          "headline": "Transition timeline slips",
+          "summary": "The junta delays promised elections."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea qualify for 2023 AFCON",
+        "summary": "The Syli National reach the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 15417000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Camara convicted over massacre",
+          "summary": "July's verdict sentences the ex-junta leader for the 2009 stadium killings."
+        },
+        {
+          "headline": "Junta dissolves government",
+          "summary": "Doumbouya sacks the cabinet in February."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea reach AFCON quarterfinals",
+        "summary": "DR Congo end the Syli National's run in the 2023 last eight."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 15803000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum approves new constitution",
+          "summary": "September's vote paves the way for elections."
+        },
+        {
+          "headline": "Doumbouya eyes presidency",
+          "summary": "The junta leader positions for a run."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea qualify for 2025 AFCON",
+        "summary": "The Syli National reach the Morocco tournament."
+      }
+    }
+  ]
+}

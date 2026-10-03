@@ -1,0 +1,397 @@
+{
+  "country": "Belarus",
+  "iso3": "BLR",
+  "currency": "BYN",
+  "currency_name": "Belarusian Ruble",
+  "period": "2006-2025",
+  "currency_note": "Ruble redenominated Jul 2016 (BYR→BYN, 10,000:1).",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 9605000,
+      "fx_lcu_per_usd_annual_avg": 0.2145,
+      "geopolitical_news": [
+        {
+          "headline": "Lukashenko wins disputed re-election",
+          "summary": "The president claims a third term in March elections condemned by the West."
+        },
+        {
+          "headline": "West imposes sanctions after crackdown",
+          "summary": "The EU and US sanction Belarusian officials over the rigged vote."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus miss 2006 World Cup",
+        "summary": "Belarus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 9561000,
+      "fx_lcu_per_usd_annual_avg": 0.2146,
+      "geopolitical_news": [
+        {
+          "headline": "Russia-Belarus gas dispute flares",
+          "summary": "Moscow doubles gas prices, sparking a bitter energy row in January."
+        },
+        {
+          "headline": "Opposition crackdown continues",
+          "summary": "Authorities jail activists as Lukashenko tightens control."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus stun Netherlands in Euro qualifier",
+        "summary": "A 2-1 win in Minsk is a rare highlight of a failed qualifying campaign."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 9528000,
+      "fx_lcu_per_usd_annual_avg": 0.2136,
+      "geopolitical_news": [
+        {
+          "headline": "Belarus frees political prisoners",
+          "summary": "Several jailed opposition figures are released in a gesture to the West."
+        },
+        {
+          "headline": "Parliamentary elections shunned by opposition",
+          "summary": "The opposition boycotts September parliamentary elections."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus begin World Cup qualifying",
+        "summary": "Belarus open their 2010 qualifying campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 9505000,
+      "fx_lcu_per_usd_annual_avg": 0.2793,
+      "geopolitical_news": [
+        {
+          "headline": "EU launches Eastern Partnership",
+          "summary": "Belarus is included in the EU's new outreach to eastern neighbours."
+        },
+        {
+          "headline": "Belarus seeks IMF loan",
+          "summary": "Minsk turns to the IMF as the financial crisis bites."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus miss 2010 World Cup",
+        "summary": "Belarus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 9484000,
+      "fx_lcu_per_usd_annual_avg": 0.2979,
+      "geopolitical_news": [
+        {
+          "headline": "Lukashenko wins fourth term amid crackdown",
+          "summary": "December elections are followed by a brutal post-vote crackdown."
+        },
+        {
+          "headline": "Mass arrests follow election protests",
+          "summary": "Hundreds are detained as police crush demonstrations in Minsk."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus stun France in Paris",
+        "summary": "A 1-0 win over France highlights an otherwise unsuccessful Euro 2012 campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 9462000,
+      "fx_lcu_per_usd_annual_avg": 0.4975,
+      "geopolitical_news": [
+        {
+          "headline": "Currency crisis hits Belarus",
+          "summary": "The ruble collapses, forcing devaluation and sparking panic buying."
+        },
+        {
+          "headline": "EU tightens sanctions",
+          "summary": "Brussels expands sanctions over continued repression."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus miss Euro 2012",
+        "summary": "Belarus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 9447000,
+      "fx_lcu_per_usd_annual_avg": 0.8337,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections boycotted",
+          "summary": "The opposition boycotts September parliamentary elections."
+        },
+        {
+          "headline": "Belarus-EU relations frozen",
+          "summary": "Diplomatic expulsions deepen the standoff with the European Union."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus begin 2014 World Cup qualifying",
+        "summary": "Belarus open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 9443000,
+      "fx_lcu_per_usd_annual_avg": 0.888,
+      "geopolitical_news": [
+        {
+          "headline": "Lukashenko pardons political prisoners",
+          "summary": "Several jailed opposition figures are freed in a gesture toward the West."
+        },
+        {
+          "headline": "Belarus-Russia oil disputes flare",
+          "summary": "Minsk and Moscow spar over oil export duties."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus endure dismal World Cup qualifying",
+        "summary": "Belarus finish near the bottom of their group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 9449000,
+      "fx_lcu_per_usd_annual_avg": 1.0224,
+      "geopolitical_news": [
+        {
+          "headline": "Minsk hosts Ukraine ceasefire talks",
+          "summary": "The Minsk Protocol ceasefire for eastern Ukraine is brokered in September."
+        },
+        {
+          "headline": "Minsk hosts ice hockey world championship",
+          "summary": "The tournament goes ahead despite Western calls for a boycott."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus compete in Euro 2016 qualifying",
+        "summary": "Belarus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 9461000,
+      "fx_lcu_per_usd_annual_avg": 1.5926,
+      "geopolitical_news": [
+        {
+          "headline": "Lukashenko wins fifth term",
+          "summary": "The president claims October elections boycotted by much of the opposition."
+        },
+        {
+          "headline": "Minsk II agreement signed",
+          "summary": "A second ceasefire deal for eastern Ukraine is brokered in Minsk."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus miss Euro 2016",
+        "summary": "Belarus finish fourth in their group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 9469000,
+      "fx_lcu_per_usd_annual_avg": 1.9896,
+      "geopolitical_news": [
+        {
+          "headline": "EU lifts most Belarus sanctions",
+          "summary": "Brussels suspends sanctions after prisoner releases."
+        },
+        {
+          "headline": "Opposition wins rare parliament seats",
+          "summary": "Two opposition MPs are elected in September's parliamentary vote."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus struggle in World Cup qualifying",
+        "summary": "Belarus finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 9459000,
+      "fx_lcu_per_usd_annual_avg": 1.9323,
+      "geopolitical_news": [
+        {
+          "headline": "Mass protests over 'parasite tax'",
+          "summary": "Thousands protest a tax on the unemployed in the largest rallies in years."
+        },
+        {
+          "headline": "Zapad drills alarm NATO",
+          "summary": "Joint Russia-Belarus military exercises near NATO borders raise Western concerns."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus finish bottom of qualifying group",
+        "summary": "Belarus end last in their World Cup qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 9439000,
+      "fx_lcu_per_usd_annual_avg": 2.0376,
+      "geopolitical_news": [
+        {
+          "headline": "Belarus-Russia integration tensions",
+          "summary": "Moscow presses Minsk on deeper union-state integration."
+        },
+        {
+          "headline": "Lukashenko reshuffles government",
+          "summary": "The president replaces his prime minister amid economic stagnation."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus win Nations League promotion",
+        "summary": "Belarus top their League D group to earn promotion."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 9420000,
+      "fx_lcu_per_usd_annual_avg": 2.0918,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections return loyalists",
+          "summary": "November elections produce a loyalist parliament amid fraud claims."
+        },
+        {
+          "headline": "Russia-Belarus oil contamination row",
+          "summary": "Contaminated Russian oil disrupts Belarusian refineries and exports."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus miss Euro 2020",
+        "summary": "Belarus finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 9380000,
+      "fx_lcu_per_usd_annual_avg": 2.4396,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election sparks mass protests",
+          "summary": "Hundreds of thousands protest alleged fraud; Tikhanovskaya flees the country."
+        },
+        {
+          "headline": "Lukashenko claims sixth term",
+          "summary": "The president declares victory as security forces crush demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus fall short in Euro 2020 playoffs",
+        "summary": "A playoff defeat to Georgia ends Belarus's Euro hopes."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 9303000,
+      "fx_lcu_per_usd_annual_avg": 2.5387,
+      "geopolitical_news": [
+        {
+          "headline": "Ryanair flight diverted to arrest journalist",
+          "summary": "Belarus forces down a passenger jet to seize dissident Roman Protasevich."
+        },
+        {
+          "headline": "EU imposes sweeping sanctions",
+          "summary": "Brussels sanctions Belarusian economic sectors after the forced landing."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus finish bottom of qualifying group",
+        "summary": "Belarus end last in their World Cup qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 9228000,
+      "fx_lcu_per_usd_annual_avg": 2.6261,
+      "geopolitical_news": [
+        {
+          "headline": "Belarus enables Russia's invasion of Ukraine",
+          "summary": "Russian troops attack Ukraine from Belarusian territory."
+        },
+        {
+          "headline": "Referendum drops nuclear-free status",
+          "summary": "A February vote removes Belarus's non-nuclear pledge from the constitution."
+        }
+      ],
+      "sport": {
+        "headline": "Belarusian teams exiled from home games",
+        "summary": "UEFA orders Belarus to play home matches at neutral venues."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 9178000,
+      "fx_lcu_per_usd_annual_avg": 3.0074,
+      "geopolitical_news": [
+        {
+          "headline": "Russia deploys tactical nukes in Belarus",
+          "summary": "Moscow stations tactical nuclear weapons on Belarusian soil."
+        },
+        {
+          "headline": "Wagner chief exiled to Belarus",
+          "summary": "After his mutiny, Yevgeny Prigozhin is sent to Belarus."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus play qualifiers in exile",
+        "summary": "Belarus finish fourth in their Euro qualifying group at neutral venues."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 9133000,
+      "fx_lcu_per_usd_annual_avg": 3.2462,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary elections exclude opposition",
+          "summary": "February elections are held without genuine opposition participation."
+        },
+        {
+          "headline": "Belarus deepens Russia alignment",
+          "summary": "Minsk signs new security pacts with Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus compete in Nations League C",
+        "summary": "Belarus finish mid-table in their League C group at neutral venues."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 9087000,
+      "fx_lcu_per_usd_annual_avg": 3.0692,
+      "geopolitical_news": [
+        {
+          "headline": "Lukashenko wins seventh term",
+          "summary": "The president claims January elections rejected as a sham by the West."
+        },
+        {
+          "headline": "Prisoner releases amid US outreach",
+          "summary": "Minsk frees some detainees during tentative American engagement."
+        }
+      ],
+      "sport": {
+        "headline": "Belarus endure poor World Cup qualifying",
+        "summary": "Belarus sit near the bottom of their qualifying group."
+      }
+    }
+  ]
+}

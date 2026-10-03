@@ -1,0 +1,396 @@
+{
+  "country": "Bangladesh",
+  "iso3": "BGD",
+  "currency": "BDT",
+  "currency_name": "Bangladeshi Taka",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 140921000,
+      "fx_lcu_per_usd_annual_avg": 68.9332,
+      "geopolitical_news": [
+        {
+          "headline": "Political crisis deepens",
+          "summary": "Violent standoff between parties paralyzes Dhaka ahead of scheduled elections."
+        },
+        {
+          "headline": "Caretaker row",
+          "summary": "Disputes over the interim government push the country toward emergency rule."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket team on the rise",
+        "summary": "Bangladesh's young side shows promise in ODIs against top nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 142660000,
+      "fx_lcu_per_usd_annual_avg": 68.8749,
+      "geopolitical_news": [
+        {
+          "headline": "Military-backed caretaker takes over",
+          "summary": "Emergency rule is declared in January; elections are postponed."
+        },
+        {
+          "headline": "Leaders detained",
+          "summary": "Both Sheikh Hasina and Khaleda Zia are arrested on graft charges."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup Super Eight",
+        "summary": "Bangladesh stun India to reach the Super Eights in the Caribbean."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 144304000,
+      "fx_lcu_per_usd_annual_avg": 68.5983,
+      "geopolitical_news": [
+        {
+          "headline": "Awami League wins landslide",
+          "summary": "December elections restore democracy; Sheikh Hasina becomes prime minister."
+        },
+        {
+          "headline": "Emergency lifted",
+          "summary": "Two years of military-backed rule end with the vote."
+        }
+      ],
+      "sport": {
+        "headline": "Cricketers tour tough venues",
+        "summary": "The team gains experience on difficult away tours."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 145925000,
+      "fx_lcu_per_usd_annual_avg": 69.0391,
+      "geopolitical_news": [
+        {
+          "headline": "BDR mutiny kills officers",
+          "summary": "A border guards' revolt in February leaves dozens of army officers dead."
+        },
+        {
+          "headline": "Hasina consolidates power",
+          "summary": "The new government crushes the mutiny and tightens its grip."
+        }
+      ],
+      "sport": {
+        "headline": "First away Test series win",
+        "summary": "Bangladesh beat West Indies in the Caribbean for a historic series victory."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 147575000,
+      "fx_lcu_per_usd_annual_avg": 69.6493,
+      "geopolitical_news": [
+        {
+          "headline": "War crimes tribunal set up",
+          "summary": "A court is formed to try 1971 liberation war atrocities."
+        },
+        {
+          "headline": "BDR trials begin",
+          "summary": "Mass trials open over the 2009 border guards mutiny."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games cricket gold",
+        "summary": "Bangladesh beat Afghanistan to win cricket gold in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 149274000,
+      "fx_lcu_per_usd_annual_avg": 74.1524,
+      "geopolitical_news": [
+        {
+          "headline": "World Cup co-hosted",
+          "summary": "Bangladesh stages matches of the Cricket World Cup with India and Sri Lanka."
+        },
+        {
+          "headline": "Caretaker system scrapped",
+          "summary": "A constitutional amendment ends neutral poll-time governments."
+        }
+      ],
+      "sport": {
+        "headline": "Hosting the World Cup",
+        "summary": "Dhaka and Chittagong host World Cup matches before home crowds."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 151008000,
+      "fx_lcu_per_usd_annual_avg": 81.8627,
+      "geopolitical_news": [
+        {
+          "headline": "Yunus ousted from Grameen",
+          "summary": "Nobel laureate Muhammad Yunus is removed from the bank he founded."
+        },
+        {
+          "headline": "Asia Cup final heartbreak",
+          "summary": "Off the field, war crimes verdicts stir unrest; on it, narrow sporting loss."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup final agony",
+        "summary": "Bangladesh lose the final to Pakistan by two runs in Mirpur."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 152765000,
+      "fx_lcu_per_usd_annual_avg": 78.1032,
+      "geopolitical_news": [
+        {
+          "headline": "Rana Plaza collapse",
+          "summary": "A factory building collapse kills over a thousand garment workers."
+        },
+        {
+          "headline": "Shahbag protests erupt",
+          "summary": "Mass rallies demand death for 1971 war criminals."
+        }
+      ],
+      "sport": {
+        "headline": "Mushfiqur's double century",
+        "summary": "Mushfiqur Rahim becomes the first Bangladeshi to score a Test double hundred."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 154520000,
+      "fx_lcu_per_usd_annual_avg": 77.6414,
+      "geopolitical_news": [
+        {
+          "headline": "One-sided election",
+          "summary": "The BNP boycotts January polls; Hasina is re-elected unopposed in most seats."
+        },
+        {
+          "headline": "Legitimacy questioned",
+          "summary": "Western observers decline to monitor the lopsided vote."
+        }
+      ],
+      "sport": {
+        "headline": "T20 World Cup hosted",
+        "summary": "Bangladesh stages the World Twenty20 tournament."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 156256000,
+      "fx_lcu_per_usd_annual_avg": 77.9469,
+      "geopolitical_news": [
+        {
+          "headline": "Blogger murders",
+          "summary": "Militants hack secular writers to death in a string of attacks."
+        },
+        {
+          "headline": "Cricket euphoria",
+          "summary": "World Cup success briefly unites a polarized nation."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarterfinal",
+        "summary": "Bangladesh beat England to reach a first World Cup quarterfinal."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 157971000,
+      "fx_lcu_per_usd_annual_avg": 78.4681,
+      "geopolitical_news": [
+        {
+          "headline": "Holey Artisan attack",
+          "summary": "Militants storm a Dhaka cafe in July, killing diners in a day-long siege."
+        },
+        {
+          "headline": "Security crackdown",
+          "summary": "Forces launch sweeping operations against extremist networks."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup final again",
+        "summary": "Bangladesh reach the T20 Asia Cup final, losing to India."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 159671000,
+      "fx_lcu_per_usd_annual_avg": 80.4375,
+      "geopolitical_news": [
+        {
+          "headline": "Rohingya exodus",
+          "summary": "Hundreds of thousands flee Myanmar's crackdown into Cox's Bazar."
+        },
+        {
+          "headline": "Refugee crisis grows",
+          "summary": "Bangladesh hosts the world's largest refugee camp."
+        }
+      ],
+      "sport": {
+        "headline": "Test win over Australia",
+        "summary": "Bangladesh beat Australia in a Test for the first time, in Mirpur."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 161356000,
+      "fx_lcu_per_usd_annual_avg": 83.4662,
+      "geopolitical_news": [
+        {
+          "headline": "Hasina wins disputed polls",
+          "summary": "December elections return her to power amid rigging allegations."
+        },
+        {
+          "headline": "Road safety protests",
+          "summary": "Student demonstrations over deadly crashes paralyze Dhaka."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup final loss",
+        "summary": "Bangladesh lose another Asia Cup final to India, off the last ball."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 163046000,
+      "fx_lcu_per_usd_annual_avg": 84.4535,
+      "geopolitical_news": [
+        {
+          "headline": "Post-election crackdown",
+          "summary": "The opposition is squeezed after the lopsided 2018 vote."
+        },
+        {
+          "headline": "Rohingya repatriation stalls",
+          "summary": "Refugees refuse to return to Myanmar without guarantees."
+        }
+      ],
+      "sport": {
+        "headline": "Shakib stars at World Cup",
+        "summary": "Shakib Al Hasan scores 606 runs and takes 11 wickets in England."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 164689000,
+      "fx_lcu_per_usd_annual_avg": 84.8714,
+      "geopolitical_news": [
+        {
+          "headline": "COVID hits hard",
+          "summary": "The pandemic strains hospitals and the garment economy."
+        },
+        {
+          "headline": "Mujib centenary",
+          "summary": "The nation marks 100 years since Sheikh Mujibur Rahman's birth."
+        }
+      ],
+      "sport": {
+        "headline": "Cricket resumes quietly",
+        "summary": "Domestic cricket restarts behind closed doors after the COVID pause."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 166657000,
+      "fx_lcu_per_usd_annual_avg": 85.0838,
+      "geopolitical_news": [
+        {
+          "headline": "Independence golden jubilee",
+          "summary": "Fifty years of independence are celebrated amid Modi-visit protests."
+        },
+        {
+          "headline": "Hefazat crackdown",
+          "summary": "Islamist group leaders are arrested after violent demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "T20 series wins at home",
+        "summary": "Bangladesh beat Australia and New Zealand in home T20 series."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 168520000,
+      "fx_lcu_per_usd_annual_avg": 91.7455,
+      "geopolitical_news": [
+        {
+          "headline": "Economic strain",
+          "summary": "Falling reserves force Bangladesh to seek an IMF loan."
+        },
+        {
+          "headline": "Energy crisis",
+          "summary": "Power cuts and fuel shortages hit industry and homes."
+        }
+      ],
+      "sport": {
+        "headline": "Women win SAFF Championship",
+        "summary": "Bangladesh's women lift the South Asian football title."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 170279000,
+      "fx_lcu_per_usd_annual_avg": 106.3095,
+      "geopolitical_news": [
+        {
+          "headline": "Election tensions rise",
+          "summary": "The US threatens visa curbs over democratic backsliding."
+        },
+        {
+          "headline": "Yunus cases proceed",
+          "summary": "Nobel laureate faces labour-law charges critics call political."
+        }
+      ],
+      "sport": {
+        "headline": "Tough World Cup in India",
+        "summary": "Bangladesh endure a disappointing ODI World Cup campaign."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 172019000,
+      "fx_lcu_per_usd_annual_avg": 115.6037,
+      "geopolitical_news": [
+        {
+          "headline": "Hasina ousted by uprising",
+          "summary": "Weeks of student-led protests topple the premier in August; she flees."
+        },
+        {
+          "headline": "Yunus leads interim rule",
+          "summary": "The Nobel laureate heads a caretaker government promising reform."
+        }
+      ],
+      "sport": {
+        "headline": "Test series win in Pakistan",
+        "summary": "Bangladesh sweep Pakistan 2-0 away, a landmark achievement."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 173736000,
+      "fx_lcu_per_usd_annual_avg": 121.9208,
+      "geopolitical_news": [
+        {
+          "headline": "Hasina faces tribunal",
+          "summary": "The ousted leader is tried in absentia over the deadly crackdown."
+        },
+        {
+          "headline": "Elections promised",
+          "summary": "The interim government pledges polls and constitutional reform."
+        }
+      ],
+      "sport": {
+        "headline": "Asia Cup campaign",
+        "summary": "Bangladesh contest the T20 Asia Cup in the UAE."
+      }
+    }
+  ]
+}

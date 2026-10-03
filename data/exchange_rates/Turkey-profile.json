@@ -1,0 +1,396 @@
+{
+  "country": "Turkey",
+  "iso3": "TUR",
+  "currency": "TRY",
+  "currency_name": "Turkish Lira",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 69295000,
+      "fx_lcu_per_usd_annual_avg": 1.4391,
+      "geopolitical_news": [
+        {
+          "headline": "AKP government stable",
+          "summary": "Erdogan's party governs with a big majority."
+        },
+        {
+          "headline": "EU talks slow",
+          "summary": "Accession negotiations stall."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey begin Euro 2008 qualifying",
+        "summary": "Turkey open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 70158000,
+      "fx_lcu_per_usd_annual_avg": 1.3066,
+      "geopolitical_news": [
+        {
+          "headline": "AKP wins election",
+          "summary": "July elections entrench Erdogan's rule."
+        },
+        {
+          "headline": "Gul elected president",
+          "summary": "Abdullah Gul wins August's vote amid secularist protests."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey qualify for Euro 2008",
+        "summary": "Turkey book their finals place."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 71052000,
+      "fx_lcu_per_usd_annual_avg": 1.3045,
+      "geopolitical_news": [
+        {
+          "headline": "AKP survives closure case",
+          "summary": "The constitutional court spares the ruling party."
+        },
+        {
+          "headline": "Ergenekon probe widens",
+          "summary": "Alleged coup plotters are arrested."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey reach Euro 2008 semi-finals",
+        "summary": "Germany end a thrilling run in Basel."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 72039000,
+      "fx_lcu_per_usd_annual_avg": 1.5546,
+      "geopolitical_news": [
+        {
+          "headline": "AKP wins local elections",
+          "summary": "March votes keep the party dominant."
+        },
+        {
+          "headline": "Kurdish opening launched",
+          "summary": "The government offers reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey miss 2010 World Cup",
+        "summary": "Turkey finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 73142000,
+      "fx_lcu_per_usd_annual_avg": 1.5076,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional referendum passes",
+          "summary": "September's vote curbs the military's power."
+        },
+        {
+          "headline": "AKP consolidates",
+          "summary": "Erdogan's dominance grows."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey begin Euro 2012 qualifying",
+        "summary": "Turkey open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 74224000,
+      "fx_lcu_per_usd_annual_avg": 1.6815,
+      "geopolitical_news": [
+        {
+          "headline": "AKP wins third term",
+          "summary": "June elections deliver another majority."
+        },
+        {
+          "headline": "Van earthquake kills hundreds",
+          "summary": "An October quake devastates the east."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia deny Turkey Euro 2012",
+        "summary": "Turkey lose their playoff."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 75176000,
+      "fx_lcu_per_usd_annual_avg": 1.8011,
+      "geopolitical_news": [
+        {
+          "headline": "Syria downs Turkish jet",
+          "summary": "June incident escalates border tensions."
+        },
+        {
+          "headline": "Turkey hosts Syrian opposition",
+          "summary": "Ankara backs the rebels."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey begin World Cup qualifying",
+        "summary": "Turkey open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 76148000,
+      "fx_lcu_per_usd_annual_avg": 1.9065,
+      "geopolitical_news": [
+        {
+          "headline": "Gezi Park protests erupt",
+          "summary": "May demonstrations shake Istanbul."
+        },
+        {
+          "headline": "Government crackdown",
+          "summary": "Police clear the protests violently."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey miss 2014 World Cup",
+        "summary": "Turkey finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 77182000,
+      "fx_lcu_per_usd_annual_avg": 2.1895,
+      "geopolitical_news": [
+        {
+          "headline": "Erdogan elected president",
+          "summary": "He wins August's first direct presidential vote."
+        },
+        {
+          "headline": "Davutoglu becomes PM",
+          "summary": "Ahmet Davutoglu succeeds Erdogan as premier."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey begin Euro 2016 qualifying",
+        "summary": "Turkey open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 78218000,
+      "fx_lcu_per_usd_annual_avg": 2.7287,
+      "geopolitical_news": [
+        {
+          "headline": "Two elections",
+          "summary": "June and November votes; AKP regains majority."
+        },
+        {
+          "headline": "Ankara bombings",
+          "summary": "Twin attacks kill over 100 in October."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey qualify for Euro 2016",
+        "summary": "Turkey qualify as the best third-placed team."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 79278000,
+      "fx_lcu_per_usd_annual_avg": 3.024,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt fails",
+          "summary": "The July 15 putsch is crushed; purges follow."
+        },
+        {
+          "headline": "Mass arrests",
+          "summary": "Tens of thousands are detained."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey exit Euro 2016 in group stage",
+        "summary": "Turkey bow out with one win."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 80313000,
+      "fx_lcu_per_usd_annual_avg": 3.6481,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum backs presidency",
+          "summary": "April's vote grants Erdogan sweeping powers."
+        },
+        {
+          "headline": "Constitutional overhaul",
+          "summary": "The parliamentary system is scrapped."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey miss 2018 World Cup",
+        "summary": "Turkey finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 81407000,
+      "fx_lcu_per_usd_annual_avg": 4.8549,
+      "geopolitical_news": [
+        {
+          "headline": "Erdogan re-elected",
+          "summary": "June elections confirm the executive presidency."
+        },
+        {
+          "headline": "Currency crisis",
+          "summary": "The lira collapses in August."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey relegated in Nations League",
+        "summary": "Turkey finish bottom of their League B group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 82579000,
+      "fx_lcu_per_usd_annual_avg": 5.6806,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins Istanbul",
+          "summary": "Ekrem Imamoglu takes the city in a re-run."
+        },
+        {
+          "headline": "Syria offensive",
+          "summary": "Turkey invades northern Syria in October."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey qualify for Euro 2020",
+        "summary": "Turkey finish second, beating France along the way."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 83385000,
+      "fx_lcu_per_usd_annual_avg": 7.0321,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Turkey",
+          "summary": "The pandemic strains hospitals."
+        },
+        {
+          "headline": "Hagia Sophia reconverted",
+          "summary": "The museum becomes a mosque in July."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey relegated in Nations League",
+        "summary": "Turkey finish bottom of their League B group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 84147000,
+      "fx_lcu_per_usd_annual_avg": 8.9233,
+      "geopolitical_news": [
+        {
+          "headline": "Lira crisis deepens",
+          "summary": "Rate cuts crash the currency."
+        },
+        {
+          "headline": "Istanbul Convention quit",
+          "summary": "Turkey leaves the anti-violence treaty."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey exit Euro 2020 winless",
+        "summary": "Turkey lose all three group matches."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 84980000,
+      "fx_lcu_per_usd_annual_avg": 16.6119,
+      "geopolitical_news": [
+        {
+          "headline": "Turkey mediates Ukraine grain deal",
+          "summary": "Ankara brokers the Black Sea agreement."
+        },
+        {
+          "headline": "NATO: Turkey blocks Sweden",
+          "summary": "Ankara vets Nordic membership bids."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal deny Turkey World Cup",
+        "summary": "Turkey lose their playoff semi-final."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 85326000,
+      "fx_lcu_per_usd_annual_avg": 23.8197,
+      "geopolitical_news": [
+        {
+          "headline": "Earthquake kills tens of thousands",
+          "summary": "February quakes devastate the southeast."
+        },
+        {
+          "headline": "Erdogan re-elected",
+          "summary": "The president wins May's runoff."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey qualify for Euro 2024",
+        "summary": "Turkey top their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 85518000,
+      "fx_lcu_per_usd_annual_avg": 32.8699,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins local elections",
+          "summary": "March votes deliver big opposition gains."
+        },
+        {
+          "headline": "Istanbul stays opposition",
+          "summary": "Imamoglu is re-elected mayor."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands end Turkey's Euro run",
+        "summary": "Turkey lose their quarter-final in Berlin."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 85825000,
+      "fx_lcu_per_usd_annual_avg": 39.57,
+      "geopolitical_news": [
+        {
+          "headline": "Imamoglu arrested",
+          "summary": "The Istanbul mayor's detention in March sparks mass protests."
+        },
+        {
+          "headline": "Crackdown widens",
+          "summary": "Opposition figures face charges."
+        }
+      ],
+      "sport": {
+        "headline": "Turkey chase World Cup qualification",
+        "summary": "Turkey compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

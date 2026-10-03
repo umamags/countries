@@ -1,0 +1,396 @@
+{
+  "country": "Maldives",
+  "iso3": "MDV",
+  "currency": "MVR",
+  "currency_name": "Maldivian Rufiyaa",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 299000,
+      "fx_lcu_per_usd_annual_avg": 12.8,
+      "geopolitical_news": [
+        {
+          "headline": "Democratic reforms promised",
+          "summary": "Gayoom pledges multiparty democracy after unrest."
+        },
+        {
+          "headline": "Opposition pressure",
+          "summary": "Activists demand faster reform."
+        }
+      ],
+      "sport": {
+        "headline": "Football qualifiers",
+        "summary": "Maldives contest Asian Cup qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 305000,
+      "fx_lcu_per_usd_annual_avg": 12.8,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional drafting",
+          "summary": "A special assembly writes a democratic charter."
+        },
+        {
+          "headline": "Bombing in Male",
+          "summary": "A rare blast wounds tourists."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 310000,
+      "fx_lcu_per_usd_annual_avg": 12.8,
+      "geopolitical_news": [
+        {
+          "headline": "First democratic election",
+          "summary": "Mohamed Nasheed defeats Gayoom in October."
+        },
+        {
+          "headline": "New constitution",
+          "summary": "A democratic charter takes effect."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship win",
+        "summary": "Maldives win the South Asian football title."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 315000,
+      "fx_lcu_per_usd_annual_avg": 12.8,
+      "geopolitical_news": [
+        {
+          "headline": "Underwater cabinet",
+          "summary": "Nasheed holds a submerged meeting on climate change."
+        },
+        {
+          "headline": "Democracy struggles",
+          "summary": "The new government faces old-guard resistance."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives defend their South Asian title."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 320000,
+      "fx_lcu_per_usd_annual_avg": 12.8,
+      "geopolitical_news": [
+        {
+          "headline": "Cabinet resigns",
+          "summary": "Ministers quit en masse over parliamentary obstruction."
+        },
+        {
+          "headline": "Political deadlock",
+          "summary": "The government and opposition clash."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Maldivian athletes compete in Guangzhou."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 325000,
+      "fx_lcu_per_usd_annual_avg": 14.602,
+      "geopolitical_news": [
+        {
+          "headline": "Protests grow",
+          "summary": "Opposition rallies demand Nasheed's ouster."
+        },
+        {
+          "headline": "Economic woes",
+          "summary": "The economy strains under debt."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship",
+        "summary": "Maldives contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 331000,
+      "fx_lcu_per_usd_annual_avg": 15.3648,
+      "geopolitical_news": [
+        {
+          "headline": "Nasheed ousted",
+          "summary": "The president resigns amid a police mutiny; he calls it a coup."
+        },
+        {
+          "headline": "Waheed takes over",
+          "summary": "The vice president assumes power."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Maldivian athletes compete in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 336000,
+      "fx_lcu_per_usd_annual_avg": 15.3667,
+      "geopolitical_news": [
+        {
+          "headline": "Yameen elected",
+          "summary": "Gayoom's half-brother wins disputed November polls."
+        },
+        {
+          "headline": "Election annulled",
+          "summary": "The supreme court voids the first round."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 342000,
+      "fx_lcu_per_usd_annual_avg": 15.3804,
+      "geopolitical_news": [
+        {
+          "headline": "Nasheed jailed",
+          "summary": "The ex-president gets 13 years on terrorism charges."
+        },
+        {
+          "headline": "Authoritarian turn",
+          "summary": "Yameen consolidates power."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Games",
+        "summary": "Maldivian athletes compete in Incheon."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 348000,
+      "fx_lcu_per_usd_annual_avg": 15.3663,
+      "geopolitical_news": [
+        {
+          "headline": "VP jailed",
+          "summary": "The vice president is imprisoned over an alleged assassination plot."
+        },
+        {
+          "headline": "China pivot",
+          "summary": "Yameen deepens ties with Beijing."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 354000,
+      "fx_lcu_per_usd_annual_avg": 15.3684,
+      "geopolitical_news": [
+        {
+          "headline": "Leaves Commonwealth",
+          "summary": "Maldives quits the bloc over rights criticism."
+        },
+        {
+          "headline": "Opposition exiled",
+          "summary": "Nasheed gets asylum in Britain."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympics",
+        "summary": "Maldivian athletes compete in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 360000,
+      "fx_lcu_per_usd_annual_avg": 15.387,
+      "geopolitical_news": [
+        {
+          "headline": "Parliamentary turmoil",
+          "summary": "Soldiers storm the legislature amid a power struggle."
+        },
+        {
+          "headline": "China FTA",
+          "summary": "A free-trade deal with Beijing is rushed through."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives contest regional football."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 366000,
+      "fx_lcu_per_usd_annual_avg": 15.3908,
+      "geopolitical_news": [
+        {
+          "headline": "Solih wins election",
+          "summary": "The opposition unites to defeat Yameen in September."
+        },
+        {
+          "headline": "Democratic restoration",
+          "summary": "Ibrahim Solih promises reform."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF Championship win",
+        "summary": "Maldives stun India to win the South Asian title."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 372000,
+      "fx_lcu_per_usd_annual_avg": 15.382,
+      "geopolitical_news": [
+        {
+          "headline": "MDP sweeps parliament",
+          "summary": "Solih's party wins a supermajority."
+        },
+        {
+          "headline": "Yameen jailed",
+          "summary": "The ex-president gets five years for money laundering."
+        }
+      ],
+      "sport": {
+        "headline": "Indian Ocean Games",
+        "summary": "Maldives host the Indian Ocean Island Games."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 378000,
+      "fx_lcu_per_usd_annual_avg": 15.3813,
+      "geopolitical_news": [
+        {
+          "headline": "COVID devastates tourism",
+          "summary": "The pandemic empties resorts, the economy's lifeline."
+        },
+        {
+          "headline": "Borders reopen",
+          "summary": "Tourism resumes with testing protocols."
+        }
+      ],
+      "sport": {
+        "headline": "Football paused",
+        "summary": "The pandemic halts Maldivian football."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 384000,
+      "fx_lcu_per_usd_annual_avg": 15.3727,
+      "geopolitical_news": [
+        {
+          "headline": "Nasheed survives bombing",
+          "summary": "The ex-president is wounded in a May assassination attempt."
+        },
+        {
+          "headline": "Terror probe",
+          "summary": "Islamist extremists are blamed."
+        }
+      ],
+      "sport": {
+        "headline": "Tokyo Olympics",
+        "summary": "Maldivian athletes compete in Tokyo."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 391000,
+      "fx_lcu_per_usd_annual_avg": 15.3866,
+      "geopolitical_news": [
+        {
+          "headline": "India Out campaign",
+          "summary": "The opposition rallies against Indian military presence."
+        },
+        {
+          "headline": "Political tensions",
+          "summary": "The Solih-Nasheed alliance frays."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF campaign",
+        "summary": "Maldives contest the South Asian championship."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 397000,
+      "fx_lcu_per_usd_annual_avg": 15.3868,
+      "geopolitical_news": [
+        {
+          "headline": "Muizzu elected",
+          "summary": "The pro-China candidate wins September polls."
+        },
+        {
+          "headline": "India Out wins",
+          "summary": "Muizzu pledges to remove Indian troops."
+        }
+      ],
+      "sport": {
+        "headline": "Indian Ocean Games",
+        "summary": "Maldivian athletes compete at the regional Games."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 404000,
+      "fx_lcu_per_usd_annual_avg": 15.3892,
+      "geopolitical_news": [
+        {
+          "headline": "Indian troops leave",
+          "summary": "New Delhi withdraws military personnel by May."
+        },
+        {
+          "headline": "China ties deepen",
+          "summary": "Muizzu signs deals with Beijing."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympics",
+        "summary": "Maldivian athletes compete in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 411000,
+      "fx_lcu_per_usd_annual_avg": 15.4157,
+      "geopolitical_news": [
+        {
+          "headline": "Muizzu visits India",
+          "summary": "Ties with New Delhi are reset after the troop row."
+        },
+        {
+          "headline": "Economic pressures",
+          "summary": "Debt and reserve worries persist."
+        }
+      ],
+      "sport": {
+        "headline": "SAFF competitions",
+        "summary": "Maldives contest South Asian football."
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "country": "Malawi",
+  "iso3": "MWI",
+  "currency": "MWK",
+  "currency_name": "Malawian Kwacha",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 14043000,
+      "fx_lcu_per_usd_annual_avg": 136.0125,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika's government stable",
+          "summary": "The president's anti-corruption drive wins donor praise."
+        },
+        {
+          "headline": "Food crisis eases",
+          "summary": "Subsidized fertilizer boosts maize harvests."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi fall short in AFCON qualifying",
+        "summary": "The Flames miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 14439000,
+      "fx_lcu_per_usd_annual_avg": 139.9575,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika's party formed",
+          "summary": "The president launches the DPP after splitting with the UDF."
+        },
+        {
+          "headline": "Donors praise reforms",
+          "summary": "Malawi's economic management wins international support."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2008 AFCON",
+        "summary": "The Flames fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 14846000,
+      "fx_lcu_per_usd_annual_avg": 140.5217,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika survives impeachment bid",
+          "summary": "The opposition's attempt to oust him fails."
+        },
+        {
+          "headline": "Malawi's economy grows",
+          "summary": "Agricultural subsidies drive strong growth."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi compete at Beijing Olympics",
+        "summary": "Malawian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 15274000,
+      "fx_lcu_per_usd_annual_avg": 141.1683,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika re-elected",
+          "summary": "The president wins May's vote in a landslide."
+        },
+        {
+          "headline": "DPP dominates parliament",
+          "summary": "The ruling party sweeps the legislative elections."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi qualify for 2010 AFCON",
+        "summary": "The Flames reach the Angola tournament, ending a long absence."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 15714000,
+      "fx_lcu_per_usd_annual_avg": 150.4858,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika's authoritarian turn",
+          "summary": "The president clashes with donors and civil society."
+        },
+        {
+          "headline": "Homosexuality case condemned",
+          "summary": "The jailing of a gay couple draws global outrage."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi return to AFCON",
+        "summary": "The Flames exit at the group stage in Angola but beat Algeria 3-0."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 16166000,
+      "fx_lcu_per_usd_annual_avg": 156.5158,
+      "geopolitical_news": [
+        {
+          "headline": "Protests turn deadly",
+          "summary": "July demonstrations over the economy leave around 20 dead."
+        },
+        {
+          "headline": "Donors freeze aid",
+          "summary": "Britain and others suspend budget support."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2012 AFCON",
+        "summary": "The Flames fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 16632000,
+      "fx_lcu_per_usd_annual_avg": 249.1067,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika dies",
+          "summary": "The president dies in April; Vice President Joyce Banda succeeds him."
+        },
+        {
+          "headline": "Banda becomes president",
+          "summary": "Africa's second female head of state takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi compete at London Olympics",
+        "summary": "Malawian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 17111000,
+      "fx_lcu_per_usd_annual_avg": 364.4058,
+      "geopolitical_news": [
+        {
+          "headline": "Cashgate scandal erupts",
+          "summary": "The looting of government coffers implicates officials."
+        },
+        {
+          "headline": "Donors suspend aid",
+          "summary": "Budget support is frozen over the corruption."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2013 AFCON",
+        "summary": "The Flames fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 17604000,
+      "fx_lcu_per_usd_annual_avg": 424.8967,
+      "geopolitical_news": [
+        {
+          "headline": "Peter Mutharika wins presidency",
+          "summary": "The late president's brother defeats Banda in May's vote."
+        },
+        {
+          "headline": "Cashgate trials begin",
+          "summary": "Officials face justice over the looting scandal."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2014 World Cup",
+        "summary": "The Flames fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 18111000,
+      "fx_lcu_per_usd_annual_avg": 499.6058,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika's government wobbles",
+          "summary": "Economic woes and corruption allegations mount."
+        },
+        {
+          "headline": "Albino killings shock nation",
+          "summary": "Ritual murders of people with albinism draw condemnation."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2015 AFCON",
+        "summary": "The Flames fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 18632000,
+      "fx_lcu_per_usd_annual_avg": 718.005,
+      "geopolitical_news": [
+        {
+          "headline": "Drought devastates harvests",
+          "summary": "El Nino-driven dry spells push millions toward hunger."
+        },
+        {
+          "headline": "Mutharika's popularity slides",
+          "summary": "The president faces growing discontent."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi compete at Rio Olympics",
+        "summary": "Malawian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 19169000,
+      "fx_lcu_per_usd_annual_avg": 730.2725,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition unites",
+          "summary": "Chakwera's MCP emerges as the main challenger."
+        },
+        {
+          "headline": "Corruption scandals persist",
+          "summary": "Maizegate and other affairs embarrass the government."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2017 AFCON",
+        "summary": "The Flames fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 19721000,
+      "fx_lcu_per_usd_annual_avg": 732.3333,
+      "geopolitical_news": [
+        {
+          "headline": "Election preparations",
+          "summary": "The 2019 vote looms over a divided nation."
+        },
+        {
+          "headline": "Mutharika seeks re-election",
+          "summary": "The president confirms his 2019 bid."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2018 World Cup",
+        "summary": "The Flames fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 20289000,
+      "fx_lcu_per_usd_annual_avg": 745.5407,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika wins disputed election",
+          "summary": "May's vote sparks mass protests over rigging claims."
+        },
+        {
+          "headline": "Protests rock Malawi",
+          "summary": "Months of demonstrations demand electoral justice."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2019 AFCON",
+        "summary": "The Flames fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 20873000,
+      "fx_lcu_per_usd_annual_avg": 749.5275,
+      "geopolitical_news": [
+        {
+          "headline": "Court annuls election",
+          "summary": "February's historic ruling voids Mutharika's 2019 victory."
+        },
+        {
+          "headline": "Chakwera wins re-run",
+          "summary": "The opposition leader triumphs in June's fresh vote."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Malawi's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 21474000,
+      "fx_lcu_per_usd_annual_avg": 805.8997,
+      "geopolitical_news": [
+        {
+          "headline": "Chakwera's honeymoon ends",
+          "summary": "Economic woes erode the new president's popularity."
+        },
+        {
+          "headline": "Corruption persists",
+          "summary": "Scandals continue under the new administration."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi reach AFCON round of 16",
+        "summary": "The Flames reach the knockouts at the 2021 tournament in Cameroon."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 22093000,
+      "fx_lcu_per_usd_annual_avg": 949.039,
+      "geopolitical_news": [
+        {
+          "headline": "Vice president arrested",
+          "summary": "Saulos Chilima is charged in a corruption probe."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Currency devaluation fuels inflation."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2022 World Cup",
+        "summary": "The Flames fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 22729000,
+      "fx_lcu_per_usd_annual_avg": 1161.0944,
+      "geopolitical_news": [
+        {
+          "headline": "Chakwera's government wobbles",
+          "summary": "The president faces discontent over unfulfilled promises."
+        },
+        {
+          "headline": "Cyclone Freddy devastates south",
+          "summary": "March's storm kills hundreds and displaces thousands."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2023 AFCON",
+        "summary": "The Flames fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 23384000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Vice president dies in plane crash",
+          "summary": "Saulos Chilima and nine others die in June's crash in Chikangawa forest."
+        },
+        {
+          "headline": "Nation mourns",
+          "summary": "The tragedy shakes Malawi's political establishment."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi compete at Paris Olympics",
+        "summary": "Malawian athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 24057000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Mutharika wins presidency again",
+          "summary": "The 85-year-old defeats Chakwera in September's election."
+        },
+        {
+          "headline": "DPP returns to power",
+          "summary": "The opposition's victory caps Chakwera's fall from grace."
+        }
+      ],
+      "sport": {
+        "headline": "Malawi miss 2025 AFCON",
+        "summary": "The Flames fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

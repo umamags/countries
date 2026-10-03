@@ -1,0 +1,396 @@
+{
+  "country": "Georgia",
+  "iso3": "GEO",
+  "currency": "GEL",
+  "currency_name": "Georgian Lari",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 3888000,
+      "fx_lcu_per_usd_annual_avg": 1.7804,
+      "geopolitical_news": [
+        {
+          "headline": "Spy row with Russia",
+          "summary": "Tbilisi expels alleged Russian spies; Moscow retaliates with sanctions."
+        },
+        {
+          "headline": "Energy blockade",
+          "summary": "Russia cuts gas supplies amid the political standoff."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2008 qualifiers",
+        "summary": "Georgia contests European Championship qualifying."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 3873000,
+      "fx_lcu_per_usd_annual_avg": 1.6705,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition protests crushed",
+          "summary": "November rallies are broken up; a state of emergency follows."
+        },
+        {
+          "headline": "Snap election called",
+          "summary": "Saakashvili calls early presidential polls for January."
+        }
+      ],
+      "sport": {
+        "headline": "Rugby World Cup debut",
+        "summary": "Georgia competes at the Rugby World Cup in France."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 3848000,
+      "fx_lcu_per_usd_annual_avg": 1.4908,
+      "geopolitical_news": [
+        {
+          "headline": "Russia-Georgia war",
+          "summary": "A five-day August war ends with Russian troops in South Ossetia and Abkhazia."
+        },
+        {
+          "headline": "Moscow recognizes breakaways",
+          "summary": "Russia recognizes the two regions' independence; Tbilisi cuts ties."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Georgian athletes compete in Beijing weeks after the war."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 3829000,
+      "fx_lcu_per_usd_annual_avg": 1.6705,
+      "geopolitical_news": [
+        {
+          "headline": "Protests demand Saakashvili out",
+          "summary": "Months of opposition rallies fail to dislodge the president."
+        },
+        {
+          "headline": "EU monitoring mission",
+          "summary": "European observers deploy along the conflict lines."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Georgia contests 2010 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 3800000,
+      "fx_lcu_per_usd_annual_avg": 1.7823,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional reform",
+          "summary": "Changes shift power toward the premiership ahead of 2013."
+        },
+        {
+          "headline": "Spy scandals",
+          "summary": "Tbilisi parades alleged Russian spy rings."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2012 qualifiers",
+        "summary": "Georgia competes in European Championship qualifying."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 3774000,
+      "fx_lcu_per_usd_annual_avg": 1.6865,
+      "geopolitical_news": [
+        {
+          "headline": "Protests turn deadly",
+          "summary": "A May rally crackdown kills several demonstrators."
+        },
+        {
+          "headline": "Ivanishvili enters politics",
+          "summary": "Billionaire Bidzina Ivanishvili founds an opposition coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Rugby World Cup in NZ",
+        "summary": "Georgia win a match at the Rugby World Cup in New Zealand."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 3739000,
+      "fx_lcu_per_usd_annual_avg": 1.6513,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition wins parliament",
+          "summary": "Ivanishvili's coalition defeats Saakashvili's party in October."
+        },
+        {
+          "headline": "Prison abuse scandal",
+          "summary": "Videos of torture in jails seal the government's fate."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Georgian judokas and wrestlers medal in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 3718000,
+      "fx_lcu_per_usd_annual_avg": 1.6634,
+      "geopolitical_news": [
+        {
+          "headline": "Margvelashvili elected",
+          "summary": "The coalition's candidate wins the presidency as Saakashvili exits."
+        },
+        {
+          "headline": "EU association deal",
+          "summary": "Georgia initials an EU association agreement."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Georgia contests 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 3717000,
+      "fx_lcu_per_usd_annual_avg": 1.7657,
+      "geopolitical_news": [
+        {
+          "headline": "EU deal signed",
+          "summary": "Georgia signs the association agreement with Brussels."
+        },
+        {
+          "headline": "NATO aspirations",
+          "summary": "Tbilisi pushes for a membership action plan."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2016 qualifiers",
+        "summary": "Georgia begins European Championship qualifying."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 3722000,
+      "fx_lcu_per_usd_annual_avg": 2.2693,
+      "geopolitical_news": [
+        {
+          "headline": "Government reshuffles",
+          "summary": "Coalition infighting topples prime ministers."
+        },
+        {
+          "headline": "Borderization",
+          "summary": "Russian forces creep the South Ossetia boundary forward."
+        }
+      ],
+      "sport": {
+        "headline": "Rugby World Cup in England",
+        "summary": "Georgia win two matches, their best World Cup showing."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 3729000,
+      "fx_lcu_per_usd_annual_avg": 2.3667,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party wins",
+          "summary": "Georgian Dream secures a constitutional majority in October."
+        },
+        {
+          "headline": "Constitutional changes",
+          "summary": "Reforms move Georgia toward a parliamentary system."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "Georgian wrestlers and weightlifters medal in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 3726000,
+      "fx_lcu_per_usd_annual_avg": 2.5095,
+      "geopolitical_news": [
+        {
+          "headline": "Visa-free EU travel",
+          "summary": "Georgians gain visa-free access to the Schengen zone."
+        },
+        {
+          "headline": "Constitution adopted",
+          "summary": "A new constitution creates a parliamentary republic."
+        }
+      ],
+      "sport": {
+        "headline": "Euro qualifiers",
+        "summary": "Georgia contests 2018 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 3730000,
+      "fx_lcu_per_usd_annual_avg": 2.5341,
+      "geopolitical_news": [
+        {
+          "headline": "Zurabishvili elected",
+          "summary": "Salome Zurabishvili becomes Georgia's first female president."
+        },
+        {
+          "headline": "Protests over drug policy",
+          "summary": "Rave-culture rallies follow nightclub raids."
+        }
+      ],
+      "sport": {
+        "headline": "Nations League",
+        "summary": "Georgia compete in the inaugural UEFA Nations League."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 3724000,
+      "fx_lcu_per_usd_annual_avg": 2.8181,
+      "geopolitical_news": [
+        {
+          "headline": "Gavrilov protests",
+          "summary": "A Russian MP's parliament address sparks mass rallies."
+        },
+        {
+          "headline": "Russia flight ban",
+          "summary": "Moscow halts flights after the unrest."
+        }
+      ],
+      "sport": {
+        "headline": "Euro 2020 qualifying",
+        "summary": "Georgia contests European Championship qualifying."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 3717000,
+      "fx_lcu_per_usd_annual_avg": 3.109,
+      "geopolitical_news": [
+        {
+          "headline": "Disputed election",
+          "summary": "Georgian Dream claims victory; the opposition alleges fraud."
+        },
+        {
+          "headline": "Political crisis",
+          "summary": "Opposition MPs boycott parliament for months."
+        }
+      ],
+      "sport": {
+        "headline": "Euro playoff heartbreak",
+        "summary": "Georgia lose the Euro 2020 playoff final to North Macedonia."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 3729000,
+      "fx_lcu_per_usd_annual_avg": 3.2216,
+      "geopolitical_news": [
+        {
+          "headline": "EU-brokered deal",
+          "summary": "A Brussels deal briefly ends the political standoff."
+        },
+        {
+          "headline": "Saakashvili jailed",
+          "summary": "The ex-president returns and is imprisoned."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying",
+        "summary": "Georgia contests 2022 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 3689000,
+      "fx_lcu_per_usd_annual_avg": 2.9162,
+      "geopolitical_news": [
+        {
+          "headline": "EU candidate bid",
+          "summary": "Georgia applies for EU membership but is told to reform first."
+        },
+        {
+          "headline": "Ukraine war fallout",
+          "summary": "Russian exiles flood in as Tbilisi hedges on sanctions."
+        }
+      ],
+      "sport": {
+        "headline": "Kvaratskhelia's rise",
+        "summary": "Khvicha Kvaratskhelia stars for Napoli, winning Serie A."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 3736000,
+      "fx_lcu_per_usd_annual_avg": 2.628,
+      "geopolitical_news": [
+        {
+          "headline": "EU candidate status granted",
+          "summary": "Brussels awards candidacy despite democratic concerns."
+        },
+        {
+          "headline": "Foreign agent protests",
+          "summary": "Mass rallies kill a 'foreign agents' bill."
+        }
+      ],
+      "sport": {
+        "headline": "Napoli title for Kvaratskhelia",
+        "summary": "Georgia's star winger helps Napoli win Serie A."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 3695000,
+      "fx_lcu_per_usd_annual_avg": 2.7206,
+      "geopolitical_news": [
+        {
+          "headline": "Euro 2024 debut",
+          "summary": "Off the pitch, a divisive 'foreign influence' law passes amid protests."
+        },
+        {
+          "headline": "Disputed election",
+          "summary": "Georgian Dream claims victory; observers cry foul."
+        }
+      ],
+      "sport": {
+        "headline": "Historic Euro 2024 run",
+        "summary": "Georgia reach the last 16 on their major tournament debut."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 3694000,
+      "fx_lcu_per_usd_annual_avg": 2.7426,
+      "geopolitical_news": [
+        {
+          "headline": "Protests continue",
+          "summary": "Demonstrations persist over the disputed vote and EU freeze."
+        },
+        {
+          "headline": "EU path frozen",
+          "summary": "Brussels suspends engagement over democratic backsliding."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualifying",
+        "summary": "Georgia contest qualifiers for the expanded World Cup."
+      }
+    }
+  ]
+}

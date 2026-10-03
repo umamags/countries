@@ -1,0 +1,396 @@
+{
+  "country": "Palau",
+  "iso3": "PLW",
+  "currency": "USD",
+  "currency_name": "US Dollar",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "Fixed at 1.0 (US dollar)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 20000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Remengesau administration winds down",
+          "summary": "The president's second term neared its end ahead of 2008 elections."
+        },
+        {
+          "headline": "Palau champions marine conservation",
+          "summary": "Koror pushed ocean protection at regional forums."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's athletes at Melbourne Commonwealth Games",
+        "summary": "The nation's team competed in athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 19000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau prepares for presidential election",
+          "summary": "Candidates campaigned ahead of the 2008 vote."
+        },
+        {
+          "headline": "Tourism growth strains resources",
+          "summary": "Rising visitor numbers pressured the small island state's environment."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Apia Pacific Games",
+        "summary": "The nation's athletes contested the 2007 South Pacific Games."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 19000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Johnson Toribiong elected president",
+          "summary": "Toribiong won the November presidential election."
+        },
+        {
+          "headline": "New government takes office",
+          "summary": "The administration pledged economic diversification."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's team at Beijing Olympics",
+        "summary": "Palauan athletes competed in athletics and wrestling in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau accepts Guantanamo Uighur detainees",
+          "summary": "Koror agreed to resettle Chinese Uighurs released from Guantanamo Bay."
+        },
+        {
+          "headline": "Decision draws international attention",
+          "summary": "The resettlement deal with Washington made global headlines."
+        }
+      ],
+      "sport": {
+        "headline": "Palauan athletes in regional competition",
+        "summary": "The nation's teams contested Oceania championships."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Toribiong government pursues reforms",
+          "summary": "The administration tackled government finances and tourism policy."
+        },
+        {
+          "headline": "Palau hosts regional meetings",
+          "summary": "Koror staged Pacific discussions on oceans and security."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Delhi Commonwealth Games",
+        "summary": "The nation's athletes competed in India."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau strengthens US ties",
+          "summary": "Compact consultations with Washington continued."
+        },
+        {
+          "headline": "Marine sanctuary plans advance",
+          "summary": "The government moved toward a huge no-fishing zone."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Noumea Pacific Games",
+        "summary": "The nation's athletes competed at the 2011 Pacific Games."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 17000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Remengesau re-elected president",
+          "summary": "Tommy Remengesau won the November election for a third term."
+        },
+        {
+          "headline": "Taiwan-Palau ties remain strong",
+          "summary": "Taipei's development assistance continued apace."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's athletes at London Olympics",
+        "summary": "The nation's small team competed in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Remengesau begins third term",
+          "summary": "The veteran president returned to office."
+        },
+        {
+          "headline": "Palau pushes ocean conservation",
+          "summary": "Koror championed marine protection at the UN."
+        }
+      ],
+      "sport": {
+        "headline": "Palauan teams in Oceania qualifiers",
+        "summary": "The nation's squads contested regional tournaments."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau hosts Pacific Islands Forum",
+          "summary": "Regional leaders met in Koror in August."
+        },
+        {
+          "headline": "Forum backs ocean conservation",
+          "summary": "Leaders endorsed marine protection initiatives."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Glasgow Commonwealth Games",
+        "summary": "The nation's athletes competed in Scotland."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau creates huge marine sanctuary",
+          "summary": "The president declared most of Palau's waters a no-fishing zone."
+        },
+        {
+          "headline": "Sanctuary wins global praise",
+          "summary": "Conservationists hailed one of the world's largest protected areas."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Port Moresby Pacific Games",
+        "summary": "The nation's athletes competed in Papua New Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Remengesau re-elected president",
+          "summary": "The president won another term in the November election."
+        },
+        {
+          "headline": "Palau balances tourism and conservation",
+          "summary": "The government weighed visitor growth against environmental limits."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's athletes at Rio Olympics",
+        "summary": "The nation's small team competed in Rio."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau hosts Our Ocean conference",
+          "summary": "The global oceans summit came to the Pacific for the first time."
+        },
+        {
+          "headline": "China tourism ban hits Palau",
+          "summary": "Beijing discouraged travel to Palau over its Taiwan ties, hurting tourism."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Pacific Mini Games",
+        "summary": "The nation's athletes competed in Vanuatu."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau weathers tourism downturn",
+          "summary": "The Chinese visitor ban squeezed the tourism-dependent economy."
+        },
+        {
+          "headline": "US-Palau defence ties deepen",
+          "summary": "Washington expanded its military presence discussions with Koror."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Gold Coast Commonwealth Games",
+        "summary": "The nation's athletes competed in Australia."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau holds firm on Taiwan ties",
+          "summary": "Koror resisted Beijing's pressure to switch recognition."
+        },
+        {
+          "headline": "US commits to Palau partnership",
+          "summary": "Washington pledged continued support under the Compact."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Apia Pacific Games",
+        "summary": "The nation's athletes competed in Samoa."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Surangel Whipps Jr elected president",
+          "summary": "Whipps won the November election to succeed Remengesau."
+        },
+        {
+          "headline": "Palau-Taiwan travel bubble opens",
+          "summary": "The two allies launched quarantine-free travel in late 2020."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted the international sporting calendar."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Whipps takes office",
+          "summary": "The new president pledged anti-corruption and economic reforms."
+        },
+        {
+          "headline": "Palau stays largely COVID-free",
+          "summary": "Strict borders and early vaccination kept the virus at bay."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's athletes at Tokyo Olympics",
+        "summary": "The nation's small team competed at the delayed Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau hosts Our Ocean conference again",
+          "summary": "The global summit returned to Koror."
+        },
+        {
+          "headline": "US-Palau Compact talks advance",
+          "summary": "Negotiations on renewed American assistance progressed."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Birmingham Commonwealth Games",
+        "summary": "The nation's athletes competed in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Palau signs renewed US Compact",
+          "summary": "Koror concluded a new assistance agreement with Washington."
+        },
+        {
+          "headline": "Palau maintains Taiwan recognition",
+          "summary": "The nation stayed among Taipei's few Pacific allies."
+        }
+      ],
+      "sport": {
+        "headline": "Palau at Honiara Pacific Games",
+        "summary": "The nation's athletes competed in Solomon Islands."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Whipps re-elected president",
+          "summary": "The president won a second term in the November election."
+        },
+        {
+          "headline": "US Congress approves Compact funding",
+          "summary": "Washington passed the funding package in March."
+        }
+      ],
+      "sport": {
+        "headline": "Palau's athletes at Paris Olympics",
+        "summary": "The nation's small team competed in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18000,
+      "fx_lcu_per_usd_annual_avg": 1.0,
+      "geopolitical_news": [
+        {
+          "headline": "Whipps government pursues reforms",
+          "summary": "The administration pushed tourism recovery and governance reforms."
+        },
+        {
+          "headline": "Palau navigates US-China rivalry",
+          "summary": "Koror balanced American security ties with regional diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Palauan athletes target regional medals",
+        "summary": "The nation's teams prepared for upcoming Pacific competitions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "country": "Colombia",
+  "iso3": "COL",
+  "currency": "COP",
+  "currency_name": "Colombian Peso",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 42170000,
+      "fx_lcu_per_usd_annual_avg": 2358.5946,
+      "geopolitical_news": [
+        {
+          "headline": "Uribe re-elected president",
+          "summary": "Álvaro Uribe wins May's vote in the first round on his hardline security record."
+        },
+        {
+          "headline": "'Parapolitics' scandal erupts",
+          "summary": "Revelations of politicians' ties to paramilitaries trigger arrests of congressmen."
+        }
+      ],
+      "sport": {
+        "headline": "Colombia misses the World Cup",
+        "summary": "A sixth-place finish in qualifying keeps Colombia out of Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 42659000,
+      "fx_lcu_per_usd_annual_avg": 2077.811,
+      "geopolitical_news": [
+        {
+          "headline": "Hostage diplomacy dominates agenda",
+          "summary": "Chávez mediates with the FARC over captives including Íngrid Betancourt; talks collapse in November."
+        },
+        {
+          "headline": "Paramilitary demobilization probed",
+          "summary": "Justice and Peace tribunals expose atrocities as demobilized fighters confess."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Colombia fails to advance in Venezuela, losing to Paraguay and the United States."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 43134000,
+      "fx_lcu_per_usd_annual_avg": 1965.1375,
+      "geopolitical_news": [
+        {
+          "headline": "Operation Jaque frees Betancourt",
+          "summary": "A daring July military ruse rescues 15 hostages, including the Franco-Colombian politician."
+        },
+        {
+          "headline": "Reyes raid sparks regional crisis",
+          "summary": "Colombia kills FARC leader Raúl Reyes in Ecuador in March, rupturing ties with Quito and Caracas."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying struggles",
+        "summary": "Colombia sits mid-table in the CONMEBOL race for South Africa 2010."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 43609000,
+      "fx_lcu_per_usd_annual_avg": 2157.5983,
+      "geopolitical_news": [
+        {
+          "headline": "US bases deal angers neighbors",
+          "summary": "A military cooperation pact with Washington draws fury from Venezuela and Ecuador."
+        },
+        {
+          "headline": "Uribe re-election bid blocked",
+          "summary": "The constitutional court rules out a third term in February 2010, ending his hopes."
+        }
+      ],
+      "sport": {
+        "headline": "Colombia misses South Africa 2010",
+        "summary": "A seventh-place qualifying finish extends the World Cup absence to 12 years."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 44086000,
+      "fx_lcu_per_usd_annual_avg": 1898.9975,
+      "geopolitical_news": [
+        {
+          "headline": "Santos elected president",
+          "summary": "Juan Manuel Santos wins June's runoff as Uribe's anointed successor."
+        },
+        {
+          "headline": "Ties with Ecuador restored",
+          "summary": "Santos and Correa mend relations ruptured by the 2008 Reyes raid."
+        }
+      ],
+      "sport": {
+        "headline": "Falcao shines in Europe",
+        "summary": "The striker leads Porto to Europa League glory with a record 17 goals."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 44553000,
+      "fx_lcu_per_usd_annual_avg": 1848.0167,
+      "geopolitical_news": [
+        {
+          "headline": "Santos breaks with Uribe",
+          "summary": "The new president distances himself from his mentor over human rights and peace policy."
+        },
+        {
+          "headline": "Victims' Law approved",
+          "summary": "Landmark legislation offers reparations to millions of conflict victims."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Colombia loses to Peru in extra time in Argentina."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 45002000,
+      "fx_lcu_per_usd_annual_avg": 1798.0117,
+      "geopolitical_news": [
+        {
+          "headline": "FARC peace talks announced",
+          "summary": "Santos reveals secret negotiations; formal talks open in Oslo and Havana in October."
+        },
+        {
+          "headline": "Sea border ruling favors Nicaragua",
+          "summary": "The ICJ awards disputed Caribbean waters to Nicaragua in November."
+        }
+      ],
+      "sport": {
+        "headline": "Pékerman era begins",
+        "summary": "José Pékerman takes charge and transforms Colombia with Falcao leading the line."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 45435000,
+      "fx_lcu_per_usd_annual_avg": 1868.895,
+      "geopolitical_news": [
+        {
+          "headline": "Agrarian strike paralyzes countryside",
+          "summary": "Weeks of farmer protests in August force concessions from the government."
+        },
+        {
+          "headline": "Peace talks advance in Havana",
+          "summary": "Partial accords on land and political participation are announced."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification sealed",
+        "summary": "Colombia books Brazil 2014, ending a 16-year absence from the finals."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 45866000,
+      "fx_lcu_per_usd_annual_avg": 2001.105,
+      "geopolitical_news": [
+        {
+          "headline": "Santos re-elected on peace platform",
+          "summary": "He beats Óscar Zuluaga in June's runoff, framing the vote as peace versus war."
+        },
+        {
+          "headline": "FARC declares unilateral ceasefire",
+          "summary": "The rebels announce an indefinite truce in December as talks near completion."
+        }
+      ],
+      "sport": {
+        "headline": "Best World Cup run ever",
+        "summary": "Colombia reaches the quarter-finals; James Rodríguez wins the Golden Boot."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 46314000,
+      "fx_lcu_per_usd_annual_avg": 2741.7817,
+      "geopolitical_news": [
+        {
+          "headline": "De-escalation in the conflict",
+          "summary": "Both sides agree measures to wind down fighting as a final accord nears."
+        },
+        {
+          "headline": "Border crisis with Venezuela",
+          "summary": "Maduro closes the border and deports thousands of Colombians in August."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Colombia loses to Argentina on penalties in the quarter-finals of the Chile-hosted tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 46830000,
+      "fx_lcu_per_usd_annual_avg": 3055.255,
+      "geopolitical_news": [
+        {
+          "headline": "Peace accord signed",
+          "summary": "Santos and Timochenko sign the final deal in Cartagena in September."
+        },
+        {
+          "headline": "Referendum narrowly rejects accord",
+          "summary": "Voters say No by a whisker in October; Santos wins the Nobel Peace Prize days later."
+        },
+        {
+          "headline": "Revised accord ratified",
+          "summary": "Congress approves a tweaked deal in November after the referendum defeat."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América third place",
+        "summary": "Colombia beats the United States to finish third in the Centenario edition."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 47419000,
+      "fx_lcu_per_usd_annual_avg": 2951.4869,
+      "geopolitical_news": [
+        {
+          "headline": "FARC completes disarmament",
+          "summary": "The UN verifies the handover of thousands of weapons in June."
+        },
+        {
+          "headline": "ELN talks open",
+          "summary": "Negotiations with the last major guerrilla group begin in Quito."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification secured",
+        "summary": "A final-day draw away in Peru secures fourth place and books Colombia's Russia 2018 ticket."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 48258000,
+      "fx_lcu_per_usd_annual_avg": 2955.704,
+      "geopolitical_news": [
+        {
+          "headline": "Duque elected president",
+          "summary": "Iván Duque wins June's runoff, vowing to revise the peace accord."
+        },
+        {
+          "headline": "FARC party's poor electoral debut",
+          "summary": "The ex-rebels' new party wins few votes in March legislative elections."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last-16 exit",
+        "summary": "Colombia loses to England on penalties in Moscow after a late Mina equalizer."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 49396000,
+      "fx_lcu_per_usd_annual_avg": 3281.6222,
+      "geopolitical_news": [
+        {
+          "headline": "National strike grips Colombia",
+          "summary": "Mass protests erupt in November over economic reforms and police violence."
+        },
+        {
+          "headline": "ELN car bombing in Bogotá",
+          "summary": "A January attack on a police academy kills over 20 cadets, ending peace talks."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Colombia loses to Chile on penalties after a perfect group stage."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 50408000,
+      "fx_lcu_per_usd_annual_avg": 3693.2758,
+      "geopolitical_news": [
+        {
+          "headline": "Pandemic lockdowns imposed",
+          "summary": "A months-long quarantine hammers the economy and informal workers."
+        },
+        {
+          "headline": "Social leader killings continue",
+          "summary": "Dozens of activists are murdered despite the peace accord's protections."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by pandemic",
+        "summary": "Qualifiers and leagues stop; Colombia sacks Queiroz after heavy defeats resume play."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 51117000,
+      "fx_lcu_per_usd_annual_avg": 3744.2442,
+      "geopolitical_news": [
+        {
+          "headline": "Tax-reform protests explode",
+          "summary": "A proposed tax hike in April triggers weeks of deadly unrest, centered in Cali."
+        },
+        {
+          "headline": "Reform withdrawn, minister resigns",
+          "summary": "The government retreats in May after dozens die in clashes."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América third place",
+        "summary": "Colombia beats Peru to finish third; Díaz emerges as a star."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 51683000,
+      "fx_lcu_per_usd_annual_avg": 4256.1942,
+      "geopolitical_news": [
+        {
+          "headline": "Petro elected president",
+          "summary": "Gustavo Petro wins June's runoff, Colombia's first leftist president."
+        },
+        {
+          "headline": "'Total peace' policy launched",
+          "summary": "The new government opens talks with armed groups across the country."
+        }
+      ],
+      "sport": {
+        "headline": "Colombia misses Qatar World Cup",
+        "summary": "A sixth-place qualifying finish ends the streak of recent tournaments."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 52216000,
+      "fx_lcu_per_usd_annual_avg": 4325.955,
+      "geopolitical_news": [
+        {
+          "headline": "Reforms stall in Congress",
+          "summary": "Petro's health and labor reforms face stiff legislative resistance."
+        },
+        {
+          "headline": "Ceasefires with armed groups",
+          "summary": "Fragile truces with the ELN and dissidents are announced and repeatedly tested."
+        }
+      ],
+      "sport": {
+        "headline": "Strong start to 2026 qualifying",
+        "summary": "Under Lorenzo, Colombia goes unbeaten through the year's qualifiers."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 52696000,
+      "fx_lcu_per_usd_annual_avg": 4074.4342,
+      "geopolitical_news": [
+        {
+          "headline": "Cali hosts COP16 biodiversity summit",
+          "summary": "The October UN biodiversity conference in Cali spotlights Colombia's global environmental leadership."
+        },
+        {
+          "headline": "Peace talks falter",
+          "summary": "Negotiations with the ELN and dissidents stall amid continued violence."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América final defeat",
+        "summary": "Colombia loses to Argentina in extra time in Miami after a record unbeaten run."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 53048000,
+      "fx_lcu_per_usd_annual_avg": 4053.1358,
+      "geopolitical_news": [
+        {
+          "headline": "Catatumbo offensive displaces thousands",
+          "summary": "ELN attacks in January force a state of emergency on the Venezuelan border."
+        },
+        {
+          "headline": "US relations strained",
+          "summary": "Deportation flights and tariff threats test ties with Washington."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualification secured",
+        "summary": "Colombia books its ticket with games to spare, returning to the finals."
+      }
+    }
+  ]
+}

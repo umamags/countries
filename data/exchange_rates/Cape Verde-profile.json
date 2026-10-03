@@ -1,0 +1,396 @@
+{
+  "country": "Cape Verde",
+  "iso3": "CPV",
+  "currency": "CVE",
+  "currency_name": "Cape Verdean Escudo",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 457000,
+      "fx_lcu_per_usd_annual_avg": 87.9261,
+      "geopolitical_news": [
+        {
+          "headline": "Pires re-elected president",
+          "summary": "Pedro Pires wins February's runoff, continuing stable democratic rule."
+        },
+        {
+          "headline": "Cape Verde's economy grows",
+          "summary": "Tourism and remittances drive steady growth in the island nation."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde fall short in World Cup qualifying",
+        "summary": "The Blue Sharks miss out on Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 463000,
+      "fx_lcu_per_usd_annual_avg": 80.615,
+      "geopolitical_news": [
+        {
+          "headline": "Cape Verde graduates from least-developed status",
+          "summary": "The UN moves the country up in December, only the second such graduation ever."
+        },
+        {
+          "headline": "Drug trafficking concerns grow",
+          "summary": "The islands become a transit point for cocaine heading to Europe."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2008 AFCON",
+        "summary": "The Blue Sharks fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 468000,
+      "fx_lcu_per_usd_annual_avg": 75.336,
+      "geopolitical_news": [
+        {
+          "headline": "Global crisis hits tourism",
+          "summary": "The financial meltdown slows visitor arrivals, a key economic pillar."
+        },
+        {
+          "headline": "Cape Verde deepens EU ties",
+          "summary": "A special partnership with the European Union takes effect."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde compete at Beijing Olympics",
+        "summary": "Cape Verdean athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 473000,
+      "fx_lcu_per_usd_annual_avg": 80.0354,
+      "geopolitical_news": [
+        {
+          "headline": "Ruling party holds course",
+          "summary": "The PAICV government maintains orthodox economic policies."
+        },
+        {
+          "headline": "Cape Verde hosts Lusophone summit",
+          "summary": "Praia welcomes Portuguese-speaking leaders in July."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde chase 2010 World Cup spot",
+        "summary": "The Blue Sharks stay competitive in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 478000,
+      "fx_lcu_per_usd_annual_avg": 83.2787,
+      "geopolitical_news": [
+        {
+          "headline": "Drug seizures highlight trafficking role",
+          "summary": "Major cocaine busts underscore the islands' place on smuggling routes."
+        },
+        {
+          "headline": "Economy weathers crisis",
+          "summary": "Tourism rebounds as European visitors return."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2010 World Cup",
+        "summary": "The Blue Sharks fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 481000,
+      "fx_lcu_per_usd_annual_avg": 79.2769,
+      "geopolitical_news": [
+        {
+          "headline": "Fonseca wins presidency",
+          "summary": "Jorge Carlos Fonseca defeats the PAICV candidate in August's runoff."
+        },
+        {
+          "headline": "Opposition takes parliament",
+          "summary": "The MpD's legislative win sets up cohabitation with the PAICV government."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde reach AFCON playoff",
+        "summary": "The Blue Sharks come within one tie of a first Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 483000,
+      "fx_lcu_per_usd_annual_avg": 86.319,
+      "geopolitical_news": [
+        {
+          "headline": "Cohabitation government functions",
+          "summary": "President and prime minister from rival parties manage stable governance."
+        },
+        {
+          "headline": "Cape Verde's growth slows",
+          "summary": "Eurozone troubles dent tourism and investment."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde qualify for first AFCON",
+        "summary": "A playoff win over Cameroon takes the Blue Sharks to South Africa 2013."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 486000,
+      "fx_lcu_per_usd_annual_avg": 83.0725,
+      "geopolitical_news": [
+        {
+          "headline": "Cape Verde's democracy praised",
+          "summary": "Observers cite the islands as a West African democratic success story."
+        },
+        {
+          "headline": "Economic reforms continue",
+          "summary": "The government pushes privatization and tourism investment."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde reach AFCON quarterfinals",
+        "summary": "A debut run to the last eight in South Africa stuns the continent."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 489000,
+      "fx_lcu_per_usd_annual_avg": 83.0345,
+      "geopolitical_news": [
+        {
+          "headline": "Ebola fears hit tourism",
+          "summary": "The West African outbreak dents visitor numbers despite no local cases."
+        },
+        {
+          "headline": "EU special partnership advances",
+          "summary": "Praia deepens cooperation with Brussels on security and migration."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2014 World Cup",
+        "summary": "A points deduction for fielding an ineligible player ends the Blue Sharks' qualifying bid."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 491000,
+      "fx_lcu_per_usd_annual_avg": 99.3857,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition criticizes government",
+          "summary": "The MpD attacks PAICV economic management ahead of 2016 elections."
+        },
+        {
+          "headline": "Cape Verde's diaspora grows",
+          "summary": "Emigration to Europe and America continues to shape the economy."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde reach 2015 AFCON",
+        "summary": "The Blue Sharks qualify again but exit at the group stage in Equatorial Guinea."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 493000,
+      "fx_lcu_per_usd_annual_avg": 99.6881,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition sweeps elections",
+          "summary": "The MpD wins March's legislative vote; Ulisses Correia e Silva becomes prime minister."
+        },
+        {
+          "headline": "Fonseca re-elected president",
+          "summary": "The incumbent wins October's vote outright."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde compete at Rio Olympics",
+        "summary": "Cape Verdean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 496000,
+      "fx_lcu_per_usd_annual_avg": 97.8069,
+      "geopolitical_news": [
+        {
+          "headline": "New government pursues reforms",
+          "summary": "Privatization and tourism expansion top the MpD agenda."
+        },
+        {
+          "headline": "Cape Verde deepens Atlantic ties",
+          "summary": "Praia strengthens security cooperation against drug trafficking."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2017 AFCON",
+        "summary": "The Blue Sharks fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 498000,
+      "fx_lcu_per_usd_annual_avg": 93.4136,
+      "geopolitical_news": [
+        {
+          "headline": "Tourism boom continues",
+          "summary": "Record visitor arrivals drive the island economy."
+        },
+        {
+          "headline": "Cape Verde hosts international events",
+          "summary": "Praia's profile rises as a conference destination."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2018 World Cup",
+        "summary": "The Blue Sharks fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 500000,
+      "fx_lcu_per_usd_annual_avg": 98.4952,
+      "geopolitical_news": [
+        {
+          "headline": "Government weathers opposition pressure",
+          "summary": "The MpD maintains its reform program amid criticism."
+        },
+        {
+          "headline": "Cape Verde's growth steady",
+          "summary": "Tourism and services keep the economy expanding."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde miss 2019 AFCON",
+        "summary": "The Blue Sharks fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 502000,
+      "fx_lcu_per_usd_annual_avg": 96.7957,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 devastates tourism",
+          "summary": "The pandemic collapses visitor arrivals, the economy's lifeline."
+        },
+        {
+          "headline": "Government seeks emergency aid",
+          "summary": "Praia turns to international lenders to cushion the blow."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Cape Verde's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 504000,
+      "fx_lcu_per_usd_annual_avg": 93.2181,
+      "geopolitical_news": [
+        {
+          "headline": "Neves wins presidency",
+          "summary": "Jose Maria Neves defeats the ruling party's candidate in October's vote."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Cohabitation returns as the presidency changes hands smoothly."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde qualify for 2021 AFCON",
+        "summary": "The Blue Sharks reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 507000,
+      "fx_lcu_per_usd_annual_avg": 104.8631,
+      "geopolitical_news": [
+        {
+          "headline": "Tourism rebounds strongly",
+          "summary": "Visitor numbers recover to pre-pandemic levels."
+        },
+        {
+          "headline": "Cape Verde's democracy endures",
+          "summary": "Peaceful cohabitation continues between rival parties."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde exit AFCON in round of 16",
+        "summary": "A narrow defeat to eventual champions Senegal ends the 2021 campaign."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 509000,
+      "fx_lcu_per_usd_annual_avg": 101.8048,
+      "geopolitical_news": [
+        {
+          "headline": "Cape Verde's economy grows",
+          "summary": "Tourism and remittances drive a solid recovery."
+        },
+        {
+          "headline": "Praia hosts regional meetings",
+          "summary": "The islands remain active in West African diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde qualify for 2023 AFCON",
+        "summary": "The Blue Sharks book a place at the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 512000,
+      "fx_lcu_per_usd_annual_avg": 101.922,
+      "geopolitical_news": [
+        {
+          "headline": "Local elections test government",
+          "summary": "Municipal votes gauge the MpD's standing ahead of 2026."
+        },
+        {
+          "headline": "Cape Verde deepens EU partnership",
+          "summary": "Praia advances its special relationship with Brussels."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde reach AFCON quarterfinals",
+        "summary": "Topping their group with wins over Ghana and Mozambique, the Blue Sharks lose to South Africa on penalties."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 514000,
+      "fx_lcu_per_usd_annual_avg": 97.8632,
+      "geopolitical_news": [
+        {
+          "headline": "Cape Verde's stability praised",
+          "summary": "The islands remain one of Africa's most stable democracies."
+        },
+        {
+          "headline": "Tourism hits new records",
+          "summary": "Visitor arrivals surpass pre-pandemic peaks."
+        }
+      ],
+      "sport": {
+        "headline": "Cape Verde qualify for first World Cup",
+        "summary": "Topping a group containing Cameroon, the Blue Sharks reach the 2026 World Cup, a historic first."
+      }
+    }
+  ]
+}

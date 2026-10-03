@@ -1,0 +1,396 @@
+{
+  "country": "Austria",
+  "iso3": "AUT",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 8268000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Inconclusive election leads to coalition talks",
+          "summary": "October elections produce deadlock; SPO and OVP negotiate a grand coalition."
+        },
+        {
+          "headline": "Austria holds EU presidency",
+          "summary": "Vienna steers the EU agenda during the first half of the year."
+        }
+      ],
+      "sport": {
+        "headline": "Austria miss 2006 World Cup",
+        "summary": "Austria fail to qualify for the World Cup in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 8295000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Gusenbauer becomes chancellor",
+          "summary": "Alfred Gusenbauer leads a new SPO-OVP grand coalition."
+        },
+        {
+          "headline": "Austria backs EU reform treaty",
+          "summary": "Vienna supports the Lisbon Treaty negotiations after the constitution's failure."
+        }
+      ],
+      "sport": {
+        "headline": "Austria prepare as Euro 2008 co-hosts",
+        "summary": "Austria play friendlies ahead of co-hosting Euro 2008 with Switzerland."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 8322000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Snap election brings far-right surge",
+          "summary": "September elections see the FPO and BZO win nearly 30 percent combined."
+        },
+        {
+          "headline": "Jorg Haider dies in car crash",
+          "summary": "The controversial Carinthian governor dies in October, days after the election."
+        }
+      ],
+      "sport": {
+        "headline": "Austria exit Euro 2008 in group stage",
+        "summary": "Co-hosts Austria bow out after one draw and two defeats."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 8341000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Faymann leads renewed grand coalition",
+          "summary": "Werner Faymann becomes chancellor as SPO and OVP renew their coalition."
+        },
+        {
+          "headline": "Austria weathers financial crisis",
+          "summary": "Bank bailouts cushion Austria as the global crisis hits eastern European exposures."
+        }
+      ],
+      "sport": {
+        "headline": "Austria miss 2010 World Cup",
+        "summary": "Austria finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 8361000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Fischer re-elected president",
+          "summary": "Heinz Fischer wins a second term as president in April."
+        },
+        {
+          "headline": "Far right surges in Vienna election",
+          "summary": "The FPO makes big gains in October's Vienna state elections."
+        }
+      ],
+      "sport": {
+        "headline": "Austria begin Euro 2012 qualifying",
+        "summary": "Austria open their qualifying campaign under coach Dietmar Constantini."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 8389000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Corruption scandals hit politics",
+          "summary": "A string of corruption probes ensnares politicians and bankers."
+        },
+        {
+          "headline": "Austria backs eurozone bailouts",
+          "summary": "Vienna contributes to rescue packages amid domestic grumbling."
+        }
+      ],
+      "sport": {
+        "headline": "Austria miss Euro 2012",
+        "summary": "Austria finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 8426000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Banking secrecy under pressure",
+          "summary": "Austria agrees to loosen bank secrecy under EU and US pressure."
+        },
+        {
+          "headline": "Far right tops opinion polls",
+          "summary": "The FPO leads national polls as eurozone anger grows."
+        }
+      ],
+      "sport": {
+        "headline": "Austria begin 2014 World Cup qualifying",
+        "summary": "Austria start their campaign with new coach Marcel Koller."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 8477000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Grand coalition survives election",
+          "summary": "September elections return the SPO-OVP coalition with reduced majorities."
+        },
+        {
+          "headline": "Austria debates neutrality amid EU defence push",
+          "summary": "Vienna resists deeper EU military integration, citing neutrality."
+        }
+      ],
+      "sport": {
+        "headline": "Austria narrowly miss 2014 World Cup",
+        "summary": "Austria finish third in their group behind Germany and Sweden."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8544000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Austria condemns Russia over Crimea",
+          "summary": "Vienna backs EU sanctions after Russia's annexation of Crimea."
+        },
+        {
+          "headline": "Conchita Wurst wins Eurovision",
+          "summary": "The bearded drag queen's victory makes Austria a symbol of tolerance."
+        }
+      ],
+      "sport": {
+        "headline": "Austria make flying start to Euro qualifying",
+        "summary": "Strong early results launch Austria's Euro 2016 campaign under Marcel Koller."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 8630000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee crisis strains Austria",
+          "summary": "Tens of thousands of migrants transit Austria as Vienna reimposes border checks."
+        },
+        {
+          "headline": "Vienna hosts Iran nuclear deal talks",
+          "summary": "The landmark JCPOA agreement is concluded in Vienna in July."
+        }
+      ],
+      "sport": {
+        "headline": "Austria qualify for Euro 2016",
+        "summary": "Austria win their qualifying group to reach a first Euros on merit."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 8740000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Presidential election goes to re-run",
+          "summary": "Court annulment forces a December re-run of the Hofer-Van der Bellen race."
+        },
+        {
+          "headline": "Van der Bellen defeats far-right Hofer",
+          "summary": "The Green-backed candidate beats the FPO's Norbert Hofer in December."
+        }
+      ],
+      "sport": {
+        "headline": "Austria flop at Euro 2016",
+        "summary": "Austria finish bottom of their group with a single point."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 8815000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Kurz's OVP wins election",
+          "summary": "Sebastian Kurz leads the OVP to victory in October elections."
+        },
+        {
+          "headline": "OVP-FPO coalition formed",
+          "summary": "Kurz forms a right-wing coalition with the FPO in December."
+        }
+      ],
+      "sport": {
+        "headline": "Austria miss 2018 World Cup",
+        "summary": "Austria finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 8885000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Austria holds EU presidency",
+          "summary": "Vienna leads the EU Council in the second half of the year."
+        },
+        {
+          "headline": "Kurz shuts mosques, expels imams",
+          "summary": "The government closes seven mosques in a crackdown on political Islam."
+        }
+      ],
+      "sport": {
+        "headline": "Austria compete in Nations League B",
+        "summary": "Austria finish second in their League B group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 8859000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Ibiza scandal topples government",
+          "summary": "A sting video forces the FPO leader's resignation and collapses the coalition."
+        },
+        {
+          "headline": "Kurz wins snap election",
+          "summary": "Sebastian Kurz triumphs in September's snap elections."
+        }
+      ],
+      "sport": {
+        "headline": "Austria qualify for Euro 2020",
+        "summary": "Austria finish second in their group to reach the finals."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 8901000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Islamist gunman kills four in Vienna",
+          "summary": "A shooting rampage in central Vienna marks Austria's first major jihadist attack."
+        },
+        {
+          "headline": "Austria imposes repeated lockdowns",
+          "summary": "Strict COVID measures return as the pandemic surges in autumn."
+        }
+      ],
+      "sport": {
+        "headline": "Austria win Nations League promotion",
+        "summary": "Austria top their League B group to earn promotion to League A."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 8932000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Kurz resigns amid corruption probe",
+          "summary": "The chancellor quits in October over a corruption investigation."
+        },
+        {
+          "headline": "Nehammer takes over as chancellor",
+          "summary": "Karl Nehammer succeeds Kurz after a brief Schallenberg interlude."
+        }
+      ],
+      "sport": {
+        "headline": "Austria reach Euro 2020 last 16",
+        "summary": "Austria reach the knockout stage for the first time, losing to Italy in extra time."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 8978000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Van der Bellen re-elected president",
+          "summary": "The incumbent wins a second term in October."
+        },
+        {
+          "headline": "Austria confronts Russian gas dependence",
+          "summary": "The Ukraine war forces Vienna to face its energy reliance on Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Austria relegated from Nations League A",
+        "summary": "Austria finish bottom of their group and drop from League A."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 9105000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Austria keeps Schengen veto",
+          "summary": "Vienna continues blocking Romania and Bulgaria's Schengen entry over migration."
+        },
+        {
+          "headline": "Far-right FPO tops polls",
+          "summary": "The FPO leads national polls ahead of 2024 elections."
+        }
+      ],
+      "sport": {
+        "headline": "Austria qualify for Euro 2024",
+        "summary": "Austria finish second in their group behind Belgium."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 9159000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "FPO wins parliamentary election",
+          "summary": "The far right wins a national election for the first time in September."
+        },
+        {
+          "headline": "Coalition negotiations drag on",
+          "summary": "Months of talks follow the FPO's historic victory."
+        }
+      ],
+      "sport": {
+        "headline": "Austria impress at Euro 2024",
+        "summary": "Austria top their group then lose to Turkey in the last 16."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 9182000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Three-party coalition takes office",
+          "summary": "OVP, SPO and NEOS form a government under Chancellor Stocker."
+        },
+        {
+          "headline": "Graz school shooting shocks Austria",
+          "summary": "A gunman kills ten at a Graz school in Austria's deadliest mass shooting."
+        }
+      ],
+      "sport": {
+        "headline": "Austria push for World Cup return",
+        "summary": "Austria compete in qualifying seeking a first World Cup since 1998."
+      }
+    }
+  ]
+}

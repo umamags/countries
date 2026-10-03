@@ -1,0 +1,396 @@
+{
+  "country": "San Marino",
+  "iso3": "SMR",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 30000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition wins election",
+          "summary": "June elections bring a centre-left alliance to power."
+        },
+        {
+          "headline": "San Marino's banks prosper",
+          "summary": "Banking secrecy underpins the microstate's wealth."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin Euro 2008 qualifying",
+        "summary": "San Marino open another daunting qualifying campaign."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 30000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Tax haven pressure grows",
+          "summary": "International bodies press San Marino on banking transparency."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "The coalition governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino endure winless Euro qualifying",
+        "summary": "San Marino lose all their qualifiers."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 30000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Centre-right wins election",
+          "summary": "November elections return the right to power."
+        },
+        {
+          "headline": "Financial crisis hits San Marino",
+          "summary": "The downturn squeezes banking and tourism."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin World Cup qualifying",
+        "summary": "San Marino open their 2010 campaign."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 31000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "OECD greylists San Marino",
+          "summary": "The microstate lands on the tax haven grey list."
+        },
+        {
+          "headline": "San Marino pledges transparency",
+          "summary": "The government promises information exchange deals."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino miss 2010 World Cup",
+        "summary": "San Marino finish bottom of their group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 31000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Tax deals signed",
+          "summary": "San Marino agrees transparency accords with European states."
+        },
+        {
+          "headline": "Banking sector shrinks",
+          "summary": "Reforms reshape the financial industry."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin Euro 2012 qualifying",
+        "summary": "San Marino open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 32000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino leaves grey list",
+          "summary": "OECD compliance earns removal from the watchlist."
+        },
+        {
+          "headline": "Economy stabilises",
+          "summary": "The microstate weathers the euro crisis."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino endure heavy defeats",
+        "summary": "San Marino lose all their Euro 2012 qualifiers."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 32000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Coalition wins election",
+          "summary": "November elections keep the government in power."
+        },
+        {
+          "headline": "Tax transparency deepens",
+          "summary": "More information exchange deals are signed."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin World Cup qualifying",
+        "summary": "San Marino open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 32000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino's economy steady",
+          "summary": "Tourism and stamps sustain the microstate."
+        },
+        {
+          "headline": "EU talks considered",
+          "summary": "Closer EU ties are debated."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino's winless run continues",
+        "summary": "San Marino finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 33000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Automatic tax exchange adopted",
+          "summary": "San Marino commits to OECD transparency standards."
+        },
+        {
+          "headline": "Banking secrecy era ends",
+          "summary": "The financial sector adapts to new rules."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin Euro 2016 qualifying",
+        "summary": "San Marino open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 33000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino stable",
+          "summary": "The coalition governs without drama."
+        },
+        {
+          "headline": "Tourism recovers",
+          "summary": "Visitor numbers climb."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino endure another winless campaign",
+        "summary": "San Marino lose all their Euro 2016 qualifiers."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 33000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Election: new coalition",
+          "summary": "December elections reshape the government."
+        },
+        {
+          "headline": "San Marino's reforms continue",
+          "summary": "Transparency commitments hold."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino begin World Cup qualifying",
+        "summary": "San Marino open their 2018 campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 33000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Government settles in",
+          "summary": "The new coalition governs steadily."
+        },
+        {
+          "headline": "EU association talks",
+          "summary": "San Marino discusses closer EU ties."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino's long wait goes on",
+        "summary": "San Marino finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 33000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino's economy steady",
+          "summary": "The microstate remains stable."
+        },
+        {
+          "headline": "Banking cleanup continues",
+          "summary": "Financial reforms proceed."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino compete in Nations League D",
+        "summary": "San Marino battle in their League D group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Election: new government",
+          "summary": "December elections bring change."
+        },
+        {
+          "headline": "San Marino weathers slowdown",
+          "summary": "The economy holds up."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino miss Euro 2020",
+        "summary": "San Marino finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits San Marino",
+          "summary": "The pandemic strains the tiny republic."
+        },
+        {
+          "headline": "Italy provides vaccines",
+          "summary": "Rome supplies doses to San Marino."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino draw in Nations League",
+        "summary": "A rare draw gives San Marino a point."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino's recovery",
+          "summary": "Tourism and trade rebound."
+        },
+        {
+          "headline": "Government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino endure World Cup qualifying",
+        "summary": "San Marino finish bottom of their group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "San Marino backs Ukraine",
+          "summary": "The republic supports EU sanctions."
+        },
+        {
+          "headline": "EU association talks advance",
+          "summary": "Negotiations with Brussels progress."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino compete in Nations League D",
+        "summary": "San Marino battle in their League D group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "EU association talks conclude",
+          "summary": "San Marino concludes negotiations with Brussels."
+        },
+        {
+          "headline": "San Marino stable",
+          "summary": "The government governs steadily."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino's winless run continues",
+        "summary": "San Marino finish bottom of their Euro qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Election: new captains regent cycle",
+          "summary": "June elections reshape the government."
+        },
+        {
+          "headline": "San Marino's economy steady",
+          "summary": "The microstate prospers quietly."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino end 20-year winless run",
+        "summary": "Wins over Liechtenstein bring first victories in two decades."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 34000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "EU association referendum debated",
+          "summary": "A public vote on the EU deal is discussed."
+        },
+        {
+          "headline": "San Marino stable",
+          "summary": "The republic remains calm and prosperous."
+        }
+      ],
+      "sport": {
+        "headline": "San Marino win Nations League promotion playoff",
+        "summary": "San Marino's revival continues in League D."
+      }
+    }
+  ]
+}

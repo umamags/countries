@@ -1,0 +1,397 @@
+{
+  "country": "Slovakia",
+  "iso3": "SVK",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "currency_note": "Slovak Koruna (SKK) until Dec 2008; Euro (EUR) from Jan 2009.",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "World Bank WDI PA.NUS.FCRF (official rate, LCU per USD, annual average, accessed Oct 2026); post euro-adoption years use ECB reference rates via Frankfurter"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 5373000,
+      "fx_lcu_per_usd_annual_avg": 29.6973,
+      "geopolitical_news": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Robert Fico's Smer triumphs in June elections."
+        },
+        {
+          "headline": "Coalition with nationalists",
+          "summary": "Smer allies with controversial far-right parties."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2006 World Cup",
+        "summary": "Slovakia fail to qualify for the finals."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 5373000,
+      "fx_lcu_per_usd_annual_avg": 24.6943,
+      "geopolitical_news": [
+        {
+          "headline": "Slovakia prepares euro bid",
+          "summary": "Bratislava readies 2009 euro adoption."
+        },
+        {
+          "headline": "Fico government stable",
+          "summary": "The coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss Euro 2008",
+        "summary": "Slovakia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 5376000,
+      "fx_lcu_per_usd_annual_avg": 21.3614,
+      "geopolitical_news": [
+        {
+          "headline": "EU approves Slovakia's euro entry",
+          "summary": "Brussels clears 2009 adoption."
+        },
+        {
+          "headline": "Financial crisis hits Slovakia",
+          "summary": "The car industry slump hurts growth."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia mount World Cup qualifying bid",
+        "summary": "Slovakia challenge strongly in 2010 qualifying."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 5382000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Slovakia adopts the euro",
+          "summary": "The euro replaces the koruna in January."
+        },
+        {
+          "headline": "Gasparovic re-elected",
+          "summary": "The president wins April's vote."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for first World Cup",
+        "summary": "Slovakia top their group to reach South Africa."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 5390000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Radicova wins election",
+          "summary": "Iveta Radicova becomes Slovakia's first female PM."
+        },
+        {
+          "headline": "Centre-right coalition formed",
+          "summary": "Four parties oust Fico in June."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Italy at World Cup",
+        "summary": "Slovakia knock the holders out to reach the last 16."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 5392000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Government falls over euro bailout",
+          "summary": "An October vote topples Radicova's cabinet."
+        },
+        {
+          "headline": "Snap election called",
+          "summary": "Slovakia heads to early elections."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss Euro 2012",
+        "summary": "Slovakia finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 5404000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Smer triumphs in March elections."
+        },
+        {
+          "headline": "Single-party government",
+          "summary": "Fico governs alone."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia begin World Cup qualifying",
+        "summary": "Slovakia open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 5411000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Fico consolidates power",
+          "summary": "Smer dominates politics."
+        },
+        {
+          "headline": "Slovakia backs eurozone",
+          "summary": "Bratislava supports rescue packages."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2014 World Cup",
+        "summary": "Slovakia finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 5416000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Kiska elected president",
+          "summary": "Andrej Kiska wins March's presidential vote."
+        },
+        {
+          "headline": "Fico's power checked",
+          "summary": "The upset signals discontent."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Spain in qualifier",
+        "summary": "A 2-1 win in Zilina launches a successful Euro 2016 bid."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 5421000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee quotas opposed",
+          "summary": "Bratislava rejects EU migrant quotas."
+        },
+        {
+          "headline": "Fico's anti-migrant rhetoric",
+          "summary": "The PM takes a hard line."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2016",
+        "summary": "Slovakia finish second to reach a first Euros."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 5426000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Fico wins election, loses majority",
+          "summary": "March elections force a coalition."
+        },
+        {
+          "headline": "Slovakia holds EU presidency",
+          "summary": "Bratislava leads the Council in late 2016."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia reach Euro 2016 last 16",
+        "summary": "Germany knock Slovakia out in Lille."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 5435000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Fico government stable",
+          "summary": "The three-party coalition holds."
+        },
+        {
+          "headline": "Corruption scandals simmer",
+          "summary": "Graft allegations mount."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia miss 2018 World Cup",
+        "summary": "Slovakia finish second but rank as worst runners-up."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 5443000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Kuciak murdered",
+          "summary": "Journalist Jan Kuciak is killed in February."
+        },
+        {
+          "headline": "Fico resigns",
+          "summary": "Mass protests force the PM out in March."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia compete in Nations League B",
+        "summary": "Slovakia battle in their League B group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 5450000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Caputova elected president",
+          "summary": "Zuzana Caputova wins March's vote."
+        },
+        {
+          "headline": "Pellegrini leads government",
+          "summary": "Peter Pellegrini serves as PM."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia keep Euro 2020 playoff hopes",
+        "summary": "Nations League success offers a playoff route."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 5458000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Matovic wins election",
+          "summary": "Igor Matovic's OL'aNO triumphs in February."
+        },
+        {
+          "headline": "COVID-19 hits Slovakia",
+          "summary": "The pandemic strains the country."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2020",
+        "summary": "Playoff wins over Ireland and Northern Ireland seal it."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 5460000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Government crisis",
+          "summary": "Matovic resigns; Heger becomes PM in April."
+        },
+        {
+          "headline": "Sputnik V row",
+          "summary": "A Russian vaccine deal splits the coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia exit Euro 2020 in group stage",
+        "summary": "Slovakia bow out with one win."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 5435000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Slovakia backs Ukraine",
+          "summary": "Bratislava sends arms and hosts refugees."
+        },
+        {
+          "headline": "Government survives",
+          "summary": "Heger's cabinet holds narrowly."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia compete in Nations League C",
+        "summary": "Slovakia battle in their League C group."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 5429000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Fico wins election",
+          "summary": "Smer triumphs in September elections."
+        },
+        {
+          "headline": "Fico returns as PM",
+          "summary": "The veteran leader forms a coalition in October."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia qualify for Euro 2024",
+        "summary": "Slovakia finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 5425000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Fico shot in assassination attempt",
+          "summary": "The PM is seriously wounded in May."
+        },
+        {
+          "headline": "Pellegrini elected president",
+          "summary": "Peter Pellegrini wins April's vote."
+        }
+      ],
+      "sport": {
+        "headline": "England end Slovakia's Euro 2024 run",
+        "summary": "Slovakia lose in extra time in the last 16."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 5419000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Fico government stable",
+          "summary": "The coalition holds despite tensions."
+        },
+        {
+          "headline": "Slovakia's EU rows",
+          "summary": "Bratislava clashes with Brussels."
+        }
+      ],
+      "sport": {
+        "headline": "Slovakia stun Germany in qualifier",
+        "summary": "A 2-0 win in Bratislava shocks the four-time champions."
+      }
+    }
+  ]
+}

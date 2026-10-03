@@ -1,0 +1,396 @@
+{
+  "country": "Equatorial Guinea",
+  "iso3": "GNQ",
+  "currency": "XAF",
+  "currency_name": "Central African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 792000,
+      "fx_lcu_per_usd_annual_avg": 522.4256,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang's oil-rich rule continues",
+          "summary": "The president's 27-year grip shows no sign of loosening amid oil wealth."
+        },
+        {
+          "headline": "Corruption allegations mount",
+          "summary": "Watchdogs accuse the ruling family of looting oil revenues."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea fall short in AFCON qualifying",
+        "summary": "Nzalang Nacional miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 829000,
+      "fx_lcu_per_usd_annual_avg": 478.6337,
+      "geopolitical_news": [
+        {
+          "headline": "Oil boom transforms Malabo",
+          "summary": "Crude revenues fund a construction frenzy in the capital."
+        },
+        {
+          "headline": "Human rights criticism grows",
+          "summary": "International groups condemn torture and arbitrary detentions."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2008 AFCON",
+        "summary": "Nzalang Nacional fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 868000,
+      "fx_lcu_per_usd_annual_avg": 446.0,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang wins legislative elections",
+          "summary": "The ruling PDGE sweeps May's parliamentary vote."
+        },
+        {
+          "headline": "Mercenary plot trial",
+          "summary": "Courts revisit the 2004 coup attempt amid new allegations."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea compete at Beijing Olympics",
+        "summary": "Equatoguinean athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 909000,
+      "fx_lcu_per_usd_annual_avg": 470.2934,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang re-elected president",
+          "summary": "The incumbent wins November's vote with a huge official margin."
+        },
+        {
+          "headline": "Opposition cries foul",
+          "summary": "Rivals allege widespread fraud and intimidation."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea chase 2010 World Cup spot",
+        "summary": "Nzalang Nacional compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 951000,
+      "fx_lcu_per_usd_annual_avg": 494.7943,
+      "geopolitical_news": [
+        {
+          "headline": "AFCON 2012 hosting preparations",
+          "summary": "Malabo builds stadiums for the co-hosted tournament."
+        },
+        {
+          "headline": "Oil wealth, deep poverty",
+          "summary": "Despite per-capita riches, most citizens remain desperately poor."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2010 World Cup",
+        "summary": "Nzalang Nacional fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 994000,
+      "fx_lcu_per_usd_annual_avg": 471.2486,
+      "geopolitical_news": [
+        {
+          "headline": "Constitutional referendum passes",
+          "summary": "November's vote creates a vice presidency, widely seen as grooming Obiang's son."
+        },
+        {
+          "headline": "Teodorin faces French probe",
+          "summary": "Paris investigates the president's son over embezzled assets."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea prepare to host AFCON",
+        "summary": "Nzalang Nacional gear up for the 2012 tournament on home soil."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1039000,
+      "fx_lcu_per_usd_annual_avg": 510.5563,
+      "geopolitical_news": [
+        {
+          "headline": "Equatorial Guinea co-hosts AFCON",
+          "summary": "January's tournament showcases Malabo's new stadiums."
+        },
+        {
+          "headline": "Obiang chairs African Union",
+          "summary": "The president takes the rotating AU chairmanship."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea reach AFCON quarterfinals",
+        "summary": "The hosts thrill fans before a last-eight defeat to Ivory Coast."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1084000,
+      "fx_lcu_per_usd_annual_avg": 493.8996,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections favor PDGE",
+          "summary": "The ruling party sweeps May's parliamentary vote."
+        },
+        {
+          "headline": "Teodorin promoted",
+          "summary": "Obiang's son becomes second vice president, cementing his succession."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2013 AFCON",
+        "summary": "Nzalang Nacional fail to qualify for the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1129000,
+      "fx_lcu_per_usd_annual_avg": 493.7573,
+      "geopolitical_news": [
+        {
+          "headline": "Equatorial Guinea to host 2015 AFCON",
+          "summary": "Malabo steps in after Morocco withdraws over Ebola fears."
+        },
+        {
+          "headline": "US corruption probe advances",
+          "summary": "Washington settles with Teodorin over looted assets."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2014 World Cup",
+        "summary": "Nzalang Nacional fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1175000,
+      "fx_lcu_per_usd_annual_avg": 591.2117,
+      "geopolitical_news": [
+        {
+          "headline": "Equatorial Guinea hosts AFCON",
+          "summary": "The January-February tournament proceeds amid organizational praise."
+        },
+        {
+          "headline": "French trial of Teodorin looms",
+          "summary": "Paris prepares to try the vice president for corruption."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea reach AFCON semifinals",
+        "summary": "The hosts finish fourth, their best-ever continental result."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1221000,
+      "fx_lcu_per_usd_annual_avg": 592.6056,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang re-elected president",
+          "summary": "The incumbent wins April's vote with an overwhelming official margin."
+        },
+        {
+          "headline": "Teodorin convicted in France",
+          "summary": "A Paris court gives the vice president a suspended sentence for embezzlement."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea compete at Rio Olympics",
+        "summary": "Equatoguinean athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1268000,
+      "fx_lcu_per_usd_annual_avg": 580.6567,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections favor PDGE",
+          "summary": "The ruling party sweeps November's parliamentary vote."
+        },
+        {
+          "headline": "Coup plot allegedly foiled",
+          "summary": "Authorities claim to thwart a December mercenary invasion from Cameroon."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2017 AFCON",
+        "summary": "Nzalang Nacional fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1314000,
+      "fx_lcu_per_usd_annual_avg": 555.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Bata arms depot blasts kill dozens",
+          "summary": "March explosions devastate the economic capital, killing scores."
+        },
+        {
+          "headline": "Government blames negligence",
+          "summary": "Officials attribute the blasts to mishandled munitions."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2018 World Cup",
+        "summary": "Nzalang Nacional fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1360000,
+      "fx_lcu_per_usd_annual_avg": 585.911,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang marks 40 years in power",
+          "summary": "The world's longest-serving president celebrates four decades of rule."
+        },
+        {
+          "headline": "Economic crisis deepens",
+          "summary": "Falling oil output squeezes government finances."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea miss 2019 AFCON",
+        "summary": "Nzalang Nacional fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1406000,
+      "fx_lcu_per_usd_annual_avg": 575.586,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits oil economy",
+          "summary": "The pandemic compounds the crude price collapse."
+        },
+        {
+          "headline": "Government reshuffled",
+          "summary": "Obiang changes ministers amid the economic crunch."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Equatorial Guinea's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1452000,
+      "fx_lcu_per_usd_annual_avg": 554.5307,
+      "geopolitical_news": [
+        {
+          "headline": "Bata blasts anniversary",
+          "summary": "The country marks the deadly 2021 explosions' aftermath."
+        },
+        {
+          "headline": "Teodorin succession looms",
+          "summary": "The vice president's profile rises as Obiang ages."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea qualify for 2021 AFCON",
+        "summary": "Nzalang Nacional reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1498000,
+      "fx_lcu_per_usd_annual_avg": 623.7597,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang re-elected president",
+          "summary": "The 80-year-old wins November's vote with a vast official margin."
+        },
+        {
+          "headline": "Opposition marginalized",
+          "summary": "Rivals are barred or jailed ahead of the election."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea stun Algeria at AFCON",
+        "summary": "Nzalang Nacional end Algeria's 35-match unbeaten run at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1544000,
+      "fx_lcu_per_usd_annual_avg": 606.5698,
+      "geopolitical_news": [
+        {
+          "headline": "Oil output continues decline",
+          "summary": "Aging fields cut production, straining state revenues."
+        },
+        {
+          "headline": "Equatorial Guinea hosts summits",
+          "summary": "Malabo remains active in Central African diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea qualify for 2023 AFCON",
+        "summary": "Nzalang Nacional book a place at the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1590000,
+      "fx_lcu_per_usd_annual_avg": 606.3453,
+      "geopolitical_news": [
+        {
+          "headline": "Vice president convicted again",
+          "summary": "French courts uphold corruption rulings against Teodorin."
+        },
+        {
+          "headline": "Economic diversification pushed",
+          "summary": "Malabo seeks investment beyond oil."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea thrash Ivory Coast 4-0",
+        "summary": "A stunning group-stage rout of the hosts highlights the 2023 AFCON campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 1637000,
+      "fx_lcu_per_usd_annual_avg": 581.9285,
+      "geopolitical_news": [
+        {
+          "headline": "Obiang's health watched",
+          "summary": "The 83-year-old president's rare appearances fuel succession speculation."
+        },
+        {
+          "headline": "Equatorial Guinea seeks investment",
+          "summary": "Malabo courts partners to revive the oil sector."
+        }
+      ],
+      "sport": {
+        "headline": "Equatorial Guinea qualify for 2025 AFCON",
+        "summary": "Nzalang Nacional reach the Morocco tournament."
+      }
+    }
+  ]
+}

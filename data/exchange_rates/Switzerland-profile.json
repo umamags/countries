@@ -1,0 +1,396 @@
+{
+  "country": "Switzerland",
+  "iso3": "CHE",
+  "currency": "CHF",
+  "currency_name": "Swiss Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7459000,
+      "fx_lcu_per_usd_annual_avg": 1.2536,
+      "geopolitical_news": [
+        {
+          "headline": "Swiss economy strong",
+          "summary": "Growth continues on finance and pharma."
+        },
+        {
+          "headline": "Minaret debate begins",
+          "summary": "Anti-minaret campaigners gather signatures."
+        }
+      ],
+      "sport": {
+        "headline": "Ukraine end Swiss World Cup run",
+        "summary": "Switzerland lose a shootout without conceding a goal."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 7509000,
+      "fx_lcu_per_usd_annual_avg": 1.2001,
+      "geopolitical_news": [
+        {
+          "headline": "Federal elections: SVP wins",
+          "summary": "The right-wing party triumphs in October."
+        },
+        {
+          "headline": "Blocher ousted",
+          "summary": "Parliament removes the SVP strongman from government."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland prepare as Euro 2008 co-hosts",
+        "summary": "The Swiss play friendlies ahead of the finals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 7593000,
+      "fx_lcu_per_usd_annual_avg": 1.0833,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits UBS",
+          "summary": "The state rescues the banking giant."
+        },
+        {
+          "headline": "Banking secrecy under pressure",
+          "summary": "The US presses Switzerland on tax evasion."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland exit Euro 2008 in group stage",
+        "summary": "Co-hosts Switzerland bow out early."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 7702000,
+      "fx_lcu_per_usd_annual_avg": 1.0854,
+      "geopolitical_news": [
+        {
+          "headline": "UBS settles with US",
+          "summary": "The bank pays fines over tax evasion help."
+        },
+        {
+          "headline": "Minaret ban approved",
+          "summary": "Voters back the minaret ban in November."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland qualify for 2010 World Cup",
+        "summary": "Switzerland top their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 7786000,
+      "fx_lcu_per_usd_annual_avg": 1.0426,
+      "geopolitical_news": [
+        {
+          "headline": "Banking secrecy erodes",
+          "summary": "More tax deals are signed."
+        },
+        {
+          "headline": "Swiss franc soars",
+          "summary": "The safe-haven currency surges."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland stun Spain at World Cup",
+        "summary": "The Swiss beat the eventual champions 1-0."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7870000,
+      "fx_lcu_per_usd_annual_avg": 0.8868,
+      "geopolitical_news": [
+        {
+          "headline": "Franc cap introduced",
+          "summary": "The central bank pegs the franc to the euro."
+        },
+        {
+          "headline": "Federal elections: SVP holds",
+          "summary": "October elections keep the right first."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland miss Euro 2012",
+        "summary": "Switzerland finish third behind England and Montenegro."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7955000,
+      "fx_lcu_per_usd_annual_avg": 0.9387,
+      "geopolitical_news": [
+        {
+          "headline": "Banking secrecy under siege",
+          "summary": "US and EU pressure intensifies."
+        },
+        {
+          "headline": "Swiss economy resilient",
+          "summary": "The franc cap supports exporters."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland begin World Cup qualifying",
+        "summary": "Switzerland open their 2014 campaign."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 8039000,
+      "fx_lcu_per_usd_annual_avg": 0.9273,
+      "geopolitical_news": [
+        {
+          "headline": "Tax deals multiply",
+          "summary": "Bern signs transparency accords."
+        },
+        {
+          "headline": "1:12 pay referendum fails",
+          "summary": "Voters reject capping executive pay ratios."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland qualify for 2014 World Cup",
+        "summary": "Switzerland top their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 8140000,
+      "fx_lcu_per_usd_annual_avg": 0.9155,
+      "geopolitical_news": [
+        {
+          "headline": "Immigration referendum passes",
+          "summary": "Voters back curbs on mass immigration in February."
+        },
+        {
+          "headline": "EU ties strained",
+          "summary": "Brussels warns the vote breaches agreements."
+        }
+      ],
+      "sport": {
+        "headline": "Argentina end Swiss World Cup run",
+        "summary": "Switzerland lose in extra time in the last 16."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 8238000,
+      "fx_lcu_per_usd_annual_avg": 0.9628,
+      "geopolitical_news": [
+        {
+          "headline": "Franc shock",
+          "summary": "The central bank abandons the euro peg in January."
+        },
+        {
+          "headline": "Exports suffer",
+          "summary": "The soaring franc hits industry."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland qualify for Euro 2016",
+        "summary": "Switzerland finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 8327000,
+      "fx_lcu_per_usd_annual_avg": 0.9853,
+      "geopolitical_news": [
+        {
+          "headline": "Immigration vote implemented softly",
+          "summary": "Parliament waters down the 2014 mandate."
+        },
+        {
+          "headline": "Basic income rejected",
+          "summary": "Voters say no to unconditional payments in June."
+        }
+      ],
+      "sport": {
+        "headline": "Poland end Swiss Euro 2016 run",
+        "summary": "Switzerland lose a shootout in Saint-Etienne."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 8420000,
+      "fx_lcu_per_usd_annual_avg": 0.9847,
+      "geopolitical_news": [
+        {
+          "headline": "Corporate tax reform rejected",
+          "summary": "Voters say no in February's referendum."
+        },
+        {
+          "headline": "Swiss economy strong",
+          "summary": "Growth picks up."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland qualify for 2018 World Cup",
+        "summary": "Switzerland beat Northern Ireland in the playoffs."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 8484000,
+      "fx_lcu_per_usd_annual_avg": 0.9786,
+      "geopolitical_news": [
+        {
+          "headline": "No-Billag rejected",
+          "summary": "Voters keep the TV licence fee in March."
+        },
+        {
+          "headline": "Swiss-EU framework talks",
+          "summary": "Negotiations on an institutional deal drag on."
+        }
+      ],
+      "sport": {
+        "headline": "Sweden end Swiss World Cup run",
+        "summary": "Switzerland lose their last-16 tie in St Petersburg."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 8545000,
+      "fx_lcu_per_usd_annual_avg": 0.9937,
+      "geopolitical_news": [
+        {
+          "headline": "Federal elections: Greens surge",
+          "summary": "October elections transform parliament."
+        },
+        {
+          "headline": "Climate tops agenda",
+          "summary": "Green issues dominate."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland reach Nations League finals",
+        "summary": "The Swiss finish fourth in Portugal."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 8606000,
+      "fx_lcu_per_usd_annual_avg": 0.9384,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Switzerland",
+          "summary": "The pandemic strains cantons."
+        },
+        {
+          "headline": "Swiss economy resilient",
+          "summary": "The downturn proves milder than feared."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland compete in Nations League A",
+        "summary": "Switzerland battle in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 8670000,
+      "fx_lcu_per_usd_annual_avg": 0.9143,
+      "geopolitical_news": [
+        {
+          "headline": "Same-sex marriage approved",
+          "summary": "Voters back equality in September's referendum."
+        },
+        {
+          "headline": "EU framework talks collapse",
+          "summary": "Bern walks away from the institutional deal in May."
+        }
+      ],
+      "sport": {
+        "headline": "Spain end Swiss Euro 2020 run",
+        "summary": "Switzerland lose a quarter-final shootout after stunning France."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 8739000,
+      "fx_lcu_per_usd_annual_avg": 0.9551,
+      "geopolitical_news": [
+        {
+          "headline": "Switzerland backs Ukraine sanctions",
+          "summary": "Bern breaks neutrality to sanction Russia."
+        },
+        {
+          "headline": "Energy crunch",
+          "summary": "Switzerland plans for power shortages."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal thrash Switzerland at World Cup",
+        "summary": "Switzerland lose 6-1 in the last 16."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 8815000,
+      "fx_lcu_per_usd_annual_avg": 0.899,
+      "geopolitical_news": [
+        {
+          "headline": "Credit Suisse collapses",
+          "summary": "UBS is forced to take over its rival in March."
+        },
+        {
+          "headline": "Banking shock",
+          "summary": "The failure rattles global markets."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland qualify for Euro 2024",
+        "summary": "Switzerland finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 8962000,
+      "fx_lcu_per_usd_annual_avg": 0.8803,
+      "geopolitical_news": [
+        {
+          "headline": "Federal elections: status quo",
+          "summary": "October 2023 votes keep the balance; government stable."
+        },
+        {
+          "headline": "Bür genstock peace summit",
+          "summary": "Switzerland hosts Ukraine talks in June."
+        }
+      ],
+      "sport": {
+        "headline": "England end Swiss Euro 2024 run",
+        "summary": "Switzerland lose a quarter-final shootout in Dusseldorf."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 9026000,
+      "fx_lcu_per_usd_annual_avg": 0.831,
+      "geopolitical_news": [
+        {
+          "headline": "US tariffs hit Switzerland",
+          "summary": "Washington imposes steep duties in August."
+        },
+        {
+          "headline": "Bern negotiates",
+          "summary": "Switzerland seeks a trade deal with the US."
+        }
+      ],
+      "sport": {
+        "headline": "Switzerland chase World Cup qualification",
+        "summary": "Switzerland compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

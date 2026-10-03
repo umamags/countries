@@ -1,0 +1,396 @@
+{
+  "country": "South Sudan",
+  "iso3": "SSD",
+  "currency": "SSP",
+  "currency_name": "South Sudanese Pound",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Autonomy government consolidates",
+          "summary": "Juba builds institutions under the 2005 peace deal."
+        },
+        {
+          "headline": "Kiir's leadership",
+          "summary": "Salva Kiir steers the south toward the 2011 referendum."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan not yet independent",
+        "summary": "The region has no national team before the 2011 independence."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Juba tensions with Khartoum",
+          "summary": "Disputes over oil and borders strain the peace deal."
+        },
+        {
+          "headline": "Development challenges",
+          "summary": "The south remains desperately poor."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan not yet independent",
+        "summary": "Southern Sudanese athletes compete under Sudan's flag."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Abyei clashes",
+          "summary": "Fighting over the disputed region kills dozens."
+        },
+        {
+          "headline": "Census disputes",
+          "summary": "North-south arguments over population counts."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan not yet independent",
+        "summary": "The region fields no Olympic team at Beijing 2008."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Tribal violence kills hundreds",
+          "summary": "Cattle raids in Jonglei turn deadly."
+        },
+        {
+          "headline": "Referendum preparations",
+          "summary": "The 2011 self-determination vote looms."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan not yet independent",
+        "summary": "Football remains organized under Sudan's federation."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Kiir wins southern presidency",
+          "summary": "April's vote confirms the SPLM's dominance."
+        },
+        {
+          "headline": "Referendum registration",
+          "summary": "Southerners sign up for the January 2011 vote."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan not yet independent",
+        "summary": "The region has no separate sporting representation."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10288000,
+      "fx_lcu_per_usd_annual_avg": 2.9889,
+      "geopolitical_news": [
+        {
+          "headline": "South Sudan becomes independent",
+          "summary": "July 9 independence follows January's overwhelming referendum."
+        },
+        {
+          "headline": "World's newest nation",
+          "summary": "Juba celebrates as the UN admits its 193rd member."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan joins FIFA",
+        "summary": "The new nation's football federation seeks international recognition."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10756000,
+      "fx_lcu_per_usd_annual_avg": 2.95,
+      "geopolitical_news": [
+        {
+          "headline": "Heglig oil war with Sudan",
+          "summary": "April's border fighting shuts down oil production."
+        },
+        {
+          "headline": "Austerity imposed",
+          "summary": "The oil shutdown devastates the budget."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan compete at London Olympics",
+        "summary": "Guor Marial runs the marathon as an independent Olympian."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11166000,
+      "fx_lcu_per_usd_annual_avg": 2.95,
+      "geopolitical_news": [
+        {
+          "headline": "Civil war erupts",
+          "summary": "December's Juba clashes between Kiir and Machar loyalists ignite war."
+        },
+        {
+          "headline": "Thousands killed",
+          "summary": "Ethnic massacres spread across the country."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan's football begins",
+        "summary": "The Bright Stars play their first international matches."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 11235000,
+      "fx_lcu_per_usd_annual_avg": 2.95,
+      "geopolitical_news": [
+        {
+          "headline": "Peace talks stall",
+          "summary": "IGAD mediation fails to stop the fighting."
+        },
+        {
+          "headline": "Famine looms",
+          "summary": "War displaces over a million people."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2014 World Cup",
+        "summary": "The Bright Stars sit out Brazil 2014 qualifying."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11108000,
+      "fx_lcu_per_usd_annual_avg": 3.6042,
+      "geopolitical_news": [
+        {
+          "headline": "Peace deal signed",
+          "summary": "August's ARCSS aims to end the civil war."
+        },
+        {
+          "headline": "Deal quickly violated",
+          "summary": "Fighting continues despite the accord."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2015 AFCON",
+        "summary": "The Bright Stars fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 10830000,
+      "fx_lcu_per_usd_annual_avg": 46.7292,
+      "geopolitical_news": [
+        {
+          "headline": "Juba fighting resumes",
+          "summary": "July's clashes collapse the peace deal; Machar flees."
+        },
+        {
+          "headline": "UN warns of genocide",
+          "summary": "Atrocities mount as the war spreads."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan compete at Rio Olympics",
+        "summary": "The young nation's athletes debut at the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10259000,
+      "fx_lcu_per_usd_annual_avg": 113.6475,
+      "geopolitical_news": [
+        {
+          "headline": "Famine declared",
+          "summary": "February's declaration covers parts of Unity State."
+        },
+        {
+          "headline": "War grinds on",
+          "summary": "The conflict displaces millions."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2017 AFCON",
+        "summary": "The Bright Stars fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10123000,
+      "fx_lcu_per_usd_annual_avg": 141.3858,
+      "geopolitical_news": [
+        {
+          "headline": "Revitalized peace deal signed",
+          "summary": "September's agreement restores Machar as vice president."
+        },
+        {
+          "headline": "Implementation lags",
+          "summary": "Key provisions go unfulfilled."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2018 World Cup",
+        "summary": "The Bright Stars fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10423000,
+      "fx_lcu_per_usd_annual_avg": 157.9992,
+      "geopolitical_news": [
+        {
+          "headline": "Unity government delayed",
+          "summary": "The transitional administration's formation slips."
+        },
+        {
+          "headline": "Pope kisses leaders' feet",
+          "summary": "Francis's dramatic plea for peace makes headlines."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2019 AFCON",
+        "summary": "The Bright Stars fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10698000,
+      "fx_lcu_per_usd_annual_avg": 165.9073,
+      "geopolitical_news": [
+        {
+          "headline": "Unity government formed",
+          "summary": "February's deal finally puts Kiir and Machar together."
+        },
+        {
+          "headline": "COVID-19 hits",
+          "summary": "The pandemic strains the fragile state."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "South Sudan's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 10866000,
+      "fx_lcu_per_usd_annual_avg": 306.3546,
+      "geopolitical_news": [
+        {
+          "headline": "Decade of independence",
+          "summary": "July's anniversary is muted amid ongoing violence."
+        },
+        {
+          "headline": "Subnational violence",
+          "summary": "Communal clashes kill hundreds."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2021 AFCON",
+        "summary": "The Bright Stars fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 11021000,
+      "fx_lcu_per_usd_annual_avg": 534.5112,
+      "geopolitical_news": [
+        {
+          "headline": "Transition extended",
+          "summary": "Elections are pushed to 2024."
+        },
+        {
+          "headline": "Violence persists",
+          "summary": "Armed clashes continue despite the deal."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2022 World Cup",
+        "summary": "The Bright Stars fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 11483000,
+      "fx_lcu_per_usd_annual_avg": 930.3314,
+      "geopolitical_news": [
+        {
+          "headline": "Elections delayed again",
+          "summary": "The vote is pushed to 2026."
+        },
+        {
+          "headline": "Sudan war spillover",
+          "summary": "Refugees stream across the northern border."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan qualify for Olympic basketball",
+        "summary": "The Bright Stars reach Paris 2024 via the FIBA World Cup."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 11943000,
+      "fx_lcu_per_usd_annual_avg": 2163.1039,
+      "geopolitical_news": [
+        {
+          "headline": "Oil pipeline shutdown",
+          "summary": "Sudan's war halts South Sudan's crude exports."
+        },
+        {
+          "headline": "Economic crisis",
+          "summary": "The pipeline closure devastates revenues."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan debut at Olympic basketball",
+        "summary": "The Bright Stars stun Puerto Rico at Paris 2024."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 12189000,
+      "fx_lcu_per_usd_annual_avg": null,
+      "geopolitical_news": [
+        {
+          "headline": "Machar under house arrest",
+          "summary": "March's detention of the vice president sparks war fears."
+        },
+        {
+          "headline": "Peace deal on brink",
+          "summary": "The 2018 agreement nears collapse."
+        }
+      ],
+      "sport": {
+        "headline": "South Sudan miss 2025 AFCON",
+        "summary": "The Bright Stars fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

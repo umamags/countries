@@ -1,0 +1,396 @@
+{
+  "country": "Monaco",
+  "iso3": "MCO",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "No data available from IMF or World Bank",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Albert II consolidates reign",
+          "summary": "The prince settles into his role after 2005's succession."
+        },
+        {
+          "headline": "Monaco's finance sector thrives",
+          "summary": "Banking and tourism drive the microstate's wealth."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco compete in Ligue 1",
+        "summary": "The principality's club play in France's top flight."
+      }
+    },
+    {
+      "year": 2007,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Tax haven pressure grows",
+          "summary": "International bodies press Monaco on transparency."
+        },
+        {
+          "headline": "Prince Albert's diplomacy",
+          "summary": "The prince champions environmental causes."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco mid-table in Ligue 1",
+        "summary": "The club finish a quiet season in France."
+      }
+    },
+    {
+      "year": 2008,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits Monaco",
+          "summary": "The downturn squeezes banking and property."
+        },
+        {
+          "headline": "Monaco signs tax deals",
+          "summary": "The principality agrees information exchange accords."
+        }
+      ],
+      "sport": {
+        "headline": "Monaco at the Beijing Olympics",
+        "summary": "Monaco's small delegation competes in China."
+      }
+    },
+    {
+      "year": 2009,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco weathers recession",
+          "summary": "The economy proves resilient."
+        },
+        {
+          "headline": "National Council elections",
+          "summary": "February elections return a pro-government majority."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco reach cup final",
+        "summary": "The club contest domestic cup competitions in France."
+      }
+    },
+    {
+      "year": 2010,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's economy recovers",
+          "summary": "Finance and tourism rebound."
+        },
+        {
+          "headline": "Tax transparency advances",
+          "summary": "More information exchange deals are signed."
+        }
+      ],
+      "sport": {
+        "headline": "Monaco at the Winter Olympics",
+        "summary": "Monaco's athletes compete in Vancouver."
+      }
+    },
+    {
+      "year": 2011,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Prince Albert marries",
+          "summary": "The prince weds Charlene Wittstock in July."
+        },
+        {
+          "headline": "Tax haven list exit",
+          "summary": "Monaco leaves the OECD's grey list."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco relegated",
+        "summary": "The club drop to France's second tier in May."
+      }
+    },
+    {
+      "year": 2012,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Rybolovlev buys AS Monaco",
+          "summary": "The Russian billionaire takes over the club."
+        },
+        {
+          "headline": "Monaco at the London Olympics",
+          "summary": "The principality's athletes compete in London."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco chase promotion",
+        "summary": "Big investment targets an instant Ligue 1 return."
+      }
+    },
+    {
+      "year": 2013,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "National Council elections",
+          "summary": "February elections reshape the parliament."
+        },
+        {
+          "headline": "Monaco's spending spree",
+          "summary": "The principality splashes on luxury development."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco promoted in style",
+        "summary": "The club storm back to Ligue 1 after lavish spending."
+      }
+    },
+    {
+      "year": 2014,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Royal twins born",
+          "summary": "Prince Jacques and Princess Gabriella are born in December."
+        },
+        {
+          "headline": "Monaco's economy booms",
+          "summary": "Property and finance drive growth."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco impress in Europe",
+        "summary": "The club mount a strong Champions League campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's transparency praised",
+          "summary": "International bodies note reform progress."
+        },
+        {
+          "headline": "Prince Albert's climate role",
+          "summary": "The prince is active ahead of the Paris COP21."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco reach Champions League quarters",
+        "summary": "Juventus end a memorable European run."
+      }
+    },
+    {
+      "year": 2016,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco stable and wealthy",
+          "summary": "The principality remains among the world's richest."
+        },
+        {
+          "headline": "EU talks continue",
+          "summary": "Monaco negotiates closer ties with Brussels."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco challenge for Ligue 1",
+        "summary": "A thrilling young side pushes PSG all season."
+      }
+    },
+    {
+      "year": 2017,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's property boom",
+          "summary": "Luxury development transforms the coastline."
+        },
+        {
+          "headline": "Moneyval review",
+          "summary": "Anti-money laundering assessors scrutinise Monaco."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco win Ligue 1",
+        "summary": "The club end PSG's dominance and reach the Champions League semis."
+      }
+    },
+    {
+      "year": 2018,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "National Council elections",
+          "summary": "February elections return the status quo."
+        },
+        {
+          "headline": "Monaco at the Winter Olympics",
+          "summary": "The principality competes in Pyeongchang."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco struggle",
+        "summary": "The champions slump after selling their stars."
+      }
+    },
+    {
+      "year": 2019,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's economy steady",
+          "summary": "Finance and tourism hold up."
+        },
+        {
+          "headline": "Prince Albert active diplomatically",
+          "summary": "The prince promotes ocean conservation."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco battle relegation",
+        "summary": "The club narrowly avoid the drop in France."
+      }
+    },
+    {
+      "year": 2020,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 shuts the casino",
+          "summary": "The pandemic closes Monaco's tourism economy."
+        },
+        {
+          "headline": "Grand Prix cancelled",
+          "summary": "The 2020 Monaco Grand Prix is called off."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco rebuild",
+        "summary": "The club stabilise mid-table in Ligue 1."
+      }
+    },
+    {
+      "year": 2021,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's recovery",
+          "summary": "Tourism and finance rebound."
+        },
+        {
+          "headline": "Prince Albert's health",
+          "summary": "The prince recovers from COVID-19."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco finish third",
+        "summary": "The club qualify for the Champions League."
+      }
+    },
+    {
+      "year": 2022,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco backs Ukraine",
+          "summary": "The principality supports sanctions."
+        },
+        {
+          "headline": "Russian assets frozen",
+          "summary": "Oligarch-linked funds are seized."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco compete in Europe",
+        "summary": "The club play in continental competition."
+      }
+    },
+    {
+      "year": 2023,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "National Council elections",
+          "summary": "February elections keep the establishment in power."
+        },
+        {
+          "headline": "Monaco's tax status debated",
+          "summary": "EU scrutiny of the principality continues."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco chase Europe",
+        "summary": "The club push for European qualification in Ligue 1."
+      }
+    },
+    {
+      "year": 2024,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco at the Paris Olympics",
+          "summary": "The principality's athletes compete next door."
+        },
+        {
+          "headline": "Monaco's boom continues",
+          "summary": "Luxury property reaches new heights."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco return to Champions League",
+        "summary": "The club qualify for Europe's top competition."
+      }
+    },
+    {
+      "year": 2025,
+      "population": null,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Monaco's economy strong",
+          "summary": "The principality remains ultra-wealthy."
+        },
+        {
+          "headline": "EU relations steady",
+          "summary": "Talks with Brussels continue."
+        }
+      ],
+      "sport": {
+        "headline": "AS Monaco compete in Ligue 1",
+        "summary": "The club battle near the top of French football."
+      }
+    }
+  ]
+}

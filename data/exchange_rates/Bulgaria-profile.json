@@ -1,0 +1,396 @@
+{
+  "country": "Bulgaria",
+  "iso3": "BGR",
+  "currency": "BGN",
+  "currency_name": "Bulgarian Lev",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 7679000,
+      "fx_lcu_per_usd_annual_avg": 1.5591,
+      "geopolitical_news": [
+        {
+          "headline": "Bulgaria set to join the EU",
+          "summary": "Final preparations are made for January 2007 EU accession."
+        },
+        {
+          "headline": "EU warns Sofia on corruption",
+          "summary": "Brussels threatens safeguards over corruption and organised crime."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss 2006 World Cup",
+        "summary": "Bulgaria fail to qualify for the finals in Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 7640000,
+      "fx_lcu_per_usd_annual_avg": 1.4292,
+      "geopolitical_news": [
+        {
+          "headline": "Bulgaria joins the European Union",
+          "summary": "Bulgaria enters the EU on January 1 alongside Romania."
+        },
+        {
+          "headline": "EU imposes corruption monitoring",
+          "summary": "Brussels puts Bulgaria under a special cooperation and verification mechanism."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss Euro 2008",
+        "summary": "Bulgaria finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 7607000,
+      "fx_lcu_per_usd_annual_avg": 1.3368,
+      "geopolitical_news": [
+        {
+          "headline": "EU freezes funds over corruption",
+          "summary": "Brussels suspends millions in aid over graft."
+        },
+        {
+          "headline": "Mafia killings continue",
+          "summary": "Contract killings highlight organised crime's grip on the country."
+        }
+      ],
+      "sport": {
+        "headline": "Berbatov leads World Cup qualifying bid",
+        "summary": "Bulgaria mount their 2010 qualifying campaign around their star striker."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 7564000,
+      "fx_lcu_per_usd_annual_avg": 1.4061,
+      "geopolitical_news": [
+        {
+          "headline": "GERB wins parliamentary election",
+          "summary": "Boyko Borisov's new party triumphs in July elections."
+        },
+        {
+          "headline": "Borisov vows to fight corruption",
+          "summary": "The former Sofia mayor becomes PM promising a graft crackdown."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss 2010 World Cup",
+        "summary": "Bulgaria finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 7505000,
+      "fx_lcu_per_usd_annual_avg": 1.4783,
+      "geopolitical_news": [
+        {
+          "headline": "Schengen bid faces block",
+          "summary": "EU states resist Bulgaria's entry to the passport-free zone."
+        },
+        {
+          "headline": "Organised crime crackdown launched",
+          "summary": "Police launch high-profile anti-mafia operations."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria's Euro hopes fade",
+        "summary": "Bulgaria finish fifth in their qualifying group."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 7327000,
+      "fx_lcu_per_usd_annual_avg": 1.4066,
+      "geopolitical_news": [
+        {
+          "headline": "Plevneliev wins presidency",
+          "summary": "GERB's Rosen Plevneliev wins October's presidential election."
+        },
+        {
+          "headline": "Anti-Roma riots shake Bulgaria",
+          "summary": "September protests against the Roma minority turn violent."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss Euro 2012",
+        "summary": "Bulgaria finish fifth in their group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 7285000,
+      "fx_lcu_per_usd_annual_avg": 1.5233,
+      "geopolitical_news": [
+        {
+          "headline": "Bus bombing kills Israeli tourists",
+          "summary": "A suicide blast at Burgas airport kills five Israelis and a Bulgarian."
+        },
+        {
+          "headline": "Bulgaria blames Hezbollah",
+          "summary": "Sofia accuses Hezbollah of carrying out the Burgas attack."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria mount World Cup qualifying bid",
+        "summary": "Bulgaria compete in 2014 World Cup qualifying."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 7246000,
+      "fx_lcu_per_usd_annual_avg": 1.4732,
+      "geopolitical_news": [
+        {
+          "headline": "Borisov resigns amid protests",
+          "summary": "Mass demonstrations over energy prices force the PM out in February."
+        },
+        {
+          "headline": "Snap election: GERB wins but can't govern",
+          "summary": "May elections produce deadlock and a fragile technocrat cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria narrowly miss 2014 World Cup",
+        "summary": "Bulgaria finish fourth in their group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 7202000,
+      "fx_lcu_per_usd_annual_avg": 1.4746,
+      "geopolitical_news": [
+        {
+          "headline": "Major bank collapses",
+          "summary": "The failure of Corporate Commercial Bank triggers a banking crisis."
+        },
+        {
+          "headline": "Snap election returns Borisov",
+          "summary": "GERB wins October elections and Borisov returns as PM."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria struggle in Euro qualifying",
+        "summary": "Bulgaria finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 7154000,
+      "fx_lcu_per_usd_annual_avg": 1.7639,
+      "geopolitical_news": [
+        {
+          "headline": "Bulgaria builds Turkey border fence",
+          "summary": "Sofia extends a razor-wire fence to stem migrant crossings."
+        },
+        {
+          "headline": "Bulgaria supports EU Russia sanctions",
+          "summary": "Sofia backs sanctions despite energy dependence on Moscow."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss Euro 2016",
+        "summary": "Bulgaria finish fourth in their group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 7102000,
+      "fx_lcu_per_usd_annual_avg": 1.7678,
+      "geopolitical_news": [
+        {
+          "headline": "Radev wins presidency",
+          "summary": "Pro-Russian Rumen Radev wins November's presidential election."
+        },
+        {
+          "headline": "Borisov resigns after presidential defeat",
+          "summary": "The PM quits after his candidate loses the presidency."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria compete in World Cup qualifying",
+        "summary": "Bulgaria sit mid-table in their 2018 qualifying group."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 7050000,
+      "fx_lcu_per_usd_annual_avg": 1.7349,
+      "geopolitical_news": [
+        {
+          "headline": "Borisov returns as prime minister",
+          "summary": "GERB wins March elections and Borisov forms his third government."
+        },
+        {
+          "headline": "Nationalists enter government",
+          "summary": "The far-right United Patriots join the ruling coalition."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria beat Netherlands in qualifier",
+        "summary": "A 2-0 win over the Netherlands highlights a failed World Cup campaign."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 7000000,
+      "fx_lcu_per_usd_annual_avg": 1.6577,
+      "geopolitical_news": [
+        {
+          "headline": "Bulgaria holds EU presidency",
+          "summary": "Sofia hosts EU leaders during its first Council presidency."
+        },
+        {
+          "headline": "Journalist Marinova murdered",
+          "summary": "TV journalist Viktoria Marinova is killed in October, shocking the country."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria compete in Nations League C",
+        "summary": "Bulgaria finish second in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 6951000,
+      "fx_lcu_per_usd_annual_avg": 1.7473,
+      "geopolitical_news": [
+        {
+          "headline": "GERB holds Sofia in local elections",
+          "summary": "October local elections keep Borisov's party in control of the capital."
+        },
+        {
+          "headline": "Racism mars England qualifier",
+          "summary": "UEFA punishes Bulgaria after racist chanting halts the Euro qualifier."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss Euro 2020",
+        "summary": "Bulgaria finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 6917000,
+      "fx_lcu_per_usd_annual_avg": 1.7149,
+      "geopolitical_news": [
+        {
+          "headline": "Mass anti-corruption protests",
+          "summary": "Months of demonstrations demand Borisov's resignation."
+        },
+        {
+          "headline": "COVID-19 strains health system",
+          "summary": "The pandemic overwhelms Bulgaria's underfunded hospitals."
+        }
+      ],
+      "sport": {
+        "headline": "Hungary end Bulgaria's Euro hopes",
+        "summary": "Bulgaria lose their playoff semi-final at home."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 6839000,
+      "fx_lcu_per_usd_annual_avg": 1.6546,
+      "geopolitical_news": [
+        {
+          "headline": "Three elections, no stable government",
+          "summary": "Bulgaria holds three parliamentary elections in a single year."
+        },
+        {
+          "headline": "Petkov forms reformist government",
+          "summary": "Kiril Petkov becomes PM of a reform coalition in December."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria miss 2022 World Cup",
+        "summary": "Bulgaria finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 6448000,
+      "fx_lcu_per_usd_annual_avg": 1.8615,
+      "geopolitical_news": [
+        {
+          "headline": "Petkov government falls",
+          "summary": "A June no-confidence vote topples the reformist cabinet."
+        },
+        {
+          "headline": "Snap election: GERB wins again",
+          "summary": "October elections return Borisov's party to first place."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria relegated to Nations League C",
+        "summary": "Bulgaria drop into League C after a poor campaign."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 6445000,
+      "fx_lcu_per_usd_annual_avg": 1.8092,
+      "geopolitical_news": [
+        {
+          "headline": "Rotation government agreed",
+          "summary": "Rival parties agree an unusual rotating premiership in June."
+        },
+        {
+          "headline": "Bulgaria backs Ukraine",
+          "summary": "Sofia supplies arms to Ukraine despite pro-Russian opposition."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria endure dismal Euro qualifying",
+        "summary": "Bulgaria finish bottom of their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 6437000,
+      "fx_lcu_per_usd_annual_avg": 1.8074,
+      "geopolitical_news": [
+        {
+          "headline": "Seventh election in three years",
+          "summary": "Bulgaria holds yet another snap election in October."
+        },
+        {
+          "headline": "Bulgaria partially enters Schengen",
+          "summary": "Air and sea borders join Schengen in March."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria compete in Nations League C",
+        "summary": "Bulgaria finish second in their League C group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 6263000,
+      "fx_lcu_per_usd_annual_avg": 1.7342,
+      "geopolitical_news": [
+        {
+          "headline": "EU approves Bulgaria's euro entry",
+          "summary": "Brussels clears Bulgaria to adopt the euro."
+        },
+        {
+          "headline": "New government takes office",
+          "summary": "Rosen Zhelyazkov becomes PM of a GERB-led coalition in January."
+        }
+      ],
+      "sport": {
+        "headline": "Bulgaria struggle in World Cup qualifying",
+        "summary": "Bulgaria sit near the bottom of their qualifying group."
+      }
+    }
+  ]
+}

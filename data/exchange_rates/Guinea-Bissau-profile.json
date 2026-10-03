@@ -1,0 +1,396 @@
+{
+  "country": "Guinea-Bissau",
+  "iso3": "GNB",
+  "currency": "XOF",
+  "currency_name": "West African CFA Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1356000,
+      "fx_lcu_per_usd_annual_avg": 522.4256,
+      "geopolitical_news": [
+        {
+          "headline": "Vieira's rule fragile",
+          "summary": "The president faces a restive military and drug traffickers."
+        },
+        {
+          "headline": "Cocaine transit grows",
+          "summary": "The country becomes a narco-state hub."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau fall short in AFCON qualifying",
+        "summary": "The Djurtus miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1386000,
+      "fx_lcu_per_usd_annual_avg": 478.6337,
+      "geopolitical_news": [
+        {
+          "headline": "Drug lord influence grows",
+          "summary": "Traffickers penetrate the state and military."
+        },
+        {
+          "headline": "UN warns of narco-state",
+          "summary": "International concern mounts over cocaine flows."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2008 AFCON",
+        "summary": "The Djurtus fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1417000,
+      "fx_lcu_per_usd_annual_avg": 446.0,
+      "geopolitical_news": [
+        {
+          "headline": "Soldiers attack Vieira's home",
+          "summary": "November's assault on the presidency fails."
+        },
+        {
+          "headline": "Legislative elections held",
+          "summary": "The PAIGC wins November's parliamentary vote."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau compete at Beijing Olympics",
+        "summary": "Bissau-Guinean athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1449000,
+      "fx_lcu_per_usd_annual_avg": 470.2934,
+      "geopolitical_news": [
+        {
+          "headline": "Vieira assassinated",
+          "summary": "Soldiers kill the president in March, hours after the army chief is bombed."
+        },
+        {
+          "headline": "Army chief also killed",
+          "summary": "General Tagme Na Waie's murder triggers the revenge killing."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau chase 2010 World Cup spot",
+        "summary": "The Djurtus compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1460000,
+      "fx_lcu_per_usd_annual_avg": 494.7943,
+      "geopolitical_news": [
+        {
+          "headline": "Military unrest",
+          "summary": "April's mutiny sees soldiers detain the prime minister."
+        },
+        {
+          "headline": "Sanha's government wobbles",
+          "summary": "President Malam Bacai Sanha struggles to control the army."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2010 World Cup",
+        "summary": "The Djurtus fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1492000,
+      "fx_lcu_per_usd_annual_avg": 471.2486,
+      "geopolitical_news": [
+        {
+          "headline": "Sanha's health fails",
+          "summary": "The president seeks treatment abroad."
+        },
+        {
+          "headline": "Drug trafficking persists",
+          "summary": "Cocaine flows continue through the archipelago."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2012 AFCON",
+        "summary": "The Djurtus fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 1525000,
+      "fx_lcu_per_usd_annual_avg": 510.5563,
+      "geopolitical_news": [
+        {
+          "headline": "Military seizes power",
+          "summary": "April's coup disrupts the presidential runoff."
+        },
+        {
+          "headline": "ECOWAS imposes sanctions",
+          "summary": "Regional leaders demand a return to civilian rule."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau compete at London Olympics",
+        "summary": "Bissau-Guinean athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 1559000,
+      "fx_lcu_per_usd_annual_avg": 493.8996,
+      "geopolitical_news": [
+        {
+          "headline": "Transition government installed",
+          "summary": "A civilian administration takes office under military oversight."
+        },
+        {
+          "headline": "Drug kingpin arrested",
+          "summary": "US agents seize former navy chief Bubo Na Tchuto."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2013 AFCON",
+        "summary": "The Djurtus fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 1593000,
+      "fx_lcu_per_usd_annual_avg": 493.7573,
+      "geopolitical_news": [
+        {
+          "headline": "Vaz wins presidency",
+          "summary": "Jose Mario Vaz defeats Nuno Nabiam in May's runoff."
+        },
+        {
+          "headline": "Democracy restored",
+          "summary": "Elected government returns after the 2012 coup."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2014 World Cup",
+        "summary": "The Djurtus fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 1628000,
+      "fx_lcu_per_usd_annual_avg": 591.2117,
+      "geopolitical_news": [
+        {
+          "headline": "Political crisis erupts",
+          "summary": "Vaz sacks the prime minister, triggering institutional deadlock."
+        },
+        {
+          "headline": "ECOWAS mediates",
+          "summary": "Regional leaders broker a power-sharing deal."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2015 AFCON",
+        "summary": "The Djurtus fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 1664000,
+      "fx_lcu_per_usd_annual_avg": 592.6056,
+      "geopolitical_news": [
+        {
+          "headline": "Prime ministers rotate",
+          "summary": "Vaz cycles through premiers amid the standoff with parliament."
+        },
+        {
+          "headline": "Conakry accord signed",
+          "summary": "October's deal aims to end the impasse."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau qualify for first AFCON",
+        "summary": "The Djurtus reach Gabon 2017, a historic breakthrough."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 1700000,
+      "fx_lcu_per_usd_annual_avg": 580.6567,
+      "geopolitical_news": [
+        {
+          "headline": "Political deadlock persists",
+          "summary": "The president and parliament remain at loggerheads."
+        },
+        {
+          "headline": "ECOWAS extends mediation",
+          "summary": "Regional troops stay to guarantee stability."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau debut at AFCON",
+        "summary": "The Djurtus exit at the group stage in Gabon."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 1738000,
+      "fx_lcu_per_usd_annual_avg": 555.4465,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The PAIGC wins March's parliamentary vote."
+        },
+        {
+          "headline": "Crisis eases slightly",
+          "summary": "A new government takes office."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2018 World Cup",
+        "summary": "The Djurtus fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 1776000,
+      "fx_lcu_per_usd_annual_avg": 585.911,
+      "geopolitical_news": [
+        {
+          "headline": "Embalo wins presidency",
+          "summary": "Umaro Sissoco Embalo defeats Domingos Simoes Pereira in December's runoff."
+        },
+        {
+          "headline": "Pereira disputes result",
+          "summary": "The runner-up alleges fraud."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau reach 2019 AFCON",
+        "summary": "The Djurtus qualify for a second straight tournament in Egypt."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 1815000,
+      "fx_lcu_per_usd_annual_avg": 575.586,
+      "geopolitical_news": [
+        {
+          "headline": "Embalo inaugurated",
+          "summary": "The president takes office in February amid rival claims."
+        },
+        {
+          "headline": "COVID-19 strains country",
+          "summary": "The pandemic hits the fragile state."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Guinea-Bissau's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 1855000,
+      "fx_lcu_per_usd_annual_avg": 554.5307,
+      "geopolitical_news": [
+        {
+          "headline": "Embalo consolidates power",
+          "summary": "The president asserts control over the military."
+        },
+        {
+          "headline": "Drug trafficking continues",
+          "summary": "Cocaine seizures highlight ongoing flows."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau reach 2021 AFCON",
+        "summary": "The Djurtus qualify for a third consecutive tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 1896000,
+      "fx_lcu_per_usd_annual_avg": 623.7597,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt fails",
+          "summary": "February gunmen attack the presidential palace; Embalo survives."
+        },
+        {
+          "headline": "Parliament dissolved",
+          "summary": "The president sacks the legislature in May."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau exit AFCON at group stage",
+        "summary": "Three defeats end the 2021 campaign in Cameroon."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 1937000,
+      "fx_lcu_per_usd_annual_avg": 606.5698,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The opposition wins June's parliamentary vote."
+        },
+        {
+          "headline": "President dissolves parliament again",
+          "summary": "Embalo sacks the assembly in December after clashes."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau qualify for 2023 AFCON",
+        "summary": "The Djurtus reach a fourth straight Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 1978000,
+      "fx_lcu_per_usd_annual_avg": 606.3453,
+      "geopolitical_news": [
+        {
+          "headline": "Political tensions rise",
+          "summary": "Embalo rules by decree amid the parliamentary vacuum."
+        },
+        {
+          "headline": "Elections delayed",
+          "summary": "The presidential vote is pushed back."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau exit AFCON at group stage",
+        "summary": "Three defeats end the 2023 campaign in Ivory Coast."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2019000,
+      "fx_lcu_per_usd_annual_avg": 581.9285,
+      "geopolitical_news": [
+        {
+          "headline": "Presidential election held",
+          "summary": "November's vote tests Embalo's grip on power."
+        },
+        {
+          "headline": "Opposition alleges fraud",
+          "summary": "Rivals dispute the official results."
+        }
+      ],
+      "sport": {
+        "headline": "Guinea-Bissau miss 2025 AFCON",
+        "summary": "The Djurtus fail to qualify for the Morocco tournament."
+      }
+    }
+  ]
+}

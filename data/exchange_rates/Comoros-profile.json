@@ -1,0 +1,396 @@
+{
+  "country": "Comoros",
+  "iso3": "COM",
+  "currency": "KMF",
+  "currency_name": "Comorian Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 605000,
+      "fx_lcu_per_usd_annual_avg": 391.8192,
+      "geopolitical_news": [
+        {
+          "headline": "Sambi wins presidency",
+          "summary": "Ahmed Abdallah Sambi, an Islamic cleric, wins May's election."
+        },
+        {
+          "headline": "Anjouan tensions simmer",
+          "summary": "The separatist island's leader defies the federal government."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros fall short in AFCON qualifying",
+        "summary": "The Coelacanths miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 617000,
+      "fx_lcu_per_usd_annual_avg": 358.9753,
+      "geopolitical_news": [
+        {
+          "headline": "Anjouan holds illegal election",
+          "summary": "Mohamed Bacar's unsanctioned June vote deepens the standoff with Moroni."
+        },
+        {
+          "headline": "African Union threatens action",
+          "summary": "The AU backs military intervention to remove Bacar."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2008 AFCON",
+        "summary": "The Coelacanths fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 629000,
+      "fx_lcu_per_usd_annual_avg": 334.5,
+      "geopolitical_news": [
+        {
+          "headline": "AU troops retake Anjouan",
+          "summary": "March's invasion ousts Bacar, who flees to Mayotte; the island rejoins the union."
+        },
+        {
+          "headline": "Sambi consolidates power",
+          "summary": "The president extends federal authority over the reunited islands."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros compete at Beijing Olympics",
+        "summary": "Comorian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 642000,
+      "fx_lcu_per_usd_annual_avg": 352.7201,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum extends presidential term",
+          "summary": "May's vote lengthens terms and trims island autonomy."
+        },
+        {
+          "headline": "Yemenia plane crashes off Moroni",
+          "summary": "June's disaster kills 152; a 14-year-old girl miraculously survives."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros chase 2010 World Cup spot",
+        "summary": "The Coelacanths compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 656000,
+      "fx_lcu_per_usd_annual_avg": 371.0957,
+      "geopolitical_news": [
+        {
+          "headline": "Dhoinine wins presidency",
+          "summary": "Vice President Ikililou Dhoinine wins December's election."
+        },
+        {
+          "headline": "Peaceful transfer of power",
+          "summary": "Sambi steps aside, a democratic milestone for the coup-prone islands."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2010 World Cup",
+        "summary": "The Coelacanths fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 670000,
+      "fx_lcu_per_usd_annual_avg": 353.4365,
+      "geopolitical_news": [
+        {
+          "headline": "Dhoinine inaugurated",
+          "summary": "The new president takes office pledging unity among the islands."
+        },
+        {
+          "headline": "Comoros seeks Gulf investment",
+          "summary": "Moroni courts Arab donors for infrastructure projects."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2012 AFCON",
+        "summary": "The Coelacanths fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 685000,
+      "fx_lcu_per_usd_annual_avg": 382.9173,
+      "geopolitical_news": [
+        {
+          "headline": "Government weathers tensions",
+          "summary": "Island rivalries persist despite the 2008 reunification."
+        },
+        {
+          "headline": "Comoros deepens Arab League ties",
+          "summary": "Moroni strengthens relations with Gulf states."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros compete at London Olympics",
+        "summary": "Comorian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 699000,
+      "fx_lcu_per_usd_annual_avg": 370.4247,
+      "geopolitical_news": [
+        {
+          "headline": "Dhoinine's government stable",
+          "summary": "The presidency maintains calm among the three islands."
+        },
+        {
+          "headline": "Economic challenges persist",
+          "summary": "Aid dependence and emigration shape the island economy."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2013 AFCON",
+        "summary": "The Coelacanths fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 715000,
+      "fx_lcu_per_usd_annual_avg": 370.318,
+      "geopolitical_news": [
+        {
+          "headline": "Election preparations begin",
+          "summary": "The electoral commission gears up for the 2016 presidential vote."
+        },
+        {
+          "headline": "Comoros hosts Indian Ocean meetings",
+          "summary": "Moroni remains active in regional island diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2014 World Cup",
+        "summary": "The Coelacanths fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 730000,
+      "fx_lcu_per_usd_annual_avg": 443.4088,
+      "geopolitical_news": [
+        {
+          "headline": "Opposition criticizes government",
+          "summary": "Rivals accuse Dhoinine of mismanaging the economy."
+        },
+        {
+          "headline": "Comoros seeks investment",
+          "summary": "The government promotes tourism and fisheries to donors."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2015 AFCON",
+        "summary": "The Coelacanths fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 746000,
+      "fx_lcu_per_usd_annual_avg": 444.4542,
+      "geopolitical_news": [
+        {
+          "headline": "Azali returns to presidency",
+          "summary": "Ex-coup leader Azali Assoumani wins April's election."
+        },
+        {
+          "headline": "Rotating presidency respected",
+          "summary": "Power passes to Grande Comore under the islands' rotation system."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros compete at Rio Olympics",
+        "summary": "Comorian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 762000,
+      "fx_lcu_per_usd_annual_avg": 435.4926,
+      "geopolitical_news": [
+        {
+          "headline": "Azali consolidates power",
+          "summary": "The president moves against rivals and critics."
+        },
+        {
+          "headline": "Comoros cuts ties with Qatar",
+          "summary": "Moroni joins the Saudi-led boycott of Doha."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2017 AFCON",
+        "summary": "The Coelacanths fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 776000,
+      "fx_lcu_per_usd_annual_avg": 416.5848,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum scraps term limits",
+          "summary": "July's vote ends the rotating presidency and lets Azali seek re-election."
+        },
+        {
+          "headline": "Opposition denounces power grab",
+          "summary": "Rivals call the referendum a constitutional coup."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2018 World Cup",
+        "summary": "The Coelacanths fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 791000,
+      "fx_lcu_per_usd_annual_avg": 439.4631,
+      "geopolitical_news": [
+        {
+          "headline": "Azali re-elected amid protests",
+          "summary": "The president wins March's vote; the opposition alleges fraud and unrest follows."
+        },
+        {
+          "headline": "Crackdown on dissent",
+          "summary": "Security forces suppress post-election demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2019 AFCON",
+        "summary": "The Coelacanths narrowly fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 806000,
+      "fx_lcu_per_usd_annual_avg": 430.7209,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 reaches the islands",
+          "summary": "The pandemic strains the fragile health system."
+        },
+        {
+          "headline": "Government seeks aid",
+          "summary": "Moroni appeals for international support."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Comoros's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 822000,
+      "fx_lcu_per_usd_annual_avg": 415.9558,
+      "geopolitical_news": [
+        {
+          "headline": "Azali's grip tightens",
+          "summary": "The president jails opponents and exiles critics."
+        },
+        {
+          "headline": "Comoros hosts AU meetings",
+          "summary": "Moroni plays a modest role in continental diplomacy."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros qualify for first AFCON",
+        "summary": "The Coelacanths reach the 2021 tournament, a historic breakthrough."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 851000,
+      "fx_lcu_per_usd_annual_avg": 467.1843,
+      "geopolitical_news": [
+        {
+          "headline": "Comoros stun Ghana at AFCON",
+          "summary": "The island nation's debut tournament brings continental fame."
+        },
+        {
+          "headline": "Azali's rule faces criticism",
+          "summary": "Rights groups condemn arbitrary detentions."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros reach AFCON round of 16",
+        "summary": "A 3-2 win over Ghana takes the debutants to the knockouts in Cameroon."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 870000,
+      "fx_lcu_per_usd_annual_avg": 454.9912,
+      "geopolitical_news": [
+        {
+          "headline": "Azali chairs African Union",
+          "summary": "The Comorian president takes the rotating AU chairmanship in February."
+        },
+        {
+          "headline": "Comoros hosts AU summit",
+          "summary": "Moroni welcomes continental leaders."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros miss 2023 AFCON",
+        "summary": "The Coelacanths fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 890000,
+      "fx_lcu_per_usd_annual_avg": 454.5239,
+      "geopolitical_news": [
+        {
+          "headline": "Azali re-elected amid unrest",
+          "summary": "January's vote sparks protests in Moroni over alleged fraud."
+        },
+        {
+          "headline": "Government cracks down",
+          "summary": "Security forces suppress post-election demonstrations."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros chase 2026 World Cup spot",
+        "summary": "The Coelacanths impress in qualifying, topping their group at stages."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 910000,
+      "fx_lcu_per_usd_annual_avg": 435.3762,
+      "geopolitical_news": [
+        {
+          "headline": "Azali's rule faces quiet dissent",
+          "summary": "Critics allege the president is grooming family members for succession."
+        },
+        {
+          "headline": "Comoros seeks development aid",
+          "summary": "Moroni courts partners for infrastructure investment."
+        }
+      ],
+      "sport": {
+        "headline": "Comoros qualify for 2025 AFCON",
+        "summary": "The Coelacanths return to the Africa Cup of Nations in Morocco."
+      }
+    }
+  ]
+}

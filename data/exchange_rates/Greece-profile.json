@@ -1,0 +1,396 @@
+{
+  "country": "Greece",
+  "iso3": "GRC",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 11005000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Greece prepares EU presidency handover",
+          "summary": "Athens steadies public finances ahead of eurozone scrutiny."
+        },
+        {
+          "headline": "Karamanlis government stable",
+          "summary": "The New Democracy government governs with a slim majority."
+        }
+      ],
+      "sport": {
+        "headline": "Holders Greece miss 2006 World Cup",
+        "summary": "European champions Greece fail to qualify for Germany."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 11036000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "New Democracy wins election",
+          "summary": "Karamanlis secures a second term in September elections."
+        },
+        {
+          "headline": "Summer wildfires devastate Greece",
+          "summary": "August fires kill dozens and scorch the Peloponnese."
+        }
+      ],
+      "sport": {
+        "headline": "Greece qualify for Euro 2008",
+        "summary": "The holders top their qualifying group."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 11061000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "December riots rock Athens",
+          "summary": "A police killing sparks weeks of rioting across Greece."
+        },
+        {
+          "headline": "Financial crisis reaches Greece",
+          "summary": "The global downturn exposes Greek fiscal weaknesses."
+        }
+      ],
+      "sport": {
+        "headline": "Greece exit Euro 2008 in group stage",
+        "summary": "The holders lose all three matches."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 11095000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "PASOK wins election",
+          "summary": "George Papandreou triumphs in October elections."
+        },
+        {
+          "headline": "Deficit revelations shock Europe",
+          "summary": "The true budget deficit proves far worse than reported."
+        }
+      ],
+      "sport": {
+        "headline": "Greece reach World Cup via playoff",
+        "summary": "Greece beat Ukraine in the playoffs to reach South Africa."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 11119000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "First bailout agreed",
+          "summary": "The EU and IMF approve a rescue package in May."
+        },
+        {
+          "headline": "Austerity sparks mass protests",
+          "summary": "General strikes paralyse Athens over spending cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Greece exit World Cup in group stage",
+        "summary": "Greece bow out in South Africa."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 11123000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Papandreou resigns",
+          "summary": "The PM quits in November amid the debt crisis."
+        },
+        {
+          "headline": "Papademos leads technocrat government",
+          "summary": "A former central banker takes charge of the bailout."
+        }
+      ],
+      "sport": {
+        "headline": "Greece qualify for Euro 2012",
+        "summary": "Greece top their qualifying group."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 11086000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Two elections, Syriza rises",
+          "summary": "May and June votes bring Samaras to power; Syriza becomes main opposition."
+        },
+        {
+          "headline": "Second bailout and debt haircut",
+          "summary": "Private creditors take losses in a historic restructuring."
+        }
+      ],
+      "sport": {
+        "headline": "Greece reach Euro 2012 quarter-finals",
+        "summary": "Germany knock Greece out in Gdansk."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 11004000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "ERT broadcaster shut down",
+          "summary": "The government closes state TV in June, sparking protests."
+        },
+        {
+          "headline": "Golden Dawn crackdown",
+          "summary": "The neo-Nazi party's leaders are arrested after a murder."
+        }
+      ],
+      "sport": {
+        "headline": "Greece reach World Cup via playoff",
+        "summary": "Greece beat Romania in the playoffs."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10927000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "Greece exits recession",
+          "summary": "The economy returns to growth after six years."
+        },
+        {
+          "headline": "Syriza tops European elections",
+          "summary": "The left wins May's EU vote, signalling change."
+        }
+      ],
+      "sport": {
+        "headline": "Greece reach World Cup last 16",
+        "summary": "Costa Rica win a penalty shootout in Recife."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 10858000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "Syriza wins election",
+          "summary": "Alexis Tsipras becomes PM in January."
+        },
+        {
+          "headline": "Referendum rejects bailout terms",
+          "summary": "Voters say 'no' in July; a third bailout follows anyway."
+        }
+      ],
+      "sport": {
+        "headline": "Greece endure disastrous Euro qualifying",
+        "summary": "Greece finish bottom of their group after losing to the Faroe Islands."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 10784000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Refugee crisis strains Greece",
+          "summary": "Thousands arrive on Aegean islands; the EU-Turkey deal follows."
+        },
+        {
+          "headline": "Austerity continues under Tsipras",
+          "summary": "The leftist government implements creditor-demanded reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Greece begin 2018 World Cup qualifying",
+        "summary": "Greece open their qualifying campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 10768000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Bailout review agreed",
+          "summary": "Athens concludes a delayed review with creditors."
+        },
+        {
+          "headline": "Greece returns to bond markets",
+          "summary": "The government issues bonds for the first time since 2014."
+        }
+      ],
+      "sport": {
+        "headline": "Croatia deny Greece World Cup",
+        "summary": "Greece lose their playoff to Croatia."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 10741000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "Greece exits bailout programme",
+          "summary": "The third bailout ends in August after eight years."
+        },
+        {
+          "headline": "Prespa deal ends name dispute",
+          "summary": "Greece and North Macedonia settle the decades-long row."
+        }
+      ],
+      "sport": {
+        "headline": "Greece compete in Nations League C",
+        "summary": "Greece finish second in their League C group."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 10725000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "New Democracy wins election",
+          "summary": "Kyriakos Mitsotakis becomes PM in July."
+        },
+        {
+          "headline": "Greece's economy recovers",
+          "summary": "Growth returns and borrowing costs fall."
+        }
+      ],
+      "sport": {
+        "headline": "Greece miss Euro 2020",
+        "summary": "Greece finish third in their qualifying group."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 10719000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "Greece manages COVID first wave",
+          "summary": "Early lockdowns keep infections low."
+        },
+        {
+          "headline": "Turkey tensions flare",
+          "summary": "Turkish survey ships spark a naval standoff in the Aegean."
+        }
+      ],
+      "sport": {
+        "headline": "Greece win Nations League promotion",
+        "summary": "Greece top their League C group to climb into League B."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 10679000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Greece's vaccination drive",
+          "summary": "Tourism reopens as vaccinations progress."
+        },
+        {
+          "headline": "Wildfires ravage Evia",
+          "summary": "August fires devastate the island of Evia."
+        }
+      ],
+      "sport": {
+        "headline": "Greece miss 2022 World Cup",
+        "summary": "Greece finish third behind Spain and Sweden."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 10462000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Greece backs Ukraine",
+          "summary": "Athens sends aid and hosts refugees."
+        },
+        {
+          "headline": "Surveillance scandal erupts",
+          "summary": "Revelations of spyware use shake the government."
+        }
+      ],
+      "sport": {
+        "headline": "Greece win Nations League promotion",
+        "summary": "Greece top their League C group to reach League B."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 10414000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Mitsotakis wins two elections",
+          "summary": "New Democracy triumphs in May and June votes."
+        },
+        {
+          "headline": "Tempi train crash kills dozens",
+          "summary": "A February rail disaster kills 57 and sparks outrage."
+        }
+      ],
+      "sport": {
+        "headline": "Georgia deny Greece Euro 2024",
+        "summary": "Greece lose their playoff final on penalties."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 10376000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Same-sex marriage legalised",
+          "summary": "Greece becomes the first Orthodox country to approve it."
+        },
+        {
+          "headline": "Wildfires and floods strain Greece",
+          "summary": "Extreme weather batters the country."
+        }
+      ],
+      "sport": {
+        "headline": "Greece stun England at Wembley",
+        "summary": "A famous Nations League win highlights a strong campaign."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 10372000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Tempi protests erupt",
+          "summary": "Mass demonstrations mark two years since the rail disaster."
+        },
+        {
+          "headline": "Greece boosts defence spending",
+          "summary": "Athens raises military budgets amid regional tensions."
+        }
+      ],
+      "sport": {
+        "headline": "Greece chase World Cup qualification",
+        "summary": "Greece compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

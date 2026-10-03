@@ -1,0 +1,400 @@
+{
+  "country": "Tonga",
+  "iso3": "TON",
+  "currency": "TOP",
+  "currency_name": "Tongan Paʻanga",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": 2.0259,
+      "geopolitical_news": [
+        {
+          "headline": "Nuku'alofa riots destroy business district",
+          "summary": "November pro-democracy riots burned much of the capital's commercial centre."
+        },
+        {
+          "headline": "King Taufa'ahau Tupou IV dies",
+          "summary": "The 88-year-old monarch died in September after 41 years on the throne."
+        }
+      ],
+      "sport": {
+        "headline": "Tongan athletes at Melbourne Commonwealth Games",
+        "summary": "Tonga's small team competed in boxing and athletics in Melbourne."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": 1.9709,
+      "geopolitical_news": [
+        {
+          "headline": "Reform commission proposes democratic changes",
+          "summary": "A constitutional commission recommended sweeping democratic reforms after the riots."
+        },
+        {
+          "headline": "Riot prosecutions proceed",
+          "summary": "Hundreds faced charges over the destruction of Nuku'alofa."
+        }
+      ],
+      "sport": {
+        "headline": "Tonga's gallant Rugby World Cup campaign",
+        "summary": "Narrow defeat by England denied 'Ikale Tahi a famous quarter-final berth."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": 1.9424,
+      "geopolitical_news": [
+        {
+          "headline": "King George Tupou V crowned",
+          "summary": "The new monarch was crowned in August in traditional ceremony."
+        },
+        {
+          "headline": "Democratic reform timetable agreed",
+          "summary": "The government committed to elections with a popular majority by 2010."
+        }
+      ],
+      "sport": {
+        "headline": "Tongan athletes compete at Beijing Olympics",
+        "summary": "A small Tongan team contested athletics and boxing in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": 2.0345,
+      "geopolitical_news": [
+        {
+          "headline": "Princess Ashika ferry disaster kills 74",
+          "summary": "The inter-island ferry sank in August in Tonga's worst maritime disaster."
+        },
+        {
+          "headline": "Government acts on ferry safety",
+          "summary": "A royal commission investigated the sinking and maritime regulation."
+        }
+      ],
+      "sport": {
+        "headline": "Tongan sevens competes on world circuit",
+        "summary": "The sevens side flew the flag on the IRB world series."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": 1.906,
+      "geopolitical_news": [
+        {
+          "headline": "First democratic elections held",
+          "summary": "Commoners won a parliamentary majority for the first time in the November poll."
+        },
+        {
+          "headline": "Tonga prepares for political transition",
+          "summary": "Parties negotiated to form the first popularly mandated government."
+        }
+      ],
+      "sport": {
+        "headline": "'Ikale Tahi tours Europe",
+        "summary": "The national rugby side tested itself against northern hemisphere opposition."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": 1.729,
+      "geopolitical_news": [
+        {
+          "headline": "Lord Tu'ivakano becomes PM",
+          "summary": "A noble was chosen as prime minister by the new parliament in January."
+        },
+        {
+          "headline": "King cedes most executive powers",
+          "summary": "George Tupou V formally stepped back from day-to-day government."
+        }
+      ],
+      "sport": {
+        "headline": "Tonga stuns France at World Cup",
+        "summary": "'Ikale Tahi beat France 19-14 but still missed the quarter-finals."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 103000,
+      "fx_lcu_per_usd_annual_avg": 1.7195,
+      "geopolitical_news": [
+        {
+          "headline": "King George Tupou V dies",
+          "summary": "The reformist king died in March; his brother succeeded as Tupou VI."
+        },
+        {
+          "headline": "Tonga mourns and crowns new king",
+          "summary": "Tupou VI ascended the throne after his brother's death in Hong Kong."
+        }
+      ],
+      "sport": {
+        "headline": "Tonga beats Scotland in Aberdeen upset",
+        "summary": "'Ikale Tahi claimed a famous November victory over Scotland."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": 1.7737,
+      "geopolitical_news": [
+        {
+          "headline": "Tonga hosts Pacific energy summit",
+          "summary": "Regional leaders met in Nuku'alofa to discuss renewable energy and fuel security."
+        },
+        {
+          "headline": "Deep-sea mining licences debated",
+          "summary": "Parliament weighed exploration permits for seabed minerals in Tongan waters."
+        }
+      ],
+      "sport": {
+        "headline": "'Ikale Tahi's mixed northern tour",
+        "summary": "The national side contested autumn internationals in Europe."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 102000,
+      "fx_lcu_per_usd_annual_avg": 1.8468,
+      "geopolitical_news": [
+        {
+          "headline": "Pohiva's Democrats win election",
+          "summary": "'Akilisi Pohiva's Friendly Islands Human Rights and Democracy Movement triumphed in November."
+        },
+        {
+          "headline": "Tonga's democratic transition deepens",
+          "summary": "The pro-democracy victory marked a milestone in the kingdom's reforms."
+        }
+      ],
+      "sport": {
+        "headline": "Mate Ma'a Tonga builds league presence",
+        "summary": "The rugby league side continued its rise in international competition."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 101000,
+      "fx_lcu_per_usd_annual_avg": 2.1058,
+      "geopolitical_news": [
+        {
+          "headline": "King Tupou VI crowned",
+          "summary": "The monarch was formally crowned in July in Nuku'alofa."
+        },
+        {
+          "headline": "Pohiva becomes first commoner PM",
+          "summary": "The veteran democracy campaigner was elected prime minister by parliament."
+        }
+      ],
+      "sport": {
+        "headline": "Tonga's disappointing Rugby World Cup",
+        "summary": "'Ikale Tahi managed only one win, over Namibia, in England."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 101000,
+      "fx_lcu_per_usd_annual_avg": 2.2157,
+      "geopolitical_news": [
+        {
+          "headline": "Chinese debt burden fuels debate",
+          "summary": "Repayments on large Beijing loans dominated political discussion."
+        },
+        {
+          "headline": "Tonga ratifies Paris climate agreement",
+          "summary": "The kingdom joined the global climate accord."
+        }
+      ],
+      "sport": {
+        "headline": "Pita Taufatofua becomes Olympic sensation",
+        "summary": "The oiled flag-bearer charmed the world at the Rio opening ceremony."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 101000,
+      "fx_lcu_per_usd_annual_avg": 2.206,
+      "geopolitical_news": [
+        {
+          "headline": "King dissolves parliament; Pohiva re-elected",
+          "summary": "A snap November election returned the democracy veteran with a bigger majority."
+        },
+        {
+          "headline": "Tonga withdraws from hosting 2019 Pacific Games",
+          "summary": "The government pulled out citing costs; Samoa stepped in."
+        }
+      ],
+      "sport": {
+        "headline": "Mate Ma'a Tonga's fairy-tale league World Cup",
+        "summary": "Tonga reached the semi-finals, beating New Zealand along the way."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.2366,
+      "geopolitical_news": [
+        {
+          "headline": "Cyclone Gita devastates Tongatapu",
+          "summary": "The February Category 4 storm destroyed homes and parliament's roof."
+        },
+        {
+          "headline": "Reconstruction after Gita begins",
+          "summary": "Aid poured in as Tonga rebuilt from the worst storm in decades."
+        }
+      ],
+      "sport": {
+        "headline": "Tongans compete at Gold Coast Commonwealth Games",
+        "summary": "Tonga's athletes contested boxing, athletics and weightlifting."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.2895,
+      "geopolitical_news": [
+        {
+          "headline": "PM 'Akilisi Pohiva dies",
+          "summary": "The democracy icon and prime minister died in September aged 78."
+        },
+        {
+          "headline": "Tu'i'onetoa becomes prime minister",
+          "summary": "The former finance minister succeeded Pohiva after parliamentary vote."
+        }
+      ],
+      "sport": {
+        "headline": "Tonga stuns Australia in rugby league",
+        "summary": "Mate Ma'a Tonga beat the Kangaroos 16-12 in Auckland, a historic upset."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.2996,
+      "geopolitical_news": [
+        {
+          "headline": "Tonga stays COVID-free",
+          "summary": "Strict border closures kept the virus out of the kingdom."
+        },
+        {
+          "headline": "Cyclone Harold brushes northern islands",
+          "summary": "The April storm caused damage in the northern island groups."
+        }
+      ],
+      "sport": {
+        "headline": "Sport suspended amid pandemic",
+        "summary": "COVID shutdowns halted Tonga's international sporting fixtures."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.265,
+      "geopolitical_news": [
+        {
+          "headline": "Sovaleni becomes PM after election",
+          "summary": "Siaosi Sovaleni was elected prime minister following the November poll."
+        },
+        {
+          "headline": "Tonga navigates pandemic pressures",
+          "summary": "The kingdom weighed border reopening against health risks."
+        }
+      ],
+      "sport": {
+        "headline": "Taufatofua competes at third Olympics",
+        "summary": "Pita Taufatofua represented Tonga again at the Tokyo Games."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.3279,
+      "geopolitical_news": [
+        {
+          "headline": "Hunga Tonga eruption and tsunami",
+          "summary": "The January volcanic eruption triggered tsunami waves and blanketed Tonga in ash."
+        },
+        {
+          "headline": "Eruption severs undersea cable; aid pours in",
+          "summary": "Communications were cut for weeks as international relief arrived."
+        },
+        {
+          "headline": "Tonga begins long recovery",
+          "summary": "Rebuilding homes and infrastructure became the government's priority."
+        }
+      ],
+      "sport": {
+        "headline": "Mate Ma'a Tonga reaches league World Cup knockouts",
+        "summary": "Tonga made the quarter-finals at the tournament in England."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 100000,
+      "fx_lcu_per_usd_annual_avg": 2.3637,
+      "geopolitical_news": [
+        {
+          "headline": "Eruption recovery continues",
+          "summary": "Reconstruction of homes and schools damaged in 2022 progressed slowly."
+        },
+        {
+          "headline": "Tonga deepens Pacific diplomacy",
+          "summary": "Nuku'alofa engaged actively in regional forums amid strategic competition."
+        }
+      ],
+      "sport": {
+        "headline": "'Ikale Tahi at Rugby World Cup",
+        "summary": "Tonga competed in France, pushing tier-one sides in pool play."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 99000,
+      "fx_lcu_per_usd_annual_avg": 2.373,
+      "geopolitical_news": [
+        {
+          "headline": "Tonga hosts Pacific Islands Forum summit",
+          "summary": "Regional leaders met in Nuku'alofa in August."
+        },
+        {
+          "headline": "PM Sovaleni resigns before no-confidence vote",
+          "summary": "Siaosi Sovaleni quit in December ahead of a parliamentary challenge."
+        }
+      ],
+      "sport": {
+        "headline": "Tongan athletes at Paris Olympics",
+        "summary": "Tonga's small team competed in athletics and boxing in Paris."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 99000,
+      "fx_lcu_per_usd_annual_avg": 2.4105,
+      "geopolitical_news": [
+        {
+          "headline": "General election held amid reform debates",
+          "summary": "Tongans voted in November as nobles and commoners contested parliament's future."
+        },
+        {
+          "headline": "New government faces economic pressures",
+          "summary": "Debt, migration and climate costs topped the incoming government's agenda."
+        }
+      ],
+      "sport": {
+        "headline": "Mate Ma'a Tonga eyes league Ashes fixtures",
+        "summary": "Tonga's rugby league side remained among the world's top teams."
+      }
+    }
+  ]
+}

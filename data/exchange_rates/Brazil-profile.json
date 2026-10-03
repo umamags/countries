@@ -1,0 +1,396 @@
+{
+  "country": "Brazil",
+  "iso3": "BRA",
+  "currency": "BRL",
+  "currency_name": "Brazilian Real",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 187535000,
+      "fx_lcu_per_usd_annual_avg": 2.1771,
+      "geopolitical_news": [
+        {
+          "headline": "Lula's second term begins amid scandal fallout",
+          "summary": "Re-elected in October, Lula starts a second term shadowed by the mensalão vote-buying scandal."
+        },
+        {
+          "headline": "São Paulo gang attacks paralyze city",
+          "summary": "The PCC crime faction launches coordinated May attacks on police, killing dozens."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final loss to France",
+        "summary": "Zidane-inspired France knocks out the holders in Berlin; Ronaldo sets the all-time scoring record."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 189459000,
+      "fx_lcu_per_usd_annual_avg": 1.9478,
+      "geopolitical_news": [
+        {
+          "headline": "Brazil wins 2014 World Cup bid",
+          "summary": "FIFA awards the tournament to Brazil in October, the first in South America since 1978."
+        },
+        {
+          "headline": "Rio hosts Pan American Games",
+          "summary": "The July games serve as a test run for Brazil's Olympic ambitions."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América champions",
+        "summary": "Brazil thrashes Argentina 3-0 in the final in Venezuela despite fielding a weakened squad."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 191335000,
+      "fx_lcu_per_usd_annual_avg": 1.8351,
+      "geopolitical_news": [
+        {
+          "headline": "Pre-salt oil reserves confirmed",
+          "summary": "Huge offshore Tupi field estimates promise to make Brazil a major oil exporter."
+        },
+        {
+          "headline": "Financial crisis response",
+          "summary": "Lula's government deploys stimulus as the global meltdown reaches Brazil late in the year."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic bronze in Beijing football",
+        "summary": "The men's team settles for bronze after a semi-final defeat; the women take silver."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 193174000,
+      "fx_lcu_per_usd_annual_avg": 1.9957,
+      "geopolitical_news": [
+        {
+          "headline": "Rio wins 2016 Olympics bid",
+          "summary": "The IOC picks Rio in October, the first South American city to host the games."
+        },
+        {
+          "headline": "Brazil shines at G20 summit",
+          "summary": "Lula plays a prominent role at the London summit on the financial crisis."
+        }
+      ],
+      "sport": {
+        "headline": "Confederations Cup champions",
+        "summary": "Brazil comes from two down to beat the United States 3-2 in the Johannesburg final."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 194749000,
+      "fx_lcu_per_usd_annual_avg": 1.7594,
+      "geopolitical_news": [
+        {
+          "headline": "Dilma Rousseff elected president",
+          "summary": "Lula's chosen successor wins October's runoff, becoming Brazil's first woman president."
+        },
+        {
+          "headline": "Rio police occupy Alemão favelas",
+          "summary": "A massive November operation retakes drug-gang strongholds ahead of the World Cup."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final loss to Netherlands",
+        "summary": "Brazil blows a half-time lead in Port Elizabeth and exits South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 196159000,
+      "fx_lcu_per_usd_annual_avg": 1.674,
+      "geopolitical_news": [
+        {
+          "headline": "Dilma purges scandal-hit ministers",
+          "summary": "A series of corruption allegations force out several cabinet members in her first year."
+        },
+        {
+          "headline": "Truth commission on dictatorship created",
+          "summary": "Congress approves a commission to investigate 1964-1985 military-era crimes."
+        }
+      ],
+      "sport": {
+        "headline": "Santos wins Copa Libertadores",
+        "summary": "Neymar leads Santos to the continental title, their first since the Pelé era."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 197671000,
+      "fx_lcu_per_usd_annual_avg": 1.9542,
+      "geopolitical_news": [
+        {
+          "headline": "Mensalão trial convicts ringleaders",
+          "summary": "The Supreme Court convicts Lula-era officials in the landmark vote-buying trial."
+        },
+        {
+          "headline": "Rio+20 Earth Summit held",
+          "summary": "World leaders gather in June with modest results on sustainable development."
+        }
+      ],
+      "sport": {
+        "headline": "Olympic silver in London football",
+        "summary": "Neymar's men lose the final to Mexico at Wembley, still chasing a first gold."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 199227000,
+      "fx_lcu_per_usd_annual_avg": 2.1586,
+      "geopolitical_news": [
+        {
+          "headline": "Mass June protests shake government",
+          "summary": "Millions march over bus fares, corruption and World Cup spending during the Confederations Cup."
+        },
+        {
+          "headline": "US spying on Dilma revealed",
+          "summary": "Snowden leaks show NSA surveillance of the president; she cancels a state visit to Washington."
+        }
+      ],
+      "sport": {
+        "headline": "Confederations Cup champions",
+        "summary": "Brazil crushes Spain 3-0 in the Maracanã final, with Neymar player of the tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 200811000,
+      "fx_lcu_per_usd_annual_avg": 2.3535,
+      "geopolitical_news": [
+        {
+          "headline": "Dilma narrowly re-elected",
+          "summary": "She beats Aécio Neves in October's runoff as the economy slides into recession."
+        },
+        {
+          "headline": "Lava Jato corruption probe begins",
+          "summary": "The Petrobras investigation erupts, eventually engulfing much of Brazil's elite."
+        }
+      ],
+      "sport": {
+        "headline": "Mineirazo: 7-1 World Cup humiliation",
+        "summary": "Germany destroys Brazil in the Belo Horizonte semi-final, the nation's worst ever defeat."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 202404000,
+      "fx_lcu_per_usd_annual_avg": 3.3391,
+      "geopolitical_news": [
+        {
+          "headline": "Lava Jato engulfs political class",
+          "summary": "Arrests reach top executives and politicians as the Petrobras scandal widens."
+        },
+        {
+          "headline": "Cunha breaks with government",
+          "summary": "The powerful lower-house speaker defects, setting the impeachment machinery in motion."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Brazil loses to Paraguay on penalties; Neymar is suspended after an early red card."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 203872000,
+      "fx_lcu_per_usd_annual_avg": 3.4841,
+      "geopolitical_news": [
+        {
+          "headline": "Dilma impeached and removed",
+          "summary": "The Senate ousts her in August over budget maneuvers; Michel Temer takes over."
+        },
+        {
+          "headline": "Rio hosts Olympic Games",
+          "summary": "The August games proceed despite Zika fears, budget chaos and political turmoil."
+        }
+      ],
+      "sport": {
+        "headline": "First Olympic football gold",
+        "summary": "Neymar scores the winning penalty against Germany in the Maracanã final."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 205212000,
+      "fx_lcu_per_usd_annual_avg": 3.1906,
+      "geopolitical_news": [
+        {
+          "headline": "Temer hit with corruption charges",
+          "summary": "Prosecutors charge the president twice over the JBS meatpacking bribery scandal."
+        },
+        {
+          "headline": "JBS plea bargain rocks Brasília",
+          "summary": "Recordings and testimony implicate dozens of politicians in systemic graft."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification under Tite",
+        "summary": "Brazil becomes the first team to qualify for Russia 2018 after a stunning turnaround."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 206529000,
+      "fx_lcu_per_usd_annual_avg": 3.6558,
+      "geopolitical_news": [
+        {
+          "headline": "Bolsonaro elected president",
+          "summary": "The far-right ex-army captain wins October's runoff after surviving a campaign stabbing."
+        },
+        {
+          "headline": "Lula jailed for corruption",
+          "summary": "The former president begins a 12-year sentence in April, barring his candidacy."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final loss to Belgium",
+        "summary": "A 2-1 defeat in Kazan ends Brazil's campaign; Neymar's theatrics draw mockery."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 207900000,
+      "fx_lcu_per_usd_annual_avg": 3.9441,
+      "geopolitical_news": [
+        {
+          "headline": "Bolsonaro takes office",
+          "summary": "He is inaugurated in January promising to crush crime and open the economy."
+        },
+        {
+          "headline": "Amazon fires spark global outcry",
+          "summary": "Record blazes in August draw international condemnation of deforestation policy."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América champions at home",
+        "summary": "Brazil beats Peru 3-1 in the Maracanã final without the injured Neymar."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 209165000,
+      "fx_lcu_per_usd_annual_avg": 5.1539,
+      "geopolitical_news": [
+        {
+          "headline": "COVID devastates Brazil",
+          "summary": "Brazil becomes a global epicenter with one of the world's highest death tolls."
+        },
+        {
+          "headline": "Justice minister Moro resigns",
+          "summary": "Sergio Moro quits in April accusing Bolsonaro of meddling in federal police."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Leagues halt in March; Palmeiras wins a delayed Libertadores in January 2021."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 210104000,
+      "fx_lcu_per_usd_annual_avg": 5.3947,
+      "geopolitical_news": [
+        {
+          "headline": "Senate COVID inquiry blames Bolsonaro",
+          "summary": "A probe accuses the president of crimes against humanity over pandemic handling."
+        },
+        {
+          "headline": "Lula's convictions annulled",
+          "summary": "The Supreme Court voids his cases in March, restoring his political rights."
+        }
+      ],
+      "sport": {
+        "headline": "Second straight Olympic football gold",
+        "summary": "Brazil beats Spain in extra time in Tokyo; the Copa América final is lost to Argentina."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 210863000,
+      "fx_lcu_per_usd_annual_avg": 5.167,
+      "geopolitical_news": [
+        {
+          "headline": "Lula defeats Bolsonaro",
+          "summary": "Lula wins October's runoff by a narrow margin, returning to power after 12 years."
+        },
+        {
+          "headline": "Election denial tensions mount",
+          "summary": "Bolsonaro supporters block roads and camp outside barracks rejecting the result."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup quarter-final loss to Croatia",
+        "summary": "Brazil falls on penalties in Doha despite Neymar's extra-time goal; Tite resigns."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 211695000,
+      "fx_lcu_per_usd_annual_avg": 4.9963,
+      "geopolitical_news": [
+        {
+          "headline": "January 8 Brasília riots",
+          "summary": "Bolsonaro supporters storm government buildings a week after Lula's inauguration."
+        },
+        {
+          "headline": "Lula begins third term",
+          "summary": "He takes office in January vowing to rebuild democracy and the Amazon."
+        }
+      ],
+      "sport": {
+        "headline": "Historic home qualifying defeat",
+        "summary": "Brazil loses to Argentina at the Maracanã in November, a first home qualifier loss ever."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 212584000,
+      "fx_lcu_per_usd_annual_avg": 5.3867,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly floods hit Rio Grande do Sul",
+          "summary": "May floods kill scores and displace hundreds of thousands in the south."
+        },
+        {
+          "headline": "BRICS expansion under Brazil",
+          "summary": "Brazil helps steer the expanded bloc as it prepares to host the 2025 summit."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Brazil loses to Uruguay on penalties without the suspended Vinícius Júnior."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 213362000,
+      "fx_lcu_per_usd_annual_avg": 5.5896,
+      "geopolitical_news": [
+        {
+          "headline": "Bolsonaro convicted over coup plot",
+          "summary": "The Supreme Court convicts him in September for attempting to overturn the 2022 election."
+        },
+        {
+          "headline": "Belém hosts COP30 climate summit",
+          "summary": "The November Amazon summit in Belém tests Brazil's claim to global climate leadership."
+        }
+      ],
+      "sport": {
+        "headline": "Ancelotti takes charge of the Seleção",
+        "summary": "The Real Madrid legend becomes Brazil's first foreign coach in May."
+      }
+    }
+  ]
+}

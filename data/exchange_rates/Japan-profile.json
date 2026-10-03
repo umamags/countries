@@ -1,0 +1,396 @@
+{
+  "country": "Japan",
+  "iso3": "JPN",
+  "currency": "JPY",
+  "currency_name": "Japanese Yen",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 127746000,
+      "fx_lcu_per_usd_annual_avg": 116.3073,
+      "geopolitical_news": [
+        {
+          "headline": "Abe becomes PM",
+          "summary": "Shinzo Abe succeeds Koizumi as Liberal Democratic leader."
+        },
+        {
+          "headline": "North Korea missile tests",
+          "summary": "Pyongyang's launches alarm Tokyo."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Germany",
+        "summary": "Japan exit the World Cup in the group stage."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 127757000,
+      "fx_lcu_per_usd_annual_avg": 117.7742,
+      "geopolitical_news": [
+        {
+          "headline": "Abe resigns",
+          "summary": "The premier quits after an election drubbing and scandals."
+        },
+        {
+          "headline": "Revolving-door premiers",
+          "summary": "Fukuda takes over as political instability grows."
+        }
+      ],
+      "sport": {
+        "headline": "Asian Cup campaign",
+        "summary": "Japan reach the Asian Cup semifinals."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 127692000,
+      "fx_lcu_per_usd_annual_avg": 103.4437,
+      "geopolitical_news": [
+        {
+          "headline": "Global crisis hits",
+          "summary": "Exports collapse as the financial crisis engulfs Japan."
+        },
+        {
+          "headline": "Aso takes over",
+          "summary": "Another LDP premier faces a restive electorate."
+        }
+      ],
+      "sport": {
+        "headline": "Beijing Olympics",
+        "summary": "Japan win medals across sports in Beijing."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 127551000,
+      "fx_lcu_per_usd_annual_avg": 93.5425,
+      "geopolitical_news": [
+        {
+          "headline": "DPJ sweeps to power",
+          "summary": "The opposition ends 54 years of near-continuous LDP rule."
+        },
+        {
+          "headline": "Hatoyama becomes PM",
+          "summary": "The DPJ leader promises a new politics."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "Japan qualify for the 2010 World Cup."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 127594000,
+      "fx_lcu_per_usd_annual_avg": 87.7076,
+      "geopolitical_news": [
+        {
+          "headline": "Hatoyama resigns",
+          "summary": "Broken promises topple the premier within a year."
+        },
+        {
+          "headline": "Kan takes over",
+          "summary": "Naoto Kan inherits a struggling government."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last 16",
+        "summary": "Japan reach the knockout stage in South Africa."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 127831000,
+      "fx_lcu_per_usd_annual_avg": 79.7018,
+      "geopolitical_news": [
+        {
+          "headline": "Tohoku earthquake and tsunami",
+          "summary": "The March disaster kills thousands and triggers the Fukushima meltdown."
+        },
+        {
+          "headline": "Nuclear crisis",
+          "summary": "Fukushima Daiichi suffers triple meltdowns."
+        }
+      ],
+      "sport": {
+        "headline": "Women's World Cup triumph",
+        "summary": "Nadeshiko Japan win the Women's World Cup in Germany."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 127552000,
+      "fx_lcu_per_usd_annual_avg": 79.7531,
+      "geopolitical_news": [
+        {
+          "headline": "LDP returns",
+          "summary": "Shinzo Abe leads the LDP back to power in December."
+        },
+        {
+          "headline": "Senkaku tensions",
+          "summary": "Island nationalization sparks a China row."
+        }
+      ],
+      "sport": {
+        "headline": "London Olympics",
+        "summary": "Japan win 38 medals in London."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 127333000,
+      "fx_lcu_per_usd_annual_avg": 97.6181,
+      "geopolitical_news": [
+        {
+          "headline": "Abenomics launched",
+          "summary": "Bold monetary easing aims to end deflation."
+        },
+        {
+          "headline": "Tokyo wins 2020 Olympics",
+          "summary": "The capital is awarded the 2020 Games."
+        }
+      ],
+      "sport": {
+        "headline": "Confederations Cup",
+        "summary": "Japan compete at the Confederations Cup in Brazil."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 127120000,
+      "fx_lcu_per_usd_annual_avg": 105.8177,
+      "geopolitical_news": [
+        {
+          "headline": "Sales tax hike",
+          "summary": "A consumption tax rise tips Japan into recession."
+        },
+        {
+          "headline": "Abe re-elected",
+          "summary": "Snap polls return the LDP with a big majority."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup in Brazil",
+        "summary": "Japan exit the World Cup in the group stage."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 126978000,
+      "fx_lcu_per_usd_annual_avg": 121.0796,
+      "geopolitical_news": [
+        {
+          "headline": "Security laws pass",
+          "summary": "Controversial bills expand Japan's military role."
+        },
+        {
+          "headline": "Comfort women deal",
+          "summary": "Tokyo and Seoul reach a wartime agreement."
+        }
+      ],
+      "sport": {
+        "headline": "Rugby World Cup upset",
+        "summary": "Japan stun South Africa 34-32 in Brighton."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 126960000,
+      "fx_lcu_per_usd_annual_avg": 108.6549,
+      "geopolitical_news": [
+        {
+          "headline": "Negative rates",
+          "summary": "The Bank of Japan adopts negative interest rates."
+        },
+        {
+          "headline": "Obama visits Hiroshima",
+          "summary": "The US president makes a historic visit."
+        }
+      ],
+      "sport": {
+        "headline": "Rio Olympic medals",
+        "summary": "Japan win 41 medals, including wrestling and gymnastics golds."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 126746000,
+      "fx_lcu_per_usd_annual_avg": 112.1944,
+      "geopolitical_news": [
+        {
+          "headline": "Abe wins snap election",
+          "summary": "October polls cement LDP dominance."
+        },
+        {
+          "headline": "North Korea crisis",
+          "summary": "Missiles fly over Japan amid war fears."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification",
+        "summary": "Japan qualify for the 2018 World Cup."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 126495000,
+      "fx_lcu_per_usd_annual_avg": 110.4733,
+      "geopolitical_news": [
+        {
+          "headline": "Floods and quake",
+          "summary": "Deadly natural disasters strike western and northern Japan."
+        },
+        {
+          "headline": "Abe wins party vote",
+          "summary": "The premier secures a third LDP term."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup last 16",
+        "summary": "Japan lose to Belgium after leading 2-0 in Rostov."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 126221000,
+      "fx_lcu_per_usd_annual_avg": 108.9775,
+      "geopolitical_news": [
+        {
+          "headline": "Reiwa era begins",
+          "summary": "Emperor Naruhito ascends after Akihito's abdication."
+        },
+        {
+          "headline": "Rugby World Cup hosted",
+          "summary": "Japan stages the tournament, reaching the quarterfinals."
+        }
+      ],
+      "sport": {
+        "headline": "Rugby World Cup quarterfinal",
+        "summary": "The Brave Blossoms reach the last eight on home soil."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 125849000,
+      "fx_lcu_per_usd_annual_avg": 106.7412,
+      "geopolitical_news": [
+        {
+          "headline": "Abe resigns",
+          "summary": "Ill health ends Japan's longest premiership."
+        },
+        {
+          "headline": "Suga takes over",
+          "summary": "Yoshihide Suga inherits the pandemic response."
+        }
+      ],
+      "sport": {
+        "headline": "Olympics postponed",
+        "summary": "Tokyo 2020 is delayed a year over COVID."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 125492000,
+      "fx_lcu_per_usd_annual_avg": 109.8703,
+      "geopolitical_news": [
+        {
+          "headline": "Tokyo Olympics held",
+          "summary": "The Games proceed without spectators amid COVID."
+        },
+        {
+          "headline": "Kishida becomes PM",
+          "summary": "Fumio Kishida wins the LDP leadership."
+        }
+      ],
+      "sport": {
+        "headline": "Home Olympic success",
+        "summary": "Japan win 58 medals, third in the Tokyo table."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 125063000,
+      "fx_lcu_per_usd_annual_avg": 131.5502,
+      "geopolitical_news": [
+        {
+          "headline": "Abe assassinated",
+          "summary": "The former premier is shot dead at a campaign rally in July."
+        },
+        {
+          "headline": "Yen collapses",
+          "summary": "The currency hits multi-decade lows."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup upsets",
+        "summary": "Japan beat Germany and Spain to top their group in Qatar."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 124482000,
+      "fx_lcu_per_usd_annual_avg": 140.5885,
+      "geopolitical_news": [
+        {
+          "headline": "Fukushima water release",
+          "summary": "Treated water discharge begins, angering neighbours."
+        },
+        {
+          "headline": "Defence buildup",
+          "summary": "Japan unveils its biggest military expansion since WWII."
+        }
+      ],
+      "sport": {
+        "headline": "Women's World Cup run",
+        "summary": "Nadeshiko reach the quarterfinals in Australia."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 123890000,
+      "fx_lcu_per_usd_annual_avg": 151.4311,
+      "geopolitical_news": [
+        {
+          "headline": "LDP loses majority",
+          "summary": "October elections strip the ruling coalition of its majority."
+        },
+        {
+          "headline": "Slush fund scandal",
+          "summary": "Kickback revelations devastate the LDP."
+        }
+      ],
+      "sport": {
+        "headline": "Paris Olympic medals",
+        "summary": "Japan win 45 medals in Paris, third in the table."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 123291000,
+      "fx_lcu_per_usd_annual_avg": 149.6554,
+      "geopolitical_news": [
+        {
+          "headline": "Minority government",
+          "summary": "The LDP governs without a majority amid instability."
+        },
+        {
+          "headline": "US tariff pressures",
+          "summary": "Washington's tariffs strain the alliance's trade ties."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup 2026 qualified",
+        "summary": "Japan become the first team to qualify for 2026."
+      }
+    }
+  ]
+}

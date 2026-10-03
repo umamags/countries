@@ -1,0 +1,396 @@
+{
+  "country": "Netherlands",
+  "iso3": "NLD",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "ECB euro foreign exchange reference rates via Frankfurter (annual average of daily rates, LCU per USD)"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 16334000,
+      "fx_lcu_per_usd_annual_avg": 0.7972,
+      "geopolitical_news": [
+        {
+          "headline": "Balkenende government falls",
+          "summary": "The coalition collapses in June over immigration rows."
+        },
+        {
+          "headline": "Election: CDA wins",
+          "summary": "November elections keep Balkenende as PM."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal end Dutch World Cup run",
+        "summary": "The Netherlands lose a brutal last-16 tie in Nuremberg."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 16358000,
+      "fx_lcu_per_usd_annual_avg": 0.7308,
+      "geopolitical_news": [
+        {
+          "headline": "Balkenende IV takes office",
+          "summary": "A CDA-PvdA-Christian Union coalition forms."
+        },
+        {
+          "headline": "Dutch troops in Afghanistan",
+          "summary": "The Uruzgan mission continues."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands qualify for Euro 2008",
+        "summary": "The Dutch book their finals place."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 16405000,
+      "fx_lcu_per_usd_annual_avg": 0.6835,
+      "geopolitical_news": [
+        {
+          "headline": "Financial crisis hits banks",
+          "summary": "ING and Fortis need state rescues."
+        },
+        {
+          "headline": "Netherlands weathers storm",
+          "summary": "Stimulus cushions the downturn."
+        }
+      ],
+      "sport": {
+        "headline": "Russia end Dutch Euro 2008 run",
+        "summary": "The Netherlands lose their quarter-final in extra time."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 16486000,
+      "fx_lcu_per_usd_annual_avg": 0.719,
+      "geopolitical_news": [
+        {
+          "headline": "Wilders rises in polls",
+          "summary": "The PVV leader gains amid the crisis."
+        },
+        {
+          "headline": "Dutch economy contracts",
+          "summary": "GDP shrinks sharply."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands win all World Cup qualifiers",
+        "summary": "The Dutch take maximum points in qualifying."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 16575000,
+      "fx_lcu_per_usd_annual_avg": 0.7559,
+      "geopolitical_news": [
+        {
+          "headline": "Rutte becomes prime minister",
+          "summary": "Mark Rutte forms a VVD minority government in October."
+        },
+        {
+          "headline": "Government falls over Afghanistan",
+          "summary": "The mission extension row topples the cabinet in February."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands lose World Cup final",
+        "summary": "Spain win 1-0 in extra time in Johannesburg."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 16656000,
+      "fx_lcu_per_usd_annual_avg": 0.7192,
+      "geopolitical_news": [
+        {
+          "headline": "Rutte's austerity",
+          "summary": "The minority government pushes budget cuts."
+        },
+        {
+          "headline": "Wilders supports government",
+          "summary": "The PVV props up the cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands qualify for Euro 2012",
+        "summary": "The Dutch dominate qualifying, including an 11-0 win."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 16730000,
+      "fx_lcu_per_usd_annual_avg": 0.7788,
+      "geopolitical_news": [
+        {
+          "headline": "Government falls over budget",
+          "summary": "Wilders withdraws support in April."
+        },
+        {
+          "headline": "VVD-PvdA coalition formed",
+          "summary": "September elections produce a Rutte II cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands exit Euro 2012 winless",
+        "summary": "The Dutch lose all three group matches."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 16780000,
+      "fx_lcu_per_usd_annual_avg": 0.7532,
+      "geopolitical_news": [
+        {
+          "headline": "Willem-Alexander becomes king",
+          "summary": "Beatrix abdicates in April."
+        },
+        {
+          "headline": "Austerity continues",
+          "summary": "The coalition pushes deficit cuts."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands qualify for 2014 World Cup",
+        "summary": "The Dutch dominate their qualifying group."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 16829000,
+      "fx_lcu_per_usd_annual_avg": 0.7539,
+      "geopolitical_news": [
+        {
+          "headline": "MH17 shot down over Ukraine",
+          "summary": "298 die, most of them Dutch, in July."
+        },
+        {
+          "headline": "Netherlands mourns",
+          "summary": "National grief follows the MH17 disaster."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands finish third at World Cup",
+        "summary": "The Dutch beat Brazil 3-0 in the playoff."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 16901000,
+      "fx_lcu_per_usd_annual_avg": 0.9019,
+      "geopolitical_news": [
+        {
+          "headline": "MH17 probe blames missile",
+          "summary": "Investigators say a Russian Buk downed the plane."
+        },
+        {
+          "headline": "Dutch EU presidency looms",
+          "summary": "The Hague prepares its 2016 Council term."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands miss Euro 2016",
+        "summary": "The Dutch finish fourth in their qualifying group."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 16979000,
+      "fx_lcu_per_usd_annual_avg": 0.9039,
+      "geopolitical_news": [
+        {
+          "headline": "Ukraine referendum rejects EU deal",
+          "summary": "Voters say no in an April referendum."
+        },
+        {
+          "headline": "Netherlands holds EU presidency",
+          "summary": "The Dutch lead the Council in early 2016."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands watch Euro 2016 from home",
+        "summary": "The Dutch miss the finals after a failed campaign."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 17082000,
+      "fx_lcu_per_usd_annual_avg": 0.887,
+      "geopolitical_news": [
+        {
+          "headline": "Rutte wins election",
+          "summary": "The VVD triumphs in March; Wilders comes second."
+        },
+        {
+          "headline": "Record coalition talks",
+          "summary": "Rutte III forms in October after 225 days."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands miss 2018 World Cup",
+        "summary": "The Dutch finish third behind France and Sweden."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 17181000,
+      "fx_lcu_per_usd_annual_avg": 0.8476,
+      "geopolitical_news": [
+        {
+          "headline": "MH17 suspects charged",
+          "summary": "Prosecutors name four suspects in the downing."
+        },
+        {
+          "headline": "Rutte government stable",
+          "summary": "The four-party coalition holds."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands win Nations League group",
+        "summary": "Wins over France and Germany top League A."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 17282000,
+      "fx_lcu_per_usd_annual_avg": 0.8934,
+      "geopolitical_news": [
+        {
+          "headline": "Provincial elections: populists surge",
+          "summary": "The FvD party wins March's provincial vote."
+        },
+        {
+          "headline": "Nitrogen crisis erupts",
+          "summary": "A court ruling paralyses construction and farming."
+        }
+      ],
+      "sport": {
+        "headline": "Portugal win Nations League final",
+        "summary": "The Dutch lose the Porto final."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 17408000,
+      "fx_lcu_per_usd_annual_avg": 0.8768,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits Netherlands",
+          "summary": "The pandemic strains hospitals."
+        },
+        {
+          "headline": "Government resigns over scandal",
+          "summary": "The childcare benefits affair topples the cabinet in January 2021."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands compete in Nations League A",
+        "summary": "The Dutch finish second in their League A group."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 17475000,
+      "fx_lcu_per_usd_annual_avg": 0.846,
+      "geopolitical_news": [
+        {
+          "headline": "Rutte wins election again",
+          "summary": "March elections keep the VVD first."
+        },
+        {
+          "headline": "Record 299-day formation",
+          "summary": "Rutte IV takes office in January 2022."
+        }
+      ],
+      "sport": {
+        "headline": "Czechs knock Dutch out of Euro 2020",
+        "summary": "The Netherlands lose in the last 16 in Budapest."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 17591000,
+      "fx_lcu_per_usd_annual_avg": 0.9518,
+      "geopolitical_news": [
+        {
+          "headline": "Farmers protest nitrogen rules",
+          "summary": "Tractor protests blockade the country."
+        },
+        {
+          "headline": "Netherlands backs Ukraine",
+          "summary": "The Hague sends arms and hosts refugees."
+        }
+      ],
+      "sport": {
+        "headline": "Argentina end Dutch World Cup run",
+        "summary": "The Netherlands lose a penalty shootout in the quarter-finals."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 17811000,
+      "fx_lcu_per_usd_annual_avg": 0.9251,
+      "geopolitical_news": [
+        {
+          "headline": "Rutte resigns",
+          "summary": "The PM quits in July over migration rows."
+        },
+        {
+          "headline": "Wilders wins election",
+          "summary": "The PVV triumphs in November's shock vote."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands qualify for Euro 2024",
+        "summary": "The Dutch finish second in their qualifying group."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 17943000,
+      "fx_lcu_per_usd_annual_avg": 0.9241,
+      "geopolitical_news": [
+        {
+          "headline": "Schoof becomes PM",
+          "summary": "A PVV-led coalition takes office in July."
+        },
+        {
+          "headline": "Right-wing government formed",
+          "summary": "Four parties agree a governing pact."
+        }
+      ],
+      "sport": {
+        "headline": "England end Dutch Euro 2024 run",
+        "summary": "The Netherlands lose their semi-final in Dortmund."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 18044000,
+      "fx_lcu_per_usd_annual_avg": 0.8867,
+      "geopolitical_news": [
+        {
+          "headline": "Schoof government falls",
+          "summary": "Wilders quits the coalition in June."
+        },
+        {
+          "headline": "Snap election looms",
+          "summary": "The Netherlands head toward early elections."
+        }
+      ],
+      "sport": {
+        "headline": "Netherlands chase World Cup qualification",
+        "summary": "The Dutch compete in qualifying for the 2026 World Cup."
+      }
+    }
+  ]
+}

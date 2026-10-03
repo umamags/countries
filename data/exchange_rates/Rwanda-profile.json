@@ -1,0 +1,396 @@
+{
+  "country": "Rwanda",
+  "iso3": "RWA",
+  "currency": "RWF",
+  "currency_name": "Rwandan Franc",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 9000000,
+      "fx_lcu_per_usd_annual_avg": 551.7103,
+      "geopolitical_news": [
+        {
+          "headline": "Kagame's development model praised",
+          "summary": "Donors hail Rwanda's growth and anti-corruption drive."
+        },
+        {
+          "headline": "France-Rwanda ties severed",
+          "summary": "Kigali breaks relations over a French judge's genocide indictments."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda fall short in AFCON qualifying",
+        "summary": "The Wasps miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 9200000,
+      "fx_lcu_per_usd_annual_avg": 546.955,
+      "geopolitical_news": [
+        {
+          "headline": "Gacaca courts wind down",
+          "summary": "The community genocide trials near completion."
+        },
+        {
+          "headline": "Rwanda joins Commonwealth",
+          "summary": "Kigali pivots toward the Anglophone world."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2008 AFCON",
+        "summary": "The Wasps fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 9500000,
+      "fx_lcu_per_usd_annual_avg": 546.8487,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The RPF wins September's parliamentary vote."
+        },
+        {
+          "headline": "Women's representation record",
+          "summary": "Rwanda elects the world's highest share of female MPs."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda compete at Beijing Olympics",
+        "summary": "Rwandan athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 9700000,
+      "fx_lcu_per_usd_annual_avg": 568.2813,
+      "geopolitical_news": [
+        {
+          "headline": "France-Rwanda ties restored",
+          "summary": "Paris and Kigali normalize relations."
+        },
+        {
+          "headline": "Nkunda arrested",
+          "summary": "Rwanda detains the Congolese rebel leader."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda chase 2010 World Cup spot",
+        "summary": "The Wasps compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 10000000,
+      "fx_lcu_per_usd_annual_avg": 583.1309,
+      "geopolitical_news": [
+        {
+          "headline": "Kagame re-elected",
+          "summary": "The president wins August's vote with a huge official margin."
+        },
+        {
+          "headline": "Opposition suppressed",
+          "summary": "Rivals are jailed or exiled ahead of the election."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2010 World Cup",
+        "summary": "The Wasps fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 10200000,
+      "fx_lcu_per_usd_annual_avg": 600.3065,
+      "geopolitical_news": [
+        {
+          "headline": "UN accuses Rwanda over DRC",
+          "summary": "Experts say Kigali backs the M23 rebellion."
+        },
+        {
+          "headline": "Donors suspend aid",
+          "summary": "Western governments freeze budget support."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2012 AFCON",
+        "summary": "The Wasps fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 10483000,
+      "fx_lcu_per_usd_annual_avg": 614.2951,
+      "geopolitical_news": [
+        {
+          "headline": "M23 takes Goma",
+          "summary": "Rwanda denies backing the Congolese rebels."
+        },
+        {
+          "headline": "Aid cuts bite",
+          "summary": "Donor suspensions squeeze the budget."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda compete at London Olympics",
+        "summary": "Rwandan athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 10737000,
+      "fx_lcu_per_usd_annual_avg": 646.636,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The RPF sweeps September's parliamentary vote."
+        },
+        {
+          "headline": "Rwanda's growth praised",
+          "summary": "The economy remains among Africa's fastest-growing."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2013 AFCON",
+        "summary": "The Wasps fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 10997000,
+      "fx_lcu_per_usd_annual_avg": 682.4378,
+      "geopolitical_news": [
+        {
+          "headline": "Kwibuka20 commemorations",
+          "summary": "Rwanda marks 20 years since the genocide."
+        },
+        {
+          "headline": "Third-term debate begins",
+          "summary": "Petitions urge Kagame to stay beyond 2017."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2014 World Cup",
+        "summary": "The Wasps fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 11263000,
+      "fx_lcu_per_usd_annual_avg": 719.8596,
+      "geopolitical_news": [
+        {
+          "headline": "Referendum allows third term",
+          "summary": "December's vote lets Kagame potentially rule until 2034."
+        },
+        {
+          "headline": "West criticizes",
+          "summary": "Donors express disappointment at the constitutional change."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2015 AFCON",
+        "summary": "The Wasps fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 11533000,
+      "fx_lcu_per_usd_annual_avg": 787.2515,
+      "geopolitical_news": [
+        {
+          "headline": "Kigali's transformation",
+          "summary": "The capital's development wins global praise."
+        },
+        {
+          "headline": "Rwanda hosts AU summit",
+          "summary": "The continental free trade area launches in Kigali."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda compete at Rio Olympics",
+        "summary": "Rwandan athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 11809000,
+      "fx_lcu_per_usd_annual_avg": 831.5543,
+      "geopolitical_news": [
+        {
+          "headline": "Kagame re-elected",
+          "summary": "The president wins August's vote with a vast official margin."
+        },
+        {
+          "headline": "Opposition candidate barred",
+          "summary": "Diane Rwigara is disqualified and later jailed."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2017 AFCON",
+        "summary": "The Wasps fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 12090000,
+      "fx_lcu_per_usd_annual_avg": 861.0934,
+      "geopolitical_news": [
+        {
+          "headline": "Kagame chairs African Union",
+          "summary": "The president leads the continental body in 2018."
+        },
+        {
+          "headline": "Rwigara acquitted",
+          "summary": "The opposition figure is freed after a year in jail."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2018 World Cup",
+        "summary": "The Wasps fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 12374000,
+      "fx_lcu_per_usd_annual_avg": 899.3505,
+      "geopolitical_news": [
+        {
+          "headline": "Legislative elections held",
+          "summary": "The RPF dominates September's parliamentary vote."
+        },
+        {
+          "headline": "Rwanda-Uganda tensions",
+          "summary": "The border closes amid a feud with Kampala."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2019 AFCON",
+        "summary": "The Wasps fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 12663000,
+      "fx_lcu_per_usd_annual_avg": 943.278,
+      "geopolitical_news": [
+        {
+          "headline": "Rusesabagina arrested",
+          "summary": "The 'Hotel Rwanda' hero is seized abroad and brought to Kigali."
+        },
+        {
+          "headline": "COVID-19 contained",
+          "summary": "Strict measures keep cases low."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Rwanda's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 12956000,
+      "fx_lcu_per_usd_annual_avg": 988.6248,
+      "geopolitical_news": [
+        {
+          "headline": "Rusesabagina convicted",
+          "summary": "September's terrorism verdict draws Western condemnation."
+        },
+        {
+          "headline": "Rwanda deploys to Mozambique",
+          "summary": "Kigali's troops fight jihadists in Cabo Delgado."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2021 AFCON",
+        "summary": "The Wasps fail to reach the Cameroon tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 13246000,
+      "fx_lcu_per_usd_annual_avg": 1030.3083,
+      "geopolitical_news": [
+        {
+          "headline": "UK-Rwanda asylum deal",
+          "summary": "London agrees to send asylum seekers to Kigali."
+        },
+        {
+          "headline": "DRC accuses Rwanda over M23",
+          "summary": "Kinshasa says Kigali backs the rebels; Rwanda denies it."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2022 World Cup",
+        "summary": "The Wasps fall short in qualifying for Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 13499000,
+      "fx_lcu_per_usd_annual_avg": 1160.0987,
+      "geopolitical_news": [
+        {
+          "headline": "UK asylum plan stalled",
+          "summary": "British courts block deportation flights to Kigali."
+        },
+        {
+          "headline": "Rwanda-DRC tensions rise",
+          "summary": "The M23 war strains relations further."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda miss 2023 AFCON",
+        "summary": "The Wasps fail to qualify for the Ivory Coast tournament."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 13857000,
+      "fx_lcu_per_usd_annual_avg": 1318.1284,
+      "geopolitical_news": [
+        {
+          "headline": "Kagame re-elected",
+          "summary": "The president wins July's vote with a vast official margin."
+        },
+        {
+          "headline": "UK scraps Rwanda plan",
+          "summary": "London's new government abandons the asylum deal."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda compete at Paris Olympics",
+        "summary": "Rwandan athletes take part in the 2024 Games."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 14162000,
+      "fx_lcu_per_usd_annual_avg": 1428.4783,
+      "geopolitical_news": [
+        {
+          "headline": "M23 captures Goma with alleged Rwandan backing",
+          "summary": "Kigali denies involvement as rebels seize eastern Congo's capital."
+        },
+        {
+          "headline": "Kigali hosts cycling world championships",
+          "summary": "September's UCI event is the first on African soil."
+        }
+      ],
+      "sport": {
+        "headline": "Rwanda hosts road cycling worlds",
+        "summary": "Kigali stages the 2025 UCI Road World Championships, an African first."
+      }
+    }
+  ]
+}

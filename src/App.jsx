@@ -6,6 +6,7 @@ import ContinentsPage from './pages/ContinentsPage'
 import CountryListPage from './pages/CountryListPage'
 import CountryDetailPage from './pages/CountryDetailPage'
 import LandmarkDetailPage from './pages/LandmarkDetailPage'
+import ComparePage from './pages/ComparePage'
 import './App.css'
 
 export default function App() {
@@ -21,6 +22,7 @@ export default function App() {
               path="continent/:continentSlug/country/:countrySlug/landmark/:landmarkSlug"
               element={<LandmarkDetailPage />}
             />
+            <Route path="compare" element={<ComparePage />} />
           </Route>
         </Routes>
       </FavoritesProvider>

@@ -1,0 +1,400 @@
+{
+  "country": "Peru",
+  "iso3": "PER",
+  "currency": "PEN",
+  "currency_name": "Peruvian Sol",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 27935000,
+      "fx_lcu_per_usd_annual_avg": 3.274,
+      "geopolitical_news": [
+        {
+          "headline": "García elected president",
+          "summary": "Alan García beats Ollanta Humala in June's runoff, returning to power after two decades."
+        },
+        {
+          "headline": "Free-trade deal with US signed",
+          "summary": "The pact is inked in April amid fierce nationalist opposition."
+        }
+      ],
+      "sport": {
+        "headline": "Peru misses the World Cup",
+        "summary": "A last-place qualifying finish keeps Peru out of Germany 2006."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 28122000,
+      "fx_lcu_per_usd_annual_avg": 3.128,
+      "geopolitical_news": [
+        {
+          "headline": "Devastating Pisco earthquake",
+          "summary": "An 8.0 quake on August 15 kills hundreds and flattens towns south of Lima."
+        },
+        {
+          "headline": "Fujimori extradited from Chile",
+          "summary": "The ex-president is sent home in September to face human rights charges."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Peru loses to Argentina in the quarter-finals of the Venezuela-hosted Copa América."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 28300000,
+      "fx_lcu_per_usd_annual_avg": 2.9244,
+      "geopolitical_news": [
+        {
+          "headline": "'Petroaudios' scandal erupts",
+          "summary": "Leaked tapes of oil-contract kickbacks topple the cabinet in October."
+        },
+        {
+          "headline": "US trade deal takes effect",
+          "summary": "The free-trade agreement with the United States enters into force amid nationalist protests."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying struggles",
+        "summary": "Peru sits near the bottom of the CONMEBOL table."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 28485000,
+      "fx_lcu_per_usd_annual_avg": 3.0115,
+      "geopolitical_news": [
+        {
+          "headline": "Bagua Amazon clashes",
+          "summary": "A June police operation against indigenous protesters leaves dozens dead."
+        },
+        {
+          "headline": "Fujimori sentenced to 25 years",
+          "summary": "The ex-president is convicted in April of human rights crimes."
+        }
+      ],
+      "sport": {
+        "headline": "Peru misses South Africa 2010",
+        "summary": "A last-place finish in CONMEBOL qualifying extends Peru's long World Cup absence."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 28693000,
+      "fx_lcu_per_usd_annual_avg": 2.8251,
+      "geopolitical_news": [
+        {
+          "headline": "García's popularity slides",
+          "summary": "Corruption scandals and social conflicts dog the government's final year."
+        },
+        {
+          "headline": "Mining conflicts spread",
+          "summary": "Protests over mining and extractive projects multiply across the Andes and Amazon."
+        }
+      ],
+      "sport": {
+        "headline": "Pizarro stars for Bayern",
+        "summary": "Claudio Pizarro enjoys a prolific season in the Bundesliga."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 28906000,
+      "fx_lcu_per_usd_annual_avg": 2.7541,
+      "geopolitical_news": [
+        {
+          "headline": "Humala elected president",
+          "summary": "Ollanta Humala beats Keiko Fujimori in June's runoff on a leftist-nationalist platform."
+        },
+        {
+          "headline": "Markets panic then calm",
+          "summary": "Stocks plunge on his victory before moderating pledges reassure investors."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América third place",
+        "summary": "Peru beats Venezuela to finish third in Argentina; Guerrero is top scorer."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 29113000,
+      "fx_lcu_per_usd_annual_avg": 2.6376,
+      "geopolitical_news": [
+        {
+          "headline": "Conga mining protests",
+          "summary": "Deadly clashes over the Yanacocha gold project force a state of emergency."
+        },
+        {
+          "headline": "'Artemio' captured",
+          "summary": "The last Shining Path military leader is caught in February."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualifying push",
+        "summary": "Peru climbs the table but falls short of Brazil 2014."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 29341000,
+      "fx_lcu_per_usd_annual_avg": 2.7019,
+      "geopolitical_news": [
+        {
+          "headline": "Humala's approval collapses",
+          "summary": "Mounting corruption allegations and unmet campaign promises sink President Humala's approval ratings sharply."
+        },
+        {
+          "headline": "Spying scandal with Chile",
+          "summary": "A Peruvian naval officer is accused of spying for Chile."
+        }
+      ],
+      "sport": {
+        "headline": "Peru misses Brazil 2014",
+        "summary": "A seventh-place finish in CONMEBOL qualifying ends Peru's hopes for Brazil 2014."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 29616000,
+      "fx_lcu_per_usd_annual_avg": 2.839,
+      "geopolitical_news": [
+        {
+          "headline": "Sea border ruling favors Peru",
+          "summary": "The ICJ grants Peru a swathe of disputed Pacific waters from Chile in January."
+        },
+        {
+          "headline": "First lady's diaries scandal",
+          "summary": "Nadine Heredia faces money-laundering probes over alleged illicit funds."
+        }
+      ],
+      "sport": {
+        "headline": "No World Cup for Peru",
+        "summary": "Peru watches the Brazil 2014 World Cup from home after another failed qualifying campaign."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 29964000,
+      "fx_lcu_per_usd_annual_avg": 3.1844,
+      "geopolitical_news": [
+        {
+          "headline": "Tía María mining clashes",
+          "summary": "Protests against the copper project turn deadly in Arequipa."
+        },
+        {
+          "headline": "Humala lame-duck year",
+          "summary": "Humala's government limps toward the 2016 elections amid corruption scandals and collapsing approval."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América third place",
+        "summary": "Peru again finishes third at the Chile-hosted Copa América, beating Paraguay in the playoff."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 30423000,
+      "fx_lcu_per_usd_annual_avg": 3.3751,
+      "geopolitical_news": [
+        {
+          "headline": "Kuczynski elected president",
+          "summary": "Pedro Pablo Kuczynski edges Keiko Fujimori by a razor-thin margin in June."
+        },
+        {
+          "headline": "Fujimorismo dominates Congress",
+          "summary": "Keiko Fujimori's party wins an absolute legislative majority, setting up clashes with Kuczynski."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América quarter-final exit",
+        "summary": "Peru loses to Colombia on penalties in the United States."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 30974000,
+      "fx_lcu_per_usd_annual_avg": 3.2605,
+      "geopolitical_news": [
+        {
+          "headline": "Fujimori pardoned",
+          "summary": "Kuczynski pardons the ex-dictator on Christmas Eve, sparking massive protests."
+        },
+        {
+          "headline": "Odebrecht scandal engulfs elite",
+          "summary": "The Brazilian firm's bribes implicate ex-presidents and top officials."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup qualification sealed",
+        "summary": "Peru beats New Zealand in a playoff to reach Russia 2018, ending a 36-year wait."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 31562000,
+      "fx_lcu_per_usd_annual_avg": 3.2866,
+      "geopolitical_news": [
+        {
+          "headline": "Kuczynski resigns",
+          "summary": "He quits in March over vote-buying tapes; Martín Vizcarra takes over."
+        },
+        {
+          "headline": "Fujimori pardon annulled",
+          "summary": "Courts revoke the pardon in October and he returns to prison."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup group-stage exit",
+        "summary": "Peru beats Australia for a first finals win in 40 years but goes out."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 32131000,
+      "fx_lcu_per_usd_annual_avg": 3.3373,
+      "geopolitical_news": [
+        {
+          "headline": "Vizcarra dissolves Congress",
+          "summary": "He shuts the Fujimorista legislature in September, triggering a constitutional crisis."
+        },
+        {
+          "headline": "García dies by suicide",
+          "summary": "Alan García shoots himself in April as police arrive to arrest him over Odebrecht."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América final reached",
+        "summary": "Peru stuns Chile in the semi-final before losing to Brazil in Rio."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 32626000,
+      "fx_lcu_per_usd_annual_avg": 3.4949,
+      "geopolitical_news": [
+        {
+          "headline": "Vizcarra impeached",
+          "summary": "Congress ousts him in November over unproven bribery claims."
+        },
+        {
+          "headline": "Merino resigns after deadly protests",
+          "summary": "His successor quits after five days as police kill two demonstrators."
+        },
+        {
+          "headline": "Sagasti takes interim office",
+          "summary": "Veteran lawmaker Francisco Sagasti becomes caretaker president in November after days of turmoil."
+        }
+      ],
+      "sport": {
+        "headline": "Football halted by pandemic",
+        "summary": "Qualifiers stop for months; Peru resumes with heavy defeats."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 33035000,
+      "fx_lcu_per_usd_annual_avg": 3.8806,
+      "geopolitical_news": [
+        {
+          "headline": "Castillo elected president",
+          "summary": "Rural teacher Pedro Castillo narrowly beats Keiko Fujimori in June's runoff."
+        },
+        {
+          "headline": "Deadly COVID waves",
+          "summary": "Peru records one of the world's highest per-capita death tolls."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América semi-final run",
+        "summary": "Peru finishes fourth in Brazil, losing to the hosts."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 33397000,
+      "fx_lcu_per_usd_annual_avg": 3.8352,
+      "geopolitical_news": [
+        {
+          "headline": "Castillo ousted and jailed",
+          "summary": "He is impeached and arrested in December after attempting to dissolve Congress."
+        },
+        {
+          "headline": "Boluarte takes power",
+          "summary": "Vice president Dina Boluarte becomes Peru's first woman president amid deadly protests."
+        }
+      ],
+      "sport": {
+        "headline": "World Cup playoff heartbreak",
+        "summary": "Peru loses to Australia on penalties, missing Qatar 2022."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 33731000,
+      "fx_lcu_per_usd_annual_avg": 3.7438,
+      "geopolitical_news": [
+        {
+          "headline": "Deadly crackdown on protests",
+          "summary": "Dozens die as security forces crush demonstrations demanding Boluarte's exit."
+        },
+        {
+          "headline": "Government approval collapses",
+          "summary": "President Boluarte's approval ratings sink to single digits amid the deadly protest crackdowns."
+        }
+      ],
+      "sport": {
+        "headline": "Poor start to 2026 qualifying",
+        "summary": "Peru goes winless through the year's World Cup qualifiers, sinking to the bottom."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 34068000,
+      "fx_lcu_per_usd_annual_avg": 3.7525,
+      "geopolitical_news": [
+        {
+          "headline": "'Rolexgate' scandal",
+          "summary": "Boluarte faces probes over luxury watches and unexplained wealth."
+        },
+        {
+          "headline": "Fujimori dies",
+          "summary": "The ex-dictator dies in September after a late humanitarian release."
+        }
+      ],
+      "sport": {
+        "headline": "Copa América group-stage exit",
+        "summary": "Peru goes out winless in the United States, finishing bottom of its Copa América group."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 34409000,
+      "fx_lcu_per_usd_annual_avg": 3.5671,
+      "geopolitical_news": [
+        {
+          "headline": "Boluarte impeached and removed",
+          "summary": "Congress ousts her in October over crime and corruption; José Jerí takes over."
+        },
+        {
+          "headline": "Election countdown begins",
+          "summary": "The interim government schedules 2026 general elections aimed at restoring Peru's democratic order."
+        }
+      ],
+      "sport": {
+        "headline": "Peru misses 2026 World Cup",
+        "summary": "A dismal World Cup qualifying campaign ends any Peruvian hopes of reaching the finals."
+      }
+    }
+  ]
+}

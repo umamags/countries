@@ -1,0 +1,400 @@
+{
+  "country": "Gambia",
+  "iso3": "GMB",
+  "currency": "GMD",
+  "currency_name": "Gambian Dalasi",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 1715000,
+      "fx_lcu_per_usd_annual_avg": 28.0657,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh re-elected president",
+          "summary": "The incumbent wins September's vote; the opposition alleges intimidation."
+        },
+        {
+          "headline": "Journalist murder unsolved",
+          "summary": "The Deyda Hydara killing remains a symbol of repression."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia fall short in AFCON qualifying",
+        "summary": "The Scorpions miss out on the 2008 Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 1766000,
+      "fx_lcu_per_usd_annual_avg": 24.8734,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh's rule tightens",
+          "summary": "The president's eccentric authoritarianism deepens."
+        },
+        {
+          "headline": "Drug trafficking concerns",
+          "summary": "The Gambia becomes a cocaine transit point."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2008 AFCON",
+        "summary": "The Scorpions fail to qualify for the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 1818000,
+      "fx_lcu_per_usd_annual_avg": 22.1924,
+      "geopolitical_news": [
+        {
+          "headline": "Witch-hunting campaign",
+          "summary": "Security forces round up alleged witches in a bizarre state campaign."
+        },
+        {
+          "headline": "Journalists jailed",
+          "summary": "Critics of the regime face imprisonment."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia compete at Beijing Olympics",
+        "summary": "Gambian athletes take part in the 2008 Games."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 1871000,
+      "fx_lcu_per_usd_annual_avg": 26.6444,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh threatens gays",
+          "summary": "The president's tirades against homosexuality draw condemnation."
+        },
+        {
+          "headline": "Coup plot alleged",
+          "summary": "The regime claims to foil another military conspiracy."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia chase 2010 World Cup spot",
+        "summary": "The Scorpions compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 1927000,
+      "fx_lcu_per_usd_annual_avg": 28.012,
+      "geopolitical_news": [
+        {
+          "headline": "Drug barons expelled",
+          "summary": "Jammeh moves against traffickers after international pressure."
+        },
+        {
+          "headline": "Gambia's isolation grows",
+          "summary": "Donors freeze aid over human rights abuses."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2010 World Cup",
+        "summary": "The Scorpions fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 1984000,
+      "fx_lcu_per_usd_annual_avg": 29.4615,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh re-elected president",
+          "summary": "The incumbent wins November's vote amid an opposition boycott."
+        },
+        {
+          "headline": "ECOWAS criticizes vote",
+          "summary": "Regional observers decline to endorse the election."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2012 AFCON",
+        "summary": "The Scorpions fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 2043000,
+      "fx_lcu_per_usd_annual_avg": 32.0771,
+      "geopolitical_news": [
+        {
+          "headline": "Gambia executes nine prisoners",
+          "summary": "August's executions spark international outrage."
+        },
+        {
+          "headline": "Jammeh expels British envoy",
+          "summary": "Ties with London collapse over human rights criticism."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia compete at London Olympics",
+        "summary": "Gambian athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 2104000,
+      "fx_lcu_per_usd_annual_avg": 35.9576,
+      "geopolitical_news": [
+        {
+          "headline": "Gambia quits Commonwealth",
+          "summary": "Jammeh withdraws in October, denouncing 'neo-colonialism'."
+        },
+        {
+          "headline": "US suspends trade benefits",
+          "summary": "Washington cites human rights in revoking AGOA eligibility."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2013 AFCON",
+        "summary": "The Scorpions fail to reach the South Africa tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 2165000,
+      "fx_lcu_per_usd_annual_avg": 41.733,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt fails",
+          "summary": "Dissident soldiers attack the presidential palace in December while Jammeh is abroad."
+        },
+        {
+          "headline": "Jammeh survives",
+          "summary": "Loyalist forces crush the putsch; plotters flee to Senegal."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2014 World Cup",
+        "summary": "The Scorpions fall short in qualifying for Brazil 2014."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 2225000,
+      "fx_lcu_per_usd_annual_avg": 42.5062,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh declares Islamic republic",
+          "summary": "The president renames the country without consultation in December."
+        },
+        {
+          "headline": "Crackdown on dissent",
+          "summary": "Opposition figures are jailed and tortured."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2015 AFCON",
+        "summary": "The Scorpions fail to qualify for the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 2284000,
+      "fx_lcu_per_usd_annual_avg": 43.3725,
+      "geopolitical_news": [
+        {
+          "headline": "Barrow defeats Jammeh",
+          "summary": "Opposition candidate Adama Barrow wins December's election in a stunning upset."
+        },
+        {
+          "headline": "Jammeh rejects result",
+          "summary": "The president first concedes, then reverses himself, plunging the country into crisis."
+        },
+        {
+          "headline": "ECOWAS threatens intervention",
+          "summary": "Regional troops mass at the border as mediation fails."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia compete at Rio Olympics",
+        "summary": "Gambian athletes take part in the Rio 2016 Games."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 2342000,
+      "fx_lcu_per_usd_annual_avg": 46.6089,
+      "geopolitical_news": [
+        {
+          "headline": "Jammeh flees into exile",
+          "summary": "ECOWAS troops enter in January; the ex-president flies to Equatorial Guinea."
+        },
+        {
+          "headline": "Barrow inaugurated",
+          "summary": "The new president takes office promising truth and reform."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2017 AFCON",
+        "summary": "The Scorpions fail to reach the Gabon tournament."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 2400000,
+      "fx_lcu_per_usd_annual_avg": 48.1518,
+      "geopolitical_news": [
+        {
+          "headline": "Truth commission begins",
+          "summary": "Hearings expose Jammeh-era atrocities."
+        },
+        {
+          "headline": "Gambia rejoins Commonwealth",
+          "summary": "Banjul returns to the club in February."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2018 World Cup",
+        "summary": "The Scorpions fall short in qualifying for Russia 2018."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 2461000,
+      "fx_lcu_per_usd_annual_avg": 50.0625,
+      "geopolitical_news": [
+        {
+          "headline": "Barrow breaks coalition promise",
+          "summary": "The president refuses to step down after three years, angering allies."
+        },
+        {
+          "headline": "Protests demand his exit",
+          "summary": "The Three Years Jotna movement marches on Banjul."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia miss 2019 AFCON",
+        "summary": "The Scorpions fail to qualify for the Egypt tournament."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 2523000,
+      "fx_lcu_per_usd_annual_avg": 51.5017,
+      "geopolitical_news": [
+        {
+          "headline": "COVID-19 hits tourism",
+          "summary": "The pandemic devastates the beach-resort economy."
+        },
+        {
+          "headline": "Jammeh-era crimes probed",
+          "summary": "Investigators build cases against the exiled dictator's circle."
+        }
+      ],
+      "sport": {
+        "headline": "Football suspended by pandemic",
+        "summary": "Gambia's leagues halt for months amid COVID-19."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 2586000,
+      "fx_lcu_per_usd_annual_avg": 51.4844,
+      "geopolitical_news": [
+        {
+          "headline": "Barrow re-elected president",
+          "summary": "The incumbent wins December's vote; the opposition alleges fraud."
+        },
+        {
+          "headline": "Jammeh's party returns",
+          "summary": "The ex-dictator's APRC backs Barrow in a controversial alliance."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia qualify for first AFCON",
+        "summary": "The Scorpions reach the 2021 tournament, a historic breakthrough."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 2652000,
+      "fx_lcu_per_usd_annual_avg": 54.9235,
+      "geopolitical_news": [
+        {
+          "headline": "Coup attempt foiled",
+          "summary": "December arrests follow claims of a plot against Barrow."
+        },
+        {
+          "headline": "Truth commission report released",
+          "summary": "Investigators recommend prosecuting Jammeh for crimes against humanity."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia reach AFCON quarterfinals",
+        "summary": "The debutants stun Tunisia and reach the last eight in Cameroon."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 2719000,
+      "fx_lcu_per_usd_annual_avg": 61.0963,
+      "geopolitical_news": [
+        {
+          "headline": "Barrow's government stable",
+          "summary": "The president consolidates power ahead of local votes."
+        },
+        {
+          "headline": "Gambia prosecutes Jammeh-era crimes",
+          "summary": "Banjul moves toward a special tribunal."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia qualify for 2023 AFCON",
+        "summary": "The Scorpions reach a second straight Africa Cup of Nations."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 2787000,
+      "fx_lcu_per_usd_annual_avg": 67.6612,
+      "geopolitical_news": [
+        {
+          "headline": "Gambia debates FGM ban repeal",
+          "summary": "Parliament considers overturning the anti-cutting law, sparking global outcry."
+        },
+        {
+          "headline": "Economy recovers on tourism",
+          "summary": "Visitor numbers rebound strongly."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia exit AFCON at group stage",
+        "summary": "Three defeats end the Scorpions' 2023 campaign in Ivory Coast."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 2858000,
+      "fx_lcu_per_usd_annual_avg": 71.2894,
+      "geopolitical_news": [
+        {
+          "headline": "Barrow prepares re-election bid",
+          "summary": "The president positions for the 2026 vote."
+        },
+        {
+          "headline": "Gambia's democracy tested",
+          "summary": "Opposition alleges shrinking civic space."
+        }
+      ],
+      "sport": {
+        "headline": "Gambia qualify for 2025 AFCON",
+        "summary": "The Scorpions reach a third consecutive Africa Cup of Nations."
+      }
+    }
+  ]
+}

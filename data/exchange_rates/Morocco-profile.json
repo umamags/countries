@@ -1,0 +1,396 @@
+{
+  "country": "Morocco",
+  "iso3": "MAR",
+  "currency": "MAD",
+  "currency_name": "Moroccan Dirham",
+  "period": "2006-2025",
+  "sources": {
+    "population": "IMF World Economic Outlook LP via DataMapper, Oct 2026 vintage (millions converted to persons; World Bank unavailable)",
+    "fx_rate": "No data available from World Bank or ECB"
+  },
+  "fx_definition": "Annual average units of local currency per 1 US dollar (calendar-year basis, Dec 31 year-end convention)",
+  "news_note": "2-3 major geopolitical events per year, editorial selection, one-line summaries",
+  "sport_note": "One notable sporting event per year involving the country, editorial selection",
+  "data": [
+    {
+      "year": 2006,
+      "population": 30606000,
+      "fx_lcu_per_usd_annual_avg": 8.7956,
+      "geopolitical_news": [
+        {
+          "headline": "Mohammed VI's reforms continue",
+          "summary": "The king's gradual liberalization maintains stability."
+        },
+        {
+          "headline": "Western Sahara stalemate",
+          "summary": "UN efforts to resolve the dispute make no headway."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco reach AFCON",
+        "summary": "The Atlas Lions qualify for the 2006 tournament in Egypt."
+      }
+    },
+    {
+      "year": 2007,
+      "population": 30998000,
+      "fx_lcu_per_usd_annual_avg": 8.1923,
+      "geopolitical_news": [
+        {
+          "headline": "Casablanca bombings",
+          "summary": "April suicide attacks kill the bombers and bystanders."
+        },
+        {
+          "headline": "Legislative elections held",
+          "summary": "September's vote brings the Istiqlal party to government."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco qualify for 2008 AFCON",
+        "summary": "The Atlas Lions reach the Ghana tournament."
+      }
+    },
+    {
+      "year": 2008,
+      "population": 31391000,
+      "fx_lcu_per_usd_annual_avg": 7.7503,
+      "geopolitical_news": [
+        {
+          "headline": "Anti-terror crackdown",
+          "summary": "Security services dismantle militant cells."
+        },
+        {
+          "headline": "Morocco's economy grows",
+          "summary": "Phosphate and auto investments drive expansion."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco exit AFCON at group stage",
+        "summary": "The Atlas Lions go home early from the 2008 tournament."
+      }
+    },
+    {
+      "year": 2009,
+      "population": 31786000,
+      "fx_lcu_per_usd_annual_avg": 8.0571,
+      "geopolitical_news": [
+        {
+          "headline": "King pardons prisoners",
+          "summary": "Royal amnesties mark religious holidays."
+        },
+        {
+          "headline": "Western Sahara talks stall",
+          "summary": "Manhattan negotiations yield no breakthrough."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco chase 2010 World Cup spot",
+        "summary": "The Atlas Lions compete in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2010,
+      "population": 32182000,
+      "fx_lcu_per_usd_annual_avg": 8.4172,
+      "geopolitical_news": [
+        {
+          "headline": "Gdeim Izik clashes",
+          "summary": "November's camp dismantling in Western Sahara turns deadly."
+        },
+        {
+          "headline": "Morocco-EU fishing deal",
+          "summary": "Brussels extends the controversial fisheries accord."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco miss 2010 World Cup",
+        "summary": "The Atlas Lions fall short in qualifying for South Africa 2010."
+      }
+    },
+    {
+      "year": 2011,
+      "population": 32579000,
+      "fx_lcu_per_usd_annual_avg": 8.0899,
+      "geopolitical_news": [
+        {
+          "headline": "Arab Spring protests",
+          "summary": "February 20 movement marches demand reform."
+        },
+        {
+          "headline": "King offers constitutional reform",
+          "summary": "July's referendum curbs some royal powers."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco miss 2012 AFCON",
+        "summary": "The Atlas Lions fail to qualify for the Gabon-Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2012,
+      "population": 32978000,
+      "fx_lcu_per_usd_annual_avg": 8.6284,
+      "geopolitical_news": [
+        {
+          "headline": "Islamists take government",
+          "summary": "The PJD's Benkirane becomes prime minister after November 2011 elections."
+        },
+        {
+          "headline": "Reforms implemented",
+          "summary": "The new constitution's provisions take effect."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco compete at London Olympics",
+        "summary": "Moroccan athletes take part in the 2012 Games."
+      }
+    },
+    {
+      "year": 2013,
+      "population": 33378000,
+      "fx_lcu_per_usd_annual_avg": 8.4055,
+      "geopolitical_news": [
+        {
+          "headline": "King pardons Spanish prisoners",
+          "summary": "The controversial release of a convicted pedophile sparks outrage."
+        },
+        {
+          "headline": "Morocco's diplomacy active",
+          "summary": "Rabat deepens African engagement."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco exit AFCON at group stage",
+        "summary": "The Atlas Lions go home early from the 2013 tournament."
+      }
+    },
+    {
+      "year": 2014,
+      "population": 33848000,
+      "fx_lcu_per_usd_annual_avg": 8.4063,
+      "geopolitical_news": [
+        {
+          "headline": "Morocco withdraws as AFCON host",
+          "summary": "Ebola fears prompt Rabat to pull out of hosting 2015."
+        },
+        {
+          "headline": "CAF bans Morocco",
+          "summary": "The confederation suspends the Atlas Lions from two tournaments."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco banned from 2015 AFCON",
+        "summary": "CAF's punishment follows the hosting withdrawal."
+      }
+    },
+    {
+      "year": 2015,
+      "population": 34125000,
+      "fx_lcu_per_usd_annual_avg": 9.7643,
+      "geopolitical_news": [
+        {
+          "headline": "Ban overturned",
+          "summary": "CAS lifts Morocco's AFCON suspension."
+        },
+        {
+          "headline": "Morocco's Africa pivot",
+          "summary": "Rabat signs deals across the continent."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco miss 2015 AFCON",
+        "summary": "The Atlas Lions sit out the Equatorial Guinea tournament."
+      }
+    },
+    {
+      "year": 2016,
+      "population": 34487000,
+      "fx_lcu_per_usd_annual_avg": 9.8075,
+      "geopolitical_news": [
+        {
+          "headline": "PJD wins election",
+          "summary": "October's vote extends Islamist-led government."
+        },
+        {
+          "headline": "Rif protests erupt",
+          "summary": "Al Hoceima demonstrations demand development."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco qualify for 2017 AFCON",
+        "summary": "The Atlas Lions return to the continental tournament."
+      }
+    },
+    {
+      "year": 2017,
+      "population": 34852000,
+      "fx_lcu_per_usd_annual_avg": 9.692,
+      "geopolitical_news": [
+        {
+          "headline": "Rif crackdown",
+          "summary": "Security forces crush the Hirak protests; leaders jailed."
+        },
+        {
+          "headline": "Morocco rejoins African Union",
+          "summary": "January's readmission ends 33 years outside the bloc."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco exit AFCON in quarterfinals",
+        "summary": "Egypt end the Atlas Lions' run in the 2017 last eight."
+      }
+    },
+    {
+      "year": 2018,
+      "population": 35220000,
+      "fx_lcu_per_usd_annual_avg": 9.3861,
+      "geopolitical_news": [
+        {
+          "headline": "Boycott movement shakes brands",
+          "summary": "A social media boycott targets major companies."
+        },
+        {
+          "headline": "Morocco loses 2026 World Cup bid",
+          "summary": "The US-Canada-Mexico bid defeats Rabat's campaign."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco return to World Cup",
+        "summary": "The Atlas Lions reach Russia 2018, their first World Cup in 20 years."
+      }
+    },
+    {
+      "year": 2019,
+      "population": 35587000,
+      "fx_lcu_per_usd_annual_avg": 9.6171,
+      "geopolitical_news": [
+        {
+          "headline": "Rif leaders pardoned",
+          "summary": "The king frees Hirak prisoners in a Ramadan amnesty."
+        },
+        {
+          "headline": "New government formed",
+          "summary": "Saadeddine Othmani reshuffles the cabinet."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco exit AFCON in round of 16",
+        "summary": "Benin stun the Atlas Lions on penalties at Egypt 2019."
+      }
+    },
+    {
+      "year": 2020,
+      "population": 35952000,
+      "fx_lcu_per_usd_annual_avg": 9.4968,
+      "geopolitical_news": [
+        {
+          "headline": "Western Sahara escalation",
+          "summary": "November's Guerguerat operation ends the ceasefire with Polisario."
+        },
+        {
+          "headline": "US recognizes Moroccan sovereignty",
+          "summary": "December's deal trades recognition for Israel normalization."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco win CHAN title",
+        "summary": "The Atlas Lions retain the African Nations Championship."
+      }
+    },
+    {
+      "year": 2021,
+      "population": 36313000,
+      "fx_lcu_per_usd_annual_avg": 8.9885,
+      "geopolitical_news": [
+        {
+          "headline": "Algeria severs ties",
+          "summary": "Algiers cuts relations in August over Western Sahara."
+        },
+        {
+          "headline": "Pegasus spy scandal",
+          "summary": "Reports implicate Morocco in phone hacking."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco exit AFCON in quarterfinals",
+        "summary": "Egypt eliminate the Atlas Lions at the 2021 tournament."
+      }
+    },
+    {
+      "year": 2022,
+      "population": 36670000,
+      "fx_lcu_per_usd_annual_avg": 10.1607,
+      "geopolitical_news": [
+        {
+          "headline": "Spain backs Morocco on Sahara",
+          "summary": "Madrid's shift heals ties with Rabat."
+        },
+        {
+          "headline": "Morocco-Israel ties deepen",
+          "summary": "Security cooperation expands under normalization."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco reach World Cup semifinals",
+        "summary": "Wins over Belgium, Spain and Portugal take the Atlas Lions to the last four."
+      }
+    },
+    {
+      "year": 2023,
+      "population": 37022000,
+      "fx_lcu_per_usd_annual_avg": 10.1314,
+      "geopolitical_news": [
+        {
+          "headline": "Earthquake kills thousands",
+          "summary": "September's Al Haouz quake devastates mountain villages."
+        },
+        {
+          "headline": "France backs Moroccan autonomy plan",
+          "summary": "Paris shifts toward Rabat's Sahara position."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco's women debut at World Cup",
+        "summary": "The Atlas Lionesses reach the last 16 at Australia-New Zealand 2023."
+      }
+    },
+    {
+      "year": 2024,
+      "population": 37370000,
+      "fx_lcu_per_usd_annual_avg": 9.9424,
+      "geopolitical_news": [
+        {
+          "headline": "Morocco prepares for 2030 World Cup",
+          "summary": "Stadium projects advance for the co-hosted tournament."
+        },
+        {
+          "headline": "Sahara diplomacy advances",
+          "summary": "More countries back Morocco's autonomy plan."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco win Olympic football bronze",
+        "summary": "A 6-0 rout of Egypt delivers the bronze at Paris 2024."
+      }
+    },
+    {
+      "year": 2025,
+      "population": 37712000,
+      "fx_lcu_per_usd_annual_avg": 9.3503,
+      "geopolitical_news": [
+        {
+          "headline": "Morocco hosts AFCON",
+          "summary": "December's tournament returns to Morocco after 37 years."
+        },
+        {
+          "headline": "Western Sahara gains recognized",
+          "summary": "International support for Morocco's position keeps growing."
+        }
+      ],
+      "sport": {
+        "headline": "Morocco qualify for 2026 World Cup",
+        "summary": "The Atlas Lions cruise through qualifying for the home-continent finals."
+      }
+    }
+  ]
+}
