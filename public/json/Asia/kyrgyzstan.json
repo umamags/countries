@@ -595,5 +595,46 @@
         "summary": "Kyrgyzstan contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/kg.png",
+    "image_large": "https://flagcdn.com/w1280/kg.png"
+  },
+  "national_anthem": "Kyrgyz Respublikasynyn Mamlekettik Gimni",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Kyrgyzstan",
+  "national_animal": "Snow Leopard",
+  "national_bird": "Gyrfalcon",
+  "commentary": {
+    "inflation_management": "The National Bank runs a managed float with inflation targeting elements, and inflation has been volatile: 24.5% in 2008 on the commodity boom, 16.6% in 2011, near zero in 2016-19, then 11.9% in 2021, 13.9% in 2022, and 10.8% in 2023 on post-COVID and Ukraine-war shocks, easing to a projected 8.2% in 2025. Remittance flows from Russia and the som's swings against the ruble are key drivers. Dollarization remains high, weakening transmission, and the central bank has leaned on interventions and reserve requirements.",
+    "debt_management": "Public debt fell dramatically from 73.4% of GDP in 2006 (HIPC-era legacy) to 36.0% projected for 2025, helped by debt relief, gold revenues (Kumtor), and strong recent growth (GDP from $2.8bn to a projected $21.6bn). Spikes came with shocks: 67.1% in 2015 after the som's fall and 63.6% in 2020 on COVID. The 2021 Kumtor nationalization raised resource-nationalism concerns but boosted state revenues. The trajectory is favorable, though governance risks around mining and contingent liabilities bear watching.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Commodity boom and inflation at 24.5%; then the global crisis hit remittances."
+      },
+      {
+        "period": "2010",
+        "event": "April revolution ousted Bakiyev; ethnic violence in the south followed."
+      },
+      {
+        "period": "2015",
+        "event": "Accession to the Eurasian Economic Union deepened Russia dependence."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 and the October revolution brought Japarov to power; debt spiked to 63.6%."
+      },
+      {
+        "period": "2021",
+        "event": "Kumtor gold mine nationalized after a long dispute with Centerra."
+      },
+      {
+        "period": "2022",
+        "event": "Border clashes with Tajikistan; inflation hit 13.9% on regional shocks."
+      }
+    ],
+    "outlook_next_decade": "Kyrgyzstan's base case is moderate growth on gold, remittances, and hydropower exports, with debt continuing to fall if governance holds. Risks are heavily Russia-linked (remittances, trade, EAEU), plus political instability, which has toppled governments repeatedly, and water/energy tensions with neighbors. Chinese debt for infrastructure adds a contingent risk. Analytical assessment: the macro numbers are decent, but institutional volatility is the persistent discount.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

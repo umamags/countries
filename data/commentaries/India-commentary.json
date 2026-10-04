@@ -1,0 +1,40 @@
+{
+  "country": "India",
+  "iso3": "IND",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook, October 2025 vintage",
+  "inflation_management": "India's inflation record divides into two eras. From 2008 to 2013 it ran persistently high (8-11%, peaking at 10.6% in 2009 and 10.1% in 2012), driven by food prices, the fiscal stimulus that followed the 2008-09 global financial crisis, and rupee weakness during the 2013 taper tantrum. The regime change came in 2016, when the RBI adopted formal flexible inflation targeting (4% CPI with a +/-2 point band). Inflation fell to 3.4-3.6% in 2017-18, the lowest in the series, and has since stayed broadly within the band: 4.8-6.7% through the COVID and 2022 commodity shocks, easing to 4.6% in 2024 and a projected 2.8% in 2025. Expectations are now anchored, but food's large CPI weight still produces periodic breaches, as in 2022 (6.7%).",
+  "debt_management": "Public debt is India's weak spot, though it has never threatened solvency since it is overwhelmingly domestic and rupee-denominated. It declined from 77.9% of GDP in 2006 to 67.1% in 2014 on fast nominal growth, then drifted up to 75.1% by 2019 as growth slowed and off-budget borrowing grew. The COVID shock pushed it to 88.4% in 2020, the series high; the subsequent growth rebound brought it down to a projected 81.4% in 2025. The real cost is fiscal, not solvency: interest payments absorb a large share of central revenues, crowding out productive spending. Consolidation has been gradual rather than aggressive.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global financial crisis; large fiscal stimulus pushed the deficit and inflation up for years after."
+    },
+    {
+      "period": "2013",
+      "event": "Taper tantrum: rupee slide forced emergency RBI tightening."
+    },
+    {
+      "period": "2016",
+      "event": "Formal inflation targeting adopted; demonetization of high-value notes."
+    },
+    {
+      "period": "2017",
+      "event": "Goods and Services Tax launched, unifying the indirect-tax system."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19: sharp contraction, then a large fiscal-monetary response that lifted debt to 88.4% of GDP."
+    },
+    {
+      "period": "2022",
+      "event": "Ukraine war commodity shock pushed inflation to 6.7%; RBI hiked rates."
+    },
+    {
+      "period": "2024-25",
+      "event": "Modi won a third term heading a coalition; US tariff escalation in 2025 added trade uncertainty."
+    }
+  ],
+  "outlook_next_decade": "The base case is continued 6-7% growth with inflation near target and a slow debt decline on the fiscal glide path. Upside comes from manufacturing diversification and digital public infrastructure; the risks are food/climate-driven inflation spikes, global trade fragmentation, and whether job creation keeps pace with the demographic dividend. Debt sustainability is not in doubt, but the interest burden will keep fiscal space tight through the decade.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

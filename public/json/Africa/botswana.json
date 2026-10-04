@@ -613,5 +613,42 @@
         "summary": "The Zebras reach the Morocco tournament, only their second AFCON ever."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\uddfc",
+    "image_small": "https://flagcdn.com/w320/bw.png",
+    "image_large": "https://flagcdn.com/w1280/bw.png"
+  },
+  "national_anthem": "Fatshe leno la rona",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Fatshe_leno_la_rona",
+  "national_animal": "Plains Zebra",
+  "national_bird": "Kori Bustard",
+  "commentary": {
+    "inflation_management": "The Bank of Botswana has one of Africa's better inflation records, operating a crawling peg of the pula against a rand-and-SDR basket with a 3-6% objective range. Inflation spiked to 12.6% in 2008 on the global commodity boom and 11.6% in 2006, but the bank brought it down steadily to 1.9% in 2020, the series low. The 2022 shock pushed it back to 12.2%, and policy tightened in response; inflation fell to 5.1% in 2023 and 2.8% in both 2024 and 2025. The framework is credible and expectations are anchored, but with diamonds driving the economy, the real monetary risk is a terms-of-trade shock the exchange rate band cannot absorb.",
+    "debt_management": "Botswana was long the textbook case of diamond-financed prudence: debt bottomed at 5.9% of GDP in 2007 and stayed near 20-25% through the 2010s, with large reserves in the Pula Fund. That era is ending. COVID pushed debt to 24.3% in 2020, and the 2024-25 diamond slump, as lab-grown stones and weak demand crushed De Beers sales, forced heavy borrowing: debt jumped to 32.8% in 2024 and a projected 38.6% in 2025, the series high. The government has drawn on reserves and issued domestic debt. Sustainability is not yet threatened, but the speed of the deterioration shows how a single-commodity fiscal model can unwind.",
+    "key_events": [
+      {
+        "event": "Global financial crisis crushed diamond demand; debt jumped from 7.8% to 21.8% of GDP as the government spent to cushion the economy.",
+        "period": "2009"
+      },
+      {
+        "event": "COVID-19: diamond sales collapsed; GDP in USD terms fell to $15.6bn.",
+        "period": "2020"
+      },
+      {
+        "event": "Post-COVID diamond rebound took GDP to a series high of $20.3bn; inflation spiked to 12.2%.",
+        "period": "2022"
+      },
+      {
+        "event": "October 30 election: Duma Boko's UDC coalition ended 58 years of BDP rule amid anger over unemployment and the diamond downturn; diamond revenues slumped, forcing a wider deficit.",
+        "period": "2024"
+      },
+      {
+        "event": "Prolonged diamond market weakness pushed public debt to a projected 38.6% of GDP, a record, as the new government faced depleted buffers.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is a slow, painful adjustment: diamond revenues are unlikely to return to 2022 levels, forcing either spending cuts, new revenue sources, or a permanently higher debt path. Upside depends on diversification (tourism, financial services) and a diamond market recovery; downside is a fiscal crisis if borrowing continues while reserves erode. Uncertainty is moderate-to-high: the 2024 political turnover was peaceful, but the new government's economic program is untested.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

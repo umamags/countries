@@ -659,5 +659,46 @@
         "summary": "Israel contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\uddf1",
+    "image_small": "https://flagcdn.com/w320/il.png",
+    "image_large": "https://flagcdn.com/w1280/il.png"
+  },
+  "national_anthem": "Hatikvah",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Hatikvah",
+  "national_animal": "Mountain Gazelle",
+  "national_bird": "Eurasian Hoopoe",
+  "commentary": {
+    "inflation_management": "The Bank of Israel has run inflation targeting (1-3%) since the early 1990s, and the record is strong: inflation averaged near 2% through the 2010s, with mild deflation in 2015-16 and 2020, and only the 2022 global shock pushed it to 4.4% (4.2% in 2023), before easing to a projected 3.0% in 2025. The shekel's strength as a high-tech exporter helped contain imported inflation. The central bank hiked decisively in 2022-23 and has eased cautiously since. War-related supply disruptions are the current upside risk.",
+    "debt_management": "Israel entered the period with high debt (77.7% of GDP in 2006, legacy of past crises) and steadily reduced it to 59.3% by 2019 on strong growth and fiscal discipline. COVID pushed it to 71.1% in 2020; rapid recovery cut it to 60.3% by 2022, but the Gaza war reversed the decline, with the IMF projecting 68.5% for 2025. GDP grew from $158.7bn to a projected $610.8bn. Debt remains affordable given deep domestic markets and growth, but the war has structurally raised defense spending.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global crisis; Israel's conservative banks and tech exports limited the damage."
+      },
+      {
+        "period": "2011",
+        "event": "Mass social-justice protests over the cost of living reshaped economic debate."
+      },
+      {
+        "period": "2015-16",
+        "event": "Offshore gas fields (Tamar, Leviathan) began transforming the energy balance."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19: rapid vaccination enabled a fast rebound; debt spiked then fell."
+      },
+      {
+        "period": "2023",
+        "event": "October 7 attacks and the Gaza war; emergency spending and reserve call-ups hit growth."
+      },
+      {
+        "period": "2024-25",
+        "event": "Prolonged multi-front conflict kept defense spending high; debt projected at 68.5% in 2025."
+      }
+    ],
+    "outlook_next_decade": "Israel's high-tech economy gives it strong fundamentals, but the outlook is dominated by security: a durable de-escalation would restore growth and allow debt to decline, while prolonged conflict sustains high defense spending and deters investment. Inflation should stay near target under the credible Bank of Israel. Risks include political instability, judicial-overhaul aftershocks on institutional credibility, and regional escalation. Debt is sustainable in the base case but sensitive to the war's duration.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

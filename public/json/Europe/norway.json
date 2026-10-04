@@ -655,5 +655,42 @@
         "summary": "A 3-0 win launches a dream World Cup qualifying campaign."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf3\ud83c\uddf4",
+    "image_small": "https://flagcdn.com/w320/no.png",
+    "image_large": "https://flagcdn.com/w1280/no.png"
+  },
+  "national_anthem": "Ja, vi elsker dette landet",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ja,_vi_elsker_dette_landet",
+  "national_animal": "Moose",
+  "national_bird": "White-throated Dipper",
+  "commentary": {
+    "inflation_management": "Norges Bank targets 2%, and the floating krone is the shock absorber. Inflation was 2.2% in 2009, 1.3% in 2020, then 5.8% in 2022, the series high \u2014 mild by European standards, as energy is domestically produced. It was 3.2% in 2024 and is projected at 3.0% for 2025, still above target as krone weakness fed imported inflation. Norges Bank hiked later and less aggressively than the ECB, and the krone's depreciation has been the persistent inflationary channel. The 2% target has been missed more often than hit in recent years.",
+    "debt_management": "Norway's reported gross debt \u2014 52.2% of GDP in 2006, a low of 28.8% in 2014, 44.3% in 2020, 34.8% in 2022, and a projected 45% in 2025 (52.8% in 2024, the series high) \u2014 is a statistical artifact: the state holds the world's largest sovereign wealth fund (over $1.5 trillion), making net debt deeply negative. The fund's value swings with markets and the krone, which moves the gross ratio. GDP grew from $349.8bn in 2006 to a projected $530.8bn in 2025. Debt sustainability is the least relevant question in Norwegian macroeconomics; the issue is managing the fund's domestic spending within the fiscal rule.",
+    "key_events": [
+      {
+        "event": "Financial crisis: the oil fund and floating krone cushioned Norway; fiscal stimulus was easily affordable.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Oil price collapse (2014-16) tested the economy; the krone's fall did the adjusting.",
+        "period": "2014-16"
+      },
+      {
+        "event": "COVID-19 and the oil-price crash: the fund's value swung sharply; debt reported at 44.3% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy crisis made Norway Europe's key gas supplier; the fund swelled on energy revenues.",
+        "period": "2022"
+      },
+      {
+        "event": "Inflation projected at 3.0%, still above the 2% target, on krone weakness.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Norway's outlook is dominated by the energy transition: the fund and fiscal position are impregnable, but the economy must diversify as European gas demand eventually declines. The fiscal rule (spending ~3% of the fund) provides a stable anchor. Inflation should return to target as the krone stabilizes, though currency volatility is structural. The analytical risk is not fiscal but strategic \u2014 managing the decline of the oil economy without squandering the fund's insulation.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

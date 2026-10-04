@@ -1,0 +1,32 @@
+{
+  "country": "Fiji",
+  "iso3": "FJI",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Reserve Bank of Fiji operates a managed float for the Fijian dollar with price stability as its mandate, and inflation was mostly moderate through the period: 2.5% in 2006, a 7.7% spike in 2008 on the global food-fuel shock, and 7.3% in 2011. The COVID tourism collapse produced outright deflation of -1.7% in 2020 as demand vanished, followed by imported inflation of 6.1% in 2022. The IMF projects -1.4% for 2025 - unusual deflation that, if realized, would reflect soft domestic demand rather than monetary tightness, since Fiji has no independent interest-rate lever of significance and imports its inflation through the exchange rate and commodity prices.",
+  "debt_management": "Debt fell from 50.3% of GDP in 2006 to 43.4% by 2017 on the back of a tourism boom and consolidation. Then COVID erased tourism: GDP fell from $5.34bn in 2019 to $4.23bn in 2020, and debt exploded to 65.8% (2020), 86.7% (2021) and a series high of 91.5% in 2022 as the government borrowed to fund the response and revenue collapsed. The tourism rebound has brought it down to a projected 78.7% in 2025 - still far above pre-COVID levels. Sustainability hinges on tourism receipts and concessional refinancing; Fiji's debt is the clearest Pacific example of how a single-sector economy converts an external shock into a fiscal crisis.",
+  "key_events": [
+    {
+      "period": "2006",
+      "event": "December military coup by Bainimarama began 16 years of military-backed rule and sanctions."
+    },
+    {
+      "period": "2014",
+      "event": "September elections restored parliamentary democracy, with Bainimarama winning as a civilian."
+    },
+    {
+      "period": "2016",
+      "event": "February: Cyclone Winston, the strongest storm recorded in the Southern Hemisphere, caused massive damage."
+    },
+    {
+      "period": "2020-21",
+      "event": "COVID-19 closed borders and collapsed tourism, Fiji's economic mainstay; GDP shrank sharply."
+    },
+    {
+      "period": "2022",
+      "event": "December election ended Bainimarama's rule; Sitiveni Rabuka became prime minister in a coalition government."
+    }
+  ],
+  "outlook_next_decade": "Tourism has recovered strongly, which should keep debt on a slow downward path, but Fiji remains one shock away from another fiscal crisis - the next severe cyclone or pandemic would hit the same vulnerability. Diversification beyond tourism (agriculture, BPO services) is the stated goal but progress is slow. Climate adaptation costs will rise, and the politics of coalition government add execution risk. The base case is gradual debt reduction with periodic cyclone-driven setbacks.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

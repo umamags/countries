@@ -114,5 +114,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddfa",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guam.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guam.svg?width=1280"
+  },
+  "national_anthem": "Stand Ye Guamanians",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Stand_Ye_Guamanians",
+  "national_animal": null,
+  "national_bird": "Guam Rail",
+  "commentary": {
+    "inflation_management": "Guam is a US territory using the US dollar with no monetary policy and no IMF data. Prices follow US inflation plus island import premia. The economy has two engines - Japanese and Korean tourism, and US military spending - and inflation dynamics follow whichever engine is running hotter: the tourism boom years brought service-price pressure, while the military buildup brings construction demand.",
+    "debt_management": "Guam's government finances lean heavily on federal transfers and military-related spending; local tax revenue tracks tourism closely. The COVID tourism collapse blew a hole in revenues that federal pandemic aid filled. Long-term, the buildup of Marine Corps Base Camp Blaz (activated 2020) and related construction is shifting the economic base structurally toward the military and away from tourism dependence.",
+    "key_events": [
+      {
+        "period": "2020",
+        "event": "October: Marine Corps Base Camp Blaz activated, the first new Marine base in 70 years, anchoring the military buildup."
+      },
+      {
+        "period": "2020-21",
+        "event": "COVID-19 collapsed tourism arrivals, the economy's main private pillar."
+      },
+      {
+        "period": "2023",
+        "event": "May: Typhoon Mawar, a category 4 storm, caused widespread damage and a slow tourism recovery."
+      }
+    ],
+    "outlook_next_decade": "Guam is becoming a fortress economy: the military buildup guarantees demand for a decade regardless of tourism's fortunes, which is stabilizing but deepens dependence on Washington's strategic priorities. Tourism recovery from Mawar and COVID is underway. The main risk is geopolitical - Guam's value as a forward base also makes it a target, a paradox the local economy cannot hedge.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

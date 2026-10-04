@@ -674,5 +674,50 @@
         "summary": "Philadelphia routs Kansas City in New Orleans in February to win Super Bowl LIX, ending the dynasty bid."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "image_small": "https://flagcdn.com/w320/us.png",
+    "image_large": "https://flagcdn.com/w1280/us.png"
+  },
+  "national_anthem": "The Star-Spangled Banner",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/The_Star-Spangled_Banner",
+  "national_animal": "Bald Eagle",
+  "national_bird": "Bald Eagle",
+  "commentary": {
+    "inflation_management": "The Federal Reserve's record has two halves. After the GFC, quantitative easing and zero rates failed to produce much inflation: it averaged under 2% from 2009 to 2020, even dipping to -0.32% in 2009 and 0.12% in 2015, and the Fed repeatedly missed its 2% target from below. The second half was the opposite: massive COVID-era fiscal and monetary stimulus collided with supply-chain breakdowns, sending inflation to 4.68% in 2021 and a 40-year high of 7.99% in 2022. The Fed then executed its fastest tightening cycle since the 1980s, and inflation fell to 4.13% in 2023, 2.95% in 2024 and a projected 2.71% in 2025, near target without a severe recession. The episode damaged the Fed's forecasting reputation but preserved its credibility through decisive action.",
+    "debt_management": "The debt trajectory is the story of three crises layered on a pre-existing upward drift. Gross debt stood at 64.5% of GDP in 2006-07; the GFC and its fiscal response (TARP, ARRA) pushed it to 87.1% in 2009 and over 100% by 2011. It then plateaued around 104-108% through 2019 as growth recovered, before the COVID response, the largest fiscal expansion in modern history, drove it to 132.5% of GDP in 2020, the series high. Rapid nominal growth trimmed it to 119.1% by 2022, but persistent primary deficits have pushed it back up to a projected 125.05% in 2025, roughly double the 2006 level. Dollar dominance means the US funds this cheaply, but debt service is now one of the fastest-growing federal budget items.",
+    "key_events": [
+      {
+        "event": "Global financial crisis: bank rescues, TARP, and stimulus pushed debt from 73.84% to 87.07% of GDP; inflation briefly went negative (-0.32% in 2009).",
+        "period": "2008-09"
+      },
+      {
+        "event": "Debt-ceiling standoff; S&P downgraded US sovereign debt to AA+ for the first time.",
+        "period": "2011"
+      },
+      {
+        "event": "Tax Cuts and Jobs Act cut corporate taxes, widening structural deficits at full employment.",
+        "period": "2017"
+      },
+      {
+        "event": "NAFTA renegotiated as USMCA; in force from July 2020.",
+        "period": "2017-20"
+      },
+      {
+        "event": "COVID-19: GDP dipped to $21.38tn in 2020 while multi-trillion-dollar relief packages lifted debt to its 132.51% peak.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation peaked at 7.99%; the Fed launched its fastest hiking cycle in 40 years.",
+        "period": "2022"
+      },
+      {
+        "event": "Donald Trump won the 2024 presidential election; 2025 brought renewed tariff escalation, reshoring pushes, and GDP projected at $30.62tn.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued growth on AI and services productivity, inflation near 2-3%, and a slowly rising debt ratio that markets tolerate because of the dollar's reserve role and Treasury liquidity. The honest uncertainties are fiscal: neither party has a credible plan to stabilize debt near 125% of GDP, and rising interest costs narrow future options. Upside rests on productivity gains offsetting demographic drag; downside on tariff-driven cost shocks, a bond-market revolt if deficits keep widening, or geopolitical fractures in the dollar system. The US can sustain more debt than almost anyone else, but the margin for complacency is thinner than it looks.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

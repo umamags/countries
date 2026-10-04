@@ -592,5 +592,46 @@
         "summary": "The Djurtus fail to qualify for the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddfc",
+    "image_small": "https://flagcdn.com/w320/gw.png",
+    "image_large": "https://flagcdn.com/w1280/gw.png"
+  },
+  "national_anthem": "Esta \u00c9 a Nossa P\u00e1tria Amada",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Esta_%C3%89_a_Nossa_P%C3%A1tria_Amada",
+  "national_animal": null,
+  "national_bird": "Black Crowned Crane",
+  "commentary": {
+    "inflation_management": "Guinea-Bissau's inflation is anchored by the CFA franc's peg to the euro and has been low for most of the period: it averaged near 2% from 2009 to 2021, with deflation in 2009 (-1.6%) and 2014 (-1.0%). The 2008 commodity boom pushed it to 10.4%, the series high, and the 2022 global shock to 7.9%, easing to a projected 0.9% in 2025. The BCEAO's regional monetary policy has kept prices stable through coups and crises that would have destroyed a floating currency. But monetary stability has coexisted with complete state dysfunction, a reminder that low inflation is necessary but not sufficient for development.",
+    "debt_management": "Guinea-Bissau's debt was among the world's highest before HIPC relief: 190.4% of GDP in 2006, the series high. Completion-point relief around 2010-11 brought it down to 45.6% by 2011, the series low. Since then, chronic political instability has meant stop-start IMF programs and persistent deficits: debt climbed back to a projected 75.3% in 2025. The government borrows mainly concessionally and on the regional WAEMU market. At 75% of GDP for a fragile, cashew-dependent economy with a history of coups, the level is concerning, and IMF assessments flag high risk of debt distress; the deeper problem is that borrowing has financed political survival, not development.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 190.4% to about 46% of GDP.",
+        "period": "2010-11"
+      },
+      {
+        "event": "Military coup ousted the civilian government between election rounds.",
+        "period": "2012"
+      },
+      {
+        "event": "Return to constitutional rule; IMF program resumed.",
+        "period": "2014"
+      },
+      {
+        "event": "Prolonged political crisis between president and parliament paralyzed government.",
+        "period": "2015-19"
+      },
+      {
+        "event": "Umaro Sissoco Embal\u00f3 won disputed 2019 elections; took office 2020.",
+        "period": "2020"
+      },
+      {
+        "event": "Failed coup attempt (February 2022); drug trafficking and instability persisted.",
+        "period": "2022"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued fragility: low inflation under the CFA peg, debt near 75% of GDP, and growth hostage to cashew prices and political stability. Upside would require a genuine political settlement unlocking donor support; downside is another coup or debt distress. Uncertainty is very high: Guinea-Bissau's macro numbers are stable only because the CFA peg and concessional finance paper over a state that barely functions.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

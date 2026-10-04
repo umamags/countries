@@ -1,0 +1,32 @@
+{
+  "country": "Tonga",
+  "iso3": "TON",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The National Reserve Bank of Tonga pegs the pa'anga to a basket of currencies, so inflation tracks import prices closely and swings hard: 7.2% in 2006, 9.6% in 2008, a mild -0.6% in 2016, then 7.2% in 2017. The 2022 volcanic eruption and global food-fuel shock pushed inflation to 6.5% in 2022 and a series high of 12.6% in 2023 - the worst in the dataset for that year - before easing to 8% in 2024 and a projected 3.2% in 2025. Domestic monetary tools are blunt in an economy where remittances (among the world's highest as a share of GDP) drive demand and nearly everything is imported.",
+  "debt_management": "Tonga's debt story is dominated by Chinese Exim Bank loans for the post-2006-riot Nuku'alofa rebuild, which pushed gross debt to a series high of 60% of GDP in 2012. Repayments were repeatedly restructured and deferred, and the ratio has fallen almost every year since, reaching a projected 27.4% in 2025 - the series low. The deleveraging is real but heavily assisted by GDP growth in dollar terms ($0.29bn to $0.68bn) and the concessional nature of the debt. Exposure to a single bilateral creditor remains the structural risk, though the peak danger has passed.",
+  "key_events": [
+    {
+      "period": "2006",
+      "event": "November pro-democracy riots destroyed much of central Nuku'alofa, triggering Chinese-financed reconstruction."
+    },
+    {
+      "period": "2010",
+      "event": "First majority-elected parliament after democratic reforms; a milestone for the Pacific's last Polynesian kingdom."
+    },
+    {
+      "period": "2012",
+      "event": "March: death of King George Tupou V, who had driven the democratic reforms."
+    },
+    {
+      "period": "2018",
+      "event": "February: Cyclone Gita, a category 4 storm, destroyed the parliament building and hundreds of homes."
+    },
+    {
+      "period": "2022",
+      "event": "January: Hunga Tonga-Hunga Ha'apai eruption and tsunami - one of the century's largest volcanic events - cut communications for weeks."
+    }
+  ],
+  "outlook_next_decade": "Debt is now manageable and remittances provide a steady floor under demand, so the macro risk is less fiscal than physical: another major eruption or cyclone would overwhelm the budget again. Chinese debt overhang has eased but the creditor relationship still shapes geopolitics. The base case is slow growth, continued deleveraging, and high vulnerability to the next natural disaster - with Australia and New Zealand as the implicit insurers.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

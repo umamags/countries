@@ -584,5 +584,42 @@
         "summary": "San Marino's revival continues in League D."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/sm.png",
+    "image_large": "https://flagcdn.com/w1280/sm.png"
+  },
+  "national_anthem": "Inno Nazionale della Repubblica",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Inno_Nazionale_della_Repubblica",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "San Marino uses the euro under a monetary agreement with Italy, importing ECB conditions. Inflation was 2.4% in 2009, -0.1% in 2020 (the low), 5.3% in 2022, then 5.9% in 2023, the series high \u2014 the peak came a year later than the euro area's, reflecting local pass-through lags. It fell to 1.2% in 2024 and is projected at 2.3% for 2025, near target. With no central bank, there is no domestic monetary lever; the inflation story is entirely imported.",
+    "debt_management": "San Marino's debt went from 14.2% of GDP in 2006 (12.6% in 2007, the low) to 77.2% in 2021, the series peak, on the banking-sector clean-up and COVID \u2014 the state absorbed failed banks' losses. It fell to 70.6% in 2022 and is projected at 60.6% in 2025 (69.8% in 2020). GDP is tiny and flat: $1.9bn in 2006, a projected $2.2bn in 2025. The IMF program of 2020-22 anchored the adjustment. Debt is falling and the banking clean-up is largely done; sustainability is adequate for a microstate with no monetary autonomy.",
+    "key_events": [
+      {
+        "event": "Banking crisis: the state absorbed failed banks, beginning the debt climb from 14.2% of GDP.",
+        "period": "2008-12"
+      },
+      {
+        "event": "Tax-transparency reforms ended the banking-secrecy model; the financial center shrank.",
+        "period": "2010-16"
+      },
+      {
+        "event": "IMF program (2020-22) anchored the post-COVID and banking-crisis adjustment.",
+        "period": "2020-22"
+      },
+      {
+        "event": "Inflation peaked at 5.9%, a year later than the euro-area peak, on pass-through lags.",
+        "period": "2023"
+      },
+      {
+        "event": "Debt projected at 60.6% of GDP, down from the 77.2% peak, as the banking clean-up concluded.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "San Marino's outlook is stable but narrow: the banking clean-up is done, debt is falling, and the euro agreement provides monetary credibility. The economy's smallness is the permanent constraint \u2014 tourism, manufacturing niches, and financial services must carry it. EU association talks are the main structural lever. Inflation will track the euro area. The analytical assessment: repaired and stable, with limited growth levers beyond integration.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

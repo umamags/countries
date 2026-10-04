@@ -1,0 +1,40 @@
+{
+  "country": "Vietnam",
+  "iso3": "VNM",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The State Bank of Vietnam manages the dong in a crawl against the dollar and has brought inflation down decisively: 23.1% in 2008 and 18.7% in 2011 during the stabilization crisis, then 0.6-4.1% through the late 2010s, 3.2% in 2022, and a projected 3.3% in 2025. The 2011-12 stabilization (tight money, slower credit) was the turning point, establishing credibility that survived the 2022 global shock with only a mild rise. Administered prices (electricity, health) are adjusted in steps, and the central bank has kept the dong's depreciation gradual.",
+  "debt_management": "Public debt peaked at 47.9% of GDP in 2016 after the 2011-12 banking crisis cleanup and stimulus, then declined steadily to a projected 30.3% in 2025 on rapid growth (GDP from $84.3bn to a projected $494.1bn) and fiscal restraint. Vietnam is rare in having reduced its debt ratio while growing fast. Borrowing is largely domestic and concessional; the 2022 real-estate and bond-market turmoil (notably the Van Thinh Phat/SCB scandal) created contingent risks but did not reach the sovereign balance sheet. The trajectory is among Asia's healthiest.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Inflation hit 23.1% on the commodity boom; stabilization began."
+    },
+    {
+      "period": "2011-12",
+      "event": "Banking crisis and inflation at 18.7%; decisive tightening restored stability."
+    },
+    {
+      "period": "2015",
+      "event": "Trans-Pacific Partnership signed (later CPTPP after US withdrawal)."
+    },
+    {
+      "period": "2018",
+      "event": "CPTPP took effect, boosting trade integration."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 contained; Vietnam was among the fastest-growing economies that year."
+    },
+    {
+      "period": "2022",
+      "event": "Anti-corruption 'blazing furnace' campaign intensified; property-bond turmoil hit markets."
+    },
+    {
+      "period": "2024",
+      "event": "Trong died; To Lam consolidated power; manufacturing FDI kept flowing."
+    }
+  ],
+  "outlook_next_decade": "Vietnam's base case is 6% growth on FDI-led manufacturing, supply-chain diversification from China, and a young workforce, with low inflation and falling debt. Risks are middle-income transition challenges (productivity, skills), the anti-corruption campaign's chilling effect on administration, US tariff exposure given the large bilateral surplus, and climate vulnerability in the Mekong Delta. Analytical assessment: the macro framework is strong; the question is whether governance keeps pace with the economy's ambitions.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Brazil",
+  "iso3": "BRA",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper, accessed October 2026",
+  "inflation_management": "Brazil ran a textbook inflation-targeting regime from 2006 to 2014, with inflation contained in a 3.6-6.6% range around the 4.5% target. The framework broke down in 2015-16, when inflation hit 9.0% and 8.7% amid the deep recession, administered-price corrections, and the fiscal-political crisis. Disinflation was then rapid (3.2-3.7% in 2017-2020) as the central bank first hiked aggressively and then cut. Brazil was an early mover in the global cycle: among the first to hike in 2021 (Selic to 13.75%) and the first major economy to cut in 2023. The 2021-22 commodity shock still pushed inflation to 8.3% and 9.3%, but it eased to 4.4-5.0% by 2024-25. Credibility of the target has largely been restored, though fiscal dominance concerns linger.",
+  "debt_management": "Debt dynamics are Brazil's central vulnerability. The ratio fell from 64.6% in 2006 to 59.6% in 2013, then rose almost without pause: 71.7% (2015), 87.1% (2019), and 96.0% in 2020 after COVID spending. Growth and inflation eroded it to 83.9% by 2022, but the 2023 fiscal framework has not stabilized the path - debt is projected at 93.3% of GDP in 2025, the series high. Structurally rigid spending (pensions, indexed wages) plus high real interest rates make consolidation politically and arithmetically hard; the debt trajectory, not inflation, is now the market's main worry.",
+  "key_events": [
+    {
+      "period": "2014-16",
+      "event": "Severe recession: commodity bust, Petrobras/Lava Jato scandal, Dilma Rousseff impeached in 2016."
+    },
+    {
+      "period": "2018",
+      "event": "Jair Bolsonaro elected; pension reform passed in 2019."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19: large emergency aid pushed debt to 96% of GDP."
+    },
+    {
+      "period": "2022-23",
+      "event": "Lula returned to power; January 2023 riots in Brasilia; new fiscal framework enacted."
+    },
+    {
+      "period": "2025",
+      "event": "US imposed steep tariffs on Brazilian goods, pressuring exports and the real."
+    }
+  ],
+  "outlook_next_decade": "Potential growth of around 2-2.5% is plausible, helped by the 2023 tax reform and agricultural/energy strength. The binding constraint is fiscal: without deeper spending reform, debt likely keeps climbing toward 100% of GDP, keeping real rates high and growth subdued. A credible consolidation would unlock lower rates and be the single biggest positive shock for the decade; continued drift is the base case.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

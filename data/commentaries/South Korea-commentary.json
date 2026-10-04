@@ -1,0 +1,40 @@
+{
+  "country": "South Korea",
+  "iso3": "KOR",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Bank of Korea has targeted inflation (currently 2%) since 1998, and the record is solid: 4.7% in 2008 on the commodity boom, then 0.4-4.0% through the 2010s, with sub-1% readings in 2015-16 and 2019-20. The 2022 shock pushed it to 5.1% (3.6% in 2023), and aggressive hiking brought it to a projected 2.1% in 2025, back at target. The won's flexibility absorbs external shocks, and expectations stayed anchored through the hiking cycle. Household debt, not inflation, is the constraint on how far policy can move.",
+  "debt_management": "Public debt has risen steadily but remains moderate: 27.0% of GDP in 2006 to a projected 52.3% in 2025, with steps up after the GFC and COVID (45.9% in 2020). Korea's fiscal conservatism kept the ratio well below peers; the increase reflects aging-related spending and pandemic support rather than profligacy. GDP grew from $1.09tn to a projected $1.87tn (with dollar-term swings on the won). Contingent risks sit in household debt (near 100% of GDP) and public corporations rather than sovereign debt itself.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global crisis; won fell sharply but exports rebounded fast on stimulus."
+    },
+    {
+      "period": "2011",
+      "event": "KORUS free trade agreement took effect, deepening US ties."
+    },
+    {
+      "period": "2016-17",
+      "event": "Park Geun-hye impeached and removed; Moon Jae-in elected."
+    },
+    {
+      "period": "2017",
+      "event": "THAAD deployment triggered Chinese economic retaliation against Korean firms."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 handled with testing and tracing; exports boomed on tech demand."
+    },
+    {
+      "period": "2022",
+      "event": "Yoon Suk Yeol elected; BOK hiked as inflation hit 5.1%."
+    },
+    {
+      "period": "2024",
+      "event": "Martial-law crisis in December; Yoon impeached, political turmoil followed."
+    }
+  ],
+  "outlook_next_decade": "Korea's base case is 2% trend growth with inflation at target and stable debt, powered by semiconductors, batteries, and shipbuilding. Structural drags are severe demographics (world's lowest fertility), household debt, and geopolitical exposure (North Korea, US-China tech rivalry, China as a key market). Political instability after 2024 adds uncertainty. Analytical assessment: the macro framework is strong but the growth model needs upgrading toward services and productivity as the population shrinks.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

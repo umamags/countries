@@ -594,5 +594,42 @@
         "summary": "The Swallows reach the Morocco tournament, their second AFCON appearance."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\uddee",
+    "image_small": "https://flagcdn.com/w320/bi.png",
+    "image_large": "https://flagcdn.com/w1280/bi.png"
+  },
+  "national_anthem": "Burundi Bwacu",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Burundi_Bwacu",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Burundi's inflation history is one of repeated loss of control. It ran at 24.4% in 2008 during the global food-fuel crisis, then moderated to single digits through the early 2010s, even turning to deflation in 2018 (-2.8%) and 2019 (-0.8%). The current crisis is worse: a severe foreign-exchange shortage, monetized deficits, and a collapsing parallel exchange rate pushed inflation to 18.9% in 2022, 27.1% in 2023, 20.2% in 2024, and a series high of 34.2% projected for 2025. The central bank has devalued the franc in steps but remains far from a market-clearing rate, so inflation expectations are unanchored and basic goods are chronically scarce.",
+    "debt_management": "Burundi's debt was transformed by HIPC/MDRI relief: from a crushing 130.3% of GDP in 2006, completion-point relief brought it down to 25.7% by 2009. Since then it has crept back up through fiscal deficits and donor withdrawal after the 2015 crisis, reaching 69.8% in 2022 before easing to a projected 41.2% in 2025 as the denominator recovered. The debt is mostly concessional and domestic, so near-term solvency is not the issue; the issue is that borrowing has financed consumption and the security apparatus rather than productive investment, while arrears to the private sector accumulate.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point debt relief cut public debt from 130.3% (2006) to 25.7% of GDP.",
+        "period": "2009"
+      },
+      {
+        "event": "President Nkurunziza's bid for a third term triggered protests, a failed coup, and a crackdown; donors suspended direct budget support, deepening the forex crisis.",
+        "period": "2015"
+      },
+      {
+        "event": "Nkurunziza died in office; Evariste Ndayishimiye succeeded him, with modest diplomatic re-engagement.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war and forex shortages pushed inflation to 27.1%; the central bank devalued the franc.",
+        "period": "2022-23"
+      },
+      {
+        "event": "Inflation projected at 34.2%, the series high, amid continued parallel-market depreciation and goods shortages.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued stagflation: without a credible exchange-rate adjustment and restored donor relations, inflation will stay high and growth too low to reduce poverty. Upside depends on genuine forex liberalization and agricultural recovery; downside is a full-blown currency crisis. Uncertainty is high: the political system is stable but closed, and economic data quality is weak, so even the direction of travel is hard to verify.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

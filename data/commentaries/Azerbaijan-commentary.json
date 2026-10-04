@@ -1,0 +1,36 @@
+{
+  "country": "Azerbaijan",
+  "iso3": "AZE",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Inflation in Azerbaijan follows the oil cycle and the manat's exchange-rate regime. The 2008 boom pushed inflation to 20.8%, and after the 2014-15 oil collapse forced two manat devaluations in 2015, inflation surged to 12.4% in 2016 and 12.9% in 2017. The central bank then operated a stabilized arrangement with periodic tightening, bringing inflation down to 2-3% in 2018-20. The 2022 commodity shock lifted it to 13.9%, easing to a projected 5.6% in 2025. Dollarization of expectations remains high, so pass-through from any future devaluation is the persistent risk.",
+  "debt_management": "Public debt is very low by international standards, rising only from 5.3% of GDP in 2006 to a projected 20.1% in 2025, with a peak of 26.3% in 2021. The oil-price collapse of 2015-16 (GDP fell from $75.2bn in 2014 to $37.8bn in 2016) lifted the ratio from 8.5% to 22.5% by 2017, and COVID added another step. The real fiscal buffer is the State Oil Fund (SOFAZ), which absorbs surpluses; the 2022 windfall rebuilt it quickly. Debt sustainability is not a concern, but non-oil deficits remain large.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Oil boom peaked; GDP hit $48.9bn before the crisis slowed it."
+    },
+    {
+      "period": "2014-15",
+      "event": "Oil price collapse; GDP fell in dollar terms and the manat was devalued twice in 2015."
+    },
+    {
+      "period": "2016",
+      "event": "OPEC production cuts stabilized prices; economy began a slow recovery."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 and the 44-day war over Nagorno-Karabakh; GDP dipped to $42.7bn."
+    },
+    {
+      "period": "2022",
+      "event": "Ukraine war lifted energy prices; GDP surged to $78.8bn and the oil fund was replenished."
+    },
+    {
+      "period": "2023",
+      "event": "Azerbaijan regained full control of Nagorno-Karabakh; reconstruction spending rose."
+    }
+  ],
+  "outlook_next_decade": "The base case is moderate growth funded by still-large hydrocarbon revenues and the oil fund buffer, with inflation settling in mid-single digits. The structural challenge is diversification away from oil and gas, which still dominate exports and fiscal revenue; gas exports to Europe via the Southern Gas Corridor help. Risks are a sustained oil-price slump and renewed regional conflict. Debt will stay low, but the non-oil deficit needs narrowing for long-run sustainability.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

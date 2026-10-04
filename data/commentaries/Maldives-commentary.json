@@ -1,0 +1,36 @@
+{
+  "country": "Maldives",
+  "iso3": "MDV",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The rufiyaa's peg to the dollar (within a band since 2011) has kept inflation low: 12.0% in 2008 on the commodity spike, then mostly 1-7%, with -1.6% in 2020 and a projected 3.5% in 2025. Tourism-driven foreign exchange usually covers the import bill, so pass-through is contained when reserves are adequate. The 2022 global shock lifted inflation only to 2.6%. Monetary policy is essentially the peg plus reserve management; the risk is a reserves squeeze forcing depreciation, which would quickly lift inflation given near-total import dependence.",
+  "debt_management": "Public debt exploded with COVID and Chinese-financed infrastructure: from 36.8% of GDP in 2006 it rose gradually to 77.2% in 2019, then the tourism collapse (GDP fell from $5.7bn to $3.7bn in 2020) catapulted it to 155.7% in 2020. Recovery brought it down, but heavy borrowing for the airport expansion and bridge projects pushed it back to a projected 125.4% in 2025. The IMF assesses high risk of debt distress, with large repayments to bilateral creditors (notably China) falling due in 2026. Reserves are thin relative to the wall of payments.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "First democratic election; inflation hit 12.0% on the commodity boom."
+    },
+    {
+      "period": "2012",
+      "event": "President Nasheed ousted in disputed circumstances; political turmoil hurt tourism."
+    },
+    {
+      "period": "2014-19",
+      "event": "China-financed infrastructure boom (Sinamale Bridge); debt climbed toward 80%."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 shut tourism; GDP collapsed 35% and debt hit 155.7% of GDP."
+    },
+    {
+      "period": "2023",
+      "event": "Muizzu won the presidency on an 'India Out' platform, pivoting toward China."
+    },
+    {
+      "period": "2024-25",
+      "event": "IMF warned of debt distress as large 2026 repayments approach; reserves under pressure."
+    }
+  ],
+  "outlook_next_decade": "The Maldives faces a near-term liquidity test: the 2026 repayment wall will determine whether it needs restructuring or bridge financing, and tourism revenues plus Gulf/Chinese support are the swing factors. Longer term, tourism growth and the expanded airport support 4-5% growth, but climate change (sea-level rise) is an existential slow-burn risk. Analytical assessment: debt is likely to stay above 100% of GDP for years; the question is financing, not solvency, provided tourism holds.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

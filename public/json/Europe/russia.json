@@ -655,5 +655,42 @@
         "summary": "Russian teams stay excluded from FIFA and UEFA."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf7\ud83c\uddfa",
+    "image_small": "https://flagcdn.com/w320/ru.png",
+    "image_large": "https://flagcdn.com/w1280/ru.png"
+  },
+  "national_anthem": "State Anthem of the Russian Federation",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/State_Anthem_of_the_Russian_Federation",
+  "national_animal": "Brown Bear",
+  "national_bird": "Golden Eagle",
+  "commentary": {
+    "inflation_management": "Inflation management improved markedly until geopolitics intervened. The 2006-2009 period ran hot at 9-14% on oil-boom overheating and the GFC; 2010-2013 moderated to 5.1-8.4% as the central bank moved toward inflation targeting (formal 4% target from 2015). The 2014-15 shock - oil crash, first sanctions wave, ruble devaluation - spiked inflation to 15.5% in 2015, followed by rapid disinflation to 2.9% in 2018, the credibility peak under Governor Nabiullina. The 2022 invasion drove it to 13.7% before emergency rate hikes (to 20%) and capital controls stabilized the ruble; but war spending has since overheated the economy - 5.9% (2023), 8.4% (2024), 8.7% projected 2025 - forcing the policy rate to a record 21% in late 2024.",
+    "debt_management": "Russia's debt ratio is extraordinarily low - the standout of this group. It ran 7.4-12.3% of GDP in 2006-2013, rose only to ~13-15% after 2014, hit 19.2% in 2020, and is projected at 17.2% in 2025. This reflects oil windfalls saved in the Stabilization/Reserve and National Wealth Funds, conservative budgets, and - after 2022 - exclusion from Western capital markets forcing self-financing. The low ratio is real, but it flatters: it masks large drawdowns of sovereign wealth to fund the war and a budget increasingly dominated by military spending.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global financial crisis: oil collapse and a sharp but brief recession; reserves deployed to defend the ruble."
+      },
+      {
+        "period": "2014-15",
+        "event": "Crimea annexation brought Western sanctions; oil crash and ruble float produced a 2015 recession."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 plus the OPEC+ price war briefly drove oil futures negative."
+      },
+      {
+        "period": "2022",
+        "event": "Full-scale invasion of Ukraine: unprecedented sanctions (frozen reserves, SWIFT curbs, oil price cap), ruble collapse, then capital controls and a pivot of energy exports to Asia."
+      },
+      {
+        "period": "2023-25",
+        "event": "War economy: labor shortages, defense-led growth, persistent inflation, and National Wealth Fund drawdowns."
+      }
+    ],
+    "outlook_next_decade": "Macro stability has been preserved through controls, energy revenues from non-Western buyers, and fiscal buffers - but at the cost of militarization and isolation. Over the next decade the risks are structural: sanctions persistence, sovereign-wealth depletion, demographic decline, and technological isolation dragging on productivity. Inflation is likely to run structurally above the pre-2022 norm, and the entire trajectory remains hostage to the war's outcome - the widest uncertainty band of the five.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -675,5 +675,46 @@
         "summary": "The Pharaohs seal a return to the World Cup in October qualifying."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddea\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/eg.png",
+    "image_large": "https://flagcdn.com/w1280/eg.png"
+  },
+  "national_anthem": "Biladi, Biladi, Biladi",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Biladi%2C_Biladi%2C_Biladi",
+  "national_animal": null,
+  "national_bird": "Steppe Eagle",
+  "commentary": {
+    "inflation_management": "Egypt's inflation is a chronicle of delayed devaluations. It ran at 10-16% through the 2011-2016 turmoil as the central bank burned reserves defending the pound. The November 2016 float, under the $12 billion IMF program, sent inflation to 23.5% in 2017 and 20.9% in 2018 before it subsided to 4.5-5.7% in 2020-21. The 2022 Ukraine shock and three step devaluations reignited it: 24.4% in 2023 and a series high of 33.3% in 2024. The March 2024 decision to finally float the pound (with a 600bp rate hike to 27.25%) broke the cycle; inflation is projected at 20.4% for 2025 and falling. The central bank now targets inflation with a flexible exchange rate, but credibility will take years to rebuild after repeated broken peg promises.",
+    "debt_management": "Egypt's debt has been chronically high and crisis-prone. It fell to 66.8% of GDP in 2008 on pre-crisis growth, then climbed through revolution, currency defense, and mega-project spending to 97.8% in 2017, the series high. The 2016 IMF program brought it down to 79.8% by 2019, but COVID, the Ukraine war's import bill, and renewed pound defense pushed it back to 95.7% in 2023. The March 2024 package (IMF $8 billion plus a $35 billion UAE Ras El-Hekma investment deal) stabilized the position, with debt projected at 86.7% in 2025. Sustainability hinges on the exchange rate staying flexible: every defense of the pound has ended in a debt spike, and interest costs consume a huge share of revenues.",
+    "key_events": [
+      {
+        "event": "Revolution ousted Mubarak; tourism and investment collapsed, starting a decade of fiscal strain.",
+        "period": "2011"
+      },
+      {
+        "event": "Pound floated under a $12 billion IMF program; inflation surged to 23.5% (2017).",
+        "period": "2016"
+      },
+      {
+        "event": "COVID-19; Egypt was one of few economies to keep growing, but debt rose.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war triggered capital flight; three devaluations and a $3 billion IMF deal (December 2022).",
+        "period": "2022"
+      },
+      {
+        "event": "Sisi re-elected (December 2023); Gaza war and Houthi attacks slashed Suez Canal revenues.",
+        "period": "2023"
+      },
+      {
+        "event": "February 2024: $35 billion UAE Ras El-Hekma deal; March 2024: pound floated, rates hiked 600bp, IMF program expanded to $8 billion.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is gradual disinflation and debt decline if the flexible exchange rate holds, the IMF's third program in a decade stays on track, and Gulf financing continues. Upside comes from private-sector growth and energy exports; downside is familiar: if the pound is re-pegged or military-linked enterprises crowd out reform, the next external shock restarts the crisis cycle. Uncertainty is moderate: the 2024 package was decisive, but Egypt has exited IMF programs early before.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

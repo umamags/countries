@@ -84,6 +84,9 @@ export default function ComparePage() {
     'exchange_rate_usd',
     'inflation_cpi_pct',
     'gross_debt_usd_billion',
+    'national_anthem',
+    'national_animal',
+    'national_bird',
     'historical_events',
     'sport',
   ]

@@ -589,5 +589,38 @@
         "summary": "The nation's teams prepared for upcoming Pacific competitions."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/mh.png",
+    "image_large": "https://flagcdn.com/w1280/mh.png"
+  },
+  "national_anthem": "Forever Marshall Islands",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Forever_Marshall_Islands",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The Marshall Islands use the US dollar, so inflation mirrors US conditions plus Pacific shipping costs: a series high of 14.7% in 2008, deflation of -2.2% in 2015 and -1.5% in 2016 on the oil-price collapse, near-zero through 2021, then 7.4% in 2023 and a projected 5.5% for 2025 - still elevated. There is no domestic monetary policy whatsoever; the economy simply imports the Federal Reserve's stance. For households, the practical inflation buffer has been Compact-funded public employment and subsidies rather than any price-stability framework.",
+    "debt_management": "The Marshall Islands steadily paid down debt across the whole period: from 44.4% of GDP in 2006 to a projected 11.8% in 2025, the series low, with barely a pause even during COVID. The drivers were Compact of Free Association grants, contributions to the Compact Trust Fund, and conservative budgeting. GDP roughly doubled in dollar terms ($0.14bn to $0.31bn). The balance sheet is now among the Pacific's strongest - but it is a strength built on US transfers, and the 2023 Compact renewal ($2.3bn over 20 years) is what keeps it sustainable. Without the Compact, the fiscal position would unravel quickly.",
+    "key_events": [
+      {
+        "period": "1946-58",
+        "event": "Legacy context: 67 US nuclear tests at Bikini and Enewetak; compensation and health claims remain politically live."
+      },
+      {
+        "period": "2013",
+        "event": "Severe drought in the northern atolls prompted a state of emergency and US disaster aid."
+      },
+      {
+        "period": "2023",
+        "event": "October: signed the renewed Compact of Free Association with the US; enacted March 2024."
+      },
+      {
+        "period": "2024",
+        "event": "Hilda Heine returned as president, pressing long-standing US nuclear-legacy compensation claims."
+      }
+    ],
+    "outlook_next_decade": "The Compact renewal locks in the fiscal foundation for 20 years, and the trust fund is meant to provide self-sufficiency thereafter - though whether it will is debated. The ship registry (one of the world's largest) provides useful non-aid revenue. The existential risks are sea-level rise for the low atolls and the unresolved nuclear-legacy question, which periodically strains US relations. Economically the decade should be stable; the uncertainties are physical and diplomatic, not fiscal.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

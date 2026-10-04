@@ -1,0 +1,36 @@
+{
+  "country": "Jordan",
+  "iso3": "JOR",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The dinar's peg to the US dollar (since 1995) anchors Jordanian monetary policy, and inflation has been moderate outside commodity shocks: 14.0% in 2008 on the global spike, then mostly 1-5%, with mild deflation in 2015-16 and a 2022 peak of only 4.2%. The IMF projects 1.8% for 2025. The Central Bank of Jordan follows the Fed, which has at times meant tight policy during domestic weakness. Fuel-price liberalization episodes (notably 2012) caused step increases but did not de-anchor expectations.",
+  "debt_management": "Public debt has climbed relentlessly from 60.0% of GDP in 2006 to a projected 82.8% in 2025, with no sustained reversal. Drivers include chronic deficits, the fiscal cost of hosting over a million Syrian refugees, energy-import dependence, and repeated shocks (Arab Spring, COVID, regional wars). The ratio dipped to 47.9% in 2008 on strong growth but the trend since has been upward, with COVID lifting it from 69.4% (2019) to 77.9% (2020). Successive IMF programs have imposed gradual consolidation, but the debt path remains upward-sloping.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Commodity spike drove inflation to 14.0%; debt briefly fell on strong growth."
+    },
+    {
+      "period": "2011-12",
+      "event": "Arab Spring protests; fuel-subsidy cuts in 2012 sparked unrest but restored some fiscal space."
+    },
+    {
+      "period": "2013-16",
+      "event": "Syrian refugee influx strained public services and the budget."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 pushed debt to 77.9% of GDP; new IMF program agreed."
+    },
+    {
+      "period": "2022",
+      "event": "Ukraine-war commodity shock lifted inflation to 4.2%; tourism recovered."
+    },
+    {
+      "period": "2023-24",
+      "event": "Gaza war hurt tourism and trade; debt kept climbing to 82.8% projected for 2025."
+    }
+  ],
+  "outlook_next_decade": "Jordan's outlook is constrained: debt is on an unsustainable trajectory without faster growth or deeper consolidation, and the economy is highly exposed to regional instability. IMF-backed reforms (tax, energy pricing) offer a path to stabilize debt, and tourism and ICT services provide upside. Water scarcity is a binding long-run constraint. Analytical assessment: muddling through with donor and IMF support is the base case; a regional escalation that hits tourism or aid would force sharper adjustment.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

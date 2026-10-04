@@ -661,5 +661,46 @@
         "summary": "Iran seal early qualification for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/ir.png",
+    "image_large": "https://flagcdn.com/w1280/ir.png"
+  },
+  "national_anthem": "Sorud-e Melli-e Jomhuri-ye Eslami-e Iran",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Iran",
+  "national_animal": "Asiatic Lion",
+  "national_bird": "Common Nightingale",
+  "commentary": {
+    "inflation_management": "Iran has lived with chronic high inflation driven by sanctions, monetized deficits, and repeated currency collapses, with no credible nominal anchor. Inflation ran 12-33% through 2006-14 (peaking at 32.9% in 2013 after subsidy reform and sanctions), moderated briefly to 6.8% in 2016 after the JCPOA, then exploded again: 40.2% in 2021, 45.8% in 2022, and a projected 50.9% in 2025, the series high. The rial's parallel-market collapse is the transmission mechanism, and central bank financing of the budget entrenches expectations. Inflation control is subordinate to sanctions politics.",
+    "debt_management": "Paradoxically, measured public debt is moderate: it was just 15.2% of GDP in 2006, stayed low through the oil boom, jumped to 45.9% in 2016 on GDP rebasing effects, and the IMF projects 37.3% for 2025. Sanctions cut Iran off from borrowing, so deficits were monetized (hence inflation) rather than debt-financed. GDP in dollar terms collapsed from $722.1bn in 2011 to $209.5bn in 2020 on sanctions and the rial's fall, recovering only to a projected $371.2bn in 2025. The binding constraint is inflation and external isolation, not the debt ratio.",
+    "key_events": [
+      {
+        "period": "2010-12",
+        "event": "Tightened US/EU sanctions over the nuclear program; rial collapsed and inflation hit 29-33%."
+      },
+      {
+        "period": "2015",
+        "event": "JCPOA nuclear deal signed; sanctions relief followed in 2016 and inflation fell to 6.8%."
+      },
+      {
+        "period": "2018",
+        "event": "US withdrew from the JCPOA and reimposed sanctions; rial plunged and inflation surged past 25%."
+      },
+      {
+        "period": "2019-20",
+        "event": "Fuel-price protests; COVID-19 and 'maximum pressure' crushed oil exports and GDP."
+      },
+      {
+        "period": "2022",
+        "event": "Mahsa Amini protests after her death in custody; inflation hit 45.8%."
+      },
+      {
+        "period": "2024-25",
+        "event": "Regional conflict escalation and continued sanctions kept inflation near 50% in the 2025 projection."
+      }
+    ],
+    "outlook_next_decade": "Iran's economy will remain hostage to geopolitics: sanctions relief would unlock oil exports, investment, and disinflation, while continued confrontation keeps inflation high and growth stagnant. Domestic capacity in manufacturing and a young population offer upside under any opening. Analytical assessment must be heavily caveated: outcomes range from reintegration-driven recovery to further isolation and currency crisis, and data quality is weak. Debt is not the binding constraint; the exchange rate and inflation are.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

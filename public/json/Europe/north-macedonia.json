@@ -622,5 +622,42 @@
         "summary": "North Macedonia compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\uddf0",
+    "image_small": "https://flagcdn.com/w320/mk.png",
+    "image_large": "https://flagcdn.com/w1280/mk.png"
+  },
+  "national_anthem": "Denes nad Makedonija",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Denes_nad_Makedonija",
+  "national_animal": "Lion",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The denar's peg to the euro makes North Macedonia an importer of euro-area monetary conditions. Inflation was -0.8% in 2009 (the low), 1.2% in 2020, then 14.2% in 2022, the series high, on food and energy imports \u2014 well above the euro-area average. It fell to 3.5% in 2024 and is projected at 4.1% for 2025, slower disinflation than the area as food prices and wages stayed firm. The central bank shadows ECB moves to defend the peg; domestic adjustment runs through fiscal policy.",
+    "debt_management": "North Macedonia's debt has risen steadily: 30.6% of GDP in 2006 (20.6% in 2008, the low), 50.8% in 2020 after COVID, 50.4% in 2022, and a projected series high of 52.5% in 2025 (52.9% in 2024). The drift reflects persistent deficits and slower growth rather than crisis borrowing. GDP grew from $6.9bn in 2006 to a projected $19.1bn in 2025. The denar's peg to the euro anchors policy; debt at just over 50% of GDP is manageable but the upward trend bears watching given the narrow export base.",
+    "key_events": [
+      {
+        "event": "Global financial crisis; the euro peg held through the regional downturn.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Political crisis (2015-17) resolved by the Prespa Agreement (2018), unblocking NATO and EU paths.",
+        "period": "2015-18"
+      },
+      {
+        "event": "Joined NATO (March 2020); COVID-19 pushed debt to 50.8% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation hit 14.2%, the series high, on imported food and energy prices.",
+        "period": "2022"
+      },
+      {
+        "event": "EU accession talks opened (2022) but stalled over bilateral disputes; debt projected at 52.5% of GDP.",
+        "period": "2022-25"
+      }
+    ],
+    "outlook_next_decade": "North Macedonia's outlook is the EU-accession story: unblocking talks would anchor reform and investment, while the current stall is the main drag. The euro peg provides stability but no monetary flexibility. Debt just above 50% of GDP is sustainable if deficits narrow; the structural risks are emigration, a narrow industrial base, and energy dependence. Inflation should track toward euro-area levels as food-price pressures ease.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -583,5 +583,46 @@
         "summary": "The Green-Yellows compete in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/st.png",
+    "image_large": "https://flagcdn.com/w1280/st.png"
+  },
+  "national_anthem": "Independ\u00eancia Total",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Independ%C3%AAncia_Total",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "S\u00e3o Tom\u00e9 and Pr\u00edncipe's inflation was tamed by the dobra's peg to the euro (since 2010). It ran at 18-32% in 2006-2008, the series high of 32.0% in 2008, on food and fuel prices and monetary instability. The peg brought it down steadily to 5-8% through the 2010s, and the 2022 global shock pushed it back to 18.1% in 2022 and 21.1% in 2023 before collapsing to a projected 0.9% in 2025, the series low. The euro peg is the anchor of the entire macro framework; without it, a microstate with no exports would have no nominal anchor at all.",
+    "debt_management": "S\u00e3o Tom\u00e9 and Pr\u00edncipe's debt was among the world's highest before relief: 283.2% of GDP in 2006, the series high. HIPC/MDRI completion in 2007 brought it down to 61.0% by 2008, and it has fluctuated in the 55-105% range since, reaching a projected 55.7% in 2025, the post-relief low. The government borrows concessionally and from Portugal and Taiwan; oil exploration hopes in the Joint Development Zone with Nigeria never materialized into revenues. At 56% of GDP for a microstate with almost no exports, the debt is a permanent constraint, and IMF assessments flag high risk of distress; the economy survives on aid, cocoa, and tourism.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 283.2% to about 61% of GDP.",
+        "period": "2007"
+      },
+      {
+        "event": "Dobra pegged to the euro, ending the high-inflation era.",
+        "period": "2010"
+      },
+      {
+        "event": "Oil exploration in the Nigeria joint zone yielded no commercial finds; hopes faded.",
+        "period": "2010s"
+      },
+      {
+        "event": "COVID-19 devastated tourism; debt climbed back above 90% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Failed coup attempt (November 2022); political instability persisted.",
+        "period": "2022"
+      },
+      {
+        "event": "Inflation projected at 0.9%, the series low, as the peg and weak demand contained prices.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued aid-dependent stagnation with low inflation under the euro peg and debt near 55% of GDP. Upside is limited to tourism and any offshore oil surprise; downside is donor fatigue or another shock to a state with no buffers. Uncertainty is moderate: the peg is credible and politics are democratic, but the economy is too small to generate its own momentum.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

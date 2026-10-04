@@ -636,5 +636,50 @@
         "summary": "Lebanon contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf1\ud83c\udde7",
+    "image_small": "https://flagcdn.com/w320/lb.png",
+    "image_large": "https://flagcdn.com/w1280/lb.png"
+  },
+  "national_anthem": "Kulluna lil Watan",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Lebanon",
+  "national_animal": "Striped Hyena",
+  "national_bird": "Phoenix",
+  "commentary": {
+    "inflation_management": "Lebanon's monetary regime collapsed in 2019: the lira's 1997 peg to the dollar (1,507.5) held through the 2006 war and the Syrian-crisis years, with inflation mostly 1-7% (and deflation of -3.7% in 2015). When dollar inflows stopped in late 2019, the peg shattered; inflation hit 84.9% in 2020, 154.8% in 2021, 171.2% in 2022, and 221.3% in 2023 as the lira lost over 95% of its value, before easing to 45.2% in 2024 and a projected 14.6% in 2025 on exchange-rate stabilization. The central bank's past financial engineering (swaps with banks) destroyed its balance sheet and credibility.",
+    "debt_management": "Lebanon was the world's most indebted state even before the crisis: debt was 183.3% of GDP in 2006 and stayed above 130% throughout, reaching 171.9% in 2019. The March 2020 sovereign default on Eurobonds was the region's first. GDP collapsed from $55.3bn (2018) to $20.5bn (2021), which mechanically pushed the ratio to 345.5% in 2021; it has since fallen to a projected 139.4% in 2025 on the smaller denominator's partial recovery and lira stabilization. No comprehensive restructuring has been agreed; the debt overhang paralyzes the banking system, whose deposits were wiped out.",
+    "key_events": [
+      {
+        "period": "2006",
+        "event": "War with Israel; debt already 183.3% of GDP."
+      },
+      {
+        "period": "2019",
+        "event": "October uprising; banks froze deposits and the peg began collapsing."
+      },
+      {
+        "period": "2020",
+        "event": "Sovereign default in March; Beirut port explosion in August devastated the capital."
+      },
+      {
+        "period": "2021",
+        "event": "Hyperinflation peaked; GDP bottomed at $20.5bn and poverty soared."
+      },
+      {
+        "period": "2022-23",
+        "event": "Presidential vacuum and political paralysis blocked any IMF program; inflation hit 221.3% in 2023."
+      },
+      {
+        "period": "2024",
+        "event": "War with Israel escalated sharply, displacing over a million people and damaging the south."
+      },
+      {
+        "period": "2025",
+        "event": "Fragile stabilization: inflation projected at 14.6%, but no debt restructuring yet."
+      }
+    ],
+    "outlook_next_decade": "Lebanon's outlook depends on politics that have failed for six years: without a debt restructuring, banking-sector resolution, and an IMF program, the economy stagnates in a dollarized, low-trust equilibrium. A reform government could unlock significant upside given human capital and diaspora resources. War damage from 2024 adds reconstruction needs. Analytical assessment: the base case is prolonged stagnation with periodic instability; honest uncertainty is very high and the data reflect a partially dollarized economy that official statistics capture poorly.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

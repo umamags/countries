@@ -604,5 +604,42 @@
         "summary": "Kigali stages the 2025 UCI Road World Championships, an African first."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf7\ud83c\uddfc",
+    "image_small": "https://flagcdn.com/w320/rw.png",
+    "image_large": "https://flagcdn.com/w1280/rw.png"
+  },
+  "national_anthem": "Rwanda Nziza",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Rwanda_Nziza",
+  "national_animal": "Leopard",
+  "national_bird": "Grey Crowned Crane",
+  "commentary": {
+    "inflation_management": "Rwanda's inflation has been moderate with two major spikes. It hit 15.4% in 2008, the series high, on the global food-fuel crisis, then settled into a 1-6% range for a decade as the central bank's monetary framework matured. The 2022 global shock pushed it to 13.9% in 2022 and 14.0% in 2023 on food prices, before rapid tightening brought it down to 4.8% in 2024 and a projected 7.0% in 2025. The National Bank of Rwanda targets price stability with a managed float and has built credibility; Rwanda's inflation performance is among East Africa's best, reflecting both competent policy and the government's administrative capacity.",
+    "debt_management": "Rwanda's debt has risen steadily as the government borrowed to fund its development model, but from a low base and with strong institutions. From 18.5% of GDP in 2008, the series low, the ratio climbed through the 2010s on infrastructure and the Bugesera airport project: 66.7% in 2020, the series high, after COVID borrowing, easing only slightly to a projected 64.9% in 2025. Rwanda borrows concessionally and on Eurobond markets, and IMF assessments judge the risk of distress moderate, the best in the region. The question is whether the high-investment model generates the returns to service the debt; so far growth has been strong enough to keep the ratio stable, but the margin is narrowing.",
+    "key_events": [
+      {
+        "event": "Global food-fuel crisis pushed inflation to 15.4%, the series high.",
+        "period": "2008"
+      },
+      {
+        "event": "Constitutional referendum allowed Kagame to extend his rule; re-elected with 99% (2017).",
+        "period": "2015-17"
+      },
+      {
+        "event": "COVID-19 pushed debt to 66.7% of GDP, the series high; strong rebound followed.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war pushed inflation to 14.0%; rapid tightening restored stability.",
+        "period": "2022-23"
+      },
+      {
+        "event": "Kagame re-elected (July 2024) with about 99% amid criticism of political closure.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued 7%+ growth with inflation contained and debt stabilizing near 65% of GDP, the strongest macro outlook in East Africa. Upside comes from services, conferences, and regional integration; downside is political: the development model depends on a closed political system whose succession is unplanned. Uncertainty is moderate on economics but high on politics, which is the long-term risk no macro framework can hedge.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

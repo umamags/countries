@@ -642,5 +642,42 @@
         "summary": "Malta compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/mt.png",
+    "image_large": "https://flagcdn.com/w1280/mt.png"
+  },
+  "national_anthem": "L-Innu Malti",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/L-Innu_Malti",
+  "national_animal": "Pharaoh Hound",
+  "national_bird": "Blue Rock Thrush",
+  "commentary": {
+    "inflation_management": "Malta adopted the euro in 2008 and has had one of the area's most stable inflation records: 1.8% in 2009, 0.8% in 2020, and just 6.1% in 2022, the series high \u2014 well below the euro-area average because the government froze energy and fuel prices through the state utility. It was 2.4% in 2024 and is projected at 2.4% for 2025, near target. The energy-price freeze was a large quasi-fiscal operation that bought stability at a fiscal cost the state could afford.",
+    "debt_management": "Malta's debt fell from 64.5% of GDP in 2006 to a low of 39.2% in 2019 on strong growth and surpluses, then COVID pushed it to 48.6% in 2020; it is projected at 46.8% in 2025 (50.1% in 2022, peak post-crisis 68.9% in 2011). GDP grew from $6.8bn in 2006 to a projected $27.8bn in 2025 \u2014 one of the EU's fastest-growing economies. The gaming, tourism, and financial-services model delivered the growth; the fiscal position is comfortable, though the growth model faces regulatory scrutiny.",
+    "key_events": [
+      {
+        "event": "Joined the euro area (January 2008).",
+        "period": "2008"
+      },
+      {
+        "event": "Debt peaked at 68.9% of GDP on crisis-era deficits; consolidation followed.",
+        "period": "2011"
+      },
+      {
+        "event": "Strong growth era: debt fell to 39.2% of GDP in 2019, the series low.",
+        "period": "2019"
+      },
+      {
+        "event": "COVID-19: debt rose to 48.6% of GDP; tourism collapsed and recovered.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy-price freeze kept inflation at 6.1%, well below the euro-area average.",
+        "period": "2022"
+      }
+    ],
+    "outlook_next_decade": "Malta's growth model \u2014 gaming, financial services, tourism, and shipping \u2014 has delivered convergence, but faces EU regulatory pressure on tax and gaming regimes. Debt near 47% of GDP is comfortable, and fiscal space exists. Inflation should stay near the ECB target. The analytical risks are the concentration of the growth model and governance questions that have periodically raised EU scrutiny; the macro position itself is strong.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

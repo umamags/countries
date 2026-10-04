@@ -1,0 +1,40 @@
+{
+  "country": "Mexico",
+  "iso3": "MEX",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Banco de Mexico has run a 3% inflation target since 2001 and is one of the most credible emerging-market central banks. Inflation stayed in the 3.4-5.3% range through the 2010s, with its low point at 2.7% in 2015. The sharpest breach came in 2017, when inflation hit 6.0% after the peso's post-2016 US election depreciation and the fuel-price liberalization (gasolinazo); the bank hiked steadily and restored control. The global post-COVID shock pushed inflation to a period high of 7.9% in 2022, and the bank tightened aggressively again, bringing it down to 4.7% in 2024 and a projected 3.8% in 2025. The peso's floating regime absorbs external shocks, but pass-through from the exchange rate and US prices keeps the bank on constant guard.",
+  "debt_management": "Mexico's debt story is one of slow but persistent ratcheting: gross debt rose from 35.8% of GDP in 2006 to a projected 61.8% in 2025, nearly doubling. The GFC hit Mexico harder than most peers (GDP fell from $1.16tn in 2008 to $943bn in 2009, amplified by peso depreciation), yet debt only ticked up to 41.7%; the bigger climb came in 2013-2016, when falling oil prices and Pemex's deteriorating finances pushed it from 40.8% to 55.0%. Mexico notably kept its COVID fiscal response small by emerging-market standards, so debt rose only to 58.5% in 2020, but the Lopez Obrador years then added fiscal pressure through energy subsidies and flagship projects, taking debt to its projected 61.8% high. With oil revenues weaker and rates high, the fiscal space built up over two decades has largely been spent.",
+  "key_events": [
+    {
+      "event": "Global financial crisis: Mexico suffered one of the sharpest GFC contractions in the region; GDP fell to $943bn in 2009.",
+      "period": "2008-09"
+    },
+    {
+      "event": "Constitutional energy reform ended Pemex's 75-year upstream monopoly, opening oil, gas and power to private investment (constitutional amendment published December 2013).",
+      "period": "2013-14"
+    },
+    {
+      "event": "The peso slid sharply after the 2016 US presidential election on NAFTA termination threats; inflation later spiked to 6.0% in 2017.",
+      "period": "2016"
+    },
+    {
+      "event": "Andres Manuel Lopez Obrador won the presidency in July 2018 on an anti-neoliberal platform, taking office that December.",
+      "period": "2018"
+    },
+    {
+      "event": "COVID-19: GDP fell to $1.12tn; Mexico's fiscal response was deliberately restrained, keeping debt to 58.5%.",
+      "period": "2020"
+    },
+    {
+      "event": "USMCA entered force in July 2020; post-COVID inflation peaked at 7.9% in 2022 as Banxico hiked.",
+      "period": "2020-22"
+    },
+    {
+      "event": "Claudia Sheinbaum elected president in June 2024; GDP reached a projected $1.83tn in 2025, with debt at its 61.8% high.",
+      "period": "2024-25"
+    }
+  ],
+  "outlook_next_decade": "The base case is nearshoring-driven investment growth, inflation converging to target, and debt stabilizing just above 60% of GDP, provided the Sheinbaum administration restores some fiscal discipline. The upside is real: USMCA access and supply-chain diversification make Mexico a natural winner from friend-shoring. The risks are US tariff escalation under the Trump administration, Pemex's massive liabilities and declining output, and security costs. Mexico's institutional strength (independent Banxico) is a backstop, but fiscal reform is the missing piece.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

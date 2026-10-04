@@ -607,5 +607,46 @@
         "summary": "Kuwait contest 2026 World Cup qualifying."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddfc",
+    "image_small": "https://flagcdn.com/w320/kw.png",
+    "image_large": "https://flagcdn.com/w1280/kw.png"
+  },
+  "national_anthem": "Al-Nasheed Al-Watani",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Kuwait",
+  "national_animal": "Arabian Camel",
+  "national_bird": "Falcon",
+  "commentary": {
+    "inflation_management": "The dinar is pegged to an undisclosed basket (heavily dollar-weighted), and inflation has been low and stable where measured: 2.9% in 2014, easing to 0.6% in 2018, then 4.0% in 2022 on the global shock, with the IMF projecting 2.4% for 2025. Note the IMF series has no inflation data for 2006-13, a genuine data gap. Subsidized fuel, food, and utilities dampen pass-through, and the central bank shadows external monetary conditions. Price stability has never been the problem; fiscal policy has.",
+    "debt_management": "Kuwait barely borrowed for most of the period: debt fell from 7.8% of GDP in 2006 to just 2.9% by 2024, as oil surpluses funded the state. But the 2014-16 oil crash exposed the model: with parliament blocking both the debt law and reforms, the government drained the General Reserve Fund until it faced a liquidity crunch in 2020. A new debt law was finally passed in 2025, and the IMF projects debt jumping to 14.6% that year as Kuwait returns to bond markets. The sovereign wealth (Future Generations Fund) remains enormous, so solvency is not at issue, but the episode showed institutional paralysis.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Oil boom took GDP to $147.4bn; the crisis then halved it by 2009."
+      },
+      {
+        "period": "2011",
+        "event": "Arab Spring-era handouts expanded the public wage bill structurally."
+      },
+      {
+        "period": "2014-16",
+        "event": "Oil crash; deficits began and the reserve drain started."
+      },
+      {
+        "period": "2020",
+        "event": "COVID and the oil collapse; General Reserve Fund liquidity crunch forced asset maneuvers."
+      },
+      {
+        "period": "2022",
+        "event": "Oil windfall (GDP $183.5bn) papered over the unresolved fiscal impasse."
+      },
+      {
+        "period": "2025",
+        "event": "New public debt law passed; IMF projects debt at 14.6% of GDP as borrowing resumes."
+      }
+    ],
+    "outlook_next_decade": "Kuwait's finances are strong in assets but weak in institutions: the wealth funds guarantee solvency, yet without subsidy and public-sector reform, deficits return whenever oil dips. The 2025 debt law gives breathing room, not a solution. Upside from the northern oil fields and diversification projects exists but has been promised for decades. Analytical assessment: expect continued stop-start reform with fiscal crises recurring on each oil downturn until structural spending is addressed.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

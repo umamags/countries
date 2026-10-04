@@ -650,5 +650,46 @@
         "summary": "The Mourabitounes fail to qualify for the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/mr.png",
+    "image_large": "https://flagcdn.com/w1280/mr.png"
+  },
+  "national_anthem": null,
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Mauritania",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Mauritania's inflation has been moderate, averaging around 4-5% for most of the period under a managed float of the ouguiya. It peaked at 9.6% in 2022, the series high, during the global commodity shock, and troughed at 1.5% in 2016. A 2018 currency redenomination (1 new ouguiya = 10 old) was cosmetic but accompanied by central bank reforms. Inflation fell to 2.5% in 2024 and a projected 1.6% in 2025 as food and energy prices normalized. The central bank has no formal inflation target but has kept policy reasonably tight; with gas revenues coming onstream, managing inflows without overheating will be the next test.",
+    "debt_management": "Mauritania's debt has been moderate and broadly stable, reflecting iron ore, gold, and now gas revenues. From 38.0% of GDP in 2006 it spiked to 61.5% in 2007, the series high, on one-off factors, then settled into a 40-60% range for most of the period: 58.8% in 2018, easing to a projected 40.4% in 2025 as gas investment converted to production. Borrowing is a mix of concessional and commercial, including for the GTA gas project with Senegal. Sustainability is comfortable by regional standards, and the coming gas revenues should improve it further; the risk is the classic one of spending future gas income before it is secured.",
+    "key_events": [
+      {
+        "event": "Military coup ousted the civilian government; debt spiked to 61.5% of GDP.",
+        "period": "2008"
+      },
+      {
+        "event": "Return to constitutional rule; iron ore boom funded spending.",
+        "period": "2009-14"
+      },
+      {
+        "event": "Ghazouani won the 2019 election, the first democratic transfer between elected presidents.",
+        "period": "2019"
+      },
+      {
+        "event": "COVID-19; IMF support; debt remained near 56% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Greater Tortue Ahmeyim (GTA) offshore gas project with Senegal advanced toward first production.",
+        "period": "2022-25"
+      },
+      {
+        "event": "Ghazouani re-elected (2024); gas revenues began transforming the fiscal outlook.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "The base case is a gas-driven improvement: GTA and BirAllah production should lift growth, strengthen the fiscal position, and bring debt below 40% of GDP. Upside is transformational if gas revenues are invested well; downside is the resource curse, Dutch disease hurting fisheries and agriculture, and political risk. Uncertainty is moderate: the macro framework is sound, but managing a resource windfall is Mauritania's first real test.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "country": "Malaysia",
+  "iso3": "MYS",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Bank Negara Malaysia has kept inflation low and stable under a managed float: it was 5.4% in 2008 on the commodity boom, then 1-4% through the 2010s (with -1.1% deflation in 2020), rising to 3.4% in 2022 before easing to a projected 1.4% in 2025. Subsidized fuel and administered prices dampen volatility, and the central bank was early and measured in the 2022 tightening cycle. The framework is credible and expectations are anchored; subsidy rationalization (diesel in 2024) has been handled without de-anchoring.",
+  "debt_management": "Federal government debt rose steadily from 39.7% of GDP in 2006 to a projected 70.7% in 2025, with steps up after the GFC (50.4% in 2009) and COVID (67.7% in 2020). The broader public-sector burden including guarantees and 1MDB-related liabilities is higher, and the 1MDB scandal revealed governance holes. GDP grew from $170.4bn to a projected $472.2bn, keeping ratios serviceable, and most debt is domestic and ringgit-denominated. The trajectory is manageable but the upward drift and narrow revenue base argue for consolidation.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global crisis; stimulus pushed debt above 50% of GDP."
+    },
+    {
+      "period": "2015",
+      "event": "1MDB scandal broke; GST introduced and oil-price fall strained revenues."
+    },
+    {
+      "period": "2018",
+      "event": "General election ousted the long-ruling coalition; GST replaced with SST."
+    },
+    {
+      "period": "2020",
+      "event": "Political crisis ('Sheraton Move') plus COVID; debt jumped to 67.7%."
+    },
+    {
+      "period": "2022",
+      "event": "General election produced a hung parliament; Anwar Ibrahim became PM of a unity government."
+    },
+    {
+      "period": "2024",
+      "event": "Diesel subsidy rationalization began, a long-delayed reform."
+    }
+  ],
+  "outlook_next_decade": "Malaysia's base case is steady 4-5% growth with low inflation and gradually stabilizing debt if subsidy reforms continue. Upside from semiconductor and data-center investment (notably in Johor) and supply-chain diversification is significant. Risks are political fragmentation slowing reform, commodity dependence (palm oil, oil and gas), and the contingent liabilities still working through the system. Debt is sustainable but the fiscal path needs the revenue side to strengthen.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

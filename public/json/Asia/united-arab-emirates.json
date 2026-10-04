@@ -596,5 +596,50 @@
         "summary": "The UAE contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde6\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/ae.png",
+    "image_large": "https://flagcdn.com/w1280/ae.png"
+  },
+  "national_anthem": "Ishy Biladi",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ishi_Biladi",
+  "national_animal": "Arabian Oryx",
+  "national_bird": "Saker Falcon",
+  "commentary": {
+    "inflation_management": "The dirham's peg to the dollar (3.6725 since 1997) anchors UAE monetary policy, and inflation has followed the property-and-oil cycle: 12.3% in 2008 on the pre-crisis boom, deflation of -4.7% in 2009, near zero in the early 2010s, -2.1% in 2020, then 4.8% in 2022, easing to a projected 1.3% in 2025. The 2018 introduction of 5% VAT added a one-off lift. The central bank shadows the Fed; with an open capital account and the peg, domestic demand (notably Dubai property cycles) is the main inflation driver, and it has been well contained.",
+    "debt_management": "Federal-level debt is low, but the consolidated picture including emirates is what matters: the IMF series shows debt rising from 5.1% of GDP in 2006 to 21.1% in 2009 after the Dubai debt crisis, easing to 13.5% by 2014, then climbing to 35.7% in 2021 on COVID and oil before settling at a projected 34.3% in 2025. Dubai's 2009 standstill on Dubai World debt was restructured without federal bailout. Abu Dhabi's sovereign wealth (ADIA, Mubadala) dwarfs all liabilities; net debt is deeply negative. The ratio is a footnote to asset strength.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Dubai debt crisis; Dubai World sought a standstill; Abu Dhabi provided $10bn support."
+      },
+      {
+        "period": "2014-16",
+        "event": "Oil crash; fiscal consolidation and subsidy cuts began."
+      },
+      {
+        "period": "2018",
+        "event": "5% VAT introduced across the UAE."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 and the oil crash; Expo 2020 delayed a year; debt hit 30.1%."
+      },
+      {
+        "period": "2020",
+        "event": "Abraham Accords normalized relations with Israel, opening trade and investment."
+      },
+      {
+        "period": "2022",
+        "event": "Oil windfall; GDP hit $511.4bn and property boomed."
+      },
+      {
+        "period": "2023-25",
+        "event": "Diversification (tech, finance, tourism) continued; debt projected at 34.3% in 2025."
+      }
+    ],
+    "outlook_next_decade": "The UAE's base case is strong: diversification away from oil is the most advanced in the Gulf, sovereign wealth is enormous, and Dubai/Abu Dhabi compete credibly as global hubs. Risks are property-cycle excesses, regional tensions, and the long-run energy transition, though ADNOC's low-cost production cushions it. Fiscal policy is counter-cyclical by Gulf standards. Analytical assessment: one of the region's most resilient economies, with the main question being execution of diversification rather than any macro constraint.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

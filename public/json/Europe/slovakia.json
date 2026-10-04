@@ -601,5 +601,42 @@
         "summary": "A 2-0 win in Bratislava shocks the four-time champions."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddf0",
+    "image_small": "https://flagcdn.com/w320/sk.png",
+    "image_large": "https://flagcdn.com/w1280/sk.png"
+  },
+  "national_anthem": "Nad Tatrou sa bl\u00fdska",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Nad_Tatrou_sa_bl%C3%BDska",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Slovakia adopted the euro in 2009, handing policy to the ECB. Inflation was 0.9% in 2009, -0.5% in 2016 (the low), 2% in 2020, then 12.1% in 2022, the series high \u2014 among the eurozone's highest on energy intensity. It fell to 3.1% in 2024 but is projected at 4.2% for 2025, still well above target, as the government's VAT hike and regulated-price adjustments added a fiscal impulse to inflation. The central bank has no independent lever; the 2025 overshoot is domestically generated.",
+    "debt_management": "Slovakia's debt has risen steadily: 31.5% of GDP in 2006 (28.6% in 2008, the low), 58.4% in 2020 after COVID, 57.8% in 2022, and a projected series high of 61.6% in 2025. The drivers are persistent deficits \u2014 energy subsidies, pension spending, and slower growth \u2014 against a manufacturing-heavy economy exposed to the German industrial cycle. GDP grew from $57.5bn in 2006 to a projected $154.4bn in 2025. Debt is moderate but the trend is wrong; the EU's fiscal rules now bind, and consolidation is the central fiscal task.",
+    "key_events": [
+      {
+        "event": "Joined the euro area (January 2009), in the middle of the financial crisis.",
+        "period": "2009"
+      },
+      {
+        "event": "Automotive boom made Slovakia the world's largest car producer per capita; growth was strong through the 2010s.",
+        "period": "2010-19"
+      },
+      {
+        "event": "COVID-19: debt jumped to 58.4% of GDP on the contraction and spending.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock: inflation hit 12.1%; the auto sector faced the EV transition.",
+        "period": "2022"
+      },
+      {
+        "event": "VAT hike and fiscal measures pushed inflation to a projected 4.2%; debt hit a series high of 61.6% of GDP.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Slovakia's outlook is the auto-transition story: the economy's extreme dependence on car manufacturing is both the growth engine and the structural risk as the industry electrifies. Debt at 61.6% of GDP projected is manageable but rising, requiring consolidation. Inflation should return to target once the 2025 tax effects wash out. The analytical question is whether Slovakia can move up the value chain in EVs and batteries; the fiscal path depends on growth delivering.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

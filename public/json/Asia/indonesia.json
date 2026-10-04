@@ -684,5 +684,50 @@
         "summary": "Indonesia contest the final rounds of 2026 World Cup qualifying."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\udde9",
+    "image_small": "https://flagcdn.com/w320/id.png",
+    "image_large": "https://flagcdn.com/w1280/id.png"
+  },
+  "national_anthem": "Indonesia Raya",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Indonesia_Raya",
+  "national_animal": "Komodo Dragon",
+  "national_bird": "Javan Hawk-Eagle",
+  "commentary": {
+    "inflation_management": "Bank Indonesia has run inflation targeting since 2005 alongside a fiscal rule capping the deficit at 3% of GDP, and the framework has matured well. Inflation was 13.1% in 2006 (after fuel-subsidy cuts) and 9.9% in 2008, but fell into the 3-6% range through the 2010s, reaching 2.8% in 2019 and just 1.6% in 2021. The 2022 commodity shock pushed it to only 4.1%, and it has since eased to a projected 1.9% in 2025, comfortably within target. Administered fuel prices remain the main source of step-changes, as the 2022 subsidy cut showed.",
+    "debt_management": "Indonesia is a regional model of debt prudence: the ratio fell from 35.8% of GDP in 2006 to 28.0% in 2016 on strong growth and the deficit cap, then rose only modestly to 41.1% in 2021 after COVID forced a temporary suspension of the fiscal rule, easing to a projected 41.0% in 2025. GDP grew from $396.5bn to a projected $1.45tn over the period. The government returned to the 3% deficit ceiling in 2023. The constraint is revenue, not debt: the tax-to-GDP ratio is among the region's lowest, limiting public investment.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global crisis; Indonesia was among the few economies to keep growing through 2009."
+      },
+      {
+        "period": "2013",
+        "event": "Taper tantrum hit the rupiah hard; Bank Indonesia hiked rates aggressively to defend stability."
+      },
+      {
+        "period": "2014",
+        "event": "Joko Widodo elected president, launching infrastructure and reform drives."
+      },
+      {
+        "period": "2015",
+        "event": "Fuel subsidies largely removed, freeing fiscal space and cutting a chronic distortion."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 forced suspension of the 3% deficit rule; debt rose but stayed moderate."
+      },
+      {
+        "period": "2022",
+        "event": "Commodity windfall (coal, nickel, palm oil) boosted revenues and the current account."
+      },
+      {
+        "period": "2024",
+        "event": "Prabowo Subianto won the presidency; continuity of Jokowi-era policies signaled."
+      }
+    ],
+    "outlook_next_decade": "Indonesia's outlook is among Asia's more favorable: 5% trend growth, anchored inflation, and sustainable debt, with nickel downstreaming and the new capital city (Nusantara) as investment drivers. Risks are commodity dependence, the low revenue base constraining ambitions, and political-economy questions under the new administration. If downstreaming industrial policy succeeds without scaring investors, upside is meaningful. Debt is not a constraint on any plausible path.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

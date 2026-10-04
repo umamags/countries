@@ -1,0 +1,36 @@
+{
+  "country": "Pakistan",
+  "iso3": "PAK",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Pakistan has cycled through repeated inflation crises without ever anchoring expectations: 19.6% in 2009, 13.7% in 2011, then a rare calm (2.9% in 2016) before the rupee's slide pushed it to 10.7% in 2020, 12.2% in 2022, 29.2% in 2023, and 23.4% in 2024, the series highs, driven by currency collapse, IMF-mandated energy price hikes, and floods. The State Bank adopted formal inflation targeting in 2021 and hiked aggressively; the IMF projects 4.5% for 2025, a dramatic disinflation if sustained. Fiscal dominance has historically undermined the central bank, and the jury is still out on the new framework.",
+  "debt_management": "Public debt has ratcheted up with each crisis: 46.2% of GDP in 2006, 56.7% by 2010, 66.3% in 2018, 80.8% in 2020, easing to a projected 72.8% in 2025 after the 2023-24 stabilization. Pakistan has needed 24 IMF programs, including a 2008 SBA, 2013 EFF, 2019 EFF, a 2023 SBA that averted default, and a $7bn EFF approved in 2024. GDP in dollar terms has barely grown since 2017 ($339.2bn then, $407.8bn projected 2025) because of depreciation. Debt is sustainable only with continued IMF engagement and primary surpluses that have proven politically difficult.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Balance-of-payments crisis; IMF Stand-By Arrangement as reserves collapsed."
+    },
+    {
+      "period": "2013",
+      "event": "New IMF EFF; energy crisis and circular debt dominated."
+    },
+    {
+      "period": "2018-19",
+      "event": "PTI government; IMF EFF agreed in 2019 amid a currency crisis."
+    },
+    {
+      "period": "2022",
+      "event": "No-confidence ouster of Imran Khan; catastrophic floods; reserves neared exhaustion."
+    },
+    {
+      "period": "2023",
+      "event": "$3bn IMF SBA averted sovereign default; inflation hit 29.2%."
+    },
+    {
+      "period": "2024",
+      "event": "$7bn IMF EFF approved; inflation began falling sharply."
+    }
+  ],
+  "outlook_next_decade": "Pakistan's outlook hinges on whether the 2024 IMF program breaks the boom-bust cycle: the base case is slow stabilization with inflation near target and debt edging down, but history counsels skepticism. Structural needs are unchanged: broaden the tax base, fix the energy sector's circular debt, and boost exports beyond textiles. Political instability and climate vulnerability (floods) are persistent risks. Analytical assessment: muddling through with IMF support is likely; a durable turnaround requires reforms that have eluded every government so far.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Venezuela",
+  "iso3": "VEN",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper, accessed October 2026",
+  "inflation_management": "The series is a textbook hyperinflation. Inflation was already the region's highest at 13.7-31.4% in 2006-2012 under price and exchange controls; after the 2014 oil-price collapse it broke down completely: 40.6% (2013), 62.2%, 121.7%, 254.9%, 438.1% (2014-2017), then the explosion - 65,374% in 2018 and 19,906% in 2019 - as deficit monetization, collapsing oil output, and sanctions destroyed the bolivar through successive redenominations. De facto dollarization and a forced fiscal tightening brought it down to 186.5% (2022) and 49.4% (2024), the first sub-50 reading in a decade, but the 2025 projection of 252% shows stabilization is fragile and policy-dependent rather than institutional.",
+  "debt_management": "Debt rose from 25.7% of GDP in 2006 to 85.4% in 2013, then exploded as the denominator collapsed: 138.4% (2016), 206% (2019), 336.5% (2020). A partial GDP recovery brought it to 138.5% in 2023, but the 2025 projection of 308.7% reflects renewed contraction and the arithmetic of an unserviceable stock. Venezuela defaulted in 2017 and its external obligations - tens of billions in arrears, arbitration awards, and PDVSA-linked claims - are effectively unpayable without a comprehensive restructuring that has not begun.",
+  "key_events": [
+    {
+      "period": "2013",
+      "event": "Hugo Chavez died; Nicolas Maduro took power amid contested legitimacy."
+    },
+    {
+      "period": "2014-16",
+      "event": "Oil-price collapse exposed the fiscal model; shortages, protests, and recession followed."
+    },
+    {
+      "period": "2017",
+      "event": "US financial sanctions; sovereign default; constituent assembly dissolved the opposition-led parliament."
+    },
+    {
+      "period": "2018-19",
+      "event": "Hyperinflation peak; disputed re-election; Juan Guaido's internationally backed challenge; oil sanctions tightened."
+    },
+    {
+      "period": "2019-22",
+      "event": "Mass emigration exceeded 7 million people; economy partially dollarized."
+    },
+    {
+      "period": "2024-25",
+      "event": "Disputed 2024 election; US energy-license policy swung, whipsawing oil revenues."
+    }
+  ],
+  "outlook_next_decade": "The outlook is deeply uncertain and hinges on two variables: oil (US sanctions-license policy) and whether any debt restructuring begins. The base case is stagnation with periodic inflation relapses and continued emigration; a political settlement plus creditor engagement could unlock a sharp recovery from a very low base, but there is no sign of either. Treat any projection as scenario, not forecast.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

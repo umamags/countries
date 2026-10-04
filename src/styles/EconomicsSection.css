@@ -1,3 +1,31 @@
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.section-header h3 {
+  margin: 0;
+}
+
+.definitions-link {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 13px;
+  text-decoration: underline;
+  padding: 0;
+  transition: color 0.15s ease;
+}
+
+.definitions-link:hover {
+  color: var(--text-h);
+}
+
 .charts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -23,6 +51,12 @@
   border-radius: 10px;
   padding: 16px;
   background: var(--bg-raised);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.chart-container:hover {
+  border-color: var(--accent-border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .chart-stat {

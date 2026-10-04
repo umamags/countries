@@ -670,5 +670,50 @@
         "summary": "Taiwan compete at the World Baseball Classic."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\uddfc",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg?width=1280"
+  },
+  "national_anthem": "National Anthem of the Republic of China",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_Anthem_of_the_Republic_of_China",
+  "national_animal": "Formosan Black Bear",
+  "national_bird": "Taiwan Blue Magpie",
+  "commentary": {
+    "inflation_management": "The Central Bank of the Republic of China (Taiwan) has kept inflation low under a managed float: 3.5% in 2008 on the commodity boom, then 0-2% through the 2010s (with mild deflation in 2009, 2015, and 2020), rising to 2.9% in 2022 and easing to a projected 1.7% in 2025. The central bank is famously conservative, hiking less than peers in 2022 and relying on the currency and administered prices. Expectations are firmly anchored; Taiwan never experienced the post-COVID inflation surge seen elsewhere.",
+    "debt_management": "Taiwan's public debt has declined steadily, from 33.3% of GDP in 2006 to a projected 22.4% in 2025, one of Asia's best trajectories. Strong growth (GDP from $386.4bn to a projected $920.0bn), fiscal surpluses in good years, and conservative budgeting explain the improvement; even COVID only nudged the ratio from 32.6% (2019) to 32.0% (2020). The government has fiscal space it rarely uses. Contingent needs are defense spending, which is rising with cross-strait tensions, and energy transition costs.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Global crisis; exports collapsed then rebounded on Chinese stimulus demand."
+      },
+      {
+        "period": "2014",
+        "event": "Sunflower Movement protests blocked a services trade pact with China."
+      },
+      {
+        "period": "2016",
+        "event": "Tsai Ing-wen and the DPP won, shifting cross-strait policy."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 contained with minimal lockdowns; tech exports boomed."
+      },
+      {
+        "period": "2021",
+        "event": "Global chip shortage made TSMC central to geopolitics; drought tested resilience."
+      },
+      {
+        "period": "2022",
+        "event": "Pelosi's August visit triggered Chinese military exercises and tensions."
+      },
+      {
+        "period": "2024",
+        "event": "Lai Ching-te elected president; cross-strait tensions remained elevated."
+      }
+    ],
+    "outlook_next_decade": "Taiwan's base case is 2-3% growth on semiconductor dominance (TSMC's expansion abroad included), with low inflation and falling debt. The dominant risk is geopolitical: cross-strait tensions could disrupt trade and investment, though economic interdependence cuts both ways. Energy security (nuclear phase-out debates) and demographic aging are secondary drags. Analytical assessment: macro fundamentals are excellent; the risk premium is almost entirely geopolitical.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -657,5 +657,42 @@
         "summary": "A dismal World Cup qualifying campaign ends any Peruvian hopes of reaching the finals."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf5\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/pe.png",
+    "image_large": "https://flagcdn.com/w1280/pe.png"
+  },
+  "national_anthem": "Himno Nacional del Per\u00fa",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_Anthem_of_Peru",
+  "national_animal": "Vicu\u00f1a",
+  "national_bird": "Andean Cock-of-the-rock",
+  "commentary": {
+    "inflation_management": "Peru is Latin America's standout inflation manager. The central bank (BCRP) has run inflation targeting (2% +/-1 point) since 2002, and the record shows it: 1.3-3.7% in most years. The only meaningful breaches were imported - 5.8% in 2008 (food and fuel), and the global shock of 2021-23 (4.0%, then 7.9% in 2022 and 6.3% in 2023, amplified by fertilizer prices and sol weakness). Normalization was among the region's fastest: 2.4% in 2024 and a projected 1.5% in 2025. Remarkably, expectations stayed anchored through one of the world's most turbulent political decades, a testament to institutional credibility.",
+    "debt_management": "Fiscal management has been equally disciplined. Debt fell from 34.9% of GDP in 2006 to just 19.9% in 2013 - among the region's lowest - as commodity windfalls were saved rather than spent. It hovered at 20-27% until COVID, when a large but affordable stimulus lifted it to 34.3% in 2020; it is projected at 30.2% in 2025 and falling. Peru is the rare emerging market that ran genuinely counter-cyclical fiscal policy, entering the pandemic with room to spend and exiting without a debt hangover.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global financial crisis weathered with stimulus; quick rebound on commodity demand."
+      },
+      {
+        "period": "2016-22",
+        "event": "Extreme political instability: five presidents, Kuczynski's resignation (2018), Vizcarra's ouster (2020), Castillo's election (2021) and removal (2022)."
+      },
+      {
+        "period": "2017",
+        "event": "Coastal El Nino floods caused major infrastructure damage."
+      },
+      {
+        "period": "2020",
+        "event": "One of the world's strictest lockdowns produced Latin America's deepest contraction despite strong macro buffers."
+      },
+      {
+        "period": "2022-23",
+        "event": "Deadly protests after Castillo's ouster under President Boluarte; mining conflicts disrupted copper output."
+      }
+    ],
+    "outlook_next_decade": "Macro fundamentals are sound: low debt, anchored inflation, and large reserves. The constraint is entirely political - investment, especially in the mining pipeline that funds the treasury, hinges on governability. If politics stabilize, Peru can grow 3-4% with debt drifting back toward 25% of GDP; continued fragmentation means underperformance relative to fundamentals. El Nino/climate exposure is the main exogenous risk.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

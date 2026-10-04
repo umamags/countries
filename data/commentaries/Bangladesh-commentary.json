@@ -1,0 +1,36 @@
+{
+  "country": "Bangladesh",
+  "iso3": "BGD",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Bangladesh Bank has run a managed exchange-rate regime with monetary aggregates as the anchor, and inflation has been sticky in the 5-10% range for most of the period: 9.9% in 2008, easing to 5.4-5.9% in 2016-19. The post-COVID commodity shock and taka depreciation pushed it to 9.0% in 2023, 9.7% in 2024, and a projected 10.0% in 2025, the highest in the series. The central bank tightened and let the taka slide in a more market-based crawl, but food and energy pass-through plus administered adjustments have kept inflation elevated. Credibility is improving but expectations are not yet anchored.",
+  "debt_management": "Public debt has been remarkably stable and moderate, drifting from 35.3% of GDP in 2006 to a projected 42.0% in 2025, with no crisis-era spike comparable to peers. Steady 6-7% growth, concessional external borrowing, and a narrow tax base financed largely by domestic banks explain the flat profile. The 2022-23 forex-reserve squeeze and the IMF's $4.7bn program (approved January 2023) addressed external liquidity, not solvency. The risk is contingent liabilities in state banks and power-sector guarantees rather than the headline ratio.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global crisis slowed garment exports only briefly; growth proved resilient."
+    },
+    {
+      "period": "2013",
+      "event": "Rana Plaza collapse killed over 1,100 workers and forced labor and safety reforms in the garment sector."
+    },
+    {
+      "period": "2022",
+      "event": "Ukraine-war commodity shock drained forex reserves and forced import curbs and taka depreciation."
+    },
+    {
+      "period": "2023",
+      "event": "IMF approved a $4.7bn EFF/ECF program; inflation hit 9.0%."
+    },
+    {
+      "period": "2024",
+      "event": "Mass protests ousted Prime Minister Sheikh Hasina in August; an interim government took over amid economic strain."
+    },
+    {
+      "period": "2025",
+      "event": "Inflation projected at 10.0% as the political transition and IMF program conditions play out."
+    }
+  ],
+  "outlook_next_decade": "The base case is continued 5-6% growth on garments, remittances, and a demographic dividend, with inflation gradually returning toward 6% if the IMF program stays on track. Key risks are political instability delaying reforms, climate vulnerability (floods, cyclones), and graduation from least-developed-country trade preferences. Debt is sustainable, but revenue mobilization must rise to fund infrastructure and social spending. External financing needs bear watching given the thin reserve buffer.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

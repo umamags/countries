@@ -100,5 +100,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\uddfd",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Christmas%20Island.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Christmas%20Island.svg?width=1280"
+  },
+  "national_anthem": "Advance Australia Fair",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Advance_Australia_Fair",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Christmas Island is an Australian external territory using the Australian dollar; it has no monetary policy and no IMF data. Prices track Australian conditions plus the high cost of shipping everything to a remote Indian Ocean island. The economy rests on phosphate mining (Phosphate Resources Ltd), the immigration detention centre, and small-scale tourism around the red crab migration.",
+    "debt_management": "The territory cannot borrow as a sovereign; its finances run through the Australian federal budget. Economic fortunes swing with Canberra's decisions - the detention centre's openings and closures move local employment more than any market force. Phosphate reserves are finite, which sets a long-term clock on the mining pillar.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "The immigration detention centre opened, becoming a major local employer and political flashpoint."
+      },
+      {
+        "period": "2010",
+        "event": "December: the SIEV 221 asylum-seeker boat disaster killed around 50 people off the island's cliffs."
+      },
+      {
+        "period": "2006-25",
+        "event": "Phosphate mining continued as the economic base while the famous red crab migration anchored eco-tourism."
+      }
+    ],
+    "outlook_next_decade": "Christmas Island's future is essentially an Australian policy decision: detention operations, phosphate's remaining life, and whether tourism is developed seriously. There is no path to economic self-sufficiency at 2,000 residents. Expect continued dependence on federal funding with periodic controversy over the detention centre's role.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

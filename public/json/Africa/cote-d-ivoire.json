@@ -610,5 +610,42 @@
         "summary": "The holders reach the Morocco tournament to defend their title."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\uddee",
+    "image_small": "https://flagcdn.com/w320/ci.png",
+    "image_large": "https://flagcdn.com/w1280/ci.png"
+  },
+  "national_anthem": "L'Abidjanaise",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/L%27Abidjanaise",
+  "national_animal": "African Elephant",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "C\u00f4te d'Ivoire has one of West Africa's best inflation records, anchored by the CFA franc's peg to the euro. Inflation exceeded 5% only twice in twenty years: 4.9% in 2011 (post-election crisis disruptions) and the series high of 5.2% in 2022 during the global commodity shock. It averaged barely 2% from 2012 to 2021, and fell to a projected 0.1% in 2025, the series low. The BCEAO's regional monetary policy and the peg have kept expectations anchored through political crises that would have shattered a floating currency. The cost is the absence of an independent monetary lever, but for C\u00f4te d'Ivoire the stability dividend has been enormous.",
+    "debt_management": "C\u00f4te d'Ivoire's debt was transformed twice. First, HIPC completion in 2012 cut the ratio from 49.9% of GDP (2011) to 24.6% by 2013, the series low. Then the post-crisis boom years brought a deliberate borrowing surge to fund infrastructure: the ratio climbed steadily to 59.5% in 2024, the series high, easing to a projected 56.2% in 2025. The government has issued multiple Eurobonds and borrowed heavily on the regional market. Sustainability is still judged manageable given strong growth and a diversified economy, but the 35-point climb in a decade means debt service now consumes a significant share of revenues, and the 2022-24 global rate shock raised refinancing costs.",
+    "key_events": [
+      {
+        "event": "Disputed 2010 election triggered a post-election crisis; Alassane Ouattara took office in 2011 and the economy began a rapid rebound.",
+        "period": "2010-11"
+      },
+      {
+        "event": "HIPC completion-point relief cut debt to 24.6% of GDP; growth averaged around 8% through the decade.",
+        "period": "2012"
+      },
+      {
+        "event": "COVID-19: the government borrowed heavily; debt reached 46.3% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Cocoa prices surged to record highs as West African harvests failed, boosting export revenues.",
+        "period": "2023-24"
+      },
+      {
+        "event": "C\u00f4te d'Ivoire hosted and won the Africa Cup of Nations; Ouattara won a fourth term in the October 2025 election.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued 6%+ growth with low inflation, underpinned by cocoa, new oil and gas fields (Baleine), and infrastructure. Upside comes from agro-processing and energy exports; downside is debt: if borrowing continues at the 2013-2024 pace, the next commodity downturn could strain sustainability. Political risk around succession (Ouattara, in power since 2011) is the main uncertainty, but the macro framework is the strongest in francophone West Africa.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

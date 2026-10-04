@@ -646,5 +646,42 @@
         "summary": "Croatia lead their qualifying group for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udded\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/hr.png",
+    "image_large": "https://flagcdn.com/w1280/hr.png"
+  },
+  "national_anthem": "Lijepa na\u0161a domovino",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Lijepa_na%C5%A1a_domovino",
+  "national_animal": "Pine Marten",
+  "national_bird": "Common Nightingale",
+  "commentary": {
+    "inflation_management": "Croatia's inflation followed the classic periphery pattern: moderate in the 2010s, then 10.7% in 2022, the series high, on energy and food prices. Euro adoption in January 2023 coincided with disinflation to 4.0% in 2024; it is projected at 4.4% for 2025, still above the euro-area average as tourism-driven services prices and the one-off euro changeover effect kept momentum. Monetary policy is now the ECB's; the domestic inflation story is wage and services convergence.",
+    "debt_management": "Croatia's debt went through a full boom-bust-consolidation cycle: 38.4% of GDP in 2006, a low of 37.1% in 2007, then the long post-2008 recession pushed it to 86.5% in 2020, the series peak, when COVID compounded legacy debt. Recovery and consolidation brought it down to a projected 55.9% in 2025 (68.5% in 2022). GDP rose from $49.6bn in 2006 to a projected $106.1bn in 2025. Euro adoption in January 2023 cut currency risk and borrowing costs; debt is on a sustainable downward path provided growth holds.",
+    "key_events": [
+      {
+        "event": "EU accession (July 2013) after a long post-war reconstruction; debt began consolidating from crisis highs.",
+        "period": "2013"
+      },
+      {
+        "event": "COVID-19: debt spiked to 86.5% of GDP, the series peak, on a tourism-driven GDP collapse.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation hit 10.7%, the series high, on the energy shock.",
+        "period": "2022"
+      },
+      {
+        "event": "Joined the euro area and Schengen (January 2023), the culmination of the post-war European integration project.",
+        "period": "2023"
+      },
+      {
+        "event": "Disinflation proceeded under ECB policy; debt fell to a projected 55.9% of GDP.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Euro membership is the structural tailwind: lower rates, no currency risk, and deeper integration with the euro area. The debt path from 86.5% to a projected 55.9% of GDP shows the consolidation machine works when growth cooperates. Risks are tourism concentration, emigration, and the energy dependence that produced the 2022 spike. Inflation convergence to the ECB target should be achieved, though services prices will stay relatively firm.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

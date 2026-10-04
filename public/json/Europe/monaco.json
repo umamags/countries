@@ -162,5 +162,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\udde8",
+    "image_small": "https://flagcdn.com/w320/mc.png",
+    "image_large": "https://flagcdn.com/w1280/mc.png"
+  },
+  "national_anthem": "Hymne Mon\u00e9gasque",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Hymne_Mon%C3%A9gasque",
+  "national_animal": "European Hedgehog",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Monaco uses the euro under a monetary agreement with the EU, so price stability is imported from the ECB. With no central bank and a tiny, services-dominated economy, local inflation broadly tracks France's. The principality has no independent monetary lever; economic management is fiscal and regulatory by default.",
+    "debt_management": "Monaco publishes no meaningful public-debt series in the IMF data, and the principality's fiscal model makes the concept almost irrelevant: the state runs persistent surpluses on VAT-sharing with France, corporate taxes, and real-estate revenues, holds large reserves, and carries negligible debt. There is no sovereign borrowing program. Fiscal management is about allocating surpluses \u2014 to the sovereign wealth fund and public housing \u2014 not about debt sustainability.",
+    "key_events": [
+      {
+        "event": "EU monetary agreement formalized Monaco's use of the euro and its right to mint coins.",
+        "period": "2012"
+      },
+      {
+        "event": "COVID-19 hit tourism and events (including the cancelled 2020 Grand Prix), but reserves absorbed the shock.",
+        "period": "2020"
+      },
+      {
+        "event": "EU association-agreement talks continued, with tax-transparency compliance reshaping the financial center.",
+        "period": "2022-24"
+      }
+    ],
+    "outlook_next_decade": "Monaco's outlook is one of continued stability: a wealthy, fiscally secure microstate with no debt and imported price stability. The structural considerations are regulatory \u2014 EU pressure on tax and financial transparency \u2014 and physical: land scarcity and sea-level exposure for a coastal city-state. On macroeconomics alone, there is no material risk to assess.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

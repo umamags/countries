@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "iso3": "CAN",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Bank of Canada has run a formal 2% inflation target since 1991, and the record is one of the strongest in the G7: inflation sat at 1.5-2.9% through most of 2006-2019, dipped to 0.3% in 2009 during the GFC, and never breached 3%. The credibility break came after COVID: massive fiscal-monetary stimulus and supply bottlenecks drove inflation to 3.4% in 2021 and a period high of 6.8% in 2022, the worst in four decades. The Bank responded with the fastest tightening cycle since the 1980s, and inflation fell to 3.9% in 2023, 2.4% in 2024 and a projected 2.1% in 2025, back near target. Expectations appear re-anchored, but the episode showed how exposed a housing-heavy economy is to rate shocks.",
+  "debt_management": "Canada entered the GFC in strong shape, with gross debt at 67.2% of GDP in 2007, near its low; stimulus pushed it to 81.8% in 2009, and it then stabilized in the 84-92% range through the 2010s, with the 2015 oil-price crash denting energy revenues but not forcing a fiscal break. The COVID response was the largest peacetime fiscal expansion in Canadian history: emergency transfers and business support lifted gross debt to 118.1% of GDP in 2020, the series high. The rebound and high nominal growth brought it down to 103.5% in 2022, though it has since drifted up again to a projected 113.5% in 2025. Sustainability is not in question at current levels, but the trajectory has stopped falling, which limits fiscal room for the next shock.",
+  "key_events": [
+    {
+      "event": "Global financial crisis: Canada avoided a banking crisis but still required large stimulus; debt jumped to 81.8% of GDP.",
+      "period": "2008-09"
+    },
+    {
+      "event": "Oil price crash hammered Alberta's energy sector and the loonie; Justin Trudeau became prime minister.",
+      "period": "2015"
+    },
+    {
+      "event": "NAFTA renegotiation launched by the Trump administration; USMCA signed in late 2018 and in force from July 2020.",
+      "period": "2017-18"
+    },
+    {
+      "event": "COVID-19: GDP fell to $1.66tn; the fiscal response lifted debt to its 118.1% peak.",
+      "period": "2020"
+    },
+    {
+      "event": "Inflation hit 6.8%; the Bank of Canada began one of its fastest rate-hiking cycles on record.",
+      "period": "2022"
+    },
+    {
+      "event": "Inflation returned near target; Trudeau resigned in early 2025, Mark Carney became prime minister in March 2025, and renewed US tariff threats revived trade uncertainty.",
+      "period": "2024-25"
+    }
+  ],
+  "outlook_next_decade": "The base case is modest growth with inflation near the 2% target and debt roughly stabilizing around 110% of GDP, though the drift back up since 2022 is a warning sign. The structural bets are energy transition, immigration-driven labor supply, and deepened trade ties with the USMCA. Key risks are a housing correction under higher rates, US tariff escalation (especially on autos and energy), and provincial-federal fiscal tension. Canada's credible institutions are its main asset; they are also what markets will punish if the debt path is allowed to keep rising.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

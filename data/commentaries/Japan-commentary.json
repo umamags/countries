@@ -1,0 +1,40 @@
+{
+  "country": "Japan",
+  "iso3": "JPN",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Japan spent most of the period fighting deflation: inflation was 0.3% in 2006, negative in 2009-11, and near zero through the 2010s despite the Bank of Japan's 2013 quantitative and qualitative easing and yield-curve control. The 2014 consumption-tax hike briefly lifted it to 2.8%. The global 2022 shock finally broke the deflationary mindset, with inflation reaching 2.5% in 2022, 3.3% in 2023, and a projected 3.2% in 2025, and the BOJ ended negative rates in March 2024. After decades of undershooting, Japan now faces the novel challenge of keeping inflation from overshooting while normalizing policy.",
+  "debt_management": "Japan has the developed world's highest public debt: 152.1% of GDP in 2006, rising through the GFC (172.9% in 2009), the 2011 earthquake, and Abenomics-era stimulus to 206.3% in 2019, then 228.8% in 2020 on COVID, easing to a projected 206.5% in 2025. It has remained sustainable because it is overwhelmingly domestically held, the BOJ owns roughly half, and borrowing costs stayed near zero for years. In dollar terms GDP fell from $5.3tn (2012) to a projected $4.4tn (2025) on yen weakness, flattering the ratio. The risk is rising interest costs as rates normalize.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global financial crisis hit exports hard; debt jumped past 170% of GDP."
+    },
+    {
+      "period": "2011",
+      "event": "Tohoku earthquake, tsunami, and Fukushima disaster; massive reconstruction spending followed."
+    },
+    {
+      "period": "2012-13",
+      "event": "Abenomics launched; BOJ began QQE in April 2013 targeting 2% inflation."
+    },
+    {
+      "period": "2019",
+      "event": "Consumption tax raised to 10%, denting demand just before COVID."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19; debt hit 228.8% of GDP on emergency spending."
+    },
+    {
+      "period": "2022",
+      "event": "Yen slid sharply; BOJ defended yield-curve control amid global tightening."
+    },
+    {
+      "period": "2024",
+      "event": "BOJ ended negative rates and YCC, beginning cautious normalization."
+    }
+  ],
+  "outlook_next_decade": "Japan's base case is low but positive growth with inflation settling near 2% and very gradual policy normalization. The debt trajectory depends on interest rates: sustained higher yields would eventually raise debt-service costs materially, though domestic ownership provides a deep buffer. Demographics remain the structural drag, partially offset by productivity gains and corporate reform. The analytical risk is a disorderly bond-market repricing if fiscal discipline slips; the upside is that escaping deflation durably would be a historic success.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Brunei",
+  "iso3": "BRN",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Brunei runs a currency board with the Brunei dollar pegged at par to the Singapore dollar, so monetary policy is imported from MAS and inflation is structurally near zero: it averaged close to 0% across the period, with mild deflation in 2014-19 and only a brief spike to 3.7% in 2022 on global energy and food prices. The IMF projects -0.3% for 2025. The regime delivers rock-solid price stability but no counter-cyclical tool, which matters little given the fiscal dominance of oil revenues.",
+  "debt_management": "Brunei has essentially no public debt: the ratio never exceeded 3.2% of GDP (2014) and the IMF projects 1.5% for 2025, the lowest in Asia. Hydrocarbon surpluses were historically saved rather than borrowed against, and the government funds itself from oil and gas revenue plus returns on sovereign assets. The 2014-16 oil crash shrank GDP from $17.1bn to $11.4bn without any debt accumulation. The fiscal question is entirely about revenue diversification as reserves deplete, not about debt.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Oil boom lifted GDP to $15.9bn; inflation stayed at just 2.1%."
+    },
+    {
+      "period": "2014-16",
+      "event": "Oil price collapse cut GDP by a third; reserves and the peg absorbed the shock."
+    },
+    {
+      "period": "2019",
+      "event": "New Sharia penal code drew international criticism and tourism concerns."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 and the oil crash pushed GDP to $12.0bn; Hengyi's petrochemical refinery began operations, diversifying downstream."
+    },
+    {
+      "period": "2022",
+      "event": "Energy windfall lifted GDP to $16.7bn and inflation briefly to 3.7%."
+    },
+    {
+      "period": "2025",
+      "event": "GDP projected at $15.9bn with inflation near zero; diversification remains slow."
+    }
+  ],
+  "outlook_next_decade": "Brunei's macro stability is assured by the peg, minimal debt, and sovereign buffers, but long-run prosperity depends on diversifying before oil and gas decline. Downstream petrochemicals (Hengyi) and Islamic finance offer partial offsets; tourism and services remain small. The risk is a slow erosion of per-capita income as hydrocarbons fade without replacement industries. Policy has been cautious rather than transformative.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

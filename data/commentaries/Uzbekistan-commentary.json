@@ -1,0 +1,36 @@
+{
+  "country": "Uzbekistan",
+  "iso3": "UZB",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Uzbekistan's inflation was chronically high under the old closed regime, 11-14% through 2006-16, reflecting the overvalued official exchange rate and administered prices. The September 2017 liberalization, which devalued the sum by roughly half and unified exchange rates, pushed inflation to 13.9% in 2017 and 17.5% in 2018; it has since moderated to a projected 8.8% in 2025 as the central bank adopted inflation targeting (2020) and tightened credibly. Dollar-term GDP fell from $97.3bn (2016) to $61.3bn (2018) on the devaluation before recovering to a projected $147.1bn in 2025. The disinflation path is real but incomplete.",
+  "debt_management": "Public debt was minimal under Karimov (5-12% of GDP through 2016) because the state barely borrowed externally. Liberalization changed this: the ratio rose to 17.3% in 2017, 24.3% in 2019, and 31.9% in 2020 as the government borrowed for reforms and COVID, stabilizing at a projected 28.6% in 2025. The increase is deliberate and still moderate; most borrowing is concessional. The risk is state-enterprise and PPP contingent liabilities accumulating opaquely as the investment drive continues.",
+  "key_events": [
+    {
+      "period": "2016",
+      "event": "Karimov died after 27 years; Mirziyoyev succeeded and launched reforms."
+    },
+    {
+      "period": "2017",
+      "event": "Foreign-exchange liberalization: sum devalued ~50%, convertibility restored."
+    },
+    {
+      "period": "2019",
+      "event": "Tax reform and WTO-accession drive; Tashkent opened to investors."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19; Uzbekistan borrowed to fund health and social spending."
+    },
+    {
+      "period": "2022",
+      "event": "Karakalpakstan unrest over constitutional changes; autonomy retained."
+    },
+    {
+      "period": "2023",
+      "event": "Constitutional referendum extended presidential terms; reform momentum questioned."
+    }
+  ],
+  "outlook_next_decade": "Uzbekistan's base case is 5-6% growth on reforms, demographics, and investment, with inflation converging toward target and debt staying moderate. The reform story is genuine but incomplete: state dominance, corruption, and water/energy constraints (notably the Aral Sea legacy) persist. Risks are reform reversal, regional instability, and over-borrowing for mega-projects. Analytical assessment: the most promising reform trajectory in Central Asia, but the 2017-19 momentum needs sustaining to deliver.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

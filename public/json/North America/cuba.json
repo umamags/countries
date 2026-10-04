@@ -149,5 +149,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\uddfa",
+    "image_small": "https://flagcdn.com/w320/cu.png",
+    "image_large": "https://flagcdn.com/w1280/cu.png"
+  },
+  "national_anthem": "La Bayamesa",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/La_Bayamesa",
+  "national_animal": "Cuban Crocodile",
+  "national_bird": "Cuban Trogon",
+  "commentary": {
+    "inflation_management": "Cuba has no conventional inflation-targeting regime; the central bank is subordinate to the state plan and monetary policy is conducted mainly through exchange and price controls. For decades the dual-currency system (CUC alongside the CUP) hid underlying pressures. The January 1, 2021 ordenamiento ended dual currency and devalued the official rate to 24 CUP per dollar, but persistent shortages, a large informal exchange market, and dollarization of basic goods have produced a sustained high-inflation environment since, far above anything in the pre-2021 controlled system. Without market-determined interest rates or an open capital account, the authorities have few standard tools to anchor expectations, and prices are effectively set by the availability of dollars in the informal market.",
+    "debt_management": "Cuba's debt record cannot be quantified from the IMF dataset, since the country has no published series, but its broad shape is well documented: decades of external arrears, limited market access, and dependence on bilateral lenders. A 2015 Paris Club restructuring wrote down a large share of its Soviet-era debt arrears, offering some breathing room, but financing constraints tightened again as Venezuelan oil support faded and US sanctions intensified from 2017 onward. The COVID-era collapse of tourism and the 2021 monetary reform (ordenamiento) worsened the hard-currency position, and by the mid-2020s renewed power-blackout spending and import dependence had left the external accounts under severe strain. Debt management in Cuba is less a fiscal choice than a function of sanctions, ally support, and export earnings.",
+    "key_events": [
+      {
+        "event": "US-Cuba diplomatic normalization under the Obama administration eased remittance and travel flows.",
+        "period": "2014"
+      },
+      {
+        "event": "Monetary ordenamiento ended the dual currency system and devalued the peso (Jan 1, 2021); July 2021 protests were the largest in decades amid shortages.",
+        "period": "2021"
+      },
+      {
+        "event": "Severe fuel shortages and aging grid triggered nationwide blackouts, deepening the economic crisis.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "Without IMF data, any quantitative outlook would be fabrication; the qualitative picture is one of a country in a prolonged structural crisis. The base case is stagnation with chronic shortages unless remittances, tourism, or external financing materially improve. Key uncertainties are US policy direction, the durability of allies' support, and whether the government loosens central control over markets. A gradual reform path could stabilize the decade, but the evidence of the last five years points more toward continued strain than turnaround.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. No IMF data series is available for Cuba, so all commentary here is qualitative and cannot quote IMF debt, inflation, or GDP figures."
+  }
 }

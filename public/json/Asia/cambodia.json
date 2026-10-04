@@ -651,5 +651,46 @@
         "summary": "Cambodia competes at the Southeast Asian Games."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/kh.png",
+    "image_large": "https://flagcdn.com/w1280/kh.png"
+  },
+  "national_anthem": "Nokor Reach",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Nokor_Reach",
+  "national_animal": "Kouprey",
+  "national_bird": "Giant Ibis",
+  "commentary": {
+    "inflation_management": "Cambodia is heavily dollarized and the National Bank of Cambodia manages a tightly managed float of the riel against the dollar, which has kept inflation low outside commodity shocks: it spiked to 25.0% in 2008 on food and fuel prices, then stayed in the 1-6% range for a decade, with 5.3% in 2022 and a projected 2.5% in 2025. Dollarization limits monetary transmission but also anchors expectations; the central bank's main tools are reserve management and macroprudential measures. The framework has worked, though it leaves Cambodia exposed to US monetary cycles.",
+    "debt_management": "Public debt is low and stable, rising only from 26.6% of GDP in 2006 to a projected 26.5% in 2025, dipping to 21.2% in 2019 before COVID nudged it up. Borrowing is mostly concessional from bilateral and multilateral creditors, heavily China-linked for infrastructure. GDP grew from $8.4bn to a projected $49.3bn over the period, keeping ratios contained. The contingent risk is opaque liabilities around Chinese-financed projects and fast private credit growth rather than sovereign debt itself.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Commodity spike drove inflation to 25%; garment exports then slowed with the global crisis."
+      },
+      {
+        "period": "2013",
+        "event": "Post-election unrest and garment-sector strikes won minimum-wage increases."
+      },
+      {
+        "period": "2020",
+        "event": "EU partially withdrew EBA trade preferences over democratic backsliding; COVID hit tourism hard."
+      },
+      {
+        "period": "2021",
+        "event": "China-Cambodia free trade agreement took effect, deepening economic ties."
+      },
+      {
+        "period": "2022",
+        "event": "RCEP entered into force, boosting regional trade integration."
+      },
+      {
+        "period": "2023",
+        "event": "Hun Sen handed power to his son Hun Manet after elections the West deemed flawed."
+      }
+    ],
+    "outlook_next_decade": "Cambodia should keep growing 5-6% on garments, tourism recovery, and manufacturing shifting from China, with debt staying manageable. Risks include loss of trade preferences if democratic conditions worsen, over-reliance on Chinese investment, real-estate and microfinance credit excesses, and climate vulnerability. Inflation is likely to stay low under the dollarized regime. The political succession's economic impact will depend on whether reform momentum continues.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

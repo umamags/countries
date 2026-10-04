@@ -595,5 +595,46 @@
         "summary": "The Scorpions reach a third consecutive Africa Cup of Nations."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/gm.png",
+    "image_large": "https://flagcdn.com/w1280/gm.png"
+  },
+  "national_anthem": "For The Gambia Our Homeland",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/For_The_Gambia_Our_Homeland",
+  "national_animal": "Spotted Hyena",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The Gambia's inflation was moderate for most of the period, averaging 5-7% from 2007 to 2021 under a managed float of the dalasi, with a low of 2.1% in 2006. The central bank has no formal inflation target but has generally kept policy tight enough to avoid spirals. The 2022-23 global shock broke the pattern: inflation surged to 11.5% in 2022 and a series high of 17.0% in 2023 on food and fuel import prices, before easing to 11.6% in 2024 and a projected 7.9% in 2025. Dalasi depreciation amplified the shock, and the episode showed the limits of monetary policy in a country that imports most of what it consumes.",
+    "debt_management": "The Gambia's debt was reset by HIPC completion in 2007, falling from 87.3% of GDP in 2006 to 38.0% in 2007. The Jammeh regime then borrowed recklessly, including expensive domestic debt, driving the ratio back to 87.2% by 2017. Since the 2017 democratic transition, IMF-supported consolidation has been slow: debt was still 74.2% projected for 2025, barely below the pre-relief level. The composition has improved (more concessional, longer maturities), but the level leaves The Gambia at high risk of debt distress, and the 2020 COVID tourism collapse showed how quickly a narrow economy can be overwhelmed.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 87.3% to 38.0% of GDP.",
+        "period": "2007"
+      },
+      {
+        "event": "Jammeh's rule saw reckless borrowing; debt climbed back toward 90% of GDP.",
+        "period": "2008-16"
+      },
+      {
+        "event": "Adama Barrow defeated Jammeh in December 2016; Jammeh fled in January 2017 after regional military pressure; IMF program began.",
+        "period": "2016-17"
+      },
+      {
+        "event": "COVID-19 devastated tourism, the economic mainstay; debt hit 86.1%.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war pushed inflation to 17.0%, the series high.",
+        "period": "2022-23"
+      },
+      {
+        "event": "Barrow won a second term (2021); truth commission reckoned with Jammeh-era abuses.",
+        "period": "2021-22"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued IMF-anchored consolidation with tourism-led growth and inflation settling near 5-8%. Upside comes from tourism expansion and groundnut/agriculture investment; downside is debt: at 74% of GDP with high distress risk, another tourism shock could force restructuring. Uncertainty is moderate: democracy has held since 2017, but institutions are thin and the fiscal margin is narrow.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

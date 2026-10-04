@@ -641,5 +641,46 @@
         "summary": "Guatemala reaches the last four in July, falling 2-1 to the US."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/gt.png",
+    "image_large": "https://flagcdn.com/w1280/gt.png"
+  },
+  "national_anthem": "Himno Nacional de Guatemala",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Guatemala",
+  "national_animal": "Resplendent Quetzal",
+  "national_bird": "Resplendent Quetzal",
+  "commentary": {
+    "inflation_management": "The Banco de Guatemala operates an inflation-targeting framework (4% +/- 1 point since 2005), and its record is solid but food-and-fuel sensitive. Inflation ran high before the GFC, peaking at 11.4% in 2008 on the back of the global commodity boom, then collapsed to 1.9% in 2009. Through the 2010s it stayed in the 2.4-6.2% range, breaching the ceiling in 2011 (6.2%) but never losing control. The post-COVID and 2022 commodity shocks pushed it to 6.9% in 2022, the second-highest in the series; it then eased to 2.9% in 2024 and a projected 1.6% in 2025, the lowest since 2009. The pass-through of US dollar movements and food prices remains the dominant inflation channel.",
+    "debt_management": "Guatemala's defining fiscal trait is restraint: gross debt was just 20.9% of GDP in 2006 and never exceeded 31.5% (in 2020, the series high), settling at a projected 27.2% in 2025, among the lowest in Latin America. The flip side is chronic underinvestment in infrastructure, health, and security, since revenues are the region's weakest relative to GDP. COVID produced only a modest debt bump (from 26.4% in 2019 to 31.5% in 2020), and the rapid GDP rebound from $77.72bn in 2020 to $113.19bn in 2024 steadily eroded the ratio. Debt sustainability is not a concern; the real question is whether any government will build the tax base needed to fund development.",
+    "key_events": [
+      {
+        "event": "Global financial crisis: commodity boom drove inflation to its 11.4% peak in 2008, then the bust crushed growth and remittances.",
+        "period": "2008-09"
+      },
+      {
+        "event": "The La Linea customs-corruption scandal broke; President Otto Perez Molina was stripped of immunity and resigned on September 2, 2015.",
+        "period": "2015"
+      },
+      {
+        "event": "COVID-19: GDP held near $77.7bn with only a modest debt increase, cushioned by resilient US remittances.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine-war commodity shock pushed inflation to 6.9%; nearshoring interest in Guatemalan manufacturing picked up.",
+        "period": "2022"
+      },
+      {
+        "event": "Reformist Bernardo Arevalo won the presidency and took office in January 2024, amid sustained anti-corruption pressure on institutions.",
+        "period": "2023-24"
+      },
+      {
+        "event": "GDP reached a projected $121.11bn in 2025, nearly four times its 2006 level, with inflation falling to 1.6%.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is steady 3-4% growth on remittance, export, and nearshoring inflows, with inflation near target and debt drifting down toward 25% of GDP. Upside rests on whether the Arevalo administration can turn its reform mandate into higher tax collection and infrastructure investment; downside comes from US immigration policy hitting remittances, which are a major share of household income. Guatemala's fiscal virtue is real, but the economy has outgrown its state, and that mismatch is the decade's central risk.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

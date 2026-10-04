@@ -585,5 +585,42 @@
         "summary": "Moldova struggle in their qualifying group."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\udde9",
+    "image_small": "https://flagcdn.com/w320/md.png",
+    "image_large": "https://flagcdn.com/w1280/md.png"
+  },
+  "national_anthem": "Limba noastr\u0103",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Limba_noastr%C4%83",
+  "national_animal": "Aurochs",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The National Bank of Moldova targets 5%, and the record is volatile: 0% in 2009, 3.8% in 2020, then 28.7% in 2022, the series high \u2014 among Europe's worst, driven by energy dependence on Russian gas and the leu's depreciation. Disinflation was dramatic: 4.7% in 2024, though it is projected back up to 7.8% for 2025 on energy tariffs and the drought's food effects. The central bank has hiked and cut aggressively through the cycles; credibility is building but the economy remains highly exposed to energy and exchange-rate shocks.",
+    "debt_management": "Moldova's debt is moderate and has been flat for a decade: 35% of GDP in 2006, a low of 22.2% in 2008, a peak of 42.1% in 2015 after the banking fraud bailout, and a projected 36.6% in 2025 (36.6% in 2020, 35% in 2022). The $1bn banking fraud of 2014 \u2014 about an eighth of GDP \u2014 was socialized onto the state and explains the 2015 peak. GDP grew from $3.4bn in 2006 to a projected $20.3bn in 2025. IMF programs anchor fiscal policy; debt sustainability is fine, but the fiscal base is narrow and aid-dependent.",
+    "key_events": [
+      {
+        "event": "$1bn banking fraud (2014) was socialized; debt peaked at 42.1% of GDP in 2015; IMF program followed.",
+        "period": "2014-15"
+      },
+      {
+        "event": "Pro-EU government elected (2021); EU candidate status granted (June 2022).",
+        "period": "2021-22"
+      },
+      {
+        "event": "Energy crisis: inflation hit 28.7% as Russian gas leverage and the leu's fall combined.",
+        "period": "2022"
+      },
+      {
+        "event": "Inflation fell to 4.7% on tight policy and base effects.",
+        "period": "2024"
+      },
+      {
+        "event": "EU accession talks opened (2024); inflation projected at 7.8% on tariff and drought pressures.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Moldova's outlook is the EU-accession story: candidate status and opened talks are the anchor for reform and investment, with the Transnistria frozen conflict and Russian pressure as the permanent geopolitical overhang. Energy diversification away from Russian gas is the key macro vulnerability to fix. Inflation should converge toward target over time, but will stay volatile. Debt is manageable; the binding constraints are institutional capacity and geopolitics, not fiscal arithmetic.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

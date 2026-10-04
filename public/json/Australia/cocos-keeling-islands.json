@@ -102,5 +102,30 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\udde8",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cocos%20%28Keeling%29%20Islands.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cocos%20%28Keeling%29%20Islands.svg?width=1280"
+  },
+  "national_anthem": "Advance Australia Fair",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Advance_Australia_Fair",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The Cocos (Keeling) Islands are an Australian external territory of around 600 people using the Australian dollar; no monetary policy and no IMF data exist. The cash economy is tiny - a small public sector, limited tourism, and copra's long decline - with most goods imported at high freight cost. Price levels simply follow Australian inflation plus remoteness premia.",
+    "debt_management": "There is no sovereign borrowing; the islands are funded through the Australian federal budget. The strategic value of the territory (its Indian Ocean location and airfield) far exceeds its economic weight, and defence-related infrastructure spending is the main source of investment. Economic self-sufficiency is not a realistic prospect at this scale.",
+    "key_events": [
+      {
+        "period": "2006-25",
+        "event": "Continued Australian administration with gradual upgrades to the Cocos airfield's strategic role."
+      },
+      {
+        "period": "2020-21",
+        "event": "COVID-19 border closures isolated the islands, underscoring dependence on air links for supplies."
+      }
+    ],
+    "outlook_next_decade": "The islands' significance is strategic, not economic: expect further Australian defence infrastructure investment given Indian Ocean competition. The civilian economy will remain a small, subsidized community. Climate and sea-level risk to the low atolls is the main long-term threat to habitability.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

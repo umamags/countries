@@ -1,0 +1,36 @@
+{
+  "country": "Turkmenistan",
+  "iso3": "TKM",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Turkmenistan's official inflation data should be treated with deep skepticism: the manat is pegged (3.5 per dollar since 2015) but a large parallel-market premium means true inflation far exceeds reported figures. The IMF series shows 14.5% in 2008, 13.3% in 2018, 19.5% in 2021, and even -1.6% in 2023, with 2.7% projected for 2025, numbers few independent observers find credible. The central bank is subordinate to the presidency; monetary policy is administrative (currency controls, import restrictions) rather than market-based. Actual living-cost inflation has been far higher.",
+  "debt_management": "Reported public debt is low and falling: 4.2% of GDP in 2006, peaking at 24.7% in 2017 on Chinese pipeline-linked borrowing, down to a projected 3.8% in 2025. GDP grew from $19.9bn to a projected $77.4bn on gas exports. But opacity is extreme: off-balance-sheet liabilities, state-directed lending, and the true terms of Chinese gas-for-loans deals are undisclosed. The low reported ratio likely understates obligations, and the 2016 Russian gas-import halt showed how vulnerable revenues are to single-buyer dependence (now China).",
+  "key_events": [
+    {
+      "period": "2006",
+      "event": "Niyazov died; Berdimuhamedow succeeded him, modest opening followed."
+    },
+    {
+      "period": "2009",
+      "event": "Central Asia-China gas pipeline opened, shifting dependence from Russia to China."
+    },
+    {
+      "period": "2014-16",
+      "event": "Gas price collapse; Russia halted Turkmen gas imports in 2016."
+    },
+    {
+      "period": "2017",
+      "event": "Asian Indoor and Martial Arts Games showcased in Ashgabat amid austerity."
+    },
+    {
+      "period": "2022",
+      "event": "Serdar Berdimuhamedow succeeded his father in a dynastic handover."
+    },
+    {
+      "period": "2023-25",
+      "event": "TAPI pipeline construction talks continued without firm financing."
+    }
+  ],
+  "outlook_next_decade": "Turkmenistan's outlook is gas and governance: China buys nearly all exports, giving revenue stability but total dependence, while TAPI remains aspirational. Official data will likely keep showing low inflation and debt regardless of reality. Analytical assessment must be heavily caveated: without reliable statistics, the base case is continued stagnation with periodic foreign-exchange squeezes, and the upside (diversified gas routes, genuine reform) has no evidence base. Treat all figures as indicative at best.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

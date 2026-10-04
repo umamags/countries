@@ -1,0 +1,36 @@
+{
+  "country": "Papua New Guinea",
+  "iso3": "PNG",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Bank of PNG manages the kina with a loose inflation objective, and the record is volatile: a series high of 10.8% in 2008 during the LNG-construction boom, then a long 4-7% plateau through the 2010s as resource revenues flowed and import demand ran hot. Foreign-exchange rationing from the mid-2010s suppressed imported inflation at the cost of business bottlenecks. Inflation moderated to 2.3% in 2023 and a series low of 0.6% in 2024, with the IMF projecting 4.4% for 2025. Monetary policy has limited traction in an economy where most price pressure comes from commodity cycles and the exchange rate rather than domestic demand.",
+  "debt_management": "The LNG era first improved the balance sheet: debt fell to a series low of 16.3% of GDP in 2011 as resource revenues surged. But spending outran revenues from 2013 onward, and debt climbed steadily - 38.2% in 2019, 48.7% in 2020, a series high of 53.9% in 2023, and a projected 52.1% in 2025. GDP nearly quadrupled in dollar terms ($8.36bn to $32.49bn), yet per-capita gains were thin and the government resorted to repeated supplementary budgets and an IMF staff-monitored program. Resource revenues are volatile and largely captured offshore; the fiscal position remains fragile despite the commodity windfalls.",
+  "key_events": [
+    {
+      "period": "2014",
+      "event": "First LNG exports from the ExxonMobil-led PNG LNG project transformed export earnings and GDP."
+    },
+    {
+      "period": "2018",
+      "event": "February highlands earthquake killed over 100 people and disrupted oil and gas production."
+    },
+    {
+      "period": "2018",
+      "event": "November: Port Moresby hosted the APEC summit, the country's biggest diplomatic showcase."
+    },
+    {
+      "period": "2019",
+      "event": "James Marape became prime minister, pledging to take back the economy from foreign resource firms."
+    },
+    {
+      "period": "2019",
+      "event": "November-December: Bougainville's independence referendum returned 98% for independence, non-binding."
+    },
+    {
+      "period": "2024",
+      "event": "January riots and looting in Port Moresby exposed security fragility and hurt investor confidence."
+    }
+  ],
+  "outlook_next_decade": "New resource projects (Papua LNG, Wafi-Golpu) could lift revenues in the late 2020s, but the pattern of windfall-then-deficit is entrenched and governance of resource rents remains weak. Bougainville's independence question and law-and-order problems are the main downside risks; the upside is genuine if fiscal discipline holds through the next commodity upswing. Debt is likely to hover near 50% of GDP rather than fall decisively.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -662,5 +662,50 @@
         "summary": "The Philippines compete at the Southeast Asian Games."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf5\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/ph.png",
+    "image_large": "https://flagcdn.com/w1280/ph.png"
+  },
+  "national_anthem": "Lupang Hinirang",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Lupang_Hinirang",
+  "national_animal": "Carabao",
+  "national_bird": "Philippine Eagle",
+  "commentary": {
+    "inflation_management": "Bangko Sentral ng Pilipinas has run inflation targeting since 2002 (currently 2-4%), and the record is credible: 8.2% in 2008 on the commodity boom, then 1-5% through the 2010s, with 5.8% in 2022 and 6.0% in 2023 on food and energy shocks, easing to a projected 1.7% in 2025. The central bank was among Asia's most aggressive hikers in 2022-23 and has eased as inflation fell back within target. Rice prices remain the politically sensitive swing factor, and tariff adjustments are the recurring policy lever.",
+    "debt_management": "Public debt fell impressively from 57.2% of GDP in 2006 to 37.0% by 2019 on strong growth, tax reforms, and fiscal discipline, before COVID pushed it to 57.0% in 2021; the IMF projects 59.4% for 2025 as consolidation proceeds gradually. GDP grew from $127.7bn to a projected $487.2bn. The debt is mostly domestic and peso-denominated, and the tax reform program (TRAIN) lifted revenues structurally. The trajectory is sustainable, though the post-COVID level leaves less shock absorber than the pre-2019 position.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Commodity spike drove inflation to 8.2%; growth slowed but stayed positive."
+      },
+      {
+        "period": "2010",
+        "event": "Aquino elected on a good-governance platform; growth accelerated."
+      },
+      {
+        "period": "2016",
+        "event": "Duterte won the presidency; 'Build Build Build' infrastructure push began."
+      },
+      {
+        "period": "2018",
+        "event": "TRAIN tax reform and rice tariffication reshaped revenues and food policy."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19: one of the world's longest lockdowns; debt jumped to 51.6%."
+      },
+      {
+        "period": "2022",
+        "event": "Marcos Jr. elected; BSP hiked aggressively as inflation hit 5.8%."
+      },
+      {
+        "period": "2023-25",
+        "event": "Inflation back within target; debt projected at 59.4% in 2025."
+      }
+    ],
+    "outlook_next_decade": "The Philippines' base case is 5-6% growth on services, remittances, BPO, and infrastructure, with inflation near target and debt gradually declining. Upside from demographic dividends and mining is real; risks are climate vulnerability (typhoons), political noise, and global BPO disruption from AI. Fiscal consolidation needs to continue to rebuild buffers. Analytical assessment: among ASEAN's more resilient macro stories, with institutions that have survived political cycles.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

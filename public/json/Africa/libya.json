@@ -657,5 +657,46 @@
         "summary": "The Mediterranean Knights reach the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf1\ud83c\uddfe",
+    "image_small": "https://flagcdn.com/w320/ly.png",
+    "image_large": "https://flagcdn.com/w1280/ly.png"
+  },
+  "national_anthem": "Libya, Libya, Libya",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Libya%2C_Libya%2C_Libya",
+  "national_animal": "Eastern Imperial Eagle",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Libya's inflation reflects war, currency crisis, and oil blockades rather than monetary policy. It was low before 2011 (1.5-2.5% in 2006, 2009-10), then spiked to 15.9% in 2011 as the revolution disrupted supply. The 2014-16 oil blockade and dinar collapse drove inflation to 25.9% in 2016 and 25.8% in 2017, the series highs, as the parallel exchange rate soared. A 2020 devaluation and ceasefire stabilized prices: -2.2% in 2019, then 1-5% from 2020, with a projected 1.8% in 2025. The central bank remains split between rival authorities, so monetary policy is effectively absent; inflation is determined by oil flows and the parallel market.",
+    "debt_management": "Libya has no published public debt series in the IMF data: the gross debt field is blank for the entire 2006-2025 period, reflecting the fragmentation of the state and the absence of consolidated fiscal accounts since 2011. What is known is that Libya entered the crisis with virtually no debt and massive reserves, and that rival governments in Tripoli and the east have since spent heavily on conflict, subsidies, and parallel budgets, financed by oil revenues and central bank advances. The lack of data is itself the story: without unified accounts, debt sustainability cannot be assessed, and the risk is of hidden liabilities accumulating in the institutional vacuum.",
+    "key_events": [
+      {
+        "event": "Revolution ousted and killed Muammar Qaddafi (October 2011); GDP in USD terms peaked at $92.5bn in 2012 on the oil rebound.",
+        "period": "2011-12"
+      },
+      {
+        "event": "Civil war split the country; oil blockades crashed production and revenues.",
+        "period": "2014-16"
+      },
+      {
+        "event": "Battle for Tripoli (2019-20) further devastated the economy; inflation hit 25%+ on currency collapse.",
+        "period": "2019-20"
+      },
+      {
+        "event": "Ceasefire and unity government; oil production recovered; dinar devalued to unify rates.",
+        "period": "2020-21"
+      },
+      {
+        "event": "Storm Daniel caused catastrophic flooding in Derna (September 2023), killing thousands.",
+        "period": "2023"
+      },
+      {
+        "event": "Political stalemate persisted with rival governments; elections repeatedly postponed.",
+        "period": "2022-25"
+      }
+    ],
+    "outlook_next_decade": "The outlook is political, not economic: Libya's oil wealth could fund rapid recovery, but only a unified government can produce a budget, a debt account, or a monetary policy. The base case is continued stalemate with oil keeping the economy afloat and inflation low. Upside is reunification unlocking investment; downside is renewed war or oil shutdowns. Uncertainty is very high, and the absence of fiscal data means even the starting position is unknown.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections. Note: the IMF publishes no general government gross debt series for Libya."
+  }
 }

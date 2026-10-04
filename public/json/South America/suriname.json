@@ -598,5 +598,54 @@
         "summary": "Suriname returns to the continental finals, powered by its diaspora squad."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/sr.png",
+    "image_large": "https://flagcdn.com/w1280/sr.png"
+  },
+  "national_anthem": "God zij met ons Suriname",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/God_zij_met_ons_Suriname",
+  "national_animal": null,
+  "national_bird": "Great Kiskadee",
+  "commentary": {
+    "inflation_management": "Suriname's inflation is a story of exchange-rate regimes breaking. Under the pegged SRD, inflation ran 6.4-17.7% through 2006-2011 (17.7% in 2011 after a devaluation), then calmed to 1.9-6.9% in 2012-2015. When gold and oil prices collapsed in 2015-16, the peg gave way: inflation hit 55.5% in 2016 and 22% in 2017. A brief calm (4.4-6.9% in 2018-2019) ended with the 2020 crisis and the move to a floating/unified exchange rate: 34.9% in 2020, 59.1% in 2021, 52.4% in 2022, and 51.6% in 2023. Under the IMF program's reserve-money targeting, disinflation finally took hold: 16.2% in 2024 and a projected 9.2% in 2025 - still high, but the first single-digit reading in a decade. The central bank's credibility is being rebuilt from near zero.",
+    "debt_management": "Suriname's debt record is one of the region's worst boom-bust cycles. The ratio was a modest 22.5% of GDP in 2006 and 14.6% in 2009, then climbed as gold and oil revenues collapsed: 25.2% in 2014, 41.2% in 2015, 75.4% in 2016, and 84% in 2019, before the 2020 default and COVID devaluation detonated it to 146.4% - the series high. Under the 2021 IMF Extended Fund Facility ($688m, 36 months) and the November 2023 bondholder restructuring (the $550m 2026 Eurobond and other bonds exchanged for a new 2033 bond at a ~29% haircut, plus an oil-linked value recovery instrument tied to Block 58), it fell to 115.8% in 2021, 97.7% in 2023, and 88% in 2024 - then rose again to a projected 105.8% in 2025 on currency effects. Paris Club and bilateral (China, India) restructurings accompanied the program. Sustainability now depends on the GranMorgu oil project (FID late 2024, first oil expected ~2028) actually delivering the revenues the VRI promises.",
+    "key_events": [
+      {
+        "event": "Desi Bouterse elected; gold and oil revenues funded an unsustainable spending boom.",
+        "period": "2010"
+      },
+      {
+        "event": "Gold and oil price collapse; the SRD peg was abandoned and inflation hit 55.5%.",
+        "period": "2015-16"
+      },
+      {
+        "event": "$478m IMF program went off track and was cancelled in 2017; government issued a $550m 9.25% Eurobond.",
+        "period": "2016-17"
+      },
+      {
+        "event": "Chan Santokhi elected (May); Suriname defaulted on foreign bonds in November; debt hit 146.4% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "$688m IMF EFF approved; SRD floated; inflation peaked at 59.1%.",
+        "period": "2021"
+      },
+      {
+        "event": "Paris Club agreed to restructure bilateral debt without a principal haircut.",
+        "period": "2022"
+      },
+      {
+        "event": "Bondholder restructuring agreed (Nov): new 2033 bond plus oil-linked value recovery instrument on Block 58.",
+        "period": "2023"
+      },
+      {
+        "event": "May 25 general election; Jennifer Simons elected July 6 and inaugurated July 16 - Suriname's first female president; GranMorgu oil FID; inflation projected at 9.2%.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Suriname's outlook is binary and oil-linked. If GranMorgu delivers first oil around 2028 as planned, royalties transform the fiscal picture, the VRI pays bondholders, and debt falls fast - the IMF program has already done the hard institutional work. If oil disappoints or is delayed, the 2025 uptick in debt (105.8%) is a warning that the old dynamics - weak revenues, currency pressure - reassert themselves. The base case is cautiously positive given FID and the new government's reform mandate, but this is the highest-uncertainty outlook in the region: one project, one commodity, and a political system that has defaulted before. Honest assessment: the next five years are a coin flip with good odds.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

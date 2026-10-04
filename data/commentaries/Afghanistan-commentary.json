@@ -1,0 +1,32 @@
+{
+  "country": "Afghanistan",
+  "iso3": "AFG",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Afghanistan's inflation is volatile and externally driven rather than managed by a conventional monetary framework. The food-and-fuel shock of 2008 pushed inflation to 26.4%, followed by sharp deflation of -6.8% in 2009 as commodity prices collapsed. After the 2021 Taliban takeover and the freezing of central bank reserves and aid, the economy contracted sharply (GDP fell from $20.1bn in 2020 to $14.3bn in 2021) and inflation ran at 10.6% in 2022 before swinging to deflation of -7.7% in 2023 and -4.3% in 2024 as demand collapsed and the afghani held firm under tight controls. The IMF projects 2.9% inflation for 2025, but with the central bank cut off from the international system there is no credible inflation-targeting regime in place.",
+  "debt_management": "Public debt has stayed exceptionally low throughout the period, falling from 23.0% of GDP in 2006 to just 8.0% in the 2025 projection, because the state was financed by foreign grants rather than borrowing and ran up arrears rather than market debt. The 2021 collapse briefly lifted the ratio to 11.1% on the smaller GDP base, but there was no borrowing binge afterward. This is not a story of fiscal virtue so much as of a state that could not access capital markets and is now under sanctions; debt sustainability is moot while the government remains unrecognized and aid-dependent.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Global food-and-fuel price spike drove inflation to 26.4%."
+    },
+    {
+      "period": "2014",
+      "event": "NATO combat mission ended and a disputed presidential election created a unity government, slowing aid-backed growth."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 disrupted trade and aid flows; GDP stalled at $20.1bn."
+    },
+    {
+      "period": "2021",
+      "event": "US withdrawal and Taliban takeover in August; GDP collapsed by roughly 30%, reserves were frozen and aid suspended."
+    },
+    {
+      "period": "2022-23",
+      "event": "Humanitarian crisis and demand collapse produced deflation (-7.7% in 2023) even as poverty deepened."
+    }
+  ],
+  "outlook_next_decade": "The outlook hinges on politics, not economics: recognition, sanctions relief, and resumed aid would stabilize output, while continued isolation keeps the economy in a low-level equilibrium with periodic deflation and humanitarian need. GDP is projected to recover only to $19.7bn by 2025, still below 2019 levels. Any upside depends on trade corridors and agriculture; the downside risk is renewed conflict or further isolation. Uncertainty is very high and data quality is poor.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

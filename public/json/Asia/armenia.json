@@ -637,5 +637,46 @@
         "summary": "Armenia contests qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde6\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/am.png",
+    "image_large": "https://flagcdn.com/w1280/am.png"
+  },
+  "national_anthem": "Mer Hayrenik",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Mer_Hayrenik",
+  "national_animal": "Golden Eagle",
+  "national_bird": "Golden Eagle",
+  "commentary": {
+    "inflation_management": "The Central Bank of Armenia adopted formal inflation targeting in 2006 (4% target), and the record since is broadly credible with crisis-driven exceptions. Inflation spiked to 9.1% in 2008 on the global commodity boom and again to 8.2% in 2010, then fell to deflation of -1.4% in 2016 during the dram's depreciation episode. The 2020 war and COVID pushed inflation up, and the 2022 Ukraine-war shock lifted it to 8.6% as Russian inflows flooded in; the central bank hiked aggressively and inflation fell back to 0.3% in 2024 and a projected 3.3% in 2025, within tolerance. The framework has survived repeated shocks without de-anchoring expectations.",
+    "debt_management": "Public debt was low at 18.7% of GDP in 2006, then jumped from 16.4% to 40.6% in 2009 when the global financial crisis shrank GDP from $11.7bn to $8.7bn. It crept upward through the 2010s, reaching 58.9% in 2017, before the 2020 COVID-and-war shock pushed it to 67.4%. Remarkably strong growth in 2022-23 (GDP nearly doubled from $13.9bn in 2021 to $24.2bn in 2023) brought the ratio back down to a projected 49.0% in 2025. The trajectory is manageable but leaves limited room for another large shock.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global financial crisis hit remittances and metals; GDP fell 25% in dollar terms and debt jumped."
+      },
+      {
+        "period": "2016",
+        "event": "Four-day war over Nagorno-Karabakh in April added fiscal and confidence pressure during a deflationary year."
+      },
+      {
+        "period": "2018",
+        "event": "Velvet Revolution brought Nikol Pashinyan to power on an anti-corruption platform."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 and the 44-day Nagorno-Karabakh war; debt spiked to 67.4% of GDP."
+      },
+      {
+        "period": "2022",
+        "event": "Influx of Russian relocants and capital after the Ukraine invasion powered a growth boom and dram appreciation."
+      },
+      {
+        "period": "2023",
+        "event": "Azerbaijan's recapture of Nagorno-Karabakh triggered an exodus of ethnic Armenians, absorbed without a macro crisis."
+      }
+    ],
+    "outlook_next_decade": "Growth is likely to normalize from the exceptional 2022-23 boom toward 4-5%, with inflation near target and debt edging down if fiscal discipline holds. The key risks are geopolitical: renewed tension with Azerbaijan, over-dependence on Russia-facing flows that could reverse, and the fiscal cost of resettling refugees. Diversification toward EU trade and tech services offers upside. Overall the macro framework is sound but the external environment is fragile.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

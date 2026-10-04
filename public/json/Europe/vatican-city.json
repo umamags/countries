@@ -134,5 +134,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddfb\ud83c\udde6",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City.svg?width=1280"
+  },
+  "national_anthem": "Inno e Marcia Pontificale",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Pontifical_Anthem",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Vatican City uses the euro under a monetary agreement with the EU and Italy. With a resident population under a thousand and no central bank, there is no domestic monetary policy; price conditions track Italy's. Inflation management is not a meaningful policy category for the Vatican.",
+    "debt_management": "Vatican City has no public-debt concept in any conventional sense: the Holy See finances itself from museum revenues, donations, investments, and real-estate holdings, and publishes no sovereign debt series. There is no borrowing program and no IMF data. Recent years have seen operating deficits covered from reserves, and financial reforms have improved transparency, but the scale is that of a small institution, not a macroeconomy.",
+    "key_events": [
+      {
+        "event": "EU monetary agreement formalized the Vatican's use of the euro.",
+        "period": "2010"
+      },
+      {
+        "event": "Financial reforms and the creation of new oversight structures addressed long-standing transparency issues.",
+        "period": "2014-20"
+      },
+      {
+        "event": "COVID-19 closed the Vatican Museums, cutting a major revenue source; reserves absorbed the shortfall.",
+        "period": "2020"
+      }
+    ],
+    "outlook_next_decade": "Vatican City has no macroeconomic outlook in the conventional sense: its finances are institutional, not national. The relevant questions are governance and revenue sustainability (tourism, donations, investments), not debt or inflation. On macroeconomics alone, there is nothing material to assess.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -621,5 +621,42 @@
         "summary": "The Stallions secure a place at the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\uddeb",
+    "image_small": "https://flagcdn.com/w320/bf.png",
+    "image_large": "https://flagcdn.com/w1280/bf.png"
+  },
+  "national_anthem": "Ditany\u00e8",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ditany%C3%A8",
+  "national_animal": "White Stallion",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Burkina Faso's inflation is anchored by the CFA franc's peg to the euro, which kept prices low for most of the period, including deflation in 2014 (-0.3%), 2016 and 2019 (-3.2%). The 2008 food crisis pushed inflation to 10.7%, but the peg and the regional central bank (BCEAO) restored stability quickly. The Ukraine war shock broke the pattern: inflation surged to 13.8% in 2022, the series high, driven by food and fuel prices and compounded by insecurity disrupting supply chains. It fell back to 0.9% in 2023 and 4.2% in 2024, with the IMF projecting -0.5% for 2025. Monetary policy is set regionally, so domestic inflation management is effectively limited to fiscal and administrative measures.",
+    "debt_management": "Burkina Faso's debt has nearly tripled as a share of GDP, driven by security spending and repeated political shocks. From 20.1% in 2006, the ratio drifted upward through the 2010s, then accelerated as the jihadist insurgency (from 2016) demanded heavy military outlays and COVID added fiscal costs: debt reached 59.2% of GDP in 2022, the series high, easing to a projected 51.7% in 2025. The government borrows mainly on the regional WAEMU market. Sustainability is judged manageable in IMF assessments, but that assumes continued market access and an end to the security crisis; sanctions-era financing strains after the 2022 coups have made borrowing costlier.",
+    "key_events": [
+      {
+        "event": "Popular uprising ousted President Blaise Compaore after 27 years; transition government installed.",
+        "period": "2014"
+      },
+      {
+        "event": "Jihadist insurgency spread across the north and east, displacing millions and forcing sustained military spending.",
+        "period": "2016-"
+      },
+      {
+        "event": "Two military coups: Paul-Henri Damiba seized power in January, then Ibrahim Traore ousted him in September, citing failure against the insurgency.",
+        "period": "2022"
+      },
+      {
+        "event": "Ukraine war pushed inflation to 13.8% and debt to 59.2% of GDP, both series highs.",
+        "period": "2022"
+      },
+      {
+        "event": "With Mali and Niger, formed the Alliance of Sahel States and announced withdrawal from ECOWAS (early 2024), triggering sanctions and financing complications.",
+        "period": "2023-24"
+      }
+    ],
+    "outlook_next_decade": "The outlook is dominated by security, not economics: if the insurgency persists, military spending will keep debt elevated and deter investment regardless of policy. The base case is continued fragility with growth hostage to gold prices (the main export) and rainfall. Upside is limited to a security turnaround or gold boom; downside includes further isolation from regional markets and partners. Uncertainty is very high, and any assessment is conditional on the political trajectory of the junta.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

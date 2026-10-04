@@ -1,8 +1,10 @@
 import { useRef, useEffect, useState } from 'react'
 import * as d3 from 'd3'
+import DefinitionsModal from './DefinitionsModal'
+import ChartModal from './ChartModal'
 import '../styles/EconomicsSection.css'
 
-function LineChart({ data, yKey, title, containerRef }) {
+function LineChart({ data, yKey, title, containerRef, onClick }) {
   const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
   const latestEntry = filteredData.length > 0 ? filteredData[filteredData.length - 1] : null
 
@@ -100,7 +102,7 @@ function LineChart({ data, yKey, title, containerRef }) {
   }, [data, yKey])
 
   return (
-    <div className="chart-container">
+    <div className="chart-container" onClick={onClick} style={{ cursor: 'pointer' }}>
       {latestEntry && (
         <div className="chart-stat">
           <span className="stat-year">{latestEntry.year}</span>
@@ -113,7 +115,7 @@ function LineChart({ data, yKey, title, containerRef }) {
   )
 }
 
-function BarChart({ data, yKey, title, containerRef }) {
+function BarChart({ data, yKey, title, containerRef, onClick }) {
   const filteredData = data.filter((d) => d[yKey] !== null && d[yKey] !== undefined)
   const latestEntry = filteredData.length > 0 ? filteredData[filteredData.length - 1] : null
 
@@ -202,7 +204,7 @@ function BarChart({ data, yKey, title, containerRef }) {
   }, [data, yKey])
 
   return (
-    <div className="chart-container">
+    <div className="chart-container" onClick={onClick} style={{ cursor: 'pointer' }}>
       {latestEntry && (
         <div className="chart-stat">
           <span className="stat-year">{latestEntry.year}</span>
@@ -282,6 +284,8 @@ export default function EconomicsSection({ economics }) {
   const barChartRef1 = useRef(null)
   const barChartRef2 = useRef(null)
   const barChartRef3 = useRef(null)
+  const [showDefinitions, setShowDefinitions] = useState(false)
+  const [selectedChart, setSelectedChart] = useState(null)
 
   if (!economics || economics.length === 0) return null
 
@@ -290,14 +294,39 @@ export default function EconomicsSection({ economics }) {
 
   return (
     <section className="detail-section">
-      <h3>Economics</h3>
+      <div className="section-header">
+        <h3>Economics</h3>
+        <button
+          type="button"
+          className="definitions-link"
+          onClick={() => setShowDefinitions(true)}
+        >
+          Understanding these charts
+        </button>
+      </div>
       <div className="charts-grid">
-        <LineChart data={economics} yKey="gdp_usd_billion" title="GDP (USD Billion)" containerRef={lineChartRef1} />
+        <LineChart
+          data={economics}
+          yKey="gdp_usd_billion"
+          title="GDP (USD Billion)"
+          containerRef={lineChartRef1}
+          onClick={() =>
+            setSelectedChart({ type: 'line', data: economics, yKey: 'gdp_usd_billion', title: 'GDP (USD Billion)' })
+          }
+        />
         <LineChart
           data={economics}
           yKey="gross_debt_pct_gdp"
           title="Gross Debt (% of GDP)"
           containerRef={lineChartRef2}
+          onClick={() =>
+            setSelectedChart({
+              type: 'line',
+              data: economics,
+              yKey: 'gross_debt_pct_gdp',
+              title: 'Gross Debt (% of GDP)',
+            })
+          }
         />
         {hasExchangeRateData && (
           <LineChart
@@ -305,6 +334,14 @@ export default function EconomicsSection({ economics }) {
             yKey="exchange_rate_usd"
             title="Exchange Rate (per USD)"
             containerRef={lineChartRef3}
+            onClick={() =>
+              setSelectedChart({
+                type: 'line',
+                data: economics,
+                yKey: 'exchange_rate_usd',
+                title: 'Exchange Rate (per USD)',
+              })
+            }
           />
         )}
         <BarChart
@@ -312,14 +349,52 @@ export default function EconomicsSection({ economics }) {
           yKey="gross_debt_usd_billion"
           title="Gross Debt (USD Billion)"
           containerRef={barChartRef1}
+          onClick={() =>
+            setSelectedChart({
+              type: 'bar',
+              data: economics,
+              yKey: 'gross_debt_usd_billion',
+              title: 'Gross Debt (USD Billion)',
+            })
+          }
         />
-        <BarChart data={economics} yKey="inflation_cpi_pct" title="Inflation (CPI %)" containerRef={barChartRef2} />
+        <BarChart
+          data={economics}
+          yKey="inflation_cpi_pct"
+          title="Inflation (CPI %)"
+          containerRef={barChartRef2}
+          onClick={() =>
+            setSelectedChart({
+              type: 'bar',
+              data: economics,
+              yKey: 'inflation_cpi_pct',
+              title: 'Inflation (CPI %)',
+            })
+          }
+        />
         {hasPopulationData && (
-          <BarChart data={economics} yKey="population" title="Population" containerRef={barChartRef3} />
+          <BarChart
+            data={economics}
+            yKey="population"
+            title="Population"
+            containerRef={barChartRef3}
+            onClick={() =>
+              setSelectedChart({
+                type: 'bar',
+                data: economics,
+                yKey: 'population',
+                title: 'Population',
+              })
+            }
+          />
         )}
       </div>
 
       <HistoricalEvents economics={economics} />
+
+      {showDefinitions && <DefinitionsModal onClose={() => setShowDefinitions(false)} />}
+
+      {selectedChart && <ChartModal chart={selectedChart} onClose={() => setSelectedChart(null)} />}
     </section>
   )
 }

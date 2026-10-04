@@ -645,5 +645,46 @@
         "summary": "Kenyan distance stars medal heavily at the Tokyo world championships."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/ke.png",
+    "image_large": "https://flagcdn.com/w1280/ke.png"
+  },
+  "national_anthem": "Ee Mungu Nguvu Yetu",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ee_Mungu_Nguvu_Yetu",
+  "national_animal": "Lion",
+  "national_bird": "Lilac-breasted Roller",
+  "commentary": {
+    "inflation_management": "The Central Bank of Kenya's inflation-targeting framework (5% with a \u00b12.5 point band) has a mixed record. It failed the early tests: inflation hit 15.1% in 2008 and 14.0% in 2011 on food and currency shocks. But from 2013 the framework gained credibility, keeping inflation mostly within 4-8% for a decade, including through COVID. The 2022-23 global shock pushed it to 7.6-7.7%, just above target, before easing to 4.5% in 2024 and a projected 4.1% in 2025, the series low. The CBK hiked aggressively in 2023-24 and has earned a reputation as one of Africa's more credible central banks, though fiscal dominance remains the background threat.",
+    "debt_management": "Kenya's debt has doubled as a share of GDP in a decade of infrastructure borrowing. From 34.2% in 2007, the ratio rose steadily as the government issued debut Eurobonds (2014) and borrowed heavily from China for the Standard Gauge Railway: it reached 73.4% in 2023, the series high, easing to a projected 68.9% in 2025. Debt service now consumes a huge share of revenues, and the 2024 maturity of the $2 billion 2014 Eurobond forced a costly refinancing. IMF assessments judge debt sustainable but at high risk of distress; the real constraint is liquidity, not solvency, with markets pricing Kenya as a perpetual refinancing risk.",
+    "key_events": [
+      {
+        "event": "Disputed election triggered post-election violence; inflation spiked to 15.1%.",
+        "period": "2007-08"
+      },
+      {
+        "event": "New constitution devolved power to 47 counties, reshaping public finance.",
+        "period": "2010"
+      },
+      {
+        "event": "Debut $2.75 billion Eurobond; Standard Gauge Railway construction began with Chinese financing.",
+        "period": "2014"
+      },
+      {
+        "event": "COVID-19; Kenya received IMF support; debt climbed past 65% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "William Ruto won the presidential election; debt peaked at 73.4% of GDP.",
+        "period": "2022-23"
+      },
+      {
+        "event": "June 2024: deadly protests forced withdrawal of the Finance Bill's tax hikes; the government refinanced the maturing Eurobond at high cost.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued market-access juggling: Kenya will keep refinancing its way forward with IMF support, inflation near target, and growth around 5%. Upside comes from fiscal consolidation actually sticking; downside is a failed bond auction or political unrest forcing a restructuring. Uncertainty is moderate: Kenya's institutions are resilient, but the debt-service burden leaves no room for policy error.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

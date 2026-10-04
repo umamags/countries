@@ -588,5 +588,38 @@
         "summary": "Liechtenstein compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf1\ud83c\uddee",
+    "image_small": "https://flagcdn.com/w320/li.png",
+    "image_large": "https://flagcdn.com/w1280/li.png"
+  },
+  "national_anthem": "Oben am jungen Rhein",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Oben_am_jungen_Rhein",
+  "national_animal": "Common Kestrel",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Liechtenstein uses the Swiss franc in a customs and monetary union with Switzerland, so it imports Swiss monetary policy entirely. Inflation tracked Switzerland's: -0.5% in 2009, -1.1% in 2015 (the low) after the franc's appreciation, -0.7% in 2020, then just 2.8% in 2022 (the series high) \u2014 barely a ripple compared with the euro area's energy shock. It was 1.1% in 2024 and is projected at 0.2% for 2025. The franc's safe-haven strength is the perennial competitiveness question, not price stability.",
+    "debt_management": "Liechtenstein effectively has no public debt: 0.4% of GDP in 2006, peaking at 0.6% in 2017 (the series high), and a projected 0.5% in 2025 \u2014 rounding error in any framework. The state runs structural surpluses on financial-services and manufacturing revenues, and the fiscal rule limits spending growth. GDP grew from $4.4bn in 2006 to a projected $9.0bn in 2025. Debt sustainability is a non-question; the fiscal debate is about reserves and intergenerational funds.",
+    "key_events": [
+      {
+        "event": "Banking-secrecy era ended: tax-information agreements and OECD compliance reforms transformed the financial center.",
+        "period": "2009-13"
+      },
+      {
+        "event": "Swiss franc shock (January 2015): the SNB's cap removal appreciated the franc; Liechtenstein absorbed it with -1.1% inflation.",
+        "period": "2015"
+      },
+      {
+        "event": "COVID-19: the economy contracted but the fiscal position never came under pressure.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock produced only 2.8% inflation, the series high, on franc strength and Swiss policy.",
+        "period": "2022"
+      }
+    ],
+    "outlook_next_decade": "Liechtenstein's outlook is one of stability: no debt, price stability imported from Switzerland, and a high-value industrial and financial base. The structural risks are regulatory \u2014 EU and OECD pressure on financial centers \u2014 and the franc's chronic strength squeezing exporters. Neither threatens the macro position. The analytical assessment is straightforward: this is one of the world's most fiscally secure economies, with limited upside or downside on the macro side.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

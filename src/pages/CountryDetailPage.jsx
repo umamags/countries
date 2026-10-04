@@ -6,7 +6,9 @@ import { useFavorites } from '../data/FavoritesContext'
 import WorldMap from '../components/WorldMap'
 import StateMap from '../components/StateMap'
 import VideoModal from '../components/VideoModal'
+import FlagModal from '../components/FlagModal'
 import Breadcrumb from '../components/Breadcrumb'
+import CommentarySection from '../components/CommentarySection'
 import EconomicsSection from '../components/EconomicsSection'
 import { slugify } from '../utils/slug'
 
@@ -119,6 +121,7 @@ export default function CountryDetailPage() {
   const { status, data, error } = useCountry(continent?.name, countrySlug)
   const { isFavorite, toggleFavorite } = useFavorites()
   const [activeVideo, setActiveVideo] = useState(null)
+  const [showFlagModal, setShowFlagModal] = useState(false)
   const navigate = useNavigate()
 
   if (indexStatus === 'loading') return <p className="status">Loading…</p>
@@ -196,6 +199,19 @@ export default function CountryDetailPage() {
 
       <StateMap countryName={data.country} height={340} />
 
+      {data.flag && (
+        <div className="flag-section">
+          <button
+            type="button"
+            className="flag-button"
+            onClick={() => setShowFlagModal(true)}
+            title="Click to enlarge"
+          >
+            <img src={data.flag.image_small} alt={`Flag of ${data.country}`} className="flag-image-small" />
+          </button>
+        </div>
+      )}
+
       <dl className="facts">
         <Fact label="Continent" value={data.continent} />
         <Fact label="Languages" value={data.languages?.join(', ')} />
@@ -204,6 +220,41 @@ export default function CountryDetailPage() {
         <Fact label="Area (km²)" value={data.area} />
         <Fact label="Head of State / Government" value={data.head_of_state} />
       </dl>
+
+      {data.national_anthem && (
+        <section className="detail-section">
+          <h3>National Anthem</h3>
+          {data.national_anthem_url ? (
+            <p>
+              <a href={data.national_anthem_url} target="_blank" rel="noopener noreferrer">
+                {data.national_anthem} ↗
+              </a>
+            </p>
+          ) : (
+            <p>{data.national_anthem}</p>
+          )}
+        </section>
+      )}
+
+      {(data.national_animal || data.national_bird) && (
+        <section className="detail-section">
+          <h3>National Symbols</h3>
+          <dl className="symbols-list">
+            {data.national_animal && (
+              <>
+                <dt>National Animal</dt>
+                <dd>{data.national_animal}</dd>
+              </>
+            )}
+            {data.national_bird && (
+              <>
+                <dt>National Bird</dt>
+                <dd>{data.national_bird}</dd>
+              </>
+            )}
+          </dl>
+        </section>
+      )}
 
       <LandmarkList items={data.landmarks} continentSlug={continent.slug} countrySlug={countrySlug} />
       <CulturalEventList items={data.cultural_events} />
@@ -231,6 +282,8 @@ export default function CountryDetailPage() {
         </section>
       )}
 
+      <CommentarySection commentary={data.commentary} />
+
       <EconomicsSection economics={data.economics} />
 
       <VideoList items={data.five_youtube_video_titles} onPlay={setActiveVideo} />
@@ -241,6 +294,10 @@ export default function CountryDetailPage() {
           videoId={activeVideo.videoId}
           onClose={() => setActiveVideo(null)}
         />
+      )}
+
+      {showFlagModal && (
+        <FlagModal flag={data.flag} countryName={data.country} onClose={() => setShowFlagModal(false)} />
       )}
     </div>
   )

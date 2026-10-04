@@ -659,5 +659,46 @@
         "summary": "Kazakhstan contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddff",
+    "image_small": "https://flagcdn.com/w320/kz.png",
+    "image_large": "https://flagcdn.com/w1280/kz.png"
+  },
+  "national_anthem": "Meni\u00f1 Qazaqstan\u0131m",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Meni\u00f1_Qazaqstan\u0131m",
+  "national_animal": "Golden Eagle",
+  "national_bird": "Steppe Eagle",
+  "commentary": {
+    "inflation_management": "The National Bank moved to inflation targeting in 2015 alongside a free float of the tenge, after years of a managed peg. Inflation was 17.2% in 2008, moderated to 5-8% in the early 2010s, then spiked to 14.6% in 2016 after the tenge's 2015 devaluation, easing to 5.3% by 2019. The 2022 shock drove it to 15.0% (14.5% in 2023), and the IMF projects 11.4% for 2025, still well above the 5% target. Dollarization and administered prices complicate transmission, and the central bank has kept policy tight to rebuild credibility.",
+    "debt_management": "Public debt is low and has stayed so: 6.7% of GDP in 2006, rising only to 26.4% in 2020 on COVID and to a projected 24.6% in 2025. The sovereign wealth fund (Samruk-Kazyna/National Fund) is the real fiscal buffer, absorbing oil windfalls; the 2022 surge took GDP to $225.5bn and a projected $302.8bn by 2025. Banking-sector cleanups (notably after the 2009 BTA default) were handled off the sovereign balance sheet. Debt sustainability is comfortable; the issue is the non-oil deficit and fund drawdowns.",
+    "key_events": [
+      {
+        "period": "2007-09",
+        "event": "Banking crisis; BTA Bank's 2009 default was one of the largest emerging-market restructurings."
+      },
+      {
+        "period": "2008",
+        "event": "Commodity boom took GDP to $133.4bn before the crisis hit."
+      },
+      {
+        "period": "2014-15",
+        "event": "Oil collapse and Russian ruble crisis forced the tenge float in August 2015; inflation hit 14.6% in 2016."
+      },
+      {
+        "period": "2019",
+        "event": "Nazarbayev resigned after three decades; Tokayev succeeded him."
+      },
+      {
+        "period": "2022",
+        "event": "January unrest ('Bloody January') shook the regime; oil windfall then repaired finances."
+      },
+      {
+        "period": "2023-25",
+        "event": "Diversification and Middle Corridor trade pushed GDP toward a projected $302.8bn."
+      }
+    ],
+    "outlook_next_decade": "Kazakhstan's base case is solid: moderate debt, large buffers, and growth from oil, uranium, and transit trade, with inflation hopefully converging to target. Risks are oil-price dependence, the political transition's durability after 2022's unrest, and exposure to Russia (trade, the Caspian pipeline, secondary sanctions). If diversification and governance reforms advance, upside is real; if oil falls and buffers are drawn down, the old vulnerabilities return. Debt is not a constraint.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

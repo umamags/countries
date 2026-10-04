@@ -658,5 +658,46 @@
         "summary": "Singapore compete at the Southeast Asian Games."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/sg.png",
+    "image_large": "https://flagcdn.com/w1280/sg.png"
+  },
+  "national_anthem": "Majulah Singapura",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Majulah_Singapura",
+  "national_animal": "Lion",
+  "national_bird": "Crimson Sunbird",
+  "commentary": {
+    "inflation_management": "Singapore conducts monetary policy via the exchange rate: MAS manages the Singapore dollar's nominal effective rate within a band, and the record is exemplary. Inflation was 6.6% in 2008 on the commodity boom, then 0-3% through the 2010s (with mild deflation in 2015-16 and 2020), rising to 6.1% in 2022 before MAS's successive tightenings brought it to a projected 0.9% in 2025. The framework's credibility is absolute; the 2022 episode showed it working as designed, with the currency appreciating to absorb imported inflation.",
+    "debt_management": "Singapore's gross debt of a projected 171.3% of GDP in 2025 (up from 86.5% in 2006, jumping to 147.1% in 2020) is the world's most misunderstood fiscal number: it reflects borrowing to invest (via GIC and Temasek) and to develop domestic bond markets, backed by assets far exceeding liabilities. The government runs persistent budget surpluses on average and the constitution mandates a balanced budget over each term. Net debt is deeply negative. COVID borrowing was large but already being absorbed; there is no sustainability question whatsoever.",
+    "key_events": [
+      {
+        "period": "2008-09",
+        "event": "Global crisis; GDP stalled but the exchange-rate framework held firm."
+      },
+      {
+        "period": "2011",
+        "event": "General election; PAP's vote share fell to a then-record low, prompting policy shifts."
+      },
+      {
+        "period": "2015",
+        "event": "Lee Kuan Yew died; SG50 jubilee year with a strong PAP mandate."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19; unprecedented fiscal packages funded partly by past reserves; debt hit 147.1%."
+      },
+      {
+        "period": "2022",
+        "event": "MAS tightened five times as inflation hit 6.1%; growth stayed resilient."
+      },
+      {
+        "period": "2024",
+        "event": "Lawrence Wong succeeded Lee Hsien Loong as PM in an orderly transition."
+      }
+    ],
+    "outlook_next_decade": "Singapore's base case is 2-3% growth with inflation near zero and continued fiscal strength, underpinned by its financial-hub status, semiconductor and biotech clusters, and regional headquarters appeal. Risks are US-China decoupling pressures, regional competition (notably from Hong Kong's recovery and Dubai), and demographic aging. The exchange-rate framework will keep delivering price stability. Analytical assessment: the macro risk profile is among the lowest in the world; challenges are structural (inequality, aging) rather than fiscal.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

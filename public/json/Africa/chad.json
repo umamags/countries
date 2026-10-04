@@ -615,5 +615,42 @@
         "summary": "Les Sao compete in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\udde9",
+    "image_small": "https://flagcdn.com/w320/td.png",
+    "image_large": "https://flagcdn.com/w1280/td.png"
+  },
+  "national_anthem": "La Tchadienne",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/La_Tchadienne",
+  "national_animal": "Goat and Lion",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Chad's inflation is among Africa's most volatile, reflecting oil, drought, and the CFA peg's interaction with local food markets. It swung from 9.6% (2006) to -7.4% (2007), then 10.1% (2009) and -5.5% (2014), driven by harvests and base effects rather than monetary policy, which is set regionally by the BEAC. The 2014 oil crash produced deflation in 2016-17 as the economy contracted, while the 2022 global shock lifted inflation to 5.8%. The IMF projects -2.6% for 2025. The peg has prevented sustained high inflation, but the volatility shows how exposed a Sahelian oil economy is to terms-of-trade and climate swings that monetary policy cannot address.",
+    "debt_management": "Chad's debt is an oil story with a creditor saga. From 15.7% of GDP in 2008, the 2014 oil crash and a controversial oil-backed loan from Glencore drove debt to 40.2% by 2016, and repeated restructurings of that loan (2018) only partly contained it: the ratio peaked at 41.7% in 2021. Chad was the first country to request treatment under the G20 Common Framework (2021), and a 2022-23 restructuring agreement brought relief; debt is projected at 30.1% in 2025. The episode exposed the risks of collateralized commodity borrowing, and while the ratio is now moderate, oil still dominates revenues, so the next price crash would restart the cycle.",
+    "key_events": [
+      {
+        "event": "Oil price crash halved revenues; Chad began struggling to service its Glencore oil-for-cash loan.",
+        "period": "2014-16"
+      },
+      {
+        "event": "Chad restructured its Glencore debt, extending maturities and linking repayments to oil prices.",
+        "period": "2018"
+      },
+      {
+        "event": "COVID-19 and a second oil crash pushed debt to 41.7% of GDP, the series high.",
+        "period": "2020-21"
+      },
+      {
+        "event": "President Idriss Deby was killed in April 2021; son Mahamat Deby took power in a transitional military council; Chad requested G20 Common Framework debt treatment.",
+        "period": "2021"
+      },
+      {
+        "event": "Mahamat Deby won disputed May 2024 elections, formalizing the transition; Chad ended its defense agreement with France late in the year.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is oil-dependent stability with debt near 30% of GDP, contingent on oil prices and the new Doba-area production holding up. Upside comes from diversification and regional trade; downside is another oil crash or political instability around the transition's legitimacy. Uncertainty is moderate-to-high: the Common Framework precedent helped, but Chad remains a fragile petro-state in a volatile region.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

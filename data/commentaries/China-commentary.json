@@ -1,0 +1,40 @@
+{
+  "country": "China",
+  "iso3": "CHN",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook, October 2025 vintage",
+  "inflation_management": "China's inflation has been low and well-contained by global standards, managed through a mix of administered prices, a managed exchange rate, capital controls, and People's Bank of China liquidity operations. It peaked at 5.87% in 2008 on the commodity boom, then stayed in the 1-3% range through the 2010s, with a pork-driven bump to 5.4% in 2011 and 2.89% in 2019. Since 2023 the problem has inverted: inflation fell to 0.23% in 2023, 0.21% in 2024, and a projected 0.01% in 2025 as property-sector distress, weak consumption, and overcapacity produced deflationary pressure. The PBoC has eased repeatedly but transmission is blunted by debt overhangs and cautious banks.",
+  "debt_management": "The debt story is the central macro concern: general government gross debt rose from 25.2% of GDP in 2006 to a projected 96.3% in 2025, with the steepest climbs after the 2008 stimulus (33.98% by 2009), the 2015-16 re-leveraging (49.7% in 2016), and COVID (69.0% in 2020 to 82.0% in 2023). The official ratio understates the burden because local-government financing vehicles carry large off-balance-sheet liabilities. GDP still grew enormously, from $2.8tn to a projected $19.4tn, which has kept ratios serviceable, but the marginal productivity of debt-financed investment has fallen sharply.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global financial crisis; a 4-trillion-yuan stimulus powered recovery but seeded the debt boom."
+    },
+    {
+      "period": "2015",
+      "event": "Stock-market crash and surprise yuan devaluation rattled global markets; capital controls tightened."
+    },
+    {
+      "period": "2018-19",
+      "event": "US-China trade war imposed tariffs and accelerated supply-chain diversification talk."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19: strict lockdowns, then a fast rebound that made China the only major growing economy that year."
+    },
+    {
+      "period": "2021",
+      "event": "Property-sector crackdown; Evergrande's default marked the start of a prolonged real-estate crisis."
+    },
+    {
+      "period": "2022",
+      "event": "Zero-COVID lockdowns (notably Shanghai) hit growth; policy abruptly reversed in December."
+    },
+    {
+      "period": "2023-25",
+      "event": "Deflationary pressure and property distress persisted despite repeated stimulus measures."
+    }
+  ],
+  "outlook_next_decade": "China faces a structural slowdown: aging demographics, property-sector deleveraging, and local-government debt constrain growth toward 3-4%, with deflation risk lingering if consumption stays weak. Offsets include manufacturing upgrading, green tech, and AI investment. Geopolitical decoupling and tariffs are a persistent drag. The analytical risk is a Japan-style balance-sheet stagnation if debt is not restructured decisively; the upside is successful rebalancing toward consumption, which policy has so far struggled to deliver.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

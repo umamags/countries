@@ -641,5 +641,46 @@
         "summary": "Georgia contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/ge.png",
+    "image_large": "https://flagcdn.com/w1280/ge.png"
+  },
+  "national_anthem": "Tavisupleba",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Tavisupleba",
+  "national_animal": null,
+  "national_bird": "Common Kestrel",
+  "commentary": {
+    "inflation_management": "The National Bank of Georgia adopted inflation targeting in 2009 (3% target) after the 2008 war and crisis, and the record shows the usual emerging-market volatility around a credible anchor. Inflation hit 10.0% in 2008, then swung to deflation of -0.9% in 2012 and -0.5% in 2013 during lari appreciation. The 2015 regional shock pushed it to 4.0%, and the 2022 Ukraine-war commodity spike drove it to 11.9% before aggressive tightening brought it down to 1.1% in 2024 and a projected 3.9% in 2025. Dollarization of loans has fallen but remains a transmission constraint.",
+    "debt_management": "Public debt was 28.3% of GDP in 2006 and stayed moderate until COVID: the 2009 crisis lifted it from 26.3% to 33.6%, and it drifted in the 35-40% range through the late 2010s. The 2020 shock (GDP falling to $16.0bn) pushed it to 59.6%, but the extraordinary 2022-23 boom, with GDP jumping from $18.9bn in 2021 to $30.8bn in 2023, cut the ratio to a projected 34.3% in 2025. The trajectory is comfortable, though reliance on one-off migration and transit windfalls flatters the recent numbers.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "War with Russia in August, followed by the global financial crisis; GDP fell in 2009."
+      },
+      {
+        "period": "2009",
+        "event": "National Bank adopted formal inflation targeting amid post-war stabilization."
+      },
+      {
+        "period": "2015",
+        "event": "Lari depreciated sharply on regional (Russia/Azerbaijan) shocks; inflation rose to 4.0%."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 hit tourism hard; debt spiked to 59.6% of GDP."
+      },
+      {
+        "period": "2022",
+        "event": "Ukraine war brought Russian migrants, capital, and trade rerouting; GDP surged 2022-23."
+      },
+      {
+        "period": "2024",
+        "event": "Disputed parliamentary elections and 'foreign agent' law protests strained EU relations."
+      }
+    ],
+    "outlook_next_decade": "Georgia's base case is 4-5% growth on tourism, transit trade, and services, with inflation near target and debt stable. The main risks are geopolitical: dependence on Russian-origin flows that could reverse, stalled EU integration after the 2024 political crisis, and vulnerability to regional conflict. Structural upside from the Middle Corridor trade route is real but requires investment. Debt sustainability is not a near-term concern.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

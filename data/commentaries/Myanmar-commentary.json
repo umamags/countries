@@ -1,0 +1,36 @@
+{
+  "country": "Myanmar",
+  "iso3": "MMR",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Myanmar's inflation reflects political upheaval more than monetary policy: 34.4% in 2007 (Saffron Revolution year), 20.9% in 2008, then single digits through the reform decade as the central bank gained autonomy and the kyat stabilized. The February 2021 coup shattered this: the kyat collapsed, import costs soared, and inflation hit 27.2% in 2022, 27.6% in 2023, 29.6% in 2024, with 22.0% projected for 2025. The central bank under the junta has resorted to fixing the exchange rate and rationing dollars, which has spawned parallel markets rather than stability.",
+  "debt_management": "Public debt fell from 103.1% of GDP in 2006 (legacy of military-era arrears and a collapsed denominator) to 37.6% by 2019 as reforms, debt relief, and growth (GDP from $13.5bn to $75.3bn) transformed the picture. The coup reversed it: GDP fell to $55.3bn in 2021 and debt jumped to 63.4%, easing to a projected 51.9% in 2025 on partial recovery to $82.4bn. The junta has limited market access and relies on the central bank and opaque channels. Data quality since 2021 is poor and figures should be treated cautiously.",
+  "key_events": [
+    {
+      "period": "2007",
+      "event": "Saffron Revolution protests; inflation hit 34.4%."
+    },
+    {
+      "period": "2011",
+      "event": "Political reforms began under Thein Sein; sanctions eased and investment flowed in."
+    },
+    {
+      "period": "2015",
+      "event": "NLD won landmark elections; Aung San Suu Kyi's government accelerated opening."
+    },
+    {
+      "period": "2017",
+      "event": "Rohingya crisis drew international condemnation and some sanctions."
+    },
+    {
+      "period": "2021",
+      "event": "Military coup in February; civil war, kyat collapse, and GDP fell to $55.3bn."
+    },
+    {
+      "period": "2022-25",
+      "event": "Prolonged conflict and inflation near 30% in 2024; economy in survival mode."
+    }
+  ],
+  "outlook_next_decade": "Myanmar's economic outlook is subordinate to the conflict: no durable recovery is possible while civil war continues, the kyat is rationed, and sanctions bite. A political settlement could unlock rapid catch-up given the country's resources and location, but that is not the base case. Analytical assessment must be heavily caveated: the range runs from state fragmentation to eventual stabilization, and official data under the junta are unreliable. Humanitarian need will remain acute.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

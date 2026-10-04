@@ -673,5 +673,42 @@
         "summary": "Italy face a tough qualifying group for 2026."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/it.png",
+    "image_large": "https://flagcdn.com/w1280/it.png"
+  },
+  "national_anthem": "Il Canto degli Italiani",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Il_Canto_degli_Italiani",
+  "national_animal": "Italian Wolf",
+  "national_bird": "Italian Sparrow",
+  "commentary": {
+    "inflation_management": "Italian inflation was unremarkable by euro-area standards: 0.8% in 2009, -0.2% in 2020, then 8.7% in 2022, the series high, on energy. It fell to 1.1% in 2024 and is projected at 1.6% for 2025, below target. Monetary policy is the ECB's; Italy's distinctive feature was the 2011-12 sovereign-spread crisis, when the ECB's 'whatever it takes' (July 2012) ended the redenomination risk. The Superbonus housing scheme of 2020-22 was a large fiscal operation with inflationary side effects in construction.",
+    "debt_management": "Italy's debt is Europe's largest stock in absolute terms and a chronic constraint: 106.3% of GDP in 2006, a low of 103.5% in 2007, then the crisis and slow growth pushed it to 154.4% in 2020, the series peak; it fell to 138.4% in 2022 and is projected at 137.1% in 2025. Two decades of near-zero trend growth mean the denominator never does the work \u2014 Italy's debt problem is a growth problem. GDP went from $1,958.7bn in 2006 to a projected $2,550.1bn in 2025. The ECB's backstops have kept borrowing costs manageable, but the 2025 level leaves almost no fiscal buffer.",
+    "key_events": [
+      {
+        "event": "Sovereign debt crisis: spreads soared as debt sustainability was questioned; technocratic Monti government imposed austerity.",
+        "period": "2011-12"
+      },
+      {
+        "event": "ECB's 'whatever it takes' (July 2012) ended the acute phase of the Italian crisis.",
+        "period": "2012"
+      },
+      {
+        "event": "COVID-19: debt hit 154.4% of GDP, the series peak, on the contraction and spending.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock inflation of 8.7%; the NRRP (EU recovery funds) became the growth bet.",
+        "period": "2022"
+      },
+      {
+        "event": "Debt projected at 137.1% of GDP; the Superbonus fiscal overhang complicated consolidation.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Italy's decade hinges on growth, and the honest assessment is that the trend has disappointed for twenty years. The NRRP investment pipeline is the main lever; if it lifts productivity, the debt ratio can fall on the denominator. If not, 137% of GDP is a precarious perch when ECB support normalizes. Inflation should stay near target. Political instability remains a background risk to reform execution, though markets have learned to price it. Sustainability is not in immediate doubt, but the margin for error is the thinnest of any large euro-area economy.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

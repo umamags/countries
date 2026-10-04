@@ -160,5 +160,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddf5",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg?width=1280"
+  },
+  "national_anthem": "Aegukka",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Aegukka_(North_Korea)",
+  "national_animal": "Chollima",
+  "national_bird": "Korean Magpie",
+  "commentary": {
+    "inflation_management": "There is no IMF inflation series for North Korea and no observable monetary framework; the won is non-convertible and prices are set administratively alongside tolerated black markets. External estimates suggest periodic inflationary episodes tied to currency reforms (notably the disastrous 2009 redenomination) and food crises, but no reliable annual series exists. Sanctions, self-reliance policy, and monetary opacity make any inflation assessment speculative.",
+    "debt_management": "No public debt data exist in the IMF series, and North Korea has been in default on external obligations since the 1980s. The state finances itself through command allocation, with foreign exchange earned from (sanctioned) mineral exports, labor exports, and illicit channels. Without data, no debt trajectory can be described; the relevant fact is exclusion from international capital markets for decades.",
+    "key_events": [
+      {
+        "period": "2009",
+        "event": "Currency redenomination wiped out private savings and triggered inflation and unrest."
+      },
+      {
+        "period": "2011",
+        "event": "Kim Jong-il died; Kim Jong-un succeeded, consolidating power through purges."
+      },
+      {
+        "period": "2016-17",
+        "event": "Nuclear and missile tests brought the toughest UN sanctions; 'maximum pressure' followed."
+      }
+    ],
+    "outlook_next_decade": "North Korea's economic outlook is unknowable with any precision: it depends on sanctions policy, relations with China and Russia, and agricultural outcomes, none of which can be modeled from data that do not exist. The base case is continued stagnation with periodic food insecurity. Any opening, however unlikely, would reveal an economy far behind its neighbors. This assessment is necessarily qualitative given the complete absence of IMF data.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -1,0 +1,40 @@
+{
+  "country": "Mongolia",
+  "iso3": "MNG",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Bank of Mongolia targets inflation (currently around 6%) under a managed float, but the tugrik's swings and commodity dependence make for a volatile record: 28.0% in 2008, 13.8% in 2012, near zero in 2016, then 15.1% in 2022 on the Ukraine-war shock, easing to a projected 8.6% in 2025, still above target. Fiscal dominance has repeatedly undermined the central bank, notably in 2016 when off-budget spending forced a crisis. Policy has tightened credibly since the 2017 IMF program, but pass-through from tugrik depreciation remains the structural challenge.",
+  "debt_management": "Public debt tracks the mining cycle: 40.9% of GDP in 2006, falling to 31.0% in the 2008-10 boom, then climbing to 86.9% in 2017 after the 2016 crisis (which included the infamous Chinggis bond splurge), before disciplined policy and the coal boom brought it to a projected 45.1% in 2025. GDP grew from $3.4bn to a projected $25.4bn. The 2017 IMF Extended Fund Facility ($5.5bn package) was the turning point, imposing fiscal rules that have broadly held. Debt is now manageable, though still sensitive to coal prices and Chinese demand.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Commodity boom and bust; inflation hit 28.0% then growth stalled."
+    },
+    {
+      "period": "2009",
+      "event": "Oyu Tolgoi copper-gold investment agreement signed, anchoring future growth."
+    },
+    {
+      "period": "2016",
+      "event": "Fiscal crisis: off-budget spending and falling commodity prices forced an IMF approach; debt hit 78.7%."
+    },
+    {
+      "period": "2017",
+      "event": "$5.5bn IMF-led package approved; fiscal consolidation began."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 closed the Chinese border, hitting coal exports; debt rose to 83.4%."
+    },
+    {
+      "period": "2022",
+      "event": "Coal export boom on high prices; revenues surged and debt fell to 64.5%."
+    },
+    {
+      "period": "2023-25",
+      "event": "Debt projected down to 45.1% as Oyu Tolgoi underground production ramped up."
+    }
+  ],
+  "outlook_next_decade": "Mongolia's base case is solid growth on copper (Oyu Tolgoi underground) and coal exports to China, with debt continuing to decline if fiscal rules hold. The structural risks are unchanged: extreme dependence on China (nearly all exports), commodity-price cycles, and the political temptation to spend windfalls. Governance of mining revenues remains the key variable. Analytical assessment: the 2017 framework works when respected; the question is whether the next boom tests it.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

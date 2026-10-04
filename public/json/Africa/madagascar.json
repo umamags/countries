@@ -613,5 +613,46 @@
         "summary": "The Barea compete in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/mg.png",
+    "image_large": "https://flagcdn.com/w1280/mg.png"
+  },
+  "national_anthem": "Ry Tanindrazanay malala \u00f4!",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ry_Tanindrazanay_malala_%C3%B4%21",
+  "national_animal": "Ring-tailed Lemur",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Madagascar's inflation has been persistently elevated but never explosive, averaging around 7-9% for much of the period. It peaked at 10.8% in 2006 and troughed at 4.2% in 2020, the series low, when COVID suppressed demand. The ariary floats with management, and the central bank has no formal inflation target, but it has generally kept policy tight enough to avoid spirals. Food prices dominate the index, so cyclones and droughts drive the spikes: 9.9% in 2023 reflected poor harvests. The IMF projects 8.0% for 2025. Monetary policy is credible within its limits, but in Madagascar inflation is mostly a climate story.",
+    "debt_management": "Madagascar's debt has been moderate throughout, reflecting limited market access as much as prudence. From 28.2% of GDP in 2007, the series low, it drifted upward as governments borrowed concessionally for infrastructure: 52.9% in 2020, the series high, after COVID spending, easing to a projected 49.2% in 2025. The debt is overwhelmingly concessional (World Bank, AfDB), which keeps servicing manageable, and IMF assessments judge the risk of distress moderate. The constraint is not the level but the use: borrowing has not translated into transformative infrastructure, and climate shocks repeatedly destroy what is built.",
+    "key_events": [
+      {
+        "event": "Coup ousted President Ravalomanana; Andry Rajoelina took power; donors suspended aid.",
+        "period": "2009"
+      },
+      {
+        "event": "Return to constitutional rule after elections; IMF engagement resumed.",
+        "period": "2013"
+      },
+      {
+        "event": "Rajoelina won the presidential election, returning to power.",
+        "period": "2018"
+      },
+      {
+        "event": "COVID-19 pushed debt to 52.9% of GDP, the series high.",
+        "period": "2020"
+      },
+      {
+        "event": "Severe drought and famine in the south; cyclones battered infrastructure.",
+        "period": "2021-22"
+      },
+      {
+        "event": "Rajoelina won a disputed third-term election (2023) boycotted by the opposition.",
+        "period": "2023"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued moderate growth with inflation near 7-8% and debt around 50% of GDP, all hostage to climate. Upside comes from mining (nickel, cobalt) and tourism; downside is the next cyclone or drought, which regularly wipes out a year's gains. Uncertainty is moderate: the macro framework is stable, but Madagascar's economy is among the world's most climate-vulnerable, and that dominates the outlook.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

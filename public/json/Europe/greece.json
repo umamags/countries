@@ -655,5 +655,46 @@
         "summary": "Greece compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/gr.png",
+    "image_large": "https://flagcdn.com/w1280/gr.png"
+  },
+  "national_anthem": "Hymn to Liberty",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Hymn_to_Liberty",
+  "national_animal": "Dolphin",
+  "national_bird": "Little Owl",
+  "commentary": {
+    "inflation_management": "Greece lived both extremes: deflation during the adjustment (-1.4% in 2014, -1.3% in 2020) as internal devaluation cut wages and prices, and 9.3% in 2022, the series high, on the energy shock. It was 1.3% in 2009. Disinflation to 3.0% in 2024 and a projected 2.9% for 2025 has been slower than the euro-area average as tourism-driven services prices stayed firm. Monetary policy is the ECB's; the Greek-specific story is that internal devaluation did the adjusting a floating currency could not.",
+    "debt_management": "Greece's debt is the euro area's most extreme: 105.3% of GDP in 2006 (already the high entry), 104.6% in 2007, then the crisis and GDP collapse drove it to 209.9% in 2020, the series peak, with COVID adding the final layer. The recovery has been real: 179.2% in 2022, projected 145.7% in 2025, on strong nominal growth, primary surpluses, and early repayments of bailout loans. GDP went from $269.1bn in 2006 to a projected $280.5bn in 2025 \u2014 two decades with essentially no nominal growth. The debt is long-maturity and mostly official-sector, which makes the ratio look worse than the cash-flow burden.",
+    "key_events": [
+      {
+        "event": "Revelation of misreported deficit figures triggered the sovereign debt crisis; first EU-IMF bailout (May 2010).",
+        "period": "2009-10"
+      },
+      {
+        "event": "Second bailout with private-sector debt restructuring \u2014 the largest sovereign debt haircut in history (2012).",
+        "period": "2012"
+      },
+      {
+        "event": "Referendum on bailout terms (July 2015), capital controls, and a third bailout program.",
+        "period": "2015"
+      },
+      {
+        "event": "Bailout exit (August 2018) after the deepest peacetime adjustment in modern European history.",
+        "period": "2018"
+      },
+      {
+        "event": "COVID-19: debt hit 209.9% of GDP, the series peak, on the GDP collapse.",
+        "period": "2020"
+      },
+      {
+        "event": "Regained investment-grade status (2023); rapid debt decline continued, projected at 145.7% in 2025.",
+        "period": "2023-25"
+      }
+    ],
+    "outlook_next_decade": "Greece's outlook is the euro area's best turnaround story: primary surpluses, falling debt, investment-grade status, and strong tourism and shipping. The debt ratio will keep falling on growth and repayments, though 145.7% projected for 2025 remains very high. Risks are the external ones \u2014 a euro-area slowdown or tourism shock \u2014 and whether reform momentum survives political cycles. Inflation should converge to target. The decade's honest assessment: repaired, credible, but still leveraged.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

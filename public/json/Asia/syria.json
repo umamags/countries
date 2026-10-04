@@ -597,5 +597,46 @@
         "summary": "Syria contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddfe",
+    "image_small": "https://flagcdn.com/w320/sy.png",
+    "image_large": "https://flagcdn.com/w1280/sy.png"
+  },
+  "national_anthem": "\u1e24um\u0101t ad-Diy\u0101r",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/%E1%B8%A4um%C4%81t_ad-Diy%C4%81r",
+  "national_animal": "Syrian Brown Bear",
+  "national_bird": "Northern Bald Ibis",
+  "commentary": {
+    "inflation_management": "The IMF data series for Syria covers only 2006-10, when inflation was moderate but volatile: 10.4% in 2006, 15.2% in 2008 on the commodity boom, 4.4% in 2010, under the pound's managed regime. From 2011 the civil war destroyed the monetary system: the pound collapsed from around 47 to the dollar to thousands per dollar on parallel markets, and inflation ran in triple digits in the worst years (not captured in this dataset). There has been no functioning monetary policy for over a decade; dollarization and the war economy set prices.",
+    "debt_management": "Recorded public debt fell from 45.0% of GDP in 2006 to 30.0% in 2010 as oil revenues and growth (GDP from $33.8bn to $60.0bn) improved the position. After 2011 there are no IMF data: the war destroyed the oil sector, GDP is estimated to have fallen by more than half, and the state survived on Iranian and Russian support, arrears, and money printing. Any debt figures for the war years would be notional. The fiscal challenge of reconstruction dwarfs anything in the recorded series.",
+    "key_events": [
+      {
+        "period": "2006-10",
+        "event": "Pre-war period covered by IMF data; moderate growth and falling debt."
+      },
+      {
+        "period": "2011",
+        "event": "Civil war began; IMF data reporting effectively ceased."
+      },
+      {
+        "period": "2012-16",
+        "event": "War devastated the economy; currency collapsed and sanctions tightened."
+      },
+      {
+        "period": "2015",
+        "event": "Russian military intervention changed the war's course."
+      },
+      {
+        "period": "2019-20",
+        "event": "Caesar Act sanctions and the Lebanese banking crisis crushed the pound further."
+      },
+      {
+        "period": "2024",
+        "event": "Assad regime fell in December; a transitional government faced economic ruin."
+      }
+    ],
+    "outlook_next_decade": "Syria's outlook depends on political stabilization that is far from assured: reconstruction needs are estimated in the hundreds of billions of dollars against a shattered state. Sanctions relief, refugee return, and oil-field control are the swing factors. Analytical assessment must be heavily caveated: the IMF has no data since 2010, the economy is largely informal and dollarized, and outcomes range from slow rebuilding to renewed fragmentation. No quantitative claims beyond 2010 can be grounded in this dataset.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

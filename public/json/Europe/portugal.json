@@ -639,5 +639,42 @@
         "summary": "Portugal beat Spain on penalties in the Munich final."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf5\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/pt.png",
+    "image_large": "https://flagcdn.com/w1280/pt.png"
+  },
+  "national_anthem": "A Portuguesa",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/A_Portuguesa",
+  "national_animal": "Iberian Wolf",
+  "national_bird": "Barcelos Rooster",
+  "commentary": {
+    "inflation_management": "Portuguese inflation followed the ECB cycle: -0.9% in 2009 (the low) during the adjustment, -0.1% in 2020, then 8.1% in 2022, the series high, on energy. It fell to 2.7% in 2024 and is projected at 2.2% for 2025, near target. The Iberian mechanism capping gas prices for electricity (2022-23) kept the spike below Spain's and the euro-area average. Monetary policy is the ECB's; Portugal's distinctive feature was the internal devaluation of 2011-14, which restored competitiveness without leaving the euro.",
+    "debt_management": "Portugal's debt arc mirrors the periphery's: 73.7% of GDP in 2006 (72.7% in 2007, the low), exploding to 134.1% in 2020, the series peak, after the bailout-era legacy met COVID. The recovery has been strong: 111.2% in 2022, projected 89.9% in 2025, on growth, surpluses, and inflation. GDP grew from $208.8bn in 2006 to a projected $346.4bn in 2025. Portugal is the bailout graduate that actually consolidated \u2014 primary surpluses and debt buybacks have cut the ratio by over 40 points in five years. Sustainability is much improved, though the stock remains high.",
+    "key_events": [
+      {
+        "event": "EU-IMF bailout (May 2011) after the sovereign crisis; harsh austerity and internal devaluation followed.",
+        "period": "2011-14"
+      },
+      {
+        "event": "Clean exit from the bailout (May 2014); the 'contraption' left government reversed austerity while keeping the fiscal anchor.",
+        "period": "2014-15"
+      },
+      {
+        "event": "COVID-19: debt hit 134.1% of GDP, the series peak, on the tourism collapse.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock: the Iberian gas-price cap kept inflation at 8.1%, below the euro-area average.",
+        "period": "2022"
+      },
+      {
+        "event": "Rapid consolidation: debt projected at 89.9% of GDP, down over 40 points from the 2020 peak.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Portugal's outlook is the periphery's most improved: falling debt, investment-grade stability, and a diversified economy with growing tech and tourism. The risks are the housing crisis in Lisbon and Porto, which is becoming a political and social constraint, and the economy's sensitivity to euro-area demand. Inflation should stay near target. Debt near 90% of GDP is still elevated but the trajectory \u2014 not the level \u2014 is what markets now price, and the trajectory is favorable.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

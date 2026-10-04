@@ -646,5 +646,42 @@
         "summary": "Switzerland compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/ch.png",
+    "image_large": "https://flagcdn.com/w1280/ch.png"
+  },
+  "national_anthem": "Swiss Psalm",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Swiss_Psalm",
+  "national_animal": "Cow",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The Swiss National Bank targets price stability (defined as 0-2%), and Switzerland had the developed world's best inflation record: -0.5% in 2009, -1.1% in 2015 (the low) after the franc-cap removal, -0.7% in 2020 \u2014 chronic undershooting, not overshooting. The 2022 shock produced just 2.8%, the series high, barely above the target band, on franc strength and early SNB hiking. It was 1.1% in 2024 and is projected at 0.2% for 2025 \u2014 back to the deflationary edge. The franc's safe-haven appreciation is the permanent disinflationary force; the SNB spent the 2010s fighting it with negative rates and intervention.",
+    "debt_management": "Swiss debt has fallen through the period: 47.7% of GDP in 2006 (the series high), 42.4% in 2020, a low of 35.9% in 2022, and a projected 39.4% in 2025. The constitutional debt brake \u2014 in force since 2003 \u2014 is the anchor, and it has delivered structural surpluses in good years. GDP more than doubled from $448.5bn in 2006 to a projected $1,043.5bn in 2025. Debt sustainability is beyond question; Switzerland borrows at the world's lowest rates and the fiscal debate is about spending the surpluses, not financing deficits.",
+    "key_events": [
+      {
+        "event": "Financial crisis: UBS was rescued by the state and SNB (2008); the franc surged as a safe haven.",
+        "period": "2008-09"
+      },
+      {
+        "event": "SNB imposed the franc cap vs the euro (2011); its sudden removal (January 2015) caused -1.1% inflation.",
+        "period": "2011-15"
+      },
+      {
+        "event": "Negative-rate era: the SNB held rates at -0.75% for years to fight franc strength.",
+        "period": "2015-22"
+      },
+      {
+        "event": "Energy shock produced only 2.8% inflation, the series high \u2014 the developed world's mildest.",
+        "period": "2022"
+      },
+      {
+        "event": "Credit Suisse collapse and UBS takeover (March 2023); inflation projected at 0.2% in 2025.",
+        "period": "2023-25"
+      }
+    ],
+    "outlook_next_decade": "Switzerland's outlook is one of stability with a deflationary bias: the franc's structural strength keeps inflation at or below target, and the debt brake keeps debt falling. The banking-sector concentration after the UBS-Credit Suisse merger is the main domestic risk, now explicitly a too-big-to-fail question for a small economy. Growth is steady but slow; the analytical assessment is that Switzerland's macro risks are external \u2014 a euro-area crisis would hit through the franc \u2014 not fiscal or monetary.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

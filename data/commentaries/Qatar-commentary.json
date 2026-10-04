@@ -1,0 +1,36 @@
+{
+  "country": "Qatar",
+  "iso3": "QAT",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The riyal's peg to the US dollar (3.64 since 2001) anchors prices, and inflation has followed the LNG cycle: 15.1% in 2008 on the pre-crisis boom, deflation of -4.9% in 2009 and -2.5% in 2020, then 5.0% in 2022, easing to a projected 0.6% in 2025. Qatar Central Bank shadows the Fed. The peg held through the 2017-21 blockade without strain, testament to reserve buffers. Domestic demand pressures (notably around the 2022 World Cup) were absorbed without de-anchoring.",
+  "debt_management": "Public debt swung with LNG prices and the blockade: 13.9% of GDP in 2006, jumping to 36.0% in 2009 on the crisis, easing to 24.9% by 2014, then climbing to 72.6% in 2020 on COVID, the oil crash, and World Cup spending, before the LNG windfall cut it to a projected 41.4% in 2025. GDP went from $58.6bn (2006) to $235.7bn (2022). The Qatar Investment Authority's vast assets make the gross ratio misleading; net debt is deeply negative. Borrowing was opportunistic, not necessary.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "LNG boom; GDP hit $112.6bn before the crisis halved growth."
+    },
+    {
+      "period": "2013",
+      "event": "Emir Hamad abdicated in favor of Tamim in a rare orderly Gulf succession."
+    },
+    {
+      "period": "2017",
+      "event": "Saudi-led blockade imposed; Qatar adapted supply chains and drew on reserves."
+    },
+    {
+      "period": "2021",
+      "event": "Blockade resolved at the Al-Ula summit."
+    },
+    {
+      "period": "2022",
+      "event": "FIFA World Cup hosted; GDP hit $235.7bn on the LNG windfall."
+    },
+    {
+      "period": "2023-25",
+      "event": "North Field LNG expansion advanced, set to sharply raise output by 2030."
+    }
+  ],
+  "outlook_next_decade": "Qatar's outlook is strong: the North Field expansion will materially raise LNG output and revenues through the decade, debt should keep falling, and diversification (finance, sports, tourism) adds resilience. Risks are LNG-price cycles, regional tensions, and the long-run energy transition, though gas is better placed than oil. Analytical assessment: one of the world's most comfortable fiscal positions; the policy question is how productively the surplus is deployed, not whether it exists.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

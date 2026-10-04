@@ -649,5 +649,42 @@
         "summary": "Denmark compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde9\ud83c\uddf0",
+    "image_small": "https://flagcdn.com/w320/dk.png",
+    "image_large": "https://flagcdn.com/w1280/dk.png"
+  },
+  "national_anthem": "Der er et yndigt land",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Der_er_et_yndigt_land",
+  "national_animal": "Red Squirrel",
+  "national_bird": "Mute Swan",
+  "commentary": {
+    "inflation_management": "The krone's peg to the euro obliges the Nationalbank to shadow ECB policy, which it did faithfully: inflation was 1.1% in 2009, 0.3% in 2020, then 8.6% in 2022, the series high, on the energy shock \u2014 closely tracking the euro area. It fell to 1.3% in 2024 and is projected at 1.8% for 2025, back near target. The peg has never come under serious pressure during this period; Denmark's reserve buffers and credibility make the shadow rate effective. Notably, Danish mortgage markets absorbed negative rates in the 2010s without systemic damage.",
+    "debt_management": "Denmark's public debt is among Europe's lowest: 33.2% of GDP in 2006, a peak of 50% in 2011 after the financial-crisis interventions, then a steady decline to a projected 27.5% in 2025, the series low (45.2% in 2020, 33.3% in 2022). GDP grew from $283.4bn in 2006 to a projected $461.7bn in 2025. Conservative fiscal rules, budget surpluses in good years, and growth have combined to make debt a non-issue; the policy debate is about how to spend the fiscal space, not sustainability.",
+    "key_events": [
+      {
+        "event": "Global financial crisis and a domestic housing bust; debt peaked at 50% of GDP in 2011.",
+        "period": "2008-11"
+      },
+      {
+        "event": "Negative interest-rate era: the Nationalbank defended the euro peg through deep negative rates.",
+        "period": "2014-19"
+      },
+      {
+        "event": "COVID-19: debt rose to 45.2% of GDP; swift fiscal response contained the damage.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock pushed inflation to 8.6%, tracked by Danish rate hikes shadowing the ECB.",
+        "period": "2022"
+      },
+      {
+        "event": "Debt projected at 27.5% of GDP, the series low, on continued surpluses.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Denmark's outlook is one of the strongest in Europe: minimal debt, credible institutions, and a diversified economy with a leading green-energy sector. The fiscal challenge is intergenerational \u2014 using space wisely on climate and aging rather than solvency. Inflation should track the ECB target via the peg. The main exposure is external: a small open economy highly sensitive to global trade and the energy transition's pace.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -663,5 +663,46 @@
         "summary": "The Leopards stay in contention in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\udde9",
+    "image_small": "https://flagcdn.com/w320/cd.png",
+    "image_large": "https://flagcdn.com/w1280/cd.png"
+  },
+  "national_anthem": "Debout Congolais",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Debout_Congolais",
+  "national_animal": "Okapi",
+  "national_bird": "Congo Peafowl",
+  "commentary": {
+    "inflation_management": "The DRC's inflation record is a series of currency crises. It hit 46.1% in 2009 as the global crisis crushed mining revenues and the franc, then stabilized remarkably to 0.7-1.2% in 2013-2015 under tighter policy. The 2016-18 political crisis around Kabila's succession brought a second collapse: 35.7% in 2017 and 29.3% in 2018. The central bank stabilized the franc after 2019, bringing inflation to 4.7%, but depreciation resumed in 2022-24 (19.9% in 2023, 17.7% in 2024) on fiscal slippages and conflict. It eased to a projected 7.4% in 2025. There is no inflation-targeting framework; policy is essentially exchange-rate defense with limited reserves.",
+    "debt_management": "The DRC's debt was erased by HIPC/MDRI relief in 2010: from 107.5% of GDP in 2006 it collapsed to 7.6% by 2012, the series low. The post-relief government borrowed cautiously at first, and the ratio stayed under 16% through 2024, one of Africa's lowest. It is now climbing as the government taps regional and international markets to fund infrastructure: 19.9% projected for 2025. Sustainability is comfortable on paper, but that reflects how little the state borrows, not fiscal strength; domestic revenue mobilization is among the world's weakest, and the real fiscal story is off-budget mining deals and chronic under-spending on public goods.",
+    "key_events": [
+      {
+        "event": "Global crisis crushed copper/cobalt prices; inflation hit 46.1% as the franc collapsed.",
+        "period": "2009"
+      },
+      {
+        "event": "HIPC completion-point relief cut debt from 107.5% to under 10% of GDP.",
+        "period": "2010"
+      },
+      {
+        "event": "Political crisis over Kabila's refusal to step down; inflation surged to 35.7% (2017) amid franc depreciation.",
+        "period": "2016-18"
+      },
+      {
+        "event": "Felix Tshisekedi took office after disputed elections; mining code revised to capture more revenue.",
+        "period": "2019"
+      },
+      {
+        "event": "COVID-19, then Ukraine war: franc depreciation pushed inflation to 19.9% in 2023.",
+        "period": "2020-23"
+      },
+      {
+        "event": "Tshisekedi re-elected (December 2023); M23 rebellion seized territory in the east, straining the budget.",
+        "period": "2023-25"
+      }
+    ],
+    "outlook_next_decade": "The base case is mining-led growth with low debt but persistent inflation risk from the franc. Upside is enormous: cobalt, copper, and lithium demand could transform revenues if governance improves; downside is that it won't, and conflict in the east keeps the economy fragmented. Uncertainty is high: macro stability depends on commodity prices and politics far more than on policy frameworks, which remain weak.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -595,5 +595,46 @@
         "summary": "Bahrain contests the decisive rounds of 2026 World Cup qualifying."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/bh.png",
+    "image_large": "https://flagcdn.com/w1280/bh.png"
+  },
+  "national_anthem": "Bahraynuna",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Bahrain",
+  "national_animal": "Arabian Oryx",
+  "national_bird": "White-eared Bulbul",
+  "commentary": {
+    "inflation_management": "With the dinar pegged to the US dollar since 1980, Bahrain effectively imports US monetary policy, and inflation has stayed low: it averaged around 2-3% in the 2000s, touched -2.3% in 2020 during COVID, and the IMF projects -0.1% for 2025. The 2019 introduction of 5% VAT (doubled to 10% in 2022) added only a temporary bump, with inflation reaching just 3.6% in 2022. The peg has held through every shock, but it removes any independent monetary response to domestic downturns.",
+    "debt_management": "Bahrain's debt trajectory is the region's most alarming: from 19.4% of GDP in 2006 it climbed steadily after the 2014 oil-price collapse, reaching 97.1% in 2019, 125.7% in 2020, and a projected 147.6% in 2025, the highest in the Gulf. Persistent deficits, a large public wage bill, and subsidies drove the increase; a $10bn support package from Saudi Arabia, the UAE, and Kuwait in 2018 bought time but not consolidation. The 2022 VAT hike and spending restraint slowed the rise only briefly before it resumed. Sustainability now depends on continued Gulf backing and oil prices.",
+    "key_events": [
+      {
+        "period": "2011",
+        "event": "Arab Spring unrest; Saudi-led GCC forces intervened and fiscal spending rose to buy calm."
+      },
+      {
+        "period": "2014-16",
+        "event": "Oil price collapse blew out the deficit and started the debt climb from 42.6% to 77.4%."
+      },
+      {
+        "period": "2018",
+        "event": "$10bn GCC financial support package agreed, conditional on fiscal reforms."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 and the oil crash pushed debt to 125.7% of GDP and GDP down to $35.8bn."
+      },
+      {
+        "period": "2022",
+        "event": "VAT doubled to 10%; oil windfall gave temporary relief but the deficit persisted."
+      },
+      {
+        "period": "2025",
+        "event": "Debt projected at 147.6% of GDP, keeping Bahrain dependent on Gulf creditor support."
+      }
+    ],
+    "outlook_next_decade": "Bahrain faces a slow-burn fiscal crisis: without sustained consolidation or high oil prices, debt keeps rising and refinancing depends on the goodwill of its Gulf neighbors. The Fiscal Balance Program targets balance, but progress has been stop-start. Upside comes from financial-services growth and aluminum; downside from oil-price falls or regional tensions that test the peg. Analytical assessment: muddling through with external support is the base case, not a return to low debt.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

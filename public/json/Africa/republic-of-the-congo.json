@@ -606,5 +606,42 @@
         "summary": "The Red Devils fail to qualify for the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/cg.png",
+    "image_large": "https://flagcdn.com/w1280/cg.png"
+  },
+  "national_anthem": "La Congolaise",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/La_Congolaise",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Congo's inflation has been low throughout, anchored by the Central African CFA franc's peg to the euro: it peaked at 6.0% in 2008 and troughed at 0.4% in 2010, 2017, and 2019, averaging around 2-3%. Even the 2022 global shock produced only 3.0%, easing to a projected 2.6% in 2025. The BEAC's regional monetary policy has delivered exemplary price stability through oil crashes, debt crises, and pandemics. But as in other CEMAC oil states, the peg conceals the real problem: with oil output declining and the real exchange rate rigid, the non-oil economy cannot adjust, and fiscal policy bears the entire burden.",
+    "debt_management": "Congo's debt was reset by HIPC completion in 2010: from 95.3% of GDP in 2006 it fell to 30.2% by 2012, the series low. The government then borrowed aggressively against oil, much of it through opaque oil-backed loans from commodity traders: the 2014 crash drove debt to 88.2% by 2017, and after a 2019 IMF program ($449 million) briefly stabilized it, COVID and renewed borrowing pushed it to 102.9% in 2023, the series high, with 97.4% projected for 2025. Congo restructured trader debt and sought Common Framework-style treatment; sustainability remains precarious, hostage to oil prices and the transparency of oil-collateralized borrowing.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 95.3% to about 30% of GDP.",
+        "period": "2010"
+      },
+      {
+        "event": "Oil price crash exposed oil-backed borrowing from traders; debt surged past 80% of GDP.",
+        "period": "2014-17"
+      },
+      {
+        "event": "Sassou Nguesso won re-election; IMF program ($449 million) agreed in 2019 after debt restructuring talks.",
+        "period": "2016-19"
+      },
+      {
+        "event": "COVID-19 and oil crash pushed debt to 101.5% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Debt hit 102.9% of GDP, the series high, on renewed borrowing and weak oil.",
+        "period": "2023"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued oil dependence with debt near 100% of GDP and low inflation under the CFA peg. Upside depends on new oil and gas projects (notably LNG) and genuine transparency in oil-backed borrowing; downside is another oil downturn forcing a disorderly restructuring. Uncertainty is moderate-to-high: the IMF program framework exists, but implementation has been repeatedly delayed and oil output is mature.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

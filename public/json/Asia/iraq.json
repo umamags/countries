@@ -659,5 +659,50 @@
         "summary": "Iraq contest the final rounds of 2026 World Cup qualifying."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\uddf6",
+    "image_small": "https://flagcdn.com/w320/iq.png",
+    "image_large": "https://flagcdn.com/w1280/iq.png"
+  },
+  "national_anthem": "Mawtini",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Mawtini",
+  "national_animal": "Goat",
+  "national_bird": "Chukar Partridge",
+  "commentary": {
+    "inflation_management": "Iraq's inflation history is a war story: 53.2% in 2006 at the height of sectarian conflict, collapsing to 2.7% by 2008 as security improved, and staying near zero through most of the 2010s under the dinar's de facto dollar peg. The December 2020 devaluation (from 1,190 to 1,460 per dollar) pushed inflation to 6.0% in 2021 and 5.0% in 2022, but it has since fallen to a projected 0.3% in 2025. The Central Bank of Iraq has kept the peg through ISIS, oil crashes, and political crises, prioritizing exchange-rate stability over an active inflation target.",
+    "debt_management": "Public debt has swung violently with war and oil: it started at 143.2% of GDP in 2006 (legacy Saddam-era arrears), fell to 27.6% by 2014 as oil revenues and Paris Club relief worked through, then jumped to 60.3% in 2016 after the ISIS war and oil-price collapse, and to 72.5% in 2020 on COVID and the oil crash. Recovery brought it to a projected 53.9% in 2025. GDP swung from $65.1bn (2006) to $288.1bn (2022) with oil prices. The debt is manageable when oil is high and dangerous when it is not; there is no stabilization fund worthy of the name.",
+    "key_events": [
+      {
+        "period": "2006-07",
+        "event": "Sectarian civil war peak; inflation 53.2% and debt 143.2% of GDP."
+      },
+      {
+        "period": "2008-10",
+        "event": "Security 'surge' and oil recovery; inflation collapsed and debt began falling."
+      },
+      {
+        "period": "2014",
+        "event": "ISIS seized Mosul and oil prices crashed; debt began climbing again."
+      },
+      {
+        "period": "2016-17",
+        "event": "Battle for Mosul; fiscal strain peaked with debt at 60.3%."
+      },
+      {
+        "period": "2019-20",
+        "event": "Protests toppled the government; COVID and the oil crash pushed debt to 72.5%."
+      },
+      {
+        "period": "2020",
+        "event": "Dinar devalued to 1,460 per dollar to close the fiscal gap."
+      },
+      {
+        "period": "2022",
+        "event": "Oil windfall repaired finances; GDP hit $288.1bn."
+      }
+    ],
+    "outlook_next_decade": "Iraq's outlook is an oil-price forecast with political risk attached: high prices mean surpluses and falling debt, low prices mean renewed fiscal crisis, and the historical pattern favors the latter arriving eventually. Diversification away from oil remains rhetorical, the public wage bill keeps growing, and political fragmentation blocks reform. Water scarcity and climate stress add a slow-burn risk. Analytical assessment: expect repeated boom-bust cycles with debt ratcheting higher each time unless a stabilization mechanism is built.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

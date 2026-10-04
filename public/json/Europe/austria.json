@@ -655,5 +655,42 @@
         "summary": "Austria compete in qualifying seeking a first World Cup since 1998."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde6\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/at.png",
+    "image_large": "https://flagcdn.com/w1280/at.png"
+  },
+  "national_anthem": "Land der Berge, Land am Strome",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Land_der_Berge,_Land_am_Strome",
+  "national_animal": "Golden Eagle",
+  "national_bird": "Barn Swallow",
+  "commentary": {
+    "inflation_management": "As a euro-area member, Austria's inflation is set by the ECB's single monetary policy, and it tracked the area average closely: 0.4% in 2009, low through the 2010s (1.4% in 2020), then the 2022 energy shock pushed it to 8.6%, the series high \u2014 above the euro-area mean because of gas exposure. The ECB's hiking cycle brought it down to 2.9% in 2024, though the projected 3.6% for 2025 shows services inflation lingering. Austria's fiscal buffers let it run one of Europe's largest energy-subsidy packages in 2022-23, cushioning households without altering the monetary story.",
+    "debt_management": "Debt was 68.2% of GDP in 2006, fell to a low of 65.8% in 2007, then rose through the crisis era to a peak of 85.6% in 2015 on bank recapitalizations and deficits. Consolidation brought it down before COVID, which lifted it to 83.2% in 2020; it is projected at 80.5% in 2025, with the post-COVID decline stalled by slow growth. GDP grew from $333.9bn in 2006 to a projected $579.9bn in 2025. Debt is comfortably sustainable given Austria's safe-haven borrowing costs, but the trend is upward rather than downward.",
+    "key_events": [
+      {
+        "event": "Global financial crisis and eurozone turmoil; bank rescues (notably Hypo Alpe-Adria) raised debt through 2015.",
+        "period": "2008-12"
+      },
+      {
+        "event": "Debt peaked at 85.6% of GDP as banking-legacy costs landed on the state.",
+        "period": "2015"
+      },
+      {
+        "event": "COVID-19: large fiscal support lifted debt to 83.2% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war energy shock drove inflation to 8.6%; heavy fiscal energy subsidies followed.",
+        "period": "2022"
+      },
+      {
+        "event": "Prolonged stagnation kept deficits elevated and debt near 80% of GDP.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Austria's outlook hinges on escaping its growth stagnation and stabilizing debt below 80% of GDP. Inflation should settle near the ECB's target as the 2025 overshoot (3.6% projected) unwinds, though wage growth remains a watch item. Structural drags are demographics, a heavy industry base facing the energy transition, and fiscal pressure from pensions. Debt sustainability is not in question, but the fiscal path needs a credible consolidation plan.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

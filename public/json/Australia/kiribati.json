@@ -595,5 +595,38 @@
         "summary": "Weightlifting remained the nation's best medal hope."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddee",
+    "image_small": "https://flagcdn.com/w320/ki.png",
+    "image_large": "https://flagcdn.com/w1280/ki.png"
+  },
+  "national_anthem": "Teirake Kaini Kiribati",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Teirake_Kaini_Kiribati",
+  "national_animal": "Magnificent Frigatebird",
+  "national_bird": "Magnificent Frigatebird",
+  "commentary": {
+    "inflation_management": "Kiribati uses the Australian dollar, so it has no monetary policy at all - inflation is whatever Australia and world food-fuel prices deliver. The result is extreme volatility for a micro-economy: 13.7% in 2008, deflation of -3.9% in 2010, -3% in 2012, then 9.8% in 2009 and 9.3% in 2023 on global shocks. The IMF projects 6.5% for 2025, still elevated. Price stability is structurally impossible to manage domestically; the only buffers are fiscal - the Revenue Equalization Stabilization Fund and fishing-license windfalls that let the government smooth household costs through subsidies when import prices spike.",
+    "debt_management": "Kiribati barely borrows: gross debt peaked at 21.2% of GDP in 2016 and has fallen to a projected 8% in 2025, the series low. The fiscal story is the opposite of most Pacific islands - tuna fishing-license revenues under the Vessel Day Scheme turned the budget structurally strong through the 2010s, and the RERF sovereign wealth fund (built from earlier phosphate wealth) provides a cushion worth several times GDP. Debt sustainability is not the question; the question is whether fishing revenues, which depend on tuna migration patterns shifting with ocean warming, hold up.",
+    "key_events": [
+      {
+        "period": "2019",
+        "event": "September: switched diplomatic recognition from Taiwan to China, deepening Beijing's Pacific footprint."
+      },
+      {
+        "period": "2020",
+        "event": "President Maamau re-elected in June, consolidating the pro-China foreign policy turn."
+      },
+      {
+        "period": "2021",
+        "event": "Reopened the Phoenix Islands Protected Area to commercial fishing, trading conservation for revenue."
+      },
+      {
+        "period": "2022",
+        "event": "COVID-19 arrived after a long virus-free stretch, ending one of the world's strictest border closures."
+      }
+    ],
+    "outlook_next_decade": "Kiribati's finances are the strongest in the Pacific on paper, but the economy is an existential bet on sea-level rise: much of the country sits under two meters above the ocean. Fishing revenues should stay strong near-term, funding adaptation and the RERF. The strategic risk is geopolitical - Kiribati's location and its China ties make it a pawn in great-power competition, which could either bring investment or instability. Macroeconomically, the decade looks stable; physically, it is the most threatened nation on earth.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

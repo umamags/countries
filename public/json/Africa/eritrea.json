@@ -637,5 +637,42 @@
         "summary": "Girmay and compatriots keep Eritrea at cycling's top table."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddea\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/er.png",
+    "image_large": "https://flagcdn.com/w1280/er.png"
+  },
+  "national_anthem": "Eritrea, Eritrea, Eritrea",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Eritrea%2C_Eritrea%2C_Eritrea",
+  "national_animal": "Dromedary Camel",
+  "national_bird": "White-cheeked Turaco",
+  "commentary": {
+    "inflation_management": "Eritrea's inflation reflects isolation and periodic shocks rather than monetary policy, with the nakfa fixed to the dollar. It surged to 33.9% in 2009, the series high, during the global food crisis and border conflict with Djibouti, then moderated. A 2016 currency reform that confiscated cash holdings produced extraordinary deflation: -5.6% in 2016, -13.3% in 2017, and -14.4% in 2018, the series low, as liquidity was crushed. Inflation returned to 1.3% in 2019. With no independent monetary framework and no published data since 2019, price dynamics are essentially unobservable; the fixed exchange rate and rationing systems, not interest rates, determine outcomes.",
+    "debt_management": "Eritrea has one of the world's highest recorded public debt ratios: 199.3% of GDP in 2006, peaking at 290.4% in 2017, the series high, and still 260.2% in 2019, the last year of IMF data. The debt reflects decades of militarization, national service, and isolation, financed domestically since Eritrea has almost no external market access. Sustainability is a theoretical question: the state services what it chooses to service, and the real burden falls on the population through suppressed consumption and mass emigration. No restructuring or IMF program has ever been attempted; the numbers describe a closed, command-driven fiscal system rather than a market debt trajectory.",
+    "key_events": [
+      {
+        "event": "Global food crisis and border clashes with Djibouti pushed inflation to 33.9%.",
+        "period": "2008-09"
+      },
+      {
+        "event": "UN sanctions (2009-2018) deepened isolation over alleged support for al-Shabaab.",
+        "period": "2009-18"
+      },
+      {
+        "event": "Currency reform confiscated nakfa holdings above limits, producing deep deflation (-14.4% in 2018).",
+        "period": "2016"
+      },
+      {
+        "event": "Historic peace deal with Ethiopia ended 20 years of 'no war, no peace'; UN sanctions lifted.",
+        "period": "2018"
+      },
+      {
+        "event": "IMF data series ends; subsequent macro data unpublished.",
+        "period": "2019"
+      }
+    ],
+    "outlook_next_decade": "Any outlook is highly uncertain: there has been no published IMF data since 2019 and no transparency on fiscal or monetary policy. The base case is continued stagnation under a closed, militarized system, with the diaspora and mining (Bisha) the main economic links to the world. Upside would require opening and demobilization; neither is in evidence. This is an analytical placeholder, not a forecast, given the data void.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections. Note: the IMF data series for Eritrea ends in 2019."
+  }
 }

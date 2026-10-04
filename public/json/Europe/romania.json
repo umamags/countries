@@ -632,5 +632,42 @@
         "summary": "Romania compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf7\ud83c\uddf4",
+    "image_small": "https://flagcdn.com/w320/ro.png",
+    "image_large": "https://flagcdn.com/w1280/ro.png"
+  },
+  "national_anthem": "De\u0219teapt\u0103-te, rom\u00e2ne!",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/De%C8%99teapt%C4%83-te,_rom%C3%A2ne!",
+  "national_animal": "Eurasian Lynx",
+  "national_bird": "Golden Eagle",
+  "commentary": {
+    "inflation_management": "The National Bank of Romania targets 2.5%, but inflation has run structurally high: 5.6% in 2009, -1.6% in 2016 (the low), 2.6% in 2020, then 13.8% in 2022, the series high. Disinflation stalled badly: 5.6% in 2024 and a projected 7.3% for 2025, the highest in the EU, driven by fiscal loosening, regulated-price adjustments, and leu weakness. The NBR has been the region's most cautious cutter, keeping rates high; fiscal dominance \u2014 deficits undermining monetary tightening \u2014 is the honest diagnosis. The managed-float leu has depreciated steadily, feeding imported inflation.",
+    "debt_management": "Romania's debt has risen relentlessly: 12.7% of GDP in 2006 (12.4% in 2007, the low), 49.5% in 2020 after COVID, 51.9% in 2022, and a projected series high of 60.6% in 2025. The drivers are chronic twin deficits \u2014 fiscal and current-account \u2014 plus pension and wage increases that outran revenue. GDP grew from $122.1bn in 2006 to a projected $427.9bn in 2025, but growth has not kept pace with spending. The EU's excessive-deficit procedure is the binding constraint; Romania is the EU's most persistent deficit offender of recent years. Sustainability is not yet critical, but the trend is the EU's worst.",
+    "key_events": [
+      {
+        "event": "EU accession (January 2007); the pre-crisis boom ended in an IMF-EU bailout (2009).",
+        "period": "2007-09"
+      },
+      {
+        "event": "Fiscal profligacy era: wage and pension hikes pushed deficits up through the late 2010s.",
+        "period": "2016-19"
+      },
+      {
+        "event": "COVID-19: debt jumped to 49.5% of GDP; the deficit never properly corrected after.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation hit 13.8%; the excessive-deficit procedure was opened as deficits stayed above 6% of GDP.",
+        "period": "2022"
+      },
+      {
+        "event": "Inflation projected at 7.3%, the EU's highest; debt projected at 60.6% of GDP, the series high.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Romania's outlook is the EU's most fiscally challenged: the combination of 7.3% projected inflation and 60.6% projected debt with persistent deficits is a genuine policy failure, not bad luck. The new government's consolidation plan is the variable to watch \u2014 credibility will be judged on delivery, not announcements. EU funds and a large domestic market support growth, but fiscal dominance will keep inflation above target until deficits are cut. The analytical assessment: fixable, but the window for painless adjustment is closing.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

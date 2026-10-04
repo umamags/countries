@@ -596,5 +596,42 @@
         "summary": "The national side began the long road to the next World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddfc\ud83c\uddf8",
+    "image_small": "https://flagcdn.com/w320/ws.png",
+    "image_large": "https://flagcdn.com/w1280/ws.png"
+  },
+  "national_anthem": "The Banner of Freedom",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/The_Banner_of_Freedom",
+  "national_animal": null,
+  "national_bird": "Tooth-billed Pigeon",
+  "commentary": {
+    "inflation_management": "The Central Bank of Samoa pegs the tala to a basket of trading-partner currencies, so inflation is largely imported and volatile: a series high of 14.6% in 2009 after the tsunami and global food-price spike, near-zero readings through the mid-2010s, outright deflation of -3% in 2021 during the COVID border closure, then 8.7% in 2022 and 12% in 2023 on the global commodity shock. The IMF projects 1.9% for 2025, back to normal. With the exchange rate doing the stabilizing work, domestic monetary policy is a minor lever; remittances and tourism flows matter more for demand.",
+    "debt_management": "Debt rose from 33.5% of GDP in 2006 to a series high of 56.4% in 2015, driven by post-2009-tsunami reconstruction and concessional infrastructure borrowing, notably from China. Since then it has been one of the Pacific's cleanest deleveraging stories: steady repayments, solid growth and grant financing brought it down every year to a projected 21.2% in 2025, the series low. The trajectory shows that small island states can work down disaster-driven debt when the borrowing was concessional and growth resumes - though the low base also reflects how little fiscal space Samoa retains for the next shock.",
+    "key_events": [
+      {
+        "period": "2009",
+        "event": "September tsunami killed nearly 200 people and devastated the south coast, driving a debt-funded rebuild."
+      },
+      {
+        "period": "2012",
+        "event": "December: Cyclone Evan caused widespread damage, the second major natural disaster in three years."
+      },
+      {
+        "period": "2019",
+        "event": "December measles epidemic prompted a state of emergency and a mass vaccination campaign."
+      },
+      {
+        "period": "2021",
+        "event": "April election and constitutional crisis ended 22 years of HRPP rule; Fiame Naomi Mata'afa became the first female prime minister."
+      },
+      {
+        "period": "2020-22",
+        "event": "COVID-19: borders stayed closed until August 2022, shielding health but freezing tourism."
+      }
+    ],
+    "outlook_next_decade": "Debt is low and falling, which gives Samoa rare fiscal room among Pacific islands - the question is whether it is used for climate-resilient infrastructure or consumed by current spending. Remittances and tourism underpin the economy; both are hostage to Australian and New Zealand conditions. Political stability after the 2021 crisis held, but coalition fragility is a watchpoint. The base case is steady, unspectacular growth with the next cyclone resetting the fiscal clock.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

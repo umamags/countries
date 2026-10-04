@@ -1,0 +1,28 @@
+{
+  "country": "Vanuatu",
+  "iso3": "VUT",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Reserve Bank of Vanuatu kept inflation low and boring for most of the period - between 0.8% and 5.3% from 2006 through 2022, with series lows of 0.8% in 2014 and 2016. That stability broke in 2023, when post-cyclone supply disruption and global prices pushed inflation to a series high of 11.2%. It collapsed back to 1.1% in 2024 and a projected 1.7% in 2025. The vatu's managed float and a conservative central bank helped, but the 2023 spike shows how a single cyclone season can undo a decade of price stability in a small import-dependent economy.",
+  "debt_management": "Vanuatu was a low-debt economy - 16-20% of GDP from 2006 to 2014 - until Cyclone Pam struck in 2015. Reconstruction borrowing, including Chinese-financed infrastructure, lifted debt to 32.2% in 2015 and a series high of 46.4% in 2017. It has since stabilized around 39-43%, with a projected 40.9% in 2025, as GDP nearly tripled in dollar terms ($0.48bn to $1.32bn) and tourism recovered. The debt is sustainable at current levels, but the ratchet pattern is clear: each major cyclone permanently lifts the debt stock, and climate change is making major cyclones more frequent.",
+  "key_events": [
+    {
+      "period": "2015",
+      "event": "March: Cyclone Pam, a category 5 storm, devastated the islands and drove the debt surge."
+    },
+    {
+      "period": "2020-21",
+      "event": "COVID-19 border closure froze tourism, the main foreign-exchange earner."
+    },
+    {
+      "period": "2023",
+      "event": "March: twin cyclones Judy and Kevin struck within days, the costliest disaster pair in the country's history."
+    },
+    {
+      "period": "2024",
+      "event": "Political instability with successive no-confidence motions; citizenship-by-investment revenue under scrutiny."
+    }
+  ],
+  "outlook_next_decade": "The economy will keep growing on tourism and agriculture, but the fiscal model - borrow to rebuild after each cyclone - is only sustainable if disasters stay infrequent, which they won't. Debt is likely to ratchet higher with each major storm. Diversifying revenue (the citizenship program is politically fragile) and building genuine climate-resilient infrastructure are the tests. Donor and concessional finance will remain essential.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

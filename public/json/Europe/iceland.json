@@ -649,5 +649,46 @@
         "summary": "Iceland compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddee\ud83c\uddf8",
+    "image_small": "https://flagcdn.com/w320/is.png",
+    "image_large": "https://flagcdn.com/w1280/is.png"
+  },
+  "national_anthem": "Lofs\u00f6ngur",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Lofs%C3%B6ngur",
+  "national_animal": null,
+  "national_bird": "Gyrfalcon",
+  "commentary": {
+    "inflation_management": "The Central Bank of Iceland targets 2.5%, but the small, open economy with its own floating currency produces chronic overshoots. Inflation was 12.7% in 2008 (the series high) and 12% in 2009 as the krona collapsed, fell to 1.6% in 2015 (the low), ran hot again at 8.3% in 2022 on the energy shock, then 5.9% in 2024 and a projected 4.1% for 2025 \u2014 persistently above target. The bank has hiked aggressively in each cycle, and krona depreciation repeatedly feeds imported inflation. The 2010s experiment with the currency showed the float cushions output but punishes price stability.",
+    "debt_management": "Iceland's debt went from 69.8% of GDP in 2006 to 136.6% in 2011, the series peak, as the state absorbed the cost of the banking collapse \u2014 then one of history's fastest consolidations brought it to a projected 56.1% in 2025, the series low (76.1% in 2020, 66.4% in 2022). GDP grew from $17.7bn in 2006 to a projected $38.6bn in 2025. The clean-up worked: banking-sector liabilities were ring-fenced, capital controls were lifted in 2017, and growth plus surpluses did the rest. Iceland is the counter-example to the idea that banking crises must leave permanent debt.",
+    "key_events": [
+      {
+        "event": "Banking collapse (October 2008): the three big banks failed; IMF program and capital controls followed.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Inflation peaked at 12.7% on krona collapse; the Icesave dispute with the UK and Netherlands.",
+        "period": "2008-10"
+      },
+      {
+        "event": "Debt peaked at 136.6% of GDP as crisis costs were absorbed.",
+        "period": "2011"
+      },
+      {
+        "event": "Capital controls lifted (2017) after the crisis-era balance-of-payments was stabilized.",
+        "period": "2017"
+      },
+      {
+        "event": "COVID-19: tourism collapse pushed debt to 76.1% of GDP; recovery was swift.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation back above target at 4.1% projected for 2025; debt at the series low of 56.1%.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Iceland's macro fundamentals are strong: low debt, flexible exchange rate, abundant renewable energy, and a recovered tourism sector. The persistent issue is above-target inflation, which keeps real rates high and the krona volatile \u2014 a structural feature of the small currency, not a policy failure. Growth prospects are solid on energy-intensive industry and fisheries; the binding risks are external shocks to tourism and the chronic inflation overshoot eroding competitiveness. Debt at 56% of GDP gives ample fiscal room.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -610,5 +610,46 @@
         "summary": "Timor-Leste compete at the Southeast Asian Games."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\uddf1",
+    "image_small": "https://flagcdn.com/w320/tl.png",
+    "image_large": "https://flagcdn.com/w1280/tl.png"
+  },
+  "national_anthem": "P\u00e1tria",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/P%C3%A1tria",
+  "national_animal": "Saltwater Crocodile",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Timor-Leste uses the US dollar as its official currency, so it has no monetary policy at all; inflation is imported. It was volatile early on, 13.2% in 2011 on food prices, then low through the 2010s (with -1.5% in 2016), rising to 8.4% in 2023 on global shocks before easing to a projected 0.5% in 2025. Dollarization delivers price stability at the cost of any adjustment mechanism: when oil revenues fall, the entire adjustment lands on fiscal policy and the Petroleum Fund.",
+    "debt_management": "Timor-Leste has almost no public debt: 0% through 2012, rising only to a projected 14.3% in 2025 as modest domestic borrowing began. The real balance sheet is the Petroleum Fund, which peaked above $19bn and has been drawn down heavily to fund budgets exceeding sustainable income; GDP is just $2.1bn projected for 2025. The fiscal question is not debt but fund depletion: at current withdrawal rates the fund faces exhaustion in the 2030s unless Greater Sunrise gas revenues materialize. Debt sustainability is irrelevant; fund sustainability is everything.",
+    "key_events": [
+      {
+        "period": "2006",
+        "event": "Political-military crisis; Australian-led intervention force deployed."
+      },
+      {
+        "period": "2008",
+        "event": "Assassination attempts on the president and PM; stability gradually restored."
+      },
+      {
+        "period": "2012",
+        "event": "UN mission ended; Timorese took full security responsibility."
+      },
+      {
+        "period": "2018",
+        "event": "Maritime boundary treaty with Australia settled Greater Sunrise revenue sharing."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19; Petroleum Fund drawdowns accelerated to fund the budget."
+      },
+      {
+        "period": "2023",
+        "event": "Parliamentary elections returned Xanana Gusmao's CNRT to power."
+      }
+    ],
+    "outlook_next_decade": "Timor-Leste's outlook hinges on Greater Sunrise: if the gas field is developed, revenues extend the Petroleum Fund for decades; if not, the fund depletes and the state faces a fiscal cliff. Non-oil growth (coffee, tourism) is too small to fill the gap. Analytical assessment: the base case must assume continued large fund withdrawals with a hard deadline approaching; diversification has been promised for twenty years with little to show. Honest uncertainty about Sunrise timing dominates everything.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

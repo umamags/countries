@@ -662,5 +662,46 @@
         "summary": "The Indomitable Lions reach the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde8\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/cm.png",
+    "image_large": "https://flagcdn.com/w1280/cm.png"
+  },
+  "national_anthem": "Chant de Ralliement",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/O_Cameroon%2C_Cradle_of_Our_Forefathers",
+  "national_animal": "Lion",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Cameroon's inflation is anchored by the Central African CFA franc's peg to the euro and the BEAC regional central bank, which kept price growth low through most of the period: inflation averaged under 3% from 2009 to 2021, with a low of 0.6% in 2017. The 2008 food-fuel crisis (5.3%) and the 2022 global shock (6.3%) were the main breaches, with inflation peaking at 7.4% in 2023 before easing to 4.5% in 2024 and a projected 3.4% in 2025. The peg has delivered stability but at the cost of an independent monetary policy; when the Anglophone crisis and oil shocks hit, adjustment fell entirely on fiscal policy.",
+    "debt_management": "Cameroon's debt was reset by HIPC/MDRI relief in 2006, falling from 17.6% of GDP to 11.2% by 2008, the series low. The government then borrowed steadily to fund infrastructure (dams, roads, the 2019 AFCON stadiums), and the 2014 oil crash plus Boko Haram security costs accelerated the climb: debt reached 47.2% of GDP in 2021, the series high, before easing to a projected 40.3% in 2025. Borrowing is a mix of concessional, Chinese bilateral, and Eurobond issuance. The CEMAC regional ceiling and IMF program surveillance have imposed some discipline, but debt has still roughly quadrupled from its post-HIPC low, and servicing costs are rising as concessional access shrinks.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt to 11.2% of GDP, the series low.",
+        "period": "2006"
+      },
+      {
+        "event": "Oil price crash and Boko Haram insurgency in the Far North raised security spending and cut revenues.",
+        "period": "2014-16"
+      },
+      {
+        "event": "Anglophone crisis escalated into armed conflict in the Northwest and Southwest, disrupting agriculture and trade.",
+        "period": "2016-"
+      },
+      {
+        "event": "Paul Biya won a seventh term (2018); the 2019 AFCON hosting was stripped over stadium delays.",
+        "period": "2018-19"
+      },
+      {
+        "event": "COVID-19 pushed debt to 44.7%; an IMF program supported the response.",
+        "period": "2020"
+      },
+      {
+        "event": "October 2025 presidential election returned the 92-year-old Biya for another term amid opposition claims of fraud.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued low inflation under the CFA peg with moderate growth, but debt is on a structurally rising path and the succession question around Biya (in power since 1982) is the dominant uncertainty. Upside comes from oil and gas projects and regional trade; downside is a disorderly political transition or renewed conflict. Uncertainty is moderate-to-high and heavily political rather than macroeconomic.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -116,5 +116,30 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddf3\ud83c\uddfa",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niue.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niue.svg?width=1280"
+  },
+  "national_anthem": "Ko e Iki he Lagi",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ko_e_Iki_he_Lagi",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Niue is self-governing in free association with New Zealand, uses the New Zealand dollar, and has no monetary policy or IMF data. With around 1,700 residents, there is barely a price level to manage - nearly everything is imported, and inflation is whatever New Zealand's is plus freight. Aid, remittances and .nu domain revenues fund consumption; tourism is small but growing.",
+    "debt_management": "Niue carries no meaningful sovereign debt; its 'fiscal policy' is allocating New Zealand aid, domain-name income and modest tourism receipts. The long-running dispute over control and revenue of the .nu internet domain is the closest thing to a sovereign-wealth question. Economic viability rests entirely on external support, which Wellington provides steadily.",
+    "key_events": [
+      {
+        "period": "2020-22",
+        "event": "COVID-19 border closure cut the nascent tourism sector; reopening was slow and cautious."
+      },
+      {
+        "period": "2020s",
+        "event": "Ongoing dispute with Sweden's IIS foundation over control of the lucrative .nu domain."
+      }
+    ],
+    "outlook_next_decade": "Niue will remain a subsidized microstate; the realistic goal is not growth but viability - keeping population from declining further through tourism, remote-work visas and domain income. New Zealand's backing is assured. Climate resilience for water and the single hospital-scale infrastructure is the practical agenda. Expect quiet stability, not economic takeoff.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

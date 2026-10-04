@@ -1,0 +1,32 @@
+{
+  "country": "Solomon Islands",
+  "iso3": "SLB",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The Central Bank of Solomon Islands saw the wildest inflation ride in the Pacific dataset: 11.2% in 2006, a series high of 17.3% in 2008 on the food-fuel shock, then a long disinflation to -0.6% in 2015 as commodity prices fell and the SI dollar stabilized. Inflation ran 5-5.4% through 2022-23 on global pressures before easing to 4.2% in 2024 and a projected 3.4% in 2025. With a thin financial system and logging-driven export earnings, monetary policy is mostly about exchange-rate management; price stability has improved markedly since the turbulent 2000s, but the economy remains one commodity shock from another spike.",
+  "debt_management": "Solomon Islands ran one of the developing world's most dramatic deleveragings: gross debt fell from 36.9% of GDP in 2006 to a series low of 7.5% in 2016, via HIPC-era debt relief, fiscal discipline under RAMSI oversight, and logging revenues. The post-COVID period reversed it: pandemic spending and weaker growth lifted debt to 16.5% in 2022, 22.3% in 2023 and a projected 28.7% in 2025. The level is still modest, but the direction is the worry - the discipline of the RAMSI years has faded, logging revenues are declining as forests deplete, and new borrowing (including for the 2023 Pacific Games) is less concessional than before.",
+  "key_events": [
+    {
+      "period": "2003-17",
+      "event": "RAMSI regional intervention mission restored order after the ethnic tensions; it withdrew in 2017."
+    },
+    {
+      "period": "2019",
+      "event": "September: switched diplomatic recognition from Taiwan to China, a landmark geopolitical move."
+    },
+    {
+      "period": "2021",
+      "event": "November anti-China riots in Honiara burned Chinatown and forced an Australian security deployment."
+    },
+    {
+      "period": "2022",
+      "event": "April: security pact with China alarmed Australia and the US, reshaping Pacific geopolitics."
+    },
+    {
+      "period": "2023",
+      "event": "November-December: hosted the Pacific Games in Honiara, the country's largest-ever event."
+    }
+  ],
+  "outlook_next_decade": "The economy faces a structural transition as logging - long the fiscal base - declines, with mining and fisheries the hoped-for replacements. Debt will likely keep rising toward 30-40% of GDP unless revenues are rebuilt. The China relationship brings infrastructure finance but also domestic political division, as the 2021 riots showed. The base case is modest growth with periodic political turbulence; the optimistic case requires a genuine revenue transition away from logs.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

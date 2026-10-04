@@ -675,5 +675,46 @@
         "summary": "The Cranes reach the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddfa\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/ug.png",
+    "image_large": "https://flagcdn.com/w1280/ug.png"
+  },
+  "national_anthem": "Oh Uganda, Land of Beauty",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Oh_Uganda%2C_Land_of_Beauty",
+  "national_animal": "Ugandan Kob",
+  "national_bird": "Grey Crowned Crane",
+  "commentary": {
+    "inflation_management": "The Bank of Uganda's inflation-targeting-lite framework (5% target) has a solid record outside crisis episodes. Inflation spiked to 18.7% in 2011, the series high, on food prices and election spending, and 14.0% in 2012, before the bank's tightening brought it down to 2.1% by 2019, the series low. The 2022 global shock pushed it to only 7.2%, and it fell back to 3.3% in 2024 and a projected 3.6% in 2025. The BoU is regarded as one of Africa's more competent central banks; its challenge now is managing the shilling and expectations as oil investment inflows surge.",
+    "debt_management": "Uganda's debt has risen steadily as the government borrowed for infrastructure ahead of oil production. From 14.8% of GDP in 2009, the series low (post-HIPC/MDRI), the ratio climbed through the 2010s to a projected 54.2% in 2025, the series high, with a COVID-era jump from 38.3% (2019) to 46.6% (2020). Borrowing is a mix of concessional, Chinese bilateral (notably for the Karuma dam), and domestic. IMF assessments judge the risk of distress moderate, but the 40-point climb means debt service is a growing burden, and the bet is explicit: borrow now against oil revenues that have been delayed for nearly two decades.",
+    "key_events": [
+      {
+        "event": "Oil discoveries confirmed in the Albertine Graben, setting up a two-decade wait for production.",
+        "period": "2006"
+      },
+      {
+        "event": "Election-year spending and food crisis pushed inflation to 18.7%, the series high.",
+        "period": "2011"
+      },
+      {
+        "event": "South Sudan's civil war disrupted a major export market.",
+        "period": "2013-16"
+      },
+      {
+        "event": "Museveni won disputed re-election (2021); Bobi Wine's challenge was suppressed.",
+        "period": "2021"
+      },
+      {
+        "event": "EACOP pipeline and Tilenga/Kingfisher projects advanced toward first oil.",
+        "period": "2022-25"
+      },
+      {
+        "event": "Debt projected at 54.2% of GDP, the series high, as oil borrowing peaked before revenues.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is an oil-driven transformation: first oil (expected mid-decade) should lift growth, strengthen the fiscal position, and bring debt down. Upside is transformational if revenues are managed transparently; downside is the resource curse, Dutch disease, and the political risk of a succession from Museveni (in power since 1986). Uncertainty is moderate-to-high: the geology is proven, but Uganda's history counsels caution about the politics of oil.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

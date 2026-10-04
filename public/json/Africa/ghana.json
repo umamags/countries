@@ -594,5 +594,46 @@
         "summary": "The Black Stars fall short in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddec\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/gh.png",
+    "image_large": "https://flagcdn.com/w1280/gh.png"
+  },
+  "national_anthem": "God Bless Our Homeland Ghana",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/God_Bless_Our_Homeland_Ghana",
+  "national_animal": "Tawny Eagle",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Ghana's inflation targeting regime (formal target 8\u00b12%) has been repeatedly overwhelmed by fiscal dominance and cedi depreciation. Inflation ran at 10-17% through the 2010s, peaking at 17.5% in 2016, before the central bank brought it to 7.2% by 2019, the best performance in years. The 2022 crisis destroyed that progress: the cedi collapsed and inflation surged to 31.9% in 2022 and a series high of 39.2% in 2023. Aggressive tightening (policy rate to 30%) and the IMF program broke the spiral: 22.9% in 2024 and a projected 14.2% in 2025. The Bank of Ghana's credibility is slowly being rebuilt, but markets will judge it by the next election cycle, not the current disinflation.",
+    "debt_management": "Ghana's debt cycle is the continent's most dramatic boom-bust. From 17.3% of GDP in 2006 (post-HIPC), election-cycle spending, energy debts, and Eurobond borrowing drove it to 92.7% by 2022, the series high. In December 2022 Ghana defaulted on external debt, the first major COVID-era African default after Zambia. The May 2023 IMF Extended Credit Facility ($3 billion) anchored a restructuring: domestic debt exchange, then external creditor deals, cut the ratio to a projected 48.9% in 2025. The speed of the decline reflects restructuring haircuts and cedi stabilization as much as consolidation; sustainability now depends on staying out of the election-spending trap that caused three previous IMF programs.",
+    "key_events": [
+      {
+        "event": "Oil production began at Jubilee field, adding a new revenue stream.",
+        "period": "2010"
+      },
+      {
+        "event": "Power crisis ('dumsor') and fiscal slippages; IMF program (2015) stabilized the economy.",
+        "period": "2014-16"
+      },
+      {
+        "event": "COVID-19 and election-year spending pushed debt toward 90% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "December 2022: sovereign default on external debt; cedi collapsed; inflation hit 54% year-on-year at year-end.",
+        "period": "2022"
+      },
+      {
+        "event": "May 17, 2023: IMF approved a $3 billion Extended Credit Facility; debt restructuring began.",
+        "period": "2023"
+      },
+      {
+        "event": "December 2024: John Mahama won the presidency, returning to power as the IMF program neared completion.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued IMF-anchored recovery: inflation back to single digits, debt near 50% of GDP, and gold/oil revenues supporting the cedi. Upside comes from the restructuring's clean slate and the 2024 political reset; downside is Ghana's history, four IMF programs in fifteen years, each undone by election spending. Uncertainty is moderate: the institutions are stronger than in 2022, but the test is whether fiscal discipline survives the next election.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

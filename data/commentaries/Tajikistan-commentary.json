@@ -1,0 +1,36 @@
+{
+  "country": "Tajikistan",
+  "iso3": "TJK",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The National Bank of Tajikistan manages the somoni tightly, and inflation has moderated over time: 20.4% in 2008, 12.4% in 2011, then 3-9% through the late 2010s and 3.4% projected for 2025. Remittances from Russia (often 25-30% of GDP) drive the cycle: the 2014-15 ruble collapse forced somoni depreciation and 5.8-7.3% inflation in 2015-17. Dollarization is high and transmission weak; the central bank relies on interventions and reserve requirements. The recent low inflation reflects a stable somoni and subdued demand.",
+  "debt_management": "Public debt is moderate and falling: 36.8% of GDP in 2006, peaking at 50.9% in 2020 on COVID, then declining to a projected 21.6% in 2025 on strong growth (GDP from $2.8bn to a projected $17.5bn) and Chinese-debt repayments. Rogun dam construction, financed partly by Eurobonds (2017), is the big contingent item; cost overruns are the perennial risk. Chinese bilateral debt for infrastructure (notably the Dushanbe-Chanak highway) has been significant but is being serviced. The trajectory is comfortable if Rogun stays on budget.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Commodity boom; inflation hit 20.4% before the crisis cut remittances."
+    },
+    {
+      "period": "2014-15",
+      "event": "Ruble collapse slashed remittances; somoni depreciated and growth slowed."
+    },
+    {
+      "period": "2015",
+      "event": "Islamic Renaissance Party banned after alleged coup attempt; authoritarian consolidation."
+    },
+    {
+      "period": "2017",
+      "event": "Debut $500m Eurobond financed the Rogun dam."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19; debt peaked at 50.9% of GDP."
+    },
+    {
+      "period": "2022",
+      "event": "Unrest in Gorno-Badakhshan suppressed; border clashes with Kyrgyzstan in September."
+    }
+  ],
+  "outlook_next_decade": "Tajikistan's base case is 6-7% growth on remittances, aluminum, and hydropower (Rogun's completion would transform electricity exports), with debt continuing to fall. Risks are Russia dependence (remittances, labor migration), Rogun cost overruns, authoritarian succession questions, and water tensions with downstream neighbors. Analytical assessment: the macro numbers are improving, but the economy's narrow base and governance concentration keep vulnerability high.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,28 @@
+{
+  "country": "Federated States of Micronesia",
+  "iso3": "FSM",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "FSM uses the US dollar and has no monetary policy; inflation simply tracks US conditions and import costs. It peaked at 8.2% in 2009 on the commodity rebound, ran near zero or negative from 2015-17 (a series low of -0.9% in 2016), and picked up with the global shock: 5% in 2022, 6.2% in 2023, 5.4% in 2024, easing to a projected 3.2% in 2025. The long COVID-free stretch suppressed demand through 2021, which is why FSM's inflation cycle lagged and stayed milder than in tourism-dependent peers. Price stability is imported; fiscal policy is the only domestic stabilizer.",
+  "debt_management": "FSM is a model of Compact-era fiscal conservatism: gross debt peaked at just 31.1% of GDP in 2009 and has fallen almost every year since, reaching a projected 8.9% in 2025 - the series low. Compact grants, fishing-license fees and trust-fund build-up produced sustained surpluses, and GDP doubled in dollar terms ($0.25bn to $0.50bn). The 2023 Compact renewal ($3.3bn over 20 years, enacted March 2024) extends the framework. The fiscal position is the strongest in Micronesia - though, as with its neighbours, it is a strength purchased by US transfers rather than domestic revenue.",
+  "key_events": [
+    {
+      "period": "2015",
+      "event": "March: Typhoon Maysak devastated Chuuk and Yap, the costliest recent natural disaster."
+    },
+    {
+      "period": "2019-23",
+      "event": "Chuuk State's independence referendum was repeatedly postponed amid federal tensions."
+    },
+    {
+      "period": "2022",
+      "event": "COVID-19 arrived after one of the world's longest virus-free stretches, ending strict border controls."
+    },
+    {
+      "period": "2023",
+      "event": "May: signed the renewed Compact of Free Association with the US; enacted March 2024."
+    }
+  ],
+  "outlook_next_decade": "The Compact renewal secures two decades of fiscal stability, and the trust fund offers a path - still unproven - to self-sufficiency. Growth will remain slow; the private sector is tiny and the public sector dominates. The Chuuk secession question is the main political risk, and climate-driven pressure on atoll habitability the main physical one. The base case is steady, aid-supported stability with limited growth upside.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Nepal",
+  "iso3": "NPL",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The rupee's peg to the Indian rupee (1.6:1) means Nepal imports India's monetary stance, and inflation has tracked Indian cycles: 12.6% in 2009, 8-10% through the early 2010s, moderating to 4-5% in 2017-19, then 6.4% in 2022 and 7.7% in 2023 on global shocks, easing to a projected 4.1% in 2025. Nepal Rastra Bank manages liquidity and the peg but has no independent inflation target. Remittance inflows (around a quarter of GDP) complicate monetary management by flooding liquidity in good years.",
+  "debt_management": "Public debt is moderate and stable: 42.9% of GDP in 2006, falling to 25.0% by 2016-17 on growth and concessional borrowing, then rising to a projected 48.1% in 2025 after the 2015 earthquake reconstruction and COVID pushed it from 34.0% (2019) to 43.3% (2020). GDP grew from $10.3bn to a projected $44.8bn. Borrowing is mostly concessional and domestic; the risk is less the level than the low return on public investment and political instability slowing project execution.",
+  "key_events": [
+    {
+      "period": "2006",
+      "event": "People's movement ended royal rule; civil war formally ended."
+    },
+    {
+      "period": "2008",
+      "event": "Republic declared; Maoists won constituent assembly elections."
+    },
+    {
+      "period": "2015",
+      "event": "Devastating April earthquake killed ~9,000; new constitution promulgated, followed by an Indian border blockade."
+    },
+    {
+      "period": "2017",
+      "event": "First elections under the new federal constitution stabilized politics briefly."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19 hit remittances and tourism; debt jumped to 43.3%."
+    },
+    {
+      "period": "2022-23",
+      "event": "Forex-reserve pressure forced import curbs; inflation hit 7.7% in 2023."
+    }
+  ],
+  "outlook_next_decade": "Nepal's base case is 4-5% growth on remittances, tourism recovery, and hydropower exports to India and Bangladesh, with debt staying manageable. Political instability remains the chronic drag on investment and reform. Upside from hydropower development is large if transmission and Indian demand align. Risks are earthquakes, climate impacts on agriculture, and any disruption to Gulf/Malaysia labor migration that funds the external balance. Debt sustainability is not a concern on current trends.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

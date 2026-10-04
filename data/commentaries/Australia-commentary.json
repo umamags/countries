@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "iso3": "AUS",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook, October 2025 vintage",
+  "inflation_management": "Australia is a textbook inflation targeter: the RBA's 2-3% target (since 1993) held through most of the period, with the mining boom pushing inflation to 4.35% in 2008 and a long soft patch bottoming at 0.89% in 2020, when the cash rate was cut to a record 0.1% and the RBA launched quantitative easing. The global post-COVID supply shock and the Ukraine war's energy pass-through drove inflation to a series high of 6.66% in 2022. The RBA then tightened aggressively through 2022-23, bringing inflation down to 5.59% in 2023, 3.2% in 2024 and a projected 2.58% in 2025 - back inside the target band. The floating Australian dollar absorbed the terms-of-trade swings throughout, sparing the economy a hard landing.",
+  "debt_management": "Australia entered the period with the developed world's leanest sovereign balance sheet: gross debt was 9.94% of GDP in 2006, touching a series low of 9.66% in 2007. GFC stimulus lifted it to 16.62% by 2009, and it drifted up to 46.72% by 2019 as mining revenues normalized - still modest, with budgets near balance before COVID. The pandemic response (JobKeeper and state spending) pushed debt to its series high of 57.08% in 2020. Growth and bracket creep have since pared it back to a projected 51.04% in 2025. The debt is entirely AUD-denominated and the Commonwealth kept its AAA rating; the binding constraint is structural, not solvency - NDIS and aged-care spending keep deficits persisting even at full employment.",
+  "key_events": [
+    {
+      "period": "2008-09",
+      "event": "Global financial crisis: China demand and large fiscal stimulus kept Australia out of recession, one of few advanced economies to avoid one."
+    },
+    {
+      "period": "2012-13",
+      "event": "Mining investment boom peaked; the terms of trade turned and the economy began rebalancing toward services."
+    },
+    {
+      "period": "2019-20",
+      "event": "Black Summer bushfires burned through the economy and the budget, followed months later by COVID-19."
+    },
+    {
+      "period": "2020",
+      "event": "COVID-19: first recession in 29 years, then a massive fiscal-monetary response that lifted debt to 57.08% of GDP."
+    },
+    {
+      "period": "2020-21",
+      "event": "China imposed trade restrictions on Australian coal, wine, barley and other exports, accelerating trade diversification."
+    },
+    {
+      "period": "2022",
+      "event": "Ukraine war energy shock drove inflation to 6.66%; Albanese's Labor government won the May federal election."
+    }
+  ],
+  "outlook_next_decade": "The base case is trend growth near 2% with inflation anchored around target and debt easing gradually as a share of GDP. Upside comes from critical-minerals demand and the energy transition; the risks are China's property-led slowdown hitting iron ore and LNG revenues, sticky housing-driven household debt, and productivity growth that has been weak for a decade. Fiscal sustainability is not in doubt, but without tax or spending reform the budget will stay in structural deficit through the decade.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Yemen",
+  "iso3": "YEM",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The IMF series for Yemen covers only 2014-25 and reports no debt data at all; inflation reflects war and currency fragmentation. It was 22.0% in 2015, 30.4% in 2017, 33.6% in 2018, peaked at 59.8% in 2021, and the IMF projects 21.4% for 2025. The rial split into two zones (Aden and Sanaa) with divergent exchange rates after the central bank's 2016 relocation, and import dependence means depreciation passes straight into food prices. There is no functioning national monetary policy; two rival central banks operate.",
+  "debt_management": "The IMF reports no public debt data for Yemen for any year in the series, itself a measure of state collapse. Pre-war debt was moderate, but since 2014 the state has survived on Saudi deposits, money printing in Aden, and Houthi revenue extraction in the north. GDP in the series falls from $14.2bn in 2014 to a projected $7.9bn in 2025. Arrears to civil servants and creditors are enormous but unquantified. Any debt assessment would be notional until a unified fiscal authority exists.",
+  "key_events": [
+    {
+      "period": "2011",
+      "event": "Arab Spring protests forced Saleh's ouster after 33 years."
+    },
+    {
+      "period": "2014",
+      "event": "Houthis seized Sanaa in September; the government fled."
+    },
+    {
+      "period": "2015",
+      "event": "Saudi-led coalition intervened in March; war and blockade began."
+    },
+    {
+      "period": "2016",
+      "event": "Central bank split between Sanaa and Aden; currency fragmentation started."
+    },
+    {
+      "period": "2022",
+      "event": "UN-brokered truce in April brought the calmest period of the war."
+    },
+    {
+      "period": "2023-24",
+      "event": "Houthi Red Sea attacks on shipping drew US/UK strikes; aid funding collapsed."
+    }
+  ],
+  "outlook_next_decade": "Yemen's outlook depends on a political settlement that remains elusive: the base case is continued fragmentation with humanitarian crisis as the defining feature. A durable truce and unified economic institutions could unlock recovery given oil and gas potential and the port of Aden, but that requires compromises not yet visible. Analytical assessment must be heavily caveated: the IMF has no debt data and the economy is split between rival authorities, so even the direction of travel is uncertain. Famine risk remains the central fact.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

@@ -601,5 +601,38 @@
         "summary": "The Sparrowhawks fail to qualify for the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\uddec",
+    "image_small": "https://flagcdn.com/w320/tg.png",
+    "image_large": "https://flagcdn.com/w1280/tg.png"
+  },
+  "national_anthem": "Salut \u00e0 toi, pays de nos a\u00efeux",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Salut_%C3%A0_toi%2C_pays_de_nos_a%C3%AFeux",
+  "national_animal": "Lion",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Togo's inflation is anchored by the CFA franc's peg to the euro and has been low for most of the period: it averaged under 2% from 2013 to 2021, with deflation in 2017 (-0.2%). The 2008 commodity boom pushed it to 8.7%, the series high, and the 2022 global shock to 7.6%, easing to a projected 0.4% in 2025. The BCEAO's regional monetary policy has delivered stability through political crises, and the port of Lom\u00e9's logistics role benefits from predictable prices. But Togo has no independent monetary lever, and with debt rising, the entire adjustment burden falls on fiscal policy.",
+    "debt_management": "Togo's debt was reset by HIPC completion in 2010: from 70.5% of GDP in 2007 it fell to 33.5% by 2010, the series low. Since then it has nearly doubled again as the government borrowed for infrastructure and to fund persistent deficits: 63.1% projected for 2025. Togo borrows on the regional WAEMU market and concessionally; IMF programs have pressed for consolidation with mixed results. At 63% of GDP and rising, the trajectory is the concern rather than the level: Togo has re-accumulated most of what HIPC forgave, without the growth to justify it, and debt service is squeezing the budget.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 70.5% to 33.5% of GDP.",
+        "period": "2010"
+      },
+      {
+        "event": "Mass protests demanded an end to the Gnassingb\u00e9 dynasty's 50-year rule; crackdown followed.",
+        "period": "2017-18"
+      },
+      {
+        "event": "COVID-19 pushed debt past 60% of GDP; IMF support followed.",
+        "period": "2020"
+      },
+      {
+        "event": "Constitutional reform switched Togo to a parliamentary system; Faure Gnassingb\u00e9 became President of the Council of Ministers (2025), extending his rule in a new form.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued port-led growth with low inflation under the CFA peg and debt near 60%+ of GDP. Upside comes from Lom\u00e9's position as a regional logistics hub; downside is debt: without consolidation, the next shock pushes Togo toward distress. Uncertainty is moderate on macro policy but elevated on politics, where the 2024 constitutional change entrenched rather than resolved the succession question.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

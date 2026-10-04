@@ -655,5 +655,42 @@
         "summary": "Turkey compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/tr.png",
+    "image_large": "https://flagcdn.com/w1280/tr.png"
+  },
+  "national_anthem": "\u0130stiklal Mar\u015f\u0131",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/%C4%B0stiklal_Mar%C5%9F%C4%B1",
+  "national_animal": "Grey Wolf",
+  "national_bird": "Redwing",
+  "commentary": {
+    "inflation_management": "Turkey is the textbook case of unorthodox monetary policy's costs. Inflation was 6.2% in 2009 (the low), 12.3% in 2020, then exploded to 72.3% in 2022, the series high, after the central bank cut rates into rising inflation on political direction \u2014 the lira collapsed. It was still 58.5% in 2024 and is projected at 34.9% for 2025: disinflation under the post-2023 orthodox turn (aggressive hikes under a new economic team), but far from target. Central-bank independence was effectively suspended 2018-23; credibility is being rebuilt but the 2022-24 episode destroyed years of anchoring.",
+    "debt_management": "Turkey's public debt is low and falling: 44.2% of GDP in 2006 (the series high), 38.3% in 2020, 29.4% in 2022, and a projected series low of 23.5% in 2025. The paradox is that low sovereign debt coexists with chronic macro instability \u2014 the vulnerabilities are private-sector FX debt, the current account, and inflation, not the sovereign balance sheet. GDP grew from $554.9bn in 2006 to a projected $1,597.3bn in 2025. The state's borrowing is modest; the risk is that a currency crisis forces contingent liabilities onto the sovereign, as quasi-fiscal schemes (like the FX-protected deposit program) have done.",
+    "key_events": [
+      {
+        "event": "Global financial crisis; Turkey recovered fast on credit-fueled growth.",
+        "period": "2008-10"
+      },
+      {
+        "event": "Lira crisis (2018): the currency collapsed as the central bank resisted hiking; inflation took off.",
+        "period": "2018"
+      },
+      {
+        "event": "Unorthodox policy experiment: rate cuts into 70%+ inflation (2021-23) produced the 72.3% peak in 2022.",
+        "period": "2021-23"
+      },
+      {
+        "event": "Orthodox turn (mid-2023): new economic team hiked rates aggressively; disinflation began.",
+        "period": "2023"
+      },
+      {
+        "event": "Inflation projected at 34.9% \u2014 falling but still the highest in the G20; debt at a series low of 23.5% of GDP.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Turkey's outlook hinges on whether the orthodox turn holds through the political cycle: disinflation from 72.3% to a projected 34.9% is real progress, but credibility is fragile and the 2028 election cycle is the test. The structural vulnerabilities \u2014 energy import dependence, private FX debt, the current-account deficit \u2014 are unchanged. Low public debt is a genuine buffer. The honest analytical assessment: the direction is right, the destination (single-digit inflation) is years away, and political risk is the dominant variable.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

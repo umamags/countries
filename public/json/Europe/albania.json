@@ -626,5 +626,46 @@
         "summary": "Albania compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde6\ud83c\uddf1",
+    "image_small": "https://flagcdn.com/w320/al.png",
+    "image_large": "https://flagcdn.com/w1280/al.png"
+  },
+  "national_anthem": "Himni i Flamurit",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Himni_i_Flamurit",
+  "national_animal": "Golden Eagle",
+  "national_bird": "Golden Eagle",
+  "commentary": {
+    "inflation_management": "Inflation has been low and generally well anchored for the whole period, rarely far from the Bank of Albania's 3% target. It averaged roughly 2-2.5% through most years, dipped to a low of 1.3% in 2016 during the low-inflation phase across Europe, and only once broke out: to 6.7% in 2022 on the energy and food shock from the Ukraine war, which the Bank met with a series of rate hikes. It was back to 2.2% by 2024 and is projected at 2.2% for 2025, essentially on target. The lek's managed float has acted as a buffer, and inflation expectations have stayed contained \u2014 a respectable record for an economy of this income level.",
+    "debt_management": "Debt peaked at 75.4% of GDP in 2020 when the pandemic hit, the high point of the series, but the trajectory since is one of steady consolidation. It had already fallen from 64.7% in 2022 to a projected 52.6% in 2025, the series low, helped by strong nominal GDP growth (GDP rose from $8.9bn in 2006 to a projected $30.3bn in 2025) and prudent fiscal policy. Albania's debt management has benefited from modest eurobond borrowing and IMF-supported programs earlier in the period. Sustainability is comfortable at current levels provided growth holds.",
+    "key_events": [
+      {
+        "event": "Global financial crisis; growth slowed but Albania avoided a banking crisis, partly insulated by its limited financial integration.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Granted EU candidate status, anchoring reforms and fiscal discipline.",
+        "period": "2014"
+      },
+      {
+        "event": "Inflation bottomed at 1.3% as euro-area disinflation spilled over.",
+        "period": "2016"
+      },
+      {
+        "event": "COVID-19 pushed debt to 75.4% of GDP, the series peak, on pandemic spending and a GDP slump.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war energy/food shock lifted inflation to 6.7%, the series high; the central bank hiked rates.",
+        "period": "2022"
+      },
+      {
+        "event": "EU accession negotiations formally opened, supporting investor confidence.",
+        "period": "2022"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued convergence toward EU income levels with inflation near target and debt drifting below 50% of GDP on the current path. EU accession talks are the key structural lever, potentially accelerating reform and investment if momentum holds. Risks include energy-import dependence, emigration eroding the tax base, and governance slippage that could slow the accession process. Fiscal discipline is the binding constraint on the debt outlook rather than solvency.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

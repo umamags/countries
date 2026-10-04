@@ -635,5 +635,46 @@
         "summary": "Oman contest qualifiers for the expanded World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf4\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/om.png",
+    "image_large": "https://flagcdn.com/w1280/om.png"
+  },
+  "national_anthem": "Nashid as-Salam as-Sultani",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/National_anthem_of_Oman",
+  "national_animal": "Arabian Oryx",
+  "national_bird": "Barbary Falcon",
+  "commentary": {
+    "inflation_management": "The rial's peg to the US dollar (since 1986) delivers low inflation: 12.6% in 2008 on the commodity boom was the outlier, with most years at 0-4% and mild deflation of -0.4% in 2020. The IMF projects 1.0% for 2025. The 2021 introduction of 5% VAT added only a one-off bump (1.7% inflation that year). The central bank follows the Fed; the peg has never been seriously tested, and price stability is well established.",
+    "debt_management": "Oman went from negligible debt (7.6% of GDP in 2006, just 4.0% in 2014) to 67.9% in 2020 as the 2014-16 oil crash and COVID forced borrowing, including debut international bonds. Disciplined consolidation under Sultan Haitham, plus the 2022 windfall, cut it to a projected 35.8% in 2025. GDP swung from $42.6bn (2006) to $109.8bn (2022) with oil. Unlike Bahrain, Oman adjusted: VAT, subsidy reform, and spending restraint under the medium-term fiscal plan have put debt on a clearly declining path.",
+    "key_events": [
+      {
+        "period": "2011",
+        "event": "Arab Spring-inspired protests won handouts and jobs pledges, raising the wage bill."
+      },
+      {
+        "period": "2014-16",
+        "event": "Oil crash; debt surged from 4.0% to 29.3% as deficits opened."
+      },
+      {
+        "period": "2020",
+        "event": "Sultan Qaboos died in January; Haitham succeeded. COVID and the oil crash pushed debt to 67.9%."
+      },
+      {
+        "period": "2021",
+        "event": "5% VAT introduced; fiscal consolidation accelerated."
+      },
+      {
+        "period": "2022",
+        "event": "Oil windfall; GDP hit $109.8bn and debt fell to 41.7%."
+      },
+      {
+        "period": "2023-25",
+        "event": "Vision 2040 diversification continued; debt projected at 35.8% in 2025."
+      }
+    ],
+    "outlook_next_decade": "Oman is the Gulf's most credible fiscal turnaround story: debt is falling, buffers are being rebuilt, and Vision 2040 targets logistics, tourism, and manufacturing diversification. The base case is moderate growth with continued consolidation. Risks are oil-price dependence (still dominant), water scarcity, and whether diversification delivers jobs for a young population. Analytical assessment: the trajectory is favorable, but the next oil downturn will test whether reforms or backsliding prevail.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

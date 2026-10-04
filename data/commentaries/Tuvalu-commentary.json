@@ -1,0 +1,28 @@
+{
+  "country": "Tuvalu",
+  "iso3": "TUV",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Tuvalu uses the Australian dollar and has no central bank, so inflation is fully imported and lurches with shipping and food costs: 10.4% in 2008, deflation of -1.9% in 2010, then a long calm before the 2021-23 global shock drove it to 6.7% in 2021 and a series high of 12.2% in 2022. It fell to 7.2% in 2023, 1.2% in 2024 and a projected 2% in 2025. There is no domestic monetary lever; the government's only tools are fiscal - drawing on the Tuvalu Trust Fund and fishing revenues to cushion households when import prices spike, as in 2022.",
+  "debt_management": "Tuvalu ran the Pacific's most remarkable deleveraging: gross debt fell from 37.5% of GDP in 2006 to a projected 3.6% in 2025, the series low - effectively debt-free. Fishing-license fees, the Tuvalu Trust Fund's investment returns, and steady donor grants produced sustained surpluses that retired the debt stock. GDP tripled in dollar terms ($0.02bn to $0.06bn), though the absolute numbers remain tiny. The balance sheet is now a model of prudence; the vulnerability is that nearly all revenue is exogenous - tuna fees, trust-fund markets, and aid - so a revenue shock would hit fast with no debt room already used.",
+  "key_events": [
+    {
+      "period": "2011",
+      "event": "Severe drought prompted a state of emergency; New Zealand and Australia airlifted desalination support."
+    },
+    {
+      "period": "2021",
+      "event": "November: the foreign minister's knee-deep COP26 speech made Tuvalu the global face of sea-level rise."
+    },
+    {
+      "period": "2023",
+      "event": "November: signed the Falepili Union with Australia - climate mobility, security and statehood guarantees."
+    },
+    {
+      "period": "2024",
+      "event": "January election brought Feleti Teo to the prime ministership; the Falepili treaty entered into force in August."
+    }
+  ],
+  "outlook_next_decade": "Fiscally, Tuvalu is the best-prepared Pacific microstate; physically, it is among the most exposed. The Falepili Union's migration pathway (280 places a year) is an orderly pressure valve, not a solution. Trust-fund returns and fishing fees should keep the budget sound barring a market crash. The central uncertainty is existential rather than economic: whether adaptation funding can keep the islands habitable, or whether the statehood-without-territory question the Falepili treaty anticipates becomes real.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

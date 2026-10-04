@@ -585,5 +585,42 @@
         "summary": "The Coelacanths return to the Africa Cup of Nations in Morocco."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf0\ud83c\uddf2",
+    "image_small": "https://flagcdn.com/w320/km.png",
+    "image_large": "https://flagcdn.com/w1280/km.png"
+  },
+  "national_anthem": "Umodja Wa Massiwa",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Umodja_Wa_Massiwa",
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "The Comorian franc's peg to the euro has delivered low inflation for most of the period: it averaged under 2% from 2013 to 2021, with 0.0% in 2014 and 2021. The 2008 commodity boom (4.8%) and 2012 (5.9%) were the only notable pre-2022 spikes. The Ukraine war shock broke the calm, pushing inflation to 12.4% in 2022, the series high, on imported food and fuel, before easing to 8.5% in 2023, 5.0% in 2024, and a projected 3.2% in 2025. The peg is well-suited to an import-dependent island economy, but adjustment to shocks comes through reserves and fiscal policy, both thin in Comoros.",
+    "debt_management": "Comoros' debt was reset by HIPC completion in 2012: from 38.5% of GDP in 2006 it fell to 10.5% in 2013, the series low. Since then, borrowing for infrastructure and cyclone reconstruction has rebuilt it steadily to a projected 30.2% in 2025. The pace is moderate and much of the debt is concessional, but for a tiny, remittance-dependent economy with a narrow export base (vanilla, cloves, ylang-ylang), even 30% requires care, and IMF assessments watch the trajectory closely. Cyclone Kenneth (2019) and COVID both forced deficit spending that added to the stock.",
+    "key_events": [
+      {
+        "event": "HIPC completion-point relief cut debt from 38.5% to about 10% of GDP.",
+        "period": "2012"
+      },
+      {
+        "event": "Constitutional referendum let President Azali Assoumani reset term limits; re-elected in 2019.",
+        "period": "2018-19"
+      },
+      {
+        "event": "Cyclone Kenneth devastated infrastructure; COVID-19 then hit remittances and tourism.",
+        "period": "2019-20"
+      },
+      {
+        "event": "Ukraine war pushed inflation to 12.4%, the series high, on import prices.",
+        "period": "2022"
+      },
+      {
+        "event": "Azali won a disputed fourth term in January 2024; an assassination attempt in September underscored political tensions.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued low growth with inflation anchored by the euro peg and debt stabilizing near 30% of GDP. Upside depends on remittances, vanilla prices, and any tourism development; downside is climate shocks, which repeatedly wipe out infrastructure gains. Uncertainty is moderate: politics are volatile but the macro framework is simple and the peg credible.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

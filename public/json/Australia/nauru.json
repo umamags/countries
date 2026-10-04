@@ -580,5 +580,38 @@
         "summary": "Weightlifting remained the island's best medal prospect."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf3\ud83c\uddf7",
+    "image_small": "https://flagcdn.com/w320/nr.png",
+    "image_large": "https://flagcdn.com/w1280/nr.png"
+  },
+  "national_anthem": "Nauru Bwiema",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Nauru_Bwiema",
+  "national_animal": null,
+  "national_bird": "Great Frigatebird",
+  "commentary": {
+    "inflation_management": "Nauru uses the Australian dollar, so inflation is imported - and the early-2000s phosphate-economy distortions made it extreme: 19.3% in 2006 and a series high of 22.4% in 2009, followed by deflation of -3.4% in 2011 as the economy restructured. The 2010s were calmer (mostly 0-10%), but inflation picked up again to 9.3% in 2024 with a projected 6.1% for 2025. There is no domestic monetary policy; price stability depends on Australian conditions and on the government's ability to smooth costs using processing-centre and mining revenues.",
+    "debt_management": "Nauru's debt history is the Pacific's most extreme: the IMF series (which starts in 2009; 2006-08 are missing) shows gross debt at 295.6% of GDP in 2009 and a series high of 298.9% in 2010 - the legacy of phosphate-era borrowing against a depleted resource. What followed was a two-decade workout: debt fell to 113% by 2015, 56.3% in 2020, and a projected 14.6% in 2025, driven by GDP growth ($0.03bn to $0.18bn), Australian processing-centre payments, and restructurings. The overhang is essentially cleared, but the episode is a cautionary tale about resource-curse borrowing. Note the 2006-08 data gap in the IMF series.",
+    "key_events": [
+      {
+        "period": "2006-08",
+        "event": "The IMF series carries no debt data for these years, reflecting the opacity of the phosphate-era debt overhang at its worst."
+      },
+      {
+        "period": "2012",
+        "event": "Australia reopened the offshore Regional Processing Centre, making asylum processing Nauru's main revenue source."
+      },
+      {
+        "period": "2023",
+        "event": "October: David Adeang became president, shifting the country's political direction."
+      },
+      {
+        "period": "2024",
+        "event": "January: severed ties with Taiwan and recognized Beijing, two days after Taiwan's presidential election."
+      }
+    ],
+    "outlook_next_decade": "The debt workout is essentially complete, which is a genuine achievement, but Nauru's economy still rests on two fragile pillars: Australian processing-centre payments (subject to Canberra's politics) and phosphate remnants. Diversification options are minimal on a 21-square-kilometre island. The China switch may bring infrastructure finance. The base case is fiscal stability with high revenue volatility; the risk is a sudden loss of the processing-centre income that underwrites the budget.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

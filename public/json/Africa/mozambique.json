@@ -619,5 +619,46 @@
         "summary": "The Mambas fail to qualify for the Morocco tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf2\ud83c\uddff",
+    "image_small": "https://flagcdn.com/w320/mz.png",
+    "image_large": "https://flagcdn.com/w1280/mz.png"
+  },
+  "national_anthem": "P\u00e1tria Amada",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/P%C3%A1tria_Amada",
+  "national_animal": "African Elephant",
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "Mozambique's inflation tracks the metical and the debt saga. It ran at 10-14% in 2006-2011, then moderated to 2-6% in 2012-2015. The 2016 hidden-debt revelation crashed the currency and sent inflation to 18.4%, the series high, with 15.8% in 2017. Tighter policy and IMF re-engagement stabilized it: 0.9% in 2020, the series low. The 2022 global shock pushed it to 10.4%, easing to a projected 4.4% in 2025. The central bank has rebuilt credibility since 2016, but with debt over 100% of GDP and LNG revenues still ramping, monetary stability rests on a fragile fiscal foundation.",
+    "debt_management": "Mozambique's debt is the product of Africa's most notorious hidden-debt scandal. From 31.2% of GDP in 2007 it climbed as the government secretly guaranteed over $2 billion in loans (2013-14) for tuna-fishing and maritime security companies; when revealed in 2016, donors and the IMF suspended support, the metical collapsed, and the ratio hit 124.8% in 2016, the series high. Mozambique missed a sovereign bond payment in early 2017, effectively defaulting. Restructuring and the 2022-23 start of LNG revenues brought it down, but it remains above 100%: 102.3% projected for 2025. The scandal's legacy is a debt stock that will take a generation of gas revenues to clear.",
+    "key_events": [
+      {
+        "event": "Government secretly guaranteed $2bn+ in loans (tuna bonds); debt began its surge.",
+        "period": "2013-14"
+      },
+      {
+        "event": "Hidden debts revealed; IMF and donors suspended support; metical collapsed; inflation hit 18.4%.",
+        "period": "2016"
+      },
+      {
+        "event": "Missed sovereign bond payment, entering default; debt hit 124.8% of GDP.",
+        "period": "2017"
+      },
+      {
+        "event": "Cabo Delgado insurgency forced TotalEnergies to suspend its $20bn LNG project.",
+        "period": "2021"
+      },
+      {
+        "event": "Coral South FLNG began producing; first LNG cargoes shipped, starting the gas era.",
+        "period": "2022"
+      },
+      {
+        "event": "October 2024: Daniel Chapo won disputed elections amid fraud claims and deadly protests.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "The base case is gas-led growth with debt slowly declining from over 100% of GDP, but everything depends on LNG projects staying on track and the insurgency staying contained. Upside is transformational: Mozambique could become a major LNG exporter; downside is that the hidden-debt legacy, conflict, and political instability waste the windfall. Uncertainty is high: the economics are promising, the governance record is the worst in the region.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

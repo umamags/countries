@@ -601,5 +601,42 @@
         "summary": "The King's Shield compete in qualifying for the expanded tournament."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddff",
+    "image_small": "https://flagcdn.com/w320/sz.png",
+    "image_large": "https://flagcdn.com/w1280/sz.png"
+  },
+  "national_anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Nkulunkulu_Mnikati_wetibusiso_temaSwati",
+  "national_animal": "Lion",
+  "national_bird": "Purple-crested Turaco",
+  "commentary": {
+    "inflation_management": "Eswatini's inflation is imported from South Africa via the lilangeni's one-to-one peg to the rand and Common Monetary Area membership. It peaked at 12.7% in the 2008 commodity boom and troughed at 2.6% in 2019, tracking South African price dynamics with a small premium. The 2022 global shock lifted it only to 4.8%, and it has since eased to a projected 3.1% in 2025. The central bank shadows the South African Reserve Bank's policy, so Eswatini has no independent monetary lever; inflation management is effectively outsourced to Pretoria, which has served price stability well at the cost of policy autonomy.",
+    "debt_management": "Eswatini's debt has risen steadily as SACU revenues, the fiscal mainstay, became more volatile and spending proved rigid. From 10.6% of GDP in 2009, the series low, the ratio climbed through the 2010s to 44.9% projected for 2025, the series high, with a sharp COVID-era jump from 29.8% (2019) to 38.0% (2020). The government borrows domestically and from South African markets under the Common Monetary Area. Sustainability is not yet critical, but the trajectory is one-directional, and domestic arrears to suppliers have repeatedly emerged as a shadow fiscal problem, signaling cash management stress beneath the headline ratio.",
+    "key_events": [
+      {
+        "event": "SACU revenue collapse triggered a fiscal crisis; South Africa's bailout offer was declined.",
+        "period": "2011"
+      },
+      {
+        "event": "Global financial crisis aftershocks; debt began its steady climb from 10.6% of GDP.",
+        "period": "2009-12"
+      },
+      {
+        "event": "COVID-19 pushed debt from 29.8% to 38.0% of GDP; SACU revenues fell.",
+        "period": "2020"
+      },
+      {
+        "event": "Pro-democracy protests met with a deadly crackdown, the worst unrest in the kingdom's history; economic disruption followed.",
+        "period": "2021"
+      },
+      {
+        "event": "Debt projected at a series high of 44.9% of GDP as fiscal pressures persist.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued slow growth with inflation anchored by the rand peg and debt drifting higher on rigid spending. Upside depends on SACU revenue stability and any political opening that unlocks investment; downside is that the absolute monarchy's legitimacy crisis deters the private sector indefinitely. Uncertainty is moderate on macro policy (the peg is credible) but high on politics, which is the binding constraint.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

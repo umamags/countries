@@ -647,5 +647,54 @@
         "summary": "Ecuador books its ticket with games to spare despite the points deduction."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddea\ud83c\udde8",
+    "image_small": "https://flagcdn.com/w320/ec.png",
+    "image_large": "https://flagcdn.com/w1280/ec.png"
+  },
+  "national_anthem": "Salve, Oh Patria",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Salve,_Oh_Patria",
+  "national_animal": "Andean Condor",
+  "national_bird": "Andean Condor",
+  "commentary": {
+    "inflation_management": "Ecuador has been dollarized since January 2000, so it has no monetary policy to manage - inflation is imported from the United States plus domestic shocks. The record shows it: 8.4% in 2008 on the commodity boom, 5.2% in 2009, then a long calm of 0.3-5.1% from 2010 through 2017, actual deflation of -0.2% in 2018 and -0.3% in 2020, near-zero readings (0.1-0.4%) in 2019-2021, a mild 3.5% in 2022 on global food and energy prices, then 2.2% in 2023, 1.5% in 2024, and a projected 0.7% in 2025. Price stability is dollarization's great achievement; the cost is that competitiveness can only be restored through internal devaluation - wage and spending restraint - which is precisely what makes the politics so difficult.",
+    "debt_management": "Dollarization removed the printing press but not the borrowing habit. Debt fell from 33.1% of GDP in 2006 to a trough of 18.4% in 2010 after the 2008 default and buybacks, then rose relentlessly: 23.4% in 2013, 36.4% in 2015, 47.4% in 2017, 52.1% in 2019, and 63.6% in 2020 on COVID and a second debt restructuring. It has stabilized since - 54.5% in 2023, 54.1% in 2024, a projected 54.4% in 2025 - on the back of IMF programs (a $4.2bn EFF in 2019, $6.5bn in 2020, and a new $4bn EFF in 2024) and fiscal consolidation under Noboa. Because Ecuador cannot devalue, every fiscal adjustment falls on spending and taxes, which is why debt dynamics here are really a story about oil prices and political willingness to cut. Dollar GDP nearly tripled from $45.7bn in 2006 to a projected $130.3bn in 2025.",
+    "key_events": [
+      {
+        "event": "Rafael Correa took office; 'Citizens' Revolution' expanded state spending on oil revenues.",
+        "period": "2007"
+      },
+      {
+        "event": "Correa declared part of the foreign debt 'illegitimate' and defaulted on global bonds.",
+        "period": "2008"
+      },
+      {
+        "event": "Oil price collapse crushed revenues; debt began its long climb.",
+        "period": "2014-15"
+      },
+      {
+        "event": "April earthquake killed hundreds and strained public finances.",
+        "period": "2016"
+      },
+      {
+        "event": "Lenin Moreno broke with Correa; October protests over fuel-subsidy cuts; $4.2bn IMF program.",
+        "period": "2019"
+      },
+      {
+        "event": "COVID-19 devastated Guayaquil; Ecuador defaulted again and restructured under a new $6.5bn IMF EFF.",
+        "period": "2020"
+      },
+      {
+        "event": "Guillermo Lasso elected; 'muerte cruzada' in May 2023 dissolved the assembly; Daniel Noboa won the October snap election.",
+        "period": "2021-23"
+      },
+      {
+        "event": "Internal armed conflict declared against gangs; Noboa re-elected April 13, 2025 with ~55.8%; inflation projected at 0.7%.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Ecuador's macro framework is stable - dollarization anchors prices, debt is plateaued near 54%, and the IMF is engaged - but the binding constraint is security, not economics: gang violence deters the investment and tourism that a dollarized economy needs to grow. The base case is slow growth with continued fiscal discipline under Noboa's full term and gradual oil-sector opening. The risks are a return of Correismo in a future election reversing reforms, another oil-price slump, and the energy crisis (drought-hit hydro) constraining supply. Dollarization will survive; the question is whether growth returns enough to make it comfortable.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

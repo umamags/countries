@@ -651,5 +651,50 @@
         "summary": "Thailand host the Southeast Asian Games."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf9\ud83c\udded",
+    "image_small": "https://flagcdn.com/w320/th.png",
+    "image_large": "https://flagcdn.com/w1280/th.png"
+  },
+  "national_anthem": "Phleng Chat",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Phleng_Chat",
+  "national_animal": "Asian Elephant",
+  "national_bird": "Siamese Fireback",
+  "commentary": {
+    "inflation_management": "The Bank of Thailand has targeted inflation since 2000 (currently 1-3%) and the record is strong: 5.5% in 2008 on the commodity boom, then 0-4% through the 2010s with mild deflation in 2009, 2015, and 2020, rising to 6.1% in 2022 before rapid easing to a projected -0.1% in 2025. The central bank hiked cautiously in 2022-23 and has faced political pressure to cut as inflation fell below target. Expectations are anchored; the current challenge is too-low inflation amid weak domestic demand, not overheating.",
+    "debt_management": "Public debt was flat near 40% of GDP for over a decade (39.2% in 2006, 41.1% in 2019) on fiscal conservatism, then COVID pushed it to 58.4% in 2021 and continued borrowing has taken it to a projected 64.7% in 2025, approaching the 70% ceiling in the fiscal framework. GDP grew from $221.8bn to a projected $577.0bn. The debt is domestic and baht-denominated, and the government's borrowing headroom is narrowing rather than exhausted. Political pressure for stimulus (notably digital wallet handouts) tests the framework.",
+    "key_events": [
+      {
+        "period": "2006",
+        "event": "Military coup ousted Thaksin; political instability began."
+      },
+      {
+        "period": "2008-09",
+        "event": "Global crisis and domestic unrest; inflation spiked then collapsed."
+      },
+      {
+        "period": "2010",
+        "event": "Red Shirt protests and military crackdown in Bangkok."
+      },
+      {
+        "period": "2014",
+        "event": "Military coup ousted the Yingluck government; junta ruled until 2019."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 devastated tourism (then ~20% of GDP); debt jumped to 49.4%."
+      },
+      {
+        "period": "2023",
+        "event": "Elections; Pheu Thai formed a government after the Move Forward party was blocked."
+      },
+      {
+        "period": "2024-25",
+        "event": "Tourism recovered; inflation fell below target, projected -0.1% in 2025."
+      }
+    ],
+    "outlook_next_decade": "Thailand's base case is 2-3% growth on tourism recovery, EVs and electronics investment, with inflation hopefully returning to target and debt stabilizing below the ceiling. Structural drags are aging, household debt (near 90% of GDP), and political cycles that interrupt reform. Upside from supply-chain diversification (China+1) is real. Analytical assessment: macro stability is solid, but trend growth has downshifted and politics remains the wild card for fiscal discipline.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

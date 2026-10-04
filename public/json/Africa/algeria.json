@@ -667,5 +667,46 @@
         "summary": "An October win over Somalia seals Algeria's return to the World Cup after a 12-year absence."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde9\ud83c\uddff",
+    "image_small": "https://flagcdn.com/w320/dz.png",
+    "image_large": "https://flagcdn.com/w1280/dz.png"
+  },
+  "national_anthem": "Kassaman",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Kassaman",
+  "national_animal": "Fennec Fox",
+  "national_bird": "Barbary Partridge",
+  "commentary": {
+    "inflation_management": "Algeria's inflation has been a secondary concern to oil revenue for most of the period, with the dinar on a managed float and no formal inflation-targeting regime. Price growth stayed moderate through the oil boom (2-6% in 2006-2011) before spiking to 8.9% in 2012 on food prices, then settling back to 2-3% in 2013-2014. The 2014 oil crash forced fiscal tightening and dinar depreciation, pushing inflation to 6.4% in 2016, but the central bank largely accommodated rather than fought price rises. The post-COVID and 2022 commodity shocks lifted inflation to 7.2% in 2021 and 9.3% in both 2022 and 2023, amplified by import restrictions. Inflation eased to 4.0% in 2024, with the IMF projecting just 1.4% for 2025 as energy prices normalized.",
+    "debt_management": "Algeria's public debt story is a tale of two oil cycles. Hydrocarbon windfalls paid debt down from 22.5% of GDP in 2006 to a series low of 6.5% in 2013, one of the lowest ratios in Africa. The 2014-16 oil price collapse ended that era: persistent deficits pushed debt steadily upward to 55.1% of GDP in 2021, the series high, and it remains elevated at a projected 53.9% in 2025. Sustainability has never been the binding constraint because the debt is financed almost entirely domestically, including through central bank monetization, and external debt is negligible. The real cost is opacity and crowding out: repeated monetary financing risks entrenching the inflation spikes seen in 2021-23.",
+    "key_events": [
+      {
+        "event": "Global financial crisis: oil prices collapsed then recovered; Algeria's reserves and low debt cushioned the shock.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Oil price crash halved hydrocarbon revenues, ending a decade of surpluses and starting a long climb in public debt from 7.3% (2014) to 24.2% (2017) of GDP.",
+        "period": "2014-16"
+      },
+      {
+        "event": "Hirak protest movement forced President Bouteflika's resignation in April after 20 years in power; Abdelmadjid Tebboune elected in December.",
+        "period": "2019"
+      },
+      {
+        "event": "COVID-19 and a second oil crash pushed debt to 46.3% of GDP; GDP in USD terms fell sharply.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war lifted oil and gas prices, boosting GDP to a series high path ($259-285bn) but also inflation to 9.3%; Algeria positioned itself as an alternative gas supplier to Europe.",
+        "period": "2021-22"
+      },
+      {
+        "event": "OPEC+ production cuts and continued import restrictions; Tebboune re-elected in September 2024.",
+        "period": "2023-24"
+      }
+    ],
+    "outlook_next_decade": "The base case is continued hydrocarbon dependence with debt stabilizing around 50% of GDP as long as oil prices stay elevated, but the non-hydrocarbon economy remains too small to absorb youth unemployment. Upside comes from gas expansion and any serious diversification; the downside is another oil crash like 2014, which would quickly reopen the debt climb given rigid spending. Monetary financing keeps solvency risk low but inflation risk alive. Uncertainty is moderate: the 2019 political transition did not change the economic model.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

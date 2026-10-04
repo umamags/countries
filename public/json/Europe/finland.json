@@ -665,5 +665,42 @@
         "summary": "Finland compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddeb\ud83c\uddee",
+    "image_small": "https://flagcdn.com/w320/fi.png",
+    "image_large": "https://flagcdn.com/w1280/fi.png"
+  },
+  "national_anthem": "Maamme",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Maamme",
+  "national_animal": "Brown Bear",
+  "national_bird": "Whooper Swan",
+  "commentary": {
+    "inflation_management": "Finland's ECB-era inflation was unremarkable: 1.6% in 2009, -0.2% in 2015, 0.4% in 2020. The 2022 shock took it to 7.2%, the series high \u2014 below the euro-area average given less gas dependence \u2014 and it fell fast: 1.0% in 2024, projected 1.8% for 2025. Monetary policy is entirely the ECB's; Finland's distinctive inflation factor is energy mix and the paper/industry cycle rather than domestic demand.",
+    "debt_management": "Finland's debt has nearly tripled as a share of GDP: 38% in 2006, a low of 32.6% in 2008, then a long climb through the 2010s to 75.3% in 2020, 74% in 2022, and a projected series high of 89.3% in 2025. The drivers are structural \u2014 aging-related spending, a long period of sluggish growth after Nokia's decline and Russian trade collapse \u2014 rather than one-off crises. GDP grew from $217.1bn in 2006 to a projected $316.9bn in 2025, modest growth over two decades. The debt trend, not the level, is what now concerns rating agencies and the EU's fiscal rules.",
+    "key_events": [
+      {
+        "event": "Global financial crisis; Nokia's decline and the subsequent collapse of Russian trade began a long growth slowdown.",
+        "period": "2008-12"
+      },
+      {
+        "event": "Prolonged stagnation: the 'lost decade' saw debt climb steadily through the 2010s.",
+        "period": "2012-19"
+      },
+      {
+        "event": "COVID-19 pushed debt to 75.3% of GDP.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock inflation of 7.2%; Finland joined NATO (April 2023), reshaping defense spending.",
+        "period": "2022-23"
+      },
+      {
+        "event": "Debt projected at 89.3% of GDP, the series high, on deficits and weak growth.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Finland's challenge is growth, not rates: the debt ratio is rising on a weak denominator. NATO membership and defense spending add fiscal pressure but also industrial opportunities. Inflation should stay near target under ECB policy. The outlook hinges on whether productivity recovers and aging costs are contained \u2014 the fiscal path is unsustainable at current trends, requiring consolidation or faster growth, though market access is not at risk.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

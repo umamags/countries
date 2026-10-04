@@ -649,5 +649,42 @@
         "summary": "Shock defeats leave qualification in doubt."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf8\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/se.png",
+    "image_large": "https://flagcdn.com/w1280/se.png"
+  },
+  "national_anthem": "Du gamla, du fria",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Du_gamla,_du_fria",
+  "national_animal": "Moose",
+  "national_bird": "Common Blackbird",
+  "commentary": {
+    "inflation_management": "The Riksbank targets 2%, and the floating krona is the absorber. Inflation was 1.9% in 2009, 0.2% in 2014 (the low), 0.7% in 2020, then 8.1% in 2022, the series high, on energy. It fell to 2% in 2024 and is projected at 2.6% for 2025 \u2014 near target. The Riksbank was among the first to hike and among the first to cut; the krona's weakness in 2022-23 complicated the fight by importing inflation. The distinctive Swedish feature is the housing market's sensitivity to rates, which made the hiking cycle unusually potent domestically.",
+    "debt_management": "Sweden's debt is low and has fallen through the period: 43.8% of GDP in 2006, a peak of 45.7% in 2014, 40.4% in 2020, 34.2% in 2022, and a projected 34.9% in 2025 (32.1% in 2023, the series low). The fiscal framework \u2014 surplus target, expenditure ceiling \u2014 is the EU's strictest, and it has delivered: COVID barely moved the ratio. GDP grew from $422.5bn in 2006 to a projected $669.0bn in 2025. Debt sustainability is excellent; the policy debate is whether the framework is too tight given investment needs.",
+    "key_events": [
+      {
+        "event": "Financial crisis: Sweden's 1990s-crisis-tested framework handled the shock; debt barely rose.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Negative rates era: the Riksbank went below zero (2015) to fight deflation risk.",
+        "period": "2015-19"
+      },
+      {
+        "event": "COVID-19: the light-touch strategy; debt at 40.4% of GDP, barely moved.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock inflation of 8.1%; the Riksbank hiked aggressively as the krona weakened.",
+        "period": "2022"
+      },
+      {
+        "event": "NATO accession (March 2024) ended two centuries of non-alignment; defense spending rose.",
+        "period": "2024"
+      }
+    ],
+    "outlook_next_decade": "Sweden's outlook is strong: minimal debt, a credible framework, and a diversified, innovative economy. NATO membership adds defense spending but also industrial opportunities. The structural questions are housing-market vulnerability to rate cycles and the krona's chronic weakness, which flatters exports but imports inflation. Inflation should stay near target. The analytical assessment: one of Europe's soundest macro positions, with the fiscal framework's tightness as the main self-imposed constraint.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

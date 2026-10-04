@@ -1,0 +1,36 @@
+{
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections. Note: the IMF inflation series for Zimbabwe begins in 2009 (hyperinflation years excluded).",
+  "country": "Zimbabwe",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "debt_management": "Zimbabwe's debt is modest by the standards of its monetary chaos, because hyperinflation repeatedly wiped out domestic obligations and external arrears are simply not serviced. From 26.4% of GDP in 2013, the series low, the ratio rose as the government borrowed domestically and accumulated arrears: 76.1% in 2023, the series high, easing to a projected 43.8% in 2025 largely through exchange-rate effects. Zimbabwe is in arrears to the World Bank, AfDB, and bilateral creditors, and cannot borrow externally until they are cleared; the 2022-24 structured dialogue on arrears clearance made limited progress. The debt numbers understate the true burden, which includes massive contingent liabilities and unrecorded obligations.",
+  "inflation_management": "Zimbabwe's inflation record is among the world's worst. After the 2008 hyperinflation ended with dollarization in 2009, inflation was contained at 0-4% through 2018 (even -2.4% in 2015). The 2019 return of the Zimbabwe dollar restarted the cycle: 255.3% in 2019, 557.2% in 2020, 98.5% in 2021, 193.4% in 2022, 667.4% in 2023, and a series high of 736.1% in 2024. On April 5, 2024, the Reserve Bank launched the ZiG, a gold-backed currency replacing the Zimdollar; inflation fell to a projected 81.4% in 2025, still catastrophic. The central bank has no credibility left after four currency regimes in fifteen years; dollarization of transactions (about 85%) is the population's verdict.",
+  "iso3": "ZWE",
+  "key_events": [
+    {
+      "event": "Hyperinflation peaked; dollarization (2009) ended the crisis; inflation fell to single digits.",
+      "period": "2008-09"
+    },
+    {
+      "event": "Mugabe ousted in a military transition (November 2017); Mnangagwa took power.",
+      "period": "2017"
+    },
+    {
+      "event": "Zimbabwe dollar reintroduced; inflation surged past 500% by 2020.",
+      "period": "2019-20"
+    },
+    {
+      "event": "Disputed 2023 elections kept Mnangagwa in power; inflation hit 667.4%.",
+      "period": "2023"
+    },
+    {
+      "event": "April 5, 2024: gold-backed ZiG currency launched to replace the collapsed Zimdollar.",
+      "period": "2024"
+    },
+    {
+      "event": "Inflation projected at 81.4% in 2025 as the ZiG struggled to gain acceptance.",
+      "period": "2025"
+    }
+  ],
+  "outlook_next_decade": "The base case is continued monetary instability: the ZiG's survival depends on fiscal discipline the government has never shown, and 81% inflation in 2025 suggests the cycle is repeating. Upside would require genuine reform, arrears clearance, and re-engagement with creditors; downside is another full hyperinflation. Uncertainty is high on policy but the direction is familiar: Zimbabwe has run this experiment four times, and the population's dollarization is the rational response.",
+  "period": "2006-2025"
+}

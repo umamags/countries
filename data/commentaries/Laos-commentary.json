@@ -1,0 +1,36 @@
+{
+  "country": "Laos",
+  "iso3": "LAO",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Laos lost control of inflation after 2021: from a 1-8% range through the 2010s, the kip's collapse drove inflation to 23.0% in 2022 and 31.2% in 2023, easing to 23.1% in 2024 and a projected 7.7% in 2025. The Bank of Laos, with thin reserves and heavy dollarization, could not defend the currency as external debt service and import bills overwhelmed it. Fuel and food pass-through hit households hard. Stabilization since 2024 reflects a steadier kip and tighter policy, but credibility is damaged and expectations remain fragile.",
+  "debt_management": "Public debt is the core crisis: it rose from 60.0% of GDP in 2006 to 115.7% in 2022, driven by Chinese-financed infrastructure (notably the $6bn Laos-China railway) and state-enterprise borrowing, before easing to a projected 80.6% in 2025 on growth and restructuring. Much of the debt is owed to China, and debt service has consumed a crippling share of revenues, forcing the 2023-24 deferral negotiations. GDP in dollar terms actually shrank from $18.5bn (2020) to $15.0bn (2023) on depreciation. The IMF assesses Laos as in debt distress.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Commodity boom; inflation 7.6% but growth strong on mining and hydro."
+    },
+    {
+      "period": "2013-19",
+      "event": "Infrastructure borrowing binge; debt climbed from 49.5% to 69.1% of GDP."
+    },
+    {
+      "period": "2021",
+      "event": "Laos-China railway opened, crystallizing the debt stock; kip began sliding."
+    },
+    {
+      "period": "2022",
+      "event": "Currency crisis: kip collapsed, inflation hit 23.0%, debt peaked at 115.7%."
+    },
+    {
+      "period": "2023",
+      "event": "Inflation peaked at 31.2%; debt-service deferrals negotiated with creditors."
+    },
+    {
+      "period": "2024-25",
+      "event": "Stabilization; IMF projects debt down to 80.6% and inflation to 7.7% in 2025."
+    }
+  ],
+  "outlook_next_decade": "Laos faces a difficult decade of working down debt distress: the railway and hydropower exports to neighbors provide real revenue upside, but debt service to China will absorb much of it for years. Inflation should normalize if the kip holds, though reserves are thin. Risks are a renewed currency slide, opaque state-enterprise liabilities, and over-dependence on Chinese creditors. Analytical assessment: stabilization is plausible, but a return to comfortable debt levels will take most of the decade and honest uncertainty is high.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

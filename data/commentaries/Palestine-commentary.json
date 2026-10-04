@@ -1,0 +1,40 @@
+{
+  "country": "Palestine",
+  "iso3": "WBG",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "Palestine has no currency or monetary policy of its own; the Israeli shekel circulates and the Palestine Monetary Authority cannot set interest rates or print money. Inflation was therefore low and imported for most of the period: 1-4% through the 2010s, 5.9% in 2023. The Gaza war shattered this: with supply chains destroyed and goods scarce, inflation hit 53.7% in 2024, and the IMF projects 10.5% for 2025. There is no monetary lever to pull; price stability depends entirely on the physical economy functioning.",
+  "debt_management": "Public debt rose from 19.3% of GDP in 2006 to a projected-era 56.1% in 2024 (2025 GDP and debt are not reported in the IMF series), driven by chronic deficits, Israeli withholding of clearance revenues, and donor fatigue. The Palestinian Authority cannot borrow on markets and accumulates arrears to banks, pension funds, and suppliers instead. GDP fell from $18.6bn in 2023 to $16.0bn in 2024 on the war's impact. The fiscal position is insolvent in practice, sustained only by the hope of resumed transfers and aid.",
+  "key_events": [
+    {
+      "period": "2006",
+      "event": "Hamas won legislative elections; Israel and donors cut transfers and aid."
+    },
+    {
+      "period": "2007",
+      "event": "Hamas seized Gaza; Fatah retained the West Bank; the split persists."
+    },
+    {
+      "period": "2008-09",
+      "event": "Gaza war (Operation Cast Lead) devastated the Strip's economy."
+    },
+    {
+      "period": "2014",
+      "event": "Gaza war; reconstruction pledges largely went unfulfilled."
+    },
+    {
+      "period": "2021",
+      "event": "Gaza escalation; PA fiscal crisis deepened as clearance revenues were withheld."
+    },
+    {
+      "period": "2023",
+      "event": "October 7 attacks and the Gaza war; Israel withheld clearance revenues and movement collapsed."
+    },
+    {
+      "period": "2024",
+      "event": "GDP fell to $16.0bn; inflation hit 53.7% as Gaza's economy was destroyed."
+    }
+  ],
+  "outlook_next_decade": "Palestine's economic outlook is entirely a function of politics: without a ceasefire, reconstruction funding, and resumed clearance transfers, the economy cannot recover, and Gaza faces a generational rebuilding task. Even in optimistic scenarios, the fiscal model (aid plus withheld revenues) is broken. Analytical assessment must be heavily caveated: outcomes range from internationally funded reconstruction to continued collapse, and data for 2025 are missing from the IMF series, reflecting how extreme conditions have become.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

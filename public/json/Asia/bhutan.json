@@ -597,5 +597,46 @@
         "summary": "Bhutan's footballers contest South Asian tournaments."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\uddf9",
+    "image_small": "https://flagcdn.com/w320/bt.png",
+    "image_large": "https://flagcdn.com/w1280/bt.png"
+  },
+  "national_anthem": "Druk Tsenden",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Druk_Tsenden",
+  "national_animal": "Takin",
+  "national_bird": "Common Raven",
+  "commentary": {
+    "inflation_management": "The ngultrum is pegged at par to the Indian rupee, so Bhutan imports India's monetary stance and much of its inflation pattern: inflation ran 8-10% in 2011-14 (peaking at 10.1% in 2012), fell to 2.8-3.6% in 2016-20, then rose to 8.2% in 2021 on the global commodity shock before easing to a projected 2.6% in 2025. Domestic policy has little independent leverage; the Royal Monetary Authority manages liquidity and the peg. The arrangement has delivered reasonable price stability at the cost of vulnerability to Indian inflation cycles and rupee liquidity squeezes.",
+    "debt_management": "Bhutan's public debt looks alarming at 103.6% of GDP in the 2025 projection (peaking at 124.5% in 2021, up from 80.1% in 2006), but its composition makes it unusual: the bulk is hydropower project debt owed to India, self-financing through long-term power purchase agreements. The IMF and World Bank have consistently assessed it as sustainable for this reason. Ratios rose as big projects (Punatsangchhu) were built and GDP growth was modest; as plants commission and revenues flow, the ratio is projected to keep declining. The risk is project delays and cost overruns, which have already materialized.",
+    "key_events": [
+      {
+        "period": "2008",
+        "event": "Global crisis slowed growth briefly; hydropower construction continued."
+      },
+      {
+        "period": "2011-12",
+        "event": "Rupee shortage crisis forced import curbs and a credit squeeze, exposing peg vulnerabilities."
+      },
+      {
+        "period": "2013",
+        "event": "Hydropower investment boom pushed debt toward 90% of GDP."
+      },
+      {
+        "period": "2020",
+        "event": "COVID-19 shut tourism, a key foreign-exchange earner; debt peaked above 115% of GDP."
+      },
+      {
+        "period": "2022-23",
+        "event": "Hydropower revenues and Indian demand supported recovery; debt began declining."
+      },
+      {
+        "period": "2025",
+        "event": "Debt projected at 103.6% of GDP, still high but on a declining path as projects come online."
+      }
+    ],
+    "outlook_next_decade": "Bhutan's outlook is tied to hydropower commissioning and Indian electricity demand: successful projects bring the debt ratio down steadily and fund development. Tourism recovery and diversification into services offer upside. Risks are concentrated: cost overruns on mega-dams, climate impacts on river flows, and any rupee-liquidity stress under the peg. With debt self-liquidating in principle, the analytical risk is execution, not solvency.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -655,5 +655,42 @@
         "summary": "Ukraine compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddfa\ud83c\udde6",
+    "image_small": "https://flagcdn.com/w320/ua.png",
+    "image_large": "https://flagcdn.com/w1280/ua.png"
+  },
+  "national_anthem": "Shche ne vmerla Ukrainy i slava, i volia",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Shche_ne_vmerla_Ukrainy_i_slava,_i_volia",
+  "national_animal": "Common Nightingale",
+  "national_bird": "White Stork",
+  "commentary": {
+    "inflation_management": "The National Bank of Ukraine targets 5%, and wartime management has been remarkably competent: 15.9% in 2009, 48.7% in 2015 (the series high) after the 2014 devaluation, 2.7% in 2020, then 20.2% in 2022 on the invasion shock. It fell to 6.5% in 2024 before rising to a projected 12.7% for 2025 on war-related pressures and hryvnia depreciation. The NBU fixed the exchange rate in 2022, then moved to managed flexibility in 2023; reserves have been sustained by Western aid. Keeping inflation in double digits rather than triple under full-scale war is a genuine policy achievement.",
+    "debt_management": "Ukraine's debt reflects two wars: 14.3% of GDP in 2006 (11.8% in 2007, the low), 60.5% in 2020 after the 2014-15 conflict and COVID, 77.7% in 2022, and a projected series high of 108.7% in 2025. The full-scale invasion's fiscal cost \u2014 defense spending around half the budget \u2014 is financed by Western grants and loans; the debt stock is overwhelmingly official-sector and concessional. GDP went from $111.9bn in 2006 to a projected $212.9bn in 2025, but the war destroyed roughly a third of output in 2022. Sustainability is entirely a function of continued Western support and the war's outcome; on a standalone basis the debt path is not financeable.",
+    "key_events": [
+      {
+        "event": "Global financial crisis and gas disputes; IMF programs began the reform anchor.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Euromaidan, annexation of Crimea, and war in Donbas: inflation hit 48.7% in 2015; debt surged.",
+        "period": "2014-15"
+      },
+      {
+        "event": "COVID-19: debt at 60.5% of GDP; the NBU's inflation targeting had stabilized prices by 2020.",
+        "period": "2020"
+      },
+      {
+        "event": "Full-scale Russian invasion (February 2022): output collapsed ~30%; inflation hit 20.2%; Western aid financed the state.",
+        "period": "2022"
+      },
+      {
+        "event": "War of attrition: debt projected at 108.7% of GDP; inflation projected at 12.7%; EU accession talks opened.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Ukraine's outlook is not an economic forecast but a war-contingent assessment: everything \u2014 debt sustainability, inflation, reconstruction \u2014 depends on the war's trajectory and Western support. The analytical base case must carry extreme uncertainty bands. If the war ends on terms preserving sovereignty, the reconstruction boom (potentially the largest in Europe since 1945) and EU accession path offer a strong medium-term story; debt restructuring and grant financing would follow. If it grinds on, the fiscal position deteriorates further. The NBU's demonstrated competence is a real asset for whatever comes next.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

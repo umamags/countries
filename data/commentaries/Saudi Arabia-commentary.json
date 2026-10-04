@@ -1,0 +1,40 @@
+{
+  "country": "Saudi Arabia",
+  "iso3": "SAU",
+  "period": "2006-2025",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "inflation_management": "The riyal's peg to the dollar (3.75 since 1986) anchors Saudi monetary policy, and inflation has stayed low: 6.1% in 2008 on the commodity boom, then 1-4% through the 2010s, with deflation of -2.0% in 2019 after subsidies were cut and demand softened. The 2020 tripling of VAT to 15% produced a one-off jump to 3.2%, and inflation has since eased to a projected 2.0% in 2025. SAMA shadows the Fed; with the peg credible, imported inflation is the main channel and domestic demand pressures are absorbed by the open labor market.",
+  "debt_management": "Saudi Arabia went from paying down debt (25.8% of GDP in 2006 to just 1.5% in 2014) to borrowing again as oil fell: the ratio rose to 29.7% in 2020 on COVID and the price crash, eased to 21.3% in 2022 on the windfall, and the IMF projects 31.7% for 2025 as Vision 2030 giga-project spending outpaces revenues. GDP grew from $376.4bn to a projected $1.28tn. Reserves and the PIF's assets dwarf the debt; the strategy is deliberate leveraging to fund diversification, and sustainability hinges on whether the projects generate returns.",
+  "key_events": [
+    {
+      "period": "2008",
+      "event": "Oil boom; GDP hit $519.8bn before the crisis."
+    },
+    {
+      "period": "2014-16",
+      "event": "Oil crash; deficits opened and the debt climb began from 1.5%."
+    },
+    {
+      "period": "2016",
+      "event": "Vision 2030 launched; VAT introduced and subsidies cut."
+    },
+    {
+      "period": "2017",
+      "event": "Anti-corruption purge consolidated power under Crown Prince Mohammed bin Salman."
+    },
+    {
+      "period": "2020",
+      "event": "VAT tripled to 15%; COVID and the oil-price war pushed debt to 29.7%."
+    },
+    {
+      "period": "2022",
+      "event": "Oil windfall; GDP hit $1.24tn and Aramco profits funded PIF expansion."
+    },
+    {
+      "period": "2023-25",
+      "event": "OPEC+ production cuts sacrificed volume for price; giga-project spending kept debt rising."
+    }
+  ],
+  "outlook_next_decade": "Saudi Arabia's outlook balances enormous resources against enormous ambitions: oil revenues plus PIF assets fund the diversification bet, but sustained low oil prices would force project delays and renewed borrowing. Success depends on non-oil growth (tourism, logistics, tech) materializing and on managing the fiscal breakeven oil price down. Risks are oil-market share loss, regional conflict, and execution risk on giga-projects. Analytical assessment: the balance sheet allows a long runway, but the strategy's payoff is unproven.",
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+}

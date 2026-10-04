@@ -639,5 +639,42 @@
         "summary": "Belgium compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/be.png",
+    "image_large": "https://flagcdn.com/w1280/be.png"
+  },
+  "national_anthem": "La Braban\u00e7onne",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/La_Braban%C3%A7onne",
+  "national_animal": "Lion",
+  "national_bird": "Common Kestrel",
+  "commentary": {
+    "inflation_management": "Belgium's inflation follows the ECB cycle with a domestic twist: automatic wage indexation amplifies imported shocks into persistent price growth. It was 0% in 2009 and 0.4% in 2020, then surged to 10.3% in 2022, the series high, on energy prices \u2014 and indexation pushed it to 4.3% in 2024 even as the euro-area average fell faster; it is projected at 3.0% for 2025. The ECB's policy is the instrument; Belgium's wage-setting institutions determine the domestic echo.",
+    "debt_management": "Belgium has one of Western Europe's highest debt stocks: 91.5% of GDP in 2006, a low of 87.3% in 2007, then climbing through the crisis to 111.2% in 2020, the series peak. Post-COVID consolidation and growth brought it to 103.1% in 2022, but the trend has turned up again to a projected 106.3% in 2025 as fiscal consolidation stalled. GDP rose from $408.3bn in 2006 to a projected $724.9bn in 2025. Borrowing costs remain low as a euro-area core issuer, but the upward debt drift is a genuine policy concern.",
+    "key_events": [
+      {
+        "event": "Financial crisis and eurozone turmoil; bank rescues (Fortis, Dexia) permanently raised the debt stock.",
+        "period": "2008-12"
+      },
+      {
+        "event": "COVID-19: debt hit 111.2% of GDP, the series peak, on pandemic spending and contraction.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy crisis drove inflation to 10.3%; automatic wage indexation kept it elevated into 2024.",
+        "period": "2022"
+      },
+      {
+        "event": "Federal elections (June 2024) ushered in a long government-formation process amid fiscal consolidation pressure.",
+        "period": "2024"
+      },
+      {
+        "event": "Debt projected at 106.3% of GDP as consolidation efforts continued to lag targets.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "The central fiscal question is whether Belgium can resume a credible downward debt path from above 100% of GDP. Inflation should converge toward the ECB target as the indexation echo fades, supporting real-income recovery. Structural issues are slow growth, aging-related spending pressure, and a complex federal governance structure that slows fiscal adjustment. Debt remains sustainable at current rates, but the margin for complacency is thin if European rate cycles turn.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

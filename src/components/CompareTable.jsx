@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 export default function CompareTable({ countries, attributes }) {
   const getAttributeValue = (country, attribute) => {
-    if (attribute === 'historical_events' || attribute === 'sport') {
+    if (attribute === 'historical_events' || attribute === 'sport' || attribute === 'national_anthem') {
       return '—'
     }
 
@@ -37,6 +37,9 @@ export default function CompareTable({ countries, attributes }) {
     exchange_rate_usd: 'Exchange Rate (per USD)',
     inflation_cpi_pct: 'Inflation (CPI %)',
     gross_debt_usd_billion: 'Gross Debt (USD Billion)',
+    national_anthem: 'National Anthem',
+    national_animal: 'National Animal',
+    national_bird: 'National Bird',
     historical_events: 'Historical Events',
     sport: 'Sports',
   }

@@ -640,5 +640,42 @@
         "summary": "Luxembourg compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf1\ud83c\uddfa",
+    "image_small": "https://flagcdn.com/w320/lu.png",
+    "image_large": "https://flagcdn.com/w1280/lu.png"
+  },
+  "national_anthem": "Ons Heemecht",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Ons_Heemecht",
+  "national_animal": "Red Lion",
+  "national_bird": "Goldcrest",
+  "commentary": {
+    "inflation_management": "Luxembourg's inflation follows the ECB with a wage-indexation echo like Belgium's: 0% in 2009 and 2020, then 8.1% in 2022, the series high, on energy. Automatic wage indexation transmitted it into services prices, keeping inflation at 2.3% in 2024; it is projected at 2.5% for 2025. The government has repeatedly postponed indexation tranches to break the loop \u2014 a political choice that worked. The financial center's prosperity kept demand firm through the cycle.",
+    "debt_management": "Luxembourg's debt is low and slowly rising: 8.2% of GDP in 2006 (8.1% in 2007, the low), 24.5% in 2020 after COVID, 24.9% in 2022, and a projected series high of 27% in 2025. The increases reflect pandemic spending and public investment, not stress \u2014 the state sits on large assets and runs a structural surplus in good years. GDP grew from $42.9bn in 2006 to a projected $101.1bn in 2025. Debt sustainability is excellent; the fiscal debate is about housing investment and managing growth, not solvency.",
+    "key_events": [
+      {
+        "event": "Financial crisis hit the banking-heavy economy; the state supported banks without lasting fiscal damage.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Banking secrecy wound down under EU and OECD pressure; the financial center repositioned toward funds and fintech.",
+        "period": "2010-15"
+      },
+      {
+        "event": "COVID-19: debt rose to 24.5% of GDP; the fiscal position absorbed it easily.",
+        "period": "2020"
+      },
+      {
+        "event": "Energy shock inflation of 8.1%; wage-indexation tranches were postponed to contain the spiral.",
+        "period": "2022"
+      },
+      {
+        "event": "Debt projected at 27% of GDP, the series high, on public investment in housing and infrastructure.",
+        "period": "2025"
+      }
+    ],
+    "outlook_next_decade": "Luxembourg's outlook is strong but capacity-constrained: growth is limited by housing supply and cross-border labor dynamics rather than capital. The financial center faces EU regulatory and tax-harmonization pressure, but diversification into funds, space, and tech is progressing. Debt near 27% of GDP is a non-issue. Inflation should track the ECB target. The analytical risk is that success itself \u2014 congestion, housing costs, inequality \u2014 becomes the binding constraint.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

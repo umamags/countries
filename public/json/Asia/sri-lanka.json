@@ -651,5 +651,50 @@
         "summary": "Sri Lanka contest the T20 Asia Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddf1\ud83c\uddf0",
+    "image_small": "https://flagcdn.com/w320/lk.png",
+    "image_large": "https://flagcdn.com/w1280/lk.png"
+  },
+  "national_anthem": "Sri Lanka Matha",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Sri_Lanka_Matha",
+  "national_animal": "Grizzled Giant Squirrel",
+  "national_bird": "Sri Lanka Junglefowl",
+  "commentary": {
+    "inflation_management": "The Central Bank of Sri Lanka moved toward flexible inflation targeting, but fiscal dominance repeatedly overwhelmed it. Inflation was 22.4% in 2008, moderated to 2-7% through the 2010s, then the 2022 crisis, with the rupee collapsing and the central bank printing money, drove it to 45.2% in 2022 (17.4% in 2023). Aggressive tightening and IMF-backed stabilization brought it down to 1.2% in 2024, an extraordinary disinflation. Note the IMF series has no 2025 data for Sri Lanka, a genuine gap. Credibility is being rebuilt but remains fragile.",
+    "debt_management": "Sri Lanka's debt ended in default: from 74.3% of GDP in 2006 it stayed in the 67-83% range through 2019, then COVID, tax cuts, and the 2021 fertilizer ban pushed it to 102.7% in 2021, and the 2022 collapse (GDP falling to $74.6bn) took it to 115.9%. In April 2022 Sri Lanka defaulted on its external debt, the first in its history. The March 2023 IMF EFF ($3bn) and subsequent restructuring deals are bringing the ratio down (100.8% in 2024). The crisis was homegrown: unsustainable tax cuts, money printing, and an import ban that crushed revenues.",
+    "key_events": [
+      {
+        "period": "2009",
+        "event": "Civil war ended; post-war boom and borrowing began."
+      },
+      {
+        "period": "2015",
+        "event": "Sirisena defeated Rajapaksa; brief reform window opened."
+      },
+      {
+        "period": "2019",
+        "event": "Easter Sunday attacks devastated tourism; Gotabaya Rajapaksa elected and slashed taxes."
+      },
+      {
+        "period": "2021",
+        "event": "Overnight shift to organic farming crushed agricultural output and forex earnings."
+      },
+      {
+        "period": "2022",
+        "event": "Sovereign default in April; Aragalaya protests ousted the Rajapaksas; inflation hit 45.2%."
+      },
+      {
+        "period": "2023",
+        "event": "$3bn IMF EFF approved; debt restructuring negotiations began."
+      },
+      {
+        "period": "2024",
+        "event": "Stabilization: inflation fell to 1.2% and GDP recovered to $99.0bn."
+      }
+    ],
+    "outlook_next_decade": "Sri Lanka's base case is gradual recovery under the IMF program: growth resuming, inflation low, debt declining as restructuring completes. Risks are reform fatigue, political pressure to reverse austerity (notably after the 2024 elections), and external shocks hitting tourism and remittances. The deeper lesson is institutional: preventing a repeat requires broadening the tax base and ending money-printing. Analytical assessment: the turnaround so far is real but incomplete, and 2025 data are missing from the IMF series.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

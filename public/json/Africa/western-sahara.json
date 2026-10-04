@@ -116,5 +116,34 @@
     "attribution": "CIA, The World Factbook",
     "license": "Public domain"
   },
-  "economics": []
+  "economics": [],
+  "flag": {
+    "emoji": "\ud83c\uddea\ud83c\udded",
+    "image_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Western%20Sahara.svg?width=320",
+    "image_large": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Western%20Sahara.svg?width=1280"
+  },
+  "national_anthem": "Y\u0101 Ban\u012b a\u1e63-\u1e62a\u1e25r\u0101\u02be",
+  "national_anthem_url": null,
+  "national_animal": null,
+  "national_bird": null,
+  "commentary": {
+    "inflation_management": "With no published price data, inflation in Western Sahara cannot be described quantitatively. In practice the Moroccan dirham is the currency in the Morocco-administered zone, so price dynamics follow Morocco's (low single digits for most of the period, spiking to 6.6% in 2022). There is no separate monetary authority or regime for the territory. The economically meaningful point is the structure: a small, sparsely populated economy dependent on phosphates, fisheries, and Moroccan subsidies, with trade and investment constrained by the unresolved sovereignty dispute.",
+    "debt_management": "There is no published macroeconomic data for Western Sahara: the IMF carries no GDP, debt, or inflation series for the territory, and Morocco does not publish separate fiscal accounts for it. What is known is that the territory's economy is administered as part of Morocco's, funded by Moroccan budget transfers and investment (notably in Dakhla's port and fisheries), with phosphate mining at Bou Craa and fishing licenses generating revenues that accrue largely to Moroccan state entities. Any discussion of 'debt management' is therefore not applicable in the conventional sense; the territory has no sovereign borrowing capacity and no published debt stock.",
+    "key_events": [
+      {
+        "event": "UN-brokered ceasefire held, but the political status remained unresolved; Morocco built the 2,700km sand berm dividing the territory.",
+        "period": "2006-2020"
+      },
+      {
+        "event": "Ceasefire broke down (November 2020) after the Guerguerat confrontation; low-level conflict resumed with the Polisario Front.",
+        "period": "2020"
+      },
+      {
+        "event": "United States recognized Moroccan sovereignty (December 2020); several other countries followed, shifting the diplomatic landscape.",
+        "period": "2020-25"
+      }
+    ],
+    "outlook_next_decade": "The outlook is political rather than economic: Western Sahara's macro significance is negligible, and its trajectory depends entirely on the sovereignty dispute. Continued Moroccan administration implies continued subsidy-driven development around Dakhla; any settlement could reshape investment. Uncertainty is high and the honest assessment is that there is too little data for a conventional economic outlook.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

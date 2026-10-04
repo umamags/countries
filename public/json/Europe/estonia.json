@@ -631,5 +631,42 @@
         "summary": "Estonia compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\uddea\ud83c\uddea",
+    "image_small": "https://flagcdn.com/w320/ee.png",
+    "image_large": "https://flagcdn.com/w1280/ee.png"
+  },
+  "national_anthem": "Mu isamaa, mu \u00f5nn ja r\u00f5\u00f5m",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Mu_isamaa,_mu_%C3%B5nn_ja_r%C3%B5%C3%B5m",
+  "national_animal": "Grey Wolf",
+  "national_bird": "Barn Swallow",
+  "commentary": {
+    "inflation_management": "Euro adoption in 2011 handed monetary policy to the ECB, but Estonia's small, open, energy-exposed economy produced the euro area's most extreme inflation swings. It was -0.6% in 2020 (the series low), then 19.4% in 2022, the series high \u2014 the highest in the eurozone, driven by energy-price pass-through. Disinflation was swift: 3.7% in 2024, projected 4.8% for 2025 as tax measures and wages kept it elevated. The pre-euro years had their own boom-bust: 10.6% inflation in 2008 followed by a crash.",
+    "debt_management": "Estonia remains Europe's fiscal outlier: debt was 4.7% of GDP in 2006, a low of 3.9% in 2007, and is projected at 24.2% in 2025, the series high \u2014 still the lowest in the EU. COVID raised it to 19.1% in 2020 (19.2% in 2022). The rise reflects defense spending and deficits, but the stock is trivial by any benchmark. GDP grew from $17.1bn in 2006 to a projected $47.0bn in 2025. Debt sustainability is the least of Estonia's worries.",
+    "key_events": [
+      {
+        "event": "Severe boom-bust: the 2008-09 contraction was among Europe's deepest; internal devaluation preserved competitiveness.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Joined the euro area (January 2011), the first former Soviet republic to do so.",
+        "period": "2011"
+      },
+      {
+        "event": "COVID-19: debt rose to 19.1% of GDP, still tiny by EU standards.",
+        "period": "2020"
+      },
+      {
+        "event": "Ukraine war energy shock: inflation hit 19.4%, the eurozone's highest; Estonia fronted the hawkish line on Russia.",
+        "period": "2022"
+      },
+      {
+        "event": "Defense spending surged amid the regional security shock; debt projected at 24.2% of GDP.",
+        "period": "2024-25"
+      }
+    ],
+    "outlook_next_decade": "Estonia's fiscal position is essentially unimpeachable, giving it freedom to spend on defense and digital infrastructure. The structural challenge is the energy transition away from oil shale and labor-market tightness in a shrinking population. Inflation should normalize toward the ECB target as the 2022-25 tax effects fade. Security policy, not macroeconomics, dominates the outlook: proximity to Russia keeps risk premiums and defense budgets high.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

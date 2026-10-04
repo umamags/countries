@@ -1,0 +1,36 @@
+{
+  "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections.",
+  "country": "Zambia",
+  "data_source": "IMF World Economic Outlook via DataMapper (latest vintage, accessed October 2026)",
+  "debt_management": "Zambia's debt is the textbook commodity boom-bust: from 18.9% of GDP in 2010, the series low (post-HIPC/MDRI), the Patriotic Front government borrowed heavily, including $3 billion in Eurobonds and large Chinese loans, driving the ratio to 140.0% in 2020, the series high. In November 2020 Zambia became Africa's first COVID-era sovereign defaulter. The August 2021 election of Hakainde Hichilema unlocked a $1.3 billion IMF program (approved August 31, 2022) and a G20 Common Framework restructuring: debt fell to a projected 86.0% in 2025. The restructuring's slow progress, held up by creditor disputes, showed the new architecture's flaws, but Zambia is the proof that it can eventually work.",
+  "inflation_management": "Zambia's inflation tracks copper and the kwacha. It was contained at 6-9% from 2010 to 2015, then the 2015 copper crash and kwacha collapse sent it to 17.9% in 2016. Tighter policy brought it down to 6.6% by 2017, but the 2020 default and currency crisis pushed it to 22.0% in 2021, the series high. The Hichilema government's tightening and IMF anchor stabilized it: 11.0% in 2022, 10.9% in 2023, then drought and currency pressure lifted it to 15.0% in 2024 and a projected 13.9% in 2025. The Bank of Zambia has no formal inflation target but has acted as one, hiking aggressively through the crisis.",
+  "iso3": "ZMB",
+  "key_events": [
+    {
+      "event": "Copper boom; HIPC-era low debt (18.9% of GDP); Eurobond borrowing spree began.",
+      "period": "2010-14"
+    },
+    {
+      "event": "Copper crash and kwacha collapse; inflation hit 17.9%; debt surged past 60%.",
+      "period": "2015-16"
+    },
+    {
+      "event": "November 2020: missed Eurobond payment, becoming Africa's first pandemic-era sovereign defaulter; debt hit 140% of GDP.",
+      "period": "2020"
+    },
+    {
+      "event": "Hakainde Hichilema won the presidency (August 2021), promising economic repair.",
+      "period": "2021"
+    },
+    {
+      "event": "August 31, 2022: IMF approved a $1.3 billion program; Common Framework restructuring began.",
+      "period": "2022"
+    },
+    {
+      "event": "Severe drought (2024) hit agriculture and hydropower; debt restructuring neared completion.",
+      "period": "2024-25"
+    }
+  ],
+  "outlook_next_decade": "The base case is continued IMF-anchored recovery: debt declining from 86% of GDP, inflation easing toward single digits, and copper revenues supporting the kwacha. Upside comes from the energy transition's copper demand and completed restructuring; downside is copper prices or a return to the borrowing habits that caused the crisis. Uncertainty is moderate: Zambia has the framework right, but the test is whether discipline survives the next election and the next copper boom.",
+  "period": "2006-2025"
+}

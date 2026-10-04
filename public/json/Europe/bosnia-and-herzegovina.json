@@ -620,5 +620,46 @@
         "summary": "Bosnia compete in qualifying for the 2026 World Cup."
       }
     }
-  ]
+  ],
+  "flag": {
+    "emoji": "\ud83c\udde7\ud83c\udde6",
+    "image_small": "https://flagcdn.com/w320/ba.png",
+    "image_large": "https://flagcdn.com/w1280/ba.png"
+  },
+  "national_anthem": "Dr\u017eavna himna Bosne i Hercegovine",
+  "national_anthem_url": "https://en.wikipedia.org/wiki/Dr%C5%BEavna_himna_Bosne_i_Hercegovine",
+  "national_animal": "Tornjak",
+  "national_bird": "Ural Owl",
+  "commentary": {
+    "inflation_management": "The currency board pegging the convertible mark to the euro makes Bosnia an importer of euro-area monetary conditions. Inflation was near zero or negative through the mid-2010s (-1.6% in 2016, the series low) as euro-area disinflation spilled over. The 2022 shock hit hard: 14%, the series high, on energy and food imports. Disinflation was quick \u2014 1.7% by 2024 \u2014 with a projected 3.9% for 2025. The board precludes active monetary management; adjustment runs through wages and prices.",
+    "debt_management": "Public debt is low by regional standards: 20.6% of GDP in 2006, a low of 18.2% in 2007, rising to 47.1% in 2014 after flood-related borrowing and IMF programs, then falling steadily to a projected 29.9% in 2025. COVID pushed it temporarily to 37.2% in 2020. GDP grew from $12.9bn in 2006 to a projected $33.0bn in 2025. The currency-board regime and IMF anchors have kept fiscal policy conservative; debt sustainability is not a binding constraint.",
+    "key_events": [
+      {
+        "event": "Currency board provided stability during the global financial crisis; growth slowed sharply but the peg held.",
+        "period": "2008-09"
+      },
+      {
+        "event": "Devastating floods and IMF programs pushed debt to 47.1% of GDP, the series high.",
+        "period": "2014"
+      },
+      {
+        "event": "Deflationary episode bottomed at -1.6% amid weak euro-area spillovers.",
+        "period": "2016"
+      },
+      {
+        "event": "COVID-19: debt rose to 37.2% of GDP on the economic contraction.",
+        "period": "2020"
+      },
+      {
+        "event": "Inflation spiked to 14% on imported energy and food prices.",
+        "period": "2022"
+      },
+      {
+        "event": "EU candidate status (granted December 2022) anchored reform momentum.",
+        "period": "2022"
+      }
+    ],
+    "outlook_next_decade": "Prospects depend more on politics than macroeconomics: low debt and a credible currency board are strengths, but fragmented governance and slow reform constrain EU accession progress. Inflation should stay near euro-area levels given the peg. The upside is EU integration unlocking investment; the downside is political fragmentation or a slowdown in the EU, Bosnia's main trade partner, transmitting directly through the currency board.",
+    "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  }
 }

@@ -1,0 +1,135 @@
+.commentary-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 16px;
+}
+
+@media (max-width: 768px) {
+  .commentary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.commentary-box {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  background: var(--bg-raised);
+}
+
+.commentary-box h4 {
+  margin: 0 0 12px 0;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.box-content {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+/* Color variations for each box */
+
+.color-inflation {
+  background: linear-gradient(135deg, rgba(255, 152, 0, 0.08) 0%, rgba(255, 152, 0, 0.03) 100%);
+  border-left: 4px solid #FF9800;
+}
+
+.color-inflation h4 {
+  color: #E65100;
+}
+
+.color-debt {
+  background: linear-gradient(135deg, rgba(244, 67, 54, 0.08) 0%, rgba(244, 67, 54, 0.03) 100%);
+  border-left: 4px solid #F44336;
+}
+
+.color-debt h4 {
+  color: #C62828;
+}
+
+.color-outlook {
+  background: linear-gradient(135deg, rgba(76, 175, 80, 0.08) 0%, rgba(76, 175, 80, 0.03) 100%);
+  border-left: 4px solid #4CAF50;
+}
+
+.color-outlook h4 {
+  color: #2E7D32;
+}
+
+.color-caveat {
+  background: linear-gradient(135deg, rgba(103, 58, 183, 0.08) 0%, rgba(103, 58, 183, 0.03) 100%);
+  border-left: 4px solid #673AB7;
+}
+
+.color-caveat h4 {
+  color: #512DA8;
+}
+
+/* Events section */
+
+.events-section {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.events-toggle {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 0;
+  transition: color 0.15s ease;
+  margin-bottom: 12px;
+}
+
+.events-toggle:hover {
+  color: var(--text-h);
+}
+
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.event-item {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.event-item:last-child {
+  border-bottom: none;
+}
+
+.event-period {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+.event-text {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.no-data {
+  margin: 0;
+  font-style: italic;
+  color: var(--text);
+  font-size: 13px;
+}
