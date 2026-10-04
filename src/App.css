@@ -540,16 +540,22 @@
 
 /* Landmarks */
 
-.landmark-link:hover,
-.event-link:hover {
+.landmark-link {
   color: var(--accent);
-  text-decoration: underline;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .event-link {
   color: var(--accent);
   text-decoration: none;
   cursor: pointer;
+}
+
+.landmark-link:hover,
+.event-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
 }
 
 .landmark-image {
