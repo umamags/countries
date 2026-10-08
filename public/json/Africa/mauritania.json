@@ -691,5 +691,163 @@
     ],
     "outlook_next_decade": "The base case is a gas-driven improvement: GTA and BirAllah production should lift growth, strengthen the fiscal position, and bring debt below 40% of GDP. Upside is transformational if gas revenues are invested well; downside is the resource curse, Dutch disease hurting fisheries and agriculture, and political risk. Uncertainty is moderate: the macro framework is sound, but managing a resource windfall is Mauritania's first real test.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 216.32,
+      "oda_loans_net_usd_million": -910.01
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 277.34,
+      "oda_loans_net_usd_million": 32.9
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 410.25,
+      "oda_loans_net_usd_million": 154.04
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 336.78,
+      "oda_loans_net_usd_million": 167.64
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 373.61,
+      "oda_loans_net_usd_million": 200.86
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 381.72,
+      "oda_loans_net_usd_million": 181.41
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 409.79,
+      "oda_loans_net_usd_million": 151.38
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 294.74,
+      "oda_loans_net_usd_million": 58.46
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 260.71,
+      "oda_loans_net_usd_million": 76.46
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 329.46,
+      "oda_loans_net_usd_million": 99.32
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 307.28,
+      "oda_loans_net_usd_million": 68.66
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 291.71,
+      "oda_loans_net_usd_million": 99.0
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 448.41,
+      "oda_loans_net_usd_million": 213.64
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 396.57,
+      "oda_loans_net_usd_million": 118.51
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 645.63,
+      "oda_loans_net_usd_million": 252.48
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 429.24,
+      "oda_loans_net_usd_million": 2.3
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 326.75,
+      "oda_loans_net_usd_million": 24.46
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 4.07,
+    "total_imports_usd_billion": 4.82,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.52
+      },
+      {
+        "rank": 2,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 1.41
+      },
+      {
+        "rank": 3,
+        "hs_code": "0307",
+        "product": "Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in\u2026",
+        "value_usd_billion": 0.38
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.27
+      },
+      {
+        "rank": 5,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 0.13
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.66
+      },
+      {
+        "rank": 2,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.3
+      },
+      {
+        "rank": 3,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 4,
+        "hs_code": "1507",
+        "product": "Soya-bean oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 5,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.16
+      }
+    ]
   }
 }

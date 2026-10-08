@@ -671,5 +671,163 @@
     ],
     "outlook_next_decade": "Tourism has recovered strongly, which should keep debt on a slow downward path, but Fiji remains one shock away from another fiscal crisis - the next severe cyclone or pandemic would hit the same vulnerability. Diversification beyond tourism (agriculture, BPO services) is the stated goal but progress is slow. Climate adaptation costs will rise, and the politics of coalition government add execution risk. The base case is gradual debt reduction with periodic cyclone-driven setbacks.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 55.8,
+      "oda_loans_net_usd_million": -1.28
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 50.88,
+      "oda_loans_net_usd_million": -1.24
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 45.08,
+      "oda_loans_net_usd_million": -1.39
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 66.41,
+      "oda_loans_net_usd_million": -3.33
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 75.84,
+      "oda_loans_net_usd_million": -1.38
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 75.39,
+      "oda_loans_net_usd_million": -1.65
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 105.37,
+      "oda_loans_net_usd_million": -1.52
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 91.22,
+      "oda_loans_net_usd_million": -1.24
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 94.24,
+      "oda_loans_net_usd_million": -1.15
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 102.48,
+      "oda_loans_net_usd_million": -1.0
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 117.42,
+      "oda_loans_net_usd_million": -1.12
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 145.9,
+      "oda_loans_net_usd_million": -1.08
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 120.97,
+      "oda_loans_net_usd_million": -1.1
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 128.69,
+      "oda_loans_net_usd_million": -1.11
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 193.77,
+      "oda_loans_net_usd_million": 47.83
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 609.37,
+      "oda_loans_net_usd_million": 272.31
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 358.05,
+      "oda_loans_net_usd_million": 231.19
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 1.07,
+    "total_imports_usd_billion": 3.1,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.28
+      },
+      {
+        "rank": 2,
+        "hs_code": "2201",
+        "product": "Waters, including natural or artificial mineral waters and aerated waters, not containing\u2026",
+        "value_usd_billion": 0.16
+      },
+      {
+        "rank": 3,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 5,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.04
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.72
+      },
+      {
+        "rank": 2,
+        "hs_code": "9018",
+        "product": "Instruments and appliances used in medical, surgical, dental or veterinary sciences,\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.08
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.07
+      }
+    ]
   }
 }

@@ -650,5 +650,163 @@
     ],
     "outlook_next_decade": "The base case is a slow, painful adjustment: diamond revenues are unlikely to return to 2022 levels, forcing either spending cuts, new revenue sources, or a permanently higher debt path. Upside depends on diversification (tourism, financial services) and a diamond market recovery; downside is a fiscal crisis if borrowing continues while reserves erode. Uncertainty is moderate-to-high: the 2024 political turnover was peaceful, but the new government's economic program is untested.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 66.61,
+      "oda_loans_net_usd_million": -18.62
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 105.55,
+      "oda_loans_net_usd_million": -11.36
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 723.57,
+      "oda_loans_net_usd_million": -24.59
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 282.82,
+      "oda_loans_net_usd_million": 11.34
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 154.67,
+      "oda_loans_net_usd_million": -3.07
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 118.5,
+      "oda_loans_net_usd_million": -7.5
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 73.07,
+      "oda_loans_net_usd_million": -10.05
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 107.37,
+      "oda_loans_net_usd_million": -14.3
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 99.37,
+      "oda_loans_net_usd_million": -16.01
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 65.54,
+      "oda_loans_net_usd_million": -14.48
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 90.57,
+      "oda_loans_net_usd_million": -6.24
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 102.09,
+      "oda_loans_net_usd_million": -2.25
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 85.85,
+      "oda_loans_net_usd_million": 0.19
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 67.66,
+      "oda_loans_net_usd_million": -9.73
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 78.97,
+      "oda_loans_net_usd_million": -6.87
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 96.43,
+      "oda_loans_net_usd_million": -0.41
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 89.52,
+      "oda_loans_net_usd_million": 11.25
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 5.5,
+    "total_imports_usd_billion": 6.42,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 4.33
+      },
+      {
+        "rank": 2,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 0.51
+      },
+      {
+        "rank": 3,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 0.15
+      },
+      {
+        "rank": 4,
+        "hs_code": "2836",
+        "product": "Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing\u2026",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 5,
+        "hs_code": "0102",
+        "product": "Bovine animals; live",
+        "value_usd_billion": 0.05
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 0.95
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 4,
+        "hs_code": "2202",
+        "product": "Waters, including mineral and aerated waters, containing added sugar or sweetening\u2026",
+        "value_usd_billion": 0.16
+      },
+      {
+        "rank": 5,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.16
+      }
+    ]
   }
 }

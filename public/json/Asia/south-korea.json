@@ -721,5 +721,163 @@
     ],
     "outlook_next_decade": "Korea's base case is 2% trend growth with inflation at target and stable debt, powered by semiconductors, batteries, and shipbuilding. Structural drags are severe demographics (world's lowest fertility), household debt, and geopolitical exposure (North Korea, US-China tech rivalry, China as a key market). Political instability after 2024 adds uncertainty. Analytical assessment: the macro framework is strong but the growth model needs upgrading toward services and productivity as the population shrinks.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 631.8,
+    "total_imports_usd_billion": 642.55,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 86.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 68.26
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 50.89
+      },
+      {
+        "rank": 4,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 19.43
+      },
+      {
+        "rank": 5,
+        "hs_code": "8524",
+        "product": "Flat panel display modules, whether or not incorporating touch-sensitive screens",
+        "value_usd_billion": 17.04
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 86.16
+      },
+      {
+        "rank": 2,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 51.69
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 41.18
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 22.93
+      },
+      {
+        "rank": 5,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 20.07
+      }
+    ]
   }
 }

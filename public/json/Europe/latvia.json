@@ -614,5 +614,77 @@
     ],
     "outlook_next_decade": "Latvia's macro framework is sound \u2014 euro membership, moderate debt, flexible markets \u2014 but the structural challenges are demographic decline, emigration, and the security environment. Defense spending and energy-transition costs will keep some fiscal pressure. Inflation should normalize toward the ECB target as the 2022-23 energy effects fully wash out. The base case is steady convergence growth; the security situation is the dominant risk to the outlook, not macroeconomics.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 20.54,
+    "total_imports_usd_billion": 24.55,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.91
+      },
+      {
+        "rank": 2,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.76
+      },
+      {
+        "rank": 3,
+        "hs_code": "4401",
+        "product": "Fuel wood, in logs, billets, twigs, faggots or similar forms; wood in chip or particles;\u2026",
+        "value_usd_billion": 0.68
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.65
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.63
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.29
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.12
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.11
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.75
+      }
+    ]
   }
 }

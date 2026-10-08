@@ -1,0 +1,73 @@
+{
+  "country": "Brazil",
+  "iso3": "BRA",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 339.7,
+  "total_imports_usd_billion": 252.71,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "1201",
+      "product": "Soya beans, whether or not broken",
+      "value_usd_billion": 53.24
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 42.61
+    },
+    {
+      "rank": 3,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 30.59
+    },
+    {
+      "rank": 4,
+      "hs_code": "1701",
+      "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "value_usd_billion": 15.75
+    },
+    {
+      "rank": 5,
+      "hs_code": "1005",
+      "product": "Maize (corn)",
+      "value_usd_billion": 13.61
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 18.53
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 9.38
+    },
+    {
+      "rank": 3,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 7.59
+    },
+    {
+      "rank": 4,
+      "hs_code": "8411",
+      "product": "Turbo-jets, turbo-propellers and other gas turbines",
+      "value_usd_billion": 6.63
+    },
+    {
+      "rank": 5,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 5.95
+    }
+  ]
+}

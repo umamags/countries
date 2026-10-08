@@ -1,0 +1,73 @@
+{
+  "country": "Chile",
+  "iso3": "CHL",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 92.96,
+  "total_imports_usd_billion": 85.19,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2603",
+      "product": "Copper ores and concentrates",
+      "value_usd_billion": 23.51
+    },
+    {
+      "rank": 2,
+      "hs_code": "7403",
+      "product": "Copper; refined and copper alloys, unwrought",
+      "value_usd_billion": 16.93
+    },
+    {
+      "rank": 3,
+      "hs_code": "2836",
+      "product": "Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing…",
+      "value_usd_billion": 4.24
+    },
+    {
+      "rank": 4,
+      "hs_code": "0304",
+      "product": "Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+      "value_usd_billion": 3.84
+    },
+    {
+      "rank": 5,
+      "hs_code": "0809",
+      "product": "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",
+      "value_usd_billion": 2.91
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 8.58
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 5.27
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 3.34
+    },
+    {
+      "rank": 4,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 2.73
+    },
+    {
+      "rank": 5,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 2.69
+    }
+  ]
+}

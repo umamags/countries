@@ -628,5 +628,163 @@
     ],
     "outlook_next_decade": "Debt is now manageable and remittances provide a steady floor under demand, so the macro risk is less fiscal than physical: another major eruption or cyclone would overwhelm the budget again. Chinese debt overhang has eased but the creditor relationship still shapes geopolitics. The base case is slow growth, continued deleveraging, and high vulnerability to the next natural disaster - with Australia and New Zealand as the implicit insurers.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 22.56,
+      "oda_loans_net_usd_million": 1.57
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 27.67,
+      "oda_loans_net_usd_million": -1.98
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 25.06,
+      "oda_loans_net_usd_million": 0.39
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 35.18,
+      "oda_loans_net_usd_million": -0.27
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 66.32,
+      "oda_loans_net_usd_million": 0.76
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 88.56,
+      "oda_loans_net_usd_million": -0.44
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 78.18,
+      "oda_loans_net_usd_million": -2.61
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 81.09,
+      "oda_loans_net_usd_million": -2.57
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 80.33,
+      "oda_loans_net_usd_million": 2.19
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 68.4,
+      "oda_loans_net_usd_million": -0.51
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 82.61,
+      "oda_loans_net_usd_million": 4.28
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 87.23,
+      "oda_loans_net_usd_million": 5.52
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 97.45,
+      "oda_loans_net_usd_million": 4.35
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 107.95,
+      "oda_loans_net_usd_million": 2.39
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 162.98,
+      "oda_loans_net_usd_million": -1.25
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 113.07,
+      "oda_loans_net_usd_million": 8.31
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 295.05,
+      "oda_loans_net_usd_million": 152.22
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.01,
+    "total_imports_usd_billion": 0.33,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "4907",
+        "product": "Unused postage, revenue or similar stamps of current or new issue in the country in which\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 2,
+        "hs_code": "8802",
+        "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 3,
+        "hs_code": "0714",
+        "product": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 4,
+        "hs_code": "8429",
+        "product": "Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators,\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 2,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 3,
+        "hs_code": "7010",
+        "product": "Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.01
+      }
+    ]
   }
 }

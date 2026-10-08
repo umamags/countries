@@ -1,0 +1,73 @@
+{
+  "country": "Mongolia",
+  "iso3": "MNG",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 15.18,
+  "total_imports_usd_billion": 9.25,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2701",
+      "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+      "value_usd_billion": 8.76
+    },
+    {
+      "rank": 2,
+      "hs_code": "2603",
+      "product": "Copper ores and concentrates",
+      "value_usd_billion": 2.63
+    },
+    {
+      "rank": 3,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 0.74
+    },
+    {
+      "rank": 4,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 0.44
+    },
+    {
+      "rank": 5,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 0.36
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.87
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.68
+    },
+    {
+      "rank": 3,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.43
+    },
+    {
+      "rank": 4,
+      "hs_code": "8716",
+      "product": "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",
+      "value_usd_billion": 0.21
+    },
+    {
+      "rank": 5,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.19
+    }
+  ]
+}

@@ -694,5 +694,102 @@
     ],
     "outlook_next_decade": "Turkmenistan's outlook is gas and governance: China buys nearly all exports, giving revenue stability but total dependence, while TAPI remains aspirational. Official data will likely keep showing low inflation and debt regardless of reality. Analytical assessment must be heavily caveated: without reliable statistics, the base case is continued stagnation with periodic foreign-exchange squeezes, and the upside (diversified gas routes, genuine reform) has no evidence base. Treat all figures as indicative at best.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 41.11,
+      "oda_loans_net_usd_million": -6.28
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 28.77,
+      "oda_loans_net_usd_million": -10.53
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 18.12,
+      "oda_loans_net_usd_million": -26.1
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 40.64,
+      "oda_loans_net_usd_million": 4.02
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 43.8,
+      "oda_loans_net_usd_million": -1.35
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 40.82,
+      "oda_loans_net_usd_million": -4.16
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 37.66,
+      "oda_loans_net_usd_million": -4.34
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 35.91,
+      "oda_loans_net_usd_million": -3.71
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 34.48,
+      "oda_loans_net_usd_million": -3.98
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 22.95,
+      "oda_loans_net_usd_million": -4.13
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 32.23,
+      "oda_loans_net_usd_million": -3.81
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 28.14,
+      "oda_loans_net_usd_million": -4.02
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 20.46,
+      "oda_loans_net_usd_million": -4.18
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 25.33,
+      "oda_loans_net_usd_million": -3.02
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 34.1,
+      "oda_loans_net_usd_million": 6.16
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 28.71,
+      "oda_loans_net_usd_million": -2.94
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 15.09,
+      "oda_loans_net_usd_million": -3.92
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

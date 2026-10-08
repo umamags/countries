@@ -649,5 +649,163 @@
     ],
     "outlook_next_decade": "The base case is continued monetary instability: the ZiG's survival depends on fiscal discipline the government has never shown, and 81% inflation in 2025 suggests the cycle is repeating. Upside would require genuine reform, arrears clearance, and re-engagement with creditors; downside is another full hyperinflation. Uncertainty is high on policy but the direction is familiar: Zimbabwe has run this experiment four times, and the population's dollarization is the rational response.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections. Note: the IMF inflation series for Zimbabwe begins in 2009 (hyperinflation years excluded)."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 278.24,
+      "oda_loans_net_usd_million": -9.64
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 477.46,
+      "oda_loans_net_usd_million": -0.35
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 612.75,
+      "oda_loans_net_usd_million": -2.33
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 736.54,
+      "oda_loans_net_usd_million": -0.09
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 712.53,
+      "oda_loans_net_usd_million": -6.36
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 722.58,
+      "oda_loans_net_usd_million": 0.71
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1001.59,
+      "oda_loans_net_usd_million": -9.45
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 827.54,
+      "oda_loans_net_usd_million": 4.54
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 760.57,
+      "oda_loans_net_usd_million": 2.31
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 788.29,
+      "oda_loans_net_usd_million": -20.8
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 654.25,
+      "oda_loans_net_usd_million": -92.82
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 725.83,
+      "oda_loans_net_usd_million": -0.21
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 794.56,
+      "oda_loans_net_usd_million": 2.07
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 844.09,
+      "oda_loans_net_usd_million": -12.68
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 985.05,
+      "oda_loans_net_usd_million": 0.56
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 985.79,
+      "oda_loans_net_usd_million": 4.13
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 786.58,
+      "oda_loans_net_usd_million": 0.72
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 7.23,
+    "total_imports_usd_billion": 9.2,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.81
+      },
+      {
+        "rank": 2,
+        "hs_code": "2401",
+        "product": "Tobacco, unmanufactured; tobacco refuse",
+        "value_usd_billion": 1.19
+      },
+      {
+        "rank": 3,
+        "hs_code": "7501",
+        "product": "Nickel mattes; nickel oxide sinters and other intermediate products of nickel metallurgy",
+        "value_usd_billion": 0.99
+      },
+      {
+        "rank": 4,
+        "hs_code": "2530",
+        "product": "Mineral substances not elsewhere specified or included",
+        "value_usd_billion": 0.88
+      },
+      {
+        "rank": 5,
+        "hs_code": "2604",
+        "product": "Nickel ores and concentrates",
+        "value_usd_billion": 0.65
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.55
+      },
+      {
+        "rank": 2,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.28
+      },
+      {
+        "rank": 3,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 0.24
+      },
+      {
+        "rank": 4,
+        "hs_code": "1507",
+        "product": "Soya-bean oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.21
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.2
+      }
+    ]
   }
 }

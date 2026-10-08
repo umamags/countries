@@ -625,5 +625,102 @@
     ],
     "outlook_next_decade": "The Compact renewal secures the fiscal base through the 2040s, and tourism is recovering - but Palau remains a single-sector economy (high-end diving tourism) in a US-China contest zone, having kept Taiwan recognition while taking Chinese economic pressure. Debt should keep falling if tourism holds. The upside is the marine-sanctuary brand commanding premium tourism; the downside is any renewed border closure or a US aid rethink. Structurally, sovereignty is subsidized - a stable but dependent equilibrium.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 37.39,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 22.41,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 42.29,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 34.92,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 28.76,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 24.52,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 15.46,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 35.42,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 23.48,
+      "oda_loans_net_usd_million": 0.18
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 13.93,
+      "oda_loans_net_usd_million": 0.45
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 17.8,
+      "oda_loans_net_usd_million": 3.28
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 22.15,
+      "oda_loans_net_usd_million": 3.34
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 84.54,
+      "oda_loans_net_usd_million": 0.54
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 24.95,
+      "oda_loans_net_usd_million": 4.68
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 66.24,
+      "oda_loans_net_usd_million": 38.7
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 49.44,
+      "oda_loans_net_usd_million": 25.45
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 55.67,
+      "oda_loans_net_usd_million": 30.17
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

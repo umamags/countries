@@ -1,0 +1,73 @@
+{
+  "country": "Morocco",
+  "iso3": "MAR",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 42.46,
+  "total_imports_usd_billion": 70.64,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 6.39
+    },
+    {
+      "rank": 2,
+      "hs_code": "8544",
+      "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical…",
+      "value_usd_billion": 4.97
+    },
+    {
+      "rank": 3,
+      "hs_code": "3105",
+      "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,…",
+      "value_usd_billion": 4.79
+    },
+    {
+      "rank": 4,
+      "hs_code": "6204",
+      "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace…",
+      "value_usd_billion": 1.55
+    },
+    {
+      "rank": 5,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 1.38
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 7.6
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 2.49
+    },
+    {
+      "rank": 3,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 2.4
+    },
+    {
+      "rank": 4,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 2.36
+    },
+    {
+      "rank": 5,
+      "hs_code": "1001",
+      "product": "Wheat and meslin",
+      "value_usd_billion": 1.91
+    }
+  ]
+}

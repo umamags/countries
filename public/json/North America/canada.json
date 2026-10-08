@@ -720,5 +720,77 @@
     ],
     "outlook_next_decade": "The base case is modest growth with inflation near the 2% target and debt roughly stabilizing around 110% of GDP, though the drift back up since 2022 is a warning sign. The structural bets are energy transition, immigration-driven labor supply, and deepened trade ties with the USMCA. Key risks are a housing correction under higher rates, US tariff escalation (especially on autos and energy), and provincial-federal fiscal tension. Canada's credible institutions are its main asset; they are also what markets will punish if the debt path is allowed to keep rising.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 567.34,
+    "total_imports_usd_billion": 558.53,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 99.46
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 37.81
+      },
+      {
+        "rank": 3,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 22.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 21.36
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 14.47
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 38.59
+      },
+      {
+        "rank": 2,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 20.58
+      },
+      {
+        "rank": 3,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 20.22
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 17.4
+      },
+      {
+        "rank": 5,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 14.56
+      }
+    ]
   }
 }

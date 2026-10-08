@@ -158,5 +158,102 @@
     ],
     "outlook_next_decade": "Tourism has recovered and seabed-minerals exploration (manganese nodules) offers a possible second pillar, though commercial mining remains uncertain and environmentally contested. The 2025 China partnership signals a more contested geopolitical position between Wellington and Beijing. The base case is tourism-led growth with the familiar cyclone and pandemic tail risks.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 32.43,
+      "oda_loans_net_usd_million": -0.11
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 9.78,
+      "oda_loans_net_usd_million": -0.12
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 4.78,
+      "oda_loans_net_usd_million": -0.09
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 6.22,
+      "oda_loans_net_usd_million": -0.16
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 13.68,
+      "oda_loans_net_usd_million": -0.12
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 24.63,
+      "oda_loans_net_usd_million": -0.12
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 20.99,
+      "oda_loans_net_usd_million": 1.09
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 15.88,
+      "oda_loans_net_usd_million": -0.43
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 28.11,
+      "oda_loans_net_usd_million": -0.76
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 25.64,
+      "oda_loans_net_usd_million": -0.97
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 17.47,
+      "oda_loans_net_usd_million": -1.08
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 18.83,
+      "oda_loans_net_usd_million": -2.42
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 33.73,
+      "oda_loans_net_usd_million": -1.44
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 28.59,
+      "oda_loans_net_usd_million": -2.01
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

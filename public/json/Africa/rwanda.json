@@ -641,5 +641,102 @@
     ],
     "outlook_next_decade": "The base case is continued 7%+ growth with inflation contained and debt stabilizing near 65% of GDP, the strongest macro outlook in East Africa. Upside comes from services, conferences, and regional integration; downside is political: the development model depends on a closed political system whose succession is unplanned. Uncertainty is moderate on economics but high on politics, which is the long-term risk no macro framework can hedge.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 605.39,
+      "oda_loans_net_usd_million": -1208.28
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 619.09,
+      "oda_loans_net_usd_million": 84.4
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 795.32,
+      "oda_loans_net_usd_million": 60.12
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 820.03,
+      "oda_loans_net_usd_million": 36.55
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1033.09,
+      "oda_loans_net_usd_million": 34.6
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1263.21,
+      "oda_loans_net_usd_million": 188.03
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 878.64,
+      "oda_loans_net_usd_million": 37.54
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1086.29,
+      "oda_loans_net_usd_million": 60.37
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1035.03,
+      "oda_loans_net_usd_million": 228.62
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1089.12,
+      "oda_loans_net_usd_million": 310.89
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1150.47,
+      "oda_loans_net_usd_million": 402.28
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1231.33,
+      "oda_loans_net_usd_million": 423.15
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1119.7,
+      "oda_loans_net_usd_million": 427.4
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1168.28,
+      "oda_loans_net_usd_million": 425.51
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1625.01,
+      "oda_loans_net_usd_million": 858.93
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1330.32,
+      "oda_loans_net_usd_million": 385.78
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1073.94,
+      "oda_loans_net_usd_million": 256.41
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

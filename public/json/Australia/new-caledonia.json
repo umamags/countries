@@ -181,5 +181,102 @@
     ],
     "outlook_next_decade": "New Caledonia is the Pacific's most politically fragile economy: the 2024 riots showed the independence question is unresolved and the nickel model is broken at current prices. France will keep funding stability, but the institutional future (a new autonomy statute was under negotiation) is uncertain. The base case is French-supported stagnation with periodic unrest; any durable settlement requires both a political deal and a viable nickel future.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

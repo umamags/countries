@@ -1,0 +1,73 @@
+{
+  "country": "Kyrgyzstan",
+  "iso3": "KGZ",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 3.38,
+  "total_imports_usd_billion": 12.52,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 1.28
+    },
+    {
+      "rank": 2,
+      "hs_code": "2616",
+      "product": "Precious metal ores and concentrates",
+      "value_usd_billion": 0.2
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.11
+    },
+    {
+      "rank": 4,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 0.09
+    },
+    {
+      "rank": 5,
+      "hs_code": "7404",
+      "product": "Copper; waste and scrap",
+      "value_usd_billion": 0.08
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 2.77
+    },
+    {
+      "rank": 2,
+      "hs_code": "8422",
+      "product": "Dish washing machines; machinery for cleaning, drying, filling, closing, sealing,…",
+      "value_usd_billion": 1.04
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.77
+    },
+    {
+      "rank": 4,
+      "hs_code": "6004",
+      "product": "Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of…",
+      "value_usd_billion": 0.31
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 0.3
+    }
+  ]
+}

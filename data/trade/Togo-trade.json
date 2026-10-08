@@ -1,0 +1,73 @@
+{
+  "country": "Togo",
+  "iso3": "TGO",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 1.46,
+  "total_imports_usd_billion": 3.05,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2510",
+      "product": "Natural calcium phosphates; natural aluminium calcium phosphates and phosphatic chalk",
+      "value_usd_billion": 0.28
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.18
+    },
+    {
+      "rank": 3,
+      "hs_code": "3923",
+      "product": "Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other…",
+      "value_usd_billion": 0.09
+    },
+    {
+      "rank": 4,
+      "hs_code": "2304",
+      "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,…",
+      "value_usd_billion": 0.08
+    },
+    {
+      "rank": 5,
+      "hs_code": "3304",
+      "product": "Cosmetic and toilet preparations; beauty, make-up and skin care preparations (excluding…",
+      "value_usd_billion": 0.08
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.19
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.13
+    },
+    {
+      "rank": 3,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.12
+    },
+    {
+      "rank": 4,
+      "hs_code": "3901",
+      "product": "Polymers of ethylene, in primary forms",
+      "value_usd_billion": 0.11
+    },
+    {
+      "rank": 5,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.11
+    }
+  ]
+}

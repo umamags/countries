@@ -696,5 +696,163 @@
     ],
     "outlook_next_decade": "Thailand's base case is 2-3% growth on tourism recovery, EVs and electronics investment, with inflation hopefully returning to target and debt stabilizing below the ceiling. Structural drags are aging, household debt (near 90% of GDP), and political cycles that interrupt reform. Upside from supply-chain diversification (China+1) is real. Analytical assessment: macro stability is solid, but trend growth has downshifted and politics remains the wild card for fiscal discipline.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": -214.17,
+      "oda_loans_net_usd_million": -534.79
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": -303.85,
+      "oda_loans_net_usd_million": -585.36
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": -612.14,
+      "oda_loans_net_usd_million": -864.96
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": -28.15,
+      "oda_loans_net_usd_million": -250.24
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": -20.36,
+      "oda_loans_net_usd_million": -292.54
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": -134.12,
+      "oda_loans_net_usd_million": -444.01
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": -131.37,
+      "oda_loans_net_usd_million": -416.44
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 28.79,
+      "oda_loans_net_usd_million": -247.12
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 354.51,
+      "oda_loans_net_usd_million": 106.33
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 58.67,
+      "oda_loans_net_usd_million": -141.36
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 227.78,
+      "oda_loans_net_usd_million": 25.18
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 250.22,
+      "oda_loans_net_usd_million": 48.43
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": -419.29,
+      "oda_loans_net_usd_million": -585.73
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": -351.65,
+      "oda_loans_net_usd_million": -528.85
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 198.04,
+      "oda_loans_net_usd_million": -3.94
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 132.39,
+      "oda_loans_net_usd_million": -87.87
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 554.0,
+      "oda_loans_net_usd_million": 321.73
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 285.07,
+    "total_imports_usd_billion": 288.5,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 12.85
+      },
+      {
+        "rank": 2,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 10.25
+      },
+      {
+        "rank": 3,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 9.7
+      },
+      {
+        "rank": 4,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 9.52
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 8.87
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 32.18
+      },
+      {
+        "rank": 2,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 19.59
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 11.52
+      },
+      {
+        "rank": 4,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 7.92
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 7.21
+      }
+    ]
   }
 }

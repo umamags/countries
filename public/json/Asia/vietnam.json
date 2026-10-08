@@ -692,5 +692,163 @@
     ],
     "outlook_next_decade": "Vietnam's base case is 6% growth on FDI-led manufacturing, supply-chain diversification from China, and a young workforce, with low inflation and falling debt. Risks are middle-income transition challenges (productivity, skills), the anti-corruption campaign's chilling effect on administration, US tariff exposure given the large bilateral surplus, and climate vulnerability in the Mekong Delta. Analytical assessment: the macro framework is strong; the question is whether governance keeps pace with the economy's ambitions.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1690.1,
+      "oda_loans_net_usd_million": 787.99
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1621.58,
+      "oda_loans_net_usd_million": 626.36
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1760.19,
+      "oda_loans_net_usd_million": 679.51
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 2160.6,
+      "oda_loans_net_usd_million": 1211.43
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 2769.86,
+      "oda_loans_net_usd_million": 1741.7
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 3332.0,
+      "oda_loans_net_usd_million": 2276.98
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 4113.31,
+      "oda_loans_net_usd_million": 3090.45
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 4085.6,
+      "oda_loans_net_usd_million": 3069.48
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 4215.62,
+      "oda_loans_net_usd_million": 3325.55
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 3167.39,
+      "oda_loans_net_usd_million": 2408.95
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2906.07,
+      "oda_loans_net_usd_million": 2181.13
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 2407.49,
+      "oda_loans_net_usd_million": 1706.11
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1644.83,
+      "oda_loans_net_usd_million": 956.77
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1088.04,
+      "oda_loans_net_usd_million": 488.05
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1171.11,
+      "oda_loans_net_usd_million": 445.76
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 526.52,
+      "oda_loans_net_usd_million": -289.07
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 46.74,
+      "oda_loans_net_usd_million": -643.77
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 353.08,
+    "total_imports_usd_billion": 325.44,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 52.11
+      },
+      {
+        "rank": 2,
+        "hs_code": "8524",
+        "product": "Flat panel display modules, whether or not incorporating touch-sensitive screens",
+        "value_usd_billion": 19.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 12.25
+      },
+      {
+        "rank": 4,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 10.96
+      },
+      {
+        "rank": 5,
+        "hs_code": "8473",
+        "product": "Machinery; parts and accessories (other than covers, carrying cases and the like)\u2026",
+        "value_usd_billion": 8.85
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 48.09
+      },
+      {
+        "rank": 2,
+        "hs_code": "8524",
+        "product": "Flat panel display modules, whether or not incorporating touch-sensitive screens",
+        "value_usd_billion": 16.59
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 9.27
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 9.25
+      },
+      {
+        "rank": 5,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 7.31
+      }
+    ]
   }
 }

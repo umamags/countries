@@ -1,0 +1,73 @@
+{
+  "country": "Republic of the Congo",
+  "iso3": "COG",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 9.47,
+  "total_imports_usd_billion": 4.7,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 7.97
+    },
+    {
+      "rank": 2,
+      "hs_code": "8905",
+      "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of…",
+      "value_usd_billion": 0.51
+    },
+    {
+      "rank": 3,
+      "hs_code": "8901",
+      "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for…",
+      "value_usd_billion": 0.31
+    },
+    {
+      "rank": 4,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.16
+    },
+    {
+      "rank": 5,
+      "hs_code": "4407",
+      "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or…",
+      "value_usd_billion": 0.15
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8905",
+      "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of…",
+      "value_usd_billion": 0.69
+    },
+    {
+      "rank": 2,
+      "hs_code": "0207",
+      "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the…",
+      "value_usd_billion": 0.25
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.22
+    },
+    {
+      "rank": 4,
+      "hs_code": "7304",
+      "product": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel",
+      "value_usd_billion": 0.19
+    },
+    {
+      "rank": 5,
+      "hs_code": "8481",
+      "product": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the…",
+      "value_usd_billion": 0.15
+    }
+  ]
+}

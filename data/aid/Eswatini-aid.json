@@ -1,0 +1,96 @@
+{
+ "country": "Eswatini",
+ "iso3": "SWZ",
+ "oecd_code": "SWZ",
+ "period": "2006-2022",
+ "source": "OECD DAC2a, donor=All official donors (ALLD), accessed October 2026",
+ "unit": "USD million",
+ "note": "oda_loans_net = concessional ODA loans (net disbursements); non-concessional official loans (OOF) are not published in DAC2a",
+ "data": [
+  {
+   "year": 2006,
+   "oda_received_usd_million": 34.78,
+   "oda_loans_net_usd_million": 4.39
+  },
+  {
+   "year": 2007,
+   "oda_received_usd_million": 50.92,
+   "oda_loans_net_usd_million": -0.29
+  },
+  {
+   "year": 2008,
+   "oda_received_usd_million": 70.26,
+   "oda_loans_net_usd_million": -1.36
+  },
+  {
+   "year": 2009,
+   "oda_received_usd_million": 56.02,
+   "oda_loans_net_usd_million": -6.05
+  },
+  {
+   "year": 2010,
+   "oda_received_usd_million": 91.14,
+   "oda_loans_net_usd_million": -5.92
+  },
+  {
+   "year": 2011,
+   "oda_received_usd_million": 124.09,
+   "oda_loans_net_usd_million": -1.61
+  },
+  {
+   "year": 2012,
+   "oda_received_usd_million": 89.62,
+   "oda_loans_net_usd_million": 3.98
+  },
+  {
+   "year": 2013,
+   "oda_received_usd_million": 117.79,
+   "oda_loans_net_usd_million": -1.64
+  },
+  {
+   "year": 2014,
+   "oda_received_usd_million": 86.37,
+   "oda_loans_net_usd_million": -2.89
+  },
+  {
+   "year": 2015,
+   "oda_received_usd_million": 92.63,
+   "oda_loans_net_usd_million": -4.77
+  },
+  {
+   "year": 2016,
+   "oda_received_usd_million": 147.64,
+   "oda_loans_net_usd_million": 14.42
+  },
+  {
+   "year": 2017,
+   "oda_received_usd_million": 147.61,
+   "oda_loans_net_usd_million": -5.64
+  },
+  {
+   "year": 2018,
+   "oda_received_usd_million": 121.31,
+   "oda_loans_net_usd_million": 10.36
+  },
+  {
+   "year": 2019,
+   "oda_received_usd_million": 70.53,
+   "oda_loans_net_usd_million": -15.86
+  },
+  {
+   "year": 2020,
+   "oda_received_usd_million": 105.38,
+   "oda_loans_net_usd_million": -3.15
+  },
+  {
+   "year": 2021,
+   "oda_received_usd_million": 125.03,
+   "oda_loans_net_usd_million": 10.35
+  },
+  {
+   "year": 2022,
+   "oda_received_usd_million": 96.62,
+   "oda_loans_net_usd_million": -9.37
+  }
+ ]
+}

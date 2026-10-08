@@ -678,5 +678,163 @@
     ],
     "outlook_next_decade": "The base case is continued stagnation: debt near 80% of GDP, inflation near 5-7%, and growth too low to stabilize either without reforms the government refuses. Upside requires an IMF program and subsidy reform; downside is a disorderly debt event as domestic banks reach their absorption limits. Uncertainty is high: Tunisia's crisis is political, and the economics will not stabilize before the politics do.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 436.85,
+      "oda_loans_net_usd_million": 97.03
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 328.61,
+      "oda_loans_net_usd_million": -9.83
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 380.87,
+      "oda_loans_net_usd_million": 102.08
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 497.93,
+      "oda_loans_net_usd_million": 190.51
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 550.15,
+      "oda_loans_net_usd_million": 246.51
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 925.23,
+      "oda_loans_net_usd_million": 490.6
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1022.13,
+      "oda_loans_net_usd_million": 418.77
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 714.66,
+      "oda_loans_net_usd_million": 293.93
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 922.7,
+      "oda_loans_net_usd_million": 385.47
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 495.87,
+      "oda_loans_net_usd_million": 74.85
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 646.82,
+      "oda_loans_net_usd_million": 246.92
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 811.89,
+      "oda_loans_net_usd_million": 373.7
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 806.8,
+      "oda_loans_net_usd_million": 316.67
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 979.09,
+      "oda_loans_net_usd_million": 275.1
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 975.14,
+      "oda_loans_net_usd_million": 205.56
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1093.56,
+      "oda_loans_net_usd_million": 376.81
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1212.3,
+      "oda_loans_net_usd_million": 395.84
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 20.04,
+    "total_imports_usd_billion": 25.93,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 2.99
+      },
+      {
+        "rank": 2,
+        "hs_code": "1509",
+        "product": "Olive oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 1.21
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.79
+      },
+      {
+        "rank": 4,
+        "hs_code": "6211",
+        "product": "Track suits, swimwear and other garments (not knitted or crocheted)",
+        "value_usd_billion": 0.6
+      },
+      {
+        "rank": 5,
+        "hs_code": "6203",
+        "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts\u2026",
+        "value_usd_billion": 0.58
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.1
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.66
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.79
+      },
+      {
+        "rank": 5,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 0.59
+      }
+    ]
   }
 }

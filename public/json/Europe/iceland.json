@@ -690,5 +690,77 @@
     ],
     "outlook_next_decade": "Iceland's macro fundamentals are strong: low debt, flexible exchange rate, abundant renewable energy, and a recovered tourism sector. The persistent issue is above-target inflation, which keeps real rates high and the krona volatile \u2014 a structural feature of the small currency, not a policy failure. Growth prospects are solid on energy-intensive industry and fisheries; the binding risks are external shocks to tourism and the chronic inflation overshoot eroding competitiveness. Debt at 56% of GDP gives ample fiscal room.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 6.81,
+    "total_imports_usd_billion": 9.47,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7601",
+        "product": "Aluminium; unwrought",
+        "value_usd_billion": 2.09
+      },
+      {
+        "rank": 2,
+        "hs_code": "0304",
+        "product": "Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+        "value_usd_billion": 1.11
+      },
+      {
+        "rank": 3,
+        "hs_code": "0302",
+        "product": "Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.43
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.43
+      },
+      {
+        "rank": 5,
+        "hs_code": "0305",
+        "product": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the\u2026",
+        "value_usd_billion": 0.29
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.76
+      },
+      {
+        "rank": 3,
+        "hs_code": "2818",
+        "product": "Aluminium oxide (including artificial corundum); aluminium hydroxide",
+        "value_usd_billion": 0.61
+      },
+      {
+        "rank": 4,
+        "hs_code": "8545",
+        "product": "Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of\u2026",
+        "value_usd_billion": 0.55
+      },
+      {
+        "rank": 5,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 0.29
+      }
+    ]
   }
 }

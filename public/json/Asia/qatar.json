@@ -693,5 +693,163 @@
     ],
     "outlook_next_decade": "Qatar's outlook is strong: the North Field expansion will materially raise LNG output and revenues through the decade, debt should keep falling, and diversification (finance, sports, tourism) adds resilience. Risks are LNG-price cycles, regional tensions, and the long-run energy transition, though gas is better placed than oil. Analytical assessment: one of the world's most comfortable fiscal positions; the policy question is how productively the surplus is deployed, not whether it exists.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 97.75,
+    "total_imports_usd_billion": 31.43,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 59.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 16.86
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 8.54
+      },
+      {
+        "rank": 4,
+        "hs_code": "3901",
+        "product": "Polymers of ethylene, in primary forms",
+        "value_usd_billion": 2.27
+      },
+      {
+        "rank": 5,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 1.85
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8411",
+        "product": "Turbo-jets, turbo-propellers and other gas turbines",
+        "value_usd_billion": 2.32
+      },
+      {
+        "rank": 2,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 2.06
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.37
+      },
+      {
+        "rank": 4,
+        "hs_code": "8807",
+        "product": "Aircraft; parts of goods of heading 8801, 8802 or 8806",
+        "value_usd_billion": 1.17
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 1.0
+      }
+    ]
   }
 }

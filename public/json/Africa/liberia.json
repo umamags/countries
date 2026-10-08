@@ -635,5 +635,163 @@
     ],
     "outlook_next_decade": "The base case is slow IMF-anchored stabilization with inflation near 8% and debt around 55% of GDP. Upside comes from mining (iron ore) and agriculture if governance improves; downside is that the debt trajectory continues toward distress and another currency crisis. Uncertainty is moderate-to-high: the 2023 transfer was peaceful, but state capacity is extremely thin and the economy remains aid-dependent.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 260.91,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 294.97,
+      "oda_loans_net_usd_million": -6.11
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1245.81,
+      "oda_loans_net_usd_million": -18.23
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 468.26,
+      "oda_loans_net_usd_million": -0.71
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1416.11,
+      "oda_loans_net_usd_million": -235.98
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 762.25,
+      "oda_loans_net_usd_million": -208.19
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 566.71,
+      "oda_loans_net_usd_million": 39.61
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 535.93,
+      "oda_loans_net_usd_million": 55.11
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 749.59,
+      "oda_loans_net_usd_million": 131.92
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1094.46,
+      "oda_loans_net_usd_million": 165.05
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 819.18,
+      "oda_loans_net_usd_million": 137.63
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 631.59,
+      "oda_loans_net_usd_million": 112.75
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 593.95,
+      "oda_loans_net_usd_million": 103.77
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 581.22,
+      "oda_loans_net_usd_million": 119.95
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 652.41,
+      "oda_loans_net_usd_million": 156.99
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 606.33,
+      "oda_loans_net_usd_million": 116.16
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 483.52,
+      "oda_loans_net_usd_million": 100.99
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.15,
+    "total_imports_usd_billion": 2.16,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "4001",
+        "product": "Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms\u2026",
+        "value_usd_billion": 0.1
+      },
+      {
+        "rank": 2,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 3,
+        "hs_code": "1513",
+        "product": "Coconut (copra), palm kernel or babassu oil and their fractions; whether or not refined\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "1801",
+        "product": "Cocoa beans; whole or broken, raw or roasted",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.67
+      },
+      {
+        "rank": 2,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.24
+      },
+      {
+        "rank": 3,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 5,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.04
+      }
+    ]
   }
 }

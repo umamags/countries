@@ -1,0 +1,73 @@
+{
+  "country": "Lesotho",
+  "iso3": "LSO",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 0.83,
+  "total_imports_usd_billion": 1.72,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7102",
+      "product": "Diamonds, whether or not worked, but not mounted or set",
+      "value_usd_billion": 0.2
+    },
+    {
+      "rank": 2,
+      "hs_code": "2201",
+      "product": "Waters, including natural or artificial mineral waters and aerated waters, not containing…",
+      "value_usd_billion": 0.07
+    },
+    {
+      "rank": 3,
+      "hs_code": "6203",
+      "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts…",
+      "value_usd_billion": 0.07
+    },
+    {
+      "rank": 4,
+      "hs_code": "6104",
+      "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace…",
+      "value_usd_billion": 0.05
+    },
+    {
+      "rank": 5,
+      "hs_code": "6109",
+      "product": "T-shirts, singlets and other vests; knitted or crocheted",
+      "value_usd_billion": 0.05
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.22
+    },
+    {
+      "rank": 2,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.05
+    },
+    {
+      "rank": 3,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.04
+    },
+    {
+      "rank": 4,
+      "hs_code": "1102",
+      "product": "Cereal flours; other than of wheat or meslin",
+      "value_usd_billion": 0.04
+    },
+    {
+      "rank": 5,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.03
+    }
+  ]
+}

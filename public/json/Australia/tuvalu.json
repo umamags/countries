@@ -625,5 +625,102 @@
     ],
     "outlook_next_decade": "Fiscally, Tuvalu is the best-prepared Pacific microstate; physically, it is among the most exposed. The Falepili Union's migration pathway (280 places a year) is an orderly pressure valve, not a solution. Trust-fund returns and fishing fees should keep the budget sound barring a market crash. The central uncertainty is existential rather than economic: whether adaptation funding can keep the islands habitable, or whether the statehood-without-territory question the Falepili treaty anticipates becomes real.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 14.23,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 10.69,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 15.75,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 15.93,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 13.91,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 37.25,
+      "oda_loans_net_usd_million": -0.1
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 25.48,
+      "oda_loans_net_usd_million": -0.46
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 27.59,
+      "oda_loans_net_usd_million": -0.5
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 34.3,
+      "oda_loans_net_usd_million": -0.51
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 49.65,
+      "oda_loans_net_usd_million": -0.46
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 24.44,
+      "oda_loans_net_usd_million": -0.41
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 28.53,
+      "oda_loans_net_usd_million": -0.41
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 27.37,
+      "oda_loans_net_usd_million": -0.42
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 36.48,
+      "oda_loans_net_usd_million": -0.37
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 43.06,
+      "oda_loans_net_usd_million": -0.38
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 36.01,
+      "oda_loans_net_usd_million": -0.39
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 63.56,
+      "oda_loans_net_usd_million": -0.36
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

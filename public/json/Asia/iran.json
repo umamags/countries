@@ -702,5 +702,163 @@
     ],
     "outlook_next_decade": "Iran's economy will remain hostage to geopolitics: sanctions relief would unlock oil exports, investment, and disinflation, while continued confrontation keeps inflation high and growth stagnant. Domestic capacity in manufacturing and a young population offer upside under any opening. Analytical assessment must be heavily caveated: outcomes range from reintegration-driven recovery to further isolation and currency crisis, and data quality is weak. Debt is not the binding constraint; the exchange rate and inflation are.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 117.24,
+      "oda_loans_net_usd_million": -11.73
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 103.77,
+      "oda_loans_net_usd_million": -18.68
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 100.47,
+      "oda_loans_net_usd_million": -23.79
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 92.52,
+      "oda_loans_net_usd_million": -26.6
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 112.44,
+      "oda_loans_net_usd_million": -28.89
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 105.79,
+      "oda_loans_net_usd_million": -31.64
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 151.79,
+      "oda_loans_net_usd_million": -2.78
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 131.6,
+      "oda_loans_net_usd_million": -11.11
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 81.17,
+      "oda_loans_net_usd_million": -59.04
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 110.9,
+      "oda_loans_net_usd_million": -10.69
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 116.19,
+      "oda_loans_net_usd_million": -35.58
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 140.28,
+      "oda_loans_net_usd_million": -23.5
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 166.45,
+      "oda_loans_net_usd_million": -12.41
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 204.44,
+      "oda_loans_net_usd_million": -5.24
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 235.4,
+      "oda_loans_net_usd_million": -4.22
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 303.77,
+      "oda_loans_net_usd_million": -1.84
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 289.59,
+      "oda_loans_net_usd_million": -4.62
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 104.49,
+    "total_imports_usd_billion": 65.56,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 40.29
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 15.45
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 12.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "3901",
+        "product": "Polymers of ethylene, in primary forms",
+        "value_usd_billion": 2.99
+      },
+      {
+        "rank": 5,
+        "hs_code": "2905",
+        "product": "Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+        "value_usd_billion": 2.56
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 5.24
+      },
+      {
+        "rank": 2,
+        "hs_code": "1005",
+        "product": "Maize (corn)",
+        "value_usd_billion": 3.65
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 3.54
+      },
+      {
+        "rank": 4,
+        "hs_code": "1201",
+        "product": "Soya beans, whether or not broken",
+        "value_usd_billion": 2.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 1.52
+      }
+    ]
   }
 }

@@ -127,5 +127,16 @@
     ],
     "outlook_next_decade": "The islands' significance is strategic, not economic: expect further Australian defence infrastructure investment given Indian Ocean competition. The civilian economy will remain a small, subsidized community. Climate and sea-level risk to the low atolls is the main long-term threat to habitability.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

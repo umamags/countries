@@ -661,5 +661,163 @@
     ],
     "outlook_next_decade": "Jordan's outlook is constrained: debt is on an unsustainable trajectory without faster growth or deeper consolidation, and the economy is highly exposed to regional instability. IMF-backed reforms (tax, energy pricing) offer a path to stabilize debt, and tourism and ICT services provide upside. Water scarcity is a binding long-run constraint. Analytical assessment: muddling through with donor and IMF support is the base case; a regional escalation that hits tourism or aid would force sharper adjustment.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 573.57,
+      "oda_loans_net_usd_million": -40.41
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 634.06,
+      "oda_loans_net_usd_million": -149.92
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 736.63,
+      "oda_loans_net_usd_million": -56.04
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 732.03,
+      "oda_loans_net_usd_million": -58.23
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 954.75,
+      "oda_loans_net_usd_million": 121.08
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 974.1,
+      "oda_loans_net_usd_million": -73.34
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1157.5,
+      "oda_loans_net_usd_million": 87.98
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1400.33,
+      "oda_loans_net_usd_million": 43.67
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 2697.16,
+      "oda_loans_net_usd_million": 68.6
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 2141.05,
+      "oda_loans_net_usd_million": 201.99
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2727.97,
+      "oda_loans_net_usd_million": 255.45
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 2979.66,
+      "oda_loans_net_usd_million": 318.26
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 2526.1,
+      "oda_loans_net_usd_million": -26.29
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 2689.85,
+      "oda_loans_net_usd_million": 267.3
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 3114.46,
+      "oda_loans_net_usd_million": 673.78
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 3447.15,
+      "oda_loans_net_usd_million": 919.07
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1985.76,
+      "oda_loans_net_usd_million": 411.28
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 12.59,
+    "total_imports_usd_billion": 25.71,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "6114",
+        "product": "Garments; knitted or crocheted, n.e.c. in chapter 61",
+        "value_usd_billion": 1.86
+      },
+      {
+        "rank": 2,
+        "hs_code": "3104",
+        "product": "Fertilizers; mineral or chemical, potassic",
+        "value_usd_billion": 0.92
+      },
+      {
+        "rank": 3,
+        "hs_code": "2510",
+        "product": "Natural calcium phosphates; natural aluminium calcium phosphates and phosphatic chalk",
+        "value_usd_billion": 0.85
+      },
+      {
+        "rank": 4,
+        "hs_code": "2809",
+        "product": "Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically\u2026",
+        "value_usd_billion": 0.84
+      },
+      {
+        "rank": 5,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 0.82
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.83
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.63
+      },
+      {
+        "rank": 3,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.37
+      },
+      {
+        "rank": 4,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 1.24
+      },
+      {
+        "rank": 5,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.04
+      }
+    ]
   }
 }

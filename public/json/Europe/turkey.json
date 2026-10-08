@@ -692,5 +692,163 @@
     ],
     "outlook_next_decade": "Turkey's outlook hinges on whether the orthodox turn holds through the political cycle: disinflation from 72.3% to a projected 34.9% is real progress, but credibility is fragile and the 2028 election cycle is the test. The structural vulnerabilities \u2014 energy import dependence, private FX debt, the current-account deficit \u2014 are unchanged. Low public debt is a genuine buffer. The honest analytical assessment: the direction is right, the destination (single-digit inflation) is years away, and political risk is the dominant variable.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 569.26,
+      "oda_loans_net_usd_million": -29.64
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 801.54,
+      "oda_loans_net_usd_million": 30.09
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1123.36,
+      "oda_loans_net_usd_million": 454.32
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1356.97,
+      "oda_loans_net_usd_million": 371.77
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1049.59,
+      "oda_loans_net_usd_million": 555.73
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 3288.27,
+      "oda_loans_net_usd_million": 2616.26
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 3112.17,
+      "oda_loans_net_usd_million": 2346.0
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 2847.84,
+      "oda_loans_net_usd_million": 2082.6
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 3446.77,
+      "oda_loans_net_usd_million": 2467.4
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 2141.26,
+      "oda_loans_net_usd_million": 1004.81
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 3609.09,
+      "oda_loans_net_usd_million": 1322.83
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3159.28,
+      "oda_loans_net_usd_million": 1044.49
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1195.93,
+      "oda_loans_net_usd_million": -344.37
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 700.3,
+      "oda_loans_net_usd_million": -1219.83
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 542.3,
+      "oda_loans_net_usd_million": -1419.2
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1059.54,
+      "oda_loans_net_usd_million": -1573.23
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 800.28,
+      "oda_loans_net_usd_million": -1068.05
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 255.63,
+    "total_imports_usd_billion": 361.97,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 13.77
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 11.55
+      },
+      {
+        "rank": 3,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 8.38
+      },
+      {
+        "rank": 4,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 7.23
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 5.62
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 30.02
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 20.48
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 18.19
+      },
+      {
+        "rank": 4,
+        "hs_code": "7204",
+        "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+        "value_usd_billion": 7.6
+      },
+      {
+        "rank": 5,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 7.17
+      }
+    ]
   }
 }

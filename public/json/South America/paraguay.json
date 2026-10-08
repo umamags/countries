@@ -645,5 +645,163 @@
     ],
     "outlook_next_decade": "Paraguay's base case is the most boring in South America, and that is a compliment: inflation near target, debt near 38% of GDP, investment-grade ratings from two agencies, and steady 3.5-4% growth on agriculture, energy, and maquila manufacturing. Upside comes from Itaipu tariff renegotiation proceeds, green fertilizer and forestry investment, and deeper integration with Brazil and Argentina. The risks are climate (drought is a recurring GDP event, not a tail risk), commodity concentration, and whether the Fiscal Responsibility Law survives political pressure to spend the newfound credibility. Expect steady, not spectacular.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 68.99,
+      "oda_loans_net_usd_million": -1.19
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 122.16,
+      "oda_loans_net_usd_million": 6.22
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 140.05,
+      "oda_loans_net_usd_million": 11.48
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 163.16,
+      "oda_loans_net_usd_million": 11.29
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 112.36,
+      "oda_loans_net_usd_million": -40.35
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 79.98,
+      "oda_loans_net_usd_million": -45.54
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 104.57,
+      "oda_loans_net_usd_million": -12.17
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 130.71,
+      "oda_loans_net_usd_million": 28.44
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 62.42,
+      "oda_loans_net_usd_million": -17.87
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 60.18,
+      "oda_loans_net_usd_million": -35.26
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 88.54,
+      "oda_loans_net_usd_million": -0.96
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 142.75,
+      "oda_loans_net_usd_million": 37.81
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 164.64,
+      "oda_loans_net_usd_million": 63.3
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 127.45,
+      "oda_loans_net_usd_million": 25.94
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 304.73,
+      "oda_loans_net_usd_million": 136.95
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 175.14,
+      "oda_loans_net_usd_million": 54.23
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 96.72,
+      "oda_loans_net_usd_million": 1.8
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 11.87,
+    "total_imports_usd_billion": 16.13,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "1201",
+        "product": "Soya beans, whether or not broken",
+        "value_usd_billion": 3.42
+      },
+      {
+        "rank": 2,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 1.55
+      },
+      {
+        "rank": 3,
+        "hs_code": "2304",
+        "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,\u2026",
+        "value_usd_billion": 0.89
+      },
+      {
+        "rank": 4,
+        "hs_code": "0201",
+        "product": "Meat of bovine animals; fresh or chilled",
+        "value_usd_billion": 0.8
+      },
+      {
+        "rank": 5,
+        "hs_code": "1005",
+        "product": "Maize (corn)",
+        "value_usd_billion": 0.75
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 2.08
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.98
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.55
+      },
+      {
+        "rank": 4,
+        "hs_code": "3808",
+        "product": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth\u2026",
+        "value_usd_billion": 0.43
+      },
+      {
+        "rank": 5,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 0.41
+      }
+    ]
   }
 }

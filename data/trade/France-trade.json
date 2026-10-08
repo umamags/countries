@@ -1,0 +1,73 @@
+{
+  "country": "France",
+  "iso3": "FRA",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 660.45,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8802",
+      "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.…",
+      "value_usd_billion": 30.71
+    },
+    {
+      "rank": 2,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 27.09
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 24.81
+    },
+    {
+      "rank": 4,
+      "hs_code": "8411",
+      "product": "Turbo-jets, turbo-propellers and other gas turbines",
+      "value_usd_billion": 20.88
+    },
+    {
+      "rank": 5,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 14.98
+    }
+  ],
+  "total_imports_usd_billion": 803.97,
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 46.52
+    },
+    {
+      "rank": 2,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 41.11
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 36.97
+    },
+    {
+      "rank": 4,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 31.53
+    },
+    {
+      "rank": 5,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 19.82
+    }
+  ]
+}

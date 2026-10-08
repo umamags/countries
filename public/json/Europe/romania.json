@@ -669,5 +669,163 @@
     ],
     "outlook_next_decade": "Romania's outlook is the EU's most fiscally challenged: the combination of 7.3% projected inflation and 60.6% projected debt with persistent deficits is a genuine policy failure, not bad luck. The new government's consolidation plan is the variable to watch \u2014 credibility will be judged on delivery, not announcements. EU funds and a large domestic market support growth, but fiscal dominance will keep inflation above target until deficits are cut. The analytical assessment: fixable, but the window for painless adjustment is closing.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 100.64,
+    "total_imports_usd_billion": 131.96,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 7.75
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 6.91
+      },
+      {
+        "rank": 3,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 4.4
+      },
+      {
+        "rank": 4,
+        "hs_code": "8537",
+        "product": "Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536\u2026",
+        "value_usd_billion": 3.87
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.62
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 5.37
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 4.46
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 4.28
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 4.27
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 3.48
+      }
+    ]
   }
 }

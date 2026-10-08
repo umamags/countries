@@ -696,5 +696,77 @@
     ],
     "outlook_next_decade": "Greece's outlook is the euro area's best turnaround story: primary surpluses, falling debt, investment-grade status, and strong tourism and shipping. The debt ratio will keep falling on growth and repayments, though 145.7% projected for 2025 remains very high. Risks are the external ones \u2014 a euro-area slowdown or tourism shock \u2014 and whether reform momentum survives political cycles. Inflation should converge to target. The decade's honest assessment: repaired, credible, but still leveraged.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 55.05,
+    "total_imports_usd_billion": 88.61,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 14.6
+      },
+      {
+        "rank": 2,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 2.88
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.61
+      },
+      {
+        "rank": 4,
+        "hs_code": "1509",
+        "product": "Olive oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 1.26
+      },
+      {
+        "rank": 5,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 1.18
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 13.86
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 4.78
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 4.45
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 3.22
+      },
+      {
+        "rank": 5,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 2.99
+      }
+    ]
   }
 }

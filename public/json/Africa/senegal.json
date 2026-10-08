@@ -713,5 +713,163 @@
     ],
     "outlook_next_decade": "The base case is a long, painful workout: oil and gas revenues (Sangomar, GTA) will help, but debt near 130% of GDP requires years of primary surpluses and the political will to sustain them. Upside is a successful IMF program restoring market access; downside is restructuring, which the government has resisted. Uncertainty is high: the hidden-debt revelation destroyed fiscal credibility, and rebuilding it will take longer than the numbers suggest.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 869.36,
+      "oda_loans_net_usd_million": -2251.15
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 732.65,
+      "oda_loans_net_usd_million": 127.77
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 932.34,
+      "oda_loans_net_usd_million": 127.64
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 884.8,
+      "oda_loans_net_usd_million": 196.33
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 936.4,
+      "oda_loans_net_usd_million": 286.73
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1054.6,
+      "oda_loans_net_usd_million": 341.23
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1075.77,
+      "oda_loans_net_usd_million": 396.48
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 994.42,
+      "oda_loans_net_usd_million": 301.44
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1108.68,
+      "oda_loans_net_usd_million": 330.5
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 869.4,
+      "oda_loans_net_usd_million": 183.94
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 731.16,
+      "oda_loans_net_usd_million": 205.51
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 908.15,
+      "oda_loans_net_usd_million": 381.78
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 999.02,
+      "oda_loans_net_usd_million": 339.67
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1438.1,
+      "oda_loans_net_usd_million": 844.19
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1612.02,
+      "oda_loans_net_usd_million": 705.92
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1389.4,
+      "oda_loans_net_usd_million": 610.76
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1453.24,
+      "oda_loans_net_usd_million": 735.57
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 5.32,
+    "total_imports_usd_billion": 11.88,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.1
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.87
+      },
+      {
+        "rank": 3,
+        "hs_code": "2809",
+        "product": "Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically\u2026",
+        "value_usd_billion": 0.44
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 5,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.18
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.95
+      },
+      {
+        "rank": 3,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.5
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.3
+      }
+    ]
   }
 }

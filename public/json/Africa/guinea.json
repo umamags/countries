@@ -650,5 +650,102 @@
     ],
     "outlook_next_decade": "The base case is a mining-driven boom: Simandou and bauxite could make Guinea one of Africa's fastest-growing economies, with debt sustainable and inflation low. Upside is transformational if revenues are invested; downside is the resource curse plus political risk, a return to the instability that has wasted previous windfalls. Uncertainty is high: the economics are excellent, the politics are the variable.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 173.12,
+      "oda_loans_net_usd_million": -35.14
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 206.08,
+      "oda_loans_net_usd_million": -5.53
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 317.89,
+      "oda_loans_net_usd_million": -9.8
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 242.97,
+      "oda_loans_net_usd_million": -14.24
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 220.97,
+      "oda_loans_net_usd_million": -14.82
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 202.12,
+      "oda_loans_net_usd_million": -137.37
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 633.18,
+      "oda_loans_net_usd_million": -15.68
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 467.42,
+      "oda_loans_net_usd_million": -122.57
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 563.12,
+      "oda_loans_net_usd_million": 117.08
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 539.4,
+      "oda_loans_net_usd_million": 32.68
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 566.98,
+      "oda_loans_net_usd_million": 89.19
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 472.24,
+      "oda_loans_net_usd_million": 53.64
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 653.99,
+      "oda_loans_net_usd_million": 213.72
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 562.08,
+      "oda_loans_net_usd_million": 160.13
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 725.79,
+      "oda_loans_net_usd_million": 322.14
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 592.09,
+      "oda_loans_net_usd_million": 148.71
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 500.64,
+      "oda_loans_net_usd_million": 131.59
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

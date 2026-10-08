@@ -654,5 +654,163 @@
     ],
     "outlook_next_decade": "The base case is continued moderate growth with inflation near 7-8% and debt around 50% of GDP, all hostage to climate. Upside comes from mining (nickel, cobalt) and tourism; downside is the next cyclone or drought, which regularly wipes out a year's gains. Uncertainty is moderate: the macro framework is stable, but Madagascar's economy is among the world's most climate-vulnerable, and that dominates the outlook.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 784.41,
+      "oda_loans_net_usd_million": -2266.35
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 688.13,
+      "oda_loans_net_usd_million": 53.7
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 631.56,
+      "oda_loans_net_usd_million": 133.27
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 399.1,
+      "oda_loans_net_usd_million": 36.88
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 477.31,
+      "oda_loans_net_usd_million": 99.68
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 447.28,
+      "oda_loans_net_usd_million": 110.46
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 368.49,
+      "oda_loans_net_usd_million": 62.26
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 499.28,
+      "oda_loans_net_usd_million": -43.32
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 588.12,
+      "oda_loans_net_usd_million": 176.44
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 677.51,
+      "oda_loans_net_usd_million": 232.47
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 621.58,
+      "oda_loans_net_usd_million": 133.47
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 779.04,
+      "oda_loans_net_usd_million": 261.87
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 755.01,
+      "oda_loans_net_usd_million": 198.15
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 732.31,
+      "oda_loans_net_usd_million": 179.41
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1298.69,
+      "oda_loans_net_usd_million": 615.32
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1068.26,
+      "oda_loans_net_usd_million": 398.38
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1003.1,
+      "oda_loans_net_usd_million": 253.4
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 3.28,
+    "total_imports_usd_billion": 4.82,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7502",
+        "product": "Nickel; unwrought",
+        "value_usd_billion": 0.82
+      },
+      {
+        "rank": 2,
+        "hs_code": "0905",
+        "product": "Vanilla",
+        "value_usd_billion": 0.27
+      },
+      {
+        "rank": 3,
+        "hs_code": "0907",
+        "product": "Cloves (whole fruit, cloves and stems)",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 4,
+        "hs_code": "2614",
+        "product": "Titanium ores and concentrates",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 5,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.12
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.9
+      },
+      {
+        "rank": 2,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 3,
+        "hs_code": "6006",
+        "product": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04",
+        "value_usd_billion": 0.12
+      },
+      {
+        "rank": 4,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.12
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.11
+      }
+    ]
   }
 }

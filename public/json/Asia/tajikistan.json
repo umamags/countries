@@ -653,5 +653,163 @@
     ],
     "outlook_next_decade": "Tajikistan's base case is 6-7% growth on remittances, aluminum, and hydropower (Rogun's completion would transform electricity exports), with debt continuing to fall. Risks are Russia dependence (remittances, labor migration), Rogun cost overruns, authoritarian succession questions, and water tensions with downstream neighbors. Analytical assessment: the macro numbers are improving, but the economy's narrow base and governance concentration keep vulnerability high.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 206.81,
+      "oda_loans_net_usd_million": -63.41
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 157.72,
+      "oda_loans_net_usd_million": 4.45
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 205.63,
+      "oda_loans_net_usd_million": -20.64
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 251.77,
+      "oda_loans_net_usd_million": 49.95
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 387.95,
+      "oda_loans_net_usd_million": 89.3
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 282.13,
+      "oda_loans_net_usd_million": 39.31
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 394.23,
+      "oda_loans_net_usd_million": 74.68
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 390.55,
+      "oda_loans_net_usd_million": 16.19
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 356.46,
+      "oda_loans_net_usd_million": -2.95
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 432.25,
+      "oda_loans_net_usd_million": -11.2
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 359.73,
+      "oda_loans_net_usd_million": 6.42
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 328.19,
+      "oda_loans_net_usd_million": 11.97
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 403.75,
+      "oda_loans_net_usd_million": 41.2
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 361.67,
+      "oda_loans_net_usd_million": 23.68
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 714.39,
+      "oda_loans_net_usd_million": 218.87
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 556.09,
+      "oda_loans_net_usd_million": 76.33
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 593.22,
+      "oda_loans_net_usd_million": 44.73
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 1.26,
+    "total_imports_usd_billion": 4.25,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "5201",
+        "product": "Cotton; not carded or combed",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 2,
+        "hs_code": "2616",
+        "product": "Precious metal ores and concentrates",
+        "value_usd_billion": 0.15
+      },
+      {
+        "rank": 3,
+        "hs_code": "7601",
+        "product": "Aluminium; unwrought",
+        "value_usd_billion": 0.13
+      },
+      {
+        "rank": 4,
+        "hs_code": "8110",
+        "product": "Antimony; articles thereof, including waste and scrap",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.1
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.5
+      },
+      {
+        "rank": 2,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.29
+      },
+      {
+        "rank": 3,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.15
+      },
+      {
+        "rank": 4,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 5,
+        "hs_code": "7214",
+        "product": "Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot\u2026",
+        "value_usd_billion": 0.11
+      }
+    ]
   }
 }

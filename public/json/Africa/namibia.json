@@ -703,5 +703,163 @@
     ],
     "outlook_next_decade": "The base case is continued slow growth with debt near 70% of GDP and inflation anchored by the rand peg. The wildcard is oil: if the 2022 discoveries reach production late this decade, revenues could transform the fiscal picture; if gas-heavy fields prove uneconomic, the debt trajectory continues. Upside is an oil boom well-managed; downside is debt distress without it. Uncertainty is moderate-to-high, hinging on geology and investment decisions outside Namibia's control.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 149.33,
+      "oda_loans_net_usd_million": -9.59
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 220.85,
+      "oda_loans_net_usd_million": 6.68
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 205.49,
+      "oda_loans_net_usd_million": 9.54
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 331.13,
+      "oda_loans_net_usd_million": 74.37
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 261.33,
+      "oda_loans_net_usd_million": 20.88
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 278.21,
+      "oda_loans_net_usd_million": 40.79
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 252.44,
+      "oda_loans_net_usd_million": -29.16
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 261.04,
+      "oda_loans_net_usd_million": -34.18
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 226.22,
+      "oda_loans_net_usd_million": -39.48
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 142.38,
+      "oda_loans_net_usd_million": -9.72
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 170.19,
+      "oda_loans_net_usd_million": -0.17
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 190.45,
+      "oda_loans_net_usd_million": -1.03
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 159.5,
+      "oda_loans_net_usd_million": -18.51
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 144.26,
+      "oda_loans_net_usd_million": 10.47
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 180.31,
+      "oda_loans_net_usd_million": -7.62
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 182.59,
+      "oda_loans_net_usd_million": -12.47
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 325.31,
+      "oda_loans_net_usd_million": 112.26
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 5.53,
+    "total_imports_usd_billion": 7.3,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 1.31
+      },
+      {
+        "rank": 2,
+        "hs_code": "2612",
+        "product": "Uranium or thorium ores and concentrates",
+        "value_usd_billion": 0.78
+      },
+      {
+        "rank": 3,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.62
+      },
+      {
+        "rank": 4,
+        "hs_code": "0304",
+        "product": "Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+        "value_usd_billion": 0.36
+      },
+      {
+        "rank": 5,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.35
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.49
+      },
+      {
+        "rank": 2,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.28
+      },
+      {
+        "rank": 3,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 5,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 0.11
+      }
+    ]
   }
 }

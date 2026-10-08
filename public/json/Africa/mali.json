@@ -662,5 +662,163 @@
     ],
     "outlook_next_decade": "The outlook is dominated by security and geopolitics, not macroeconomics: debt near 42% of GDP and low inflation are manageable only if the state stabilizes. The base case is continued fragility with gold (the main export) funding the budget. Upside is limited to a security turnaround; downside includes deeper isolation and conflict-driven fiscal collapse. Uncertainty is very high, and projections are conditional on the junta's trajectory.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 869.2,
+      "oda_loans_net_usd_million": -1788.95
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 870.47,
+      "oda_loans_net_usd_million": 50.12
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 854.62,
+      "oda_loans_net_usd_million": 88.17
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 818.75,
+      "oda_loans_net_usd_million": 60.37
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1091.46,
+      "oda_loans_net_usd_million": 223.93
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1267.62,
+      "oda_loans_net_usd_million": 269.11
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 995.58,
+      "oda_loans_net_usd_million": 82.93
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1397.52,
+      "oda_loans_net_usd_million": 248.32
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1235.84,
+      "oda_loans_net_usd_million": 159.28
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1201.64,
+      "oda_loans_net_usd_million": 231.82
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1205.12,
+      "oda_loans_net_usd_million": 181.58
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1360.06,
+      "oda_loans_net_usd_million": 274.25
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1556.93,
+      "oda_loans_net_usd_million": 322.39
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1815.85,
+      "oda_loans_net_usd_million": 578.93
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1566.2,
+      "oda_loans_net_usd_million": 394.48
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1437.38,
+      "oda_loans_net_usd_million": 137.14
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1200.04,
+      "oda_loans_net_usd_million": 71.47
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 4.01,
+    "total_imports_usd_billion": 6.42,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 3.07
+      },
+      {
+        "rank": 2,
+        "hs_code": "5203",
+        "product": "Cotton, carded or combed",
+        "value_usd_billion": 0.32
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 4,
+        "hs_code": "0102",
+        "product": "Bovine animals; live",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 5,
+        "hs_code": "0104",
+        "product": "Sheep and goats; live",
+        "value_usd_billion": 0.06
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.26
+      },
+      {
+        "rank": 2,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.3
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.23
+      },
+      {
+        "rank": 4,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 5,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.16
+      }
+    ]
   }
 }

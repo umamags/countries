@@ -141,5 +141,102 @@
     ],
     "outlook_next_decade": "Niue will remain a subsidized microstate; the realistic goal is not growth but viability - keeping population from declining further through tourism, remote-work visas and domain income. New Zealand's backing is assured. Climate resilience for water and the single hospital-scale infrastructure is the practical agenda. Expect quiet stability, not economic takeoff.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 9.03,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 14.77,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 18.04,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 7.31,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 15.19,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 20.85,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 20.12,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 18.29,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 13.63,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 19.58,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 13.69,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 14.78,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 18.92,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 18.84,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 22.32,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 28.03,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 24.5,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

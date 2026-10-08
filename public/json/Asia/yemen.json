@@ -699,5 +699,163 @@
     ],
     "outlook_next_decade": "Yemen's outlook depends on a political settlement that remains elusive: the base case is continued fragmentation with humanitarian crisis as the defining feature. A durable truce and unified economic institutions could unlock recovery given oil and gas potential and the port of Aden, but that requires compromises not yet visible. Analytical assessment must be heavily caveated: the IMF has no debt data and the economy is split between rival authorities, so even the direction of travel is uncertain. Famine risk remains the central fact.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 287.81,
+      "oda_loans_net_usd_million": 79.15
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 154.97,
+      "oda_loans_net_usd_million": -80.22
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 330.04,
+      "oda_loans_net_usd_million": 0.42
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 353.29,
+      "oda_loans_net_usd_million": 35.82
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 667.08,
+      "oda_loans_net_usd_million": 79.9
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 477.55,
+      "oda_loans_net_usd_million": -50.72
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 711.82,
+      "oda_loans_net_usd_million": 58.01
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1039.63,
+      "oda_loans_net_usd_million": -22.45
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1163.44,
+      "oda_loans_net_usd_million": 240.32
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1778.41,
+      "oda_loans_net_usd_million": -73.69
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2301.11,
+      "oda_loans_net_usd_million": -74.71
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3234.01,
+      "oda_loans_net_usd_million": -62.4
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 7985.35,
+      "oda_loans_net_usd_million": -72.01
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 3758.93,
+      "oda_loans_net_usd_million": -58.36
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 2548.28,
+      "oda_loans_net_usd_million": -99.55
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 3889.74,
+      "oda_loans_net_usd_million": -74.02
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 3636.91,
+      "oda_loans_net_usd_million": 212.54
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.47,
+    "total_imports_usd_billion": 1.87,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7118",
+        "product": "Coin",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 2,
+        "hs_code": "0302",
+        "product": "Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 3,
+        "hs_code": "0307",
+        "product": "Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 4,
+        "hs_code": "0703",
+        "product": "Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 5,
+        "hs_code": "0804",
+        "product": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",
+        "value_usd_billion": 0.02
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 2,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.16
+      },
+      {
+        "rank": 3,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 5,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.08
+      }
+    ]
   }
 }

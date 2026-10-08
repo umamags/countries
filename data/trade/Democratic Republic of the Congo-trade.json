@@ -1,0 +1,73 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "iso3": "COD",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 27.73,
+  "total_imports_usd_billion": 25.53,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7403",
+      "product": "Copper; refined and copper alloys, unwrought",
+      "value_usd_billion": 17.02
+    },
+    {
+      "rank": 2,
+      "hs_code": "2822",
+      "product": "Cobalt oxides and hydroxides; commercial cobalt oxides",
+      "value_usd_billion": 4.78
+    },
+    {
+      "rank": 3,
+      "hs_code": "2603",
+      "product": "Copper ores and concentrates",
+      "value_usd_billion": 2.16
+    },
+    {
+      "rank": 4,
+      "hs_code": "7402",
+      "product": "Copper; unrefined, copper anodes for electrolytic refining",
+      "value_usd_billion": 1.41
+    },
+    {
+      "rank": 5,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 1.33
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 9.04
+    },
+    {
+      "rank": 2,
+      "hs_code": "2503",
+      "product": "Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",
+      "value_usd_billion": 1.61
+    },
+    {
+      "rank": 3,
+      "hs_code": "8474",
+      "product": "Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or…",
+      "value_usd_billion": 0.84
+    },
+    {
+      "rank": 4,
+      "hs_code": "7308",
+      "product": "Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections,…",
+      "value_usd_billion": 0.76
+    },
+    {
+      "rank": 5,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.74
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Malaysia",
+  "iso3": "MYS",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 312.61,
+  "total_imports_usd_billion": 265.64,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8542",
+      "product": "Electronic integrated circuits",
+      "value_usd_billion": 74.73
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 29.35
+    },
+    {
+      "rank": 3,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 14.57
+    },
+    {
+      "rank": 4,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 11.9
+    },
+    {
+      "rank": 5,
+      "hs_code": "8541",
+      "product": "Semiconductor devices (e.g. diodes, transistors, semiconductor based transducers);…",
+      "value_usd_billion": 10.23
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8542",
+      "product": "Electronic integrated circuits",
+      "value_usd_billion": 43.92
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 28.56
+    },
+    {
+      "rank": 3,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 13.53
+    },
+    {
+      "rank": 4,
+      "hs_code": "2701",
+      "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+      "value_usd_billion": 5.2
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 4.76
+    }
+  ]
+}

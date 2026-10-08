@@ -189,5 +189,102 @@
     ],
     "outlook_next_decade": "North Korea's economic outlook is unknowable with any precision: it depends on sanctions policy, relations with China and Russia, and agricultural outcomes, none of which can be modeled from data that do not exist. The base case is continued stagnation with periodic food insecurity. Any opening, however unlikely, would reveal an economy far behind its neighbors. This assessment is necessarily qualitative given the complete absence of IMF data.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 55.18,
+      "oda_loans_net_usd_million": 3.69
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 99.57,
+      "oda_loans_net_usd_million": -4.79
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 206.23,
+      "oda_loans_net_usd_million": -1.27
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 65.22,
+      "oda_loans_net_usd_million": -2.03
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 78.83,
+      "oda_loans_net_usd_million": 2.62
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 118.49,
+      "oda_loans_net_usd_million": 2.75
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 97.87,
+      "oda_loans_net_usd_million": 3.43
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 109.1,
+      "oda_loans_net_usd_million": -0.4
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 153.53,
+      "oda_loans_net_usd_million": -1.09
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 131.43,
+      "oda_loans_net_usd_million": 1.7
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 119.65,
+      "oda_loans_net_usd_million": -1.87
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 133.12,
+      "oda_loans_net_usd_million": 4.21
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 120.51,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 134.06,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 124.91,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 20.13,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 12.49,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

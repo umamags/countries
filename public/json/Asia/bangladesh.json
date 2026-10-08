@@ -703,5 +703,102 @@
     ],
     "outlook_next_decade": "The base case is continued 5-6% growth on garments, remittances, and a demographic dividend, with inflation gradually returning toward 6% if the IMF program stays on track. Key risks are political instability delaying reforms, climate vulnerability (floods, cyclones), and graduation from least-developed-country trade preferences. Debt is sustainable, but revenue mobilization must rise to fund infrastructure and social spending. External financing needs bear watching given the thin reserve buffer.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1027.82,
+      "oda_loans_net_usd_million": 41.95
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 887.99,
+      "oda_loans_net_usd_million": -193.37
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1142.31,
+      "oda_loans_net_usd_million": -816.74
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 978.77,
+      "oda_loans_net_usd_million": -94.29
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1327.33,
+      "oda_loans_net_usd_million": 42.26
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1437.52,
+      "oda_loans_net_usd_million": 103.17
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 2154.05,
+      "oda_loans_net_usd_million": 851.86
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 2633.59,
+      "oda_loans_net_usd_million": 1088.26
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 2422.64,
+      "oda_loans_net_usd_million": 1091.38
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 2592.91,
+      "oda_loans_net_usd_million": 1455.62
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2532.82,
+      "oda_loans_net_usd_million": 1428.18
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3781.77,
+      "oda_loans_net_usd_million": 2441.41
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 3044.76,
+      "oda_loans_net_usd_million": 1525.5
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 4381.59,
+      "oda_loans_net_usd_million": 2652.57
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 5374.78,
+      "oda_loans_net_usd_million": 3614.95
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 5089.11,
+      "oda_loans_net_usd_million": 3265.09
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 5203.45,
+      "oda_loans_net_usd_million": 3639.7
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

@@ -704,5 +704,163 @@
     ],
     "outlook_next_decade": "Iraq's outlook is an oil-price forecast with political risk attached: high prices mean surpluses and falling debt, low prices mean renewed fiscal crisis, and the historical pattern favors the latter arriving eventually. Diversification away from oil remains rhetorical, the public wage bill keeps growing, and political fragmentation blocks reform. Water scarcity and climate stress add a slow-burn risk. Analytical assessment: expect repeated boom-bust cycles with debt ratcheting higher each time unless a stabilization mechanism is built.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 8889.32,
+      "oda_loans_net_usd_million": -25.47
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 9204.34,
+      "oda_loans_net_usd_million": -46.67
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 9872.25,
+      "oda_loans_net_usd_million": -164.66
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 2756.54,
+      "oda_loans_net_usd_million": 25.31
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 2178.33,
+      "oda_loans_net_usd_million": 187.9
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1914.69,
+      "oda_loans_net_usd_million": 396.02
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1300.88,
+      "oda_loans_net_usd_million": 397.34
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1541.54,
+      "oda_loans_net_usd_million": 738.82
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1369.27,
+      "oda_loans_net_usd_million": 388.73
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1482.94,
+      "oda_loans_net_usd_million": 309.33
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2287.9,
+      "oda_loans_net_usd_million": 561.0
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 2907.51,
+      "oda_loans_net_usd_million": 818.28
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 2300.61,
+      "oda_loans_net_usd_million": 402.22
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 2090.97,
+      "oda_loans_net_usd_million": 245.37
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 2359.53,
+      "oda_loans_net_usd_million": 636.82
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1810.68,
+      "oda_loans_net_usd_million": 274.17
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1569.81,
+      "oda_loans_net_usd_million": 604.32
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 105.73,
+    "total_imports_usd_billion": 24.62,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 97.57
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 7.43
+      },
+      {
+        "rank": 3,
+        "hs_code": "1508",
+        "product": "Ground nut oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.46
+      },
+      {
+        "rank": 4,
+        "hs_code": "0804",
+        "product": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",
+        "value_usd_billion": 0.08
+      },
+      {
+        "rank": 5,
+        "hs_code": "2715",
+        "product": "Bituminous mixtures based on natural asphalt; on natural bitumen, on petroleum bitumen,\u2026",
+        "value_usd_billion": 0.07
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 4.33
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.29
+      },
+      {
+        "rank": 3,
+        "hs_code": "8430",
+        "product": "Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or\u2026",
+        "value_usd_billion": 1.82
+      },
+      {
+        "rank": 4,
+        "hs_code": "3003",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) of two or more constituents\u2026",
+        "value_usd_billion": 0.9
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.85
+      }
+    ]
   }
 }

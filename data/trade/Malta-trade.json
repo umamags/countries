@@ -1,0 +1,73 @@
+{
+  "country": "Malta",
+  "iso3": "MLT",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 3.47,
+  "total_imports_usd_billion": 8.39,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8542",
+      "product": "Electronic integrated circuits",
+      "value_usd_billion": 0.96
+    },
+    {
+      "rank": 2,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.4
+    },
+    {
+      "rank": 3,
+      "hs_code": "4907",
+      "product": "Unused postage, revenue or similar stamps of current or new issue in the country in which…",
+      "value_usd_billion": 0.3
+    },
+    {
+      "rank": 4,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.18
+    },
+    {
+      "rank": 5,
+      "hs_code": "0304",
+      "product": "Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+      "value_usd_billion": 0.14
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.04
+    },
+    {
+      "rank": 2,
+      "hs_code": "8903",
+      "product": "Yachts and other vessels; for pleasure or sports, rowing boats and canoes",
+      "value_usd_billion": 0.73
+    },
+    {
+      "rank": 3,
+      "hs_code": "8542",
+      "product": "Electronic integrated circuits",
+      "value_usd_billion": 0.68
+    },
+    {
+      "rank": 4,
+      "hs_code": "8802",
+      "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.…",
+      "value_usd_billion": 0.49
+    },
+    {
+      "rank": 5,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.37
+    }
+  ]
+}

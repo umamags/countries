@@ -651,5 +651,163 @@
     ],
     "outlook_next_decade": "Timor-Leste's outlook hinges on Greater Sunrise: if the gas field is developed, revenues extend the Petroleum Fund for decades; if not, the fund depletes and the state faces a fiscal cliff. Non-oil growth (coffee, tourism) is too small to fill the gap. Analytical assessment: the base case must assume continued large fund withdrawals with a hard deadline approaching; diversification has been promised for twenty years with little to show. Honest uncertainty about Sunrise timing dominates everything.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 209.14,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 276.71,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 266.57,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 208.59,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 289.95,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 275.72,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 283.64,
+      "oda_loans_net_usd_million": 0.01
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 258.57,
+      "oda_loans_net_usd_million": 2.29
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 249.54,
+      "oda_loans_net_usd_million": 6.39
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 212.29,
+      "oda_loans_net_usd_million": 12.59
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 223.7,
+      "oda_loans_net_usd_million": 15.14
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 231.96,
+      "oda_loans_net_usd_million": 20.0
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 207.65,
+      "oda_loans_net_usd_million": 19.14
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 229.9,
+      "oda_loans_net_usd_million": 28.65
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 249.95,
+      "oda_loans_net_usd_million": 17.89
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 255.34,
+      "oda_loans_net_usd_million": 13.29
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 223.36,
+      "oda_loans_net_usd_million": 13.25
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.16,
+    "total_imports_usd_billion": 0.91,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 2,
+        "hs_code": "8803",
+        "product": "Aircraft; parts of heading no. 8801 or 8802",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 3,
+        "hs_code": "0901",
+        "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "8901",
+        "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.08
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.03
+      }
+    ]
   }
 }

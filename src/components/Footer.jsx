@@ -19,6 +19,9 @@ export default function Footer() {
           <a href="/education">
             Education
           </a>
+          <a href="/healthcare">
+            HealthCare
+          </a>
         </nav>
       </div>
     </footer>

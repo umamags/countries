@@ -667,5 +667,163 @@
     ],
     "outlook_next_decade": "The base case is continued convergence toward EU income levels with inflation near target and debt drifting below 50% of GDP on the current path. EU accession talks are the key structural lever, potentially accelerating reform and investment if momentum holds. Risks include energy-import dependence, emigration eroding the tax base, and governance slippage that could slow the accession process. Fiscal discipline is the binding constraint on the debt outlook rather than solvency.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 324.04,
+      "oda_loans_net_usd_million": 73.97
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 265.72,
+      "oda_loans_net_usd_million": 31.67
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 344.91,
+      "oda_loans_net_usd_million": 42.59
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 330.73,
+      "oda_loans_net_usd_million": 62.62
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 365.07,
+      "oda_loans_net_usd_million": 102.25
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 379.48,
+      "oda_loans_net_usd_million": 114.9
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 349.16,
+      "oda_loans_net_usd_million": 105.49
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 269.98,
+      "oda_loans_net_usd_million": 68.73
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 281.17,
+      "oda_loans_net_usd_million": 40.17
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 335.16,
+      "oda_loans_net_usd_million": 40.05
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 171.04,
+      "oda_loans_net_usd_million": -40.08
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 168.35,
+      "oda_loans_net_usd_million": -48.01
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 344.52,
+      "oda_loans_net_usd_million": 74.32
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 27.07,
+      "oda_loans_net_usd_million": -223.77
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 309.58,
+      "oda_loans_net_usd_million": -48.82
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 633.42,
+      "oda_loans_net_usd_million": 267.04
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 315.53,
+      "oda_loans_net_usd_million": -9.89
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 4.37,
+    "total_imports_usd_billion": 8.67,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "6406",
+        "product": "Footwear; parts of footwear; removable in-soles, heel cushions and similar articles;\u2026",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 2,
+        "hs_code": "6203",
+        "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts\u2026",
+        "value_usd_billion": 0.21
+      },
+      {
+        "rank": 3,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.21
+      },
+      {
+        "rank": 4,
+        "hs_code": "7214",
+        "product": "Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot\u2026",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 5,
+        "hs_code": "6403",
+        "product": "Footwear; with outer soles of rubber, plastics, leather or composition leather and uppers\u2026",
+        "value_usd_billion": 0.18
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.57
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 4,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 5,
+        "hs_code": "7214",
+        "product": "Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot\u2026",
+        "value_usd_billion": 0.19
+      }
+    ]
   }
 }

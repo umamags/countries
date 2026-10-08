@@ -189,5 +189,16 @@
     ],
     "outlook_next_decade": "The Madrid Protocol's mining ban is reviewable after 2048, but no near-term change is expected; the Treaty system held through the period. The pressures to watch are tourism growth, bioprospecting disputes, and great-power station-building as strategic positioning. Scientifically the continent's importance (climate, sea-level data) will only rise; economically it will remain a cost centre for claimant and research nations.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

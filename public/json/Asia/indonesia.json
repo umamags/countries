@@ -729,5 +729,163 @@
     ],
     "outlook_next_decade": "Indonesia's outlook is among Asia's more favorable: 5% trend growth, anchored inflation, and sustainable debt, with nickel downstreaming and the new capital city (Nusantara) as investment drivers. Risks are commodity dependence, the low revenue base constraining ambitions, and political-economy questions under the new administration. If downstreaming industrial policy succeeds without scaring investors, upside is meaningful. Debt is not a constraint on any plausible path.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1229.97,
+      "oda_loans_net_usd_million": -322.88
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 581.64,
+      "oda_loans_net_usd_million": -914.04
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 731.49,
+      "oda_loans_net_usd_million": -618.12
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 685.72,
+      "oda_loans_net_usd_million": -698.87
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1323.76,
+      "oda_loans_net_usd_million": -44.09
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 358.11,
+      "oda_loans_net_usd_million": -1072.59
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 69.01,
+      "oda_loans_net_usd_million": -1362.42
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 69.47,
+      "oda_loans_net_usd_million": -1328.06
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": -381.94,
+      "oda_loans_net_usd_million": -1597.74
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": -28.46,
+      "oda_loans_net_usd_million": -1106.46
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": -108.28,
+      "oda_loans_net_usd_million": -1186.35
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 280.19,
+      "oda_loans_net_usd_million": -1078.89
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 962.69,
+      "oda_loans_net_usd_million": -80.36
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": -693.37,
+      "oda_loans_net_usd_million": -1592.06
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1210.02,
+      "oda_loans_net_usd_million": 299.24
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 625.9,
+      "oda_loans_net_usd_million": -691.5
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 666.59,
+      "oda_loans_net_usd_million": -422.18
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 259.53,
+    "total_imports_usd_billion": 223.11,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 34.59
+      },
+      {
+        "rank": 2,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 22.69
+      },
+      {
+        "rank": 3,
+        "hs_code": "7202",
+        "product": "Ferro-alloys",
+        "value_usd_billion": 15.3
+      },
+      {
+        "rank": 4,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 8.78
+      },
+      {
+        "rank": 5,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 8.33
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 20.28
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 11.14
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 6.4
+      },
+      {
+        "rank": 4,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 3.94
+      },
+      {
+        "rank": 5,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 3.76
+      }
+    ]
   }
 }

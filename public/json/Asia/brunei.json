@@ -648,5 +648,77 @@
     ],
     "outlook_next_decade": "Brunei's macro stability is assured by the peg, minimal debt, and sovereign buffers, but long-run prosperity depends on diversifying before oil and gas decline. Downstream petrochemicals (Hengyi) and Islamic finance offer partial offsets; tourism and services remain small. The risk is a slow erosion of per-capita income as hydrocarbons fade without replacement industries. Policy has been cautious rather than transformative.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 11.24,
+    "total_imports_usd_billion": 7.48,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 3.94
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 2.92
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "2902",
+        "product": "Cyclic hydrocarbons",
+        "value_usd_billion": 1.71
+      },
+      {
+        "rank": 5,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 0.36
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 3.93
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.7
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 4,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 5,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 0.12
+      }
+    ]
   }
 }

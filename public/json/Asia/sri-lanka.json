@@ -696,5 +696,163 @@
     ],
     "outlook_next_decade": "Sri Lanka's base case is gradual recovery under the IMF program: growth resuming, inflation low, debt declining as restructuring completes. Risks are reform fatigue, political pressure to reverse austerity (notably after the 2024 elections), and external shocks hitting tourism and remittances. The deeper lesson is institutional: preventing a repeat requires broadening the tax base and ending money-printing. Analytical assessment: the turnaround so far is real but incomplete, and 2025 data are missing from the IMF series.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 685.01,
+      "oda_loans_net_usd_million": 199.18
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 433.38,
+      "oda_loans_net_usd_million": -39.22
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 548.02,
+      "oda_loans_net_usd_million": -1.99
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 465.76,
+      "oda_loans_net_usd_million": -14.32
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 558.59,
+      "oda_loans_net_usd_million": 161.98
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 612.64,
+      "oda_loans_net_usd_million": 231.92
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 490.85,
+      "oda_loans_net_usd_million": 178.63
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 403.17,
+      "oda_loans_net_usd_million": 90.98
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 491.63,
+      "oda_loans_net_usd_million": 212.88
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 445.01,
+      "oda_loans_net_usd_million": 193.9
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 373.47,
+      "oda_loans_net_usd_million": 149.22
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 316.17,
+      "oda_loans_net_usd_million": 55.03
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": -247.28,
+      "oda_loans_net_usd_million": -499.81
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 191.7,
+      "oda_loans_net_usd_million": -22.07
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 218.16,
+      "oda_loans_net_usd_million": -15.52
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 154.11,
+      "oda_loans_net_usd_million": -144.86
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 11.01,
+      "oda_loans_net_usd_million": -277.13
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 12.05,
+    "total_imports_usd_billion": 16.39,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0902",
+        "product": "Tea",
+        "value_usd_billion": 1.29
+      },
+      {
+        "rank": 2,
+        "hs_code": "6212",
+        "product": "Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts\u2026",
+        "value_usd_billion": 0.56
+      },
+      {
+        "rank": 3,
+        "hs_code": "6108",
+        "product": "Slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing\u2026",
+        "value_usd_billion": 0.54
+      },
+      {
+        "rank": 4,
+        "hs_code": "6109",
+        "product": "T-shirts, singlets and other vests; knitted or crocheted",
+        "value_usd_billion": 0.51
+      },
+      {
+        "rank": 5,
+        "hs_code": "4012",
+        "product": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre\u2026",
+        "value_usd_billion": 0.44
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.35
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.92
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.51
+      },
+      {
+        "rank": 4,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 0.48
+      },
+      {
+        "rank": 5,
+        "hs_code": "6006",
+        "product": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04",
+        "value_usd_billion": 0.43
+      }
+    ]
   }
 }

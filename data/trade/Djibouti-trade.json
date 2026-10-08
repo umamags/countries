@@ -1,0 +1,73 @@
+{
+  "country": "Djibouti",
+  "iso3": "DJI",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 4.78,
+  "total_imports_usd_billion": 5.29,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.54
+    },
+    {
+      "rank": 2,
+      "hs_code": "1512",
+      "product": "Sun-flower seed, safflower or cotton-seed oil and their fractions; whether or not…",
+      "value_usd_billion": 0.43
+    },
+    {
+      "rank": 3,
+      "hs_code": "1701",
+      "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "value_usd_billion": 0.4
+    },
+    {
+      "rank": 4,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.35
+    },
+    {
+      "rank": 5,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.32
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.45
+    },
+    {
+      "rank": 2,
+      "hs_code": "1701",
+      "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "value_usd_billion": 0.43
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.38
+    },
+    {
+      "rank": 4,
+      "hs_code": "1512",
+      "product": "Sun-flower seed, safflower or cotton-seed oil and their fractions; whether or not…",
+      "value_usd_billion": 0.36
+    },
+    {
+      "rank": 5,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.35
+    }
+  ]
+}

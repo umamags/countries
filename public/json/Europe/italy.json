@@ -710,5 +710,77 @@
     ],
     "outlook_next_decade": "Italy's decade hinges on growth, and the honest assessment is that the trend has disappointed for twenty years. The NRRP investment pipeline is the main lever; if it lifts productivity, the debt ratio can fall on the denominator. If not, 137% of GDP is a precarious perch when ECB support normalizes. Inflation should stay near target. Political instability remains a background risk to reform execution, though markets have learned to price it. Sustainability is not in immediate doubt, but the margin for error is the thinnest of any large euro-area economy.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 676.82,
+    "total_imports_usd_billion": 640.04,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 37.11
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 20.63
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 19.84
+      },
+      {
+        "rank": 4,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 16.28
+      },
+      {
+        "rank": 5,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 11.8
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 38.96
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 36.48
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 33.13
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 20.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 12.01
+      }
+    ]
   }
 }

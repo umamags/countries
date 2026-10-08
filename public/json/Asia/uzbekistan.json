@@ -652,5 +652,163 @@
     ],
     "outlook_next_decade": "Uzbekistan's base case is 5-6% growth on reforms, demographics, and investment, with inflation converging toward target and debt staying moderate. The reform story is genuine but incomplete: state dominance, corruption, and water/energy constraints (notably the Aral Sea legacy) persist. Risks are reform reversal, regional instability, and over-borrowing for mega-projects. Analytical assessment: the most promising reform trajectory in Central Asia, but the 2017-19 momentum needs sustaining to deliver.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 149.61,
+      "oda_loans_net_usd_million": 18.81
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 151.8,
+      "oda_loans_net_usd_million": 47.56
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 166.53,
+      "oda_loans_net_usd_million": 44.92
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 143.49,
+      "oda_loans_net_usd_million": 28.47
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 198.14,
+      "oda_loans_net_usd_million": 70.38
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 143.78,
+      "oda_loans_net_usd_million": 27.51
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 255.91,
+      "oda_loans_net_usd_million": 110.45
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 295.16,
+      "oda_loans_net_usd_million": 170.93
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 324.67,
+      "oda_loans_net_usd_million": 187.91
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 451.0,
+      "oda_loans_net_usd_million": 334.49
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 511.05,
+      "oda_loans_net_usd_million": 362.83
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 639.14,
+      "oda_loans_net_usd_million": 493.32
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1058.08,
+      "oda_loans_net_usd_million": 904.17
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1152.73,
+      "oda_loans_net_usd_million": 950.84
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1462.29,
+      "oda_loans_net_usd_million": 1228.32
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1161.94,
+      "oda_loans_net_usd_million": 915.43
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1583.22,
+      "oda_loans_net_usd_million": 1346.01
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 21.02,
+    "total_imports_usd_billion": 36.66,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 8.15
+      },
+      {
+        "rank": 2,
+        "hs_code": "5205",
+        "product": "Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not\u2026",
+        "value_usd_billion": 1.43
+      },
+      {
+        "rank": 3,
+        "hs_code": "7403",
+        "product": "Copper; refined and copper alloys, unwrought",
+        "value_usd_billion": 0.54
+      },
+      {
+        "rank": 4,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 0.53
+      },
+      {
+        "rank": 5,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 0.47
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.85
+      },
+      {
+        "rank": 2,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 1.56
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.37
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "8802",
+        "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.\u2026",
+        "value_usd_billion": 0.97
+      }
+    ]
   }
 }

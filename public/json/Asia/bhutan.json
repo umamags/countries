@@ -638,5 +638,163 @@
     ],
     "outlook_next_decade": "Bhutan's outlook is tied to hydropower commissioning and Indian electricity demand: successful projects bring the debt ratio down steadily and fund development. Tourism recovery and diversification into services offer upside. Risks are concentrated: cost overruns on mega-dams, climate impacts on river flows, and any rupee-liquidity stress under the peg. With debt self-liquidating in principle, the analytical risk is execution, not solvency.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 92.42,
+      "oda_loans_net_usd_million": 10.1
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 59.65,
+      "oda_loans_net_usd_million": -0.63
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 68.59,
+      "oda_loans_net_usd_million": -0.12
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 70.27,
+      "oda_loans_net_usd_million": 3.96
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 97.24,
+      "oda_loans_net_usd_million": 26.3
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 118.65,
+      "oda_loans_net_usd_million": 35.15
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 161.65,
+      "oda_loans_net_usd_million": 57.16
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 136.8,
+      "oda_loans_net_usd_million": 27.85
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 130.64,
+      "oda_loans_net_usd_million": 51.26
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 97.28,
+      "oda_loans_net_usd_million": 15.76
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 51.6,
+      "oda_loans_net_usd_million": -7.89
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 118.54,
+      "oda_loans_net_usd_million": 44.0
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 107.92,
+      "oda_loans_net_usd_million": 33.17
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 178.67,
+      "oda_loans_net_usd_million": 65.17
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 202.74,
+      "oda_loans_net_usd_million": 110.03
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 127.35,
+      "oda_loans_net_usd_million": 51.91
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 194.37,
+      "oda_loans_net_usd_million": 121.62
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.44,
+    "total_imports_usd_billion": 1.29,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7202",
+        "product": "Ferro-alloys",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 2,
+        "hs_code": "2518",
+        "product": "Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or\u2026",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 3,
+        "hs_code": "2516",
+        "product": "Granite, porphyry, basalt, sandstone, other monumental and building stone, whether or not\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 4,
+        "hs_code": "2520",
+        "product": "Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate), coloured\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 5,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.02
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 2,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "7203",
+        "product": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.04
+      }
+    ]
   }
 }

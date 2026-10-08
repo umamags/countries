@@ -659,5 +659,163 @@
     ],
     "outlook_next_decade": "North Macedonia's outlook is the EU-accession story: unblocking talks would anchor reform and investment, while the current stall is the main drag. The euro peg provides stability but no monetary flexibility. Debt just above 50% of GDP is sustainable if deficits narrow; the structural risks are emigration, a narrow industrial base, and energy dependence. Inflation should track toward euro-area levels as food-price pressures ease.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 200.85,
+      "oda_loans_net_usd_million": 6.34
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 206.47,
+      "oda_loans_net_usd_million": 10.69
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 211.26,
+      "oda_loans_net_usd_million": 20.84
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 201.19,
+      "oda_loans_net_usd_million": 19.38
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 194.31,
+      "oda_loans_net_usd_million": 18.87
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 192.29,
+      "oda_loans_net_usd_million": 29.67
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 147.71,
+      "oda_loans_net_usd_million": 11.49
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 196.73,
+      "oda_loans_net_usd_million": 64.91
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 211.92,
+      "oda_loans_net_usd_million": 26.28
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 214.32,
+      "oda_loans_net_usd_million": 51.85
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 168.35,
+      "oda_loans_net_usd_million": -27.74
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 149.95,
+      "oda_loans_net_usd_million": -68.64
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 170.32,
+      "oda_loans_net_usd_million": -43.22
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 139.77,
+      "oda_loans_net_usd_million": -22.62
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 282.71,
+      "oda_loans_net_usd_million": 85.69
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 338.22,
+      "oda_loans_net_usd_million": 117.36
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 224.05,
+      "oda_loans_net_usd_million": 71.07
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 8.99,
+    "total_imports_usd_billion": 12.05,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "3815",
+        "product": "Reaction initiators, reaction accelerators and catalytic preparations n.e.c. or included",
+        "value_usd_billion": 2.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 0.69
+      },
+      {
+        "rank": 3,
+        "hs_code": "9401",
+        "product": "Seats (not those of heading no. 9402), whether or not convertible into beds and parts\u2026",
+        "value_usd_billion": 0.35
+      },
+      {
+        "rank": 4,
+        "hs_code": "8702",
+        "product": "Vehicles; public transport passenger type",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 5,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.25
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "7110",
+        "product": "Platinum; unwrought or in semi-manufactured forms, or in powder form",
+        "value_usd_billion": 1.2
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.91
+      },
+      {
+        "rank": 3,
+        "hs_code": "6909",
+        "product": "Ceramic ware for laboratory, chemical, other technical uses; ceramic troughs, tubs,\u2026",
+        "value_usd_billion": 0.41
+      },
+      {
+        "rank": 4,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.3
+      }
+    ]
   }
 }

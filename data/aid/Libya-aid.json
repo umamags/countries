@@ -1,0 +1,96 @@
+{
+ "country": "Libya",
+ "iso3": "LBY",
+ "oecd_code": "LBY",
+ "period": "2006-2022",
+ "source": "OECD DAC2a, donor=All official donors (ALLD), accessed October 2026",
+ "unit": "USD million",
+ "note": "oda_loans_net = concessional ODA loans (net disbursements); non-concessional official loans (OOF) are not published in DAC2a",
+ "data": [
+  {
+   "year": 2006,
+   "oda_received_usd_million": 37.51,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2007,
+   "oda_received_usd_million": 19.41,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2008,
+   "oda_received_usd_million": 74.2,
+   "oda_loans_net_usd_million": 14.05
+  },
+  {
+   "year": 2009,
+   "oda_received_usd_million": 40.04,
+   "oda_loans_net_usd_million": 2.12
+  },
+  {
+   "year": 2010,
+   "oda_received_usd_million": 7.61,
+   "oda_loans_net_usd_million": -13.23
+  },
+  {
+   "year": 2011,
+   "oda_received_usd_million": 641.1,
+   "oda_loans_net_usd_million": 0.64
+  },
+  {
+   "year": 2012,
+   "oda_received_usd_million": 87.12,
+   "oda_loans_net_usd_million": -59.79
+  },
+  {
+   "year": 2013,
+   "oda_received_usd_million": 128.83,
+   "oda_loans_net_usd_million": -12.2
+  },
+  {
+   "year": 2014,
+   "oda_received_usd_million": 210.28,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2015,
+   "oda_received_usd_million": 157.37,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2016,
+   "oda_received_usd_million": 179.49,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2017,
+   "oda_received_usd_million": 431.87,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2018,
+   "oda_received_usd_million": 303.46,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2019,
+   "oda_received_usd_million": 294.19,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2020,
+   "oda_received_usd_million": 296.18,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2021,
+   "oda_received_usd_million": 343.6,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2022,
+   "oda_received_usd_million": 263.95,
+   "oda_loans_net_usd_million": null
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Senegal",
+  "iso3": "SEN",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 5.32,
+  "total_imports_usd_billion": 11.88,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.1
+    },
+    {
+      "rank": 2,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 0.87
+    },
+    {
+      "rank": 3,
+      "hs_code": "2809",
+      "product": "Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically…",
+      "value_usd_billion": 0.44
+    },
+    {
+      "rank": 4,
+      "hs_code": "0303",
+      "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "value_usd_billion": 0.26
+    },
+    {
+      "rank": 5,
+      "hs_code": "2523",
+      "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and…",
+      "value_usd_billion": 0.18
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 2.13
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 0.95
+    },
+    {
+      "rank": 3,
+      "hs_code": "1006",
+      "product": "Rice",
+      "value_usd_billion": 0.5
+    },
+    {
+      "rank": 4,
+      "hs_code": "1001",
+      "product": "Wheat and meslin",
+      "value_usd_billion": 0.31
+    },
+    {
+      "rank": 5,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.3
+    }
+  ]
+}

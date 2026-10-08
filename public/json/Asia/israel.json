@@ -700,5 +700,77 @@
     ],
     "outlook_next_decade": "Israel's high-tech economy gives it strong fundamentals, but the outlook is dominated by security: a durable de-escalation would restore growth and allow debt to decline, while prolonged conflict sustains high defense spending and deters investment. Inflation should stay near target under the credible Bank of Israel. Risks include political instability, judicial-overhaul aftershocks on institutional credibility, and regional escalation. Debt is sustainable in the base case but sensitive to the war's duration.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 58.9,
+    "total_imports_usd_billion": 91.88,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 7.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 4.74
+      },
+      {
+        "rank": 3,
+        "hs_code": "9018",
+        "product": "Instruments and appliances used in medical, surgical, dental or veterinary sciences,\u2026",
+        "value_usd_billion": 2.51
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 2.39
+      },
+      {
+        "rank": 5,
+        "hs_code": "3824",
+        "product": "Prepared binders for foundry moulds or cores; chemical products and preparations of the\u2026",
+        "value_usd_billion": 2.15
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 8.4
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 6.57
+      },
+      {
+        "rank": 3,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 4.43
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 3.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 2.02
+      }
+    ]
   }
 }

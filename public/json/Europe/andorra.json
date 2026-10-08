@@ -666,5 +666,77 @@
     ],
     "outlook_next_decade": "The outlook is one of stability rather than transformation: low debt, imported price stability, and tourism-led growth. The EU association agreement is the main growth lever, reducing trade frictions over time. Structural risks are over-dependence on tourism and financial services and the lack of monetary autonomy if a shock diverges from the euro-area cycle. On current settings, debt should stay near or below 30% of GDP.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.25,
+    "total_imports_usd_billion": 1.99,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "9701",
+        "product": "Paintings, drawings and pastels, executed entirely by hand; not drawings of heading no.\u2026",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 2,
+        "hs_code": "8523",
+        "product": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 4,
+        "hs_code": "9021",
+        "product": "Orthopaedic appliances; including crutches, surgical belts and trusses; splints and other\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 5,
+        "hs_code": "4813",
+        "product": "Cigarette paper, whether or not cut to size or in the form of booklets or tubes",
+        "value_usd_billion": 0.01
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.23
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.12
+      },
+      {
+        "rank": 3,
+        "hs_code": "3303",
+        "product": "Perfumes and toilet waters",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 4,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "2208",
+        "product": "Ethyl alcohol, undenatured; of an alcoholic strength by volume of less than 80% volume;\u2026",
+        "value_usd_billion": 0.04
+      }
+    ]
   }
 }

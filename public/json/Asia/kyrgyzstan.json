@@ -636,5 +636,163 @@
     ],
     "outlook_next_decade": "Kyrgyzstan's base case is moderate growth on gold, remittances, and hydropower exports, with debt continuing to fall if governance holds. Risks are heavily Russia-linked (remittances, trade, EAEU), plus political instability, which has toppled governments repeatedly, and water/energy tensions with neighbors. Chinese debt for infrastructure adds a contingent risk. Analytical assessment: the macro numbers are decent, but institutional volatility is the persistent discount.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 270.56,
+      "oda_loans_net_usd_million": 65.07
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 209.04,
+      "oda_loans_net_usd_million": -7.25
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 288.32,
+      "oda_loans_net_usd_million": 23.03
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 254.77,
+      "oda_loans_net_usd_million": 5.83
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 372.04,
+      "oda_loans_net_usd_million": 27.79
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 437.86,
+      "oda_loans_net_usd_million": 40.86
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 470.49,
+      "oda_loans_net_usd_million": 35.17
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 539.45,
+      "oda_loans_net_usd_million": 112.76
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 626.57,
+      "oda_loans_net_usd_million": 69.6
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 774.71,
+      "oda_loans_net_usd_million": 64.67
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 519.49,
+      "oda_loans_net_usd_million": 2.55
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 464.97,
+      "oda_loans_net_usd_million": 10.17
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 438.93,
+      "oda_loans_net_usd_million": -14.89
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 443.32,
+      "oda_loans_net_usd_million": 0.35
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 473.89,
+      "oda_loans_net_usd_million": 115.98
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 452.49,
+      "oda_loans_net_usd_million": 84.26
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 733.96,
+      "oda_loans_net_usd_million": 345.02
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 3.38,
+    "total_imports_usd_billion": 12.52,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.28
+      },
+      {
+        "rank": 2,
+        "hs_code": "2616",
+        "product": "Precious metal ores and concentrates",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 5,
+        "hs_code": "7404",
+        "product": "Copper; waste and scrap",
+        "value_usd_billion": 0.08
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.77
+      },
+      {
+        "rank": 2,
+        "hs_code": "8422",
+        "product": "Dish washing machines; machinery for cleaning, drying, filling, closing, sealing,\u2026",
+        "value_usd_billion": 1.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.77
+      },
+      {
+        "rank": 4,
+        "hs_code": "6004",
+        "product": "Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of\u2026",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.3
+      }
+    ]
   }
 }

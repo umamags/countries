@@ -622,5 +622,163 @@
     ],
     "outlook_next_decade": "The base case is continued low growth with inflation anchored by the euro peg and debt stabilizing near 30% of GDP. Upside depends on remittances, vanilla prices, and any tourism development; downside is climate shocks, which repeatedly wipe out infrastructure gains. Uncertainty is moderate: politics are volatile but the macro framework is simple and the peg credible.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 32.0,
+      "oda_loans_net_usd_million": -1.34
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 42.55,
+      "oda_loans_net_usd_million": -3.35
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 41.98,
+      "oda_loans_net_usd_million": -1.03
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 51.16,
+      "oda_loans_net_usd_million": 0.98
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 69.91,
+      "oda_loans_net_usd_million": -0.94
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 55.35,
+      "oda_loans_net_usd_million": -0.54
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 101.61,
+      "oda_loans_net_usd_million": -7.33
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 81.23,
+      "oda_loans_net_usd_million": -93.95
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 74.95,
+      "oda_loans_net_usd_million": -2.68
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 65.83,
+      "oda_loans_net_usd_million": -3.76
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 53.74,
+      "oda_loans_net_usd_million": -3.98
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 67.22,
+      "oda_loans_net_usd_million": -3.56
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 90.93,
+      "oda_loans_net_usd_million": 13.08
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 73.53,
+      "oda_loans_net_usd_million": -19.89
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 132.18,
+      "oda_loans_net_usd_million": 8.58
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 153.64,
+      "oda_loans_net_usd_million": 19.0
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 137.79,
+      "oda_loans_net_usd_million": 22.73
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.03,
+    "total_imports_usd_billion": 0.27,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0907",
+        "product": "Cloves (whole fruit, cloves and stems)",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 2,
+        "hs_code": "0905",
+        "product": "Vanilla",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 3,
+        "hs_code": "3301",
+        "product": "Oils; essential (concretes, absolutes); concentrates thereof in fats, fixed oils, waxes\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 4,
+        "hs_code": "7204",
+        "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 3,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 4,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.02
+      }
+    ]
   }
 }

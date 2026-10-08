@@ -682,5 +682,163 @@
     ],
     "outlook_next_decade": "Montenegro is the EU-accession frontrunner in the Western Balkans, and membership would transform its investment profile. The debt path from 108.4% to a projected 67.1% of GDP shows the consolidation works when tourism cooperates \u2014 but that dependence is the risk: a tourism shock would hit growth and the fiscal position simultaneously. Inflation will track imported conditions. The base case is continued convergence; the highway's remaining debt and political fragmentation are the watch items.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 95.59,
+      "oda_loans_net_usd_million": 17.44
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 97.91,
+      "oda_loans_net_usd_million": 14.1
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 89.05,
+      "oda_loans_net_usd_million": 16.42
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 71.43,
+      "oda_loans_net_usd_million": 3.3
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 80.07,
+      "oda_loans_net_usd_million": 11.8
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 126.63,
+      "oda_loans_net_usd_million": 54.84
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 103.09,
+      "oda_loans_net_usd_million": 22.36
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 117.18,
+      "oda_loans_net_usd_million": 42.03
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 100.42,
+      "oda_loans_net_usd_million": 17.94
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 99.96,
+      "oda_loans_net_usd_million": 51.03
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 85.73,
+      "oda_loans_net_usd_million": 34.7
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 117.99,
+      "oda_loans_net_usd_million": 51.56
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 156.22,
+      "oda_loans_net_usd_million": 87.07
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 95.86,
+      "oda_loans_net_usd_million": 22.22
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 205.11,
+      "oda_loans_net_usd_million": 121.15
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 133.18,
+      "oda_loans_net_usd_million": 29.81
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 102.75,
+      "oda_loans_net_usd_million": 45.01
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.72,
+    "total_imports_usd_billion": 4.12,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 2,
+        "hs_code": "7601",
+        "product": "Aluminium; unwrought",
+        "value_usd_billion": 0.08
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.03
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.34
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 4,
+        "hs_code": "0203",
+        "product": "Meat of swine; fresh, chilled or frozen",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.08
+      }
+    ]
   }
 }

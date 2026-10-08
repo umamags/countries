@@ -1,0 +1,73 @@
+{
+  "country": "Bahrain",
+  "iso3": "BHR",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 12.41,
+  "total_imports_usd_billion": 15.35,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7601",
+      "product": "Aluminium; unwrought",
+      "value_usd_billion": 3.32
+    },
+    {
+      "rank": 2,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 1.83
+    },
+    {
+      "rank": 3,
+      "hs_code": "7605",
+      "product": "Aluminium wire",
+      "value_usd_billion": 0.7
+    },
+    {
+      "rank": 4,
+      "hs_code": "0406",
+      "product": "Cheese and curd",
+      "value_usd_billion": 0.44
+    },
+    {
+      "rank": 5,
+      "hs_code": "7308",
+      "product": "Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections,…",
+      "value_usd_billion": 0.4
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 1.6
+    },
+    {
+      "rank": 2,
+      "hs_code": "2818",
+      "product": "Aluminium oxide (including artificial corundum); aluminium hydroxide",
+      "value_usd_billion": 1.19
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.89
+    },
+    {
+      "rank": 4,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 0.59
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 0.47
+    }
+  ]
+}

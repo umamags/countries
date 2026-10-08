@@ -695,5 +695,163 @@
     ],
     "outlook_next_decade": "The base case is continued oil dependence with debt near 80% of GDP and low inflation under the CFA peg. Upside depends on whether the new government diversifies (manganese, timber processing) and controls the wage bill; downside is another oil downturn forcing abrupt adjustment. Uncertainty is moderate: the 2023-25 transition was orderly by regional standards, but the economic model is unchanged and oil output is mature.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 31.21,
+      "oda_loans_net_usd_million": -47.16
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 53.21,
+      "oda_loans_net_usd_million": -38.33
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 64.12,
+      "oda_loans_net_usd_million": -5.63
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 77.95,
+      "oda_loans_net_usd_million": -21.36
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 106.27,
+      "oda_loans_net_usd_million": 7.66
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 69.45,
+      "oda_loans_net_usd_million": -11.43
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 68.85,
+      "oda_loans_net_usd_million": 8.08
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 87.21,
+      "oda_loans_net_usd_million": 25.37
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 111.27,
+      "oda_loans_net_usd_million": 51.67
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 98.78,
+      "oda_loans_net_usd_million": 46.7
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 41.62,
+      "oda_loans_net_usd_million": -7.25
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 106.35,
+      "oda_loans_net_usd_million": 53.51
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 116.99,
+      "oda_loans_net_usd_million": 72.48
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 115.83,
+      "oda_loans_net_usd_million": 83.21
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 53.28,
+      "oda_loans_net_usd_million": 9.08
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 98.55,
+      "oda_loans_net_usd_million": 24.27
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 133.26,
+      "oda_loans_net_usd_million": 87.28
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 12.69,
+    "total_imports_usd_billion": 4.22,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 6.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "2602",
+        "product": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates\u2026",
+        "value_usd_billion": 2.95
+      },
+      {
+        "rank": 3,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 1.31
+      },
+      {
+        "rank": 4,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.43
+      },
+      {
+        "rank": 5,
+        "hs_code": "4408",
+        "product": "Sheets for veneering (including those obtained by slicing laminated wood), for plywood or\u2026",
+        "value_usd_billion": 0.29
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 0.91
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.23
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 4,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.1
+      }
+    ]
   }
 }

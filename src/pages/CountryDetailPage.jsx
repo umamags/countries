@@ -10,6 +10,8 @@ import FlagModal from '../components/FlagModal'
 import Breadcrumb from '../components/Breadcrumb'
 import CommentarySection from '../components/CommentarySection'
 import EconomicsSection from '../components/EconomicsSection'
+import TradeSection from '../components/TradeSection'
+import AidLoansSection from '../components/AidLoansSection'
 import { slugify } from '../utils/slug'
 
 function Fact({ label, value }) {
@@ -281,6 +283,10 @@ export default function CountryDetailPage() {
           <p>{data.current_conflicts}</p>
         </section>
       )}
+
+      <TradeSection trade={data.trade} />
+
+      <AidLoansSection aid={data.aid} />
 
       <CommentarySection commentary={data.commentary} />
 

@@ -1,0 +1,73 @@
+{
+  "country": "Cambodia",
+  "iso3": "KHM",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 21.68,
+  "total_imports_usd_billion": 24.41,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8541",
+      "product": "Semiconductor devices (e.g. diodes, transistors, semiconductor based transducers);…",
+      "value_usd_billion": 2.14
+    },
+    {
+      "rank": 2,
+      "hs_code": "4202",
+      "product": "Trunks; suit, camera, jewellery, cutlery cases; travel, tool, similar bags; wholly or…",
+      "value_usd_billion": 1.64
+    },
+    {
+      "rank": 3,
+      "hs_code": "6110",
+      "product": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted",
+      "value_usd_billion": 1.55
+    },
+    {
+      "rank": 4,
+      "hs_code": "6104",
+      "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace…",
+      "value_usd_billion": 0.98
+    },
+    {
+      "rank": 5,
+      "hs_code": "6204",
+      "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace…",
+      "value_usd_billion": 0.93
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 2.31
+    },
+    {
+      "rank": 2,
+      "hs_code": "6006",
+      "product": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04",
+      "value_usd_billion": 1.81
+    },
+    {
+      "rank": 3,
+      "hs_code": "5515",
+      "product": "Woven fabrics of synthetic staple fibres, n.e.c. in chapter 55",
+      "value_usd_billion": 0.81
+    },
+    {
+      "rank": 4,
+      "hs_code": "3818",
+      "product": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar…",
+      "value_usd_billion": 0.73
+    },
+    {
+      "rank": 5,
+      "hs_code": "6004",
+      "product": "Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of…",
+      "value_usd_billion": 0.72
+    }
+  ]
+}

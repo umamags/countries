@@ -696,5 +696,163 @@
     ],
     "outlook_next_decade": "Ecuador's macro framework is stable - dollarization anchors prices, debt is plateaued near 54%, and the IMF is engaged - but the binding constraint is security, not economics: gang violence deters the investment and tourism that a dollarized economy needs to grow. The base case is slow growth with continued fiscal discipline under Noboa's full term and gradual oil-sector opening. The risks are a return of Correismo in a future election reversing reforms, another oil-price slump, and the energy crisis (drought-hit hydro) constraining supply. Dollarization will survive; the question is whether growth returns enough to make it comfortable.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 213.87,
+      "oda_loans_net_usd_million": -44.75
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 231.19,
+      "oda_loans_net_usd_million": -31.99
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 249.55,
+      "oda_loans_net_usd_million": -50.87
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 224.69,
+      "oda_loans_net_usd_million": -66.08
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 168.53,
+      "oda_loans_net_usd_million": -63.32
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 181.3,
+      "oda_loans_net_usd_million": -52.49
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 148.06,
+      "oda_loans_net_usd_million": -62.64
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 150.52,
+      "oda_loans_net_usd_million": -34.53
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 165.05,
+      "oda_loans_net_usd_million": -25.1
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 318.16,
+      "oda_loans_net_usd_million": 167.67
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 243.71,
+      "oda_loans_net_usd_million": 59.35
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 211.11,
+      "oda_loans_net_usd_million": 41.21
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 404.08,
+      "oda_loans_net_usd_million": 219.2
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 506.85,
+      "oda_loans_net_usd_million": 271.06
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 343.75,
+      "oda_loans_net_usd_million": 106.43
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 300.78,
+      "oda_loans_net_usd_million": 58.36
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 376.18,
+      "oda_loans_net_usd_million": 122.3
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 31.13,
+    "total_imports_usd_billion": 30.9,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 7.82
+      },
+      {
+        "rank": 2,
+        "hs_code": "0306",
+        "product": "Crustaceans; in shell or not, live, fresh, chilled, frozen, dried, salted or in brine;\u2026",
+        "value_usd_billion": 7.21
+      },
+      {
+        "rank": 3,
+        "hs_code": "0803",
+        "product": "Bananas, including plantains; fresh or dried",
+        "value_usd_billion": 3.79
+      },
+      {
+        "rank": 4,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.39
+      },
+      {
+        "rank": 5,
+        "hs_code": "1604",
+        "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+        "value_usd_billion": 1.33
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 4.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "2707",
+        "product": "Oils and other products of the distillation of high temperature coal tar; similar\u2026",
+        "value_usd_billion": 2.31
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.38
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "2304",
+        "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,\u2026",
+        "value_usd_billion": 0.99
+      }
+    ]
   }
 }

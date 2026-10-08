@@ -1,0 +1,73 @@
+{
+  "country": "Argentina",
+  "iso3": "ARG",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 66.79,
+  "total_imports_usd_billion": 73.71,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "9999",
+      "product": "Commodities not specified according to kind",
+      "value_usd_billion": 12.37
+    },
+    {
+      "rank": 2,
+      "hs_code": "2304",
+      "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,…",
+      "value_usd_billion": 7.38
+    },
+    {
+      "rank": 3,
+      "hs_code": "1005",
+      "product": "Maize (corn)",
+      "value_usd_billion": 6.16
+    },
+    {
+      "rank": 4,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 4.32
+    },
+    {
+      "rank": 5,
+      "hs_code": "1507",
+      "product": "Soya-bean oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 3.92
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "1201",
+      "product": "Soya beans, whether or not broken",
+      "value_usd_billion": 5.62
+    },
+    {
+      "rank": 2,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 4.35
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 3.58
+    },
+    {
+      "rank": 4,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 2.68
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 2.38
+    }
+  ]
+}

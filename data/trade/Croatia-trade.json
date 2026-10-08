@@ -1,0 +1,73 @@
+{
+  "country": "Croatia",
+  "iso3": "HRV",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 24.67,
+  "total_imports_usd_billion": 42.55,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.22
+    },
+    {
+      "rank": 2,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.84
+    },
+    {
+      "rank": 3,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.81
+    },
+    {
+      "rank": 4,
+      "hs_code": "8504",
+      "product": "Electric transformers, static converters (e.g. rectifiers) and inductors",
+      "value_usd_billion": 0.67
+    },
+    {
+      "rank": 5,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 0.57
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 2.56
+    },
+    {
+      "rank": 2,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 2.17
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 2.08
+    },
+    {
+      "rank": 4,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 1.15
+    },
+    {
+      "rank": 5,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.95
+    }
+  ]
+}

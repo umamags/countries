@@ -1,0 +1,73 @@
+{
+  "country": "Liberia",
+  "iso3": "LBR",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 0.15,
+  "total_imports_usd_billion": 2.16,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "4001",
+      "product": "Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms…",
+      "value_usd_billion": 0.1
+    },
+    {
+      "rank": 2,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.03
+    },
+    {
+      "rank": 3,
+      "hs_code": "1513",
+      "product": "Coconut (copra), palm kernel or babassu oil and their fractions; whether or not refined…",
+      "value_usd_billion": 0.01
+    },
+    {
+      "rank": 4,
+      "hs_code": "1801",
+      "product": "Cocoa beans; whole or broken, raw or roasted",
+      "value_usd_billion": 0.0
+    },
+    {
+      "rank": 5,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 0.0
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.67
+    },
+    {
+      "rank": 2,
+      "hs_code": "1006",
+      "product": "Rice",
+      "value_usd_billion": 0.24
+    },
+    {
+      "rank": 3,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.14
+    },
+    {
+      "rank": 4,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.06
+    },
+    {
+      "rank": 5,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.04
+    }
+  ]
+}

@@ -675,5 +675,163 @@
     ],
     "outlook_next_decade": "The base case is oil-dependent stabilization: with the IMF program completed and debt back near 50% of GDP, Angola has breathing room, but another oil downturn would quickly reverse it. Upside depends on diversification and the long-promised new oil licensing rounds offsetting declining mature fields; downside is kwanza volatility reigniting the inflation-debt spiral. Uncertainty is moderate-to-high given oil concentration and the opacity of Chinese bilateral debt.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 163.52,
+      "oda_loans_net_usd_million": -203.84
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 219.91,
+      "oda_loans_net_usd_million": -103.62
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 346.59,
+      "oda_loans_net_usd_million": 15.19
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 218.6,
+      "oda_loans_net_usd_million": -12.19
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 235.17,
+      "oda_loans_net_usd_million": -9.08
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 192.94,
+      "oda_loans_net_usd_million": -8.76
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 243.61,
+      "oda_loans_net_usd_million": 36.05
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 285.54,
+      "oda_loans_net_usd_million": 74.33
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 235.39,
+      "oda_loans_net_usd_million": 35.22
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 380.06,
+      "oda_loans_net_usd_million": 216.2
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 206.51,
+      "oda_loans_net_usd_million": 10.2
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 223.14,
+      "oda_loans_net_usd_million": 23.69
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 162.64,
+      "oda_loans_net_usd_million": -25.27
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 20.92,
+      "oda_loans_net_usd_million": -155.26
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 111.36,
+      "oda_loans_net_usd_million": -51.11
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 247.16,
+      "oda_loans_net_usd_million": -28.49
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 93.92,
+      "oda_loans_net_usd_million": -101.94
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 38.73,
+    "total_imports_usd_billion": 15.57,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 31.42
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 2.8
+      },
+      {
+        "rank": 3,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 1.57
+      },
+      {
+        "rank": 4,
+        "hs_code": "8901",
+        "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for\u2026",
+        "value_usd_billion": 1.22
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.39
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 3.33
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.46
+      },
+      {
+        "rank": 3,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.4
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.38
+      },
+      {
+        "rank": 5,
+        "hs_code": "8481",
+        "product": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the\u2026",
+        "value_usd_billion": 0.32
+      }
+    ]
   }
 }

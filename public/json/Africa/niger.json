@@ -674,5 +674,163 @@
     ],
     "outlook_next_decade": "The outlook is dominated by politics: uranium and oil give Niger real economic potential, but the junta's break with ECOWAS and Western partners has cut financing and markets. The base case is continued isolation with moderate growth on resource revenues. Upside requires sanctions relief and a political settlement; downside is prolonged isolation pushing debt back up. Uncertainty is very high and entirely political.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 541.94,
+      "oda_loans_net_usd_million": -1256.26
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 465.57,
+      "oda_loans_net_usd_million": 52.04
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 553.47,
+      "oda_loans_net_usd_million": 28.33
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 431.23,
+      "oda_loans_net_usd_million": 32.03
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 741.38,
+      "oda_loans_net_usd_million": 55.44
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 644.67,
+      "oda_loans_net_usd_million": 93.29
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 891.14,
+      "oda_loans_net_usd_million": 161.87
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 797.3,
+      "oda_loans_net_usd_million": 163.66
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 917.78,
+      "oda_loans_net_usd_million": 121.33
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 869.52,
+      "oda_loans_net_usd_million": 172.64
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 952.48,
+      "oda_loans_net_usd_million": 223.17
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1224.7,
+      "oda_loans_net_usd_million": 252.56
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1308.5,
+      "oda_loans_net_usd_million": 222.71
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1439.52,
+      "oda_loans_net_usd_million": 305.8
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1929.79,
+      "oda_loans_net_usd_million": 507.76
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1807.44,
+      "oda_loans_net_usd_million": 399.79
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 2044.44,
+      "oda_loans_net_usd_million": 732.11
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.47,
+    "total_imports_usd_billion": 3.15,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2612",
+        "product": "Uranium or thorium ores and concentrates",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "0703",
+        "product": "Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 5,
+        "hs_code": "8609",
+        "product": "Containers; (including containers for transport of fluids) specially designed and\u2026",
+        "value_usd_billion": 0.01
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8807",
+        "product": "Aircraft; parts of goods of heading 8801, 8802 or 8806",
+        "value_usd_billion": 0.62
+      },
+      {
+        "rank": 2,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 3,
+        "hs_code": "7308",
+        "product": "Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections,\u2026",
+        "value_usd_billion": 0.13
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "8413",
+        "product": "Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",
+        "value_usd_billion": 0.08
+      }
+    ]
   }
 }

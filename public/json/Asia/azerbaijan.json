@@ -632,5 +632,163 @@
     ],
     "outlook_next_decade": "The base case is moderate growth funded by still-large hydrocarbon revenues and the oil fund buffer, with inflation settling in mid-single digits. The structural challenge is diversification away from oil and gas, which still dominate exports and fiscal revenue; gas exports to Europe via the Southern Gas Corridor help. Risks are a sustained oil-price slump and renewed regional conflict. Debt will stay low, but the non-oil deficit needs narrowing for long-run sustainability.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 203.85,
+      "oda_loans_net_usd_million": 47.06
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 161.32,
+      "oda_loans_net_usd_million": 13.34
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 184.45,
+      "oda_loans_net_usd_million": 30.54
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 178.14,
+      "oda_loans_net_usd_million": 40.79
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 156.48,
+      "oda_loans_net_usd_million": 14.52
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 287.77,
+      "oda_loans_net_usd_million": 131.39
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 286.79,
+      "oda_loans_net_usd_million": 159.2
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": -70.83,
+      "oda_loans_net_usd_million": -214.86
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 216.74,
+      "oda_loans_net_usd_million": 78.32
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 69.58,
+      "oda_loans_net_usd_million": -22.46
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 79.43,
+      "oda_loans_net_usd_million": -6.89
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 123.53,
+      "oda_loans_net_usd_million": 31.66
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 87.42,
+      "oda_loans_net_usd_million": -3.09
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 119.09,
+      "oda_loans_net_usd_million": 24.77
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 122.88,
+      "oda_loans_net_usd_million": 14.74
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 9.76,
+      "oda_loans_net_usd_million": -141.3
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 47.23,
+      "oda_loans_net_usd_million": -77.53
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 33.9,
+    "total_imports_usd_billion": 17.28,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 16.24
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 13.68
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.57
+      },
+      {
+        "rank": 4,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.4
+      },
+      {
+        "rank": 5,
+        "hs_code": "3902",
+        "product": "Polymers of propylene or of other olefins, in primary forms",
+        "value_usd_billion": 0.2
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.52
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.08
+      },
+      {
+        "rank": 3,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 0.66
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.53
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.48
+      }
+    ]
   }
 }

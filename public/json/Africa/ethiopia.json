@@ -694,5 +694,163 @@
     ],
     "outlook_next_decade": "The base case is reform-led stabilization: if the birr stays flexible and the debt restructuring completes, Ethiopia could return to 7%+ growth on its demographic and industrial base. Upside is large (manufacturing, services liberalization); downside is that conflict resumes or reforms stall, in which case inflation and debt distress return quickly. Uncertainty is high: the 2024 package was bold, but implementation risk and regional tensions (notably with Eritrea) are material.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 2034.55,
+      "oda_loans_net_usd_million": -3836.05
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 2227.6,
+      "oda_loans_net_usd_million": 270.56
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 2770.14,
+      "oda_loans_net_usd_million": 133.93
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 2785.31,
+      "oda_loans_net_usd_million": 380.68
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 3455.16,
+      "oda_loans_net_usd_million": 638.31
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 3495.89,
+      "oda_loans_net_usd_million": 619.59
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 3243.29,
+      "oda_loans_net_usd_million": 631.48
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 3885.54,
+      "oda_loans_net_usd_million": 1184.91
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 3583.96,
+      "oda_loans_net_usd_million": 1070.33
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 3238.89,
+      "oda_loans_net_usd_million": 858.16
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 4084.37,
+      "oda_loans_net_usd_million": 1427.43
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 4124.75,
+      "oda_loans_net_usd_million": 1201.32
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 4940.96,
+      "oda_loans_net_usd_million": 1777.05
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 4676.65,
+      "oda_loans_net_usd_million": 1248.16
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 5305.14,
+      "oda_loans_net_usd_million": 1535.73
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 4070.65,
+      "oda_loans_net_usd_million": 566.94
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 4928.87,
+      "oda_loans_net_usd_million": 630.17
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 2.86,
+    "total_imports_usd_billion": 17.05,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0901",
+        "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes\u2026",
+        "value_usd_billion": 1.23
+      },
+      {
+        "rank": 2,
+        "hs_code": "1207",
+        "product": "Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 3,
+        "hs_code": "0713",
+        "product": "Vegetables, leguminous; shelled, whether or not skinned or split, dried",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 4,
+        "hs_code": "0603",
+        "product": "Flowers; cut flowers and flower buds of a kind suitable for bouquets or for ornamental\u2026",
+        "value_usd_billion": 0.23
+      },
+      {
+        "rank": 5,
+        "hs_code": "0709",
+        "product": "Vegetables; n.e.c. in chapter 07, fresh or chilled",
+        "value_usd_billion": 0.19
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.42
+      },
+      {
+        "rank": 2,
+        "hs_code": "3105",
+        "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,\u2026",
+        "value_usd_billion": 0.7
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 4,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 0.5
+      },
+      {
+        "rank": 5,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.49
+      }
+    ]
   }
 }

@@ -647,5 +647,163 @@
     ],
     "outlook_next_decade": "Suriname's outlook is binary and oil-linked. If GranMorgu delivers first oil around 2028 as planned, royalties transform the fiscal picture, the VRI pays bondholders, and debt falls fast - the IMF program has already done the hard institutional work. If oil disappoints or is delayed, the 2025 uptick in debt (105.8%) is a warning that the old dynamics - weak revenues, currency pressure - reassert themselves. The base case is cautiously positive given FID and the new government's reform mandate, but this is the highest-uncertainty outlook in the region: one project, one commodity, and a political system that has defaulted before. Honest assessment: the next five years are a coin flip with good odds.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 63.03,
+      "oda_loans_net_usd_million": 2.75
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 150.31,
+      "oda_loans_net_usd_million": -6.96
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 100.02,
+      "oda_loans_net_usd_million": -1.62
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 154.52,
+      "oda_loans_net_usd_million": 1.67
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 100.81,
+      "oda_loans_net_usd_million": -1.65
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 76.33,
+      "oda_loans_net_usd_million": 11.97
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 40.35,
+      "oda_loans_net_usd_million": 20.32
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 30.82,
+      "oda_loans_net_usd_million": 12.03
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 13.39,
+      "oda_loans_net_usd_million": 1.2
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 15.98,
+      "oda_loans_net_usd_million": 0.62
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 16.53,
+      "oda_loans_net_usd_million": -1.07
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 20.13,
+      "oda_loans_net_usd_million": 0.36
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 14.18,
+      "oda_loans_net_usd_million": -5.22
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 23.47,
+      "oda_loans_net_usd_million": -7.74
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 27.19,
+      "oda_loans_net_usd_million": 0.94
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 28.78,
+      "oda_loans_net_usd_million": 5.12
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 54.83,
+      "oda_loans_net_usd_million": 39.9
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 2.31,
+    "total_imports_usd_billion": 1.7,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "4403",
+        "product": "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 3,
+        "hs_code": "8431",
+        "product": "Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 4,
+        "hs_code": "2402",
+        "product": "Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "2829",
+        "product": "Chlorates and perchlorates; bromates and perbromates; iodates and periodates",
+        "value_usd_billion": 0.03
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "8431",
+        "product": "Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 3,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 4,
+        "hs_code": "8609",
+        "product": "Containers; (including containers for transport of fluids) specially designed and\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      }
+    ]
   }
 }

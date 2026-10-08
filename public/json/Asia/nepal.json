@@ -699,5 +699,102 @@
     ],
     "outlook_next_decade": "Nepal's base case is 4-5% growth on remittances, tourism recovery, and hydropower exports to India and Bangladesh, with debt staying manageable. Political instability remains the chronic drag on investment and reform. Upside from hydropower development is large if transmission and Indian demand align. Risks are earthquakes, climate impacts on agriculture, and any disruption to Gulf/Malaysia labor migration that funds the external balance. Debt sustainability is not a concern on current trends.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 452.51,
+      "oda_loans_net_usd_million": 13.33
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 500.94,
+      "oda_loans_net_usd_million": 6.85
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 551.36,
+      "oda_loans_net_usd_million": -121.16
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 592.89,
+      "oda_loans_net_usd_million": -7.84
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 767.35,
+      "oda_loans_net_usd_million": 1.77
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 749.32,
+      "oda_loans_net_usd_million": 2.19
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 769.68,
+      "oda_loans_net_usd_million": -19.41
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 873.33,
+      "oda_loans_net_usd_million": 52.43
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 883.82,
+      "oda_loans_net_usd_million": 44.57
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1224.44,
+      "oda_loans_net_usd_million": 295.08
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1064.5,
+      "oda_loans_net_usd_million": 221.8
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1269.65,
+      "oda_loans_net_usd_million": 424.56
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1452.36,
+      "oda_loans_net_usd_million": 729.02
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1332.68,
+      "oda_loans_net_usd_million": 672.51
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1759.15,
+      "oda_loans_net_usd_million": 1116.73
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1598.49,
+      "oda_loans_net_usd_million": 844.29
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1197.69,
+      "oda_loans_net_usd_million": 636.65
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

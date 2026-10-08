@@ -661,5 +661,163 @@
     ],
     "outlook_next_decade": "Prospects depend more on politics than macroeconomics: low debt and a credible currency board are strengths, but fragmented governance and slow reform constrain EU accession progress. Inflation should stay near euro-area levels given the peg. The upside is EU integration unlocking investment; the downside is political fragmentation or a slowdown in the EU, Bosnia's main trade partner, transmitting directly through the currency board.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 536.84,
+      "oda_loans_net_usd_million": 85.61
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 550.61,
+      "oda_loans_net_usd_million": 31.33
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 448.48,
+      "oda_loans_net_usd_million": 54.89
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 398.37,
+      "oda_loans_net_usd_million": 54.08
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 511.18,
+      "oda_loans_net_usd_million": 143.68
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 625.78,
+      "oda_loans_net_usd_million": 293.83
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 568.02,
+      "oda_loans_net_usd_million": 234.92
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 521.21,
+      "oda_loans_net_usd_million": 164.62
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 630.2,
+      "oda_loans_net_usd_million": 197.74
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 356.39,
+      "oda_loans_net_usd_million": 4.86
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 446.12,
+      "oda_loans_net_usd_million": 173.83
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 440.54,
+      "oda_loans_net_usd_million": 118.74
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 356.07,
+      "oda_loans_net_usd_million": 62.35
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 460.52,
+      "oda_loans_net_usd_million": 105.75
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 438.65,
+      "oda_loans_net_usd_million": 54.81
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 564.42,
+      "oda_loans_net_usd_million": 186.87
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 283.9,
+      "oda_loans_net_usd_million": -26.39
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 9.23,
+    "total_imports_usd_billion": 15.35,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 0.37
+      },
+      {
+        "rank": 3,
+        "hs_code": "7308",
+        "product": "Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections,\u2026",
+        "value_usd_billion": 0.34
+      },
+      {
+        "rank": 4,
+        "hs_code": "9401",
+        "product": "Seats (not those of heading no. 9402), whether or not convertible into beds and parts\u2026",
+        "value_usd_billion": 0.32
+      },
+      {
+        "rank": 5,
+        "hs_code": "9403",
+        "product": "Furniture and parts thereof, n.e.c. in chapter 94",
+        "value_usd_billion": 0.25
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.33
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.62
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.36
+      },
+      {
+        "rank": 4,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 0.33
+      },
+      {
+        "rank": 5,
+        "hs_code": "7601",
+        "product": "Aluminium; unwrought",
+        "value_usd_billion": 0.27
+      }
+    ]
   }
 }

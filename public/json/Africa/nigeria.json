@@ -711,5 +711,163 @@
     ],
     "outlook_next_decade": "The base case is painful adjustment: if the 2023 reforms hold, inflation should fall to single digits and growth recover on refining and gas; if they are reversed, the crisis resumes. Upside is large (Dangote refinery, tax reform, oil production recovery); downside is political: reforms have made Tinubu deeply unpopular and the 2027 election looms. Uncertainty is high: Nigeria has started reforms many times, but never finished them.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 11431.96,
+      "oda_loans_net_usd_million": -272.89
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1643.21,
+      "oda_loans_net_usd_million": 158.01
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 960.68,
+      "oda_loans_net_usd_million": -86.77
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1163.29,
+      "oda_loans_net_usd_million": 18.11
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 2052.36,
+      "oda_loans_net_usd_million": 1045.89
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1809.86,
+      "oda_loans_net_usd_million": 696.72
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1916.11,
+      "oda_loans_net_usd_million": 519.64
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 2515.66,
+      "oda_loans_net_usd_million": 810.5
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 2478.6,
+      "oda_loans_net_usd_million": 939.31
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 2431.54,
+      "oda_loans_net_usd_million": 908.38
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2498.19,
+      "oda_loans_net_usd_million": 756.53
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3356.35,
+      "oda_loans_net_usd_million": 987.48
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 3303.27,
+      "oda_loans_net_usd_million": 1150.37
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 3275.41,
+      "oda_loans_net_usd_million": 1295.39
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 3375.86,
+      "oda_loans_net_usd_million": 1152.11
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 3527.7,
+      "oda_loans_net_usd_million": 1173.63
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 4406.41,
+      "oda_loans_net_usd_million": 2263.99
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 65.13,
+    "total_imports_usd_billion": 65.05,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 52.52
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 6.85
+      },
+      {
+        "rank": 3,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 1.07
+      },
+      {
+        "rank": 4,
+        "hs_code": "1801",
+        "product": "Cocoa beans; whole or broken, raw or roasted",
+        "value_usd_billion": 0.67
+      },
+      {
+        "rank": 5,
+        "hs_code": "1207",
+        "product": "Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+        "value_usd_billion": 0.47
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 21.41
+      },
+      {
+        "rank": 2,
+        "hs_code": "8710",
+        "product": "Tanks and other armoured fighting vehicles; motorised, whether or not fitted with\u2026",
+        "value_usd_billion": 9.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.52
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 2.19
+      },
+      {
+        "rank": 5,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 1.72
+      }
+    ]
   }
 }

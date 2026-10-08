@@ -648,5 +648,163 @@
     ],
     "outlook_next_decade": "Laos faces a difficult decade of working down debt distress: the railway and hydropower exports to neighbors provide real revenue upside, but debt service to China will absorb much of it for years. Inflation should normalize if the kip holds, though reserves are thin. Risks are a renewed currency slide, opaque state-enterprise liabilities, and over-dependence on Chinese creditors. Analytical assessment: stabilization is plausible, but a return to comfortable debt levels will take most of the decade and honest uncertainty is high.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 307.24,
+      "oda_loans_net_usd_million": 71.51
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 308.73,
+      "oda_loans_net_usd_million": 49.32
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 418.1,
+      "oda_loans_net_usd_million": 135.28
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 342.61,
+      "oda_loans_net_usd_million": 51.03
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 389.21,
+      "oda_loans_net_usd_million": 35.86
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 371.95,
+      "oda_loans_net_usd_million": 17.57
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 410.7,
+      "oda_loans_net_usd_million": -49.41
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 423.33,
+      "oda_loans_net_usd_million": -4.5
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 474.42,
+      "oda_loans_net_usd_million": 15.61
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 471.09,
+      "oda_loans_net_usd_million": 87.05
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 399.46,
+      "oda_loans_net_usd_million": 20.06
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 480.36,
+      "oda_loans_net_usd_million": 117.6
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 588.74,
+      "oda_loans_net_usd_million": 134.19
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 621.57,
+      "oda_loans_net_usd_million": 191.75
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 529.45,
+      "oda_loans_net_usd_million": 93.64
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 575.68,
+      "oda_loans_net_usd_million": 94.54
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 546.28,
+      "oda_loans_net_usd_million": 121.54
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 6.04,
+    "total_imports_usd_billion": 7.08,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.7
+      },
+      {
+        "rank": 2,
+        "hs_code": "4805",
+        "product": "Uncoated paper and paperboard n.e.c., in rolls or sheets",
+        "value_usd_billion": 0.46
+      },
+      {
+        "rank": 3,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 0.42
+      },
+      {
+        "rank": 4,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 0.41
+      },
+      {
+        "rank": 5,
+        "hs_code": "3104",
+        "product": "Fertilizers; mineral or chemical, potassic",
+        "value_usd_billion": 0.4
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.26
+      },
+      {
+        "rank": 2,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.24
+      },
+      {
+        "rank": 4,
+        "hs_code": "2202",
+        "product": "Waters, including mineral and aerated waters, containing added sugar or sweetening\u2026",
+        "value_usd_billion": 0.21
+      },
+      {
+        "rank": 5,
+        "hs_code": "4707",
+        "product": "Waste and scrap of paper and paperboard",
+        "value_usd_billion": 0.21
+      }
+    ]
   }
 }

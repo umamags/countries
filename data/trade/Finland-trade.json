@@ -1,0 +1,73 @@
+{
+  "country": "Finland",
+  "iso3": "FIN",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 82.57,
+  "total_imports_usd_billion": 83.09,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 6.35
+    },
+    {
+      "rank": 2,
+      "hs_code": "4810",
+      "product": "Paper and paperboard, coated one or both sides with kaolin (china clay) or inorganic…",
+      "value_usd_billion": 3.46
+    },
+    {
+      "rank": 3,
+      "hs_code": "7219",
+      "product": "Stainless steel; flat-rolled products of width of 600mm or more",
+      "value_usd_billion": 3.2
+    },
+    {
+      "rank": 4,
+      "hs_code": "4703",
+      "product": "Chemical wood pulp, soda or sulphate, other than dissolving grades",
+      "value_usd_billion": 2.83
+    },
+    {
+      "rank": 5,
+      "hs_code": "8901",
+      "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for…",
+      "value_usd_billion": 2.22
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 6.39
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 4.5
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 3.23
+    },
+    {
+      "rank": 4,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 1.86
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 1.73
+    }
+  ]
+}

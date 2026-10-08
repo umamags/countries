@@ -692,5 +692,163 @@
     ],
     "outlook_next_decade": "Cambodia should keep growing 5-6% on garments, tourism recovery, and manufacturing shifting from China, with debt staying manageable. Risks include loss of trade preferences if democratic conditions worsen, over-reliance on Chinese investment, real-estate and microfinance credit excesses, and climate vulnerability. Inflation is likely to stay low under the dollarized regime. The political succession's economic impact will depend on whether reform momentum continues.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 476.35,
+      "oda_loans_net_usd_million": -34.76
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 583.54,
+      "oda_loans_net_usd_million": 61.03
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 579.25,
+      "oda_loans_net_usd_million": 51.21
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 608.31,
+      "oda_loans_net_usd_million": 49.17
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 681.04,
+      "oda_loans_net_usd_million": 62.71
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 691.95,
+      "oda_loans_net_usd_million": 54.26
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 807.69,
+      "oda_loans_net_usd_million": 126.56
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 808.21,
+      "oda_loans_net_usd_million": 164.89
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 802.68,
+      "oda_loans_net_usd_million": 170.3
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 679.04,
+      "oda_loans_net_usd_million": 154.9
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 728.45,
+      "oda_loans_net_usd_million": 159.29
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 856.26,
+      "oda_loans_net_usd_million": 268.28
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 783.4,
+      "oda_loans_net_usd_million": 202.38
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 966.44,
+      "oda_loans_net_usd_million": 424.05
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1373.73,
+      "oda_loans_net_usd_million": 775.28
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1367.05,
+      "oda_loans_net_usd_million": 742.06
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1547.91,
+      "oda_loans_net_usd_million": 921.75
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 21.68,
+    "total_imports_usd_billion": 24.41,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8541",
+        "product": "Semiconductor devices (e.g. diodes, transistors, semiconductor based transducers);\u2026",
+        "value_usd_billion": 2.14
+      },
+      {
+        "rank": 2,
+        "hs_code": "4202",
+        "product": "Trunks; suit, camera, jewellery, cutlery cases; travel, tool, similar bags; wholly or\u2026",
+        "value_usd_billion": 1.64
+      },
+      {
+        "rank": 3,
+        "hs_code": "6110",
+        "product": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted",
+        "value_usd_billion": 1.55
+      },
+      {
+        "rank": 4,
+        "hs_code": "6104",
+        "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace\u2026",
+        "value_usd_billion": 0.98
+      },
+      {
+        "rank": 5,
+        "hs_code": "6204",
+        "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace\u2026",
+        "value_usd_billion": 0.93
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.31
+      },
+      {
+        "rank": 2,
+        "hs_code": "6006",
+        "product": "Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04",
+        "value_usd_billion": 1.81
+      },
+      {
+        "rank": 3,
+        "hs_code": "5515",
+        "product": "Woven fabrics of synthetic staple fibres, n.e.c. in chapter 55",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "3818",
+        "product": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar\u2026",
+        "value_usd_billion": 0.73
+      },
+      {
+        "rank": 5,
+        "hs_code": "6004",
+        "product": "Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of\u2026",
+        "value_usd_billion": 0.72
+      }
+    ]
   }
 }

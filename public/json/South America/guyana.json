@@ -633,5 +633,163 @@
     ],
     "outlook_next_decade": "Guyana is the clearest structural growth story in the hemisphere: production is heading toward 1.2 million barrels per day by 2027, the NRF provides a fiscal buffer most oil states lack, and debt near 29% of GDP leaves enormous headroom. The base case is another decade of very rapid growth with rising per-capita income. The honest risks are governance of the windfall - whether oil money reaches the half of the population still in poverty - Dutch disease hollowing out agriculture and manufacturing, and the Essequibo dispute with Venezuela, which is the one tail risk that could upend everything. Watch NRF withdrawal rules: they are the single best indicator of fiscal discipline.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 129.51,
+      "oda_loans_net_usd_million": -242.6
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 75.61,
+      "oda_loans_net_usd_million": 6.21
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 114.78,
+      "oda_loans_net_usd_million": 1.78
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 103.02,
+      "oda_loans_net_usd_million": -1.04
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 106.41,
+      "oda_loans_net_usd_million": -2.69
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 105.62,
+      "oda_loans_net_usd_million": -6.34
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 114.92,
+      "oda_loans_net_usd_million": 41.51
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 101.24,
+      "oda_loans_net_usd_million": 43.78
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 160.61,
+      "oda_loans_net_usd_million": 11.71
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 32.14,
+      "oda_loans_net_usd_million": 3.11
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 70.02,
+      "oda_loans_net_usd_million": 1.7
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 51.13,
+      "oda_loans_net_usd_million": 14.62
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 104.18,
+      "oda_loans_net_usd_million": 51.03
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 111.52,
+      "oda_loans_net_usd_million": 26.96
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 52.17,
+      "oda_loans_net_usd_million": 6.38
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 138.81,
+      "oda_loans_net_usd_million": 94.64
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 199.04,
+      "oda_loans_net_usd_million": 172.17
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 10.81,
+    "total_imports_usd_billion": 5.23,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 7.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "8609",
+        "product": "Containers; (including containers for transport of fluids) specially designed and\u2026",
+        "value_usd_billion": 1.26
+      },
+      {
+        "rank": 3,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 4,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.24
+      },
+      {
+        "rank": 5,
+        "hs_code": "8431",
+        "product": "Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430",
+        "value_usd_billion": 0.24
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.98
+      },
+      {
+        "rank": 2,
+        "hs_code": "8901",
+        "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for\u2026",
+        "value_usd_billion": 0.27
+      },
+      {
+        "rank": 3,
+        "hs_code": "8429",
+        "product": "Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators,\u2026",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 4,
+        "hs_code": "8431",
+        "product": "Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.18
+      }
+    ]
   }
 }

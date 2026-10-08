@@ -1,0 +1,73 @@
+{
+  "country": "Uganda",
+  "iso3": "UGA",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 6.31,
+  "total_imports_usd_billion": 11.78,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 2.23
+    },
+    {
+      "rank": 2,
+      "hs_code": "0901",
+      "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes…",
+      "value_usd_billion": 0.96
+    },
+    {
+      "rank": 3,
+      "hs_code": "6907",
+      "product": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like,…",
+      "value_usd_billion": 0.18
+    },
+    {
+      "rank": 4,
+      "hs_code": "1801",
+      "product": "Cocoa beans; whole or broken, raw or roasted",
+      "value_usd_billion": 0.14
+    },
+    {
+      "rank": 5,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.14
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 2.04
+    },
+    {
+      "rank": 2,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 1.9
+    },
+    {
+      "rank": 3,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.34
+    },
+    {
+      "rank": 4,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.31
+    },
+    {
+      "rank": 5,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.28
+    }
+  ]
+}

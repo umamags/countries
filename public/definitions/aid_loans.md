@@ -1,0 +1,5 @@
+oda_received_usd_million — net Official Development Assistance disbursed to the country that year, in USD millions. ODA is government aid meant to promote development and welfare: grants plus concessional loans (loans on below-market terms). "Net" means new disbursements minus repayments of principal on past ODA loans.
+
+oda_loans_net_usd_million — just the loan slice of the above: net disbursements of concessional ODA loans (new loan disbursements minus principal repayments), in USD millions.
+
+Negative values mean repayments exceeded new money that year — the country paid back more on old concessional loans than it received in fresh aid/loans. That's typical for graduated economies like China and Thailand: they're still servicing old aid loans while receiving almost no new aid. It doesn't mean they're giving aid; it's purely the arithmetic of net flows.

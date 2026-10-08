@@ -685,5 +685,163 @@
     ],
     "outlook_next_decade": "The base case is continued tourism and financial-services growth with inflation near 3-4% and debt slowly declining if the new government consolidates. Upside comes from diversification and African financial hub ambitions; downside is debt: at 86% of GDP, another tourism shock would force painful adjustment. Uncertainty is moderate: institutions are strong and the 2024 transition was democratic, but fiscal consolidation has been promised by every government and delivered by none.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 19.13,
+      "oda_loans_net_usd_million": -22.88
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 69.82,
+      "oda_loans_net_usd_million": 10.57
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 109.3,
+      "oda_loans_net_usd_million": -11.92
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 156.64,
+      "oda_loans_net_usd_million": 37.04
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 124.59,
+      "oda_loans_net_usd_million": 32.16
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 185.69,
+      "oda_loans_net_usd_million": 78.86
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 176.68,
+      "oda_loans_net_usd_million": 73.54
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 145.74,
+      "oda_loans_net_usd_million": 78.21
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 44.59,
+      "oda_loans_net_usd_million": 10.17
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 78.42,
+      "oda_loans_net_usd_million": 24.61
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 42.34,
+      "oda_loans_net_usd_million": -9.52
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 14.63,
+      "oda_loans_net_usd_million": -22.92
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 69.22,
+      "oda_loans_net_usd_million": 11.69
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 22.22,
+      "oda_loans_net_usd_million": -39.44
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 335.12,
+      "oda_loans_net_usd_million": 290.43
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 293.2,
+      "oda_loans_net_usd_million": 233.43
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 76.2,
+      "oda_loans_net_usd_million": 31.49
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 1.85,
+    "total_imports_usd_billion": 6.28,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "1604",
+        "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 2,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.23
+      },
+      {
+        "rank": 3,
+        "hs_code": "6203",
+        "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts\u2026",
+        "value_usd_billion": 0.1
+      },
+      {
+        "rank": 4,
+        "hs_code": "0106",
+        "product": "Animals; live, n.e.c. in chapter 01",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 5,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 0.08
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.4
+      },
+      {
+        "rank": 3,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.16
+      }
+    ]
   }
 }

@@ -633,5 +633,163 @@
     ],
     "outlook_next_decade": "The base case is continued stability: low debt, low inflation, and tourism-led growth, with the floating rupee absorbing shocks. Upside comes from fisheries and the blue economy; downside is climate change, an existential threat to a low-lying archipelago. Uncertainty is low on macro policy, which is exemplary, but high on climate, which no policy can offset.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 13.71,
+      "oda_loans_net_usd_million": 2.94
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 6.08,
+      "oda_loans_net_usd_million": -2.81
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 7.49,
+      "oda_loans_net_usd_million": -0.31
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 23.16,
+      "oda_loans_net_usd_million": -2.13
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 53.93,
+      "oda_loans_net_usd_million": -20.2
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 22.72,
+      "oda_loans_net_usd_million": 0.57
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 34.75,
+      "oda_loans_net_usd_million": 8.18
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 27.42,
+      "oda_loans_net_usd_million": 8.73
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 12.0,
+      "oda_loans_net_usd_million": -1.41
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 6.78,
+      "oda_loans_net_usd_million": -4.0
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 5.8,
+      "oda_loans_net_usd_million": -11.07
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 16.2,
+      "oda_loans_net_usd_million": -2.19
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.55,
+    "total_imports_usd_billion": 1.47,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "1604",
+        "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 3,
+        "hs_code": "7204",
+        "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 5,
+        "hs_code": "2301",
+        "product": "Flours, meal and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or\u2026",
+        "value_usd_billion": 0.01
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 2,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.13
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "7310",
+        "product": "Tanks, casks, drums, cans, boxes and similar containers, for any material (excluding\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "8903",
+        "product": "Yachts and other vessels; for pleasure or sports, rowing boats and canoes",
+        "value_usd_billion": 0.02
+      }
+    ]
   }
 }

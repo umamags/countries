@@ -1,0 +1,73 @@
+{
+  "country": "Pakistan",
+  "iso3": "PAK",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 28.75,
+  "total_imports_usd_billion": 50.01,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "6302",
+      "product": "Bed linen, table linen, toilet linen and kitchen linen",
+      "value_usd_billion": 3.87
+    },
+    {
+      "rank": 2,
+      "hs_code": "1006",
+      "product": "Rice",
+      "value_usd_billion": 2.86
+    },
+    {
+      "rank": 3,
+      "hs_code": "6203",
+      "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts…",
+      "value_usd_billion": 2.59
+    },
+    {
+      "rank": 4,
+      "hs_code": "5205",
+      "product": "Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not…",
+      "value_usd_billion": 1.03
+    },
+    {
+      "rank": 5,
+      "hs_code": "6103",
+      "product": "Suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches, shorts…",
+      "value_usd_billion": 0.79
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 6.48
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 4.8
+    },
+    {
+      "rank": 3,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 4.33
+    },
+    {
+      "rank": 4,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 2.92
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 1.23
+    }
+  ]
+}

@@ -683,5 +683,77 @@
     ],
     "outlook_next_decade": "The base case is trend growth around 2% with inflation at target and debt stabilizing under 50% of GDP. Czechia's industrial base faces the energy transition and EV shift as a structural challenge. The koruna's float remains a useful stabilizer, and fiscal consolidation is gradual rather than urgent. The main uncertainty is Germany's industrial cycle, to which Czech output is tightly coupled.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 253.33,
+    "total_imports_usd_billion": 228.91,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 31.98
+      },
+      {
+        "rank": 2,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 16.92
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 16.78
+      },
+      {
+        "rank": 4,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 12.05
+      },
+      {
+        "rank": 5,
+        "hs_code": "8507",
+        "product": "Electric accumulators, including separators therefor; whether or not rectangular\u2026",
+        "value_usd_billion": 4.54
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 15.61
+      },
+      {
+        "rank": 2,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 12.75
+      },
+      {
+        "rank": 3,
+        "hs_code": "8471",
+        "product": "Automatic data processing machines and units thereof, magnetic or optical readers,\u2026",
+        "value_usd_billion": 8.31
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 6.68
+      },
+      {
+        "rank": 5,
+        "hs_code": "8507",
+        "product": "Electric accumulators, including separators therefor; whether or not rectangular\u2026",
+        "value_usd_billion": 5.91
+      }
+    ]
   }
 }

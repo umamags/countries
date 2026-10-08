@@ -1,0 +1,73 @@
+{
+  "country": "Mauritania",
+  "iso3": "MRT",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 4.07,
+  "total_imports_usd_billion": 4.82,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 1.52
+    },
+    {
+      "rank": 2,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 1.41
+    },
+    {
+      "rank": 3,
+      "hs_code": "0307",
+      "product": "Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in…",
+      "value_usd_billion": 0.38
+    },
+    {
+      "rank": 4,
+      "hs_code": "0303",
+      "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "value_usd_billion": 0.27
+    },
+    {
+      "rank": 5,
+      "hs_code": "2603",
+      "product": "Copper ores and concentrates",
+      "value_usd_billion": 0.13
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.66
+    },
+    {
+      "rank": 2,
+      "hs_code": "1701",
+      "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "value_usd_billion": 0.3
+    },
+    {
+      "rank": 3,
+      "hs_code": "1001",
+      "product": "Wheat and meslin",
+      "value_usd_billion": 0.22
+    },
+    {
+      "rank": 4,
+      "hs_code": "1507",
+      "product": "Soya-bean oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.18
+    },
+    {
+      "rank": 5,
+      "hs_code": "1511",
+      "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+      "value_usd_billion": 0.16
+    }
+  ]
+}

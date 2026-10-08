@@ -1,0 +1,73 @@
+{
+  "country": "Mali",
+  "iso3": "MLI",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 4.01,
+  "total_imports_usd_billion": 6.42,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 3.07
+    },
+    {
+      "rank": 2,
+      "hs_code": "5203",
+      "product": "Cotton, carded or combed",
+      "value_usd_billion": 0.32
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.06
+    },
+    {
+      "rank": 4,
+      "hs_code": "0102",
+      "product": "Bovine animals; live",
+      "value_usd_billion": 0.06
+    },
+    {
+      "rank": 5,
+      "hs_code": "0104",
+      "product": "Sheep and goats; live",
+      "value_usd_billion": 0.06
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 2.26
+    },
+    {
+      "rank": 2,
+      "hs_code": "2523",
+      "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and…",
+      "value_usd_billion": 0.3
+    },
+    {
+      "rank": 3,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.23
+    },
+    {
+      "rank": 4,
+      "hs_code": "1006",
+      "product": "Rice",
+      "value_usd_billion": 0.18
+    },
+    {
+      "rank": 5,
+      "hs_code": "1001",
+      "product": "Wheat and meslin",
+      "value_usd_billion": 0.16
+    }
+  ]
+}

@@ -623,5 +623,163 @@
     ],
     "outlook_next_decade": "Serbia's outlook balances strong macro management against political risk: debt falling toward 42% of GDP, inflation near target, and the EXPO 2027 investment cycle supporting growth. EU accession talks continue but slowly; the Kosovo dispute remains the geopolitical overhang. The growth model \u2014 FDI in manufacturing, IT services \u2014 is working. Risks are political instability, which flared in 2024-25, and energy dependence. The analytical base case is continued convergence with inflation at target.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1579.59,
+      "oda_loans_net_usd_million": 52.06
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 784.85,
+      "oda_loans_net_usd_million": 25.23
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 933.51,
+      "oda_loans_net_usd_million": 27.95
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 600.04,
+      "oda_loans_net_usd_million": 80.9
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 661.47,
+      "oda_loans_net_usd_million": 80.13
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1379.17,
+      "oda_loans_net_usd_million": 857.76
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1087.78,
+      "oda_loans_net_usd_million": 623.09
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 780.27,
+      "oda_loans_net_usd_million": 389.13
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 367.05,
+      "oda_loans_net_usd_million": -35.02
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 312.48,
+      "oda_loans_net_usd_million": 2.57
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 633.47,
+      "oda_loans_net_usd_million": 323.57
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1688.42,
+      "oda_loans_net_usd_million": 1326.28
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1070.12,
+      "oda_loans_net_usd_million": 614.23
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 564.6,
+      "oda_loans_net_usd_million": 153.43
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 488.37,
+      "oda_loans_net_usd_million": -47.41
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 533.3,
+      "oda_loans_net_usd_million": 35.66
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 510.13,
+      "oda_loans_net_usd_million": 73.99
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 30.93,
+    "total_imports_usd_billion": 39.83,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8544",
+        "product": "Insulated wire, cable and other electric conductors, connector fitted or not; optical\u2026",
+        "value_usd_billion": 2.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 1.46
+      },
+      {
+        "rank": 3,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 1.37
+      },
+      {
+        "rank": 4,
+        "hs_code": "8501",
+        "product": "Electric motors and generators (excluding generating sets)",
+        "value_usd_billion": 0.95
+      },
+      {
+        "rank": 5,
+        "hs_code": "4011",
+        "product": "New pneumatic tyres, of rubber",
+        "value_usd_billion": 0.89
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 5.0
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.94
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.4
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.26
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.86
+      }
+    ]
   }
 }

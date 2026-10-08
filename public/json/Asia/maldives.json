@@ -678,5 +678,163 @@
     ],
     "outlook_next_decade": "The Maldives faces a near-term liquidity test: the 2026 repayment wall will determine whether it needs restructuring or bridge financing, and tourism revenues plus Gulf/Chinese support are the swing factors. Longer term, tourism growth and the expanded airport support 4-5% growth, but climate change (sea-level rise) is an existential slow-burn risk. Analytical assessment: debt is likely to stay above 100% of GDP for years; the question is financing, not solvency, provided tourism holds.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 34.09,
+      "oda_loans_net_usd_million": 5.36
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 29.73,
+      "oda_loans_net_usd_million": 0.04
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 49.9,
+      "oda_loans_net_usd_million": 27.24
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 24.51,
+      "oda_loans_net_usd_million": -5.88
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 88.28,
+      "oda_loans_net_usd_million": 40.04
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 49.83,
+      "oda_loans_net_usd_million": 12.89
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 56.73,
+      "oda_loans_net_usd_million": 25.64
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 21.7,
+      "oda_loans_net_usd_million": -0.36
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 22.54,
+      "oda_loans_net_usd_million": -3.19
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 23.99,
+      "oda_loans_net_usd_million": -3.72
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 22.71,
+      "oda_loans_net_usd_million": -12.84
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 46.48,
+      "oda_loans_net_usd_million": 0.17
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 131.43,
+      "oda_loans_net_usd_million": 39.34
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 71.08,
+      "oda_loans_net_usd_million": 2.67
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 311.16,
+      "oda_loans_net_usd_million": 188.77
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 112.41,
+      "oda_loans_net_usd_million": 17.77
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 119.12,
+      "oda_loans_net_usd_million": 14.42
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.16,
+    "total_imports_usd_billion": 3.49,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 2,
+        "hs_code": "1604",
+        "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "0304",
+        "product": "Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "0302",
+        "product": "Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "7204",
+        "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.74
+      },
+      {
+        "rank": 2,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 3,
+        "hs_code": "2516",
+        "product": "Granite, porphyry, basalt, sandstone, other monumental and building stone, whether or not\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 4,
+        "hs_code": "8802",
+        "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.\u2026",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 5,
+        "hs_code": "7214",
+        "product": "Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot\u2026",
+        "value_usd_billion": 0.05
+      }
+    ]
   }
 }

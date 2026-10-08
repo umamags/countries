@@ -621,5 +621,16 @@
     ],
     "outlook_next_decade": "Liechtenstein's outlook is one of stability: no debt, price stability imported from Switzerland, and a high-value industrial and financial base. The structural risks are regulatory \u2014 EU and OECD pressure on financial centers \u2014 and the franc's chronic strength squeezing exporters. Neither threatens the macro position. The analytical assessment is straightforward: this is one of the world's most fiscally secure economies, with limited upside or downside on the macro side.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

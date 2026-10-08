@@ -1,0 +1,73 @@
+{
+  "country": "Qatar",
+  "iso3": "QAT",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 97.75,
+  "total_imports_usd_billion": 31.43,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 59.19
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 16.86
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 8.54
+    },
+    {
+      "rank": 4,
+      "hs_code": "3901",
+      "product": "Polymers of ethylene, in primary forms",
+      "value_usd_billion": 2.27
+    },
+    {
+      "rank": 5,
+      "hs_code": "3102",
+      "product": "Fertilizers; mineral or chemical, nitrogenous",
+      "value_usd_billion": 1.85
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8411",
+      "product": "Turbo-jets, turbo-propellers and other gas turbines",
+      "value_usd_billion": 2.32
+    },
+    {
+      "rank": 2,
+      "hs_code": "9999",
+      "product": "Commodities not specified according to kind",
+      "value_usd_billion": 2.06
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 1.37
+    },
+    {
+      "rank": 4,
+      "hs_code": "8807",
+      "product": "Aircraft; parts of goods of heading 8801, 8802 or 8806",
+      "value_usd_billion": 1.17
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 1.0
+    }
+  ]
+}

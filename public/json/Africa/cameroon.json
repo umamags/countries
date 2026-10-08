@@ -703,5 +703,163 @@
     ],
     "outlook_next_decade": "The base case is continued low inflation under the CFA peg with moderate growth, but debt is on a structurally rising path and the succession question around Biya (in power since 1982) is the dominant uncertainty. Upside comes from oil and gas projects and regional trade; downside is a disorderly political transition or renewed conflict. Uncertainty is moderate-to-high and heavily political rather than macroeconomic.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1716.24,
+      "oda_loans_net_usd_million": -1580.6
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1897.87,
+      "oda_loans_net_usd_million": -101.55
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 522.45,
+      "oda_loans_net_usd_million": -510.84
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 596.16,
+      "oda_loans_net_usd_million": 67.56
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 540.23,
+      "oda_loans_net_usd_million": 25.06
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 612.08,
+      "oda_loans_net_usd_million": 34.83
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 597.16,
+      "oda_loans_net_usd_million": 113.19
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 751.96,
+      "oda_loans_net_usd_million": 243.56
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 856.12,
+      "oda_loans_net_usd_million": 360.12
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 664.16,
+      "oda_loans_net_usd_million": 231.0
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 756.59,
+      "oda_loans_net_usd_million": 302.51
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1216.8,
+      "oda_loans_net_usd_million": 664.6
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1165.35,
+      "oda_loans_net_usd_million": 554.54
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1297.49,
+      "oda_loans_net_usd_million": 619.99
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1400.57,
+      "oda_loans_net_usd_million": 682.18
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1140.96,
+      "oda_loans_net_usd_million": 426.46
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1185.65,
+      "oda_loans_net_usd_million": 311.0
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 4.97,
+    "total_imports_usd_billion": 8.3,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.87
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 0.7
+      },
+      {
+        "rank": 3,
+        "hs_code": "1801",
+        "product": "Cocoa beans; whole or broken, raw or roasted",
+        "value_usd_billion": 0.6
+      },
+      {
+        "rank": 4,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.33
+      },
+      {
+        "rank": 5,
+        "hs_code": "5201",
+        "product": "Cotton; not carded or combed",
+        "value_usd_billion": 0.25
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.88
+      },
+      {
+        "rank": 2,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.33
+      },
+      {
+        "rank": 3,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.3
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.3
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.25
+      }
+    ]
   }
 }

@@ -660,5 +660,163 @@
     ],
     "outlook_next_decade": "The base case is gas-led growth with debt slowly declining from over 100% of GDP, but everything depends on LNG projects staying on track and the insurgency staying contained. Upside is transformational: Mozambique could become a major LNG exporter; downside is that the hidden-debt legacy, conflict, and political instability waste the windfall. Uncertainty is high: the economics are promising, the governance record is the worst in the region.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1641.94,
+      "oda_loans_net_usd_million": -1507.91
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1521.21,
+      "oda_loans_net_usd_million": 156.82
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1713.36,
+      "oda_loans_net_usd_million": 88.53
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1800.43,
+      "oda_loans_net_usd_million": 271.46
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1943.13,
+      "oda_loans_net_usd_million": 348.21
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 2065.47,
+      "oda_loans_net_usd_million": 393.18
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 2071.7,
+      "oda_loans_net_usd_million": 400.52
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 2312.7,
+      "oda_loans_net_usd_million": 510.43
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 2106.01,
+      "oda_loans_net_usd_million": 458.77
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1819.12,
+      "oda_loans_net_usd_million": 519.31
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1533.77,
+      "oda_loans_net_usd_million": 147.97
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1806.09,
+      "oda_loans_net_usd_million": 261.77
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1823.56,
+      "oda_loans_net_usd_million": 256.85
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1841.43,
+      "oda_loans_net_usd_million": 290.54
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 2556.26,
+      "oda_loans_net_usd_million": 406.08
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 2282.83,
+      "oda_loans_net_usd_million": 49.59
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 2572.36,
+      "oda_loans_net_usd_million": -48.08
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 8.28,
+    "total_imports_usd_billion": 10.09,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 1.76
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.73
+      },
+      {
+        "rank": 3,
+        "hs_code": "7601",
+        "product": "Aluminium; unwrought",
+        "value_usd_billion": 1.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.66
+      },
+      {
+        "rank": 5,
+        "hs_code": "2704",
+        "product": "Coke and semi-coke; of coal, lignite or peat, whether or not agglomerated; retort carbon",
+        "value_usd_billion": 0.46
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.66
+      },
+      {
+        "rank": 2,
+        "hs_code": "2826",
+        "product": "Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts",
+        "value_usd_billion": 0.38
+      },
+      {
+        "rank": 3,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.35
+      },
+      {
+        "rank": 4,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 0.29
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.26
+      }
+    ]
   }
 }

@@ -648,5 +648,77 @@
     ],
     "outlook_next_decade": "Kuwait's finances are strong in assets but weak in institutions: the wealth funds guarantee solvency, yet without subsidy and public-sector reform, deficits return whenever oil dips. The 2025 debt law gives breathing room, not a solution. Upside from the northern oil fields and diversification projects exists but has been promised for decades. Analytical assessment: expect continued stop-start reform with fiscal crises recurring on each oil downturn until structural spending is addressed.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 83.98,
+    "total_imports_usd_billion": 37.49,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 49.83
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 25.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 3.14
+      },
+      {
+        "rank": 4,
+        "hs_code": "2904",
+        "product": "Sulphonated, nitrated or nitrosated derivatives of hydrocarbons; whether or not\u2026",
+        "value_usd_billion": 0.9
+      },
+      {
+        "rank": 5,
+        "hs_code": "2905",
+        "product": "Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+        "value_usd_billion": 0.71
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 4.71
+      },
+      {
+        "rank": 2,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 1.71
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.37
+      },
+      {
+        "rank": 4,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 1.19
+      },
+      {
+        "rank": 5,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.9
+      }
+    ]
   }
 }

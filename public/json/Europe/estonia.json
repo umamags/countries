@@ -668,5 +668,77 @@
     ],
     "outlook_next_decade": "Estonia's fiscal position is essentially unimpeachable, giving it freedom to spend on defense and digital infrastructure. The structural challenge is the energy transition away from oil shale and labor-market tightness in a shrinking population. Inflation should normalize toward the ECB target as the 2022-25 tax effects fade. Security policy, not macroeconomics, dominates the outlook: proximity to Russia keeps risk premiums and defense budgets high.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 20.11,
+    "total_imports_usd_billion": 23.44,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.97
+      },
+      {
+        "rank": 2,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.94
+      },
+      {
+        "rank": 3,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.47
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.46
+      },
+      {
+        "rank": 5,
+        "hs_code": "9406",
+        "product": "Buildings; prefabricated",
+        "value_usd_billion": 0.46
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.65
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.05
+      },
+      {
+        "rank": 3,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.8
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.75
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.63
+      }
+    ]
   }
 }

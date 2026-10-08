@@ -683,5 +683,163 @@
     ],
     "outlook_next_decade": "Euro membership is the structural tailwind: lower rates, no currency risk, and deeper integration with the euro area. The debt path from 86.5% to a projected 55.9% of GDP shows the consolidation machine works when growth cooperates. Risks are tourism concentration, emigration, and the energy dependence that produced the 2022 spike. Inflation convergence to the ECB target should be achieved, though services prices will stay relatively firm.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 196.51,
+      "oda_loans_net_usd_million": -14.23
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 162.91,
+      "oda_loans_net_usd_million": -13.31
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 241.06,
+      "oda_loans_net_usd_million": -5.86
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 168.83,
+      "oda_loans_net_usd_million": -9.82
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 131.55,
+      "oda_loans_net_usd_million": -15.47
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 24.67,
+    "total_imports_usd_billion": 42.55,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.22
+      },
+      {
+        "rank": 2,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.84
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "8504",
+        "product": "Electric transformers, static converters (e.g. rectifiers) and inductors",
+        "value_usd_billion": 0.67
+      },
+      {
+        "rank": 5,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 0.57
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.56
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 2.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.08
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.15
+      },
+      {
+        "rank": 5,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.95
+      }
+    ]
   }
 }

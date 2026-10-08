@@ -1,0 +1,73 @@
+{
+  "country": "Portugal",
+  "iso3": "PRT",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 83.62,
+  "total_imports_usd_billion": 113.69,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 4.39
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 4.35
+    },
+    {
+      "rank": 3,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 3.57
+    },
+    {
+      "rank": 4,
+      "hs_code": "6403",
+      "product": "Footwear; with outer soles of rubber, plastics, leather or composition leather and uppers…",
+      "value_usd_billion": 1.69
+    },
+    {
+      "rank": 5,
+      "hs_code": "4011",
+      "product": "New pneumatic tyres, of rubber",
+      "value_usd_billion": 1.57
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 7.17
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 5.93
+    },
+    {
+      "rank": 3,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 3.59
+    },
+    {
+      "rank": 4,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 3.36
+    },
+    {
+      "rank": 5,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 2.64
+    }
+  ]
+}

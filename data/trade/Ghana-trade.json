@@ -1,0 +1,73 @@
+{
+  "country": "Ghana",
+  "iso3": "GHA",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 16.83,
+  "total_imports_usd_billion": 16.39,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 7.62
+    },
+    {
+      "rank": 2,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 3.97
+    },
+    {
+      "rank": 3,
+      "hs_code": "1801",
+      "product": "Cocoa beans; whole or broken, raw or roasted",
+      "value_usd_billion": 1.12
+    },
+    {
+      "rank": 4,
+      "hs_code": "1803",
+      "product": "Cocoa; paste; whether or not defatted",
+      "value_usd_billion": 0.41
+    },
+    {
+      "rank": 5,
+      "hs_code": "2602",
+      "product": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates…",
+      "value_usd_billion": 0.31
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 4.94
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.55
+    },
+    {
+      "rank": 3,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 0.38
+    },
+    {
+      "rank": 4,
+      "hs_code": "3808",
+      "product": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth…",
+      "value_usd_billion": 0.34
+    },
+    {
+      "rank": 5,
+      "hs_code": "2523",
+      "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and…",
+      "value_usd_billion": 0.34
+    }
+  ]
+}

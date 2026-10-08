@@ -1,0 +1,73 @@
+{
+  "country": "Turkey",
+  "iso3": "TUR",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 255.63,
+  "total_imports_usd_billion": 361.97,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 13.77
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 11.55
+    },
+    {
+      "rank": 3,
+      "hs_code": "7113",
+      "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious…",
+      "value_usd_billion": 8.38
+    },
+    {
+      "rank": 4,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 7.23
+    },
+    {
+      "rank": 5,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 5.62
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 30.02
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 20.48
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 18.19
+    },
+    {
+      "rank": 4,
+      "hs_code": "7204",
+      "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+      "value_usd_billion": 7.6
+    },
+    {
+      "rank": 5,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 7.17
+    }
+  ]
+}

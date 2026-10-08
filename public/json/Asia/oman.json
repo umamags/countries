@@ -676,5 +676,163 @@
     ],
     "outlook_next_decade": "Oman is the Gulf's most credible fiscal turnaround story: debt is falling, buffers are being rebuilt, and Vision 2040 targets logistics, tourism, and manufacturing diversification. The base case is moderate growth with continued consolidation. Risks are oil-price dependence (still dominant), water scarcity, and whether diversification delivers jobs for a young population. Analytical assessment: the trajectory is favorable, but the next oil downturn will test whether reforms or backsliding prevail.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 54.07,
+      "oda_loans_net_usd_million": 4.23
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 213.98,
+      "oda_loans_net_usd_million": -68.01
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 74.65,
+      "oda_loans_net_usd_million": -4.18
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 21.8,
+      "oda_loans_net_usd_million": 12.5
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": -21.61,
+      "oda_loans_net_usd_million": -42.48
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 59.04,
+    "total_imports_usd_billion": 38.78,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 25.79
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 8.38
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 6.63
+      },
+      {
+        "rank": 4,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 1.72
+      },
+      {
+        "rank": 5,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 1.17
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 7.09
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.2
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 1.57
+      },
+      {
+        "rank": 4,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 1.4
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.9
+      }
+    ]
   }
 }

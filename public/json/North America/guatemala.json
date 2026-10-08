@@ -682,5 +682,163 @@
     ],
     "outlook_next_decade": "The base case is steady 3-4% growth on remittance, export, and nearshoring inflows, with inflation near target and debt drifting down toward 25% of GDP. Upside rests on whether the Arevalo administration can turn its reform mandate into higher tax collection and infrastructure investment; downside comes from US immigration policy hitting remittances, which are a major share of household income. Guatemala's fiscal virtue is real, but the economy has outgrown its state, and that mismatch is the decade's central risk.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 500.67,
+      "oda_loans_net_usd_million": -24.59
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 465.03,
+      "oda_loans_net_usd_million": -77.23
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 539.5,
+      "oda_loans_net_usd_million": -26.79
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 380.56,
+      "oda_loans_net_usd_million": -1.86
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 402.06,
+      "oda_loans_net_usd_million": 1.18
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 353.57,
+      "oda_loans_net_usd_million": -11.83
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 304.89,
+      "oda_loans_net_usd_million": -11.49
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 496.6,
+      "oda_loans_net_usd_million": 210.59
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 279.84,
+      "oda_loans_net_usd_million": -34.66
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 411.29,
+      "oda_loans_net_usd_million": 123.11
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 265.45,
+      "oda_loans_net_usd_million": -34.81
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 367.01,
+      "oda_loans_net_usd_million": -18.66
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 399.42,
+      "oda_loans_net_usd_million": 2.7
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 388.25,
+      "oda_loans_net_usd_million": 11.68
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 473.03,
+      "oda_loans_net_usd_million": 123.73
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 512.55,
+      "oda_loans_net_usd_million": 10.01
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 437.75,
+      "oda_loans_net_usd_million": 3.63
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 14.26,
+    "total_imports_usd_billion": 30.28,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0803",
+        "product": "Bananas, including plantains; fresh or dried",
+        "value_usd_billion": 1.12
+      },
+      {
+        "rank": 2,
+        "hs_code": "0901",
+        "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes\u2026",
+        "value_usd_billion": 0.95
+      },
+      {
+        "rank": 3,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.84
+      },
+      {
+        "rank": 4,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.6
+      },
+      {
+        "rank": 5,
+        "hs_code": "6110",
+        "product": "Jerseys, pullovers, cardigans, waistcoats and similar articles; knitted or crocheted",
+        "value_usd_billion": 0.43
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 4.11
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.01
+      },
+      {
+        "rank": 3,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.98
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.82
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.8
+      }
+    ]
   }
 }

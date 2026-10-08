@@ -704,5 +704,163 @@
     ],
     "outlook_next_decade": "Bolivia is at a genuine inflection point: the gas-and-subsidy model is exhausted and the October 2025 election handed a center-right government a mandate for change. The base case is a painful but necessary adjustment - devaluation, subsidy reform, and IMF engagement - that restores stability within a few years and opens lithium and mineral investment. The risk is that adjustment without a social cushion replays the unrest of 2019, and that depleted reserves force a disorderly rather than orderly transition. Watch the exchange rate: a unified, credible FX regime is the single best predictor of whether the new era sticks.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 807.6,
+      "oda_loans_net_usd_million": -1573.07
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 424.72,
+      "oda_loans_net_usd_million": -95.89
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 564.39,
+      "oda_loans_net_usd_million": 5.64
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 579.43,
+      "oda_loans_net_usd_million": -1.55
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 560.27,
+      "oda_loans_net_usd_million": -69.08
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 545.97,
+      "oda_loans_net_usd_million": 42.8
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 661.72,
+      "oda_loans_net_usd_million": 234.27
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 702.3,
+      "oda_loans_net_usd_million": 309.23
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 674.56,
+      "oda_loans_net_usd_million": 330.74
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 791.31,
+      "oda_loans_net_usd_million": 505.82
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 696.51,
+      "oda_loans_net_usd_million": 396.56
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 949.16,
+      "oda_loans_net_usd_million": 623.53
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 728.87,
+      "oda_loans_net_usd_million": 420.1
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 708.2,
+      "oda_loans_net_usd_million": 447.79
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 338.97,
+      "oda_loans_net_usd_million": 59.66
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 506.82,
+      "oda_loans_net_usd_million": 221.85
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 334.41,
+      "oda_loans_net_usd_million": 80.56
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 10.92,
+    "total_imports_usd_billion": 11.49,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 2.49
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 2.08
+      },
+      {
+        "rank": 3,
+        "hs_code": "2608",
+        "product": "Zinc ores and concentrates",
+        "value_usd_billion": 1.33
+      },
+      {
+        "rank": 4,
+        "hs_code": "2304",
+        "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,\u2026",
+        "value_usd_billion": 0.92
+      },
+      {
+        "rank": 5,
+        "hs_code": "2616",
+        "product": "Precious metal ores and concentrates",
+        "value_usd_billion": 0.89
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.93
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.53
+      },
+      {
+        "rank": 3,
+        "hs_code": "3808",
+        "product": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth\u2026",
+        "value_usd_billion": 0.3
+      },
+      {
+        "rank": 4,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.17
+      }
+    ]
   }
 }

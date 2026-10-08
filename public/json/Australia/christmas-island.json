@@ -129,5 +129,16 @@
     ],
     "outlook_next_decade": "Christmas Island's future is essentially an Australian policy decision: detention operations, phosphate's remaining life, and whether tourism is developed seriously. There is no path to economic self-sufficiency at 2,000 residents. Expect continued dependence on federal funding with periodic controversy over the detention centre's role.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

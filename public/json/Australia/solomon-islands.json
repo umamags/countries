@@ -640,5 +640,102 @@
     ],
     "outlook_next_decade": "The economy faces a structural transition as logging - long the fiscal base - declines, with mining and fisheries the hoped-for replacements. Debt will likely keep rising toward 30-40% of GDP unless revenues are rebuilt. The China relationship brings infrastructure finance but also domestic political division, as the 2021 riots showed. The base case is modest growth with periodic political turbulence; the optimistic case requires a genuine revenue transition away from logs.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 199.7,
+      "oda_loans_net_usd_million": -0.61
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 238.19,
+      "oda_loans_net_usd_million": -3.32
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 224.81,
+      "oda_loans_net_usd_million": -2.03
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 206.01,
+      "oda_loans_net_usd_million": -0.78
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 332.85,
+      "oda_loans_net_usd_million": 7.64
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 327.88,
+      "oda_loans_net_usd_million": 7.95
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 305.1,
+      "oda_loans_net_usd_million": -4.72
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 289.83,
+      "oda_loans_net_usd_million": -4.55
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 200.52,
+      "oda_loans_net_usd_million": -6.04
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 190.03,
+      "oda_loans_net_usd_million": -5.98
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 175.5,
+      "oda_loans_net_usd_million": 5.64
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 186.81,
+      "oda_loans_net_usd_million": 3.78
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 195.56,
+      "oda_loans_net_usd_million": -1.45
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 223.89,
+      "oda_loans_net_usd_million": 3.67
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 214.31,
+      "oda_loans_net_usd_million": 32.87
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 264.71,
+      "oda_loans_net_usd_million": 21.89
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 253.58,
+      "oda_loans_net_usd_million": 22.37
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

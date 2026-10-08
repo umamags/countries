@@ -702,5 +702,163 @@
     ],
     "outlook_next_decade": "Mongolia's base case is solid growth on copper (Oyu Tolgoi underground) and coal exports to China, with debt continuing to decline if fiscal rules hold. The structural risks are unchanged: extreme dependence on China (nearly all exports), commodity-price cycles, and the political temptation to spend windfalls. Governance of mining revenues remains the key variable. Analytical assessment: the 2017 framework works when respected; the question is whether the next boom tests it.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 182.4,
+      "oda_loans_net_usd_million": 19.84
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 190.93,
+      "oda_loans_net_usd_million": 19.92
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 213.49,
+      "oda_loans_net_usd_million": 5.36
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 244.9,
+      "oda_loans_net_usd_million": 39.65
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 286.66,
+      "oda_loans_net_usd_million": 18.13
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 337.45,
+      "oda_loans_net_usd_million": 45.16
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 446.53,
+      "oda_loans_net_usd_million": 77.31
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 430.52,
+      "oda_loans_net_usd_million": 114.51
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 316.91,
+      "oda_loans_net_usd_million": 101.61
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 236.34,
+      "oda_loans_net_usd_million": 51.49
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 325.67,
+      "oda_loans_net_usd_million": 163.43
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 765.59,
+      "oda_loans_net_usd_million": 567.29
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 333.61,
+      "oda_loans_net_usd_million": 138.34
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 310.59,
+      "oda_loans_net_usd_million": 103.12
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 702.41,
+      "oda_loans_net_usd_million": 462.91
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 282.03,
+      "oda_loans_net_usd_million": 46.64
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 284.38,
+      "oda_loans_net_usd_million": 64.8
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 15.18,
+    "total_imports_usd_billion": 9.25,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 8.76
+      },
+      {
+        "rank": 2,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 2.63
+      },
+      {
+        "rank": 3,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.74
+      },
+      {
+        "rank": 4,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 0.44
+      },
+      {
+        "rank": 5,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 0.36
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.87
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.68
+      },
+      {
+        "rank": 3,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.43
+      },
+      {
+        "rank": 4,
+        "hs_code": "8716",
+        "product": "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",
+        "value_usd_billion": 0.21
+      },
+      {
+        "rank": 5,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.19
+      }
+    ]
   }
 }

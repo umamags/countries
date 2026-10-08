@@ -636,5 +636,163 @@
     ],
     "outlook_next_decade": "The base case is continued IMF-anchored consolidation with tourism-led growth and inflation settling near 5-8%. Upside comes from tourism expansion and groundnut/agriculture investment; downside is debt: at 74% of GDP with high distress risk, another tourism shock could force restructuring. Uncertainty is moderate: democracy has held since 2017, but institutions are thin and the fiscal margin is narrow.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 75.2,
+      "oda_loans_net_usd_million": 30.36
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 93.84,
+      "oda_loans_net_usd_million": -180.75
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 86.46,
+      "oda_loans_net_usd_million": 25.91
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 108.76,
+      "oda_loans_net_usd_million": 32.71
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 121.1,
+      "oda_loans_net_usd_million": 17.91
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 135.71,
+      "oda_loans_net_usd_million": 18.39
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 138.98,
+      "oda_loans_net_usd_million": 22.07
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 112.29,
+      "oda_loans_net_usd_million": 9.81
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 100.34,
+      "oda_loans_net_usd_million": 2.62
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 113.94,
+      "oda_loans_net_usd_million": 32.83
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 91.94,
+      "oda_loans_net_usd_million": 3.88
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 284.47,
+      "oda_loans_net_usd_million": 83.99
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 234.13,
+      "oda_loans_net_usd_million": 54.97
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 189.79,
+      "oda_loans_net_usd_million": 15.87
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 300.92,
+      "oda_loans_net_usd_million": 50.56
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 247.9,
+      "oda_loans_net_usd_million": 70.16
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 271.15,
+      "oda_loans_net_usd_million": 42.64
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.08,
+    "total_imports_usd_billion": 2.45,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 2,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 3,
+        "hs_code": "1202",
+        "product": "Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 4,
+        "hs_code": "0302",
+        "product": "Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "0801",
+        "product": "Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not\u2026",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8711",
+        "product": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or\u2026",
+        "value_usd_billion": 1.6
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 3,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 5,
+        "hs_code": "3105",
+        "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,\u2026",
+        "value_usd_billion": 0.04
+      }
+    ]
   }
 }

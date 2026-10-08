@@ -1,0 +1,73 @@
+{
+  "country": "Luxembourg",
+  "iso3": "LUX",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 16.37,
+  "total_imports_usd_billion": 26.09,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7216",
+      "product": "Iron or non-alloy steel, angles, shapes and sections",
+      "value_usd_billion": 1.17
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.82
+    },
+    {
+      "rank": 3,
+      "hs_code": "4011",
+      "product": "New pneumatic tyres, of rubber",
+      "value_usd_billion": 0.8
+    },
+    {
+      "rank": 4,
+      "hs_code": "7301",
+      "product": "Iron or steel sheet piling, whether or not drilled, punched or made from assembled…",
+      "value_usd_billion": 0.51
+    },
+    {
+      "rank": 5,
+      "hs_code": "5603",
+      "product": "Nonwovens; whether or not impregnated, coated, covered or laminated",
+      "value_usd_billion": 0.42
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 2.87
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.95
+    },
+    {
+      "rank": 3,
+      "hs_code": "7204",
+      "product": "Ferrous waste and scrap; remelting scrap ingots of iron or steel",
+      "value_usd_billion": 0.67
+    },
+    {
+      "rank": 4,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.63
+    },
+    {
+      "rank": 5,
+      "hs_code": "0406",
+      "product": "Cheese and curd",
+      "value_usd_billion": 0.42
+    }
+  ]
+}

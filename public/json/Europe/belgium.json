@@ -676,5 +676,77 @@
     ],
     "outlook_next_decade": "The central fiscal question is whether Belgium can resume a credible downward debt path from above 100% of GDP. Inflation should converge toward the ECB target as the indexation echo fades, supporting real-income recovery. Structural issues are slow growth, aging-related spending pressure, and a complex federal governance structure that slows fiscal adjustment. Debt remains sustainable at current rates, but the margin for complacency is thin if European rate cycles turn.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 393.62,
+    "total_imports_usd_billion": 403.08,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 31.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 29.38
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 28.16
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 27.84
+      },
+      {
+        "rank": 5,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 16.11
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 31.87
+      },
+      {
+        "rank": 2,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 26.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 22.39
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 21.83
+      },
+      {
+        "rank": 5,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 21.73
+      }
+    ]
   }
 }

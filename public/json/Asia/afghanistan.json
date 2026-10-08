@@ -650,5 +650,102 @@
     ],
     "outlook_next_decade": "The outlook hinges on politics, not economics: recognition, sanctions relief, and resumed aid would stabilize output, while continued isolation keeps the economy in a low-level equilibrium with periodic deflation and humanitarian need. GDP is projected to recover only to $19.7bn by 2025, still below 2019 levels. Any upside depends on trade corridors and agriculture; the downside risk is renewed conflict or further isolation. Uncertainty is very high and data quality is poor.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 2895.83,
+      "oda_loans_net_usd_million": 37.41
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 4540.37,
+      "oda_loans_net_usd_million": 84.82
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 4645.4,
+      "oda_loans_net_usd_million": 30.69
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 5766.54,
+      "oda_loans_net_usd_million": 24.9
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 6235.32,
+      "oda_loans_net_usd_million": -73.04
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 6745.74,
+      "oda_loans_net_usd_million": 28.51
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 6666.77,
+      "oda_loans_net_usd_million": 68.67
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 5152.54,
+      "oda_loans_net_usd_million": 11.41
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 4942.97,
+      "oda_loans_net_usd_million": -18.21
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 4274.23,
+      "oda_loans_net_usd_million": -27.86
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 4069.41,
+      "oda_loans_net_usd_million": -27.86
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3811.74,
+      "oda_loans_net_usd_million": -24.12
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 3792.49,
+      "oda_loans_net_usd_million": -19.02
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 4136.99,
+      "oda_loans_net_usd_million": -63.23
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 4208.9,
+      "oda_loans_net_usd_million": 316.2
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 4690.52,
+      "oda_loans_net_usd_million": 130.72
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 3913.48,
+      "oda_loans_net_usd_million": -18.3
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

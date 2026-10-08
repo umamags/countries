@@ -734,5 +734,163 @@
     ],
     "outlook_next_decade": "The base case is continued 6-7% growth with inflation near target and a slow debt decline on the fiscal glide path. Upside comes from manufacturing diversification and digital public infrastructure; the risks are food/climate-driven inflation spikes, global trade fragmentation, and whether job creation keeps pace with the demographic dividend. Debt sustainability is not in doubt, but the interest burden will keep fiscal space tight through the decade.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1383.58,
+      "oda_loans_net_usd_million": 133.67
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1237.29,
+      "oda_loans_net_usd_million": -129.55
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1930.64,
+      "oda_loans_net_usd_million": 473.85
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1985.33,
+      "oda_loans_net_usd_million": 544.26
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 2831.34,
+      "oda_loans_net_usd_million": 1523.74
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 3270.22,
+      "oda_loans_net_usd_million": 1886.84
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1681.85,
+      "oda_loans_net_usd_million": 504.37
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 2456.34,
+      "oda_loans_net_usd_million": 1066.93
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 2991.82,
+      "oda_loans_net_usd_million": 1759.76
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 3174.35,
+      "oda_loans_net_usd_million": 1877.32
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 2679.04,
+      "oda_loans_net_usd_million": 1643.02
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 3198.14,
+      "oda_loans_net_usd_million": 2121.57
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 2461.99,
+      "oda_loans_net_usd_million": 1373.84
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 2550.32,
+      "oda_loans_net_usd_million": 1412.5
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1794.53,
+      "oda_loans_net_usd_million": 652.45
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 3135.31,
+      "oda_loans_net_usd_million": 1841.97
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 2816.61,
+      "oda_loans_net_usd_million": 1679.24
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 431.41,
+    "total_imports_usd_billion": 672.14,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 84.96
+      },
+      {
+        "rank": 2,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 18.83
+      },
+      {
+        "rank": 3,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 18.14
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 15.65
+      },
+      {
+        "rank": 5,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 12.72
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 140.39
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 42.64
+      },
+      {
+        "rank": 3,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 37.08
+      },
+      {
+        "rank": 4,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 24.86
+      },
+      {
+        "rank": 5,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 21.98
+      }
+    ]
   }
 }

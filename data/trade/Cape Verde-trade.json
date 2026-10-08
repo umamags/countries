@@ -1,0 +1,73 @@
+{
+  "country": "Cape Verde",
+  "iso3": "CPV",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 0.28,
+  "total_imports_usd_billion": 1.76,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.17
+    },
+    {
+      "rank": 2,
+      "hs_code": "1604",
+      "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "value_usd_billion": 0.04
+    },
+    {
+      "rank": 3,
+      "hs_code": "8609",
+      "product": "Containers; (including containers for transport of fluids) specially designed and…",
+      "value_usd_billion": 0.03
+    },
+    {
+      "rank": 4,
+      "hs_code": "0303",
+      "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "value_usd_billion": 0.01
+    },
+    {
+      "rank": 5,
+      "hs_code": "0307",
+      "product": "Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in…",
+      "value_usd_billion": 0.0
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.81
+    },
+    {
+      "rank": 2,
+      "hs_code": "8802",
+      "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.…",
+      "value_usd_billion": 0.05
+    },
+    {
+      "rank": 3,
+      "hs_code": "8609",
+      "product": "Containers; (including containers for transport of fluids) specially designed and…",
+      "value_usd_billion": 0.04
+    },
+    {
+      "rank": 4,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.04
+    },
+    {
+      "rank": 5,
+      "hs_code": "2523",
+      "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and…",
+      "value_usd_billion": 0.03
+    }
+  ]
+}

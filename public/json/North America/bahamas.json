@@ -675,5 +675,77 @@
     ],
     "outlook_next_decade": "The base case is continued tourism-led growth with very low inflation anchored by the USD peg, and a gradual debt decline if consolidation holds. The two structural risks are climate-driven hurricanes, which have twice in a decade reset the fiscal path, and dependence on US tourism and US monetary policy. Debt at ~74% of GDP is manageable for a small island economy, but another major hurricane or global travel shutdown would quickly reverse the gains.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.7,
+    "total_imports_usd_billion": 4.19,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "4907",
+        "product": "Unused postage, revenue or similar stamps of current or new issue in the country in which\u2026",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 3,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "0306",
+        "product": "Crustaceans; in shell or not, live, fresh, chilled, frozen, dried, salted or in brine;\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 5,
+        "hs_code": "3903",
+        "product": "Polymers of styrene, in primary forms",
+        "value_usd_billion": 0.04
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.6
+      },
+      {
+        "rank": 2,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.16
+      },
+      {
+        "rank": 3,
+        "hs_code": "9403",
+        "product": "Furniture and parts thereof, n.e.c. in chapter 94",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 5,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.06
+      }
+    ]
   }
 }

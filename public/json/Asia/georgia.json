@@ -682,5 +682,163 @@
     ],
     "outlook_next_decade": "Georgia's base case is 4-5% growth on tourism, transit trade, and services, with inflation near target and debt stable. The main risks are geopolitical: dependence on Russian-origin flows that could reverse, stalled EU integration after the 2024 political crisis, and vulnerability to regional conflict. Structural upside from the Middle Corridor trade route is real but requires investment. Debt sustainability is not a near-term concern.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 357.19,
+      "oda_loans_net_usd_million": 86.11
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 311.45,
+      "oda_loans_net_usd_million": 15.14
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 705.96,
+      "oda_loans_net_usd_million": -6.31
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 638.07,
+      "oda_loans_net_usd_million": 8.9
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 588.86,
+      "oda_loans_net_usd_million": 90.85
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 545.06,
+      "oda_loans_net_usd_million": 94.02
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 659.19,
+      "oda_loans_net_usd_million": 268.15
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 646.31,
+      "oda_loans_net_usd_million": 227.83
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 563.76,
+      "oda_loans_net_usd_million": 202.63
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 448.93,
+      "oda_loans_net_usd_million": 117.49
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 462.74,
+      "oda_loans_net_usd_million": 143.62
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 447.44,
+      "oda_loans_net_usd_million": 67.75
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 589.1,
+      "oda_loans_net_usd_million": 206.2
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 492.19,
+      "oda_loans_net_usd_million": 164.94
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1041.01,
+      "oda_loans_net_usd_million": 597.89
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 769.18,
+      "oda_loans_net_usd_million": 428.81
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 375.91,
+      "oda_loans_net_usd_million": 85.17
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 6.09,
+    "total_imports_usd_billion": 15.61,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 2.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 0.48
+      },
+      {
+        "rank": 3,
+        "hs_code": "2204",
+        "product": "Wine of fresh grapes, including fortified wines; grape must other than that of heading\u2026",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 4,
+        "hs_code": "2208",
+        "product": "Ethyl alcohol, undenatured; of an alcoholic strength by volume of less than 80% volume;\u2026",
+        "value_usd_billion": 0.2
+      },
+      {
+        "rank": 5,
+        "hs_code": "7202",
+        "product": "Ferro-alloys",
+        "value_usd_billion": 0.18
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 3.33
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 1.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 0.55
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.54
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 0.38
+      }
+    ]
   }
 }

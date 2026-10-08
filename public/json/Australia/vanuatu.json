@@ -633,5 +633,102 @@
     ],
     "outlook_next_decade": "The economy will keep growing on tourism and agriculture, but the fiscal model - borrow to rebuild after each cyclone - is only sustainable if disasters stay infrequent, which they won't. Debt is likely to ratchet higher with each major storm. Diversifying revenue (the citizenship program is politically fragile) and building genuine climate-resilient infrastructure are the tests. Donor and concessional finance will remain essential.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 49.59,
+      "oda_loans_net_usd_million": -1.4
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 57.98,
+      "oda_loans_net_usd_million": -1.18
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 93.54,
+      "oda_loans_net_usd_million": -0.86
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 101.54,
+      "oda_loans_net_usd_million": -0.68
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 109.47,
+      "oda_loans_net_usd_million": -1.2
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 92.89,
+      "oda_loans_net_usd_million": -2.25
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 101.94,
+      "oda_loans_net_usd_million": -3.93
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 91.34,
+      "oda_loans_net_usd_million": -3.17
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 100.41,
+      "oda_loans_net_usd_million": -1.9
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 186.56,
+      "oda_loans_net_usd_million": 25.47
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 129.13,
+      "oda_loans_net_usd_million": 29.41
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 132.7,
+      "oda_loans_net_usd_million": 44.29
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 130.94,
+      "oda_loans_net_usd_million": 34.54
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 130.6,
+      "oda_loans_net_usd_million": 34.15
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 154.04,
+      "oda_loans_net_usd_million": 3.08
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 166.9,
+      "oda_loans_net_usd_million": 5.88
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 125.06,
+      "oda_loans_net_usd_million": 9.39
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

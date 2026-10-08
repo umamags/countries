@@ -717,5 +717,163 @@
     ],
     "outlook_next_decade": "Malaysia's base case is steady 4-5% growth with low inflation and gradually stabilizing debt if subsidy reforms continue. Upside from semiconductor and data-center investment (notably in Johor) and supply-chain diversification is significant. Risks are political fragmentation slowing reform, commodity dependence (palm oil, oil and gas), and the contingent liabilities still working through the system. Debt is sustainable but the fiscal path needs the revenue side to strengthen.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 241.36,
+      "oda_loans_net_usd_million": 176.1
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 202.15,
+      "oda_loans_net_usd_million": 139.42
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 156.35,
+      "oda_loans_net_usd_million": 96.77
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 139.92,
+      "oda_loans_net_usd_million": 57.76
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": -6.14,
+      "oda_loans_net_usd_million": -96.31
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 40.81,
+      "oda_loans_net_usd_million": -50.92
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 18.32,
+      "oda_loans_net_usd_million": -49.11
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": -113.31,
+      "oda_loans_net_usd_million": -175.43
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 19.92,
+      "oda_loans_net_usd_million": -58.86
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": -0.6,
+      "oda_loans_net_usd_million": -59.61
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": -51.82,
+      "oda_loans_net_usd_million": -106.44
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": -29.25,
+      "oda_loans_net_usd_million": -109.74
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": -34.47,
+      "oda_loans_net_usd_million": -104.87
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": -2.93,
+      "oda_loans_net_usd_million": -82.05
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": -5.19,
+      "oda_loans_net_usd_million": -91.11
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 14.39,
+      "oda_loans_net_usd_million": -89.98
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 4.89,
+      "oda_loans_net_usd_million": -76.69
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 312.61,
+    "total_imports_usd_billion": 265.64,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 74.73
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 29.35
+      },
+      {
+        "rank": 3,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 14.57
+      },
+      {
+        "rank": 4,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 11.9
+      },
+      {
+        "rank": 5,
+        "hs_code": "8541",
+        "product": "Semiconductor devices (e.g. diodes, transistors, semiconductor based transducers);\u2026",
+        "value_usd_billion": 10.23
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8542",
+        "product": "Electronic integrated circuits",
+        "value_usd_billion": 43.92
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 28.56
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 13.53
+      },
+      {
+        "rank": 4,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 5.2
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 4.76
+      }
+    ]
   }
 }

@@ -638,5 +638,163 @@
     ],
     "outlook_next_decade": "The base case is continued slow growth with inflation anchored by the rand peg and debt drifting higher on rigid spending. Upside depends on SACU revenue stability and any political opening that unlocks investment; downside is that the absolute monarchy's legitimacy crisis deters the private sector indefinitely. Uncertainty is moderate on macro policy (the peg is credible) but high on politics, which is the binding constraint.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 34.78,
+      "oda_loans_net_usd_million": 4.39
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 50.92,
+      "oda_loans_net_usd_million": -0.29
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 70.26,
+      "oda_loans_net_usd_million": -1.36
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 56.02,
+      "oda_loans_net_usd_million": -6.05
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 91.14,
+      "oda_loans_net_usd_million": -5.92
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 124.09,
+      "oda_loans_net_usd_million": -1.61
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 89.62,
+      "oda_loans_net_usd_million": 3.98
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 117.79,
+      "oda_loans_net_usd_million": -1.64
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 86.37,
+      "oda_loans_net_usd_million": -2.89
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 92.63,
+      "oda_loans_net_usd_million": -4.77
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 147.64,
+      "oda_loans_net_usd_million": 14.42
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 147.61,
+      "oda_loans_net_usd_million": -5.64
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 121.31,
+      "oda_loans_net_usd_million": 10.36
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 70.53,
+      "oda_loans_net_usd_million": -15.86
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 105.38,
+      "oda_loans_net_usd_million": -3.15
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 125.03,
+      "oda_loans_net_usd_million": 10.35
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 96.62,
+      "oda_loans_net_usd_million": -9.37
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 2.1,
+    "total_imports_usd_billion": 2.04,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "3302",
+        "product": "Odoriferous substances and mixtures (including alcoholic solutions) with a basis of one\u2026",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "1701",
+        "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+        "value_usd_billion": 0.39
+      },
+      {
+        "rank": 3,
+        "hs_code": "3824",
+        "product": "Prepared binders for foundry moulds or cores; chemical products and preparations of the\u2026",
+        "value_usd_billion": 0.28
+      },
+      {
+        "rank": 4,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.08
+      },
+      {
+        "rank": 5,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 0.08
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.27
+      },
+      {
+        "rank": 2,
+        "hs_code": "2716",
+        "product": "Electrical energy",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 3,
+        "hs_code": "1005",
+        "product": "Maize (corn)",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.03
+      }
+    ]
   }
 }

@@ -1,0 +1,73 @@
+{
+  "country": "Gambia",
+  "iso3": "GMB",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 0.08,
+  "total_imports_usd_billion": 2.45,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.06
+    },
+    {
+      "rank": 2,
+      "hs_code": "1701",
+      "product": "Cane or beet sugar and chemically pure sucrose, in solid form",
+      "value_usd_billion": 0.0
+    },
+    {
+      "rank": 3,
+      "hs_code": "1202",
+      "product": "Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+      "value_usd_billion": 0.0
+    },
+    {
+      "rank": 4,
+      "hs_code": "0302",
+      "product": "Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",
+      "value_usd_billion": 0.0
+    },
+    {
+      "rank": 5,
+      "hs_code": "0801",
+      "product": "Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not…",
+      "value_usd_billion": 0.0
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8711",
+      "product": "Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or…",
+      "value_usd_billion": 1.6
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.26
+    },
+    {
+      "rank": 3,
+      "hs_code": "1006",
+      "product": "Rice",
+      "value_usd_billion": 0.05
+    },
+    {
+      "rank": 4,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.05
+    },
+    {
+      "rank": 5,
+      "hs_code": "3105",
+      "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,…",
+      "value_usd_billion": 0.04
+    }
+  ]
+}

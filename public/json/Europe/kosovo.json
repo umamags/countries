@@ -631,5 +631,102 @@
     ],
     "outlook_next_decade": "Kosovo's growth depends on the diaspora, EU integration, and resolving the political dispute with Serbia that blocks full international recognition and investment. Low debt gives fiscal room, but the binding constraints are governance, the rule of law, and energy supply. Inflation will track imported euro-area conditions. The analytical base case is continued catch-up growth from a low base, with political risk as the dominant downside variable.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": null,
+      "oda_loans_net_usd_million": null
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 782.12,
+      "oda_loans_net_usd_million": 4.18
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 527.52,
+      "oda_loans_net_usd_million": -0.36
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 583.18,
+      "oda_loans_net_usd_million": 5.85
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 566.74,
+      "oda_loans_net_usd_million": 3.94
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 568.55,
+      "oda_loans_net_usd_million": 11.04
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 579.39,
+      "oda_loans_net_usd_million": 35.06
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 437.81,
+      "oda_loans_net_usd_million": 49.01
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 370.03,
+      "oda_loans_net_usd_million": 31.09
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 392.37,
+      "oda_loans_net_usd_million": 17.23
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 345.11,
+      "oda_loans_net_usd_million": 1.97
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 344.79,
+      "oda_loans_net_usd_million": 10.03
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 544.08,
+      "oda_loans_net_usd_million": 158.17
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 453.5,
+      "oda_loans_net_usd_million": 104.54
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 381.39,
+      "oda_loans_net_usd_million": 66.97
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No UN Comtrade reporter data available."
   }
 }

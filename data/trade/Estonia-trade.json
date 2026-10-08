@@ -1,0 +1,73 @@
+{
+  "country": "Estonia",
+  "iso3": "EST",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 20.11,
+  "total_imports_usd_billion": 23.44,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.97
+    },
+    {
+      "rank": 2,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 0.94
+    },
+    {
+      "rank": 3,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.47
+    },
+    {
+      "rank": 4,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 0.46
+    },
+    {
+      "rank": 5,
+      "hs_code": "9406",
+      "product": "Buildings; prefabricated",
+      "value_usd_billion": 0.46
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 1.65
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.05
+    },
+    {
+      "rank": 3,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 0.8
+    },
+    {
+      "rank": 4,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 0.75
+    },
+    {
+      "rank": 5,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 0.63
+    }
+  ]
+}

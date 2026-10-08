@@ -645,5 +645,163 @@
     ],
     "outlook_next_decade": "The base case is continued distress management: debt near 78% of GDP, inflation near 30%, and growth hostage to rains and forex. Upside depends on a credible debt restructuring and the new Mutharika government's stabilization plan; downside is a disorderly currency collapse. Uncertainty is high: Malawi has the policies of a crisis country but not yet the resolution of one, and the 2025 political reset is untested.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 722.87,
+      "oda_loans_net_usd_million": -2298.19
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 665.92,
+      "oda_loans_net_usd_million": -155.36
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 872.29,
+      "oda_loans_net_usd_million": 133.54
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 691.99,
+      "oda_loans_net_usd_million": 23.75
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1016.85,
+      "oda_loans_net_usd_million": 64.21
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 798.28,
+      "oda_loans_net_usd_million": 44.41
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1170.91,
+      "oda_loans_net_usd_million": 109.77
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1132.55,
+      "oda_loans_net_usd_million": 122.63
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 931.16,
+      "oda_loans_net_usd_million": 155.26
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1049.8,
+      "oda_loans_net_usd_million": 114.35
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1241.61,
+      "oda_loans_net_usd_million": 158.47
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1520.22,
+      "oda_loans_net_usd_million": 223.79
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1279.3,
+      "oda_loans_net_usd_million": 179.08
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1167.61,
+      "oda_loans_net_usd_million": 103.43
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1454.33,
+      "oda_loans_net_usd_million": 325.37
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1178.16,
+      "oda_loans_net_usd_million": 152.71
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1370.24,
+      "oda_loans_net_usd_million": 233.58
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.97,
+    "total_imports_usd_billion": 3.14,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2401",
+        "product": "Tobacco, unmanufactured; tobacco refuse",
+        "value_usd_billion": 0.45
+      },
+      {
+        "rank": 2,
+        "hs_code": "0902",
+        "product": "Tea",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 3,
+        "hs_code": "0713",
+        "product": "Vegetables, leguminous; shelled, whether or not skinned or split, dried",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 4,
+        "hs_code": "1202",
+        "product": "Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 5,
+        "hs_code": "2304",
+        "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,\u2026",
+        "value_usd_billion": 0.05
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.58
+      },
+      {
+        "rank": 2,
+        "hs_code": "3102",
+        "product": "Fertilizers; mineral or chemical, nitrogenous",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 3,
+        "hs_code": "3105",
+        "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,\u2026",
+        "value_usd_billion": 0.15
+      },
+      {
+        "rank": 4,
+        "hs_code": "4907",
+        "product": "Unused postage, revenue or similar stamps of current or new issue in the country in which\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "6309",
+        "product": "Textiles; worn clothing and other worn articles",
+        "value_usd_billion": 0.1
+      }
+    ]
   }
 }

@@ -648,5 +648,102 @@
     ],
     "outlook_next_decade": "The base case is managed decline: oil output keeps falling, debt stays elevated, and the CFA peg keeps inflation low while the non-oil economy stagnates. Upside would require genuine diversification or new hydrocarbon finds; downside is a fiscal crisis if spending is not cut as oil revenues fade. Uncertainty is moderate: the regime is stable and the peg credible, but the economic model is exhausted.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 26.21,
+      "oda_loans_net_usd_million": -7.05
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 32.97,
+      "oda_loans_net_usd_million": -2.85
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 33.63,
+      "oda_loans_net_usd_million": -2.03
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 33.51,
+      "oda_loans_net_usd_million": -2.3
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 85.07,
+      "oda_loans_net_usd_million": -4.54
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 24.55,
+      "oda_loans_net_usd_million": -4.92
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 14.45,
+      "oda_loans_net_usd_million": -4.61
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 4.63,
+      "oda_loans_net_usd_million": -5.7
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 0.52,
+      "oda_loans_net_usd_million": -8.8
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 7.49,
+      "oda_loans_net_usd_million": -3.33
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 6.92,
+      "oda_loans_net_usd_million": -4.62
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 6.93,
+      "oda_loans_net_usd_million": -4.67
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 6.72,
+      "oda_loans_net_usd_million": -3.75
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 62.75,
+      "oda_loans_net_usd_million": 50.34
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 6.09,
+      "oda_loans_net_usd_million": -3.84
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 12.77,
+      "oda_loans_net_usd_million": -3.54
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 11.18,
+      "oda_loans_net_usd_million": -2.88
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": null,
+    "total_imports_usd_billion": null,
+    "top_exports": [],
+    "top_imports": [],
+    "note": "No 2023 reporter data in UN Comtrade."
   }
 }

@@ -1,0 +1,73 @@
+{
+  "country": "South Africa",
+  "iso3": "ZAF",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 110.61,
+  "total_imports_usd_billion": 107.12,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "7110",
+      "product": "Platinum; unwrought or in semi-manufactured forms, or in powder form",
+      "value_usd_billion": 10.71
+    },
+    {
+      "rank": 2,
+      "hs_code": "2701",
+      "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+      "value_usd_billion": 7.86
+    },
+    {
+      "rank": 3,
+      "hs_code": "2601",
+      "product": "Iron ores and concentrates; including roasted iron pyrites",
+      "value_usd_billion": 6.53
+    },
+    {
+      "rank": 4,
+      "hs_code": "7108",
+      "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in…",
+      "value_usd_billion": 6.29
+    },
+    {
+      "rank": 5,
+      "hs_code": "8704",
+      "product": "Vehicles; for the transport of goods",
+      "value_usd_billion": 5.97
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 15.17
+    },
+    {
+      "rank": 2,
+      "hs_code": "9999",
+      "product": "Commodities not specified according to kind",
+      "value_usd_billion": 8.83
+    },
+    {
+      "rank": 3,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 4.81
+    },
+    {
+      "rank": 4,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 4.11
+    },
+    {
+      "rank": 5,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 3.13
+    }
+  ]
+}

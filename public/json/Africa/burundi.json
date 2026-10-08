@@ -631,5 +631,163 @@
     ],
     "outlook_next_decade": "The base case is continued stagflation: without a credible exchange-rate adjustment and restored donor relations, inflation will stay high and growth too low to reduce poverty. Upside depends on genuine forex liberalization and agricultural recovery; downside is a full-blown currency crisis. Uncertainty is high: the political system is stable but closed, and economic data quality is weak, so even the direction of travel is hard to verify.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 432.02,
+      "oda_loans_net_usd_million": 29.32
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 396.35,
+      "oda_loans_net_usd_million": 3.91
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 454.89,
+      "oda_loans_net_usd_million": 9.12
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 514.69,
+      "oda_loans_net_usd_million": -341.66
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 627.61,
+      "oda_loans_net_usd_million": 33.89
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 572.24,
+      "oda_loans_net_usd_million": 31.39
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 524.17,
+      "oda_loans_net_usd_million": 22.13
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 558.83,
+      "oda_loans_net_usd_million": 3.37
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 515.4,
+      "oda_loans_net_usd_million": 14.93
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 366.92,
+      "oda_loans_net_usd_million": -14.92
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 742.64,
+      "oda_loans_net_usd_million": -32.86
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 435.82,
+      "oda_loans_net_usd_million": -20.94
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 451.42,
+      "oda_loans_net_usd_million": -19.21
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 554.17,
+      "oda_loans_net_usd_million": -3.49
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 481.3,
+      "oda_loans_net_usd_million": -23.12
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 608.24,
+      "oda_loans_net_usd_million": 79.61
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 572.8,
+      "oda_loans_net_usd_million": -2.68
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.17,
+    "total_imports_usd_billion": 1.15,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "0901",
+        "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 3,
+        "hs_code": "0902",
+        "product": "Tea",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 4,
+        "hs_code": "2402",
+        "product": "Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 5,
+        "hs_code": "1101",
+        "product": "Wheat or meslin flour",
+        "value_usd_billion": 0.01
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 2,
+        "hs_code": "3103",
+        "product": "Fertilizers; mineral or chemical, phosphatic",
+        "value_usd_billion": 0.06
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.03
+      }
+    ]
   }
 }

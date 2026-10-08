@@ -633,5 +633,163 @@
     ],
     "outlook_next_decade": "Debt is low and falling, which gives Samoa rare fiscal room among Pacific islands - the question is whether it is used for climate-resilient infrastructure or consumed by current spending. Remittances and tourism underpin the economy; both are hostage to Australian and New Zealand conditions. Political stability after the 2021 crisis held, but coalition fragility is a watchpoint. The base case is steady, unspectacular growth with the next cyclone resetting the fiscal clock.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 48.25,
+      "oda_loans_net_usd_million": 3.4
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 33.15,
+      "oda_loans_net_usd_million": -0.3
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 38.65,
+      "oda_loans_net_usd_million": 0.41
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 65.85,
+      "oda_loans_net_usd_million": 10.49
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 124.44,
+      "oda_loans_net_usd_million": 25.54
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 88.8,
+      "oda_loans_net_usd_million": 11.9
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 117.29,
+      "oda_loans_net_usd_million": 24.12
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 113.01,
+      "oda_loans_net_usd_million": 11.76
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 93.99,
+      "oda_loans_net_usd_million": -2.19
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 93.72,
+      "oda_loans_net_usd_million": 2.98
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 88.64,
+      "oda_loans_net_usd_million": -5.23
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 136.22,
+      "oda_loans_net_usd_million": 4.37
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 128.1,
+      "oda_loans_net_usd_million": -5.96
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 123.72,
+      "oda_loans_net_usd_million": -1.21
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 166.77,
+      "oda_loans_net_usd_million": 13.1
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 84.42,
+      "oda_loans_net_usd_million": -12.98
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 126.27,
+      "oda_loans_net_usd_million": -8.54
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.04,
+    "total_imports_usd_billion": 0.47,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 2,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 3,
+        "hs_code": "1513",
+        "product": "Coconut (copra), palm kernel or babassu oil and their fractions; whether or not refined\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 4,
+        "hs_code": "8538",
+        "product": "Electrical apparatus; parts suitable for use solely or principally with the apparatus of\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "0714",
+        "product": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and\u2026",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.1
+      },
+      {
+        "rank": 2,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.02
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 5,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.01
+      }
+    ]
   }
 }

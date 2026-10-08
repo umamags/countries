@@ -1,0 +1,96 @@
+{
+ "country": "Croatia",
+ "iso3": "HRV",
+ "oecd_code": "HRV",
+ "period": "2006-2022",
+ "source": "OECD DAC2a, donor=All official donors (ALLD), accessed October 2026",
+ "unit": "USD million",
+ "note": "oda_loans_net = concessional ODA loans (net disbursements); non-concessional official loans (OOF) are not published in DAC2a",
+ "data": [
+  {
+   "year": 2006,
+   "oda_received_usd_million": 196.51,
+   "oda_loans_net_usd_million": -14.23
+  },
+  {
+   "year": 2007,
+   "oda_received_usd_million": 162.91,
+   "oda_loans_net_usd_million": -13.31
+  },
+  {
+   "year": 2008,
+   "oda_received_usd_million": 241.06,
+   "oda_loans_net_usd_million": -5.86
+  },
+  {
+   "year": 2009,
+   "oda_received_usd_million": 168.83,
+   "oda_loans_net_usd_million": -9.82
+  },
+  {
+   "year": 2010,
+   "oda_received_usd_million": 131.55,
+   "oda_loans_net_usd_million": -15.47
+  },
+  {
+   "year": 2011,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2012,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2013,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2014,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2015,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2016,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2017,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2018,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2019,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2020,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2021,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  },
+  {
+   "year": 2022,
+   "oda_received_usd_million": null,
+   "oda_loans_net_usd_million": null
+  }
+ ]
+}

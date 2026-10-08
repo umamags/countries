@@ -1,0 +1,73 @@
+{
+  "country": "Spain",
+  "iso3": "ESP",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 420.17,
+  "total_imports_usd_billion": 469.04,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 40.61
+    },
+    {
+      "rank": 2,
+      "hs_code": "9999",
+      "product": "Commodities not specified according to kind",
+      "value_usd_billion": 21.86
+    },
+    {
+      "rank": 3,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 18.43
+    },
+    {
+      "rank": 4,
+      "hs_code": "3004",
+      "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed…",
+      "value_usd_billion": 12.71
+    },
+    {
+      "rank": 5,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 12.0
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "2709",
+      "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+      "value_usd_billion": 37.24
+    },
+    {
+      "rank": 2,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 23.56
+    },
+    {
+      "rank": 3,
+      "hs_code": "9999",
+      "product": "Commodities not specified according to kind",
+      "value_usd_billion": 18.48
+    },
+    {
+      "rank": 4,
+      "hs_code": "8708",
+      "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+      "value_usd_billion": 15.61
+    },
+    {
+      "rank": 5,
+      "hs_code": "2711",
+      "product": "Petroleum gases and other gaseous hydrocarbons",
+      "value_usd_billion": 14.87
+    }
+  ]
+}

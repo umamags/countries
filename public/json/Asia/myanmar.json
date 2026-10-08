@@ -649,5 +649,163 @@
     ],
     "outlook_next_decade": "Myanmar's economic outlook is subordinate to the conflict: no durable recovery is possible while civil war continues, the kyat is rationed, and sanctions bite. A political settlement could unlock rapid catch-up given the country's resources and location, but that is not the base case. Analytical assessment must be heavily caveated: the range runs from state fragmentation to eventual stabilization, and official data under the junta are unreliable. Humanitarian need will remain acute.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 145.71,
+      "oda_loans_net_usd_million": 3.32
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 195.89,
+      "oda_loans_net_usd_million": -7.45
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 534.59,
+      "oda_loans_net_usd_million": -6.6
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 355.96,
+      "oda_loans_net_usd_million": -3.24
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 354.92,
+      "oda_loans_net_usd_million": -37.63
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 379.95,
+      "oda_loans_net_usd_million": -21.0
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 504.53,
+      "oda_loans_net_usd_million": -23.52
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 3936.12,
+      "oda_loans_net_usd_million": -714.97
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1384.46,
+      "oda_loans_net_usd_million": -444.92
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1168.5,
+      "oda_loans_net_usd_million": 94.48
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1536.66,
+      "oda_loans_net_usd_million": 317.5
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1542.34,
+      "oda_loans_net_usd_million": 385.62
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1711.84,
+      "oda_loans_net_usd_million": 583.85
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 2043.74,
+      "oda_loans_net_usd_million": 777.39
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 2870.26,
+      "oda_loans_net_usd_million": 1611.18
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1506.56,
+      "oda_loans_net_usd_million": 494.16
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1000.16,
+      "oda_loans_net_usd_million": 204.14
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 14.75,
+    "total_imports_usd_billion": 16.44,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 3.44
+      },
+      {
+        "rank": 2,
+        "hs_code": "0713",
+        "product": "Vegetables, leguminous; shelled, whether or not skinned or split, dried",
+        "value_usd_billion": 1.44
+      },
+      {
+        "rank": 3,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.74
+      },
+      {
+        "rank": 4,
+        "hs_code": "6202",
+        "product": "Coats; women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including\u2026",
+        "value_usd_billion": 0.57
+      },
+      {
+        "rank": 5,
+        "hs_code": "6204",
+        "product": "Suits, ensembles, jackets, dresses, skirts, divided skirts, trousers, bib and brace\u2026",
+        "value_usd_billion": 0.53
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 5.19
+      },
+      {
+        "rank": 2,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.63
+      },
+      {
+        "rank": 3,
+        "hs_code": "5407",
+        "product": "Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials\u2026",
+        "value_usd_billion": 0.57
+      },
+      {
+        "rank": 4,
+        "hs_code": "3105",
+        "product": "Fertilizers; mineral or chemical, containing 2 or 3 of the elements nitrogen, phosphorus,\u2026",
+        "value_usd_billion": 0.46
+      },
+      {
+        "rank": 5,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 0.38
+      }
+    ]
   }
 }

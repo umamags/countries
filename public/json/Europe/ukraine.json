@@ -692,5 +692,163 @@
     ],
     "outlook_next_decade": "Ukraine's outlook is not an economic forecast but a war-contingent assessment: everything \u2014 debt sustainability, inflation, reconstruction \u2014 depends on the war's trajectory and Western support. The analytical base case must carry extreme uncertainty bands. If the war ends on terms preserving sovereignty, the reconstruction boom (potentially the largest in Europe since 1945) and EU accession path offer a strong medium-term story; debt restructuring and grant financing would follow. If it grinds on, the fiscal position deteriorates further. The NBU's demonstrated competence is a real asset for whatever comes next.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 484.63,
+      "oda_loans_net_usd_million": -5.68
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 420.98,
+      "oda_loans_net_usd_million": -4.63
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 617.35,
+      "oda_loans_net_usd_million": -2.18
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 654.72,
+      "oda_loans_net_usd_million": 49.85
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 656.65,
+      "oda_loans_net_usd_million": 47.74
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 777.93,
+      "oda_loans_net_usd_million": 178.47
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 772.06,
+      "oda_loans_net_usd_million": 139.99
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 790.74,
+      "oda_loans_net_usd_million": 148.34
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1403.82,
+      "oda_loans_net_usd_million": 291.03
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1449.35,
+      "oda_loans_net_usd_million": 455.43
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1523.32,
+      "oda_loans_net_usd_million": 379.76
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1180.66,
+      "oda_loans_net_usd_million": 91.11
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1223.21,
+      "oda_loans_net_usd_million": 72.84
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1119.33,
+      "oda_loans_net_usd_million": 11.2
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 2337.57,
+      "oda_loans_net_usd_million": 1252.08
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 2214.54,
+      "oda_loans_net_usd_million": 932.19
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 28696.71,
+      "oda_loans_net_usd_million": 12445.5
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 36.19,
+    "total_imports_usd_billion": 63.56,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "1512",
+        "product": "Sun-flower seed, safflower or cotton-seed oil and their fractions; whether or not\u2026",
+        "value_usd_billion": 5.01
+      },
+      {
+        "rank": 2,
+        "hs_code": "1005",
+        "product": "Maize (corn)",
+        "value_usd_billion": 4.97
+      },
+      {
+        "rank": 3,
+        "hs_code": "1001",
+        "product": "Wheat and meslin",
+        "value_usd_billion": 2.94
+      },
+      {
+        "rank": 4,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 1.77
+      },
+      {
+        "rank": 5,
+        "hs_code": "1201",
+        "product": "Soya beans, whether or not broken",
+        "value_usd_billion": 1.28
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 7.83
+      },
+      {
+        "rank": 2,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 4.92
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 4.06
+      },
+      {
+        "rank": 4,
+        "hs_code": "2711",
+        "product": "Petroleum gases and other gaseous hydrocarbons",
+        "value_usd_billion": 1.9
+      },
+      {
+        "rank": 5,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 1.72
+      }
+    ]
   }
 }

@@ -673,5 +673,163 @@
     ],
     "outlook_next_decade": "The base case is a slow debt grind-down on tourism growth, with inflation anchored by the euro peg. Upside comes from tourism diversification and diaspora investment; downside is existential: another pandemic-scale tourism stop would make the debt unserviceable. Uncertainty is moderate: the democracy is stable and policy is orthodox, but the debt level means there is no margin for error.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 139.11,
+      "oda_loans_net_usd_million": 36.77
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 145.1,
+      "oda_loans_net_usd_million": 18.24
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 203.65,
+      "oda_loans_net_usd_million": 35.49
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 196.28,
+      "oda_loans_net_usd_million": 27.16
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 326.98,
+      "oda_loans_net_usd_million": 152.72
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 251.37,
+      "oda_loans_net_usd_million": 140.17
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 245.64,
+      "oda_loans_net_usd_million": 163.33
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 245.16,
+      "oda_loans_net_usd_million": 158.8
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 231.39,
+      "oda_loans_net_usd_million": 144.92
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 153.25,
+      "oda_loans_net_usd_million": 73.67
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 115.24,
+      "oda_loans_net_usd_million": 42.85
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 123.01,
+      "oda_loans_net_usd_million": 27.74
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 84.28,
+      "oda_loans_net_usd_million": 14.78
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 151.94,
+      "oda_loans_net_usd_million": 66.84
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 158.15,
+      "oda_loans_net_usd_million": 87.0
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 145.24,
+      "oda_loans_net_usd_million": 53.08
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 82.58,
+      "oda_loans_net_usd_million": 16.88
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.28,
+    "total_imports_usd_billion": 1.76,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "1604",
+        "product": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "8609",
+        "product": "Containers; (including containers for transport of fluids) specially designed and\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 4,
+        "hs_code": "0303",
+        "product": "Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 5,
+        "hs_code": "0307",
+        "product": "Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in\u2026",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 2,
+        "hs_code": "8802",
+        "product": "Aircraft n.e.c. in heading no. 8801, except unmanned aircraft of heading 8806, (e.g.\u2026",
+        "value_usd_billion": 0.05
+      },
+      {
+        "rank": 3,
+        "hs_code": "8609",
+        "product": "Containers; (including containers for transport of fluids) specially designed and\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "2523",
+        "product": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and\u2026",
+        "value_usd_billion": 0.03
+      }
+    ]
   }
 }

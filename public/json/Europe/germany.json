@@ -708,5 +708,77 @@
     ],
     "outlook_next_decade": "Germany's outlook has shifted from complacent to structural: the growth model built on cheap Russian gas, Chinese demand, and underinvestment is under revision. Debt is low and sustainable, giving fiscal room the politics may finally use \u2014 the 2025 infrastructure and defense spending turn is the test. Inflation should stay near target. The decade's question is whether Germany can reindustrialize around green technology and digitalization while its demographics drag; the fiscal space exists, the execution is uncertain.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 1711.35,
+    "total_imports_usd_billion": 1486.21,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 179.16
+      },
+      {
+        "rank": 2,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 67.77
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 67.75
+      },
+      {
+        "rank": 4,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 62.32
+      },
+      {
+        "rank": 5,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 46.89
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 79.99
+      },
+      {
+        "rank": 2,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 47.95
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 46.16
+      },
+      {
+        "rank": 4,
+        "hs_code": "3002",
+        "product": "Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera,\u2026",
+        "value_usd_billion": 36.83
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 32.59
+      }
+    ]
   }
 }

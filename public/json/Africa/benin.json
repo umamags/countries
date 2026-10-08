@@ -651,5 +651,163 @@
     ],
     "outlook_next_decade": "The base case is continued 5-6% growth with low inflation under the CFA peg, and a gradual debt decline if infrastructure spending moderates. Upside comes from the port, the Glo-Djigbe industrial zone, and regional trade; downside is fiscal: if borrowing continues at the 2015-2023 pace, the next commodity or security shock could push debt past comfortable levels. Uncertainty is moderate, hinging on whether investment translates into revenues.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 400.31,
+      "oda_loans_net_usd_million": -1068.87
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 413.61,
+      "oda_loans_net_usd_million": 52.58
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 543.33,
+      "oda_loans_net_usd_million": 56.23
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 587.05,
+      "oda_loans_net_usd_million": 53.36
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 689.27,
+      "oda_loans_net_usd_million": 137.13
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 672.61,
+      "oda_loans_net_usd_million": 58.35
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 507.88,
+      "oda_loans_net_usd_million": 62.52
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 660.2,
+      "oda_loans_net_usd_million": 230.61
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 599.32,
+      "oda_loans_net_usd_million": 159.97
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 436.63,
+      "oda_loans_net_usd_million": 132.23
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 500.76,
+      "oda_loans_net_usd_million": 141.57
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 680.0,
+      "oda_loans_net_usd_million": 191.14
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 574.68,
+      "oda_loans_net_usd_million": 152.48
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 593.16,
+      "oda_loans_net_usd_million": 72.03
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1049.57,
+      "oda_loans_net_usd_million": 359.8
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 849.98,
+      "oda_loans_net_usd_million": 185.21
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 847.27,
+      "oda_loans_net_usd_million": 244.26
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 1.05,
+    "total_imports_usd_billion": 3.9,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "5201",
+        "product": "Cotton; not carded or combed",
+        "value_usd_billion": 0.5
+      },
+      {
+        "rank": 2,
+        "hs_code": "0801",
+        "product": "Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not\u2026",
+        "value_usd_billion": 0.11
+      },
+      {
+        "rank": 3,
+        "hs_code": "1201",
+        "product": "Soya beans, whether or not broken",
+        "value_usd_billion": 0.09
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 5,
+        "hs_code": "1207",
+        "product": "Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+        "value_usd_billion": 0.04
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "1006",
+        "product": "Rice",
+        "value_usd_billion": 0.65
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.49
+      },
+      {
+        "rank": 3,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.15
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.13
+      },
+      {
+        "rank": 5,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.12
+      }
+    ]
   }
 }

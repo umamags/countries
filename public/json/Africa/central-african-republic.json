@@ -654,5 +654,163 @@
     ],
     "outlook_next_decade": "The outlook is conditional on security: with much of the country outside state control, macroeconomic projections are highly uncertain. The base case is continued low growth, aid dependence, and debt hovering near 60% of GDP. Upside would require a genuine peace settlement unlocking mining and agriculture; downside is renewed full-scale conflict. Uncertainty is very high, and the numbers should be read as indicative rather than precise.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 133.59,
+      "oda_loans_net_usd_million": -58.79
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 179.27,
+      "oda_loans_net_usd_million": -0.49
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 245.65,
+      "oda_loans_net_usd_million": 3.64
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 212.36,
+      "oda_loans_net_usd_million": -134.01
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 260.98,
+      "oda_loans_net_usd_million": 5.39
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 268.77,
+      "oda_loans_net_usd_million": -2.66
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 228.02,
+      "oda_loans_net_usd_million": 9.24
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 202.82,
+      "oda_loans_net_usd_million": -7.37
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 611.0,
+      "oda_loans_net_usd_million": 35.06
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 486.92,
+      "oda_loans_net_usd_million": 13.05
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 506.76,
+      "oda_loans_net_usd_million": 21.59
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 511.98,
+      "oda_loans_net_usd_million": 55.06
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 641.05,
+      "oda_loans_net_usd_million": 88.25
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 676.42,
+      "oda_loans_net_usd_million": -14.15
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 832.7,
+      "oda_loans_net_usd_million": 70.69
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 659.27,
+      "oda_loans_net_usd_million": 53.98
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 682.54,
+      "oda_loans_net_usd_million": 67.14
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 0.11,
+    "total_imports_usd_billion": 0.74,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.07
+      },
+      {
+        "rank": 2,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 3,
+        "hs_code": "4403",
+        "product": "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared",
+        "value_usd_billion": 0.01
+      },
+      {
+        "rank": 4,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.0
+      },
+      {
+        "rank": 5,
+        "hs_code": "8708",
+        "product": "Motor vehicles; parts and accessories, of heading no. 8701 to 8705",
+        "value_usd_billion": 0.0
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.1
+      },
+      {
+        "rank": 2,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.04
+      },
+      {
+        "rank": 4,
+        "hs_code": "8710",
+        "product": "Tanks and other armoured fighting vehicles; motorised, whether or not fitted with\u2026",
+        "value_usd_billion": 0.03
+      },
+      {
+        "rank": 5,
+        "hs_code": "8705",
+        "product": "Special purpose motor vehicles; not those for the transport of persons or goods (e.g.\u2026",
+        "value_usd_billion": 0.03
+      }
+    ]
   }
 }

@@ -643,5 +643,163 @@
     ],
     "outlook_next_decade": "The base case is continued oil dependence with debt near 100% of GDP and low inflation under the CFA peg. Upside depends on new oil and gas projects (notably LNG) and genuine transparency in oil-backed borrowing; downside is another oil downturn forcing a disorderly restructuring. Uncertainty is moderate-to-high: the IMF program framework exists, but implementation has been repeatedly delayed and oil output is mature.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 258.3,
+      "oda_loans_net_usd_million": -26.35
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 101.09,
+      "oda_loans_net_usd_million": -24.09
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 467.72,
+      "oda_loans_net_usd_million": -9.54
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 272.44,
+      "oda_loans_net_usd_million": -32.44
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1315.09,
+      "oda_loans_net_usd_million": -72.38
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 261.24,
+      "oda_loans_net_usd_million": -51.12
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 140.13,
+      "oda_loans_net_usd_million": -6.71
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 150.97,
+      "oda_loans_net_usd_million": -4.59
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 106.18,
+      "oda_loans_net_usd_million": -15.91
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 88.8,
+      "oda_loans_net_usd_million": -20.13
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 86.96,
+      "oda_loans_net_usd_million": -9.57
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 106.94,
+      "oda_loans_net_usd_million": 0.37
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 146.55,
+      "oda_loans_net_usd_million": 39.21
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 176.67,
+      "oda_loans_net_usd_million": 67.74
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 215.73,
+      "oda_loans_net_usd_million": 76.94
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 204.02,
+      "oda_loans_net_usd_million": 73.31
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 703.32,
+      "oda_loans_net_usd_million": 569.82
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 9.47,
+    "total_imports_usd_billion": 4.7,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 7.97
+      },
+      {
+        "rank": 2,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 0.51
+      },
+      {
+        "rank": 3,
+        "hs_code": "8901",
+        "product": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for\u2026",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.16
+      },
+      {
+        "rank": 5,
+        "hs_code": "4407",
+        "product": "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or\u2026",
+        "value_usd_billion": 0.15
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "8905",
+        "product": "Light-vessels, fire-floats, dredgers, floating cranes, other vessels; the navigability of\u2026",
+        "value_usd_billion": 0.69
+      },
+      {
+        "rank": 2,
+        "hs_code": "0207",
+        "product": "Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the\u2026",
+        "value_usd_billion": 0.25
+      },
+      {
+        "rank": 3,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.22
+      },
+      {
+        "rank": 4,
+        "hs_code": "7304",
+        "product": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel",
+        "value_usd_billion": 0.19
+      },
+      {
+        "rank": 5,
+        "hs_code": "8481",
+        "product": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the\u2026",
+        "value_usd_billion": 0.15
+      }
+    ]
   }
 }

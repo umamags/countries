@@ -716,5 +716,163 @@
     ],
     "outlook_next_decade": "The base case is an oil-driven transformation: first oil (expected mid-decade) should lift growth, strengthen the fiscal position, and bring debt down. Upside is transformational if revenues are managed transparently; downside is the resource curse, Dutch disease, and the political risk of a succession from Museveni (in power since 1986). Uncertainty is moderate-to-high: the geology is proven, but Uganda's history counsels caution about the politics of oil.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 1589.23,
+      "oda_loans_net_usd_million": -3375.48
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 1364.07,
+      "oda_loans_net_usd_million": 94.8
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1463.03,
+      "oda_loans_net_usd_million": 66.38
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1391.1,
+      "oda_loans_net_usd_million": 117.89
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1690.14,
+      "oda_loans_net_usd_million": 439.59
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1572.92,
+      "oda_loans_net_usd_million": 317.79
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1642.5,
+      "oda_loans_net_usd_million": 331.77
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1697.09,
+      "oda_loans_net_usd_million": 450.25
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1633.68,
+      "oda_loans_net_usd_million": 303.24
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1638.16,
+      "oda_loans_net_usd_million": 416.77
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1762.6,
+      "oda_loans_net_usd_million": 377.62
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 2011.81,
+      "oda_loans_net_usd_million": 434.59
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1945.59,
+      "oda_loans_net_usd_million": 427.96
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 2029.57,
+      "oda_loans_net_usd_million": 503.0
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 3086.12,
+      "oda_loans_net_usd_million": 1367.2
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 2564.06,
+      "oda_loans_net_usd_million": 712.98
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 2155.39,
+      "oda_loans_net_usd_million": 330.25
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 6.31,
+    "total_imports_usd_billion": 11.78,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 2.23
+      },
+      {
+        "rank": 2,
+        "hs_code": "0901",
+        "product": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes\u2026",
+        "value_usd_billion": 0.96
+      },
+      {
+        "rank": 3,
+        "hs_code": "6907",
+        "product": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like,\u2026",
+        "value_usd_billion": 0.18
+      },
+      {
+        "rank": 4,
+        "hs_code": "1801",
+        "product": "Cocoa beans; whole or broken, raw or roasted",
+        "value_usd_billion": 0.14
+      },
+      {
+        "rank": 5,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.14
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.04
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 1.9
+      },
+      {
+        "rank": 3,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.34
+      },
+      {
+        "rank": 4,
+        "hs_code": "1511",
+        "product": "Palm oil and its fractions; whether or not refined, but not chemically modified",
+        "value_usd_billion": 0.31
+      },
+      {
+        "rank": 5,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.28
+      }
+    ]
   }
 }

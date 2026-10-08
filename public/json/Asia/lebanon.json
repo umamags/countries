@@ -681,5 +681,163 @@
     ],
     "outlook_next_decade": "Lebanon's outlook depends on politics that have failed for six years: without a debt restructuring, banking-sector resolution, and an IMF program, the economy stagnates in a dollarized, low-trust equilibrium. A reform government could unlock significant upside given human capital and diaspora resources. War damage from 2024 adds reconstruction needs. Analytical assessment: the base case is prolonged stagnation with periodic instability; honest uncertainty is very high and the data reflect a partially dollarized economy that official statistics capture poorly.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 819.04,
+      "oda_loans_net_usd_million": 82.35
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 978.97,
+      "oda_loans_net_usd_million": 347.72
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1068.36,
+      "oda_loans_net_usd_million": 246.87
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 550.97,
+      "oda_loans_net_usd_million": 51.96
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 445.09,
+      "oda_loans_net_usd_million": 16.63
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 475.49,
+      "oda_loans_net_usd_million": 70.5
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 711.58,
+      "oda_loans_net_usd_million": 41.7
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 621.6,
+      "oda_loans_net_usd_million": -53.82
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 820.95,
+      "oda_loans_net_usd_million": -41.79
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 965.61,
+      "oda_loans_net_usd_million": -116.16
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1129.34,
+      "oda_loans_net_usd_million": -75.29
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1303.04,
+      "oda_loans_net_usd_million": 93.58
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 1422.3,
+      "oda_loans_net_usd_million": 118.77
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 1236.46,
+      "oda_loans_net_usd_million": -51.12
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1421.67,
+      "oda_loans_net_usd_million": -2.98
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1399.5,
+      "oda_loans_net_usd_million": -76.01
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1426.26,
+      "oda_loans_net_usd_million": -51.7
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 4.56,
+    "total_imports_usd_billion": 18.12,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.57
+      },
+      {
+        "rank": 2,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 0.39
+      },
+      {
+        "rank": 3,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 0.33
+      },
+      {
+        "rank": 4,
+        "hs_code": "7102",
+        "product": "Diamonds, whether or not worked, but not mounted or set",
+        "value_usd_billion": 0.26
+      },
+      {
+        "rank": 5,
+        "hs_code": "7113",
+        "product": "Jewellery articles and parts thereof, of precious metal or of metal clad with precious\u2026",
+        "value_usd_billion": 0.19
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 4.69
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 2.09
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 0.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "3004",
+        "product": "Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed\u2026",
+        "value_usd_billion": 0.53
+      },
+      {
+        "rank": 5,
+        "hs_code": "0102",
+        "product": "Bovine animals; live",
+        "value_usd_billion": 0.36
+      }
+    ]
   }
 }

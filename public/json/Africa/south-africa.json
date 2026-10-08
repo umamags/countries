@@ -709,5 +709,163 @@
     ],
     "outlook_next_decade": "The base case is continued low growth (1-2%) with inflation near target and debt drifting toward 80%+ of GDP unless the GNU delivers reforms. Upside comes from energy reform (private generation ending load-shedding), logistics fixes, and structural reforms; downside is political fragmentation unwinding the GNU. Uncertainty is moderate: the SARB is credible and the debt is domestic, but South Africa has promised reform for a decade and delivered little.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 723.24,
+      "oda_loans_net_usd_million": 96.65
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 795.12,
+      "oda_loans_net_usd_million": 61.74
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 1114.91,
+      "oda_loans_net_usd_million": 167.14
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 1073.81,
+      "oda_loans_net_usd_million": 22.39
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": 1036.27,
+      "oda_loans_net_usd_million": 31.59
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 1396.97,
+      "oda_loans_net_usd_million": 314.01
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 1065.83,
+      "oda_loans_net_usd_million": 2.82
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 1295.34,
+      "oda_loans_net_usd_million": 294.31
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 1077.4,
+      "oda_loans_net_usd_million": 181.59
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 1420.27,
+      "oda_loans_net_usd_million": 615.07
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 1180.28,
+      "oda_loans_net_usd_million": 291.28
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": 1014.81,
+      "oda_loans_net_usd_million": 47.07
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 920.97,
+      "oda_loans_net_usd_million": -15.57
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 964.87,
+      "oda_loans_net_usd_million": 243.31
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 1203.09,
+      "oda_loans_net_usd_million": 67.59
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 1041.57,
+      "oda_loans_net_usd_million": -174.61
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 1028.58,
+      "oda_loans_net_usd_million": 106.4
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 110.61,
+    "total_imports_usd_billion": 107.12,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "7110",
+        "product": "Platinum; unwrought or in semi-manufactured forms, or in powder form",
+        "value_usd_billion": 10.71
+      },
+      {
+        "rank": 2,
+        "hs_code": "2701",
+        "product": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+        "value_usd_billion": 7.86
+      },
+      {
+        "rank": 3,
+        "hs_code": "2601",
+        "product": "Iron ores and concentrates; including roasted iron pyrites",
+        "value_usd_billion": 6.53
+      },
+      {
+        "rank": 4,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 6.29
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 5.97
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 15.17
+      },
+      {
+        "rank": 2,
+        "hs_code": "9999",
+        "product": "Commodities not specified according to kind",
+        "value_usd_billion": 8.83
+      },
+      {
+        "rank": 3,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 4.81
+      },
+      {
+        "rank": 4,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 4.11
+      },
+      {
+        "rank": 5,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 3.13
+      }
+    ]
   }
 }

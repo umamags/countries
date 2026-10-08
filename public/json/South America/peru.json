@@ -694,5 +694,163 @@
     ],
     "outlook_next_decade": "Macro fundamentals are sound: low debt, anchored inflation, and large reserves. The constraint is entirely political - investment, especially in the mining pipeline that funds the treasury, hinges on governability. If politics stabilize, Peru can grow 3-4% with debt drifting back toward 25% of GDP; continued fragmentation means underperformance relative to fundamentals. El Nino/climate exposure is the main exogenous risk.",
     "caveat": "Outlook is an analytical assessment as of October 2026, not a forecast. 2025 figures are IMF estimates/projections."
+  },
+  "aid": [
+    {
+      "year": 2006,
+      "oda_received_usd_million": 459.9,
+      "oda_loans_net_usd_million": -55.89
+    },
+    {
+      "year": 2007,
+      "oda_received_usd_million": 321.34,
+      "oda_loans_net_usd_million": -170.26
+    },
+    {
+      "year": 2008,
+      "oda_received_usd_million": 474.59,
+      "oda_loans_net_usd_million": -43.29
+    },
+    {
+      "year": 2009,
+      "oda_received_usd_million": 442.95,
+      "oda_loans_net_usd_million": -75.69
+    },
+    {
+      "year": 2010,
+      "oda_received_usd_million": -298.89,
+      "oda_loans_net_usd_million": -743.6
+    },
+    {
+      "year": 2011,
+      "oda_received_usd_million": 590.72,
+      "oda_loans_net_usd_million": 102.79
+    },
+    {
+      "year": 2012,
+      "oda_received_usd_million": 385.56,
+      "oda_loans_net_usd_million": -48.28
+    },
+    {
+      "year": 2013,
+      "oda_received_usd_million": 363.66,
+      "oda_loans_net_usd_million": -78.32
+    },
+    {
+      "year": 2014,
+      "oda_received_usd_million": 328.3,
+      "oda_loans_net_usd_million": -100.91
+    },
+    {
+      "year": 2015,
+      "oda_received_usd_million": 334.83,
+      "oda_loans_net_usd_million": -43.29
+    },
+    {
+      "year": 2016,
+      "oda_received_usd_million": 320.2,
+      "oda_loans_net_usd_million": -82.5
+    },
+    {
+      "year": 2017,
+      "oda_received_usd_million": -1.26,
+      "oda_loans_net_usd_million": -358.63
+    },
+    {
+      "year": 2018,
+      "oda_received_usd_million": 450.83,
+      "oda_loans_net_usd_million": 112.2
+    },
+    {
+      "year": 2019,
+      "oda_received_usd_million": 458.91,
+      "oda_loans_net_usd_million": 98.67
+    },
+    {
+      "year": 2020,
+      "oda_received_usd_million": 488.74,
+      "oda_loans_net_usd_million": 102.38
+    },
+    {
+      "year": 2021,
+      "oda_received_usd_million": 303.67,
+      "oda_loans_net_usd_million": -147.42
+    },
+    {
+      "year": 2022,
+      "oda_received_usd_million": 829.36,
+      "oda_loans_net_usd_million": 398.95
+    }
+  ],
+  "trade": {
+    "year": 2023,
+    "source": "UN Comtrade, accessed October 2026",
+    "granularity": "HS 4-digit headings, top 5 by value",
+    "total_exports_usd_billion": 64.61,
+    "total_imports_usd_billion": 52.27,
+    "top_exports": [
+      {
+        "rank": 1,
+        "hs_code": "2603",
+        "product": "Copper ores and concentrates",
+        "value_usd_billion": 20.13
+      },
+      {
+        "rank": 2,
+        "hs_code": "7108",
+        "product": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in\u2026",
+        "value_usd_billion": 8.51
+      },
+      {
+        "rank": 3,
+        "hs_code": "7403",
+        "product": "Copper; refined and copper alloys, unwrought",
+        "value_usd_billion": 2.69
+      },
+      {
+        "rank": 4,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 2.38
+      },
+      {
+        "rank": 5,
+        "hs_code": "0806",
+        "product": "Grapes; fresh or dried",
+        "value_usd_billion": 1.77
+      }
+    ],
+    "top_imports": [
+      {
+        "rank": 1,
+        "hs_code": "2710",
+        "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,\u2026",
+        "value_usd_billion": 5.63
+      },
+      {
+        "rank": 2,
+        "hs_code": "2709",
+        "product": "Petroleum oils and oils obtained from bituminous minerals; crude",
+        "value_usd_billion": 3.22
+      },
+      {
+        "rank": 3,
+        "hs_code": "8703",
+        "product": "Motor cars and other motor vehicles; principally designed for the transport of persons\u2026",
+        "value_usd_billion": 1.88
+      },
+      {
+        "rank": 4,
+        "hs_code": "8517",
+        "product": "Telephone sets, including smartphones and other telephones for cellular/wireless\u2026",
+        "value_usd_billion": 1.52
+      },
+      {
+        "rank": 5,
+        "hs_code": "8704",
+        "product": "Vehicles; for the transport of goods",
+        "value_usd_billion": 1.46
+      }
+    ]
   }
 }

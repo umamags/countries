@@ -1,0 +1,73 @@
+{
+  "country": "Paraguay",
+  "iso3": "PRY",
+  "year": 2023,
+  "source": "UN Comtrade, accessed October 2026",
+  "granularity": "HS 4-digit headings, top 5 by value",
+  "total_exports_usd_billion": 11.87,
+  "total_imports_usd_billion": 16.13,
+  "top_exports": [
+    {
+      "rank": 1,
+      "hs_code": "1201",
+      "product": "Soya beans, whether or not broken",
+      "value_usd_billion": 3.42
+    },
+    {
+      "rank": 2,
+      "hs_code": "2716",
+      "product": "Electrical energy",
+      "value_usd_billion": 1.55
+    },
+    {
+      "rank": 3,
+      "hs_code": "2304",
+      "product": "Oil-cake and other solid residues; whether or not ground or in the form of pellets,…",
+      "value_usd_billion": 0.89
+    },
+    {
+      "rank": 4,
+      "hs_code": "0201",
+      "product": "Meat of bovine animals; fresh or chilled",
+      "value_usd_billion": 0.8
+    },
+    {
+      "rank": 5,
+      "hs_code": "1005",
+      "product": "Maize (corn)",
+      "value_usd_billion": 0.75
+    }
+  ],
+  "top_imports": [
+    {
+      "rank": 1,
+      "hs_code": "8517",
+      "product": "Telephone sets, including smartphones and other telephones for cellular/wireless…",
+      "value_usd_billion": 2.08
+    },
+    {
+      "rank": 2,
+      "hs_code": "2710",
+      "product": "Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c,…",
+      "value_usd_billion": 1.98
+    },
+    {
+      "rank": 3,
+      "hs_code": "8703",
+      "product": "Motor cars and other motor vehicles; principally designed for the transport of persons…",
+      "value_usd_billion": 0.55
+    },
+    {
+      "rank": 4,
+      "hs_code": "3808",
+      "product": "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth…",
+      "value_usd_billion": 0.43
+    },
+    {
+      "rank": 5,
+      "hs_code": "8471",
+      "product": "Automatic data processing machines and units thereof, magnetic or optical readers,…",
+      "value_usd_billion": 0.41
+    }
+  ]
+}
