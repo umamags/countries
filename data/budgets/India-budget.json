@@ -1,0 +1,538 @@
+{
+  "country": "India",
+  "iso3": "IND",
+  "period": "FY2015-16-FY2025-26 (Actuals for FY2015-16-FY2024-25; Revised Estimates for FY2025-26)",
+  "sources": [
+    "Union Budget 2017-18, Expenditure Profile, Statement 3 (Expenditure of Ministries and Departments) - Actuals 2015-16; indiabudget.gov.in/budget_archive/ub2017-18/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2018-19, Expenditure Profile, Statement 3 - Actuals 2016-17; indiabudget.gov.in/budget_archive/ub2018-19/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2019-20, Expenditure Profile, Statement 3 - Actuals 2017-18; indiabudget.gov.in/budget2019-20/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2020-21, Expenditure Profile, Statement 3 - Actuals 2018-19; indiabudget.gov.in/budget2020-21/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2021-22, Expenditure Profile, Statement 3 - Actuals 2019-20; indiabudget.gov.in/budget2021-22/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2022-23, Expenditure Profile, Statement 3 - Actuals 2020-21; indiabudget.gov.in/budget2022-23/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2023-24, Expenditure Profile, Statement 3 - Actuals 2021-22; indiabudget.gov.in/budget2023-24/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2024-25, Expenditure Profile, Statement 3 - Actuals 2022-23; indiabudget.gov.in/budget2024-25/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2025-26, Expenditure Profile, Statement 3 - Actuals 2023-24; indiabudget.gov.in/budget2025-26/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Union Budget 2026-27, Expenditure Profile, Statement 3 - Actuals 2024-25 and Revised Estimates 2025-26; indiabudget.gov.in/doc/eb/stat3a.pdf, accessed Oct 2026",
+    "Cross-check: Union Budget 2021-22 through 2026-27, Budget at a Glance - Grand Total and Interest Payments lines; indiabudget.gov.in, accessed Oct 2026",
+    "FX: INR per USD annual average (World Bank PA.NUS.FCRF) from workspace/countries/data/profiles/India-profile.json, calendar years 2006-2025"
+  ],
+  "category_mapping": {
+    "defense": "Ministry of Defence demands taken whole: Defence Services (Revenue), Capital Outlay on Defence Services, Defence Pensions, and Ministry of Defence (Civil) [named 'Ministry of Defence (Misc.)' in FY2015-16/FY2016-17 documents].",
+    "health": "Department of Health and Family Welfare; Department of Health Research; Ministry of Ayush (AYUSH - traditional medicine systems; judgment call, documented here).",
+    "education": "Department of School Education and Literacy; Department of Higher Education.",
+    "social_protection": "Department of Rural Development (incl. MGNREGA, PMAY-Gramin); Department of Land Resources (watershed/livelihood programmes under Rural Development - judgment call); Department of Social Justice and Empowerment; Department of Empowerment of Persons with Disabilities; Department of Food and Public Distribution (food subsidy); Ministry of Tribal Affairs; Ministry of Minority Affairs; Ministry of Women and Child Development; Ministry of Labour and Employment.",
+    "economic_affairs": "Department of Agriculture and Farmers Welfare (earlier '...Cooperation and Farmers Welfare'); Department of Agricultural Research and Education; Department of Fisheries; Department of Animal Husbandry and Dairying [FY2015-16/FY2016-17: combined 'Department of Animal Husbandry, Dairying and Fisheries']; Ministry of Food Processing Industries; Department of Fertilisers (fertiliser subsidy - JUDGMENT CALL: treated as agricultural input subsidy per COFOG agriculture, not social protection); Ministries of Railways; Road Transport and Highways; Jal Shakti departments - Water Resources, River Development and Ganga Rejuvenation, and Drinking Water and Sanitation (JUDGMENT: water-supply infrastructure); Power; New and Renewable Energy; Petroleum and Natural Gas; Coal; Mines; Steel; Textiles; Department of Commerce; Department for Promotion of Industry and Internal Trade [earlier 'Department of Industrial Policy and Promotion']; Micro, Small and Medium Enterprises; Electronics and Information Technology (Digital India); Telecommunications; Posts (JUDGMENT: communications infrastructure); Civil Aviation; Ports, Shipping and Waterways [earlier 'Ministry of Shipping']; Science and Technology; Biotechnology; Scientific and Industrial Research; Atomic Energy; Space; Heavy Industries; Chemicals and Petrochemicals; Pharmaceuticals; Skill Development and Entrepreneurship (JUDGMENT: vocational training for employment); Development of North Eastern Region (JUDGMENT: regional development); Earth Sciences (JUDGMENT: scientific services); Ministry of Cooperation (JUDGMENT: cooperatives).",
+    "general_admin": "Finance Ministry establishment taken whole EXCLUDING Interest Payments (separate demand): Departments of Economic Affairs, Expenditure, Financial Services, Public Enterprises, Investment and Public Asset Management (DIPAM), Revenue; Direct Taxes; Indirect Taxes; Indian Audit and Accounts Department (note: includes some scheme/capital-infusion spending, e.g. bank recapitalisation under Financial Services, not separable at demand level); 'Pensions' demand (civil pensions administered by Department of Expenditure - JUDGMENT; Defence Pensions stays in defense); 'Transfers to States' (Finance Commission/general intergovernmental transfers, COFOG 01.8 - JUDGMENT); Cabinet (Cabinet Secretariat); President/Vice-President/Parliament (President's establishment, Lok Sabha, Rajya Sabha, Vice-President's Secretariat); Parliamentary Affairs; Personnel, Public Grievances and Pensions; Central Vigilance Commission; Union Public Service Commission; Planning (NITI Aayog); Statistics and Programme Implementation; Election Commission (JUDGMENT: electoral administration); Corporate Affairs (JUDGMENT: regulatory administration); Panchayati Raj (JUDGMENT: support to local governance); Union Territory administrations - Andaman and Nicobar Islands, Chandigarh, Dadra and Nagar Haveli (later merged with Daman and Diu), Ladakh, Lakshadweep, Transfers to Delhi / Jammu and Kashmir / Puducherry (JUDGMENT: territorial administration).",
+    "debt_interest": "Interest Payments - separate demand in Expenditure Profile Statement 3 (matches Budget at a Glance 'Interest Payments' line; cross-checked every year).",
+    "public_order": "'Police' demand (Central Armed Police Forces, Delhi Police, intelligence, etc.) plus the whole 'Ministry of Home Affairs' demand - JUDGMENT CALL: Home Affairs NOT split; its non-police components (disaster management/NDRF, census/RGI, etc.) are included here since statement-3 gives no finer split; Law and Justice and Supreme Court of India included as the courts element.",
+    "other": "External Affairs (foreign affairs); Environment, Forests and Climate Change; Housing and Urban Affairs [earlier 'Ministry of Urban Development' + 'Ministry of Housing and Urban Poverty Alleviation'] - JUDGMENT CALL: mixed urban infrastructure plus PMAY-Urban housing; kept in residual 'other' because it spans functions and cannot be split at demand level (economic_affairs reserved for productive sectors); Culture; Information and Broadcasting; Tourism; Youth Affairs and Sports; Consumer Affairs (JUDGMENT: consumer protection/price monitoring)."
+  },
+  "fiscal_year_note": "Indian fiscal year runs April-March; FY2023-24 = Apr 2023-Mar 2024.",
+  "unit": "percent of total Union Government expenditure; USD billions",
+  "notes": [
+    "Totals are the Expenditure Profile Statement 3 'Grand Total' (Revenue + Capital expenditure) per fiscal year; cross-checked against each year's Budget at a Glance Grand Total and Interest Payments - all match within rounding.",
+    "FY2025-26 uses Revised Estimates (final actuals not yet published); all other years are Actuals.",
+    "FY2026 INR-per-USD rate is not in the profile file (2006-2025 only), so FY2025-26 usd_billion values are null; pct shares are retained.",
+    "Genuine data gaps (published as blank, treated as unavailable rather than zero): FY2017-18 - Department of Fisheries actuals blank (department created 2019); FY2018-19 - Ladakh and Transfers to Jammu and Kashmir blank (UTs created Oct 2019; J&K was a state in FY2018-19); FY2019-20 - Ladakh and Transfers to Jammu and Kashmir blank; FY2020-21 - Ministry of Cooperation blank (created 2021). The 'Repayment of Debt' demand is blank in every year (debt repayment is not expenditure) and is excluded from totals.",
+    "Coverage is FY2015-16-FY2025-26. Earlier fiscal years are not covered: pre-2017-18 budgets use the older Expenditure Budget (Plan/Non-Plan) document structure rather than the Expenditure Profile Statement 3 series used here.",
+    "Department of Economic Affairs actuals for FY2017-18 are Rs -23.11 crore (negative recovery figure as published); included exactly as published.",
+    "Rounding: pct to 1 decimal; USD billions to 2 decimals; per-year pct shares verified to sum to 100 +/- 1.5 (observed range 99.8-100.1)."
+  ],
+  "data": [
+    {
+      "fiscal_year": "FY2015-16",
+      "calendar_year": 2016,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 1790782.69,
+      "total_usd_billion": 266.5,
+      "areas": {
+        "defense": {
+          "pct": 16.4,
+          "usd_billion": 43.74
+        },
+        "health": {
+          "pct": 2.0,
+          "usd_billion": 5.24
+        },
+        "education": {
+          "pct": 3.8,
+          "usd_billion": 10.01
+        },
+        "social_protection": {
+          "pct": 14.3,
+          "usd_billion": 38.07
+        },
+        "economic_affairs": {
+          "pct": 17.8,
+          "usd_billion": 47.4
+        },
+        "general_admin": {
+          "pct": 14.7,
+          "usd_billion": 39.27
+        },
+        "debt_interest": {
+          "pct": 24.7,
+          "usd_billion": 65.73
+        },
+        "public_order": {
+          "pct": 3.9,
+          "usd_billion": 10.46
+        },
+        "other": {
+          "pct": 2.5,
+          "usd_billion": 6.6
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2016-17",
+      "calendar_year": 2017,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 1975193.71,
+      "total_usd_billion": 303.27,
+      "areas": {
+        "defense": {
+          "pct": 17.8,
+          "usd_billion": 53.98
+        },
+        "health": {
+          "pct": 2.0,
+          "usd_billion": 6.18
+        },
+        "education": {
+          "pct": 3.6,
+          "usd_billion": 11.06
+        },
+        "social_protection": {
+          "pct": 12.6,
+          "usd_billion": 38.14
+        },
+        "economic_affairs": {
+          "pct": 19.1,
+          "usd_billion": 57.92
+        },
+        "general_admin": {
+          "pct": 12.9,
+          "usd_billion": 39.15
+        },
+        "debt_interest": {
+          "pct": 24.3,
+          "usd_billion": 73.81
+        },
+        "public_order": {
+          "pct": 4.1,
+          "usd_billion": 12.53
+        },
+        "other": {
+          "pct": 3.5,
+          "usd_billion": 10.5
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2017-18",
+      "calendar_year": 2018,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 2141973.06,
+      "total_usd_billion": 312.93,
+      "areas": {
+        "defense": {
+          "pct": 17.7,
+          "usd_billion": 55.47
+        },
+        "health": {
+          "pct": 2.6,
+          "usd_billion": 7.98
+        },
+        "education": {
+          "pct": 3.7,
+          "usd_billion": 11.72
+        },
+        "social_protection": {
+          "pct": 12.1,
+          "usd_billion": 38.01
+        },
+        "economic_affairs": {
+          "pct": 19.3,
+          "usd_billion": 60.24
+        },
+        "general_admin": {
+          "pct": 12.4,
+          "usd_billion": 38.72
+        },
+        "debt_interest": {
+          "pct": 24.7,
+          "usd_billion": 77.28
+        },
+        "public_order": {
+          "pct": 4.3,
+          "usd_billion": 13.34
+        },
+        "other": {
+          "pct": 3.2,
+          "usd_billion": 10.17
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2018-19",
+      "calendar_year": 2019,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 2315112.61,
+      "total_usd_billion": 328.72,
+      "areas": {
+        "defense": {
+          "pct": 17.4,
+          "usd_billion": 57.29
+        },
+        "health": {
+          "pct": 2.4,
+          "usd_billion": 7.98
+        },
+        "education": {
+          "pct": 3.5,
+          "usd_billion": 11.41
+        },
+        "social_protection": {
+          "pct": 11.8,
+          "usd_billion": 38.87
+        },
+        "economic_affairs": {
+          "pct": 20.2,
+          "usd_billion": 66.38
+        },
+        "general_admin": {
+          "pct": 12.0,
+          "usd_billion": 39.41
+        },
+        "debt_interest": {
+          "pct": 25.2,
+          "usd_billion": 82.73
+        },
+        "public_order": {
+          "pct": 4.4,
+          "usd_billion": 14.59
+        },
+        "other": {
+          "pct": 3.1,
+          "usd_billion": 10.07
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2019-20",
+      "calendar_year": 2020,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 2686329.95,
+      "total_usd_billion": 362.49,
+      "areas": {
+        "defense": {
+          "pct": 16.9,
+          "usd_billion": 61.13
+        },
+        "health": {
+          "pct": 2.5,
+          "usd_billion": 8.91
+        },
+        "education": {
+          "pct": 3.3,
+          "usd_billion": 12.07
+        },
+        "social_protection": {
+          "pct": 10.9,
+          "usd_billion": 39.61
+        },
+        "economic_affairs": {
+          "pct": 20.8,
+          "usd_billion": 75.37
+        },
+        "general_admin": {
+          "pct": 15.5,
+          "usd_billion": 56.28
+        },
+        "debt_interest": {
+          "pct": 22.8,
+          "usd_billion": 82.59
+        },
+        "public_order": {
+          "pct": 4.6,
+          "usd_billion": 16.51
+        },
+        "other": {
+          "pct": 2.8,
+          "usd_billion": 10.02
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2020-21",
+      "calendar_year": 2021,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 3509836.38,
+      "total_usd_billion": 474.66,
+      "areas": {
+        "defense": {
+          "pct": 13.8,
+          "usd_billion": 65.68
+        },
+        "health": {
+          "pct": 2.4,
+          "usd_billion": 11.2
+        },
+        "education": {
+          "pct": 2.4,
+          "usd_billion": 11.39
+        },
+        "social_protection": {
+          "pct": 22.9,
+          "usd_billion": 108.66
+        },
+        "economic_affairs": {
+          "pct": 19.2,
+          "usd_billion": 91.34
+        },
+        "general_admin": {
+          "pct": 14.8,
+          "usd_billion": 70.09
+        },
+        "debt_interest": {
+          "pct": 19.4,
+          "usd_billion": 91.94
+        },
+        "public_order": {
+          "pct": 2.8,
+          "usd_billion": 13.17
+        },
+        "other": {
+          "pct": 2.4,
+          "usd_billion": 11.19
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2021-22",
+      "calendar_year": 2022,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 3793800.63,
+      "total_usd_billion": 482.5,
+      "areas": {
+        "defense": {
+          "pct": 13.2,
+          "usd_billion": 63.68
+        },
+        "health": {
+          "pct": 2.3,
+          "usd_billion": 11.04
+        },
+        "education": {
+          "pct": 2.1,
+          "usd_billion": 10.22
+        },
+        "social_protection": {
+          "pct": 14.0,
+          "usd_billion": 67.49
+        },
+        "economic_affairs": {
+          "pct": 23.6,
+          "usd_billion": 113.8
+        },
+        "general_admin": {
+          "pct": 17.0,
+          "usd_billion": 82.0
+        },
+        "debt_interest": {
+          "pct": 21.2,
+          "usd_billion": 102.44
+        },
+        "public_order": {
+          "pct": 3.0,
+          "usd_billion": 14.67
+        },
+        "other": {
+          "pct": 3.6,
+          "usd_billion": 17.16
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2022-23",
+      "calendar_year": 2023,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 4193157.23,
+      "total_usd_billion": 507.69,
+      "areas": {
+        "defense": {
+          "pct": 13.7,
+          "usd_billion": 69.39
+        },
+        "health": {
+          "pct": 1.9,
+          "usd_billion": 9.47
+        },
+        "education": {
+          "pct": 2.3,
+          "usd_billion": 11.77
+        },
+        "social_protection": {
+          "pct": 12.3,
+          "usd_billion": 62.58
+        },
+        "economic_affairs": {
+          "pct": 26.8,
+          "usd_billion": 135.96
+        },
+        "general_admin": {
+          "pct": 15.3,
+          "usd_billion": 77.84
+        },
+        "debt_interest": {
+          "pct": 22.1,
+          "usd_billion": 112.42
+        },
+        "public_order": {
+          "pct": 3.0,
+          "usd_billion": 15.3
+        },
+        "other": {
+          "pct": 2.6,
+          "usd_billion": 12.97
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2023-24",
+      "calendar_year": 2024,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 4443447.23,
+      "total_usd_billion": 531.08,
+      "areas": {
+        "defense": {
+          "pct": 13.7,
+          "usd_billion": 72.85
+        },
+        "health": {
+          "pct": 1.9,
+          "usd_billion": 10.26
+        },
+        "education": {
+          "pct": 2.8,
+          "usd_billion": 14.74
+        },
+        "social_protection": {
+          "pct": 10.1,
+          "usd_billion": 53.7
+        },
+        "economic_affairs": {
+          "pct": 27.0,
+          "usd_billion": 143.59
+        },
+        "general_admin": {
+          "pct": 14.8,
+          "usd_billion": 78.8
+        },
+        "debt_interest": {
+          "pct": 23.9,
+          "usd_billion": 127.15
+        },
+        "public_order": {
+          "pct": 3.1,
+          "usd_billion": 16.56
+        },
+        "other": {
+          "pct": 2.5,
+          "usd_billion": 13.43
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2024-25",
+      "calendar_year": 2025,
+      "estimate_type": "Actuals",
+      "total_inr_crore": 4652867.4,
+      "total_usd_billion": 533.79,
+      "areas": {
+        "defense": {
+          "pct": 13.7,
+          "usd_billion": 72.96
+        },
+        "health": {
+          "pct": 2.0,
+          "usd_billion": 10.78
+        },
+        "education": {
+          "pct": 2.4,
+          "usd_billion": 12.7
+        },
+        "social_protection": {
+          "pct": 9.5,
+          "usd_billion": 50.96
+        },
+        "economic_affairs": {
+          "pct": 26.9,
+          "usd_billion": 143.76
+        },
+        "general_admin": {
+          "pct": 15.9,
+          "usd_billion": 84.95
+        },
+        "debt_interest": {
+          "pct": 24.0,
+          "usd_billion": 127.98
+        },
+        "public_order": {
+          "pct": 3.4,
+          "usd_billion": 18.37
+        },
+        "other": {
+          "pct": 2.1,
+          "usd_billion": 11.32
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2025-26",
+      "calendar_year": 2026,
+      "estimate_type": "Revised Estimates",
+      "total_inr_crore": 4964841.74,
+      "total_usd_billion": null,
+      "areas": {
+        "defense": {
+          "pct": 14.8,
+          "usd_billion": null
+        },
+        "health": {
+          "pct": 2.0,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 2.5,
+          "usd_billion": null
+        },
+        "social_protection": {
+          "pct": 9.8,
+          "usd_billion": null
+        },
+        "economic_affairs": {
+          "pct": 24.5,
+          "usd_billion": null
+        },
+        "general_admin": {
+          "pct": 15.3,
+          "usd_billion": null
+        },
+        "debt_interest": {
+          "pct": 25.7,
+          "usd_billion": null
+        },
+        "public_order": {
+          "pct": 3.5,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 2.0,
+          "usd_billion": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "country": "Brazil",
+  "iso3": "BRA",
+  "period": "FY2014–FY2025. Pre-2014 years are not available in this source (Portal's despesas-execucao series starts Jan 2014; older data exists only in the legacy 'Páginas de Transparência' archive in a different, document-level schema and was not merged to keep the series methodologically consistent).",
+  "sources": [
+    "Portal da Transparência do Governo Federal (CGU), Dados Abertos — 'Execução da Despesa' (download-de-dados/despesas-execucao): monthly consolidated files AAAAMM_Despesas.zip, Jan 2014 – Dec 2025, accessed Oct 2026. Each monthly file holds that month's expenditure movements (lançamentos); annual figures = sum of the 12 monthly files.",
+    "Data dictionary: 'Dicionário de Dados - Execução da Despesa' (portaldatransparencia.gov.br/dicionario-de-dados/execucao-despesa), accessed Oct 2026.",
+    "FX rates: workspace/countries/data/profiles/Brazil-profile.json, field fx_lcu_per_usd_annual_avg (BRL per USD, annual average; ECB reference rates via Frankfurter).",
+    "Cross-check: Tesouro Nacional, Balanço do Setor Público Nacional 2026 (ano-base 2025) — aggregate despesa totals and função shares for 2024–2025 are in the same ballpark as the series computed here (after allowing for BSPN's all-spheres/all-powers consolidation vs this file's Poder Executivo scope)."
+  ],
+  "category_mapping": {
+    "defense": "Função 05 Defesa Nacional",
+    "health": "Função 10 Saúde",
+    "education": "Função 12 Educação",
+    "social_protection": "Função 09 Previdência Social + Função 08 Assistência Social",
+    "economic_affairs": "Funções 20 Agricultura, 26 Transporte, 25 Energia, 22 Indústria, 23 Comércio e Serviços, 21 Organização Agrária + 19 Ciência e Tecnologia (R&D counted here; COFOG-consistent choice, documented)",
+    "general_admin": "Função 04 Administração",
+    "debt_interest": "Elementos de despesa 21 (Juros sobre a Dívida por Contrato), 22 (Outros Encargos sobre a Dívida por Contrato), 23 (Juros, Deságios e Descontos da Dívida Mobiliária) and 24 (Outros Encargos sobre a Dívida Mobiliária) — i.e. GND 2 'Juros e Encargos da Dívida' — carved out of Função 28 Encargos Especiais (where >99.9% of it sits) and, for exactness, also swept from the rare rows where interest elementos appear under other funções (only 3 cases in the whole series: função 19 in 2014 and função 22 in 2014–2015, together <0.03% of any year's total). Everything else in função 28 (amortização/refinanciamento da dívida — elementos 76/72/77/71; transferências constitucionais a estados/municípios — elemento 81; participações em fundos/organismos — 84; indenizações, pessoal, demais) goes to 'other'.",
+    "public_order": "Função 06 Segurança Pública only",
+    "other": "Funções 01 Legislativa, 02 Judiciária, 03 Essencial à Justiça (kept here, NOT in public_order), 07 Relações Exteriores, 11 Trabalho (kept here, NOT in social_protection — includes FAT/seguro-desemprego/abono; schema defines social_protection as 08+09 only), 13 Cultura, 14 Direitos da Cidadania, 15 Urbanismo, 16 Habitação, 17 Saneamento, 18 Gestão Ambiental, 24 Comunicações, 27 Desporto e Lazer, plus the non-interest remainder of Função 28."
+  },
+  "fiscal_year_note": "Calendar-year basis (Brazil's fiscal year = calendar year). Federal government Poder EXECUTIVO only (Portal da Transparência scope per CGU: Legislativo, Judiciário, MPU and DPU are not in this dataset — roughly 1–2% of total federal spending; funções 01/02/03 therefore show only small executive-unit amounts). Measure: DESPESA EMPENHADA (committed expenditure), summed over the 12 monthly movement files per year. 'Valor Liquidado' and 'Valor Pago' are present in the same source files but were not used, for consistency with budget-composition (empenhada) convention used in RREO/BSPN aggregates.",
+  "unit": "percent of total federal (Poder Executivo) expenditure; USD billions",
+  "notes": [
+    "Monthly files record monthly movements (lançamentos), including negative adjustments (anulações/estornos); annual = net sum of 12 months. No month-13 (encerramento) files exist.",
+    "Função 28 dominates the total (roughly half) because it books gross debt refinancing (rolagem: amortização paga com emissão de novos títulos). debt_interest isolates only the interest slice (GND 2); the refinancing principal stays in 'other' via função 28 remainder.",
+    "2025 is a complete 12-month year (file 202512 available).",
+    "Coverage gap: FY2006–FY2013 omitted — Portal's despesas-execucao series begins Jan 2014; pre-2013 data lives in the legacy 'Páginas de Transparência' archive in a different schema and was deliberately not spliced in.",
+    "Percent shares are computed on empenhada totals; rounding to 1 decimal keeps yearly sums at 100 ±1.5."
+  ],
+  "data": [
+    {
+      "fiscal_year": "FY2014",
+      "calendar_year": 2014,
+      "total_usd_billion": 955.91,
+      "total_brl_billion": 2249.74,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 1.8,
+          "usd_billion": 17.21
+        },
+        "health": {
+          "pct": 4.2,
+          "usd_billion": 40.15
+        },
+        "education": {
+          "pct": 4.2,
+          "usd_billion": 40.15
+        },
+        "social_protection": {
+          "pct": 24.7,
+          "usd_billion": 236.11
+        },
+        "economic_affairs": {
+          "pct": 3.1,
+          "usd_billion": 29.63
+        },
+        "general_admin": {
+          "pct": 1.0,
+          "usd_billion": 9.56
+        },
+        "debt_interest": {
+          "pct": 7.6,
+          "usd_billion": 72.65
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 3.82
+        },
+        "other": {
+          "pct": 53.0,
+          "usd_billion": 506.63
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2015",
+      "calendar_year": 2015,
+      "total_usd_billion": 691.33,
+      "total_brl_billion": 2308.41,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 1.8,
+          "usd_billion": 12.44
+        },
+        "health": {
+          "pct": 4.4,
+          "usd_billion": 30.42
+        },
+        "education": {
+          "pct": 4.5,
+          "usd_billion": 31.11
+        },
+        "social_protection": {
+          "pct": 26.2,
+          "usd_billion": 181.13
+        },
+        "economic_affairs": {
+          "pct": 2.6,
+          "usd_billion": 17.97
+        },
+        "general_admin": {
+          "pct": 1.0,
+          "usd_billion": 6.91
+        },
+        "debt_interest": {
+          "pct": 9.0,
+          "usd_billion": 62.22
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 2.77
+        },
+        "other": {
+          "pct": 50.0,
+          "usd_billion": 345.67
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2016",
+      "calendar_year": 2016,
+      "total_usd_billion": 740.0,
+      "total_brl_billion": 2578.22,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.4,
+          "usd_billion": 17.76
+        },
+        "health": {
+          "pct": 4.2,
+          "usd_billion": 31.08
+        },
+        "education": {
+          "pct": 4.1,
+          "usd_billion": 30.34
+        },
+        "social_protection": {
+          "pct": 25.7,
+          "usd_billion": 190.18
+        },
+        "economic_affairs": {
+          "pct": 2.2,
+          "usd_billion": 16.28
+        },
+        "general_admin": {
+          "pct": 1.0,
+          "usd_billion": 7.4
+        },
+        "debt_interest": {
+          "pct": 8.0,
+          "usd_billion": 59.2
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 2.96
+        },
+        "other": {
+          "pct": 51.9,
+          "usd_billion": 384.06
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2017",
+      "calendar_year": 2017,
+      "total_usd_billion": 781.66,
+      "total_brl_billion": 2493.96,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.8,
+          "usd_billion": 21.89
+        },
+        "health": {
+          "pct": 4.7,
+          "usd_billion": 36.74
+        },
+        "education": {
+          "pct": 4.5,
+          "usd_billion": 35.17
+        },
+        "social_protection": {
+          "pct": 29.2,
+          "usd_billion": 228.24
+        },
+        "economic_affairs": {
+          "pct": 2.2,
+          "usd_billion": 17.2
+        },
+        "general_admin": {
+          "pct": 1.2,
+          "usd_billion": 9.38
+        },
+        "debt_interest": {
+          "pct": 7.9,
+          "usd_billion": 61.75
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 3.13
+        },
+        "other": {
+          "pct": 47.1,
+          "usd_billion": 368.16
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2018",
+      "calendar_year": 2018,
+      "total_usd_billion": 727.34,
+      "total_brl_billion": 2659.01,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.9,
+          "usd_billion": 21.09
+        },
+        "health": {
+          "pct": 4.5,
+          "usd_billion": 32.73
+        },
+        "education": {
+          "pct": 4.2,
+          "usd_billion": 30.55
+        },
+        "social_protection": {
+          "pct": 28.6,
+          "usd_billion": 208.02
+        },
+        "economic_affairs": {
+          "pct": 2.2,
+          "usd_billion": 16.0
+        },
+        "general_admin": {
+          "pct": 1.3,
+          "usd_billion": 9.46
+        },
+        "debt_interest": {
+          "pct": 10.3,
+          "usd_billion": 74.92
+        },
+        "public_order": {
+          "pct": 0.5,
+          "usd_billion": 3.64
+        },
+        "other": {
+          "pct": 45.6,
+          "usd_billion": 331.67
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2019",
+      "calendar_year": 2019,
+      "total_usd_billion": 695.21,
+      "total_brl_billion": 2741.99,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 3.1,
+          "usd_billion": 21.55
+        },
+        "health": {
+          "pct": 4.6,
+          "usd_billion": 31.98
+        },
+        "education": {
+          "pct": 4.2,
+          "usd_billion": 29.2
+        },
+        "social_protection": {
+          "pct": 29.4,
+          "usd_billion": 204.39
+        },
+        "economic_affairs": {
+          "pct": 1.9,
+          "usd_billion": 13.21
+        },
+        "general_admin": {
+          "pct": 1.1,
+          "usd_billion": 7.65
+        },
+        "debt_interest": {
+          "pct": 10.3,
+          "usd_billion": 71.61
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 2.78
+        },
+        "other": {
+          "pct": 45.1,
+          "usd_billion": 313.54
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2020",
+      "calendar_year": 2020,
+      "total_usd_billion": 698.69,
+      "total_brl_billion": 3601.0,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.3,
+          "usd_billion": 16.07
+        },
+        "health": {
+          "pct": 4.6,
+          "usd_billion": 32.14
+        },
+        "education": {
+          "pct": 2.9,
+          "usd_billion": 20.26
+        },
+        "social_protection": {
+          "pct": 32.6,
+          "usd_billion": 227.77
+        },
+        "economic_affairs": {
+          "pct": 1.5,
+          "usd_billion": 10.48
+        },
+        "general_admin": {
+          "pct": 0.8,
+          "usd_billion": 5.59
+        },
+        "debt_interest": {
+          "pct": 9.6,
+          "usd_billion": 67.07
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 2.79
+        },
+        "other": {
+          "pct": 45.4,
+          "usd_billion": 317.21
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2021",
+      "calendar_year": 2021,
+      "total_usd_billion": 727.79,
+      "total_brl_billion": 3926.23,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.2,
+          "usd_billion": 16.01
+        },
+        "health": {
+          "pct": 4.6,
+          "usd_billion": 33.48
+        },
+        "education": {
+          "pct": 2.9,
+          "usd_billion": 21.11
+        },
+        "social_protection": {
+          "pct": 24.4,
+          "usd_billion": 177.58
+        },
+        "economic_affairs": {
+          "pct": 1.3,
+          "usd_billion": 9.46
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 5.09
+        },
+        "debt_interest": {
+          "pct": 6.5,
+          "usd_billion": 47.31
+        },
+        "public_order": {
+          "pct": 0.3,
+          "usd_billion": 2.18
+        },
+        "other": {
+          "pct": 57.0,
+          "usd_billion": 414.84
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2022",
+      "calendar_year": 2022,
+      "total_usd_billion": 797.03,
+      "total_brl_billion": 4118.23,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.2,
+          "usd_billion": 17.53
+        },
+        "health": {
+          "pct": 3.8,
+          "usd_billion": 30.29
+        },
+        "education": {
+          "pct": 3.1,
+          "usd_billion": 24.71
+        },
+        "social_protection": {
+          "pct": 26.2,
+          "usd_billion": 208.82
+        },
+        "economic_affairs": {
+          "pct": 1.5,
+          "usd_billion": 11.96
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 5.58
+        },
+        "debt_interest": {
+          "pct": 6.0,
+          "usd_billion": 47.82
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 3.19
+        },
+        "other": {
+          "pct": 56.2,
+          "usd_billion": 447.93
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2023",
+      "calendar_year": 2023,
+      "total_usd_billion": 873.29,
+      "total_brl_billion": 4363.23,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.1,
+          "usd_billion": 18.34
+        },
+        "health": {
+          "pct": 4.2,
+          "usd_billion": 36.68
+        },
+        "education": {
+          "pct": 3.5,
+          "usd_billion": 30.57
+        },
+        "social_protection": {
+          "pct": 28.1,
+          "usd_billion": 245.39
+        },
+        "economic_affairs": {
+          "pct": 1.8,
+          "usd_billion": 15.72
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 6.11
+        },
+        "debt_interest": {
+          "pct": 5.5,
+          "usd_billion": 48.03
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 3.49
+        },
+        "other": {
+          "pct": 53.7,
+          "usd_billion": 468.96
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2024",
+      "calendar_year": 2024,
+      "total_usd_billion": 879.24,
+      "total_brl_billion": 4736.21,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 2.0,
+          "usd_billion": 17.58
+        },
+        "health": {
+          "pct": 4.7,
+          "usd_billion": 41.32
+        },
+        "education": {
+          "pct": 3.4,
+          "usd_billion": 29.89
+        },
+        "social_protection": {
+          "pct": 27.8,
+          "usd_billion": 244.43
+        },
+        "economic_affairs": {
+          "pct": 1.8,
+          "usd_billion": 15.83
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 5.28
+        },
+        "debt_interest": {
+          "pct": 7.3,
+          "usd_billion": 64.18
+        },
+        "public_order": {
+          "pct": 0.4,
+          "usd_billion": 3.52
+        },
+        "other": {
+          "pct": 52.0,
+          "usd_billion": 457.2
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2025",
+      "calendar_year": 2025,
+      "total_usd_billion": 928.11,
+      "total_brl_billion": 5187.77,
+      "months_covered": 12,
+      "areas": {
+        "defense": {
+          "pct": 1.9,
+          "usd_billion": 17.63
+        },
+        "health": {
+          "pct": 4.6,
+          "usd_billion": 42.69
+        },
+        "education": {
+          "pct": 3.7,
+          "usd_billion": 34.34
+        },
+        "social_protection": {
+          "pct": 26.5,
+          "usd_billion": 245.95
+        },
+        "economic_affairs": {
+          "pct": 2.2,
+          "usd_billion": 20.42
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 6.5
+        },
+        "debt_interest": {
+          "pct": 6.8,
+          "usd_billion": 63.11
+        },
+        "public_order": {
+          "pct": 0.3,
+          "usd_billion": 2.78
+        },
+        "other": {
+          "pct": 53.3,
+          "usd_billion": 494.68
+        }
+      }
+    }
+  ]
+}

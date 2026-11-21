@@ -1,0 +1,135 @@
+{
+  "category_mapping": {
+    "debt_interest": "\u503a\u52a1\u4ed8\u606f\u652f\u51fa (debt interest payments). This is the interest-only line (class 232), distinct from \u503a\u52a1\u8fd8\u672c\u652f\u51fa (principal repayment, class 231) which is NOT included. 2025 = 13,491\u4ebf\u5143 from MOF data (4.7% of total, cross-checked). 2024 = 12,872.9\u4ebf\u5143 DERIVED as 13,491 \u00f7 1.048 (using the published 2025 YoY growth of +4.8%); not from a primary 2024 source \u2014 see notes.",
+    "defense": "\u56fd\u9632\u652f\u51fa. National \u2248 central-level (local defense spending negligible). 2025 uses the announced budget figure (final \u51b3\u7b97 not yet published); 2024 uses the final \u51b3\u7b97. Flagged per-year.",
+    "economic_affairs": "\u79d1\u5b66\u6280\u672f\u652f\u51fa (science & technology \u2014 R&D; placed here per task instruction) + \u4ea4\u901a\u8fd0\u8f93\u652f\u51fa (transport). NOTE: \u519c\u6797\u6c34\u652f\u51fa (agriculture/forestry/water), \u8d44\u6e90\u52d8\u63a2\u5de5\u4e1a\u4fe1\u606f\u7b49\u652f\u51fa, \u5546\u4e1a\u670d\u52a1\u4e1a\u7b49\u652f\u51fa, and \u7cae\u6cb9\u7269\u8d44\u50a8\u5907\u652f\u51fa are published by MOF but were not separately sourced for 2024\u20132025; they fall in 'other' for these years. This understates economic_affairs vs. the full MOF functional scope \u2014 documented, not hidden.",
+    "education": "\u6559\u80b2\u652f\u51fa. Cross-checked against Ministry of Education annual funding announcements (which report the functional \u6559\u80b2\u652f\u51fa as % of national total).",
+    "general_admin": "\u4e00\u822c\u516c\u5171\u670d\u52a1\u652f\u51fa. NOT published in the national MOF monthly functional releases used here \u2192 null; folded into 'other' residual. Documented.",
+    "health": "\u536b\u751f\u5065\u5eb7\u652f\u51fa. Rename history: \u533b\u7597\u536b\u751f\u652f\u51fa (2007\u20132010) \u2192 \u533b\u7597\u536b\u751f\u4e0e\u8ba1\u5212\u751f\u80b2\u652f\u51fa (2011\u20132018) \u2192 \u536b\u751f\u5065\u5eb7\u652f\u51fa (2019+).",
+    "other": "Residual (total minus separately-reported areas). For FY2025 comprises: \u57ce\u4e61\u793e\u533a\u652f\u51fa, \u519c\u6797\u6c34\u652f\u51fa, \u4e00\u822c\u516c\u5171\u670d\u52a1\u652f\u51fa, \u516c\u5171\u5b89\u5168\u652f\u51fa, \u6587\u5316\u65c5\u6e38\u4f53\u80b2\u4e0e\u4f20\u5a92\u652f\u51fa (3,946\u4ebf\u5143), \u8282\u80fd\u73af\u4fdd\u652f\u51fa (5,816\u4ebf\u5143), \u5916\u4ea4\u652f\u51fa, \u4f4f\u623f\u4fdd\u969c\u652f\u51fa, \u8d44\u6e90\u52d8\u63a2\u5de5\u4e1a\u4fe1\u606f\u7b49\u652f\u51fa, \u5546\u4e1a\u670d\u52a1\u4e1a\u7b49\u652f\u51fa, \u7cae\u6cb9\u7269\u8d44\u50a8\u5907\u652f\u51fa, \u707e\u5bb3\u9632\u6cbb\u53ca\u5e94\u6025\u7ba1\u7406\u652f\u51fa, \u81ea\u7136\u8d44\u6e90\u6d77\u6d0b\u6c14\u8c61\u7b49\u652f\u51fa, \u63f4\u52a9\u5176\u4ed6\u5730\u533a\u652f\u51fa, \u91d1\u878d\u652f\u51fa, \u9884\u5907\u8d39, \u5176\u4ed6\u652f\u51fa, \u503a\u52a1\u53d1\u884c\u8d39\u7528\u652f\u51fa. Culture and environment are identified within the residual for FY2025 (values above) but kept in 'other' per the 9-area schema.",
+    "public_order": "\u516c\u5171\u5b89\u5168\u652f\u51fa. NOT published in the national MOF monthly functional releases used here \u2192 null; folded into 'other' residual. Documented.",
+    "social_protection": "\u793e\u4f1a\u4fdd\u969c\u548c\u5c31\u4e1a\u652f\u51fa (social security & employment)."
+  },
+  "country": "China",
+  "data": [
+    {
+      "areas": {
+        "debt_interest": {
+          "estimated": true,
+          "note": "DERIVED: 13,491 \u00f7 1.048 using published 2025 YoY +4.8%; no primary 2024 source located",
+          "pct": 4.5,
+          "usd_billion": 178.9
+        },
+        "defense": {
+          "note": "Final \u51b3\u7b97 16,652.08\u4ebf\u5143 (100% of budget)",
+          "pct": 5.9,
+          "usd_billion": 231.42
+        },
+        "economic_affairs": {
+          "note": "Not sourced for 2024",
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "note": "41,495.09\u4ebf\u5143 = 14.58% of total (\u51b3\u7b97)",
+          "pct": 14.6,
+          "usd_billion": 576.67
+        },
+        "general_admin": {
+          "note": "Not published nationally",
+          "pct": null,
+          "usd_billion": null
+        },
+        "health": {
+          "note": "Not sourced for 2024",
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "note": "Not computed; available areas sum to ~25%, documented deviation from 100\u00b11.5 rule",
+          "pct": null,
+          "usd_billion": null
+        },
+        "public_order": {
+          "note": "Not published nationally",
+          "pct": null,
+          "usd_billion": null
+        },
+        "social_protection": {
+          "note": "Not sourced for 2024",
+          "pct": null,
+          "usd_billion": null
+        }
+      },
+      "calendar_year": 2024,
+      "fiscal_year": "FY2024",
+      "total_cny_billion": 28460.56,
+      "total_usd_billion": 3955.27
+    },
+    {
+      "areas": {
+        "debt_interest": {
+          "note": "\u503a\u52a1\u4ed8\u606f\u652f\u51fa 13,491\u4ebf\u5143 (+4.8%), interest-only",
+          "pct": 4.7,
+          "usd_billion": 187.7
+        },
+        "defense": {
+          "estimated": false,
+          "note": "Budget figure 17,846.65\u4ebf\u5143 (+7.2%); final \u51b3\u7b97 not yet published",
+          "pct": 6.2,
+          "usd_billion": 248.3
+        },
+        "economic_affairs": {
+          "note": "\u79d1\u5b66\u6280\u672f 12,062 + \u4ea4\u901a\u8fd0\u8f93 11,977; \u519c\u6797\u6c34 etc. in 'other' (see category_mapping)",
+          "pct": 8.4,
+          "usd_billion": 334.46
+        },
+        "education": {
+          "pct": 15.1,
+          "usd_billion": 604.07
+        },
+        "general_admin": {
+          "note": "Not published nationally; in 'other' residual",
+          "pct": null,
+          "usd_billion": null
+        },
+        "health": {
+          "pct": 7.5,
+          "usd_billion": 298.38
+        },
+        "other": {
+          "note": "Residual incl. \u57ce\u4e61\u793e\u533a, \u519c\u6797\u6c34, culture (3,946), environment (5,816), general_admin, public_order, etc.",
+          "pct": 42.7,
+          "usd_billion": 1707.7
+        },
+        "public_order": {
+          "note": "Not published nationally; in 'other' residual",
+          "pct": null,
+          "usd_billion": null
+        },
+        "social_protection": {
+          "pct": 15.5,
+          "usd_billion": 617.97
+        }
+      },
+      "calendar_year": 2025,
+      "fiscal_year": "FY2025",
+      "total_cny_billion": 28739.5,
+      "total_usd_billion": 3998.59
+    }
+  ],
+  "fiscal_year_note": "Calendar-year basis; fiscal_year 'FY2025' = calendar 2025. Uses NATIONAL general public budget expenditure (\u5168\u56fd\u4e00\u822c\u516c\u5171\u9884\u7b97\u652f\u51fa = central + local combined), the standard auditable series published by the Ministry of Finance. The central-government-only series does not publish a functional breakdown, so the national series is used throughout. Totals are \u51b3\u7b97 (final accounts) where available; 2025 total is the MOF full-year release figure.",
+  "iso3": "CHN",
+  "notes": "SCOPE: This sample covers FY2024\u2013FY2025. FY2006\u2013FY2023 were not compiled (see sources[] gaps). FY2024 is partial: only total, education, defense, and debt-interest (derived) are available; pct shares sum to ~25%, NOT 100 \u2014 this is a documented deviation, not an error. FY2025 sums to 100.1% (within \u00b11.5). Defense 2025 is a budget figure (final not published); all other 2025 items are full-year actuals. 2006 excluded from any future extension: pre-2007 \u652f\u51fa\u529f\u80fd\u5206\u7c7b reform makes it non-comparable; MOF monthly functional series starts Jan 2007.",
+  "period": "FY2024\u2013FY2025 (as available \u2014 see sources[] for coverage gaps; FY2006\u2013FY2023 not compiled in this sample)",
+  "sources": [
+    "Ministry of Finance (MOF) monthly fiscal releases via Xinhua: 2025 full-year national general public budget expenditure 287,395\u4ebf\u5143 with functional items (education 43,417; science & technology 12,062; culture/tourism/sports/media 3,946; social security & employment 44,416; health 21,446; energy conservation & environment 5,816), published 2026-01-30, accessed Oct 2026.",
+    "MOF 2025 fiscal data via \u56fd\u65b0\u8bc1\u5238 research report (2025\u5e74\u8d22\u653f\u6536\u652f\u6570\u636e\u89e3\u8bfb, PDF): transport expenditure 11,977\u4ebf\u5143 (down 0.7%), accessed Oct 2026.",
+    "MOF 2025 debt interest via \u571f\u5730\u8d22\u653f analysis citing MOF data: \u503a\u52a1\u4ed8\u606f\u652f\u51fa 13,491\u4ebf\u5143 (up 4.8%), accessed Oct 2026. Cross-check: \u6731\u9752/\u4e2d\u56fd\u7a0e\u52a1\u62a5 2026-03-11 confirms 2025 interest = 4.7% of total expenditure, growth 4.8%.",
+    "Ministry of Education / NBS / MOF annual education funding announcements: 2024 national education expenditure (\u6559\u80b2\u652f\u51fa) 41,495.09\u4ebf\u5143 = 14.58% of national total 284,605.57\u4ebf\u5143 (\u51b3\u7b97); 2019 education 34,648.57\u4ebf\u5143 = 14.51% of 238,858.37\u4ebf\u5143, accessed Oct 2026.",
+    "National defense budgets: 2025 national defense budget 17,846.65\u4ebf\u5143 (up 7.2%, announced Mar 2025); 2024 national defense final (\u51b3\u7b97) 16,652.08\u4ebf\u5143 (100% of budget, via 2024 central final accounts); 2022 central defense final 14,499.63\u4ebf\u5143 (via NPC budget execution report). National \u2248 central for defense (local defense negligible; e.g., 2026 national 1.94\u4e07\u4ebf vs central 1.91\u4e07\u4ebf).",
+    "FX: fx_lcu_per_usd_annual_avg from ~/workspace/countries/data/profiles/China-profile.json (ECB via Frankfurter annual average): 2024 = 7.1956, 2025 = 7.1874 CNY/USD.",
+    "COVERAGE GAPS (honest): FY2006\u2013FY2023 functional breakdowns were not compiled for this sample. The MOF publishes monthly functional items (Jan 2007 onward) and the NBS China Statistical Yearbook carries historical functional tables; a full 2007\u20132023 series is feasible for future extension but was not assembled here. FY2024 is partial (total, education, defense, debt-interest only); health, social protection, science, culture, environment, transport, agriculture/water, and urban-community items for 2024 were not located in accessible sources."
+  ],
+  "unit": "percent of total national general public budget expenditure; USD billions"
+}

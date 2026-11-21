@@ -1,0 +1,336 @@
+{
+  "country": "Japan",
+  "iso3": "JPN",
+  "period": "FY2012, FY2019–FY2020, FY2022–FY2025 (7 years; FY2006–FY2011, FY2013–FY2018 and FY2021 not sourced — see sources)",
+  "sources": [
+    "MOF general account budget, major expenses breakdown (当初ベース, initial-budget/decision basis), accessed Oct 2026",
+    "FY2022–FY2025: MOF 'General account expenditure trends (initial basis)' table, https://www.mof.go.jp/policy/budget/fiscal_condition/basic_data/202604/sy202604d.pdf",
+    "FY2020: MOF 'FY2020 Budget Highlights' (令和２年度予算のポイント), https://www.mof.go.jp/budget/budger_workflow/budget/fy2020/seifuan2019/01.pdf — full amounts including 臨時・特別の措置 (temporary special measures)",
+    "FY2019: Wikipedia '平成三十一年度一般会計' transcribing MOF 概算 (as-decided figures, total 101,4571億); FY2012: Wikipedia '平成二十四年度一般会計' transcribing MOF 概算",
+    "FX: ~/workspace/countries/data/profiles/Japan-profile.json (fx_lcu_per_usd_annual_avg, JPY per USD; ECB via Frankfurter annual avg)",
+    "Gaps: FY2006–FY2011, FY2013–FY2018, FY2021 omitted — no consistently-sourced initial-budget major-expense breakdown found; not estimated."
+  ],
+  "category_mapping": {
+    "defense": "防衛関係費 (national defense expenses). FY2023 figure (101,686億) includes the multi-year Defense Buildup Fund allocation per MOF note.",
+    "health": null,
+    "health_note": "MOF major-expense tables do not split medical/long-term-care out of social security in this series; all social security kept whole in social_protection (no false precision).",
+    "education": "文教及び科学振興費 (education & science promotion) in full. The science/R&D slice (e.g. うち科学技術振興費 13,639億 in FY2020) is not separable in the trend-series table, so kept here; documented rather than estimated.",
+    "social_protection": "社会保障関係費 (pensions, medical, long-term care, welfare, child/family support) + 恩給関係費 (pensions for former military/civil servants). MOF does not split medical from pensions in this series.",
+    "economic_affairs": "公共事業関係費 (public works/infrastructure) + 中小企業対策費 (SME support) + エネルギー対策費 (energy) + 食料安定供給関係費 (food/agriculture stability). 産業投資特別会計へ繰入 and 改革推進公共投資事業 are zero/blank in FY2022–FY2025 in the source table.",
+    "general_admin": "地方交付税交付金等 (local allocation tax grants + local special grants; general-purpose intergovernmental transfer to local governments, not attributable to any function — placed here, not in 'other'). Includes 地方特例交付金 from FY2005 per MOF note.",
+    "debt_interest": "国債費 — includes BOTH interest payments and debt redemption under Japan's 60-year redemption rule (not interest-only). FY2020 split observed: 利払費等 84,200億 / 債務償還費 149,316億.",
+    "public_order": null,
+    "public_order_note": "Police/courts/prisons sit inside その他の事項経費 (other current expenses) and are not separable in the MOF major-expense breakdown; set null rather than estimated.",
+    "other": "経済協力費 (ODA) + その他の事項経費 (other current expenses, incl. central police/courts/admin) + 予備費 (contingency reserve) + year-specific reserves: FY2012 経済危機対応予備費; FY2022–FY2024 新型コロナ/原油価格・物価高騰対策予備費 (renamed over time per MOF notes). FY2022 ウクライナ情勢経済緊急対応予備費 (10,000億) is shown in the MOF table but excluded: it was added via supplementary budget after the Dec-2021 initial decision and is not part of the official initial total 1,075,964億."
+  },
+  "fiscal_year_note": "Japanese fiscal year runs April–March; FY2023 = Apr 2023–Mar 2024. calendar_year is the ending year. All figures are initial budget (当初予算, government-draft/decision basis), consistently. FY2025 uses the decided figure (1,151,978億) despite later Diet amendments (Mar 2025).",
+  "unit": "percent of total general-account expenditure; USD billions",
+  "notes": [
+    "Reconciliation: for FY2012, FY2019, FY2022, FY2024, FY2025 the mapped components sum to the official total within rounding (diff ≤2億). FY2020 components sum 1,000億 (0.1%) below the official total — minor source-table variance, pct sums to 99.8%. FY2023 components sum 9,998億 (0.9%) below the official total — the MOF trend table's R5 rows do not fully reconcile to the stated total; pct sums to 99.1%. Both within the 100±1.5 tolerance; pct computed against the official total.",
+    "FY2023 defense spike (8.9%) reflects the new National Security Strategy / defense buildup; FY2024 falls back to 7.0% as the one-off fund allocation drops out.",
+    "health and public_order are null (not zero) — inseparable in source, per schema."
+  ],
+  "data": [
+    {
+      "fiscal_year": "FY2012",
+      "calendar_year": 2013,
+      "total_usd_billion": 1132.67,
+      "areas": {
+        "defense": {
+          "pct": 5.2,
+          "usd_billion": 58.9
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 6.0,
+          "usd_billion": 67.96
+        },
+        "social_protection": {
+          "pct": 29.8,
+          "usd_billion": 337.54
+        },
+        "economic_affairs": {
+          "pct": 7.4,
+          "usd_billion": 83.82
+        },
+        "general_admin": {
+          "pct": 18.4,
+          "usd_billion": 208.41
+        },
+        "debt_interest": {
+          "pct": 24.3,
+          "usd_billion": 275.24
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 8.9,
+          "usd_billion": 100.81
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2019",
+      "calendar_year": 2020,
+      "total_usd_billion": 930.99,
+      "areas": {
+        "defense": {
+          "pct": 5.2,
+          "usd_billion": 48.41
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 5.5,
+          "usd_billion": 51.2
+        },
+        "social_protection": {
+          "pct": 33.8,
+          "usd_billion": 314.67
+        },
+        "economic_affairs": {
+          "pct": 8.9,
+          "usd_billion": 82.86
+        },
+        "general_admin": {
+          "pct": 15.8,
+          "usd_billion": 147.1
+        },
+        "debt_interest": {
+          "pct": 23.2,
+          "usd_billion": 215.99
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 7.7,
+          "usd_billion": 71.69
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2020",
+      "calendar_year": 2021,
+      "total_usd_billion": 961.75,
+      "areas": {
+        "defense": {
+          "pct": 5.2,
+          "usd_billion": 50.01
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 5.3,
+          "usd_billion": 50.97
+        },
+        "social_protection": {
+          "pct": 35.1,
+          "usd_billion": 337.57
+        },
+        "economic_affairs": {
+          "pct": 8.1,
+          "usd_billion": 77.9
+        },
+        "general_admin": {
+          "pct": 16.3,
+          "usd_billion": 156.77
+        },
+        "debt_interest": {
+          "pct": 22.7,
+          "usd_billion": 218.32
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 7.1,
+          "usd_billion": 68.28
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2022",
+      "calendar_year": 2023,
+      "total_usd_billion": 817.91,
+      "areas": {
+        "defense": {
+          "pct": 5.0,
+          "usd_billion": 40.9
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 5.0,
+          "usd_billion": 40.9
+        },
+        "social_protection": {
+          "pct": 33.8,
+          "usd_billion": 276.45
+        },
+        "economic_affairs": {
+          "pct": 7.8,
+          "usd_billion": 63.8
+        },
+        "general_admin": {
+          "pct": 14.8,
+          "usd_billion": 121.05
+        },
+        "debt_interest": {
+          "pct": 22.6,
+          "usd_billion": 184.85
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 11.0,
+          "usd_billion": 89.97
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2023",
+      "calendar_year": 2024,
+      "total_usd_billion": 813.59,
+      "areas": {
+        "defense": {
+          "pct": 8.9,
+          "usd_billion": 72.41
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 4.7,
+          "usd_billion": 38.24
+        },
+        "social_protection": {
+          "pct": 32.3,
+          "usd_billion": 262.79
+        },
+        "economic_affairs": {
+          "pct": 7.3,
+          "usd_billion": 59.39
+        },
+        "general_admin": {
+          "pct": 14.3,
+          "usd_billion": 116.34
+        },
+        "debt_interest": {
+          "pct": 22.1,
+          "usd_billion": 179.8
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 9.5,
+          "usd_billion": 77.29
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2024",
+      "calendar_year": 2025,
+      "total_usd_billion": 743.39,
+      "areas": {
+        "defense": {
+          "pct": 7.0,
+          "usd_billion": 52.04
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 4.9,
+          "usd_billion": 36.43
+        },
+        "social_protection": {
+          "pct": 33.6,
+          "usd_billion": 249.78
+        },
+        "economic_affairs": {
+          "pct": 7.4,
+          "usd_billion": 55.01
+        },
+        "general_admin": {
+          "pct": 15.8,
+          "usd_billion": 117.46
+        },
+        "debt_interest": {
+          "pct": 24.0,
+          "usd_billion": 178.41
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 7.3,
+          "usd_billion": 54.27
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2025",
+      "calendar_year": 2026,
+      "total_usd_billion": 769.75,
+      "areas": {
+        "defense": {
+          "pct": 7.5,
+          "usd_billion": 57.73
+        },
+        "health": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "education": {
+          "pct": 4.9,
+          "usd_billion": 37.72
+        },
+        "social_protection": {
+          "pct": 33.3,
+          "usd_billion": 256.33
+        },
+        "economic_affairs": {
+          "pct": 7.2,
+          "usd_billion": 55.42
+        },
+        "general_admin": {
+          "pct": 16.4,
+          "usd_billion": 126.24
+        },
+        "debt_interest": {
+          "pct": 24.5,
+          "usd_billion": 188.59
+        },
+        "public_order": {
+          "pct": null,
+          "usd_billion": null
+        },
+        "other": {
+          "pct": 6.2,
+          "usd_billion": 47.72
+        }
+      }
+    }
+  ]
+}

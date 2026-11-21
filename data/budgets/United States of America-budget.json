@@ -1,0 +1,896 @@
+{
+  "country": "United States of America",
+  "iso3": "USA",
+  "period": "FY2006\u2013FY2025 (all 20 years: actual outlays; FY2026\u2013FY2031 estimates in the OMB vintage excluded)",
+  "sources": [
+    "OMB Historical Tables Table 3.2 (Outlays by Function and Subfunction), FY2027 vintage (released Apr 2026), downloaded as xlsx from https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/ on Oct 9, 2026",
+    "OMB Historical Tables Table 1.1 used to cross-check total outlays: Table 3.2 'Total outlays' matches Table 1.1 exactly for all 20 years",
+    "FX: United States of America-profile.json (fx_lcu_per_usd_annual_avg = 1.0 for USD; confirmed 2006-2025 year list)",
+    "Values are in millions of dollars in the OMB tables; converted to USD billions here"
+  ],
+  "category_mapping": {
+    "defense": "Function 050 National Defense (total)",
+    "health": "Function 550 Health (total) + Function 570 Medicare (total) + subfunction 703 Hospital and medical care for veterans (veterans health care moved here; see notes)",
+    "education": "Function 500 Education, Training, Employment, and Social Services (total) + subfunction 702 Veterans education, training, and rehabilitation. Note: Function 500 includes training/employment and social services beyond schooling",
+    "social_protection": "Function 600 Income Security (total) + Function 650 Social Security (total) + veterans subfunctions 701 Income security for veterans + 704 Veterans housing + 705 Other veterans benefits and services (see notes)",
+    "economic_affairs": "Functions 250 General Science, Space and Technology + 270 Energy + 300 Natural Resources and Environment (including 304 Pollution control and abatement - environment kept here, see notes) + 350 Agriculture + 370 Commerce and Housing Credit + 400 Transportation + 450 Community and Regional Development",
+    "general_admin": "Function 800 General Government (total); excludes net interest (Function 900)",
+    "debt_interest": "Function 900 Net Interest (total; interest paid net of interest received by trust funds)",
+    "public_order": "Function 750 Administration of Justice (total: federal law enforcement, litigation/judicial, corrections, criminal justice assistance)",
+    "other": "Function 150 International Affairs (total) + Function 920 Allowances (dotted/not applicable in actual years - treated as 0, see notes) + Function 950 Undistributed Offsetting Receipts (negative values; netted into 'other', see notes)"
+  },
+  "fiscal_year_note": "US federal fiscal year runs October\u2013September; FY2023 = Oct 2022\u2013Sep 2023.",
+  "notes": [
+    "Veterans Benefits and Services (Function 700) split by purpose rather than kept whole: 703 veterans hospital/medical care -> health; 702 veterans education/training/rehabilitation -> education; 701 income security, 704 veterans housing, 705 other veterans benefits -> social_protection. The five subfunctions sum exactly to Function 700 total each year (verified).",
+    "Environment: Function 300 (Natural Resources and Environment), including subfunction 304 Pollution control and abatement, kept in economic_affairs as natural-resources/economic-affairs spending rather than a separate environment line.",
+    "Allowances (Function 920): OMB marks these cells '...........' (not applicable) for all actual years; only the estimates contain allowances. Treated as 0 in the 'other' aggregation.",
+    "Undistributed offsetting receipts (Function 950) are negative receipts netted against outlays; they are kept inside 'other', so 'other' is reduced accordingly (e.g. FY2025: $45.2bn international affairs, -$150.3bn offsetting receipts).",
+    "FY2026\u2013FY2031 in this OMB vintage are labeled estimates and are excluded; every year in this file is actual outlays.",
+    "All 20 years: sum of the 9 area components (unrounded) equals total outlays exactly; pct shares rounded to 1 decimal.",
+    "No estimated or imputed values: no area uses estimated:true.",
+    "Medicare = subfunction 571 total; Social Security = subfunction 651 total (single-line functions; values sit on the subfunction rows)."
+  ],
+  "unit": "percent of total federal outlays; USD billions",
+  "data": [
+    {
+      "fiscal_year": "FY2006",
+      "calendar_year": 2006,
+      "total_usd_billion": 2655.05,
+      "areas": {
+        "defense": {
+          "pct": 19.7,
+          "usd_billion": 521.82
+        },
+        "health": {
+          "pct": 23.1,
+          "usd_billion": 612.54
+        },
+        "education": {
+          "pct": 4.6,
+          "usd_billion": 121.11
+        },
+        "social_protection": {
+          "pct": 35.3,
+          "usd_billion": 938.28
+        },
+        "economic_affairs": {
+          "pct": 8.1,
+          "usd_billion": 214.26
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 18.18
+        },
+        "debt_interest": {
+          "pct": 8.5,
+          "usd_billion": 226.6
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 41.02
+        },
+        "other": {
+          "pct": -1.5,
+          "usd_billion": -38.75
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2007",
+      "calendar_year": 2007,
+      "total_usd_billion": 2728.69,
+      "areas": {
+        "defense": {
+          "pct": 20.2,
+          "usd_billion": 551.26
+        },
+        "health": {
+          "pct": 24.7,
+          "usd_billion": 674.13
+        },
+        "education": {
+          "pct": 3.5,
+          "usd_billion": 94.36
+        },
+        "social_protection": {
+          "pct": 36.3,
+          "usd_billion": 989.91
+        },
+        "economic_affairs": {
+          "pct": 6.4,
+          "usd_billion": 175.9
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 17.43
+        },
+        "debt_interest": {
+          "pct": 8.7,
+          "usd_billion": 237.11
+        },
+        "public_order": {
+          "pct": 1.6,
+          "usd_billion": 42.36
+        },
+        "other": {
+          "pct": -2.0,
+          "usd_billion": -53.76
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2008",
+      "calendar_year": 2008,
+      "total_usd_billion": 2982.54,
+      "areas": {
+        "defense": {
+          "pct": 20.7,
+          "usd_billion": 616.07
+        },
+        "health": {
+          "pct": 23.8,
+          "usd_billion": 708.36
+        },
+        "education": {
+          "pct": 3.2,
+          "usd_billion": 94.03
+        },
+        "social_protection": {
+          "pct": 36.7,
+          "usd_billion": 1093.24
+        },
+        "economic_affairs": {
+          "pct": 6.9,
+          "usd_billion": 207.05
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 20.32
+        },
+        "debt_interest": {
+          "pct": 8.5,
+          "usd_billion": 252.76
+        },
+        "public_order": {
+          "pct": 1.6,
+          "usd_billion": 48.1
+        },
+        "other": {
+          "pct": -1.9,
+          "usd_billion": -57.38
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2009",
+      "calendar_year": 2009,
+      "total_usd_billion": 3517.68,
+      "areas": {
+        "defense": {
+          "pct": 18.8,
+          "usd_billion": 661.01
+        },
+        "health": {
+          "pct": 22.9,
+          "usd_billion": 806.34
+        },
+        "education": {
+          "pct": 2.4,
+          "usd_billion": 83.24
+        },
+        "social_protection": {
+          "pct": 36.0,
+          "usd_billion": 1266.21
+        },
+        "economic_affairs": {
+          "pct": 14.1,
+          "usd_billion": 494.48
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 22.02
+        },
+        "debt_interest": {
+          "pct": 5.3,
+          "usd_billion": 186.9
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 52.58
+        },
+        "other": {
+          "pct": -1.6,
+          "usd_billion": -55.11
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2010",
+      "calendar_year": 2010,
+      "total_usd_billion": 3457.08,
+      "areas": {
+        "defense": {
+          "pct": 20.1,
+          "usd_billion": 693.49
+        },
+        "health": {
+          "pct": 25.1,
+          "usd_billion": 866.43
+        },
+        "education": {
+          "pct": 4.0,
+          "usd_billion": 136.68
+        },
+        "social_protection": {
+          "pct": 40.0,
+          "usd_billion": 1383.52
+        },
+        "economic_affairs": {
+          "pct": 4.1,
+          "usd_billion": 140.29
+        },
+        "general_admin": {
+          "pct": 0.7,
+          "usd_billion": 23.01
+        },
+        "debt_interest": {
+          "pct": 5.7,
+          "usd_billion": 196.19
+        },
+        "public_order": {
+          "pct": 1.6,
+          "usd_billion": 54.38
+        },
+        "other": {
+          "pct": -1.1,
+          "usd_billion": -36.92
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2011",
+      "calendar_year": 2011,
+      "total_usd_billion": 3603.07,
+      "areas": {
+        "defense": {
+          "pct": 19.6,
+          "usd_billion": 705.55
+        },
+        "health": {
+          "pct": 25.2,
+          "usd_billion": 908.2
+        },
+        "education": {
+          "pct": 3.1,
+          "usd_billion": 111.94
+        },
+        "social_protection": {
+          "pct": 38.7,
+          "usd_billion": 1394.61
+        },
+        "economic_affairs": {
+          "pct": 5.9,
+          "usd_billion": 212.06
+        },
+        "general_admin": {
+          "pct": 0.8,
+          "usd_billion": 27.48
+        },
+        "debt_interest": {
+          "pct": 6.4,
+          "usd_billion": 229.96
+        },
+        "public_order": {
+          "pct": 1.6,
+          "usd_billion": 56.06
+        },
+        "other": {
+          "pct": -1.2,
+          "usd_billion": -42.78
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2012",
+      "calendar_year": 2012,
+      "total_usd_billion": 3526.56,
+      "areas": {
+        "defense": {
+          "pct": 19.2,
+          "usd_billion": 677.85
+        },
+        "health": {
+          "pct": 24.6,
+          "usd_billion": 869.11
+        },
+        "education": {
+          "pct": 2.9,
+          "usd_billion": 101.22
+        },
+        "social_protection": {
+          "pct": 39.1,
+          "usd_billion": 1378.26
+        },
+        "economic_affairs": {
+          "pct": 7.4,
+          "usd_billion": 262.14
+        },
+        "general_admin": {
+          "pct": 0.8,
+          "usd_billion": 28.03
+        },
+        "debt_interest": {
+          "pct": 6.2,
+          "usd_billion": 220.41
+        },
+        "public_order": {
+          "pct": 1.6,
+          "usd_billion": 56.28
+        },
+        "other": {
+          "pct": -1.9,
+          "usd_billion": -66.73
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2013",
+      "calendar_year": 2013,
+      "total_usd_billion": 3454.88,
+      "areas": {
+        "defense": {
+          "pct": 18.3,
+          "usd_billion": 633.45
+        },
+        "health": {
+          "pct": 26.3,
+          "usd_billion": 908.61
+        },
+        "education": {
+          "pct": 2.5,
+          "usd_billion": 85.75
+        },
+        "social_protection": {
+          "pct": 41.2,
+          "usd_billion": 1423.59
+        },
+        "economic_affairs": {
+          "pct": 4.3,
+          "usd_billion": 148.58
+        },
+        "general_admin": {
+          "pct": 0.8,
+          "usd_billion": 27.74
+        },
+        "debt_interest": {
+          "pct": 6.4,
+          "usd_billion": 220.88
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 52.6
+        },
+        "other": {
+          "pct": -1.3,
+          "usd_billion": -46.32
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2014",
+      "calendar_year": 2014,
+      "total_usd_billion": 3506.28,
+      "areas": {
+        "defense": {
+          "pct": 17.2,
+          "usd_billion": 603.46
+        },
+        "health": {
+          "pct": 27.9,
+          "usd_billion": 977.38
+        },
+        "education": {
+          "pct": 3.0,
+          "usd_billion": 104.12
+        },
+        "social_protection": {
+          "pct": 41.2,
+          "usd_billion": 1444.04
+        },
+        "economic_affairs": {
+          "pct": 3.2,
+          "usd_billion": 112.12
+        },
+        "general_admin": {
+          "pct": 0.8,
+          "usd_billion": 26.91
+        },
+        "debt_interest": {
+          "pct": 6.5,
+          "usd_billion": 228.96
+        },
+        "public_order": {
+          "pct": 1.4,
+          "usd_billion": 50.46
+        },
+        "other": {
+          "pct": -1.2,
+          "usd_billion": -41.16
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2015",
+      "calendar_year": 2015,
+      "total_usd_billion": 3691.85,
+      "areas": {
+        "defense": {
+          "pct": 16.0,
+          "usd_billion": 589.66
+        },
+        "health": {
+          "pct": 29.5,
+          "usd_billion": 1090.35
+        },
+        "education": {
+          "pct": 3.7,
+          "usd_billion": 135.42
+        },
+        "social_protection": {
+          "pct": 40.1,
+          "usd_billion": 1481.06
+        },
+        "economic_affairs": {
+          "pct": 4.4,
+          "usd_billion": 163.08
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 20.96
+        },
+        "debt_interest": {
+          "pct": 6.0,
+          "usd_billion": 223.18
+        },
+        "public_order": {
+          "pct": 1.4,
+          "usd_billion": 51.91
+        },
+        "other": {
+          "pct": -1.7,
+          "usd_billion": -63.76
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2016",
+      "calendar_year": 2016,
+      "total_usd_billion": 3852.61,
+      "areas": {
+        "defense": {
+          "pct": 15.4,
+          "usd_billion": 593.37
+        },
+        "health": {
+          "pct": 30.4,
+          "usd_billion": 1171.11
+        },
+        "education": {
+          "pct": 3.2,
+          "usd_billion": 124.06
+        },
+        "social_protection": {
+          "pct": 39.6,
+          "usd_billion": 1525.12
+        },
+        "economic_affairs": {
+          "pct": 4.4,
+          "usd_billion": 169.95
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 23.15
+        },
+        "debt_interest": {
+          "pct": 6.2,
+          "usd_billion": 240.03
+        },
+        "public_order": {
+          "pct": 1.4,
+          "usd_billion": 55.77
+        },
+        "other": {
+          "pct": -1.3,
+          "usd_billion": -49.94
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2017",
+      "calendar_year": 2017,
+      "total_usd_billion": 3981.63,
+      "areas": {
+        "defense": {
+          "pct": 15.0,
+          "usd_billion": 598.72
+        },
+        "health": {
+          "pct": 30.1,
+          "usd_billion": 1200.19
+        },
+        "education": {
+          "pct": 3.9,
+          "usd_billion": 157.27
+        },
+        "social_protection": {
+          "pct": 38.7,
+          "usd_billion": 1541.85
+        },
+        "economic_affairs": {
+          "pct": 4.6,
+          "usd_billion": 182.8
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 23.82
+        },
+        "debt_interest": {
+          "pct": 6.6,
+          "usd_billion": 262.55
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 57.94
+        },
+        "other": {
+          "pct": -1.1,
+          "usd_billion": -43.52
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2018",
+      "calendar_year": 2018,
+      "total_usd_billion": 4108.98,
+      "areas": {
+        "defense": {
+          "pct": 15.4,
+          "usd_billion": 631.25
+        },
+        "health": {
+          "pct": 29.5,
+          "usd_billion": 1213.87
+        },
+        "education": {
+          "pct": 2.6,
+          "usd_billion": 107.9
+        },
+        "social_protection": {
+          "pct": 38.3,
+          "usd_billion": 1575.63
+        },
+        "economic_affairs": {
+          "pct": 5.4,
+          "usd_billion": 220.04
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 23.88
+        },
+        "debt_interest": {
+          "pct": 7.9,
+          "usd_billion": 324.97
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 60.42
+        },
+        "other": {
+          "pct": -1.2,
+          "usd_billion": -48.99
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2019",
+      "calendar_year": 2019,
+      "total_usd_billion": 4446.95,
+      "areas": {
+        "defense": {
+          "pct": 15.4,
+          "usd_billion": 685.71
+        },
+        "health": {
+          "pct": 29.6,
+          "usd_billion": 1316.13
+        },
+        "education": {
+          "pct": 3.4,
+          "usd_billion": 149.79
+        },
+        "social_protection": {
+          "pct": 37.5,
+          "usd_billion": 1665.62
+        },
+        "economic_affairs": {
+          "pct": 4.7,
+          "usd_billion": 210.37
+        },
+        "general_admin": {
+          "pct": 0.5,
+          "usd_billion": 23.49
+        },
+        "debt_interest": {
+          "pct": 8.4,
+          "usd_billion": 375.16
+        },
+        "public_order": {
+          "pct": 1.5,
+          "usd_billion": 65.83
+        },
+        "other": {
+          "pct": -1.0,
+          "usd_billion": -45.16
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2020",
+      "calendar_year": 2020,
+      "total_usd_billion": 6516.82,
+      "areas": {
+        "defense": {
+          "pct": 11.1,
+          "usd_billion": 724.59
+        },
+        "health": {
+          "pct": 24.8,
+          "usd_billion": 1614.4
+        },
+        "education": {
+          "pct": 3.8,
+          "usd_billion": 250.6
+        },
+        "social_protection": {
+          "pct": 38.0,
+          "usd_billion": 2474.67
+        },
+        "economic_affairs": {
+          "pct": 14.3,
+          "usd_billion": 930.42
+        },
+        "general_admin": {
+          "pct": 2.8,
+          "usd_billion": 180.11
+        },
+        "debt_interest": {
+          "pct": 5.3,
+          "usd_billion": 345.47
+        },
+        "public_order": {
+          "pct": 1.1,
+          "usd_billion": 72.0
+        },
+        "other": {
+          "pct": -1.2,
+          "usd_billion": -75.44
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2021",
+      "calendar_year": 2021,
+      "total_usd_billion": 6820.7,
+      "areas": {
+        "defense": {
+          "pct": 11.1,
+          "usd_billion": 753.9
+        },
+        "health": {
+          "pct": 23.4,
+          "usd_billion": 1592.77
+        },
+        "education": {
+          "pct": 4.6,
+          "usd_billion": 310.45
+        },
+        "social_protection": {
+          "pct": 42.6,
+          "usd_billion": 2904.69
+        },
+        "economic_affairs": {
+          "pct": 9.4,
+          "usd_billion": 639.85
+        },
+        "general_admin": {
+          "pct": 4.0,
+          "usd_billion": 273.94
+        },
+        "debt_interest": {
+          "pct": 5.2,
+          "usd_billion": 352.34
+        },
+        "public_order": {
+          "pct": 1.0,
+          "usd_billion": 71.43
+        },
+        "other": {
+          "pct": -1.2,
+          "usd_billion": -78.66
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2022",
+      "calendar_year": 2022,
+      "total_usd_billion": 6271.51,
+      "areas": {
+        "defense": {
+          "pct": 12.2,
+          "usd_billion": 765.65
+        },
+        "health": {
+          "pct": 28.4,
+          "usd_billion": 1779.88
+        },
+        "education": {
+          "pct": 11.0,
+          "usd_billion": 689.24
+        },
+        "social_protection": {
+          "pct": 35.7,
+          "usd_billion": 2236.52
+        },
+        "economic_affairs": {
+          "pct": 4.5,
+          "usd_billion": 284.2
+        },
+        "general_admin": {
+          "pct": 2.1,
+          "usd_billion": 133.22
+        },
+        "debt_interest": {
+          "pct": 7.6,
+          "usd_billion": 475.89
+        },
+        "public_order": {
+          "pct": 1.1,
+          "usd_billion": 71.32
+        },
+        "other": {
+          "pct": -2.6,
+          "usd_billion": -164.41
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2023",
+      "calendar_year": 2023,
+      "total_usd_billion": 6128.41,
+      "areas": {
+        "defense": {
+          "pct": 13.4,
+          "usd_billion": 820.26
+        },
+        "health": {
+          "pct": 30.4,
+          "usd_billion": 1861.61
+        },
+        "education": {
+          "pct": 0.2,
+          "usd_billion": 10.39
+        },
+        "social_protection": {
+          "pct": 37.4,
+          "usd_billion": 2292.48
+        },
+        "economic_affairs": {
+          "pct": 7.1,
+          "usd_billion": 435.64
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 38.2
+        },
+        "debt_interest": {
+          "pct": 10.7,
+          "usd_billion": 658.27
+        },
+        "public_order": {
+          "pct": 1.3,
+          "usd_billion": 80.43
+        },
+        "other": {
+          "pct": -1.1,
+          "usd_billion": -68.87
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2024",
+      "calendar_year": 2024,
+      "total_usd_billion": 6735.26,
+      "areas": {
+        "defense": {
+          "pct": 13.0,
+          "usd_billion": 873.52
+        },
+        "health": {
+          "pct": 28.6,
+          "usd_billion": 1923.97
+        },
+        "education": {
+          "pct": 4.7,
+          "usd_billion": 319.92
+        },
+        "social_protection": {
+          "pct": 34.2,
+          "usd_billion": 2305.01
+        },
+        "economic_affairs": {
+          "pct": 6.0,
+          "usd_billion": 404.19
+        },
+        "general_admin": {
+          "pct": 0.5,
+          "usd_billion": 35.32
+        },
+        "debt_interest": {
+          "pct": 13.1,
+          "usd_billion": 879.88
+        },
+        "public_order": {
+          "pct": 1.2,
+          "usd_billion": 83.79
+        },
+        "other": {
+          "pct": -1.3,
+          "usd_billion": -90.34
+        }
+      }
+    },
+    {
+      "fiscal_year": "FY2025",
+      "calendar_year": 2025,
+      "total_usd_billion": 7011.1,
+      "areas": {
+        "defense": {
+          "pct": 13.1,
+          "usd_billion": 916.14
+        },
+        "health": {
+          "pct": 30.3,
+          "usd_billion": 2124.06
+        },
+        "education": {
+          "pct": 1.3,
+          "usd_billion": 88.42
+        },
+        "social_protection": {
+          "pct": 35.6,
+          "usd_billion": 2494.23
+        },
+        "economic_affairs": {
+          "pct": 5.7,
+          "usd_billion": 399.57
+        },
+        "general_admin": {
+          "pct": 0.6,
+          "usd_billion": 40.55
+        },
+        "debt_interest": {
+          "pct": 13.8,
+          "usd_billion": 970.06
+        },
+        "public_order": {
+          "pct": 1.2,
+          "usd_billion": 83.15
+        },
+        "other": {
+          "pct": -1.5,
+          "usd_billion": -105.08
+        }
+      }
+    }
+  ]
+}
