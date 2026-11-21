@@ -128,11 +128,26 @@
   ],
   "current_conflicts": "Peru faces internal challenges including political instability and social protests related to governance and economic inequality, but no active armed conflicts.",
   "five_youtube_video_titles": [
-    "Discover Peru: Machu Picchu and Beyond",
-    "Peruvian Cuisine: A Culinary Journey",
-    "The History of the Inca Empire",
-    "Exploring the Nazca Lines",
-    "Cultural Festivals of Peru"
+    {
+      "title": "Beyond Machu Picchu: Peru Unveils a Massive Lost Citadel",
+      "video_id": "_rmaThux1Qs"
+    },
+    {
+      "title": "Peruvian Cuisine: A Culinary Journey Through Peru!",
+      "video_id": "hcUdLpzOOk0"
+    },
+    {
+      "title": "History of the Inca Empire DOCUMENTARY",
+      "video_id": "iYYfg2tph3w"
+    },
+    {
+      "title": "Exploring The Nazca Lines & Searching For Atlantis: The Lost City | Our History",
+      "video_id": "gPwBRsT-pWs"
+    },
+    {
+      "title": "THE 5 BIGGEST FESTIVALS IN PERU🎉🎉",
+      "video_id": "JGn0n3PoFVY"
+    }
   ],
   "reference_map": {
     "image": "maps/countries/South America/peru.jpg",
